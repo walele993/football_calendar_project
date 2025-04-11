@@ -51,6 +51,6 @@ jobs:
       run: |
         git add all_matches.json
         git commit -m "Update football data"
-        git push https://github.com/walele993/football_calendar_project.git HEAD:main
+        git push https://$GH_TOKEN@github.com/walele993/football_calendar_project.git HEAD:main
       env:
         GH_TOKEN: ${{ secrets.Update_Football_Calendar_Token }}
