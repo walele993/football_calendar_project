@@ -43,7 +43,7 @@ jobs:
     - name: Set up GitHub authentication
       run: |
         git config --global user.email "meucci.gabriele1993@gmail.com"
-        git config --global user.name "walele993"
+        git config --global user.name "@walele993"
         git remote set-url origin https://github.com/walele993/football_calendar_project.git
         git fetch origin
 
