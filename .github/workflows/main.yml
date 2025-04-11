@@ -2,13 +2,13 @@ name: Update Football Data
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Runs daily at 00:00 UTC
-  workflow_dispatch:     # Allow manual triggering
+    - cron: '0 0 * * *'  # Esecuzione giornaliera alle 00:00 UTC
+  workflow_dispatch:     # Esecuzione manuale
 
 jobs:
   update_data:
     runs-on: ubuntu-latest
-    
+
     steps:
     - name: Checkout repository
       uses: actions/checkout@v4
@@ -16,16 +16,15 @@ jobs:
     - name: Set up Python
       uses: actions/setup-python@v4
       with:
-        python-version: '3.11'  # Specified version for consistency
+        python-version: '3.11'
 
     - name: Install dependencies
       run: |
-        pip install -r requirements.txt  # Ensure all deps are in requirements.txt
+        pip install -r requirements.txt
 
     - name: Clone football repositories
       run: |
-        set -e  # Exit immediately if any command fails
-        # Shallow clone for efficiency (only last commit)
+        set -e
         git clone --depth 1 https://github.com/openfootball/deutschland.git
         git clone --depth 1 https://github.com/openfootball/italy.git
         git clone --depth 1 https://github.com/openfootball/england.git
@@ -35,23 +34,21 @@ jobs:
         git clone --depth 1 https://github.com/openfootball/austria.git
 
     - name: Generate updated data
-      run: python3 converter.py  # Process data and create all_matches.json
+      run: python3 converter.py
 
     - name: Configure Git
       run: |
         git config --global user.email "meucci.gabriele1993@gmail.com"
         git config --global user.name "walele993"
-        # Authenticate using GitHub token
-        git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
 
     - name: Commit and push changes
+      env:
+        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
-        # Only commit if there are changes
         git add all_matches.json
         if ! git diff --staged --quiet; then
           git commit -m "Update football data (automated)"
-          git push origin HEAD:main
+          git push https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git HEAD:main
           echo "✅ Data updated successfully"
         else
           echo "🔄 No changes to commit"
-        fi
