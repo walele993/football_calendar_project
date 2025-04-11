@@ -1,0 +1,53 @@
+name: Update Football Data
+
+# Imposta il workflow per eseguire ogni notte
+on:
+  schedule:
+    # Esegue ogni notte alle 00:00 UTC
+    - cron: '0 0 * * *'
+  # Puoi anche forzare l'esecuzione manuale (opzionale)
+  workflow_dispatch:
+
+jobs:
+  update_data:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: |
+        pip install gitpython
+        pip install -r requirements.txt  # Installa le dipendenze se ci sono
+
+    - name: Clone repositories and update JSON
+      run: |
+        # Clona i repository necessari nella root del progetto
+        git clone https://github.com/openfootball/deutschland.git
+        git clone https://github.com/openfootball/italy.git
+        git clone https://github.com/openfootball/england.git
+        git clone https://github.com/openfootball/espana.git
+        git clone https://github.com/openfootball/champions-league.git
+        git clone https://github.com/openfootball/europe.git
+        git clone https://github.com/openfootball/austria.git
+
+        # Esegui lo script Python per aggiornare il JSON (convertilo per lavorare sulla root)
+        python3 converter.py  # Esegui il codice che aggiorna il file JSON nella root
+
+    - name: Commit updated data
+      run: |
+        git config --global user.email "meucci.gabriele1993@gmail.com"
+        git config --global user.name "walele993"
+        
+        # Aggiungi il file JSON aggiornato
+        git add all_matches.json  # Usa il nome del tuo file JSON aggiornato
+        
+        # Commit e push dei cambiamenti
+        git commit -m "Update football data"
+        git push origin main
