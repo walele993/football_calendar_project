@@ -53,4 +53,4 @@ jobs:
         git commit -m "Update football data"
         git push https://$GH_TOKEN@github.com/walele993/football_calendar_project.git HEAD:main
       env:
-        GH_TOKEN: ${{ secrets.Update_Football_Calendar_Token }}
+        GH_TOKEN: ${{ secrets.UPDATE_FOOTBALL_CALENDAR_TOKEN }}
