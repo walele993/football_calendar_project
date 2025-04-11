@@ -40,14 +40,17 @@ jobs:
         # Esegui lo script Python per aggiornare il JSON (convertilo per lavorare sulla root)
         python3 converter.py  # Esegui il codice che aggiorna il file JSON nella root
 
-    - name: Commit updated data
+    - name: Set up GitHub authentication
       run: |
         git config --global user.email "meucci.gabriele1993@gmail.com"
         git config --global user.name "walele993"
-        
-        # Aggiungi il file JSON aggiornato
-        git add all_matches.json  # Usa il nome del tuo file JSON aggiornato
-        
-        # Commit e push dei cambiamenti
+        git remote set-url origin https://github.com/walele993/football_calendar_project.git
+        git fetch origin
+
+    - name: Commit updated data
+      run: |
+        git add all_matches.json
         git commit -m "Update football data"
-        git push origin main
+        git push https://github.com/walele993/football_calendar_project.git HEAD:main
+      env:
+        GH_TOKEN: ${{ secrets.Update_Football_Calendar_Token }}
