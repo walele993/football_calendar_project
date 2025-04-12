@@ -38,9 +38,9 @@ jobs:
       env:
         TOKEN: ${{ secrets.UPDATE_FOOTBALL_CALENDAR_TOKEN }}
       run: |
-        git config --global user.email "meucci.gabriele1993@gmail.com"
+        git config --global user.email "gabale.ag@gmail.com"
         git config --global user.name "walele993"
-        git remote set-url origin https://x-access-token:${TOKEN}@github.com/${{ github.repository }}.git
+        git remote set-url origin https://x-access-token:${TOKEN}@github.com/football_calendar_project.git
 
         git add all_matches.json
         if ! git diff --staged --quiet; then
