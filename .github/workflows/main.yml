@@ -40,7 +40,7 @@ jobs:
       run: |
         git config --global user.email "gabale.ag@gmail.com"
         git config --global user.name "walele993"
-        git remote set-url origin https://x-access-token:${TOKEN}@github.com/football_calendar_project.git
+        git remote set-url origin https://x-access-token:${TOKEN}@github.com/walele993/football_calendar_project.git
 
         git add all_matches.json
         if ! git diff --staged --quiet; then
