@@ -16,7 +16,7 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v4
       with:
-        fetch-depth: 0  # Fetch the full history to allow pull/rebase
+        fetch-depth: 0  # Fetch full history for rebasing
 
     - name: Set up Python
       uses: actions/setup-python@v4
@@ -45,9 +45,13 @@ jobs:
         git config --global user.name "walele993"
         git remote set-url origin https://x-access-token:${{ secrets.UPDATE_FOOTBALL_CALENDAR_TOKEN }}@github.com/${{ github.repository }}.git
 
-    - name: Pull remote changes (rebase)
+    - name: Stash changes and pull remote updates
       run: |
+        # Stash any unstaged changes to have a clean state for pull/rebase
+        git stash --include-untracked
         git pull origin main --rebase
+        # Attempt to pop the stash; if there's nothing stashed, ignore the error
+        git stash pop || true
 
     - name: Commit and push changes
       run: |
