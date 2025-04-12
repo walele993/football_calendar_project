@@ -6,7 +6,7 @@ permissions:
 on:
   schedule:
     - cron: '0 0 * * *'  # Runs daily at 00:00 UTC
-  workflow_dispatch:     # Allows manual triggering
+  workflow_dispatch:     # Allow manual triggering
 
 jobs:
   update_data:
@@ -16,7 +16,7 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v4
       with:
-        fetch-depth: 0  # Ensures the full history is available
+        fetch-depth: 0  # Fetch the full history to allow pull/rebase
 
     - name: Set up Python
       uses: actions/setup-python@v4
@@ -39,20 +39,23 @@ jobs:
     - name: Generate updated data
       run: python3 converter.py
 
-    - name: Commit changes
+    - name: Configure Git
       run: |
         git config --global user.email "gabale.ag@gmail.com"
         git config --global user.name "walele993"
-        git add all_matches.json
-        git commit -m "Update football data (automated)"
+        git remote set-url origin https://x-access-token:${{ secrets.UPDATE_FOOTBALL_CALENDAR_TOKEN }}@github.com/${{ github.repository }}.git
 
-    - name: Create Pull Request
-      uses: peter-evans/create-pull-request@v4
-      with:
-        token: ${{ secrets.UPDATE_FOOTBALL_CALENDAR_TOKEN }}
-        title: "Update football data"
-        body: "This PR updates the football data with the latest information."
-        base: main
-        head: update-football-data
-        commit-message: "Update football data"
-        delete-branch: true
+    - name: Pull remote changes (rebase)
+      run: |
+        git pull origin main --rebase
+
+    - name: Commit and push changes
+      run: |
+        git add all_matches.json
+        if ! git diff --staged --quiet; then
+          git commit -m "Update football data (automated)"
+          git push origin HEAD:main
+          echo "✅ Data updated successfully"
+        else
+          echo "🔄 No changes to commit"
+        fi
