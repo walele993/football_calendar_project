@@ -2,8 +2,8 @@ name: Update Football Data
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Esecuzione giornaliera alle 00:00 UTC
-  workflow_dispatch:     # Esecuzione manuale
+    - cron: '0 0 * * *'  # Runs daily at 00:00 UTC
+  workflow_dispatch:     # Allow manual triggering
 
 jobs:
   update_data:
@@ -19,12 +19,10 @@ jobs:
         python-version: '3.11'
 
     - name: Install dependencies
-      run: |
-        pip install -r requirements.txt
+      run: pip install -r requirements.txt
 
     - name: Clone football repositories
       run: |
-        set -e
         git clone --depth 1 https://github.com/openfootball/deutschland.git
         git clone --depth 1 https://github.com/openfootball/italy.git
         git clone --depth 1 https://github.com/openfootball/england.git
@@ -36,19 +34,17 @@ jobs:
     - name: Generate updated data
       run: python3 converter.py
 
-    - name: Configure Git
+    - name: Commit and push changes
+      env:
+        TOKEN: ${{ secrets.UPDATE_FOOTBALL_CALENDAR_TOKEN }}
       run: |
         git config --global user.email "meucci.gabriele1993@gmail.com"
         git config --global user.name "walele993"
+        git remote set-url origin https://x-access-token:${TOKEN}@github.com/${{ github.repository }}.git
 
-    - name: Commit and push changes
-      env:
-        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      run: |
         git add all_matches.json
         if ! git diff --staged --quiet; then
           git commit -m "Update football data (automated)"
-          git push https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git HEAD:main
-          echo "✅ Data updated successfully"
+          git push origin HEAD:main
         else
           echo "🔄 No changes to commit"
