@@ -40,7 +40,7 @@ jobs:
       run: python3 converter.py
 
     - name: Include parsed_json folder
-      run: git add parsed_json/
+      run: git add -f parsed_json/*
 
     - name: Configure Git
       run: |
