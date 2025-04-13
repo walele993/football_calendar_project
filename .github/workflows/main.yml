@@ -59,7 +59,7 @@ jobs:
     - name: Commit and push changes
       run: |
         # Assuming that parsed_json is the folder where new JSON files are stored
-        git add parsed_json/*
+        git add -f parsed_json/*
         if ! git diff --staged --quiet; then
           git commit -m "Update football data (automated)"
           git push origin HEAD:main
