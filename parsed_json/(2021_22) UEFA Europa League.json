@@ -1,0 +1,1336 @@
+{
+  "league": "UEFA Europa League",
+  "season": "2021/22",
+  "matchdays": [
+    {
+      "matchday": "Group A",
+      "matches": [
+        {
+          "date": "2021-09-16",
+          "time": "21:00",
+          "home_team": "Brøndby IF (DEN)",
+          "away_team": "AC Sparta Praha (CZE)",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2021-09-16",
+          "time": "21:00",
+          "home_team": "Rangers FC (SCO)",
+          "away_team": "Olympique Lyonnais (FRA)",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-09-30",
+          "time": "18:45",
+          "home_team": "Olympique Lyonnais (FRA)",
+          "away_team": "Brøndby IF (DEN)",
+          "result": {
+            "full_time": "3-0"
+          }
+        },
+        {
+          "date": "2024-09-30",
+          "time": "18:45",
+          "home_team": "AC Sparta Praha (CZE)",
+          "away_team": "Rangers FC (SCO)",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-10-21",
+          "time": "21:00",
+          "home_team": "Rangers FC (SCO)",
+          "away_team": "Brøndby IF (DEN)",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-10-21",
+          "time": "21:00",
+          "home_team": "AC Sparta Praha (CZE)",
+          "away_team": "Olympique Lyonnais (FRA)",
+          "result": {
+            "full_time": "3-4"
+          }
+        },
+        {
+          "date": "2024-10-21",
+          "time": "18:45",
+          "home_team": "Brøndby IF (DEN)",
+          "away_team": "Rangers FC (SCO)",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-10-21",
+          "time": "18:45",
+          "home_team": "Olympique Lyonnais (FRA)",
+          "away_team": "AC Sparta Praha (CZE)",
+          "result": {
+            "full_time": "3-0"
+          }
+        },
+        {
+          "date": "2024-11-25",
+          "time": "21:00",
+          "home_team": "Brøndby IF (DEN)",
+          "away_team": "Olympique Lyonnais (FRA)",
+          "result": {
+            "full_time": "1-3"
+          }
+        },
+        {
+          "date": "2024-11-25",
+          "time": "21:00",
+          "home_team": "Rangers FC (SCO)",
+          "away_team": "AC Sparta Praha (CZE)",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-11-25",
+          "time": "18:45",
+          "home_team": "AC Sparta Praha (CZE)",
+          "away_team": "Brøndby IF (DEN)",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-11-25",
+          "time": "18:45",
+          "home_team": "Olympique Lyonnais (FRA)",
+          "away_team": "Rangers FC (SCO)",
+          "result": {
+            "full_time": "1-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Group B",
+      "matches": [
+        {
+          "date": "2024-09-16",
+          "time": "21:00",
+          "home_team": "AS Monaco (FRA)",
+          "away_team": "Sturm Graz (AUT)",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-09-16",
+          "time": "21:00",
+          "home_team": "PSV Eindhoven (NED)",
+          "away_team": "Real Sociedad (ESP)",
+          "result": {
+            "full_time": "2-2"
+          }
+        },
+        {
+          "date": "2024-09-30",
+          "time": "18:45",
+          "home_team": "Real Sociedad (ESP)",
+          "away_team": "AS Monaco (FRA)",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-09-30",
+          "time": "18:45",
+          "home_team": "Sturm Graz (AUT)",
+          "away_team": "PSV Eindhoven (NED)",
+          "result": {
+            "full_time": "1-4"
+          }
+        },
+        {
+          "date": "2024-10-21",
+          "time": "21:00",
+          "home_team": "PSV Eindhoven (NED)",
+          "away_team": "AS Monaco (FRA)",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-10-21",
+          "time": "21:00",
+          "home_team": "Sturm Graz (AUT)",
+          "away_team": "Real Sociedad (ESP)",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-10-21",
+          "time": "18:45",
+          "home_team": "AS Monaco (FRA)",
+          "away_team": "PSV Eindhoven (NED)",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-10-21",
+          "time": "18:45",
+          "home_team": "Real Sociedad (ESP)",
+          "away_team": "Sturm Graz (AUT)",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-11-25",
+          "time": "21:00",
+          "home_team": "AS Monaco (FRA)",
+          "away_team": "Real Sociedad (ESP)",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-11-25",
+          "time": "21:00",
+          "home_team": "PSV Eindhoven (NED)",
+          "away_team": "Sturm Graz (AUT)",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-11-25",
+          "time": "18:45",
+          "home_team": "Sturm Graz (AUT)",
+          "away_team": "AS Monaco (FRA)",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-11-25",
+          "time": "18:45",
+          "home_team": "Real Sociedad (ESP)",
+          "away_team": "PSV Eindhoven (NED)",
+          "result": {
+            "full_time": "3-0"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Group C",
+      "matches": [
+        {
+          "date": "2024-09-15",
+          "time": "16:30",
+          "home_team": "Spartak Moskva (RUS)",
+          "away_team": "Legia Warszawa (POL)",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-09-16",
+          "time": "21:00",
+          "home_team": "Leicester City (ENG)",
+          "away_team": "SSC Napoli (ITA)",
+          "result": {
+            "full_time": "2-2"
+          }
+        },
+        {
+          "date": "2024-09-30",
+          "time": "18:45",
+          "home_team": "Legia Warszawa (POL)",
+          "away_team": "Leicester City (ENG)",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-09-30",
+          "time": "18:45",
+          "home_team": "SSC Napoli (ITA)",
+          "away_team": "Spartak Moskva (RUS)",
+          "result": {
+            "full_time": "2-3"
+          }
+        },
+        {
+          "date": "2024-10-20",
+          "time": "16:30",
+          "home_team": "Spartak Moskva (RUS)",
+          "away_team": "Leicester City (ENG)",
+          "result": {
+            "full_time": "3-4"
+          }
+        },
+        {
+          "date": "2024-10-21",
+          "time": "21:00",
+          "home_team": "SSC Napoli (ITA)",
+          "away_team": "Legia Warszawa (POL)",
+          "result": {
+            "full_time": "3-0"
+          }
+        },
+        {
+          "date": "2024-10-21",
+          "time": "18:45",
+          "home_team": "Legia Warszawa (POL)",
+          "away_team": "SSC Napoli (ITA)",
+          "result": {
+            "full_time": "1-4"
+          }
+        },
+        {
+          "date": "2024-10-21",
+          "time": "21:00",
+          "home_team": "Leicester City (ENG)",
+          "away_team": "Spartak Moskva (RUS)",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-11-24",
+          "time": "16:30",
+          "home_team": "Spartak Moskva (RUS)",
+          "away_team": "SSC Napoli (ITA)",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-11-25",
+          "time": "21:00",
+          "home_team": "Leicester City (ENG)",
+          "away_team": "Legia Warszawa (POL)",
+          "result": {
+            "full_time": "3-1"
+          }
+        },
+        {
+          "date": "2024-11-25",
+          "time": "18:45",
+          "home_team": "Legia Warszawa (POL)",
+          "away_team": "Spartak Moskva (RUS)",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-11-25",
+          "time": "18:45",
+          "home_team": "SSC Napoli (ITA)",
+          "away_team": "Leicester City (ENG)",
+          "result": {
+            "full_time": "3-2"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Group D",
+      "matches": [
+        {
+          "date": "2024-09-16",
+          "time": "21:00",
+          "home_team": "Eintracht Frankfurt (GER)",
+          "away_team": "Fenerbahçe (TUR)",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-09-16",
+          "time": "21:00",
+          "home_team": "Olympiakos Piraeus (GRE)",
+          "away_team": "Royal Antwerp FC (BEL)",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-09-30",
+          "time": "18:45",
+          "home_team": "Royal Antwerp FC (BEL)",
+          "away_team": "Eintracht Frankfurt (GER)",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-09-30",
+          "time": "18:45",
+          "home_team": "Fenerbahçe (TUR)",
+          "away_team": "Olympiakos Piraeus (GRE)",
+          "result": {
+            "full_time": "0-3"
+          }
+        },
+        {
+          "date": "2024-10-21",
+          "time": "18:45",
+          "home_team": "Fenerbahçe (TUR)",
+          "away_team": "Royal Antwerp FC (BEL)",
+          "result": {
+            "full_time": "2-2"
+          }
+        },
+        {
+          "date": "2024-10-21",
+          "time": "21:00",
+          "home_team": "Eintracht Frankfurt (GER)",
+          "away_team": "Olympiakos Piraeus (GRE)",
+          "result": {
+            "full_time": "3-1"
+          }
+        },
+        {
+          "date": "2024-10-21",
+          "time": "18:45",
+          "home_team": "Olympiakos Piraeus (GRE)",
+          "away_team": "Eintracht Frankfurt (GER)",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-10-21",
+          "time": "21:00",
+          "home_team": "Royal Antwerp FC (BEL)",
+          "away_team": "Fenerbahçe (TUR)",
+          "result": {
+            "full_time": "0-3"
+          }
+        },
+        {
+          "date": "2024-11-25",
+          "time": "21:00",
+          "home_team": "Eintracht Frankfurt (GER)",
+          "away_team": "Royal Antwerp FC (BEL)",
+          "result": {
+            "full_time": "2-2"
+          }
+        },
+        {
+          "date": "2024-11-25",
+          "time": "21:00",
+          "home_team": "Olympiakos Piraeus (GRE)",
+          "away_team": "Fenerbahçe (TUR)",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-11-25",
+          "time": "18:45",
+          "home_team": "Fenerbahçe (TUR)",
+          "away_team": "Eintracht Frankfurt (GER)",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-11-25",
+          "time": "18:45",
+          "home_team": "Royal Antwerp FC (BEL)",
+          "away_team": "Olympiakos Piraeus (GRE)",
+          "result": {
+            "full_time": "1-0"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Group E",
+      "matches": [
+        {
+          "date": "2024-09-16",
+          "time": "18:45",
+          "home_team": "Galatasaray (TUR)",
+          "away_team": "Lazio Roma (ITA)",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-09-16",
+          "time": "18:45",
+          "home_team": "Lokomotiv Moskva (RUS)",
+          "away_team": "Olympique Marseille (FRA)",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-09-30",
+          "time": "21:00",
+          "home_team": "Olympique Marseille (FRA)",
+          "away_team": "Galatasaray (TUR)",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-09-30",
+          "time": "21:00",
+          "home_team": "Lazio Roma (ITA)",
+          "away_team": "Lokomotiv Moskva (RUS)",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-10-21",
+          "time": "18:45",
+          "home_team": "Lazio Roma (ITA)",
+          "away_team": "Olympique Marseille (FRA)",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-10-21",
+          "time": "21:00",
+          "home_team": "Lokomotiv Moskva (RUS)",
+          "away_team": "Galatasaray (TUR)",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-10-21",
+          "time": "18:45",
+          "home_team": "Galatasaray (TUR)",
+          "away_team": "Lokomotiv Moskva (RUS)",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-10-21",
+          "time": "21:00",
+          "home_team": "Olympique Marseille (FRA)",
+          "away_team": "Lazio Roma (ITA)",
+          "result": {
+            "full_time": "2-2"
+          }
+        },
+        {
+          "date": "2024-11-25",
+          "time": "18:45",
+          "home_team": "Galatasaray (TUR)",
+          "away_team": "Olympique Marseille (FRA)",
+          "result": {
+            "full_time": "4-2"
+          }
+        },
+        {
+          "date": "2024-11-25",
+          "time": "18:45",
+          "home_team": "Lokomotiv Moskva (RUS)",
+          "away_team": "Lazio Roma (ITA)",
+          "result": {
+            "full_time": "0-3"
+          }
+        },
+        {
+          "date": "2024-11-25",
+          "time": "21:00",
+          "home_team": "Lazio Roma (ITA)",
+          "away_team": "Galatasaray (TUR)",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-11-25",
+          "time": "21:00",
+          "home_team": "Olympique Marseille (FRA)",
+          "away_team": "Lokomotiv Moskva (RUS)",
+          "result": {
+            "full_time": "1-0"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Group F",
+      "matches": [
+        {
+          "date": "2024-09-16",
+          "time": "18:45",
+          "home_team": "Crvena Zvezda (SRB)",
+          "away_team": "Sporting Braga (POR)",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-09-16",
+          "time": "18:45",
+          "home_team": "FC Midtjylland (DEN)",
+          "away_team": "PFC Ludogorets Razgrad (BUL)",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-09-30",
+          "time": "21:00",
+          "home_team": "PFC Ludogorets Razgrad (BUL)",
+          "away_team": "Crvena Zvezda (SRB)",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-09-30",
+          "time": "21:00",
+          "home_team": "Sporting Braga (POR)",
+          "away_team": "FC Midtjylland (DEN)",
+          "result": {
+            "full_time": "3-1"
+          }
+        },
+        {
+          "date": "2024-10-21",
+          "time": "18:45",
+          "home_team": "FC Midtjylland (DEN)",
+          "away_team": "Crvena Zvezda (SRB)",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-10-21",
+          "time": "18:45",
+          "home_team": "PFC Ludogorets Razgrad (BUL)",
+          "away_team": "Sporting Braga (POR)",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-10-21",
+          "time": "21:00",
+          "home_team": "Crvena Zvezda (SRB)",
+          "away_team": "FC Midtjylland (DEN)",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-10-21",
+          "time": "21:00",
+          "home_team": "Sporting Braga (POR)",
+          "away_team": "PFC Ludogorets Razgrad (BUL)",
+          "result": {
+            "full_time": "4-2"
+          }
+        },
+        {
+          "date": "2024-11-25",
+          "time": "18:45",
+          "home_team": "Crvena Zvezda (SRB)",
+          "away_team": "PFC Ludogorets Razgrad (BUL)",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-11-25",
+          "time": "18:45",
+          "home_team": "FC Midtjylland (DEN)",
+          "away_team": "Sporting Braga (POR)",
+          "result": {
+            "full_time": "3-2"
+          }
+        },
+        {
+          "date": "2024-11-25",
+          "time": "21:00",
+          "home_team": "Sporting Braga (POR)",
+          "away_team": "Crvena Zvezda (SRB)",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-11-25",
+          "time": "21:00",
+          "home_team": "PFC Ludogorets Razgrad (BUL)",
+          "away_team": "FC Midtjylland (DEN)",
+          "result": {
+            "full_time": "0-0"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Gruppe G",
+      "matches": [
+        {
+          "date": "2024-09-16",
+          "time": "18:45",
+          "home_team": "Bayer Leverkusen (GER)",
+          "away_team": "Ferencvárosi TC (HUN)",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-09-16",
+          "time": "18:45",
+          "home_team": "Real Betis (ESP)",
+          "away_team": "Celtic FC (SCO)",
+          "result": {
+            "full_time": "4-3"
+          }
+        },
+        {
+          "date": "2024-09-30",
+          "time": "21:00",
+          "home_team": "Celtic FC (SCO)",
+          "away_team": "Bayer Leverkusen (GER)",
+          "result": {
+            "full_time": "0-4"
+          }
+        },
+        {
+          "date": "2024-09-30",
+          "time": "21:00",
+          "home_team": "Ferencvárosi TC (HUN)",
+          "away_team": "Real Betis (ESP)",
+          "result": {
+            "full_time": "1-3"
+          }
+        },
+        {
+          "date": "2024-10-19",
+          "time": "16:30",
+          "home_team": "Celtic FC (SCO)",
+          "away_team": "Ferencvárosi TC (HUN)",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-10-21",
+          "time": "18:45",
+          "home_team": "Real Betis (ESP)",
+          "away_team": "Bayer Leverkusen (GER)",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-10-21",
+          "time": "21:00",
+          "home_team": "Bayer Leverkusen (GER)",
+          "away_team": "Real Betis (ESP)",
+          "result": {
+            "full_time": "4-0"
+          }
+        },
+        {
+          "date": "2024-10-21",
+          "time": "21:00",
+          "home_team": "Ferencvárosi TC (HUN)",
+          "away_team": "Celtic FC (SCO)",
+          "result": {
+            "full_time": "2-3"
+          }
+        },
+        {
+          "date": "2024-11-25",
+          "time": "18:45",
+          "home_team": "Bayer Leverkusen (GER)",
+          "away_team": "Celtic FC (SCO)",
+          "result": {
+            "full_time": "3-2"
+          }
+        },
+        {
+          "date": "2024-11-25",
+          "time": "18:45",
+          "home_team": "Real Betis (ESP)",
+          "away_team": "Ferencvárosi TC (HUN)",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-11-25",
+          "time": "21:00",
+          "home_team": "Ferencvárosi TC (HUN)",
+          "away_team": "Bayer Leverkusen (GER)",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-11-25",
+          "time": "21:00",
+          "home_team": "Celtic FC (SCO)",
+          "away_team": "Real Betis (ESP)",
+          "result": {
+            "full_time": "3-2"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Gruppe H",
+      "matches": [
+        {
+          "date": "2024-09-16",
+          "time": "18:45",
+          "home_team": "Dinamo Zagreb (CRO)",
+          "away_team": "West Ham United (ENG)",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-09-16",
+          "time": "18:45",
+          "home_team": "Rapid Wien (AUT)",
+          "away_team": "KRC Genk (BEL)",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-09-30",
+          "time": "21:00",
+          "home_team": "KRC Genk (BEL)",
+          "away_team": "Dinamo Zagreb (CRO)",
+          "result": {
+            "full_time": "0-3"
+          }
+        },
+        {
+          "date": "2024-09-30",
+          "time": "21:00",
+          "home_team": "West Ham United (ENG)",
+          "away_team": "Rapid Wien (AUT)",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-10-21",
+          "time": "18:45",
+          "home_team": "Rapid Wien (AUT)",
+          "away_team": "Dinamo Zagreb (CRO)",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-10-21",
+          "time": "21:00",
+          "home_team": "West Ham United (ENG)",
+          "away_team": "KRC Genk (BEL)",
+          "result": {
+            "full_time": "3-0"
+          }
+        },
+        {
+          "date": "2024-10-21",
+          "time": "18:45",
+          "home_team": "KRC Genk (BEL)",
+          "away_team": "West Ham United (ENG)",
+          "result": {
+            "full_time": "2-2"
+          }
+        },
+        {
+          "date": "2024-10-21",
+          "time": "21:00",
+          "home_team": "Dinamo Zagreb (CRO)",
+          "away_team": "Rapid Wien (AUT)",
+          "result": {
+            "full_time": "3-1"
+          }
+        },
+        {
+          "date": "2024-11-25",
+          "time": "18:45",
+          "home_team": "Dinamo Zagreb (CRO)",
+          "away_team": "KRC Genk (BEL)",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-11-25",
+          "time": "18:45",
+          "home_team": "Rapid Wien (AUT)",
+          "away_team": "West Ham United (ENG)",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-11-25",
+          "time": "21:00",
+          "home_team": "West Ham United (ENG)",
+          "away_team": "Dinamo Zagreb (CRO)",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-11-25",
+          "time": "21:00",
+          "home_team": "KRC Genk (BEL)",
+          "away_team": "Rapid Wien (AUT)",
+          "result": {
+            "full_time": "0-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Playoffs",
+      "matches": [
+        {
+          "date": "2022-02-17",
+          "time": "18:45",
+          "home_team": "FC Barcelona (ESP)",
+          "away_team": "SSC Napoli (ITA)",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2022-02-17",
+          "time": "18:45",
+          "home_team": "Zenit St. Petersburg (RUS)",
+          "away_team": "Real Betis (ESP)",
+          "result": {
+            "full_time": "2-3"
+          }
+        },
+        {
+          "date": "2022-02-17",
+          "time": "18:45",
+          "home_team": "Borussia Dortmund (GER)",
+          "away_team": "Rangers FC (SCO)",
+          "result": {
+            "full_time": "2-4"
+          }
+        },
+        {
+          "date": "2022-02-17",
+          "time": "18:45",
+          "home_team": "FC Sheriff (MDA)",
+          "away_team": "Sporting Braga (POR)",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2022-02-17",
+          "time": "21:00",
+          "home_team": "Sevilla FC (ESP)",
+          "away_team": "Dinamo Zagreb (CRO)",
+          "result": {
+            "full_time": "3-1"
+          }
+        },
+        {
+          "date": "2022-02-17",
+          "time": "21:00",
+          "home_team": "Atalanta (ITA)",
+          "away_team": "Olympiakos Piraeus (GRE)",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2022-02-17",
+          "time": "21:00",
+          "home_team": "RB Leipzig (GER)",
+          "away_team": "Real Sociedad (ESP)",
+          "result": {
+            "full_time": "2-2"
+          }
+        },
+        {
+          "date": "2022-02-17",
+          "time": "21:00",
+          "home_team": "FC Porto (POR)",
+          "away_team": "Lazio Roma (ITA)",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-02-24",
+          "time": "18:45",
+          "home_team": "Dinamo Zagreb (CRO)",
+          "away_team": "Sevilla FC (ESP)",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-02-24",
+          "time": "18:45",
+          "home_team": "Olympiakos Piraeus (GRE)",
+          "away_team": "Atalanta (ITA)",
+          "result": {
+            "full_time": "0-3"
+          }
+        },
+        {
+          "date": "2024-02-24",
+          "time": "18:45",
+          "home_team": "Real Sociedad (ESP)",
+          "away_team": "RB Leipzig (GER)",
+          "result": {
+            "full_time": "1-3"
+          }
+        },
+        {
+          "date": "2024-02-24",
+          "time": "18:45",
+          "home_team": "Lazio Roma (ITA)",
+          "away_team": "FC Porto (POR)",
+          "result": {
+            "full_time": "2-2"
+          }
+        },
+        {
+          "date": "2024-02-24",
+          "time": "21:00",
+          "home_team": "SSC Napoli (ITA)",
+          "away_team": "FC Barcelona (ESP)",
+          "result": {
+            "full_time": "2-4"
+          }
+        },
+        {
+          "date": "2024-02-24",
+          "time": "21:00",
+          "home_team": "Real Betis (ESP)",
+          "away_team": "Zenit St. Petersburg (RUS)",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-02-24",
+          "time": "21:00",
+          "home_team": "Rangers FC (SCO)",
+          "away_team": "Borussia Dortmund (GER)",
+          "result": {
+            "full_time": "2-2"
+          }
+        },
+        {
+          "date": "2024-02-24",
+          "time": "21:00",
+          "home_team": "Sporting Braga (POR)",
+          "away_team": "FC Sheriff (MDA)",
+          "result": {
+            "full_time": "3-2"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Round of 16",
+      "matches": [
+        {
+          "date": "2024-02-24",
+          "time": "18:45",
+          "home_team": "FC Porto (POR)",
+          "away_team": "Olympique Lyonnais (FRA)",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-02-24",
+          "time": "18:45",
+          "home_team": "Real Betis (ESP)",
+          "away_team": "Eintracht Frankfurt (GER)",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-03-10",
+          "time": "18:45",
+          "home_team": "RB Leipzig (GER)",
+          "away_team": "Spartak Moskva (RUS)",
+          "result": "cancelled"
+        },
+        {
+          "date": "2024-03-10",
+          "time": "18:45",
+          "home_team": "Sevilla FC (ESP)",
+          "away_team": "West Ham United (ENG)",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-03-10",
+          "time": "21:00",
+          "home_team": "Rangers FC (SCO)",
+          "away_team": "Crvena Zvezda (SRB)",
+          "result": {
+            "full_time": "3-0"
+          }
+        },
+        {
+          "date": "2024-03-10",
+          "time": "21:00",
+          "home_team": "Sporting Braga (POR)",
+          "away_team": "AS Monaco (FRA)",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-03-10",
+          "time": "21:00",
+          "home_team": "Atalanta (ITA)",
+          "away_team": "Bayer Leverkusen (GER)",
+          "result": {
+            "full_time": "3-2"
+          }
+        },
+        {
+          "date": "2024-03-10",
+          "time": "21:00",
+          "home_team": "FC Barcelona (ESP)",
+          "away_team": "Galatasaray (TUR)",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-03-17",
+          "time": "21:00",
+          "home_team": "Spartak Moskva (RUS)",
+          "away_team": "RB Leipzig (GER)",
+          "result": "cancelled"
+        },
+        {
+          "date": "2024-03-17",
+          "time": "18:45",
+          "home_team": "Crvena Zvezda (SRB)",
+          "away_team": "Rangers FC (SCO)",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-03-17",
+          "time": "18:45",
+          "home_team": "AS Monaco (FRA)",
+          "away_team": "Sporting Braga (POR)",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-03-17",
+          "time": "18:45",
+          "home_team": "Bayer Leverkusen (GER)",
+          "away_team": "Atalanta (ITA)",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-03-17",
+          "time": "18:45",
+          "home_team": "Galatasaray (TUR)",
+          "away_team": "FC Barcelona (ESP)",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-03-17",
+          "time": "21:00",
+          "home_team": "Olympique Lyonnais (FRA)",
+          "away_team": "FC Porto (POR)",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-03-17",
+          "time": "21:00",
+          "home_team": "West Ham United (ENG)",
+          "away_team": "Sevilla FC (ESP)",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-03-17",
+          "time": "21:00",
+          "home_team": "Eintracht Frankfurt (GER)",
+          "away_team": "Real Betis (ESP)",
+          "result": {
+            "full_time": "1-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Quarterfinals",
+      "matches": [
+        {
+          "date": "2024-03-17",
+          "time": "18:45",
+          "home_team": "RB Leipzig (GER)",
+          "away_team": "Atalanta (ITA)",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-03-17",
+          "time": "21:00",
+          "home_team": "Eintracht Frankfurt (GER)",
+          "away_team": "FC Barcelona (ESP)",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-03-17",
+          "time": "21:00",
+          "home_team": "West Ham United (ENG)",
+          "away_team": "Olympique Lyonnais (FRA)",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-03-17",
+          "time": "21:00",
+          "home_team": "Sporting Braga (POR)",
+          "away_team": "Rangers FC (SCO)",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-04-14",
+          "time": "18:45",
+          "home_team": "Atalanta (ITA)",
+          "away_team": "RB Leipzig (GER)",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-04-14",
+          "time": "21:00",
+          "home_team": "FC Barcelona (ESP)",
+          "away_team": "Eintracht Frankfurt (GER)",
+          "result": {
+            "full_time": "2-3"
+          }
+        },
+        {
+          "date": "2024-04-14",
+          "time": "21:00",
+          "home_team": "Olympique Lyonnais (FRA)",
+          "away_team": "West Ham United (ENG)",
+          "result": {
+            "full_time": "0-3"
+          }
+        },
+        {
+          "date": "2024-04-14",
+          "time": "21:00",
+          "home_team": "Rangers FC (SCO)",
+          "away_team": "Sporting Braga (POR)",
+          "result": {
+            "full_time": "3-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Semifinals",
+      "matches": [
+        {
+          "date": "2024-04-28",
+          "time": "21:00",
+          "home_team": "RB Leipzig (GER)",
+          "away_team": "Rangers FC (SCO)",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-04-28",
+          "time": "21:00",
+          "home_team": "West Ham United (ENG)",
+          "away_team": "Eintracht Frankfurt (GER)",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-04-28",
+          "time": "21:00",
+          "home_team": "Rangers FC (SCO)",
+          "away_team": "RB Leipzig (GER)",
+          "result": {
+            "full_time": "3-1"
+          }
+        },
+        {
+          "date": "2024-04-28",
+          "time": "21:00",
+          "home_team": "Eintracht Frankfurt (GER)",
+          "away_team": "West Ham United (ENG)",
+          "result": {
+            "full_time": "1-0"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Final",
+      "matches": [
+        {
+          "date": "2024-05-18",
+          "time": "21:00",
+          "home_team": "Eintracht Frankfurt (GER)",
+          "away_team": "Rangers FC (SCO)",
+          "result": {
+            "full_time": "5-4"
+          }
+        }
+      ]
+    }
+  ]
+}

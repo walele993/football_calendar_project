@@ -1,0 +1,2858 @@
+{
+  "league": "Portuguese Segunda Liga",
+  "season": "2021/22",
+  "matchdays": [
+    {
+      "matchday": "Matchday 1",
+      "matches": [
+        {
+          "date": "2024-08-10",
+          "time": "18:00",
+          "home_team": "Leixões SC",
+          "away_team": "SC Farense",
+          "result": {
+            "full_time": "3-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 2",
+      "matches": [
+        {
+          "date": "2024-08-13",
+          "time": "18:00",
+          "home_team": "CD Trofense",
+          "away_team": "Estrela Amadora",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-08-14",
+          "time": "11:00",
+          "home_team": "Académica de Coimbra",
+          "away_team": "Varzim SC",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-08-14",
+          "time": "14:00",
+          "home_team": "Casa Pia AC",
+          "away_team": "FC Porto B",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-08-14",
+          "time": "18:00",
+          "home_team": "CD Mafra",
+          "away_team": "CD Feirense",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-08-15",
+          "time": "11:00",
+          "home_team": "SC Farense",
+          "away_team": "Rio Ave FC",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-08-15",
+          "time": "14:00",
+          "home_team": "FC Penafiel",
+          "away_team": "SL Benfica B",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-08-15",
+          "time": "15:30",
+          "home_team": "CD Nacional",
+          "away_team": "UD Vilafranquense",
+          "result": {
+            "full_time": "4-0"
+          }
+        },
+        {
+          "date": "2024-08-15",
+          "time": "19:30",
+          "home_team": "Sporting Covilhã",
+          "away_team": "Académico de Viseu",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-08-16",
+          "time": "18:00",
+          "home_team": "GD Chaves",
+          "away_team": "Leixões SC",
+          "result": {
+            "full_time": "1-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 3",
+      "matches": [
+        {
+          "date": "2024-08-21",
+          "time": "11:00",
+          "home_team": "Estrela Amadora",
+          "away_team": "SC Farense",
+          "result": {
+            "full_time": "3-1"
+          }
+        },
+        {
+          "date": "2024-08-21",
+          "time": "14:00",
+          "home_team": "FC Penafiel",
+          "away_team": "Casa Pia AC",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-08-22",
+          "time": "11:00",
+          "home_team": "Varzim SC",
+          "away_team": "Rio Ave FC",
+          "result": {
+            "full_time": "0-3"
+          }
+        },
+        {
+          "date": "2024-08-22",
+          "time": "14:00",
+          "home_team": "Leixões SC",
+          "away_team": "Académica de Coimbra",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-08-22",
+          "time": "15:30",
+          "home_team": "FC Porto B",
+          "away_team": "CD Nacional",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-08-22",
+          "time": "18:00",
+          "home_team": "Académico de Viseu",
+          "away_team": "CD Mafra",
+          "result": {
+            "full_time": "1-3"
+          }
+        },
+        {
+          "date": "2024-08-22",
+          "time": "18:00",
+          "home_team": "SL Benfica B",
+          "away_team": "CD Trofense",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-08-22",
+          "time": "19:30",
+          "home_team": "CD Feirense",
+          "away_team": "GD Chaves",
+          "result": {
+            "full_time": "3-1"
+          }
+        },
+        {
+          "date": "2024-08-23",
+          "time": "18:00",
+          "home_team": "UD Vilafranquense",
+          "away_team": "Sporting Covilhã",
+          "result": {
+            "full_time": "1-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 4",
+      "matches": [
+        {
+          "date": "2024-08-26",
+          "time": "18:00",
+          "home_team": "GD Chaves",
+          "away_team": "Académico de Viseu",
+          "result": {
+            "full_time": "3-0"
+          }
+        },
+        {
+          "date": "2024-08-28",
+          "time": "11:00",
+          "home_team": "Casa Pia AC",
+          "away_team": "SL Benfica B",
+          "result": {
+            "full_time": "4-2"
+          }
+        },
+        {
+          "date": "2024-08-28",
+          "time": "14:00",
+          "home_team": "Rio Ave FC",
+          "away_team": "Leixões SC",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-08-28",
+          "time": "15:30",
+          "home_team": "CD Nacional",
+          "away_team": "Varzim SC",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-08-29",
+          "time": "11:00",
+          "home_team": "Sporting Covilhã",
+          "away_team": "FC Porto B",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-08-29",
+          "time": "19:30",
+          "home_team": "SC Farense",
+          "away_team": "CD Feirense",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-08-30",
+          "time": "19:00",
+          "home_team": "CD Mafra",
+          "away_team": "UD Vilafranquense",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-08-30",
+          "time": "21:15",
+          "home_team": "CD Trofense",
+          "away_team": "FC Penafiel",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-09-16",
+          "time": "20:15",
+          "home_team": "Académica de Coimbra",
+          "away_team": "Estrela Amadora",
+          "result": {
+            "full_time": "2-2"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 5",
+      "matches": [
+        {
+          "date": "2024-09-10",
+          "time": "20:15",
+          "home_team": "Estrela Amadora",
+          "away_team": "Rio Ave FC",
+          "result": {
+            "full_time": "2-5"
+          }
+        },
+        {
+          "date": "2024-09-11",
+          "time": "11:00",
+          "home_team": "SL Benfica B",
+          "away_team": "Sporting Covilhã",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-09-11",
+          "time": "11:00",
+          "home_team": "CD Feirense",
+          "away_team": "Académica de Coimbra",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-09-12",
+          "time": "11:00",
+          "home_team": "FC Penafiel",
+          "away_team": "CD Nacional",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-09-12",
+          "time": "11:00",
+          "home_team": "UD Vilafranquense",
+          "away_team": "GD Chaves",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-09-12",
+          "time": "14:00",
+          "home_team": "Leixões SC",
+          "away_team": "Varzim SC",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-09-12",
+          "time": "15:30",
+          "home_team": "FC Porto B",
+          "away_team": "CD Mafra",
+          "result": {
+            "full_time": "3-1"
+          }
+        },
+        {
+          "date": "2024-09-12",
+          "time": "15:30",
+          "home_team": "CD Trofense",
+          "away_team": "Casa Pia AC",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-09-13",
+          "time": "19:30",
+          "home_team": "Académico de Viseu",
+          "away_team": "SC Farense",
+          "result": {
+            "full_time": "2-2"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 6",
+      "matches": [
+        {
+          "date": "2024-09-17",
+          "time": "18:00",
+          "home_team": "Sporting Covilhã",
+          "away_team": "FC Penafiel",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-09-18",
+          "time": "11:00",
+          "home_team": "Rio Ave FC",
+          "away_team": "CD Feirense",
+          "result": {
+            "full_time": "0-4"
+          }
+        },
+        {
+          "date": "2024-09-18",
+          "time": "15:30",
+          "home_team": "CD Mafra",
+          "away_team": "CD Trofense",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-09-19",
+          "time": "11:00",
+          "home_team": "CD Nacional",
+          "away_team": "Casa Pia AC",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-09-19",
+          "time": "11:00",
+          "home_team": "SC Farense",
+          "away_team": "SL Benfica B",
+          "result": {
+            "full_time": "2-2"
+          }
+        },
+        {
+          "date": "2024-09-19",
+          "time": "14:00",
+          "home_team": "GD Chaves",
+          "away_team": "FC Porto B",
+          "result": {
+            "full_time": "4-2"
+          }
+        },
+        {
+          "date": "2024-09-20",
+          "time": "18:00",
+          "home_team": "Académica de Coimbra",
+          "away_team": "UD Vilafranquense",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-09-20",
+          "time": "19:30",
+          "home_team": "Leixões SC",
+          "away_team": "Académico de Viseu",
+          "result": {
+            "full_time": "1-4"
+          }
+        },
+        {
+          "date": "2024-09-21",
+          "time": "18:00",
+          "home_team": "Varzim SC",
+          "away_team": "Estrela Amadora",
+          "result": {
+            "full_time": "3-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 7",
+      "matches": [
+        {
+          "date": "2024-09-21",
+          "time": "11:00",
+          "home_team": "Estrela Amadora",
+          "away_team": "Leixões SC",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-09-21",
+          "time": "14:00",
+          "home_team": "Académico de Viseu",
+          "away_team": "Académica de Coimbra",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-09-21",
+          "time": "11:00",
+          "home_team": "CD Feirense",
+          "away_team": "Varzim SC",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-09-21",
+          "time": "14:00",
+          "home_team": "SL Benfica B",
+          "away_team": "GD Chaves",
+          "result": {
+            "full_time": "3-1"
+          }
+        },
+        {
+          "date": "2024-09-21",
+          "time": "14:00",
+          "home_team": "FC Penafiel",
+          "away_team": "CD Mafra",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-09-21",
+          "time": "15:00",
+          "home_team": "Casa Pia AC",
+          "away_team": "Sporting Covilhã",
+          "result": {
+            "full_time": "4-0"
+          }
+        },
+        {
+          "date": "2024-09-21",
+          "time": "15:30",
+          "home_team": "FC Porto B",
+          "away_team": "Rio Ave FC",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-09-21",
+          "time": "19:30",
+          "home_team": "UD Vilafranquense",
+          "away_team": "SC Farense",
+          "result": {
+            "full_time": "2-2"
+          }
+        },
+        {
+          "date": "2024-09-21",
+          "time": "20:15",
+          "home_team": "CD Trofense",
+          "away_team": "CD Nacional",
+          "result": {
+            "full_time": "0-3"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 8",
+      "matches": [
+        {
+          "date": "2024-10-10",
+          "time": "11:00",
+          "home_team": "Rio Ave FC",
+          "away_team": "UD Vilafranquense",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-10-10",
+          "time": "14:00",
+          "home_team": "Sporting Covilhã",
+          "away_team": "CD Nacional",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-10-10",
+          "time": "15:30",
+          "home_team": "CD Mafra",
+          "away_team": "Casa Pia AC",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-10-10",
+          "time": "16:30",
+          "home_team": "Leixões SC",
+          "away_team": "CD Feirense",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-10-10",
+          "time": "19:00",
+          "home_team": "GD Chaves",
+          "away_team": "FC Penafiel",
+          "result": {
+            "full_time": "3-1"
+          }
+        },
+        {
+          "date": "2024-10-10",
+          "time": "19:30",
+          "home_team": "Estrela Amadora",
+          "away_team": "Académico de Viseu",
+          "result": {
+            "full_time": "4-0"
+          }
+        },
+        {
+          "date": "2024-10-27",
+          "time": "16:45",
+          "home_team": "Varzim SC",
+          "away_team": "SL Benfica B",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-11-13",
+          "time": "11:00",
+          "home_team": "SC Farense",
+          "away_team": "CD Trofense",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-11-21",
+          "time": "11:00",
+          "home_team": "Académica de Coimbra",
+          "away_team": "FC Porto B",
+          "result": {
+            "full_time": "1-2"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 9",
+      "matches": [
+        {
+          "date": "2024-10-22",
+          "time": "18:00",
+          "home_team": "Académico de Viseu",
+          "away_team": "Varzim SC",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-10-22",
+          "time": "18:00",
+          "home_team": "UD Vilafranquense",
+          "away_team": "Leixões SC",
+          "result": {
+            "full_time": "1-3"
+          }
+        },
+        {
+          "date": "2024-10-23",
+          "time": "11:00",
+          "home_team": "FC Penafiel",
+          "away_team": "Rio Ave FC",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-10-23",
+          "time": "14:00",
+          "home_team": "Casa Pia AC",
+          "away_team": "GD Chaves",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-10-23",
+          "time": "15:30",
+          "home_team": "FC Porto B",
+          "away_team": "SC Farense",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-10-23",
+          "time": "18:00",
+          "home_team": "SL Benfica B",
+          "away_team": "Académica de Coimbra",
+          "result": {
+            "full_time": "3-1"
+          }
+        },
+        {
+          "date": "2024-10-24",
+          "time": "11:00",
+          "home_team": "CD Feirense",
+          "away_team": "Estrela Amadora",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-10-24",
+          "time": "14:00",
+          "home_team": "CD Nacional",
+          "away_team": "CD Mafra",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-10-24",
+          "time": "19:30",
+          "home_team": "CD Trofense",
+          "away_team": "Sporting Covilhã",
+          "result": {
+            "full_time": "3-0"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 10",
+      "matches": [
+        {
+          "date": "2024-10-29",
+          "time": "18:00",
+          "home_team": "GD Chaves",
+          "away_team": "CD Trofense",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-10-30",
+          "time": "11:00",
+          "home_team": "Leixões SC",
+          "away_team": "SL Benfica B",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-10-31",
+          "time": "11:00",
+          "home_team": "Estrela Amadora",
+          "away_team": "FC Porto B",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-10-31",
+          "time": "11:00",
+          "home_team": "CD Mafra",
+          "away_team": "Sporting Covilhã",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-10-31",
+          "time": "14:00",
+          "home_team": "Rio Ave FC",
+          "away_team": "Académico de Viseu",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-10-31",
+          "time": "16:00",
+          "home_team": "CD Feirense",
+          "away_team": "Casa Pia AC",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-10-31",
+          "time": "19:30",
+          "home_team": "Varzim SC",
+          "away_team": "UD Vilafranquense",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-10-31",
+          "time": "14:00",
+          "home_team": "SC Farense",
+          "away_team": "FC Penafiel",
+          "result": {
+            "full_time": "2-2"
+          }
+        },
+        {
+          "date": "2024-10-31",
+          "time": "16:30",
+          "home_team": "Académica de Coimbra",
+          "away_team": "CD Nacional",
+          "result": {
+            "full_time": "1-2"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 11",
+      "matches": [
+        {
+          "date": "2024-10-31",
+          "time": "18:00",
+          "home_team": "UD Vilafranquense",
+          "away_team": "Estrela Amadora",
+          "result": {
+            "full_time": "2-2"
+          }
+        },
+        {
+          "date": "2024-10-31",
+          "time": "11:00",
+          "home_team": "CD Trofense",
+          "away_team": "Rio Ave FC",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-10-31",
+          "time": "14:00",
+          "home_team": "Casa Pia AC",
+          "away_team": "Académica de Coimbra",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-10-31",
+          "time": "11:00",
+          "home_team": "FC Penafiel",
+          "away_team": "Leixões SC",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-10-31",
+          "time": "14:00",
+          "home_team": "SL Benfica B",
+          "away_team": "CD Mafra",
+          "result": {
+            "full_time": "1-3"
+          }
+        },
+        {
+          "date": "2024-10-31",
+          "time": "15:30",
+          "home_team": "FC Porto B",
+          "away_team": "Varzim SC",
+          "result": {
+            "full_time": "2-2"
+          }
+        },
+        {
+          "date": "2024-10-31",
+          "time": "19:30",
+          "home_team": "Sporting Covilhã",
+          "away_team": "SC Farense",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-10-31",
+          "time": "18:00",
+          "home_team": "CD Nacional",
+          "away_team": "GD Chaves",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-10-31",
+          "time": "20:15",
+          "home_team": "Académico de Viseu",
+          "away_team": "CD Feirense",
+          "result": {
+            "full_time": "0-2"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 12",
+      "matches": [
+        {
+          "date": "2024-11-26",
+          "time": "18:00",
+          "home_team": "SC Farense",
+          "away_team": "Casa Pia AC",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-11-27",
+          "time": "11:00",
+          "home_team": "GD Chaves",
+          "away_team": "CD Mafra",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-11-27",
+          "time": "14:00",
+          "home_team": "Varzim SC",
+          "away_team": "FC Penafiel",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-11-27",
+          "time": "15:30",
+          "home_team": "Académico de Viseu",
+          "away_team": "UD Vilafranquense",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-11-28",
+          "time": "11:00",
+          "home_team": "CD Feirense",
+          "away_team": "FC Porto B",
+          "result": {
+            "full_time": "3-2"
+          }
+        },
+        {
+          "date": "2024-11-28",
+          "time": "14:00",
+          "home_team": "Rio Ave FC",
+          "away_team": "CD Nacional",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-11-28",
+          "time": "15:30",
+          "home_team": "Leixões SC",
+          "away_team": "CD Trofense",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-11-28",
+          "time": "19:30",
+          "home_team": "Académica de Coimbra",
+          "away_team": "Sporting Covilhã",
+          "result": {
+            "full_time": "3-0"
+          }
+        },
+        {
+          "date": "2024-11-29",
+          "time": "18:00",
+          "home_team": "Estrela Amadora",
+          "away_team": "SL Benfica B",
+          "result": {
+            "full_time": "3-6"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 13",
+      "matches": [
+        {
+          "date": "2024-11-29",
+          "time": "20:15",
+          "home_team": "Casa Pia AC",
+          "away_team": "Varzim SC",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-11-29",
+          "time": "11:00",
+          "home_team": "UD Vilafranquense",
+          "away_team": "CD Feirense",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-11-29",
+          "time": "14:00",
+          "home_team": "CD Nacional",
+          "away_team": "Estrela Amadora",
+          "result": {
+            "full_time": "4-1"
+          }
+        },
+        {
+          "date": "2024-11-29",
+          "time": "15:30",
+          "home_team": "FC Porto B",
+          "away_team": "Leixões SC",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-11-29",
+          "time": "18:00",
+          "home_team": "SL Benfica B",
+          "away_team": "Rio Ave FC",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-11-29",
+          "time": "11:00",
+          "home_team": "FC Penafiel",
+          "away_team": "Académica de Coimbra",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-11-29",
+          "time": "14:00",
+          "home_team": "Sporting Covilhã",
+          "away_team": "GD Chaves",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-11-29",
+          "time": "15:30",
+          "home_team": "CD Trofense",
+          "away_team": "Académico de Viseu",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-11-29",
+          "time": "20:30",
+          "home_team": "CD Mafra",
+          "away_team": "SC Farense",
+          "result": {
+            "full_time": "0-2"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 14",
+      "matches": [
+        {
+          "date": "2024-12-11",
+          "time": "11:00",
+          "home_team": "CD Feirense",
+          "away_team": "FC Penafiel",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-12-11",
+          "time": "14:00",
+          "home_team": "Rio Ave FC",
+          "away_team": "CD Mafra",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-12-11",
+          "time": "15:30",
+          "home_team": "Leixões SC",
+          "away_team": "Sporting Covilhã",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-12-12",
+          "time": "11:00",
+          "home_team": "SC Farense",
+          "away_team": "CD Nacional",
+          "result": {
+            "full_time": "2-2"
+          }
+        },
+        {
+          "date": "2024-12-12",
+          "time": "11:00",
+          "home_team": "UD Vilafranquense",
+          "away_team": "FC Porto B",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-12-12",
+          "time": "14:00",
+          "home_team": "Académica de Coimbra",
+          "away_team": "GD Chaves",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-12-12",
+          "time": "19:30",
+          "home_team": "Varzim SC",
+          "away_team": "CD Trofense",
+          "result": {
+            "full_time": "1-3"
+          }
+        },
+        {
+          "date": "2024-12-13",
+          "time": "18:00",
+          "home_team": "Estrela Amadora",
+          "away_team": "Casa Pia AC",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-12-14",
+          "time": "18:00",
+          "home_team": "Académico de Viseu",
+          "away_team": "SL Benfica B",
+          "result": {
+            "full_time": "0-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 15",
+      "matches": [
+        {
+          "date": "2024-12-18",
+          "time": "11:00",
+          "home_team": "CD Mafra",
+          "away_team": "Académica de Coimbra",
+          "result": {
+            "full_time": "2-2"
+          }
+        },
+        {
+          "date": "2024-12-18",
+          "time": "14:00",
+          "home_team": "GD Chaves",
+          "away_team": "SC Farense",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-12-18",
+          "time": "15:30",
+          "home_team": "CD Nacional",
+          "away_team": "Leixões SC",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-12-19",
+          "time": "11:00",
+          "home_team": "FC Penafiel",
+          "away_team": "Estrela Amadora",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-12-19",
+          "time": "14:00",
+          "home_team": "Casa Pia AC",
+          "away_team": "Rio Ave FC",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-12-19",
+          "time": "15:30",
+          "home_team": "FC Porto B",
+          "away_team": "Académico de Viseu",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-12-20",
+          "time": "16:00",
+          "home_team": "SL Benfica B",
+          "away_team": "UD Vilafranquense",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-12-20",
+          "time": "18:00",
+          "home_team": "Sporting Covilhã",
+          "away_team": "Varzim SC",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-12-20",
+          "time": "20:15",
+          "home_team": "CD Trofense",
+          "away_team": "CD Feirense",
+          "result": {
+            "full_time": "0-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 16",
+      "matches": [
+        {
+          "date": "2024-12-23",
+          "time": "14:30",
+          "home_team": "FC Porto B",
+          "away_team": "FC Penafiel",
+          "result": {
+            "full_time": "3-1"
+          }
+        },
+        {
+          "date": "2024-12-27",
+          "time": "20:15",
+          "home_team": "Estrela Amadora",
+          "away_team": "GD Chaves",
+          "result": {
+            "full_time": "1-3"
+          }
+        },
+        {
+          "date": "2024-12-28",
+          "time": "18:00",
+          "home_team": "CD Feirense",
+          "away_team": "SL Benfica B",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-12-28",
+          "time": "20:00",
+          "home_team": "Académica de Coimbra",
+          "away_team": "CD Trofense",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-12-29",
+          "time": "15:30",
+          "home_team": "Académico de Viseu",
+          "away_team": "CD Nacional",
+          "result": {
+            "full_time": "1-4"
+          }
+        },
+        {
+          "date": "2024-12-29",
+          "time": "18:00",
+          "home_team": "UD Vilafranquense",
+          "away_team": "Casa Pia AC",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-12-29",
+          "time": "17:00",
+          "home_team": "Rio Ave FC",
+          "away_team": "Sporting Covilhã",
+          "result": {
+            "full_time": "3-1"
+          }
+        },
+        {
+          "date": "2024-12-29",
+          "time": "18:00",
+          "home_team": "Leixões SC",
+          "away_team": "CD Mafra",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-02-17",
+          "time": "15:30",
+          "home_team": "Varzim SC",
+          "away_team": "SC Farense",
+          "result": {
+            "full_time": "0-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 17",
+      "matches": [
+        {
+          "date": "2024-02-17",
+          "time": "11:00",
+          "home_team": "CD Mafra",
+          "away_team": "Varzim SC",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-02-17",
+          "time": "11:00",
+          "home_team": "FC Penafiel",
+          "away_team": "Académico de Viseu",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-02-17",
+          "time": "11:00",
+          "home_team": "Casa Pia AC",
+          "away_team": "Leixões SC",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-02-17",
+          "time": "11:00",
+          "home_team": "CD Trofense",
+          "away_team": "UD Vilafranquense",
+          "result": {
+            "full_time": "1-3"
+          }
+        },
+        {
+          "date": "2024-02-17",
+          "time": "19:30",
+          "home_team": "Sporting Covilhã",
+          "away_team": "Estrela Amadora",
+          "result": {
+            "full_time": "1-3"
+          }
+        },
+        {
+          "date": "2024-01-10",
+          "time": "16:00",
+          "home_team": "SL Benfica B",
+          "away_team": "FC Porto B",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-01-10",
+          "time": "18:00",
+          "home_team": "CD Nacional",
+          "away_team": "CD Feirense",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-01-10",
+          "time": "20:15",
+          "home_team": "SC Farense",
+          "away_team": "Académica de Coimbra",
+          "result": {
+            "full_time": "3-1"
+          }
+        },
+        {
+          "date": "2024-02-10",
+          "time": "18:45",
+          "home_team": "GD Chaves",
+          "away_team": "Rio Ave FC",
+          "result": {
+            "full_time": "2-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 18",
+      "matches": [
+        {
+          "date": "2024-01-15",
+          "time": "11:00",
+          "home_team": "Casa Pia AC",
+          "away_team": "Académico de Viseu",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-01-15",
+          "time": "15:30",
+          "home_team": "FC Penafiel",
+          "away_team": "UD Vilafranquense",
+          "result": {
+            "full_time": "4-3"
+          }
+        },
+        {
+          "date": "2024-01-16",
+          "time": "11:00",
+          "home_team": "CD Nacional",
+          "away_team": "SL Benfica B",
+          "result": {
+            "full_time": "0-3"
+          }
+        },
+        {
+          "date": "2024-01-17",
+          "time": "18:00",
+          "home_team": "SC Farense",
+          "away_team": "Leixões SC",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-01-18",
+          "time": "18:00",
+          "home_team": "CD Mafra",
+          "away_team": "Estrela Amadora",
+          "result": {
+            "full_time": "2-2"
+          }
+        },
+        {
+          "date": "2024-01-18",
+          "time": "20:15",
+          "home_team": "Sporting Covilhã",
+          "away_team": "CD Feirense",
+          "result": {
+            "full_time": "2-2"
+          }
+        },
+        {
+          "date": "2024-01-19",
+          "time": "18:00",
+          "home_team": "Académica de Coimbra",
+          "away_team": "Rio Ave FC",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-01-19",
+          "time": "18:00",
+          "home_team": "GD Chaves",
+          "away_team": "Varzim SC",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-01-19",
+          "time": "18:00",
+          "home_team": "CD Trofense",
+          "away_team": "FC Porto B",
+          "result": {
+            "full_time": "2-2"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 19",
+      "matches": [
+        {
+          "date": "2024-01-22",
+          "time": "11:00",
+          "home_team": "UD Vilafranquense",
+          "away_team": "CD Nacional",
+          "result": {
+            "full_time": "4-3"
+          }
+        },
+        {
+          "date": "2024-01-22",
+          "time": "15:30",
+          "home_team": "Varzim SC",
+          "away_team": "Académica de Coimbra",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-01-23",
+          "time": "11:00",
+          "home_team": "CD Feirense",
+          "away_team": "CD Mafra",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-01-23",
+          "time": "14:00",
+          "home_team": "FC Porto B",
+          "away_team": "Casa Pia AC",
+          "result": {
+            "full_time": "0-3"
+          }
+        },
+        {
+          "date": "2024-01-23",
+          "time": "15:30",
+          "home_team": "Rio Ave FC",
+          "away_team": "SC Farense",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-01-23",
+          "time": "18:00",
+          "home_team": "SL Benfica B",
+          "away_team": "FC Penafiel",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-01-23",
+          "time": "19:30",
+          "home_team": "Estrela Amadora",
+          "away_team": "CD Trofense",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-01-24",
+          "time": "15:30",
+          "home_team": "Académico de Viseu",
+          "away_team": "Sporting Covilhã",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-01-24",
+          "time": "20:15",
+          "home_team": "Leixões SC",
+          "away_team": "GD Chaves",
+          "result": {
+            "full_time": "1-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 20",
+      "matches": [
+        {
+          "date": "2024-01-28",
+          "time": "18:00",
+          "home_team": "SC Farense",
+          "away_team": "Estrela Amadora",
+          "result": {
+            "full_time": "3-0"
+          }
+        },
+        {
+          "date": "2024-01-28",
+          "time": "20:15",
+          "home_team": "CD Trofense",
+          "away_team": "SL Benfica B",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-01-30",
+          "time": "11:00",
+          "home_team": "CD Mafra",
+          "away_team": "Académico de Viseu",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-01-30",
+          "time": "11:00",
+          "home_team": "CD Nacional",
+          "away_team": "FC Porto B",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-01-30",
+          "time": "12:45",
+          "home_team": "Rio Ave FC",
+          "away_team": "Varzim SC",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-01-30",
+          "time": "14:00",
+          "home_team": "GD Chaves",
+          "away_team": "CD Feirense",
+          "result": {
+            "full_time": "3-1"
+          }
+        },
+        {
+          "date": "2024-01-30",
+          "time": "15:30",
+          "home_team": "Sporting Covilhã",
+          "away_team": "UD Vilafranquense",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-01-30",
+          "time": "17:30",
+          "home_team": "Académica de Coimbra",
+          "away_team": "Leixões SC",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-01-31",
+          "time": "17:00",
+          "home_team": "Casa Pia AC",
+          "away_team": "FC Penafiel",
+          "result": {
+            "full_time": "2-0"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 21",
+      "matches": [
+        {
+          "date": "2024-01-31",
+          "time": "18:00",
+          "home_team": "SL Benfica B",
+          "away_team": "Casa Pia AC",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-01-31",
+          "time": "15:00",
+          "home_team": "Académico de Viseu",
+          "away_team": "GD Chaves",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-01-31",
+          "time": "11:00",
+          "home_team": "Leixões SC",
+          "away_team": "Rio Ave FC",
+          "result": {
+            "full_time": "2-2"
+          }
+        },
+        {
+          "date": "2024-01-31",
+          "time": "14:00",
+          "home_team": "UD Vilafranquense",
+          "away_team": "CD Mafra",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-01-31",
+          "time": "15:30",
+          "home_team": "FC Porto B",
+          "away_team": "Sporting Covilhã",
+          "result": {
+            "full_time": "3-1"
+          }
+        },
+        {
+          "date": "2024-01-31",
+          "time": "17:00",
+          "home_team": "FC Penafiel",
+          "away_team": "CD Trofense",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-01-31",
+          "time": "15:30",
+          "home_team": "Varzim SC",
+          "away_team": "CD Nacional",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-01-31",
+          "time": "18:00",
+          "home_team": "CD Feirense",
+          "away_team": "SC Farense",
+          "result": {
+            "full_time": "4-1"
+          }
+        },
+        {
+          "date": "2024-01-31",
+          "time": "20:15",
+          "home_team": "Estrela Amadora",
+          "away_team": "Académica de Coimbra",
+          "result": {
+            "full_time": "1-3"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 22",
+      "matches": [
+        {
+          "date": "2024-02-11",
+          "time": "18:00",
+          "home_team": "Casa Pia AC",
+          "away_team": "CD Trofense",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-02-12",
+          "time": "11:00",
+          "home_team": "CD Mafra",
+          "away_team": "FC Porto B",
+          "result": {
+            "full_time": "3-2"
+          }
+        },
+        {
+          "date": "2024-02-12",
+          "time": "14:00",
+          "home_team": "Académica de Coimbra",
+          "away_team": "CD Feirense",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-02-13",
+          "time": "11:00",
+          "home_team": "CD Nacional",
+          "away_team": "FC Penafiel",
+          "result": {
+            "full_time": "3-0"
+          }
+        },
+        {
+          "date": "2024-02-13",
+          "time": "14:00",
+          "home_team": "Sporting Covilhã",
+          "away_team": "SL Benfica B",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-02-13",
+          "time": "16:00",
+          "home_team": "Varzim SC",
+          "away_team": "Leixões SC",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-02-13",
+          "time": "19:30",
+          "home_team": "SC Farense",
+          "away_team": "Académico de Viseu",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-02-14",
+          "time": "18:00",
+          "home_team": "Rio Ave FC",
+          "away_team": "Estrela Amadora",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-02-14",
+          "time": "18:00",
+          "home_team": "GD Chaves",
+          "away_team": "UD Vilafranquense",
+          "result": {
+            "full_time": "1-0"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 23",
+      "matches": [
+        {
+          "date": "2024-02-18",
+          "time": "18:00",
+          "home_team": "Académico de Viseu",
+          "away_team": "Leixões SC",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-02-19",
+          "time": "11:00",
+          "home_team": "UD Vilafranquense",
+          "away_team": "Académica de Coimbra",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-02-19",
+          "time": "14:00",
+          "home_team": "Casa Pia AC",
+          "away_team": "CD Nacional",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-02-20",
+          "time": "11:00",
+          "home_team": "FC Penafiel",
+          "away_team": "Sporting Covilhã",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-02-20",
+          "time": "14:00",
+          "home_team": "CD Feirense",
+          "away_team": "Rio Ave FC",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-02-20",
+          "time": "15:30",
+          "home_team": "FC Porto B",
+          "away_team": "GD Chaves",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-02-20",
+          "time": "19:30",
+          "home_team": "CD Trofense",
+          "away_team": "CD Mafra",
+          "result": {
+            "full_time": "1-3"
+          }
+        },
+        {
+          "date": "2024-02-21",
+          "time": "18:00",
+          "home_team": "SL Benfica B",
+          "away_team": "SC Farense",
+          "result": {
+            "full_time": "3-0"
+          }
+        },
+        {
+          "date": "2024-02-21",
+          "time": "19:00",
+          "home_team": "Estrela Amadora",
+          "away_team": "Varzim SC",
+          "result": {
+            "full_time": "0-0"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 24",
+      "matches": [
+        {
+          "date": "2024-02-25",
+          "time": "18:00",
+          "home_team": "GD Chaves",
+          "away_team": "SL Benfica B",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-02-26",
+          "time": "11:00",
+          "home_team": "Sporting Covilhã",
+          "away_team": "Casa Pia AC",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-02-26",
+          "time": "14:00",
+          "home_team": "CD Mafra",
+          "away_team": "FC Penafiel",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-02-27",
+          "time": "11:00",
+          "home_team": "CD Nacional",
+          "away_team": "CD Trofense",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-02-27",
+          "time": "14:00",
+          "home_team": "Rio Ave FC",
+          "away_team": "FC Porto B",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-02-27",
+          "time": "15:30",
+          "home_team": "Leixões SC",
+          "away_team": "Estrela Amadora",
+          "result": {
+            "full_time": "3-0"
+          }
+        },
+        {
+          "date": "2024-02-27",
+          "time": "15:30",
+          "home_team": "SC Farense",
+          "away_team": "UD Vilafranquense",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-02-28",
+          "time": "18:00",
+          "home_team": "Varzim SC",
+          "away_team": "CD Feirense",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-02-28",
+          "time": "19:30",
+          "home_team": "Académica de Coimbra",
+          "away_team": "Académico de Viseu",
+          "result": {
+            "full_time": "1-2"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 25",
+      "matches": [
+        {
+          "date": "2024-02-28",
+          "time": "11:00",
+          "home_team": "Académico de Viseu",
+          "away_team": "Estrela Amadora",
+          "result": {
+            "full_time": "0-4"
+          }
+        },
+        {
+          "date": "2024-02-28",
+          "time": "14:00",
+          "home_team": "CD Nacional",
+          "away_team": "Sporting Covilhã",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-02-28",
+          "time": "11:00",
+          "home_team": "CD Feirense",
+          "away_team": "Leixões SC",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-02-28",
+          "time": "14:00",
+          "home_team": "FC Penafiel",
+          "away_team": "GD Chaves",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-02-28",
+          "time": "15:30",
+          "home_team": "FC Porto B",
+          "away_team": "Académica de Coimbra",
+          "result": {
+            "full_time": "3-3"
+          }
+        },
+        {
+          "date": "2024-02-28",
+          "time": "18:00",
+          "home_team": "SL Benfica B",
+          "away_team": "Varzim SC",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-02-28",
+          "time": "20:15",
+          "home_team": "CD Trofense",
+          "away_team": "SC Farense",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-02-28",
+          "time": "18:00",
+          "home_team": "UD Vilafranquense",
+          "away_team": "Rio Ave FC",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-02-28",
+          "time": "20:15",
+          "home_team": "Casa Pia AC",
+          "away_team": "CD Mafra",
+          "result": {
+            "full_time": "3-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 26",
+      "matches": [
+        {
+          "date": "2024-03-11",
+          "time": "18:00",
+          "home_team": "Académica de Coimbra",
+          "away_team": "SL Benfica B",
+          "result": {
+            "full_time": "3-4"
+          }
+        },
+        {
+          "date": "2024-03-11",
+          "time": "18:00",
+          "home_team": "Varzim SC",
+          "away_team": "Académico de Viseu",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-03-12",
+          "time": "11:00",
+          "home_team": "Estrela Amadora",
+          "away_team": "CD Feirense",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-03-12",
+          "time": "14:00",
+          "home_team": "Rio Ave FC",
+          "away_team": "FC Penafiel",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-03-13",
+          "time": "11:00",
+          "home_team": "SC Farense",
+          "away_team": "FC Porto B",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-03-13",
+          "time": "14:00",
+          "home_team": "GD Chaves",
+          "away_team": "Casa Pia AC",
+          "result": {
+            "full_time": "4-1"
+          }
+        },
+        {
+          "date": "2024-03-13",
+          "time": "14:00",
+          "home_team": "CD Mafra",
+          "away_team": "CD Nacional",
+          "result": {
+            "full_time": "3-2"
+          }
+        },
+        {
+          "date": "2024-03-13",
+          "time": "15:30",
+          "home_team": "Sporting Covilhã",
+          "away_team": "CD Trofense",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-03-14",
+          "time": "19:30",
+          "home_team": "Leixões SC",
+          "away_team": "UD Vilafranquense",
+          "result": {
+            "full_time": "1-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 27",
+      "matches": [
+        {
+          "date": "2024-03-18",
+          "time": "18:00",
+          "home_team": "Académico de Viseu",
+          "away_team": "Rio Ave FC",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-03-19",
+          "time": "11:00",
+          "home_team": "Sporting Covilhã",
+          "away_team": "CD Mafra",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-03-19",
+          "time": "14:00",
+          "home_team": "FC Penafiel",
+          "away_team": "SC Farense",
+          "result": {
+            "full_time": "1-3"
+          }
+        },
+        {
+          "date": "2024-03-20",
+          "time": "11:00",
+          "home_team": "CD Nacional",
+          "away_team": "Académica de Coimbra",
+          "result": {
+            "full_time": "3-1"
+          }
+        },
+        {
+          "date": "2024-03-20",
+          "time": "14:00",
+          "home_team": "SL Benfica B",
+          "away_team": "Leixões SC",
+          "result": {
+            "full_time": "2-3"
+          }
+        },
+        {
+          "date": "2024-03-20",
+          "time": "14:00",
+          "home_team": "Casa Pia AC",
+          "away_team": "CD Feirense",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-03-20",
+          "time": "15:30",
+          "home_team": "FC Porto B",
+          "away_team": "Estrela Amadora",
+          "result": {
+            "full_time": "2-2"
+          }
+        },
+        {
+          "date": "2024-03-20",
+          "time": "18:00",
+          "home_team": "CD Trofense",
+          "away_team": "GD Chaves",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-03-20",
+          "time": "20:30",
+          "home_team": "UD Vilafranquense",
+          "away_team": "Varzim SC",
+          "result": {
+            "full_time": "0-0"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 28",
+      "matches": [
+        {
+          "date": "2024-03-20",
+          "time": "18:00",
+          "home_team": "Leixões SC",
+          "away_team": "FC Penafiel",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-03-20",
+          "time": "11:00",
+          "home_team": "CD Mafra",
+          "away_team": "SL Benfica B",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-03-20",
+          "time": "14:00",
+          "home_team": "CD Feirense",
+          "away_team": "Académico de Viseu",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-03-20",
+          "time": "20:00",
+          "home_team": "Rio Ave FC",
+          "away_team": "CD Trofense",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-03-20",
+          "time": "11:00",
+          "home_team": "Académica de Coimbra",
+          "away_team": "Casa Pia AC",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-03-20",
+          "time": "14:00",
+          "home_team": "GD Chaves",
+          "away_team": "CD Nacional",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-03-20",
+          "time": "14:00",
+          "home_team": "SC Farense",
+          "away_team": "Sporting Covilhã",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-03-20",
+          "time": "19:00",
+          "home_team": "Estrela Amadora",
+          "away_team": "UD Vilafranquense",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-03-20",
+          "time": "18:00",
+          "home_team": "Varzim SC",
+          "away_team": "FC Porto B",
+          "result": {
+            "full_time": "2-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 29",
+      "matches": [
+        {
+          "date": "2024-03-20",
+          "time": "18:00",
+          "home_team": "FC Penafiel",
+          "away_team": "Varzim SC",
+          "result": {
+            "full_time": "4-1"
+          }
+        },
+        {
+          "date": "2024-03-20",
+          "time": "11:00",
+          "home_team": "Casa Pia AC",
+          "away_team": "SC Farense",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-03-20",
+          "time": "14:00",
+          "home_team": "SL Benfica B",
+          "away_team": "Estrela Amadora",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-03-20",
+          "time": "14:00",
+          "home_team": "CD Mafra",
+          "away_team": "GD Chaves",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-03-20",
+          "time": "15:30",
+          "home_team": "UD Vilafranquense",
+          "away_team": "Académico de Viseu",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-04-10",
+          "time": "11:00",
+          "home_team": "Sporting Covilhã",
+          "away_team": "Académica de Coimbra",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-04-10",
+          "time": "14:00",
+          "home_team": "CD Nacional",
+          "away_team": "Rio Ave FC",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-04-10",
+          "time": "15:30",
+          "home_team": "FC Porto B",
+          "away_team": "CD Feirense",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-04-10",
+          "time": "17:00",
+          "home_team": "CD Trofense",
+          "away_team": "Leixões SC",
+          "result": {
+            "full_time": "1-2"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 30",
+      "matches": [
+        {
+          "date": "2024-04-15",
+          "time": "11:00",
+          "home_team": "GD Chaves",
+          "away_team": "Sporting Covilhã",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-04-15",
+          "time": "14:00",
+          "home_team": "Varzim SC",
+          "away_team": "Casa Pia AC",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-04-16",
+          "time": "11:00",
+          "home_team": "Académica de Coimbra",
+          "away_team": "FC Penafiel",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-04-16",
+          "time": "11:00",
+          "home_team": "SC Farense",
+          "away_team": "CD Mafra",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-04-16",
+          "time": "14:00",
+          "home_team": "Leixões SC",
+          "away_team": "FC Porto B",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-04-16",
+          "time": "15:30",
+          "home_team": "Académico de Viseu",
+          "away_team": "CD Trofense",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-04-16",
+          "time": "17:00",
+          "home_team": "Estrela Amadora",
+          "away_team": "CD Nacional",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-04-16",
+          "time": "19:00",
+          "home_team": "CD Feirense",
+          "away_team": "UD Vilafranquense",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-04-17",
+          "time": "15:30",
+          "home_team": "Rio Ave FC",
+          "away_team": "SL Benfica B",
+          "result": {
+            "full_time": "2-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 31",
+      "matches": [
+        {
+          "date": "2024-04-23",
+          "time": "11:00",
+          "home_team": "Casa Pia AC",
+          "away_team": "Estrela Amadora",
+          "result": {
+            "full_time": "3-0"
+          }
+        },
+        {
+          "date": "2024-04-23",
+          "time": "14:00",
+          "home_team": "GD Chaves",
+          "away_team": "Académica de Coimbra",
+          "result": {
+            "full_time": "3-2"
+          }
+        },
+        {
+          "date": "2024-04-24",
+          "time": "11:00",
+          "home_team": "FC Penafiel",
+          "away_team": "CD Feirense",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-04-24",
+          "time": "14:00",
+          "home_team": "CD Mafra",
+          "away_team": "Rio Ave FC",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-04-24",
+          "time": "15:30",
+          "home_team": "SL Benfica B",
+          "away_team": "Académico de Viseu",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-04-24",
+          "time": "15:30",
+          "home_team": "FC Porto B",
+          "away_team": "UD Vilafranquense",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-04-24",
+          "time": "15:30",
+          "home_team": "CD Nacional",
+          "away_team": "SC Farense",
+          "result": {
+            "full_time": "3-2"
+          }
+        },
+        {
+          "date": "2024-04-24",
+          "time": "17:00",
+          "home_team": "Sporting Covilhã",
+          "away_team": "Leixões SC",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-04-25",
+          "time": "15:30",
+          "home_team": "CD Trofense",
+          "away_team": "Varzim SC",
+          "result": {
+            "full_time": "1-0"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 32",
+      "matches": [
+        {
+          "date": "2024-04-29",
+          "time": "18:00",
+          "home_team": "Académico de Viseu",
+          "away_team": "FC Porto B",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-04-30",
+          "time": "11:00",
+          "home_team": "Académica de Coimbra",
+          "away_team": "CD Mafra",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-04-30",
+          "time": "11:00",
+          "home_team": "SC Farense",
+          "away_team": "GD Chaves",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-04-30",
+          "time": "14:00",
+          "home_team": "Estrela Amadora",
+          "away_team": "FC Penafiel",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-04-30",
+          "time": "15:30",
+          "home_team": "Leixões SC",
+          "away_team": "CD Nacional",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-04-30",
+          "time": "19:15",
+          "home_team": "Varzim SC",
+          "away_team": "Sporting Covilhã",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-04-30",
+          "time": "11:00",
+          "home_team": "UD Vilafranquense",
+          "away_team": "SL Benfica B",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-04-30",
+          "time": "12:45",
+          "home_team": "CD Feirense",
+          "away_team": "CD Trofense",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-04-30",
+          "time": "14:00",
+          "home_team": "Rio Ave FC",
+          "away_team": "Casa Pia AC",
+          "result": {
+            "full_time": "1-0"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 33",
+      "matches": [
+        {
+          "date": "2024-04-30",
+          "time": "11:00",
+          "home_team": "CD Mafra",
+          "away_team": "Leixões SC",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-04-30",
+          "time": "11:00",
+          "home_team": "FC Penafiel",
+          "away_team": "FC Porto B",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-04-30",
+          "time": "14:00",
+          "home_team": "SL Benfica B",
+          "away_team": "CD Feirense",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-04-30",
+          "time": "14:00",
+          "home_team": "Sporting Covilhã",
+          "away_team": "Rio Ave FC",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-04-30",
+          "time": "15:30",
+          "home_team": "Casa Pia AC",
+          "away_team": "UD Vilafranquense",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-04-30",
+          "time": "15:30",
+          "home_team": "CD Nacional",
+          "away_team": "Académico de Viseu",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-04-30",
+          "time": "11:00",
+          "home_team": "GD Chaves",
+          "away_team": "Estrela Amadora",
+          "result": {
+            "full_time": "2-2"
+          }
+        },
+        {
+          "date": "2024-04-30",
+          "time": "14:00",
+          "home_team": "SC Farense",
+          "away_team": "Varzim SC",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-04-30",
+          "time": "18:00",
+          "home_team": "CD Trofense",
+          "away_team": "Académica de Coimbra",
+          "result": {
+            "full_time": "2-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 34",
+      "matches": [
+        {
+          "date": "2024-05-13",
+          "time": "15:30",
+          "home_team": "FC Porto B",
+          "away_team": "SL Benfica B",
+          "result": {
+            "full_time": "2-3"
+          }
+        },
+        {
+          "date": "2024-05-13",
+          "time": "18:00",
+          "home_team": "Académico de Viseu",
+          "away_team": "FC Penafiel",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-05-14",
+          "time": "11:00",
+          "home_team": "Académica de Coimbra",
+          "away_team": "SC Farense",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-05-14",
+          "time": "15:30",
+          "home_team": "UD Vilafranquense",
+          "away_team": "CD Trofense",
+          "result": {
+            "full_time": "2-4"
+          }
+        },
+        {
+          "date": "2024-05-15",
+          "time": "11:00",
+          "home_team": "Rio Ave FC",
+          "away_team": "GD Chaves",
+          "result": {
+            "full_time": "3-0"
+          }
+        },
+        {
+          "date": "2024-05-15",
+          "time": "11:00",
+          "home_team": "Leixões SC",
+          "away_team": "Casa Pia AC",
+          "result": {
+            "full_time": "1-5"
+          }
+        },
+        {
+          "date": "2024-05-15",
+          "time": "15:00",
+          "home_team": "CD Feirense",
+          "away_team": "CD Nacional",
+          "result": {
+            "full_time": "4-1"
+          }
+        },
+        {
+          "date": "2024-05-15",
+          "time": "15:30",
+          "home_team": "Estrela Amadora",
+          "away_team": "Sporting Covilhã",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-05-15",
+          "time": "15:30",
+          "home_team": "Varzim SC",
+          "away_team": "CD Mafra",
+          "result": {
+            "full_time": "2-0"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2268 @@
+{
+  "league": "Serbia Super League",
+  "season": "2024/25",
+  "matchdays": [
+    {
+      "matchday": "Matchday 1",
+      "matches": [
+        {
+          "date": "2024-07-19",
+          "time": "19:00",
+          "home_team": "FK Radnički 1923",
+          "away_team": "Železničar Pančevo",
+          "result": {
+            "full_time": "2-3"
+          }
+        },
+        {
+          "date": "2024-07-19",
+          "time": "21:00",
+          "home_team": "FK Napredak",
+          "away_team": "Partizan",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-07-20",
+          "time": "20:00",
+          "home_team": "Crvena Zvezda",
+          "away_team": "Jedinstvo Ub",
+          "result": {
+            "full_time": "4-0"
+          }
+        },
+        {
+          "date": "2024-07-20",
+          "time": "20:00",
+          "home_team": "Mladost Lučani",
+          "away_team": "OFK Beograd",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-07-20",
+          "time": "20:00",
+          "home_team": "FK Čukarički",
+          "away_team": "Radnički Niš",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-07-21",
+          "time": "17:30",
+          "home_team": "FK Novi Pazar",
+          "away_team": "Spartak Subotica",
+          "result": {
+            "full_time": "3-2"
+          }
+        },
+        {
+          "date": "2024-07-21",
+          "time": "19:30",
+          "home_team": "Tekstilac Odžaci",
+          "away_team": "Vojvodina",
+          "result": {
+            "full_time": "1-3"
+          }
+        },
+        {
+          "date": "2024-07-21",
+          "time": "19:30",
+          "home_team": "TSC Bačka Topola",
+          "away_team": "IMT Beograd",
+          "result": {
+            "full_time": "1-0"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 2",
+      "matches": [
+        {
+          "date": "2024-07-27",
+          "time": "20:00",
+          "home_team": "Jedinstvo Ub",
+          "away_team": "Partizan",
+          "result": {
+            "full_time": "0-4"
+          }
+        },
+        {
+          "date": "2024-07-27",
+          "time": "20:00",
+          "home_team": "Železničar Pančevo",
+          "away_team": "FK Napredak",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-07-27",
+          "time": "20:00",
+          "home_team": "Crvena Zvezda",
+          "away_team": "Mladost Lučani",
+          "result": {
+            "full_time": "2-2"
+          }
+        },
+        {
+          "date": "2024-07-28",
+          "time": "21:00",
+          "home_team": "Radnički Niš",
+          "away_team": "TSC Bačka Topola",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-07-28",
+          "time": "21:00",
+          "home_team": "Spartak Subotica",
+          "away_team": "FK Čukarički",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-07-29",
+          "time": "20:00",
+          "home_team": "OFK Beograd",
+          "away_team": "Tekstilac Odžaci",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-09-18",
+          "time": "18:00",
+          "home_team": "IMT Beograd",
+          "away_team": "FK Radnički 1923",
+          "result": {
+            "full_time": "0-4"
+          }
+        },
+        {
+          "date": "2024-09-18",
+          "time": "19:00",
+          "home_team": "Vojvodina",
+          "away_team": "FK Novi Pazar",
+          "result": {
+            "full_time": "0-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 3",
+      "matches": [
+        {
+          "date": "2024-09-18",
+          "time": "20:00",
+          "home_team": "FK Napredak",
+          "away_team": "IMT Beograd",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-09-18",
+          "time": "17:30",
+          "home_team": "FK Novi Pazar",
+          "away_team": "OFK Beograd",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-09-18",
+          "time": "20:00",
+          "home_team": "Mladost Lučani",
+          "away_team": "Jedinstvo Ub",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-09-18",
+          "time": "20:00",
+          "home_team": "Tekstilac Odžaci",
+          "away_team": "Crvena Zvezda",
+          "result": {
+            "full_time": "0-4"
+          }
+        },
+        {
+          "date": "2024-09-18",
+          "time": "17:30",
+          "home_team": "TSC Bačka Topola",
+          "away_team": "Spartak Subotica",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-09-18",
+          "time": "20:00",
+          "home_team": "FK Čukarički",
+          "away_team": "Vojvodina",
+          "result": {
+            "full_time": "3-1"
+          }
+        },
+        {
+          "date": "2024-09-18",
+          "time": "20:00",
+          "home_team": "Partizan",
+          "away_team": "Železničar Pančevo",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-09-18",
+          "time": "21:00",
+          "home_team": "FK Radnički 1923",
+          "away_team": "Radnički Niš",
+          "result": {
+            "full_time": "4-0"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 4",
+      "matches": [
+        {
+          "date": "2024-09-18",
+          "time": "18:00",
+          "home_team": "OFK Beograd",
+          "away_team": "FK Čukarički",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-09-18",
+          "time": "20:00",
+          "home_team": "Radnički Niš",
+          "away_team": "FK Napredak",
+          "result": {
+            "full_time": "3-1"
+          }
+        },
+        {
+          "date": "2024-08-10",
+          "time": "20:00",
+          "home_team": "Spartak Subotica",
+          "away_team": "FK Radnički 1923",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-08-10",
+          "time": "20:00",
+          "home_team": "Crvena Zvezda",
+          "away_team": "FK Novi Pazar",
+          "result": {
+            "full_time": "4-1"
+          }
+        },
+        {
+          "date": "2024-08-10",
+          "time": "20:00",
+          "home_team": "Mladost Lučani",
+          "away_team": "Tekstilac Odžaci",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-08-11",
+          "time": "18:00",
+          "home_team": "Jedinstvo Ub",
+          "away_team": "Železničar Pančevo",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-08-11",
+          "time": "20:00",
+          "home_team": "IMT Beograd",
+          "away_team": "Partizan",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-08-11",
+          "time": "20:00",
+          "home_team": "Vojvodina",
+          "away_team": "TSC Bačka Topola",
+          "result": {
+            "full_time": "1-3"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 5",
+      "matches": [
+        {
+          "date": "2024-08-15",
+          "time": "20:00",
+          "home_team": "FK Čukarički",
+          "away_team": "Crvena Zvezda",
+          "result": {
+            "full_time": "1-4"
+          }
+        },
+        {
+          "date": "2024-08-16",
+          "time": "18:55",
+          "home_team": "TSC Bačka Topola",
+          "away_team": "OFK Beograd",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-08-17",
+          "time": "17:30",
+          "home_team": "FK Novi Pazar",
+          "away_team": "Mladost Lučani",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-08-17",
+          "time": "19:30",
+          "home_team": "Tekstilac Odžaci",
+          "away_team": "Jedinstvo Ub",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-08-17",
+          "time": "19:30",
+          "home_team": "FK Napredak",
+          "away_team": "Spartak Subotica",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-08-18",
+          "time": "19:30",
+          "home_team": "Železničar Pančevo",
+          "away_team": "IMT Beograd",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-08-19",
+          "time": "19:00",
+          "home_team": "FK Radnički 1923",
+          "away_team": "Vojvodina",
+          "result": {
+            "full_time": "2-2"
+          }
+        },
+        {
+          "date": "2024-08-19",
+          "time": "16:30",
+          "home_team": "Partizan",
+          "away_team": "Radnički Niš",
+          "result": {
+            "full_time": "3-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 6",
+      "matches": [
+        {
+          "date": "2024-08-23",
+          "time": "21:00",
+          "home_team": "Mladost Lučani",
+          "away_team": "FK Čukarički",
+          "result": {
+            "full_time": "3-1"
+          }
+        },
+        {
+          "date": "2024-08-24",
+          "time": "19:00",
+          "home_team": "Radnički Niš",
+          "away_team": "Železničar Pančevo",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-08-24",
+          "time": "19:00",
+          "home_team": "Tekstilac Odžaci",
+          "away_team": "FK Novi Pazar",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-08-24",
+          "time": "21:00",
+          "home_team": "Jedinstvo Ub",
+          "away_team": "IMT Beograd",
+          "result": {
+            "full_time": "2-3"
+          }
+        },
+        {
+          "date": "2024-08-25",
+          "time": "19:00",
+          "home_team": "OFK Beograd",
+          "away_team": "FK Radnički 1923",
+          "result": {
+            "full_time": "3-5"
+          }
+        },
+        {
+          "date": "2024-08-25",
+          "time": "19:30",
+          "home_team": "Vojvodina",
+          "away_team": "FK Napredak",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-08-25",
+          "time": "18:30",
+          "home_team": "Crvena Zvezda",
+          "away_team": "TSC Bačka Topola",
+          "result": {
+            "full_time": "3-1"
+          }
+        },
+        {
+          "date": "2024-12-12",
+          "time": "16:30",
+          "home_team": "Spartak Subotica",
+          "away_team": "Partizan",
+          "result": {
+            "full_time": "2-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 7",
+      "matches": [
+        {
+          "date": "2024-08-30",
+          "time": "18:30",
+          "home_team": "IMT Beograd",
+          "away_team": "Radnički Niš",
+          "result": {
+            "full_time": "3-1"
+          }
+        },
+        {
+          "date": "2024-08-30",
+          "time": "20:30",
+          "home_team": "FK Čukarički",
+          "away_team": "Tekstilac Odžaci",
+          "result": {
+            "full_time": "3-0"
+          }
+        },
+        {
+          "date": "2024-08-31",
+          "time": "17:00",
+          "home_team": "FK Novi Pazar",
+          "away_team": "Jedinstvo Ub",
+          "result": {
+            "full_time": "3-1"
+          }
+        },
+        {
+          "date": "2024-08-31",
+          "time": "20:30",
+          "home_team": "FK Napredak",
+          "away_team": "OFK Beograd",
+          "result": {
+            "full_time": "1-3"
+          }
+        },
+        {
+          "date": "2024-08-31",
+          "time": "20:30",
+          "home_team": "Železničar Pančevo",
+          "away_team": "Spartak Subotica",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-08-31",
+          "time": "19:00",
+          "home_team": "TSC Bačka Topola",
+          "away_team": "Mladost Lučani",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-08-31",
+          "time": "19:00",
+          "home_team": "FK Radnički 1923",
+          "away_team": "Crvena Zvezda",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-08-31",
+          "time": "21:05",
+          "home_team": "Partizan",
+          "away_team": "Vojvodina",
+          "result": {
+            "full_time": "0-0"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 8",
+      "matches": [
+        {
+          "date": "2024-09-13",
+          "time": "19:00",
+          "home_team": "Spartak Subotica",
+          "away_team": "IMT Beograd",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-09-14",
+          "time": "18:00",
+          "home_team": "Vojvodina",
+          "away_team": "Železničar Pančevo",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-09-14",
+          "time": "20:00",
+          "home_team": "Crvena Zvezda",
+          "away_team": "FK Napredak",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-09-14",
+          "time": "20:00",
+          "home_team": "Mladost Lučani",
+          "away_team": "FK Radnički 1923",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-09-15",
+          "time": "17:00",
+          "home_team": "FK Novi Pazar",
+          "away_team": "FK Čukarički",
+          "result": {
+            "full_time": "2-2"
+          }
+        },
+        {
+          "date": "2024-09-15",
+          "time": "19:00",
+          "home_team": "OFK Beograd",
+          "away_team": "Partizan",
+          "result": {
+            "full_time": "3-2"
+          }
+        },
+        {
+          "date": "2024-09-15",
+          "time": "19:00",
+          "home_team": "Tekstilac Odžaci",
+          "away_team": "TSC Bačka Topola",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-09-16",
+          "time": "20:00",
+          "home_team": "Jedinstvo Ub",
+          "away_team": "Radnički Niš",
+          "result": {
+            "full_time": "0-2"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 9",
+      "matches": [
+        {
+          "date": "2024-09-21",
+          "time": "18:00",
+          "home_team": "FK Čukarički",
+          "away_team": "Jedinstvo Ub",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-09-21",
+          "time": "18:00",
+          "home_team": "TSC Bačka Topola",
+          "away_team": "FK Novi Pazar",
+          "result": {
+            "full_time": "5-2"
+          }
+        },
+        {
+          "date": "2024-09-21",
+          "time": "20:00",
+          "home_team": "FK Napredak",
+          "away_team": "Mladost Lučani",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-09-22",
+          "time": "19:00",
+          "home_team": "IMT Beograd",
+          "away_team": "Vojvodina",
+          "result": {
+            "full_time": "0-3"
+          }
+        },
+        {
+          "date": "2024-09-22",
+          "time": "19:00",
+          "home_team": "Radnički Niš",
+          "away_team": "Spartak Subotica",
+          "result": {
+            "full_time": "3-2"
+          }
+        },
+        {
+          "date": "2024-09-22",
+          "time": "20:00",
+          "home_team": "Železničar Pančevo",
+          "away_team": "OFK Beograd",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-09-23",
+          "time": "17:00",
+          "home_team": "FK Radnički 1923",
+          "away_team": "Tekstilac Odžaci",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-09-23",
+          "time": "19:00",
+          "home_team": "Partizan",
+          "away_team": "Crvena Zvezda",
+          "result": {
+            "full_time": "0-4"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 10",
+      "matches": [
+        {
+          "date": "2024-09-27",
+          "time": "19:00",
+          "home_team": "Crvena Zvezda",
+          "away_team": "Železničar Pančevo",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-09-28",
+          "time": "17:00",
+          "home_team": "OFK Beograd",
+          "away_team": "IMT Beograd",
+          "result": {
+            "full_time": "4-3"
+          }
+        },
+        {
+          "date": "2024-09-28",
+          "time": "18:00",
+          "home_team": "FK Novi Pazar",
+          "away_team": "FK Radnički 1923",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-09-28",
+          "time": "18:00",
+          "home_team": "FK Čukarički",
+          "away_team": "TSC Bačka Topola",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-09-28",
+          "time": "20:00",
+          "home_team": "Vojvodina",
+          "away_team": "Radnički Niš",
+          "result": {
+            "full_time": "3-3"
+          }
+        },
+        {
+          "date": "2024-09-29",
+          "time": "15:00",
+          "home_team": "Tekstilac Odžaci",
+          "away_team": "FK Napredak",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-09-29",
+          "time": "17:00",
+          "home_team": "Mladost Lučani",
+          "away_team": "Partizan",
+          "result": {
+            "full_time": "1-3"
+          }
+        },
+        {
+          "date": "2024-09-29",
+          "time": "19:00",
+          "home_team": "Jedinstvo Ub",
+          "away_team": "Spartak Subotica",
+          "result": {
+            "full_time": "2-0"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 11",
+      "matches": [
+        {
+          "date": "2024-09-29",
+          "time": "17:30",
+          "home_team": "Radnički Niš",
+          "away_team": "OFK Beograd",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-09-29",
+          "time": "14:00",
+          "home_team": "FK Radnički 1923",
+          "away_team": "FK Čukarički",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-09-29",
+          "time": "16:00",
+          "home_team": "Železničar Pančevo",
+          "away_team": "Mladost Lučani",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-09-29",
+          "time": "18:30",
+          "home_team": "Partizan",
+          "away_team": "Tekstilac Odžaci",
+          "result": {
+            "full_time": "4-1"
+          }
+        },
+        {
+          "date": "2024-09-29",
+          "time": "14:00",
+          "home_team": "FK Napredak",
+          "away_team": "FK Novi Pazar",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-09-29",
+          "time": "19:00",
+          "home_team": "IMT Beograd",
+          "away_team": "Crvena Zvezda",
+          "result": {
+            "full_time": "1-3"
+          }
+        },
+        {
+          "date": "2024-09-29",
+          "time": "19:00",
+          "home_team": "Spartak Subotica",
+          "away_team": "Vojvodina",
+          "result": {
+            "full_time": "0-4"
+          }
+        },
+        {
+          "date": "2024-09-29",
+          "time": "21:00",
+          "home_team": "TSC Bačka Topola",
+          "away_team": "Jedinstvo Ub",
+          "result": {
+            "full_time": "2-0"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 12",
+      "matches": [
+        {
+          "date": "2024-10-18",
+          "time": "16:00",
+          "home_team": "Crvena Zvezda",
+          "away_team": "Radnički Niš",
+          "result": {
+            "full_time": "5-1"
+          }
+        },
+        {
+          "date": "2024-10-18",
+          "time": "18:00",
+          "home_team": "FK Čukarički",
+          "away_team": "FK Napredak",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-10-18",
+          "time": "19:00",
+          "home_team": "TSC Bačka Topola",
+          "away_team": "FK Radnički 1923",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-10-19",
+          "time": "14:00",
+          "home_team": "OFK Beograd",
+          "away_team": "Spartak Subotica",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-10-19",
+          "time": "16:00",
+          "home_team": "Tekstilac Odžaci",
+          "away_team": "Železničar Pančevo",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-10-19",
+          "time": "18:00",
+          "home_team": "Jedinstvo Ub",
+          "away_team": "Vojvodina",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-10-20",
+          "time": "17:00",
+          "home_team": "Mladost Lučani",
+          "away_team": "IMT Beograd",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-10-21",
+          "time": "16:00",
+          "home_team": "FK Novi Pazar",
+          "away_team": "Partizan",
+          "result": {
+            "full_time": "3-4"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 13",
+      "matches": [
+        {
+          "date": "2024-10-25",
+          "time": "16:30",
+          "home_team": "IMT Beograd",
+          "away_team": "Tekstilac Odžaci",
+          "result": {
+            "full_time": "3-0"
+          }
+        },
+        {
+          "date": "2024-10-25",
+          "time": "18:30",
+          "home_team": "FK Radnički 1923",
+          "away_team": "Jedinstvo Ub",
+          "result": {
+            "full_time": "4-0"
+          }
+        },
+        {
+          "date": "2024-10-26",
+          "time": "15:55",
+          "home_team": "Partizan",
+          "away_team": "FK Čukarički",
+          "result": {
+            "full_time": "3-1"
+          }
+        },
+        {
+          "date": "2024-10-26",
+          "time": "18:00",
+          "home_team": "Železničar Pančevo",
+          "away_team": "FK Novi Pazar",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-10-26",
+          "time": "18:00",
+          "home_team": "Spartak Subotica",
+          "away_team": "Crvena Zvezda",
+          "result": {
+            "full_time": "1-5"
+          }
+        },
+        {
+          "date": "2024-10-26",
+          "time": "20:00",
+          "home_team": "Vojvodina",
+          "away_team": "OFK Beograd",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-10-27",
+          "time": "19:00",
+          "home_team": "FK Napredak",
+          "away_team": "TSC Bačka Topola",
+          "result": {
+            "full_time": "0-3"
+          }
+        },
+        {
+          "date": "2024-10-27",
+          "time": "20:00",
+          "home_team": "Radnički Niš",
+          "away_team": "Mladost Lučani",
+          "result": {
+            "full_time": "1-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 14",
+      "matches": [
+        {
+          "date": "2024-10-27",
+          "time": "13:00",
+          "home_team": "Tekstilac Odžaci",
+          "away_team": "Radnički Niš",
+          "result": {
+            "full_time": "1-3"
+          }
+        },
+        {
+          "date": "2024-10-27",
+          "time": "13:00",
+          "home_team": "FK Novi Pazar",
+          "away_team": "IMT Beograd",
+          "result": {
+            "full_time": "3-1"
+          }
+        },
+        {
+          "date": "2024-10-27",
+          "time": "17:00",
+          "home_team": "Crvena Zvezda",
+          "away_team": "Vojvodina",
+          "result": {
+            "full_time": "3-0"
+          }
+        },
+        {
+          "date": "2024-10-27",
+          "time": "17:00",
+          "home_team": "FK Radnički 1923",
+          "away_team": "FK Napredak",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-10-27",
+          "time": "19:30",
+          "home_team": "TSC Bačka Topola",
+          "away_team": "Partizan",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-10-27",
+          "time": "16:30",
+          "home_team": "Mladost Lučani",
+          "away_team": "Spartak Subotica",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-10-27",
+          "time": "18:30",
+          "home_team": "Jedinstvo Ub",
+          "away_team": "OFK Beograd",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-10-27",
+          "time": "18:30",
+          "home_team": "FK Čukarički",
+          "away_team": "Železničar Pančevo",
+          "result": {
+            "full_time": "2-0"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 15",
+      "matches": [
+        {
+          "date": "2024-10-27",
+          "time": "13:00",
+          "home_team": "Radnički Niš",
+          "away_team": "FK Novi Pazar",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-10-27",
+          "time": "15:00",
+          "home_team": "IMT Beograd",
+          "away_team": "FK Čukarički",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-10-27",
+          "time": "16:00",
+          "home_team": "Spartak Subotica",
+          "away_team": "Tekstilac Odžaci",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-10-27",
+          "time": "18:30",
+          "home_team": "Vojvodina",
+          "away_team": "Mladost Lučani",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-11-10",
+          "time": "13:00",
+          "home_team": "FK Napredak",
+          "away_team": "Jedinstvo Ub",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-11-10",
+          "time": "15:00",
+          "home_team": "Partizan",
+          "away_team": "FK Radnički 1923",
+          "result": {
+            "full_time": "2-2"
+          }
+        },
+        {
+          "date": "2024-11-10",
+          "time": "15:00",
+          "home_team": "Železničar Pančevo",
+          "away_team": "TSC Bačka Topola",
+          "result": {
+            "full_time": "3-3"
+          }
+        },
+        {
+          "date": "2024-11-10",
+          "time": "17:00",
+          "home_team": "OFK Beograd",
+          "away_team": "Crvena Zvezda",
+          "result": {
+            "full_time": "0-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 16",
+      "matches": [
+        {
+          "date": "2024-11-23",
+          "time": "14:00",
+          "home_team": "Radnički Niš",
+          "away_team": "FK Čukarički",
+          "result": {
+            "full_time": "2-2"
+          }
+        },
+        {
+          "date": "2024-11-23",
+          "time": "15:00",
+          "home_team": "Spartak Subotica",
+          "away_team": "FK Novi Pazar",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-11-23",
+          "time": "19:00",
+          "home_team": "Vojvodina",
+          "away_team": "Tekstilac Odžaci",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-11-24",
+          "time": "14:00",
+          "home_team": "OFK Beograd",
+          "away_team": "Mladost Lučani",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-11-24",
+          "time": "16:00",
+          "home_team": "Partizan",
+          "away_team": "FK Napredak",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-11-24",
+          "time": "18:00",
+          "home_team": "Železničar Pančevo",
+          "away_team": "FK Radnički 1923",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-12-18",
+          "time": "16:00",
+          "home_team": "Jedinstvo Ub",
+          "away_team": "Crvena Zvezda",
+          "result": {
+            "full_time": "0-4"
+          }
+        },
+        {
+          "date": "2024-12-26",
+          "time": "13:00",
+          "home_team": "IMT Beograd",
+          "away_team": "TSC Bačka Topola",
+          "result": {
+            "full_time": "0-2"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 17",
+      "matches": [
+        {
+          "date": "2024-11-29",
+          "time": "14:30",
+          "home_team": "FK Novi Pazar",
+          "away_team": "Vojvodina",
+          "result": {
+            "full_time": "0-4"
+          }
+        },
+        {
+          "date": "2024-11-29",
+          "time": "16:30",
+          "home_team": "FK Čukarički",
+          "away_team": "Spartak Subotica",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-11-29",
+          "time": "18:30",
+          "home_team": "Tekstilac Odžaci",
+          "away_team": "OFK Beograd",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-11-30",
+          "time": "14:00",
+          "home_team": "FK Napredak",
+          "away_team": "Železničar Pančevo",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-11-30",
+          "time": "14:00",
+          "home_team": "FK Radnički 1923",
+          "away_team": "IMT Beograd",
+          "result": {
+            "full_time": "1-3"
+          }
+        },
+        {
+          "date": "2024-11-30",
+          "time": "14:55",
+          "home_team": "Partizan",
+          "away_team": "Jedinstvo Ub",
+          "result": {
+            "full_time": "3-0"
+          }
+        },
+        {
+          "date": "2024-11-30",
+          "time": "17:00",
+          "home_team": "Mladost Lučani",
+          "away_team": "Crvena Zvezda",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-11-30",
+          "time": "17:00",
+          "home_team": "TSC Bačka Topola",
+          "away_team": "Radnički Niš",
+          "result": {
+            "full_time": "4-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 18",
+      "matches": [
+        {
+          "date": "2024-11-30",
+          "time": "17:00",
+          "home_team": "Crvena Zvezda",
+          "away_team": "Tekstilac Odžaci",
+          "result": {
+            "full_time": "6-0"
+          }
+        },
+        {
+          "date": "2024-11-30",
+          "time": "13:00",
+          "home_team": "Jedinstvo Ub",
+          "away_team": "Mladost Lučani",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-11-30",
+          "time": "15:00",
+          "home_team": "Vojvodina",
+          "away_team": "FK Čukarički",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-11-30",
+          "time": "17:00",
+          "home_team": "Spartak Subotica",
+          "away_team": "TSC Bačka Topola",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-11-30",
+          "time": "19:00",
+          "home_team": "Železničar Pančevo",
+          "away_team": "Partizan",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-11-30",
+          "time": "14:00",
+          "home_team": "OFK Beograd",
+          "away_team": "FK Novi Pazar",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-11-30",
+          "time": "16:00",
+          "home_team": "IMT Beograd",
+          "away_team": "FK Napredak",
+          "result": {
+            "full_time": "3-2"
+          }
+        },
+        {
+          "date": "2024-11-30",
+          "time": "18:00",
+          "home_team": "Radnički Niš",
+          "away_team": "FK Radnički 1923",
+          "result": {
+            "full_time": "1-2"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 19",
+      "matches": [
+        {
+          "date": "2024-12-14",
+          "time": "13:00",
+          "home_team": "Tekstilac Odžaci",
+          "away_team": "Mladost Lučani",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-12-14",
+          "time": "16:00",
+          "home_team": "Železničar Pančevo",
+          "away_team": "Jedinstvo Ub",
+          "result": {
+            "full_time": "6-0"
+          }
+        },
+        {
+          "date": "2024-12-15",
+          "time": "13:00",
+          "home_team": "FK Napredak",
+          "away_team": "Radnički Niš",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-12-15",
+          "time": "14:00",
+          "home_team": "FK Čukarički",
+          "away_team": "OFK Beograd",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-12-15",
+          "time": "15:00",
+          "home_team": "FK Novi Pazar",
+          "away_team": "Crvena Zvezda",
+          "result": {
+            "full_time": "1-7"
+          }
+        },
+        {
+          "date": "2024-12-15",
+          "time": "16:30",
+          "home_team": "TSC Bačka Topola",
+          "away_team": "Vojvodina",
+          "result": {
+            "full_time": "1-3"
+          }
+        },
+        {
+          "date": "2024-12-16",
+          "time": "17:00",
+          "home_team": "FK Radnički 1923",
+          "away_team": "Spartak Subotica",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-12-16",
+          "time": "19:00",
+          "home_team": "Partizan",
+          "away_team": "IMT Beograd",
+          "result": {
+            "full_time": "1-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 20",
+      "matches": [
+        {
+          "date": "2024-12-20",
+          "time": "17:00",
+          "home_team": "Mladost Lučani",
+          "away_team": "FK Novi Pazar",
+          "result": {
+            "full_time": "1-3"
+          }
+        },
+        {
+          "date": "2024-12-21",
+          "time": "13:00",
+          "home_team": "IMT Beograd",
+          "away_team": "Železničar Pančevo",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-12-21",
+          "time": "14:00",
+          "home_team": "Vojvodina",
+          "away_team": "FK Radnički 1923",
+          "result": {
+            "full_time": "3-2"
+          }
+        },
+        {
+          "date": "2024-12-21",
+          "time": "16:00",
+          "home_team": "Radnički Niš",
+          "away_team": "Partizan",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-12-22",
+          "time": "13:00",
+          "home_team": "Jedinstvo Ub",
+          "away_team": "Tekstilac Odžaci",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-12-22",
+          "time": "15:00",
+          "home_team": "Crvena Zvezda",
+          "away_team": "FK Čukarički",
+          "result": {
+            "full_time": "5-2"
+          }
+        },
+        {
+          "date": "2024-12-22",
+          "time": "17:00",
+          "home_team": "Spartak Subotica",
+          "away_team": "FK Napredak",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-12-23",
+          "time": "14:30",
+          "home_team": "OFK Beograd",
+          "away_team": "TSC Bačka Topola",
+          "result": {
+            "full_time": "2-2"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 21",
+      "matches": [
+        {
+          "date": "2025-01-31",
+          "time": "17:00",
+          "home_team": "FK Napredak",
+          "away_team": "Vojvodina",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2025-01-31",
+          "time": "14:00",
+          "home_team": "FK Čukarički",
+          "away_team": "Mladost Lučani",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2025-01-31",
+          "time": "16:00",
+          "home_team": "FK Novi Pazar",
+          "away_team": "Tekstilac Odžaci",
+          "result": {
+            "full_time": "2-3"
+          }
+        },
+        {
+          "date": "2025-01-31",
+          "time": "18:30",
+          "home_team": "Partizan",
+          "away_team": "Spartak Subotica",
+          "result": {
+            "full_time": "2-2"
+          }
+        },
+        {
+          "date": "2025-01-31",
+          "time": "14:00",
+          "home_team": "IMT Beograd",
+          "away_team": "Jedinstvo Ub",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2025-01-31",
+          "time": "16:00",
+          "home_team": "TSC Bačka Topola",
+          "away_team": "Crvena Zvezda",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2025-01-31",
+          "time": "17:00",
+          "home_team": "Železničar Pančevo",
+          "away_team": "Radnički Niš",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2025-01-31",
+          "time": "17:00",
+          "home_team": "FK Radnički 1923",
+          "away_team": "OFK Beograd",
+          "result": {
+            "full_time": "2-0"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 22",
+      "matches": [
+        {
+          "date": "2025-01-31",
+          "time": "15:00",
+          "home_team": "Tekstilac Odžaci",
+          "away_team": "FK Čukarički",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2025-01-31",
+          "time": "14:00",
+          "home_team": "Mladost Lučani",
+          "away_team": "TSC Bačka Topola",
+          "result": {
+            "full_time": "4-1"
+          }
+        },
+        {
+          "date": "2025-01-31",
+          "time": "16:00",
+          "home_team": "Crvena Zvezda",
+          "away_team": "FK Radnički 1923",
+          "result": {
+            "full_time": "6-0"
+          }
+        },
+        {
+          "date": "2025-01-31",
+          "time": "18:30",
+          "home_team": "Vojvodina",
+          "away_team": "Partizan",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2025-01-31",
+          "time": "14:00",
+          "home_team": "Jedinstvo Ub",
+          "away_team": "FK Novi Pazar",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2025-01-31",
+          "time": "16:00",
+          "home_team": "OFK Beograd",
+          "away_team": "FK Napredak",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2025-01-31",
+          "time": "18:00",
+          "home_team": "Radnički Niš",
+          "away_team": "IMT Beograd",
+          "result": {
+            "full_time": "3-0"
+          }
+        },
+        {
+          "date": "2025-01-31",
+          "time": "18:30",
+          "home_team": "Spartak Subotica",
+          "away_team": "Železničar Pančevo",
+          "result": {
+            "full_time": "0-0"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 23",
+      "matches": [
+        {
+          "date": "2024-02-15",
+          "time": "13:00",
+          "home_team": "IMT Beograd",
+          "away_team": "Spartak Subotica",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-02-15",
+          "time": "14:00",
+          "home_team": "Partizan",
+          "away_team": "OFK Beograd",
+          "result": {
+            "full_time": "4-1"
+          }
+        },
+        {
+          "date": "2024-02-15",
+          "time": "15:00",
+          "home_team": "FK Napredak",
+          "away_team": "Crvena Zvezda",
+          "result": {
+            "full_time": "0-4"
+          }
+        },
+        {
+          "date": "2024-02-16",
+          "time": "13:00",
+          "home_team": "FK Radnički 1923",
+          "away_team": "Mladost Lučani",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-02-16",
+          "time": "13:55",
+          "home_team": "Radnički Niš",
+          "away_team": "Jedinstvo Ub",
+          "result": {
+            "full_time": "1-4"
+          }
+        },
+        {
+          "date": "2024-02-16",
+          "time": "17:00",
+          "home_team": "TSC Bačka Topola",
+          "away_team": "Tekstilac Odžaci",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-02-17",
+          "time": "15:00",
+          "home_team": "FK Čukarički",
+          "away_team": "FK Novi Pazar",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-02-17",
+          "time": "17:00",
+          "home_team": "Železničar Pančevo",
+          "away_team": "Vojvodina",
+          "result": {
+            "full_time": "1-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 24",
+      "matches": [
+        {
+          "date": "2024-02-21",
+          "time": "15:00",
+          "home_team": "Spartak Subotica",
+          "away_team": "Radnički Niš",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-02-21",
+          "time": "16:00",
+          "home_team": "Tekstilac Odžaci",
+          "away_team": "FK Radnički 1923",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-02-22",
+          "time": "13:00",
+          "home_team": "Vojvodina",
+          "away_team": "IMT Beograd",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-02-22",
+          "time": "16:00",
+          "home_team": "Crvena Zvezda",
+          "away_team": "Partizan",
+          "result": {
+            "full_time": "3-3"
+          }
+        },
+        {
+          "date": "2024-02-23",
+          "time": "17:00",
+          "home_team": "Mladost Lučani",
+          "away_team": "FK Napredak",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-02-23",
+          "time": "20:00",
+          "home_team": "Jedinstvo Ub",
+          "away_team": "FK Čukarički",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-02-24",
+          "time": "16:30",
+          "home_team": "FK Novi Pazar",
+          "away_team": "TSC Bačka Topola",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-03-12",
+          "time": "14:00",
+          "home_team": "OFK Beograd",
+          "away_team": "Železničar Pančevo",
+          "result": {
+            "full_time": "1-2"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 25",
+      "matches": [
+        {
+          "date": "2024-02-26",
+          "time": "13:00",
+          "home_team": "Spartak Subotica",
+          "away_team": "Jedinstvo Ub",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-02-26",
+          "time": "16:00",
+          "home_team": "Železničar Pančevo",
+          "away_team": "Crvena Zvezda",
+          "result": {
+            "full_time": "1-3"
+          }
+        },
+        {
+          "date": "2024-02-26",
+          "time": "18:05",
+          "home_team": "Partizan",
+          "away_team": "Mladost Lučani",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-02-26",
+          "time": "18:30",
+          "home_team": "Radnički Niš",
+          "away_team": "Vojvodina",
+          "result": {
+            "full_time": "1-4"
+          }
+        },
+        {
+          "date": "2024-02-26",
+          "time": "19:30",
+          "home_team": "IMT Beograd",
+          "away_team": "OFK Beograd",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-02-27",
+          "time": "17:00",
+          "home_team": "FK Napredak",
+          "away_team": "Tekstilac Odžaci",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-02-27",
+          "time": "18:30",
+          "home_team": "FK Radnički 1923",
+          "away_team": "FK Novi Pazar",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-02-27",
+          "time": "19:00",
+          "home_team": "TSC Bačka Topola",
+          "away_team": "FK Čukarički",
+          "result": {
+            "full_time": "2-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 26",
+      "matches": [
+        {
+          "date": "2024-02-27",
+          "time": "13:00",
+          "home_team": "OFK Beograd",
+          "away_team": "Radnički Niš",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-02-27",
+          "time": "14:00",
+          "home_team": "Tekstilac Odžaci",
+          "away_team": "Partizan",
+          "result": {
+            "full_time": "1-4"
+          }
+        },
+        {
+          "date": "2024-02-27",
+          "time": "16:00",
+          "home_team": "Crvena Zvezda",
+          "away_team": "IMT Beograd",
+          "result": {
+            "full_time": "4-0"
+          }
+        },
+        {
+          "date": "2024-02-27",
+          "time": "17:00",
+          "home_team": "Vojvodina",
+          "away_team": "Spartak Subotica",
+          "result": {
+            "full_time": "1-3"
+          }
+        },
+        {
+          "date": "2024-02-27",
+          "time": "14:00",
+          "home_team": "Jedinstvo Ub",
+          "away_team": "TSC Bačka Topola",
+          "result": {
+            "full_time": "4-1"
+          }
+        },
+        {
+          "date": "2024-02-27",
+          "time": "16:30",
+          "home_team": "FK Novi Pazar",
+          "away_team": "FK Napredak",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-02-27",
+          "time": "18:30",
+          "home_team": "Mladost Lučani",
+          "away_team": "Železničar Pančevo",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-02-27",
+          "time": "20:00",
+          "home_team": "FK Čukarički",
+          "away_team": "FK Radnički 1923",
+          "result": {
+            "full_time": "1-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 27",
+      "matches": [
+        {
+          "date": "2024-02-27",
+          "time": "18:00",
+          "home_team": "Spartak Subotica",
+          "away_team": "OFK Beograd",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-02-27",
+          "time": "20:00",
+          "home_team": "Železničar Pančevo",
+          "away_team": "Tekstilac Odžaci",
+          "result": {
+            "full_time": "3-0"
+          }
+        },
+        {
+          "date": "2024-02-27",
+          "time": "13:00",
+          "home_team": "FK Napredak",
+          "away_team": "FK Čukarički",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-02-27",
+          "time": "16:00",
+          "home_team": "Radnički Niš",
+          "away_team": "Crvena Zvezda",
+          "result": {
+            "full_time": "0-3"
+          }
+        },
+        {
+          "date": "2024-02-27",
+          "time": "18:05",
+          "home_team": "Partizan",
+          "away_team": "FK Novi Pazar",
+          "result": {
+            "full_time": "3-2"
+          }
+        },
+        {
+          "date": "2024-02-27",
+          "time": "19:00",
+          "home_team": "FK Radnički 1923",
+          "away_team": "TSC Bačka Topola",
+          "result": {
+            "full_time": "1-3"
+          }
+        },
+        {
+          "date": "2024-02-27",
+          "time": "15:00",
+          "home_team": "IMT Beograd",
+          "away_team": "Mladost Lučani",
+          "result": {
+            "full_time": "3-0"
+          }
+        },
+        {
+          "date": "2024-02-27",
+          "time": "17:00",
+          "home_team": "Vojvodina",
+          "away_team": "Jedinstvo Ub",
+          "result": {
+            "full_time": "1-0"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 28",
+      "matches": [
+        {
+          "date": "2024-03-14",
+          "time": "19:00",
+          "home_team": "Jedinstvo Ub",
+          "away_team": "FK Radnički 1923",
+          "result": {
+            "full_time": "2-2"
+          }
+        },
+        {
+          "date": "2024-03-15",
+          "time": "14:00",
+          "home_team": "Tekstilac Odžaci",
+          "away_team": "IMT Beograd",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-03-16",
+          "time": "13:00",
+          "home_team": "TSC Bačka Topola",
+          "away_team": "FK Napredak",
+          "result": {
+            "full_time": "4-2"
+          }
+        },
+        {
+          "date": "2024-03-16",
+          "time": "16:00",
+          "home_team": "Crvena Zvezda",
+          "away_team": "Spartak Subotica",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-03-16",
+          "time": "16:30",
+          "home_team": "OFK Beograd",
+          "away_team": "Vojvodina",
+          "result": {
+            "full_time": "3-1"
+          }
+        },
+        {
+          "date": "2024-03-16",
+          "time": "18:05",
+          "home_team": "FK Čukarički",
+          "away_team": "Partizan",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-03-16",
+          "time": "20:00",
+          "home_team": "Mladost Lučani",
+          "away_team": "Radnički Niš",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-03-17",
+          "time": "19:00",
+          "home_team": "FK Novi Pazar",
+          "away_team": "Železničar Pančevo",
+          "result": {
+            "full_time": "3-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 29",
+      "matches": [
+        {
+          "date": "2024-03-28",
+          "time": "18:00",
+          "home_team": "IMT Beograd",
+          "away_team": "FK Novi Pazar"
+        },
+        {
+          "date": "2024-03-29",
+          "time": "15:30",
+          "home_team": "Radnički Niš",
+          "away_team": "Tekstilac Odžaci"
+        },
+        {
+          "date": "2024-03-29",
+          "time": "16:30",
+          "home_team": "Partizan",
+          "away_team": "TSC Bačka Topola"
+        },
+        {
+          "date": "2024-03-29",
+          "time": "19:00",
+          "home_team": "Vojvodina",
+          "away_team": "Crvena Zvezda"
+        },
+        {
+          "date": "2024-03-29",
+          "time": "20:00",
+          "home_team": "FK Napredak",
+          "away_team": "FK Radnički 1923"
+        },
+        {
+          "date": "2024-03-30",
+          "time": "15:00",
+          "home_team": "OFK Beograd",
+          "away_team": "Jedinstvo Ub"
+        },
+        {
+          "date": "2024-03-30",
+          "time": "16:30",
+          "home_team": "Spartak Subotica",
+          "away_team": "Mladost Lučani"
+        },
+        {
+          "date": "2024-03-30",
+          "time": "19:30",
+          "home_team": "Železničar Pančevo",
+          "away_team": "FK Čukarički"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 30",
+      "matches": [
+        {
+          "date": "2024-03-30",
+          "time": "19:30",
+          "home_team": "Jedinstvo Ub",
+          "away_team": "FK Napredak"
+        },
+        {
+          "date": "2024-03-30",
+          "time": "19:30",
+          "home_team": "FK Radnički 1923",
+          "away_team": "Partizan"
+        },
+        {
+          "date": "2024-03-30",
+          "time": "19:30",
+          "home_team": "TSC Bačka Topola",
+          "away_team": "Železničar Pančevo"
+        },
+        {
+          "date": "2024-03-30",
+          "time": "19:30",
+          "home_team": "FK Čukarički",
+          "away_team": "IMT Beograd"
+        },
+        {
+          "date": "2024-03-30",
+          "time": "19:30",
+          "home_team": "FK Novi Pazar",
+          "away_team": "Radnički Niš"
+        },
+        {
+          "date": "2024-03-30",
+          "time": "19:30",
+          "home_team": "Tekstilac Odžaci",
+          "away_team": "Spartak Subotica"
+        },
+        {
+          "date": "2024-03-30",
+          "time": "19:30",
+          "home_team": "Mladost Lučani",
+          "away_team": "Vojvodina"
+        },
+        {
+          "date": "2024-03-30",
+          "time": "19:30",
+          "home_team": "Crvena Zvezda",
+          "away_team": "OFK Beograd"
+        }
+      ]
+    }
+  ]
+}

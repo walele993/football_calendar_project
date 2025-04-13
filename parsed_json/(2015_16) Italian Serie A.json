@@ -1,0 +1,3616 @@
+{
+  "league": "Italian Serie A",
+  "season": "2015/16",
+  "matchdays": [
+    {
+      "matchday": "Matchday 1",
+      "matches": [
+        {
+          "date": "2015-08-22",
+          "time": "18:00",
+          "home_team": "Hellas Verona",
+          "away_team": "AS Roma",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2015-08-22",
+          "time": "20:45",
+          "home_team": "Lazio Roma",
+          "away_team": "Bologna FC",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-08-23",
+          "time": "18:00",
+          "home_team": "Juventus",
+          "away_team": "Udinese Calcio",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-08-23",
+          "time": "20:45",
+          "home_team": "Empoli FC",
+          "away_team": "Chievo Verona",
+          "result": {
+            "full_time": "1-3"
+          }
+        },
+        {
+          "date": "2024-08-23",
+          "time": "20:45",
+          "home_team": "ACF Fiorentina",
+          "away_team": "AC Milan",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-08-23",
+          "time": "20:45",
+          "home_team": "Frosinone Calcio",
+          "away_team": "Torino FC",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-08-23",
+          "time": "20:45",
+          "home_team": "Inter",
+          "away_team": "Atalanta",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-08-23",
+          "time": "20:45",
+          "home_team": "US Palermo",
+          "away_team": "Genoa CFC",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-08-23",
+          "time": "20:45",
+          "home_team": "Sampdoria",
+          "away_team": "Carpi FC",
+          "result": {
+            "full_time": "5-2"
+          }
+        },
+        {
+          "date": "2024-08-23",
+          "time": "20:45",
+          "home_team": "Sassuolo Calcio",
+          "away_team": "SSC Napoli",
+          "result": {
+            "full_time": "2-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 2",
+      "matches": [
+        {
+          "date": "2024-08-29",
+          "time": "18:00",
+          "home_team": "Bologna FC",
+          "away_team": "Sassuolo Calcio",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-08-29",
+          "time": "20:45",
+          "home_team": "AC Milan",
+          "away_team": "Empoli FC",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-08-30",
+          "time": "18:00",
+          "home_team": "AS Roma",
+          "away_team": "Juventus",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-08-30",
+          "time": "20:45",
+          "home_team": "Atalanta",
+          "away_team": "Frosinone Calcio",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-08-30",
+          "time": "20:45",
+          "home_team": "Carpi FC",
+          "away_team": "Inter",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-08-30",
+          "time": "20:45",
+          "home_team": "Chievo Verona",
+          "away_team": "Lazio Roma",
+          "result": {
+            "full_time": "4-0"
+          }
+        },
+        {
+          "date": "2024-08-30",
+          "time": "20:45",
+          "home_team": "Genoa CFC",
+          "away_team": "Hellas Verona",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-08-30",
+          "time": "20:45",
+          "home_team": "SSC Napoli",
+          "away_team": "Sampdoria",
+          "result": {
+            "full_time": "2-2"
+          }
+        },
+        {
+          "date": "2024-08-30",
+          "time": "20:45",
+          "home_team": "Torino FC",
+          "away_team": "ACF Fiorentina",
+          "result": {
+            "full_time": "3-1"
+          }
+        },
+        {
+          "date": "2024-08-30",
+          "time": "20:45",
+          "home_team": "Udinese Calcio",
+          "away_team": "US Palermo",
+          "result": {
+            "full_time": "0-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 3",
+      "matches": [
+        {
+          "date": "2024-09-12",
+          "time": "18:00",
+          "home_team": "ACF Fiorentina",
+          "away_team": "Genoa CFC",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-09-12",
+          "time": "18:00",
+          "home_team": "Frosinone Calcio",
+          "away_team": "AS Roma",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-09-12",
+          "time": "20:45",
+          "home_team": "Juventus",
+          "away_team": "Chievo Verona",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-09-13",
+          "time": "12:30",
+          "home_team": "Hellas Verona",
+          "away_team": "Torino FC",
+          "result": {
+            "full_time": "2-2"
+          }
+        },
+        {
+          "date": "2024-09-13",
+          "time": "15:00",
+          "home_team": "Empoli FC",
+          "away_team": "SSC Napoli",
+          "result": {
+            "full_time": "2-2"
+          }
+        },
+        {
+          "date": "2024-09-13",
+          "time": "15:00",
+          "home_team": "US Palermo",
+          "away_team": "Carpi FC",
+          "result": {
+            "full_time": "2-2"
+          }
+        },
+        {
+          "date": "2024-09-13",
+          "time": "15:00",
+          "home_team": "Sassuolo Calcio",
+          "away_team": "Atalanta",
+          "result": {
+            "full_time": "2-2"
+          }
+        },
+        {
+          "date": "2024-09-13",
+          "time": "18:00",
+          "home_team": "Lazio Roma",
+          "away_team": "Udinese Calcio",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-09-13",
+          "time": "20:45",
+          "home_team": "Inter",
+          "away_team": "AC Milan",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-09-14",
+          "time": "20:45",
+          "home_team": "Sampdoria",
+          "away_team": "Bologna FC",
+          "result": {
+            "full_time": "2-0"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 4",
+      "matches": [
+        {
+          "date": "2024-09-19",
+          "time": "18:00",
+          "home_team": "Udinese Calcio",
+          "away_team": "Empoli FC",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-09-19",
+          "time": "20:45",
+          "home_team": "AC Milan",
+          "away_team": "US Palermo",
+          "result": {
+            "full_time": "3-2"
+          }
+        },
+        {
+          "date": "2024-09-20",
+          "time": "12:30",
+          "home_team": "Chievo Verona",
+          "away_team": "Inter",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-09-20",
+          "time": "15:00",
+          "home_team": "Atalanta",
+          "away_team": "Hellas Verona",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-09-20",
+          "time": "15:00",
+          "home_team": "Bologna FC",
+          "away_team": "Frosinone Calcio",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-09-20",
+          "time": "15:00",
+          "home_team": "Genoa CFC",
+          "away_team": "Juventus",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-09-20",
+          "time": "15:00",
+          "home_team": "AS Roma",
+          "away_team": "Sassuolo Calcio",
+          "result": {
+            "full_time": "2-2"
+          }
+        },
+        {
+          "date": "2024-09-20",
+          "time": "15:00",
+          "home_team": "Torino FC",
+          "away_team": "Sampdoria",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-09-20",
+          "time": "18:00",
+          "home_team": "Carpi FC",
+          "away_team": "ACF Fiorentina",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-09-20",
+          "time": "20:45",
+          "home_team": "SSC Napoli",
+          "away_team": "Lazio Roma",
+          "result": {
+            "full_time": "5-0"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 5",
+      "matches": [
+        {
+          "date": "2024-09-22",
+          "time": "20:45",
+          "home_team": "Udinese Calcio",
+          "away_team": "AC Milan",
+          "result": {
+            "full_time": "2-3"
+          }
+        },
+        {
+          "date": "2024-09-23",
+          "time": "20:45",
+          "home_team": "Carpi FC",
+          "away_team": "SSC Napoli",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-09-23",
+          "time": "20:45",
+          "home_team": "Chievo Verona",
+          "away_team": "Torino FC",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-09-23",
+          "time": "20:45",
+          "home_team": "Inter",
+          "away_team": "Hellas Verona",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-09-23",
+          "time": "20:45",
+          "home_team": "Juventus",
+          "away_team": "Frosinone Calcio",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-09-23",
+          "time": "20:45",
+          "home_team": "Lazio Roma",
+          "away_team": "Genoa CFC",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-09-23",
+          "time": "20:45",
+          "home_team": "US Palermo",
+          "away_team": "Sassuolo Calcio",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-09-23",
+          "time": "20:45",
+          "home_team": "Sampdoria",
+          "away_team": "AS Roma",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-09-23",
+          "time": "20:45",
+          "home_team": "ACF Fiorentina",
+          "away_team": "Bologna FC",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-09-24",
+          "time": "20:45",
+          "home_team": "Empoli FC",
+          "away_team": "Atalanta",
+          "result": {
+            "full_time": "0-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 6",
+      "matches": [
+        {
+          "date": "2024-09-26",
+          "time": "18:00",
+          "home_team": "AS Roma",
+          "away_team": "Carpi FC",
+          "result": {
+            "full_time": "5-1"
+          }
+        },
+        {
+          "date": "2024-09-26",
+          "time": "20:45",
+          "home_team": "SSC Napoli",
+          "away_team": "Juventus",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-09-27",
+          "time": "12:30",
+          "home_team": "Genoa CFC",
+          "away_team": "AC Milan",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-09-27",
+          "time": "15:00",
+          "home_team": "Bologna FC",
+          "away_team": "Udinese Calcio",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-09-27",
+          "time": "15:00",
+          "home_team": "Hellas Verona",
+          "away_team": "Lazio Roma",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-09-27",
+          "time": "15:00",
+          "home_team": "Sassuolo Calcio",
+          "away_team": "Chievo Verona",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-09-27",
+          "time": "15:00",
+          "home_team": "Torino FC",
+          "away_team": "US Palermo",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-09-27",
+          "time": "20:45",
+          "home_team": "Inter",
+          "away_team": "ACF Fiorentina",
+          "result": {
+            "full_time": "1-4"
+          }
+        },
+        {
+          "date": "2024-09-28",
+          "time": "19:00",
+          "home_team": "Frosinone Calcio",
+          "away_team": "Empoli FC",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-09-28",
+          "time": "21:00",
+          "home_team": "Atalanta",
+          "away_team": "Sampdoria",
+          "result": {
+            "full_time": "2-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 7",
+      "matches": [
+        {
+          "date": "2024-09-28",
+          "time": "18:00",
+          "home_team": "Carpi FC",
+          "away_team": "Torino FC",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-09-28",
+          "time": "20:45",
+          "home_team": "Chievo Verona",
+          "away_team": "Hellas Verona",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-09-28",
+          "time": "12:30",
+          "home_team": "Empoli FC",
+          "away_team": "Sassuolo Calcio",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-09-28",
+          "time": "15:00",
+          "home_team": "US Palermo",
+          "away_team": "AS Roma",
+          "result": {
+            "full_time": "2-4"
+          }
+        },
+        {
+          "date": "2024-09-28",
+          "time": "15:00",
+          "home_team": "Sampdoria",
+          "away_team": "Inter",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-09-28",
+          "time": "15:00",
+          "home_team": "Udinese Calcio",
+          "away_team": "Genoa CFC",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-09-28",
+          "time": "18:00",
+          "home_team": "Juventus",
+          "away_team": "Bologna FC",
+          "result": {
+            "full_time": "3-1"
+          }
+        },
+        {
+          "date": "2024-09-28",
+          "time": "18:00",
+          "home_team": "Lazio Roma",
+          "away_team": "Frosinone Calcio",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-09-28",
+          "time": "20:45",
+          "home_team": "ACF Fiorentina",
+          "away_team": "Atalanta",
+          "result": {
+            "full_time": "3-0"
+          }
+        },
+        {
+          "date": "2024-09-28",
+          "time": "20:45",
+          "home_team": "AC Milan",
+          "away_team": "SSC Napoli",
+          "result": {
+            "full_time": "0-4"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 8",
+      "matches": [
+        {
+          "date": "2024-10-17",
+          "time": "18:00",
+          "home_team": "AS Roma",
+          "away_team": "Empoli FC",
+          "result": {
+            "full_time": "3-1"
+          }
+        },
+        {
+          "date": "2024-10-17",
+          "time": "20:45",
+          "home_team": "Torino FC",
+          "away_team": "AC Milan",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-10-18",
+          "time": "12:30",
+          "home_team": "Bologna FC",
+          "away_team": "US Palermo",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-10-18",
+          "time": "15:00",
+          "home_team": "Atalanta",
+          "away_team": "Carpi FC",
+          "result": {
+            "full_time": "3-0"
+          }
+        },
+        {
+          "date": "2024-10-18",
+          "time": "15:00",
+          "home_team": "Frosinone Calcio",
+          "away_team": "Sampdoria",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-10-18",
+          "time": "15:00",
+          "home_team": "Genoa CFC",
+          "away_team": "Chievo Verona",
+          "result": {
+            "full_time": "3-2"
+          }
+        },
+        {
+          "date": "2024-10-18",
+          "time": "15:00",
+          "home_team": "Hellas Verona",
+          "away_team": "Udinese Calcio",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-10-18",
+          "time": "15:00",
+          "home_team": "SSC Napoli",
+          "away_team": "ACF Fiorentina",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-10-18",
+          "time": "15:00",
+          "home_team": "Sassuolo Calcio",
+          "away_team": "Lazio Roma",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-10-18",
+          "time": "20:45",
+          "home_team": "Inter",
+          "away_team": "Juventus",
+          "result": {
+            "full_time": "0-0"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 9",
+      "matches": [
+        {
+          "date": "2024-10-24",
+          "time": "15:00",
+          "home_team": "Empoli FC",
+          "away_team": "Genoa CFC",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-10-24",
+          "time": "18:00",
+          "home_team": "Carpi FC",
+          "away_team": "Bologna FC",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-10-24",
+          "time": "20:45",
+          "home_team": "US Palermo",
+          "away_team": "Inter",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-10-25",
+          "time": "12:30",
+          "home_team": "Sampdoria",
+          "away_team": "Hellas Verona",
+          "result": {
+            "full_time": "4-1"
+          }
+        },
+        {
+          "date": "2024-10-25",
+          "time": "15:00",
+          "home_team": "Juventus",
+          "away_team": "Atalanta",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-10-25",
+          "time": "15:00",
+          "home_team": "AC Milan",
+          "away_team": "Sassuolo Calcio",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-10-25",
+          "time": "15:00",
+          "home_team": "Udinese Calcio",
+          "away_team": "Frosinone Calcio",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-10-25",
+          "time": "18:00",
+          "home_team": "ACF Fiorentina",
+          "away_team": "AS Roma",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-10-25",
+          "time": "18:00",
+          "home_team": "Lazio Roma",
+          "away_team": "Torino FC",
+          "result": {
+            "full_time": "3-0"
+          }
+        },
+        {
+          "date": "2024-10-25",
+          "time": "20:45",
+          "home_team": "Chievo Verona",
+          "away_team": "SSC Napoli",
+          "result": {
+            "full_time": "0-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 10",
+      "matches": [
+        {
+          "date": "2024-10-27",
+          "time": "20:45",
+          "home_team": "Bologna FC",
+          "away_team": "Inter",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-10-28",
+          "time": "20:45",
+          "home_team": "Atalanta",
+          "away_team": "Lazio Roma",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-10-28",
+          "time": "20:45",
+          "home_team": "Frosinone Calcio",
+          "away_team": "Carpi FC",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-10-28",
+          "time": "20:45",
+          "home_team": "Hellas Verona",
+          "away_team": "ACF Fiorentina",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-10-28",
+          "time": "20:45",
+          "home_team": "AC Milan",
+          "away_team": "Chievo Verona",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-10-28",
+          "time": "20:45",
+          "home_team": "SSC Napoli",
+          "away_team": "US Palermo",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-10-28",
+          "time": "20:45",
+          "home_team": "AS Roma",
+          "away_team": "Udinese Calcio",
+          "result": {
+            "full_time": "3-1"
+          }
+        },
+        {
+          "date": "2024-10-28",
+          "time": "20:45",
+          "home_team": "Sassuolo Calcio",
+          "away_team": "Juventus",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-10-28",
+          "time": "20:45",
+          "home_team": "Torino FC",
+          "away_team": "Genoa CFC",
+          "result": {
+            "full_time": "3-3"
+          }
+        },
+        {
+          "date": "2024-10-29",
+          "time": "20:45",
+          "home_team": "Sampdoria",
+          "away_team": "Empoli FC",
+          "result": {
+            "full_time": "1-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 11",
+      "matches": [
+        {
+          "date": "2024-10-31",
+          "time": "18:00",
+          "home_team": "Juventus",
+          "away_team": "Torino FC",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-10-31",
+          "time": "20:45",
+          "home_team": "Inter",
+          "away_team": "AS Roma",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-10-31",
+          "time": "12:30",
+          "home_team": "ACF Fiorentina",
+          "away_team": "Frosinone Calcio",
+          "result": {
+            "full_time": "4-1"
+          }
+        },
+        {
+          "date": "2024-10-31",
+          "time": "15:00",
+          "home_team": "Bologna FC",
+          "away_team": "Atalanta",
+          "result": {
+            "full_time": "3-0"
+          }
+        },
+        {
+          "date": "2024-10-31",
+          "time": "15:00",
+          "home_team": "Carpi FC",
+          "away_team": "Hellas Verona",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-10-31",
+          "time": "15:00",
+          "home_team": "Genoa CFC",
+          "away_team": "SSC Napoli",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-10-31",
+          "time": "15:00",
+          "home_team": "Udinese Calcio",
+          "away_team": "Sassuolo Calcio",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-10-31",
+          "time": "20:45",
+          "home_team": "Lazio Roma",
+          "away_team": "AC Milan",
+          "result": {
+            "full_time": "1-3"
+          }
+        },
+        {
+          "date": "2024-10-31",
+          "time": "19:00",
+          "home_team": "Chievo Verona",
+          "away_team": "Sampdoria",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-10-31",
+          "time": "21:00",
+          "home_team": "US Palermo",
+          "away_team": "Empoli FC",
+          "result": {
+            "full_time": "0-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 12",
+      "matches": [
+        {
+          "date": "2024-10-31",
+          "time": "18:00",
+          "home_team": "Hellas Verona",
+          "away_team": "Bologna FC",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-10-31",
+          "time": "20:45",
+          "home_team": "AC Milan",
+          "away_team": "Atalanta",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-10-31",
+          "time": "12:30",
+          "home_team": "Torino FC",
+          "away_team": "Inter",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-10-31",
+          "time": "15:00",
+          "home_team": "Empoli FC",
+          "away_team": "Juventus",
+          "result": {
+            "full_time": "1-3"
+          }
+        },
+        {
+          "date": "2024-10-31",
+          "time": "15:00",
+          "home_team": "Frosinone Calcio",
+          "away_team": "Genoa CFC",
+          "result": {
+            "full_time": "2-2"
+          }
+        },
+        {
+          "date": "2024-10-31",
+          "time": "15:00",
+          "home_team": "US Palermo",
+          "away_team": "Chievo Verona",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-10-31",
+          "time": "15:00",
+          "home_team": "AS Roma",
+          "away_team": "Lazio Roma",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-10-31",
+          "time": "15:00",
+          "home_team": "Sassuolo Calcio",
+          "away_team": "Carpi FC",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-10-31",
+          "time": "18:00",
+          "home_team": "SSC Napoli",
+          "away_team": "Udinese Calcio",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-10-31",
+          "time": "20:45",
+          "home_team": "Sampdoria",
+          "away_team": "ACF Fiorentina",
+          "result": {
+            "full_time": "0-2"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 13",
+      "matches": [
+        {
+          "date": "2024-11-21",
+          "time": "18:00",
+          "home_team": "Bologna FC",
+          "away_team": "AS Roma",
+          "result": {
+            "full_time": "2-2"
+          }
+        },
+        {
+          "date": "2024-11-21",
+          "time": "20:45",
+          "home_team": "Juventus",
+          "away_team": "AC Milan",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-11-22",
+          "time": "12:30",
+          "home_team": "Hellas Verona",
+          "away_team": "SSC Napoli",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-11-22",
+          "time": "15:00",
+          "home_team": "Atalanta",
+          "away_team": "Torino FC",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-11-22",
+          "time": "15:00",
+          "home_team": "Carpi FC",
+          "away_team": "Chievo Verona",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-11-22",
+          "time": "15:00",
+          "home_team": "ACF Fiorentina",
+          "away_team": "Empoli FC",
+          "result": {
+            "full_time": "2-2"
+          }
+        },
+        {
+          "date": "2024-11-22",
+          "time": "15:00",
+          "home_team": "Genoa CFC",
+          "away_team": "Sassuolo Calcio",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-11-22",
+          "time": "15:00",
+          "home_team": "Lazio Roma",
+          "away_team": "US Palermo",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-11-22",
+          "time": "15:00",
+          "home_team": "Udinese Calcio",
+          "away_team": "Sampdoria",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-11-22",
+          "time": "20:45",
+          "home_team": "Inter",
+          "away_team": "Frosinone Calcio",
+          "result": {
+            "full_time": "4-0"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 14",
+      "matches": [
+        {
+          "date": "2024-11-28",
+          "time": "18:00",
+          "home_team": "Torino FC",
+          "away_team": "Bologna FC",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-11-28",
+          "time": "20:45",
+          "home_team": "AC Milan",
+          "away_team": "Sampdoria",
+          "result": {
+            "full_time": "4-1"
+          }
+        },
+        {
+          "date": "2024-11-29",
+          "time": "15:00",
+          "home_team": "Chievo Verona",
+          "away_team": "Udinese Calcio",
+          "result": {
+            "full_time": "2-3"
+          }
+        },
+        {
+          "date": "2024-11-29",
+          "time": "15:00",
+          "home_team": "Frosinone Calcio",
+          "away_team": "Hellas Verona",
+          "result": {
+            "full_time": "3-2"
+          }
+        },
+        {
+          "date": "2024-11-29",
+          "time": "15:00",
+          "home_team": "Genoa CFC",
+          "away_team": "Carpi FC",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-11-29",
+          "time": "15:00",
+          "home_team": "AS Roma",
+          "away_team": "Atalanta",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-11-29",
+          "time": "18:00",
+          "home_team": "Empoli FC",
+          "away_team": "Lazio Roma",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-11-29",
+          "time": "20:45",
+          "home_team": "US Palermo",
+          "away_team": "Juventus",
+          "result": {
+            "full_time": "0-3"
+          }
+        },
+        {
+          "date": "2024-11-30",
+          "time": "19:00",
+          "home_team": "Sassuolo Calcio",
+          "away_team": "ACF Fiorentina",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-11-30",
+          "time": "21:00",
+          "home_team": "SSC Napoli",
+          "away_team": "Inter",
+          "result": {
+            "full_time": "2-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 15",
+      "matches": [
+        {
+          "date": "2024-11-30",
+          "time": "20:45",
+          "home_team": "Lazio Roma",
+          "away_team": "Juventus",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-11-30",
+          "time": "15:00",
+          "home_team": "Torino FC",
+          "away_team": "AS Roma",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-11-30",
+          "time": "20:45",
+          "home_team": "Inter",
+          "away_team": "Genoa CFC",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-11-30",
+          "time": "12:30",
+          "home_team": "Bologna FC",
+          "away_team": "SSC Napoli",
+          "result": {
+            "full_time": "3-2"
+          }
+        },
+        {
+          "date": "2024-11-30",
+          "time": "15:00",
+          "home_team": "Atalanta",
+          "away_team": "US Palermo",
+          "result": {
+            "full_time": "3-0"
+          }
+        },
+        {
+          "date": "2024-11-30",
+          "time": "15:00",
+          "home_team": "ACF Fiorentina",
+          "away_team": "Udinese Calcio",
+          "result": {
+            "full_time": "3-0"
+          }
+        },
+        {
+          "date": "2024-11-30",
+          "time": "15:00",
+          "home_team": "Frosinone Calcio",
+          "away_team": "Chievo Verona",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-11-30",
+          "time": "15:00",
+          "home_team": "Hellas Verona",
+          "away_team": "Empoli FC",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-11-30",
+          "time": "18:00",
+          "home_team": "Sampdoria",
+          "away_team": "Sassuolo Calcio",
+          "result": {
+            "full_time": "1-3"
+          }
+        },
+        {
+          "date": "2024-11-30",
+          "time": "20:45",
+          "home_team": "Carpi FC",
+          "away_team": "AC Milan",
+          "result": {
+            "full_time": "0-0"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 16",
+      "matches": [
+        {
+          "date": "2024-12-12",
+          "time": "15:00",
+          "home_team": "Genoa CFC",
+          "away_team": "Bologna FC",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-12-12",
+          "time": "18:00",
+          "home_team": "US Palermo",
+          "away_team": "Frosinone Calcio",
+          "result": {
+            "full_time": "4-1"
+          }
+        },
+        {
+          "date": "2024-12-12",
+          "time": "20:45",
+          "home_team": "Udinese Calcio",
+          "away_team": "Inter",
+          "result": {
+            "full_time": "0-4"
+          }
+        },
+        {
+          "date": "2024-12-13",
+          "time": "15:00",
+          "home_team": "Chievo Verona",
+          "away_team": "Atalanta",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-12-13",
+          "time": "15:00",
+          "home_team": "Empoli FC",
+          "away_team": "Carpi FC",
+          "result": {
+            "full_time": "3-0"
+          }
+        },
+        {
+          "date": "2024-12-13",
+          "time": "15:00",
+          "home_team": "AC Milan",
+          "away_team": "Hellas Verona",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-12-13",
+          "time": "18:00",
+          "home_team": "SSC Napoli",
+          "away_team": "AS Roma",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-12-13",
+          "time": "20:45",
+          "home_team": "Juventus",
+          "away_team": "ACF Fiorentina",
+          "result": {
+            "full_time": "3-1"
+          }
+        },
+        {
+          "date": "2024-12-14",
+          "time": "20:45",
+          "home_team": "Lazio Roma",
+          "away_team": "Sampdoria",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2016-01-20",
+          "time": "20:45",
+          "home_team": "Sassuolo Calcio",
+          "away_team": "Torino FC",
+          "result": {
+            "full_time": "1-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 17",
+      "matches": [
+        {
+          "date": "2015-12-19",
+          "time": "20:45",
+          "home_team": "Bologna FC",
+          "away_team": "Empoli FC",
+          "result": {
+            "full_time": "2-3"
+          }
+        },
+        {
+          "date": "2024-12-20",
+          "time": "12:30",
+          "home_team": "Carpi FC",
+          "away_team": "Juventus",
+          "result": {
+            "full_time": "2-3"
+          }
+        },
+        {
+          "date": "2024-12-20",
+          "time": "15:00",
+          "home_team": "Atalanta",
+          "away_team": "SSC Napoli",
+          "result": {
+            "full_time": "1-3"
+          }
+        },
+        {
+          "date": "2024-12-20",
+          "time": "15:00",
+          "home_team": "ACF Fiorentina",
+          "away_team": "Chievo Verona",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-12-20",
+          "time": "15:00",
+          "home_team": "Hellas Verona",
+          "away_team": "Sassuolo Calcio",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-12-20",
+          "time": "15:00",
+          "home_team": "AS Roma",
+          "away_team": "Genoa CFC",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-12-20",
+          "time": "18:00",
+          "home_team": "Frosinone Calcio",
+          "away_team": "AC Milan",
+          "result": {
+            "full_time": "2-4"
+          }
+        },
+        {
+          "date": "2024-12-20",
+          "time": "18:00",
+          "home_team": "Sampdoria",
+          "away_team": "US Palermo",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-12-20",
+          "time": "18:00",
+          "home_team": "Torino FC",
+          "away_team": "Udinese Calcio",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-12-20",
+          "time": "20:45",
+          "home_team": "Inter",
+          "away_team": "Lazio Roma",
+          "result": {
+            "full_time": "1-2"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 18",
+      "matches": [
+        {
+          "date": "2024-12-20",
+          "time": "20:45",
+          "home_team": "Genoa CFC",
+          "away_team": "Sampdoria",
+          "result": {
+            "full_time": "2-3"
+          }
+        },
+        {
+          "date": "2024-12-20",
+          "time": "12:30",
+          "home_team": "Udinese Calcio",
+          "away_team": "Atalanta",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-12-20",
+          "time": "15:00",
+          "home_team": "Chievo Verona",
+          "away_team": "AS Roma",
+          "result": {
+            "full_time": "3-3"
+          }
+        },
+        {
+          "date": "2024-12-20",
+          "time": "15:00",
+          "home_team": "Juventus",
+          "away_team": "Hellas Verona",
+          "result": {
+            "full_time": "3-0"
+          }
+        },
+        {
+          "date": "2024-12-20",
+          "time": "15:00",
+          "home_team": "Lazio Roma",
+          "away_team": "Carpi FC",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-12-20",
+          "time": "15:00",
+          "home_team": "AC Milan",
+          "away_team": "Bologna FC",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-12-20",
+          "time": "15:00",
+          "home_team": "US Palermo",
+          "away_team": "ACF Fiorentina",
+          "result": {
+            "full_time": "1-3"
+          }
+        },
+        {
+          "date": "2024-12-20",
+          "time": "15:00",
+          "home_team": "Sassuolo Calcio",
+          "away_team": "Frosinone Calcio",
+          "result": {
+            "full_time": "2-2"
+          }
+        },
+        {
+          "date": "2024-12-20",
+          "time": "18:00",
+          "home_team": "Empoli FC",
+          "away_team": "Inter",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-12-20",
+          "time": "20:45",
+          "home_team": "SSC Napoli",
+          "away_team": "Torino FC",
+          "result": {
+            "full_time": "2-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 19",
+      "matches": [
+        {
+          "date": "2024-12-20",
+          "time": "15:00",
+          "home_team": "Carpi FC",
+          "away_team": "Udinese Calcio",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-12-20",
+          "time": "18:00",
+          "home_team": "ACF Fiorentina",
+          "away_team": "Lazio Roma",
+          "result": {
+            "full_time": "1-3"
+          }
+        },
+        {
+          "date": "2024-12-20",
+          "time": "20:45",
+          "home_team": "AS Roma",
+          "away_team": "AC Milan",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-01-10",
+          "time": "12:30",
+          "home_team": "Inter",
+          "away_team": "Sassuolo Calcio",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-01-10",
+          "time": "15:00",
+          "home_team": "Atalanta",
+          "away_team": "Genoa CFC",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-01-10",
+          "time": "15:00",
+          "home_team": "Bologna FC",
+          "away_team": "Chievo Verona",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-01-10",
+          "time": "15:00",
+          "home_team": "Frosinone Calcio",
+          "away_team": "SSC Napoli",
+          "result": {
+            "full_time": "1-5"
+          }
+        },
+        {
+          "date": "2024-01-10",
+          "time": "15:00",
+          "home_team": "Hellas Verona",
+          "away_team": "US Palermo",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-01-10",
+          "time": "15:00",
+          "home_team": "Torino FC",
+          "away_team": "Empoli FC",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-01-10",
+          "time": "20:45",
+          "home_team": "Sampdoria",
+          "away_team": "Juventus",
+          "result": {
+            "full_time": "1-2"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 20",
+      "matches": [
+        {
+          "date": "2024-01-16",
+          "time": "15:00",
+          "home_team": "Atalanta",
+          "away_team": "Inter",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-01-16",
+          "time": "18:00",
+          "home_team": "Torino FC",
+          "away_team": "Frosinone Calcio",
+          "result": {
+            "full_time": "4-2"
+          }
+        },
+        {
+          "date": "2024-01-16",
+          "time": "20:45",
+          "home_team": "SSC Napoli",
+          "away_team": "Sassuolo Calcio",
+          "result": {
+            "full_time": "3-1"
+          }
+        },
+        {
+          "date": "2024-01-17",
+          "time": "12:30",
+          "home_team": "Genoa CFC",
+          "away_team": "US Palermo",
+          "result": {
+            "full_time": "4-0"
+          }
+        },
+        {
+          "date": "2024-01-17",
+          "time": "15:00",
+          "home_team": "Chievo Verona",
+          "away_team": "Empoli FC",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-01-17",
+          "time": "15:00",
+          "home_team": "AS Roma",
+          "away_team": "Hellas Verona",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-01-17",
+          "time": "15:00",
+          "home_team": "Udinese Calcio",
+          "away_team": "Juventus",
+          "result": {
+            "full_time": "0-4"
+          }
+        },
+        {
+          "date": "2024-01-17",
+          "time": "15:00",
+          "home_team": "Bologna FC",
+          "away_team": "Lazio Roma",
+          "result": {
+            "full_time": "2-2"
+          }
+        },
+        {
+          "date": "2024-01-17",
+          "time": "15:00",
+          "home_team": "Carpi FC",
+          "away_team": "Sampdoria",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-01-17",
+          "time": "20:45",
+          "home_team": "AC Milan",
+          "away_team": "ACF Fiorentina",
+          "result": {
+            "full_time": "2-0"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 21",
+      "matches": [
+        {
+          "date": "2024-01-23",
+          "time": "18:00",
+          "home_team": "Frosinone Calcio",
+          "away_team": "Atalanta",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-01-23",
+          "time": "20:45",
+          "home_team": "Empoli FC",
+          "away_team": "AC Milan",
+          "result": {
+            "full_time": "2-2"
+          }
+        },
+        {
+          "date": "2024-01-24",
+          "time": "12:30",
+          "home_team": "ACF Fiorentina",
+          "away_team": "Torino FC",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-01-24",
+          "time": "15:00",
+          "home_team": "Sassuolo Calcio",
+          "away_team": "Bologna FC",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-01-24",
+          "time": "15:00",
+          "home_team": "Inter",
+          "away_team": "Carpi FC",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-01-24",
+          "time": "15:00",
+          "home_team": "Lazio Roma",
+          "away_team": "Chievo Verona",
+          "result": {
+            "full_time": "4-1"
+          }
+        },
+        {
+          "date": "2024-01-24",
+          "time": "15:00",
+          "home_team": "Hellas Verona",
+          "away_team": "Genoa CFC",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-01-24",
+          "time": "15:00",
+          "home_team": "Sampdoria",
+          "away_team": "SSC Napoli",
+          "result": {
+            "full_time": "2-4"
+          }
+        },
+        {
+          "date": "2024-01-24",
+          "time": "15:00",
+          "home_team": "US Palermo",
+          "away_team": "Udinese Calcio",
+          "result": {
+            "full_time": "4-1"
+          }
+        },
+        {
+          "date": "2024-01-24",
+          "time": "20:45",
+          "home_team": "Juventus",
+          "away_team": "AS Roma",
+          "result": {
+            "full_time": "1-0"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 22",
+      "matches": [
+        {
+          "date": "2024-01-30",
+          "time": "15:00",
+          "home_team": "Carpi FC",
+          "away_team": "US Palermo",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-01-30",
+          "time": "18:00",
+          "home_team": "Atalanta",
+          "away_team": "Sassuolo Calcio",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-01-30",
+          "time": "20:45",
+          "home_team": "AS Roma",
+          "away_team": "Frosinone Calcio",
+          "result": {
+            "full_time": "3-1"
+          }
+        },
+        {
+          "date": "2024-01-31",
+          "time": "12:30",
+          "home_team": "Chievo Verona",
+          "away_team": "Juventus",
+          "result": {
+            "full_time": "0-4"
+          }
+        },
+        {
+          "date": "2024-01-31",
+          "time": "15:00",
+          "home_team": "SSC Napoli",
+          "away_team": "Empoli FC",
+          "result": {
+            "full_time": "5-1"
+          }
+        },
+        {
+          "date": "2024-01-31",
+          "time": "15:00",
+          "home_team": "Genoa CFC",
+          "away_team": "ACF Fiorentina",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-01-31",
+          "time": "15:00",
+          "home_team": "Torino FC",
+          "away_team": "Hellas Verona",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-01-31",
+          "time": "15:00",
+          "home_team": "Udinese Calcio",
+          "away_team": "Lazio Roma",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-01-31",
+          "time": "15:00",
+          "home_team": "Bologna FC",
+          "away_team": "Sampdoria",
+          "result": {
+            "full_time": "3-2"
+          }
+        },
+        {
+          "date": "2024-01-31",
+          "time": "20:45",
+          "home_team": "AC Milan",
+          "away_team": "Inter",
+          "result": {
+            "full_time": "3-0"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 23",
+      "matches": [
+        {
+          "date": "2024-01-31",
+          "time": "20:45",
+          "home_team": "Sassuolo Calcio",
+          "away_team": "AS Roma",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-01-31",
+          "time": "18:30",
+          "home_team": "Frosinone Calcio",
+          "away_team": "Bologna FC",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-01-31",
+          "time": "20:45",
+          "home_team": "Hellas Verona",
+          "away_team": "Atalanta",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-01-31",
+          "time": "20:45",
+          "home_team": "ACF Fiorentina",
+          "away_team": "Carpi FC",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-01-31",
+          "time": "20:45",
+          "home_team": "Inter",
+          "away_team": "Chievo Verona",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-01-31",
+          "time": "20:45",
+          "home_team": "Juventus",
+          "away_team": "Genoa CFC",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-01-31",
+          "time": "20:45",
+          "home_team": "US Palermo",
+          "away_team": "AC Milan",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-01-31",
+          "time": "20:45",
+          "home_team": "Lazio Roma",
+          "away_team": "SSC Napoli",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-01-31",
+          "time": "20:45",
+          "home_team": "Sampdoria",
+          "away_team": "Torino FC",
+          "result": {
+            "full_time": "2-2"
+          }
+        },
+        {
+          "date": "2024-01-31",
+          "time": "20:45",
+          "home_team": "Empoli FC",
+          "away_team": "Udinese Calcio",
+          "result": {
+            "full_time": "1-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 24",
+      "matches": [
+        {
+          "date": "2024-01-31",
+          "time": "18:00",
+          "home_team": "Bologna FC",
+          "away_team": "ACF Fiorentina",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-01-31",
+          "time": "20:45",
+          "home_team": "Genoa CFC",
+          "away_team": "Lazio Roma",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-01-31",
+          "time": "12:30",
+          "home_team": "Hellas Verona",
+          "away_team": "Inter",
+          "result": {
+            "full_time": "3-3"
+          }
+        },
+        {
+          "date": "2024-01-31",
+          "time": "15:00",
+          "home_team": "SSC Napoli",
+          "away_team": "Carpi FC",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-01-31",
+          "time": "15:00",
+          "home_team": "Torino FC",
+          "away_team": "Chievo Verona",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-01-31",
+          "time": "15:00",
+          "home_team": "Frosinone Calcio",
+          "away_team": "Juventus",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-01-31",
+          "time": "15:00",
+          "home_team": "Sassuolo Calcio",
+          "away_team": "US Palermo",
+          "result": {
+            "full_time": "2-2"
+          }
+        },
+        {
+          "date": "2024-01-31",
+          "time": "15:00",
+          "home_team": "AC Milan",
+          "away_team": "Udinese Calcio",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-01-31",
+          "time": "18:00",
+          "home_team": "Atalanta",
+          "away_team": "Empoli FC",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-01-31",
+          "time": "20:45",
+          "home_team": "AS Roma",
+          "away_team": "Sampdoria",
+          "result": {
+            "full_time": "2-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 25",
+      "matches": [
+        {
+          "date": "2024-02-11",
+          "time": "20:45",
+          "home_team": "Lazio Roma",
+          "away_team": "Hellas Verona",
+          "result": {
+            "full_time": "5-2"
+          }
+        },
+        {
+          "date": "2024-02-12",
+          "time": "20:45",
+          "home_team": "Carpi FC",
+          "away_team": "AS Roma",
+          "result": {
+            "full_time": "1-3"
+          }
+        },
+        {
+          "date": "2024-02-13",
+          "time": "15:00",
+          "home_team": "Empoli FC",
+          "away_team": "Frosinone Calcio",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-02-13",
+          "time": "18:00",
+          "home_team": "Chievo Verona",
+          "away_team": "Sassuolo Calcio",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-02-13",
+          "time": "20:45",
+          "home_team": "Juventus",
+          "away_team": "SSC Napoli",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-02-14",
+          "time": "12:30",
+          "home_team": "AC Milan",
+          "away_team": "Genoa CFC",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-02-14",
+          "time": "15:00",
+          "home_team": "Sampdoria",
+          "away_team": "Atalanta",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-02-14",
+          "time": "15:00",
+          "home_team": "Udinese Calcio",
+          "away_team": "Bologna FC",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-02-14",
+          "time": "15:00",
+          "home_team": "US Palermo",
+          "away_team": "Torino FC",
+          "result": {
+            "full_time": "1-3"
+          }
+        },
+        {
+          "date": "2024-02-14",
+          "time": "20:45",
+          "home_team": "ACF Fiorentina",
+          "away_team": "Inter",
+          "result": {
+            "full_time": "2-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 26",
+      "matches": [
+        {
+          "date": "2024-02-19",
+          "time": "20:45",
+          "home_team": "Bologna FC",
+          "away_team": "Juventus",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-02-20",
+          "time": "18:00",
+          "home_team": "Hellas Verona",
+          "away_team": "Chievo Verona",
+          "result": {
+            "full_time": "3-1"
+          }
+        },
+        {
+          "date": "2024-02-20",
+          "time": "20:45",
+          "home_team": "Inter",
+          "away_team": "Sampdoria",
+          "result": {
+            "full_time": "3-1"
+          }
+        },
+        {
+          "date": "2024-02-21",
+          "time": "15:00",
+          "home_team": "Torino FC",
+          "away_team": "Carpi FC",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-02-21",
+          "time": "15:00",
+          "home_team": "Sassuolo Calcio",
+          "away_team": "Empoli FC",
+          "result": {
+            "full_time": "3-2"
+          }
+        },
+        {
+          "date": "2024-02-21",
+          "time": "15:00",
+          "home_team": "Atalanta",
+          "away_team": "ACF Fiorentina",
+          "result": {
+            "full_time": "2-3"
+          }
+        },
+        {
+          "date": "2024-02-21",
+          "time": "15:00",
+          "home_team": "Genoa CFC",
+          "away_team": "Udinese Calcio",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-02-21",
+          "time": "18:00",
+          "home_team": "Frosinone Calcio",
+          "away_team": "Lazio Roma",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-02-21",
+          "time": "20:45",
+          "home_team": "AS Roma",
+          "away_team": "US Palermo",
+          "result": {
+            "full_time": "5-0"
+          }
+        },
+        {
+          "date": "2024-02-22",
+          "time": "21:00",
+          "home_team": "SSC Napoli",
+          "away_team": "AC Milan",
+          "result": {
+            "full_time": "1-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 27",
+      "matches": [
+        {
+          "date": "2024-02-27",
+          "time": "18:00",
+          "home_team": "Empoli FC",
+          "away_team": "AS Roma",
+          "result": {
+            "full_time": "1-3"
+          }
+        },
+        {
+          "date": "2024-02-27",
+          "time": "20:45",
+          "home_team": "AC Milan",
+          "away_team": "Torino FC",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-02-28",
+          "time": "12:30",
+          "home_team": "US Palermo",
+          "away_team": "Bologna FC",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-02-28",
+          "time": "15:00",
+          "home_team": "Carpi FC",
+          "away_team": "Atalanta",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-02-28",
+          "time": "15:00",
+          "home_team": "Sampdoria",
+          "away_team": "Frosinone Calcio",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-02-28",
+          "time": "15:00",
+          "home_team": "Chievo Verona",
+          "away_team": "Genoa CFC",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-02-28",
+          "time": "15:00",
+          "home_team": "Udinese Calcio",
+          "away_team": "Hellas Verona",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-02-28",
+          "time": "20:45",
+          "home_team": "Juventus",
+          "away_team": "Inter",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-02-29",
+          "time": "19:00",
+          "home_team": "Lazio Roma",
+          "away_team": "Sassuolo Calcio",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-02-29",
+          "time": "21:00",
+          "home_team": "ACF Fiorentina",
+          "away_team": "SSC Napoli",
+          "result": {
+            "full_time": "1-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 28",
+      "matches": [
+        {
+          "date": "2024-02-29",
+          "time": "20:45",
+          "home_team": "AS Roma",
+          "away_team": "ACF Fiorentina",
+          "result": {
+            "full_time": "4-1"
+          }
+        },
+        {
+          "date": "2024-02-29",
+          "time": "18:00",
+          "home_team": "Hellas Verona",
+          "away_team": "Sampdoria",
+          "result": {
+            "full_time": "0-3"
+          }
+        },
+        {
+          "date": "2024-02-29",
+          "time": "20:45",
+          "home_team": "SSC Napoli",
+          "away_team": "Chievo Verona",
+          "result": {
+            "full_time": "3-1"
+          }
+        },
+        {
+          "date": "2024-02-29",
+          "time": "12:30",
+          "home_team": "Torino FC",
+          "away_team": "Lazio Roma",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-02-29",
+          "time": "15:00",
+          "home_team": "Bologna FC",
+          "away_team": "Carpi FC",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-02-29",
+          "time": "15:00",
+          "home_team": "Genoa CFC",
+          "away_team": "Empoli FC",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-02-29",
+          "time": "15:00",
+          "home_team": "Atalanta",
+          "away_team": "Juventus",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-02-29",
+          "time": "15:00",
+          "home_team": "Sassuolo Calcio",
+          "away_team": "AC Milan",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-02-29",
+          "time": "15:00",
+          "home_team": "Frosinone Calcio",
+          "away_team": "Udinese Calcio",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-02-29",
+          "time": "20:45",
+          "home_team": "Inter",
+          "away_team": "US Palermo",
+          "result": {
+            "full_time": "3-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 29",
+      "matches": [
+        {
+          "date": "2024-03-11",
+          "time": "20:45",
+          "home_team": "Juventus",
+          "away_team": "Sassuolo Calcio",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-03-12",
+          "time": "18:00",
+          "home_team": "Empoli FC",
+          "away_team": "Sampdoria",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-03-12",
+          "time": "20:45",
+          "home_team": "Inter",
+          "away_team": "Bologna FC",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-03-13",
+          "time": "12:30",
+          "home_team": "Chievo Verona",
+          "away_team": "AC Milan",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-03-13",
+          "time": "15:00",
+          "home_team": "Carpi FC",
+          "away_team": "Frosinone Calcio",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-03-13",
+          "time": "15:00",
+          "home_team": "ACF Fiorentina",
+          "away_team": "Hellas Verona",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-03-13",
+          "time": "15:00",
+          "home_team": "Udinese Calcio",
+          "away_team": "AS Roma",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-03-13",
+          "time": "15:00",
+          "home_team": "Genoa CFC",
+          "away_team": "Torino FC",
+          "result": {
+            "full_time": "3-2"
+          }
+        },
+        {
+          "date": "2024-03-13",
+          "time": "20:45",
+          "home_team": "Lazio Roma",
+          "away_team": "Atalanta",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-03-13",
+          "time": "20:45",
+          "home_team": "US Palermo",
+          "away_team": "SSC Napoli",
+          "result": {
+            "full_time": "0-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 30",
+      "matches": [
+        {
+          "date": "2024-03-19",
+          "time": "18:00",
+          "home_team": "Empoli FC",
+          "away_team": "US Palermo",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-03-19",
+          "time": "20:45",
+          "home_team": "AS Roma",
+          "away_team": "Inter",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-03-20",
+          "time": "12:30",
+          "home_team": "Atalanta",
+          "away_team": "Bologna FC",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-03-20",
+          "time": "15:00",
+          "home_team": "Torino FC",
+          "away_team": "Juventus",
+          "result": {
+            "full_time": "1-4"
+          }
+        },
+        {
+          "date": "2024-03-20",
+          "time": "15:00",
+          "home_team": "Sassuolo Calcio",
+          "away_team": "Udinese Calcio",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-03-20",
+          "time": "15:00",
+          "home_team": "Hellas Verona",
+          "away_team": "Carpi FC",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-03-20",
+          "time": "15:00",
+          "home_team": "Sampdoria",
+          "away_team": "Chievo Verona",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-03-20",
+          "time": "15:00",
+          "home_team": "Frosinone Calcio",
+          "away_team": "ACF Fiorentina",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-03-20",
+          "time": "18:00",
+          "home_team": "SSC Napoli",
+          "away_team": "Genoa CFC",
+          "result": {
+            "full_time": "3-1"
+          }
+        },
+        {
+          "date": "2024-03-20",
+          "time": "20:45",
+          "home_team": "AC Milan",
+          "away_team": "Lazio Roma",
+          "result": {
+            "full_time": "1-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 31",
+      "matches": [
+        {
+          "date": "2024-03-20",
+          "time": "18:00",
+          "home_team": "Carpi FC",
+          "away_team": "Sassuolo Calcio",
+          "result": {
+            "full_time": "1-3"
+          }
+        },
+        {
+          "date": "2024-03-20",
+          "time": "20:45",
+          "home_team": "Juventus",
+          "away_team": "Empoli FC",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-03-20",
+          "time": "12:30",
+          "home_team": "Udinese Calcio",
+          "away_team": "SSC Napoli",
+          "result": {
+            "full_time": "3-1"
+          }
+        },
+        {
+          "date": "2024-03-20",
+          "time": "15:00",
+          "home_team": "Genoa CFC",
+          "away_team": "Frosinone Calcio",
+          "result": {
+            "full_time": "4-0"
+          }
+        },
+        {
+          "date": "2024-03-20",
+          "time": "15:00",
+          "home_team": "Atalanta",
+          "away_team": "AC Milan",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-03-20",
+          "time": "15:00",
+          "home_team": "Chievo Verona",
+          "away_team": "US Palermo",
+          "result": {
+            "full_time": "3-1"
+          }
+        },
+        {
+          "date": "2024-03-20",
+          "time": "15:00",
+          "home_team": "Lazio Roma",
+          "away_team": "AS Roma",
+          "result": {
+            "full_time": "1-4"
+          }
+        },
+        {
+          "date": "2024-03-20",
+          "time": "15:00",
+          "home_team": "ACF Fiorentina",
+          "away_team": "Sampdoria",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-03-20",
+          "time": "20:45",
+          "home_team": "Inter",
+          "away_team": "Torino FC",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-03-20",
+          "time": "20:45",
+          "home_team": "Bologna FC",
+          "away_team": "Hellas Verona",
+          "result": {
+            "full_time": "0-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 32",
+      "matches": [
+        {
+          "date": "2024-03-20",
+          "time": "15:00",
+          "home_team": "Frosinone Calcio",
+          "away_team": "Inter",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-03-20",
+          "time": "18:00",
+          "home_team": "Chievo Verona",
+          "away_team": "Carpi FC",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-03-20",
+          "time": "18:00",
+          "home_team": "Sassuolo Calcio",
+          "away_team": "Genoa CFC",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-03-20",
+          "time": "20:45",
+          "home_team": "AC Milan",
+          "away_team": "Juventus",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-04-10",
+          "time": "12:30",
+          "home_team": "Empoli FC",
+          "away_team": "ACF Fiorentina",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-04-10",
+          "time": "15:00",
+          "home_team": "Torino FC",
+          "away_team": "Atalanta",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-04-10",
+          "time": "15:00",
+          "home_team": "SSC Napoli",
+          "away_team": "Hellas Verona",
+          "result": {
+            "full_time": "3-0"
+          }
+        },
+        {
+          "date": "2024-04-10",
+          "time": "15:00",
+          "home_team": "Sampdoria",
+          "away_team": "Udinese Calcio",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-04-10",
+          "time": "20:45",
+          "home_team": "US Palermo",
+          "away_team": "Lazio Roma",
+          "result": {
+            "full_time": "0-3"
+          }
+        },
+        {
+          "date": "2024-04-11",
+          "time": "20:45",
+          "home_team": "AS Roma",
+          "away_team": "Bologna FC",
+          "result": {
+            "full_time": "1-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 33",
+      "matches": [
+        {
+          "date": "2024-04-16",
+          "time": "15:00",
+          "home_team": "Bologna FC",
+          "away_team": "Torino FC",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-04-16",
+          "time": "18:00",
+          "home_team": "Carpi FC",
+          "away_team": "Genoa CFC",
+          "result": {
+            "full_time": "4-1"
+          }
+        },
+        {
+          "date": "2024-04-16",
+          "time": "20:45",
+          "home_team": "Inter",
+          "away_team": "SSC Napoli",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-04-17",
+          "time": "12:30",
+          "home_team": "Atalanta",
+          "away_team": "AS Roma",
+          "result": {
+            "full_time": "3-3"
+          }
+        },
+        {
+          "date": "2024-04-17",
+          "time": "15:00",
+          "home_team": "Udinese Calcio",
+          "away_team": "Chievo Verona",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-04-17",
+          "time": "15:00",
+          "home_team": "Hellas Verona",
+          "away_team": "Frosinone Calcio",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-04-17",
+          "time": "15:00",
+          "home_team": "Juventus",
+          "away_team": "US Palermo",
+          "result": {
+            "full_time": "4-0"
+          }
+        },
+        {
+          "date": "2024-04-17",
+          "time": "15:00",
+          "home_team": "ACF Fiorentina",
+          "away_team": "Sassuolo Calcio",
+          "result": {
+            "full_time": "3-1"
+          }
+        },
+        {
+          "date": "2024-04-17",
+          "time": "18:00",
+          "home_team": "Lazio Roma",
+          "away_team": "Empoli FC",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-04-17",
+          "time": "20:45",
+          "home_team": "Sampdoria",
+          "away_team": "AC Milan",
+          "result": {
+            "full_time": "0-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 34",
+      "matches": [
+        {
+          "date": "2024-04-19",
+          "time": "20:45",
+          "home_team": "SSC Napoli",
+          "away_team": "Bologna FC",
+          "result": {
+            "full_time": "6-0"
+          }
+        },
+        {
+          "date": "2024-04-20",
+          "time": "18:30",
+          "home_team": "Sassuolo Calcio",
+          "away_team": "Sampdoria",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-04-20",
+          "time": "20:45",
+          "home_team": "US Palermo",
+          "away_team": "Atalanta",
+          "result": {
+            "full_time": "2-2"
+          }
+        },
+        {
+          "date": "2024-04-20",
+          "time": "20:45",
+          "home_team": "Udinese Calcio",
+          "away_team": "ACF Fiorentina",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-04-20",
+          "time": "20:45",
+          "home_team": "Chievo Verona",
+          "away_team": "Frosinone Calcio",
+          "result": {
+            "full_time": "5-1"
+          }
+        },
+        {
+          "date": "2024-04-20",
+          "time": "20:45",
+          "home_team": "Empoli FC",
+          "away_team": "Hellas Verona",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-04-20",
+          "time": "20:45",
+          "home_team": "Genoa CFC",
+          "away_team": "Inter",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-04-20",
+          "time": "20:45",
+          "home_team": "Juventus",
+          "away_team": "Lazio Roma",
+          "result": {
+            "full_time": "3-0"
+          }
+        },
+        {
+          "date": "2024-04-20",
+          "time": "20:45",
+          "home_team": "AS Roma",
+          "away_team": "Torino FC",
+          "result": {
+            "full_time": "3-2"
+          }
+        },
+        {
+          "date": "2024-04-21",
+          "time": "20:45",
+          "home_team": "AC Milan",
+          "away_team": "Carpi FC",
+          "result": {
+            "full_time": "0-0"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 35",
+      "matches": [
+        {
+          "date": "2024-04-23",
+          "time": "20:45",
+          "home_team": "Inter",
+          "away_team": "Udinese Calcio",
+          "result": {
+            "full_time": "3-1"
+          }
+        },
+        {
+          "date": "2024-04-24",
+          "time": "12:30",
+          "home_team": "Frosinone Calcio",
+          "away_team": "US Palermo",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-04-24",
+          "time": "15:00",
+          "home_team": "Atalanta",
+          "away_team": "Chievo Verona",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-04-24",
+          "time": "15:00",
+          "home_team": "Bologna FC",
+          "away_team": "Genoa CFC",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-04-24",
+          "time": "15:00",
+          "home_team": "Sampdoria",
+          "away_team": "Lazio Roma",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-04-24",
+          "time": "15:00",
+          "home_team": "Torino FC",
+          "away_team": "Sassuolo Calcio",
+          "result": {
+            "full_time": "1-3"
+          }
+        },
+        {
+          "date": "2024-04-24",
+          "time": "20:45",
+          "home_team": "ACF Fiorentina",
+          "away_team": "Juventus",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-04-25",
+          "time": "15:00",
+          "home_team": "AS Roma",
+          "away_team": "SSC Napoli",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-04-25",
+          "time": "17:00",
+          "home_team": "Hellas Verona",
+          "away_team": "AC Milan",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-04-25",
+          "time": "19:00",
+          "home_team": "Carpi FC",
+          "away_team": "Empoli FC",
+          "result": {
+            "full_time": "1-0"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 36",
+      "matches": [
+        {
+          "date": "2024-04-30",
+          "time": "18:00",
+          "home_team": "Udinese Calcio",
+          "away_team": "Torino FC",
+          "result": {
+            "full_time": "1-5"
+          }
+        },
+        {
+          "date": "2024-04-30",
+          "time": "20:45",
+          "home_team": "Chievo Verona",
+          "away_team": "ACF Fiorentina",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-04-30",
+          "time": "12:30",
+          "home_team": "Juventus",
+          "away_team": "Carpi FC",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-04-30",
+          "time": "15:00",
+          "home_team": "Empoli FC",
+          "away_team": "Bologna FC",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-04-30",
+          "time": "15:00",
+          "home_team": "AC Milan",
+          "away_team": "Frosinone Calcio",
+          "result": {
+            "full_time": "3-3"
+          }
+        },
+        {
+          "date": "2024-04-30",
+          "time": "15:00",
+          "home_team": "Sassuolo Calcio",
+          "away_team": "Hellas Verona",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-04-30",
+          "time": "15:00",
+          "home_team": "US Palermo",
+          "away_team": "Sampdoria",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-04-30",
+          "time": "20:45",
+          "home_team": "Lazio Roma",
+          "away_team": "Inter",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-04-30",
+          "time": "19:00",
+          "home_team": "Genoa CFC",
+          "away_team": "AS Roma",
+          "result": {
+            "full_time": "2-3"
+          }
+        },
+        {
+          "date": "2024-04-30",
+          "time": "21:00",
+          "home_team": "SSC Napoli",
+          "away_team": "Atalanta",
+          "result": {
+            "full_time": "2-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 37",
+      "matches": [
+        {
+          "date": "2024-04-30",
+          "time": "18:00",
+          "home_team": "Inter",
+          "away_team": "Empoli FC",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-04-30",
+          "time": "20:45",
+          "home_team": "Bologna FC",
+          "away_team": "AC Milan",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-04-30",
+          "time": "12:30",
+          "home_team": "AS Roma",
+          "away_team": "Chievo Verona",
+          "result": {
+            "full_time": "3-0"
+          }
+        },
+        {
+          "date": "2024-04-30",
+          "time": "15:00",
+          "home_team": "Sampdoria",
+          "away_team": "Genoa CFC",
+          "result": {
+            "full_time": "0-3"
+          }
+        },
+        {
+          "date": "2024-04-30",
+          "time": "15:00",
+          "home_team": "Carpi FC",
+          "away_team": "Lazio Roma",
+          "result": {
+            "full_time": "1-3"
+          }
+        },
+        {
+          "date": "2024-04-30",
+          "time": "15:00",
+          "home_team": "ACF Fiorentina",
+          "away_team": "US Palermo",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-04-30",
+          "time": "15:00",
+          "home_team": "Frosinone Calcio",
+          "away_team": "Sassuolo Calcio",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-04-30",
+          "time": "15:00",
+          "home_team": "Atalanta",
+          "away_team": "Udinese Calcio",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-04-30",
+          "time": "20:45",
+          "home_team": "Hellas Verona",
+          "away_team": "Juventus",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-04-30",
+          "time": "20:45",
+          "home_team": "Torino FC",
+          "away_team": "SSC Napoli",
+          "result": {
+            "full_time": "1-2"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 38",
+      "matches": [
+        {
+          "date": "2024-05-14",
+          "time": "17:00",
+          "home_team": "Juventus",
+          "away_team": "Sampdoria",
+          "result": {
+            "full_time": "5-0"
+          }
+        },
+        {
+          "date": "2024-05-14",
+          "time": "20:45",
+          "home_team": "SSC Napoli",
+          "away_team": "Frosinone Calcio",
+          "result": {
+            "full_time": "4-0"
+          }
+        },
+        {
+          "date": "2024-05-14",
+          "time": "20:45",
+          "home_team": "Sassuolo Calcio",
+          "away_team": "Inter",
+          "result": {
+            "full_time": "3-1"
+          }
+        },
+        {
+          "date": "2024-05-14",
+          "time": "20:45",
+          "home_team": "AC Milan",
+          "away_team": "AS Roma",
+          "result": {
+            "full_time": "1-3"
+          }
+        },
+        {
+          "date": "2024-05-15",
+          "time": "18:00",
+          "home_team": "Genoa CFC",
+          "away_team": "Atalanta",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-05-15",
+          "time": "18:00",
+          "home_team": "Chievo Verona",
+          "away_team": "Bologna FC",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-05-15",
+          "time": "18:00",
+          "home_team": "Empoli FC",
+          "away_team": "Torino FC",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-05-15",
+          "time": "20:45",
+          "home_team": "Udinese Calcio",
+          "away_team": "Carpi FC",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-05-15",
+          "time": "20:45",
+          "home_team": "Lazio Roma",
+          "away_team": "ACF Fiorentina",
+          "result": {
+            "full_time": "2-4"
+          }
+        },
+        {
+          "date": "2024-05-15",
+          "time": "20:45",
+          "home_team": "US Palermo",
+          "away_team": "Hellas Verona",
+          "result": {
+            "full_time": "3-2"
+          }
+        }
+      ]
+    }
+  ]
+}

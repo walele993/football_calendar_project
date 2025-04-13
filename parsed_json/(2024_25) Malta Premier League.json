@@ -1,0 +1,1551 @@
+{
+  "league": "Malta Premier League",
+  "season": "2024/25",
+  "matchdays": [
+    {
+      "matchday": "Matchday 1",
+      "matches": []
+    },
+    {
+      "matchday": "Matchday 2",
+      "matches": [
+        {
+          "date": "2024-01-17",
+          "time": "18:00",
+          "home_team": "Balzan FC",
+          "away_team": "Mosta FC",
+          "result": {
+            "full_time": "3-2"
+          }
+        },
+        {
+          "date": "2024-01-17",
+          "time": "20:15",
+          "home_team": "Sliema Wanderers",
+          "away_team": "Naxxar Lions FC",
+          "result": {
+            "full_time": "4-0"
+          }
+        },
+        {
+          "date": "2024-01-18",
+          "time": "14:00",
+          "home_team": "Melita FC",
+          "away_team": "Floriana FC",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-01-18",
+          "time": "16:15",
+          "home_team": "Birkirkara FC",
+          "away_team": "Gżira United",
+          "result": {
+            "full_time": "2-2"
+          }
+        },
+        {
+          "date": "2024-01-19",
+          "time": "14:00",
+          "home_team": "Hibernians FC",
+          "away_team": "Hamrun Spartans",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-01-19",
+          "time": "16:15",
+          "home_team": "Marsaxlokk FC",
+          "away_team": "St. Patrick FC",
+          "result": {
+            "full_time": "3-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 3",
+      "matches": [
+        {
+          "date": "2024-01-25",
+          "time": "14:00",
+          "home_team": "Mosta FC",
+          "away_team": "Sliema Wanderers",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-01-25",
+          "time": "15:00",
+          "home_team": "Floriana FC",
+          "away_team": "Hamrun Spartans",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-01-25",
+          "time": "16:15",
+          "home_team": "Gżira United",
+          "away_team": "Naxxar Lions FC",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-01-25",
+          "time": "19:00",
+          "home_team": "St. Patrick FC",
+          "away_team": "Balzan FC",
+          "result": {
+            "full_time": "3-0"
+          }
+        },
+        {
+          "date": "2024-01-26",
+          "time": "14:00",
+          "home_team": "Hibernians FC",
+          "away_team": "Marsaxlokk FC",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-01-26",
+          "time": "16:15",
+          "home_team": "Birkirkara FC",
+          "away_team": "Melita FC",
+          "result": {
+            "full_time": "1-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 4",
+      "matches": [
+        {
+          "date": "2024-01-31",
+          "time": "18:00",
+          "home_team": "Balzan FC",
+          "away_team": "Marsaxlokk FC",
+          "result": {
+            "full_time": "0-3"
+          }
+        },
+        {
+          "date": "2024-01-31",
+          "time": "20:15",
+          "home_team": "Sliema Wanderers",
+          "away_team": "Hibernians FC",
+          "result": {
+            "full_time": "2-3"
+          }
+        },
+        {
+          "date": "2024-01-31",
+          "time": "15:00",
+          "home_team": "Hamrun Spartans",
+          "away_team": "Birkirkara FC",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-01-31",
+          "time": "19:00",
+          "home_team": "Gżira United",
+          "away_team": "Melita FC",
+          "result": {
+            "full_time": "2-2"
+          }
+        },
+        {
+          "date": "2024-01-31",
+          "time": "14:00",
+          "home_team": "Floriana FC",
+          "away_team": "St. Patrick FC",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-01-31",
+          "time": "16:15",
+          "home_team": "Mosta FC",
+          "away_team": "Naxxar Lions FC",
+          "result": {
+            "full_time": "1-0"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 5",
+      "matches": [
+        {
+          "date": "2024-01-31",
+          "time": "14:00",
+          "home_team": "Birkirkara FC",
+          "away_team": "Mosta FC",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-01-31",
+          "time": "16:15",
+          "home_team": "Gżira United",
+          "away_team": "Hibernians FC",
+          "result": {
+            "full_time": "1-4"
+          }
+        },
+        {
+          "date": "2024-01-31",
+          "time": "19:00",
+          "home_team": "Melita FC",
+          "away_team": "Sliema Wanderers",
+          "result": {
+            "full_time": "2-4"
+          }
+        },
+        {
+          "date": "2024-01-31",
+          "time": "14:00",
+          "home_team": "St. Patrick FC",
+          "away_team": "Hamrun Spartans",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-01-31",
+          "time": "16:15",
+          "home_team": "Floriana FC",
+          "away_team": "Marsaxlokk FC",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-02-10",
+          "time": "15:00",
+          "home_team": "Naxxar Lions FC",
+          "away_team": "Balzan FC",
+          "result": {
+            "full_time": "0-3"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 6",
+      "matches": [
+        {
+          "date": "2024-02-14",
+          "time": "20:30",
+          "home_team": "Mosta FC",
+          "away_team": "Marsaxlokk FC",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-02-15",
+          "time": "14:00",
+          "home_team": "Naxxar Lions FC",
+          "away_team": "Birkirkara FC",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-02-15",
+          "time": "16:15",
+          "home_team": "Hibernians FC",
+          "away_team": "St. Patrick FC",
+          "result": {
+            "full_time": "0-4"
+          }
+        },
+        {
+          "date": "2024-02-15",
+          "time": "19:00",
+          "home_team": "Sliema Wanderers",
+          "away_team": "Gżira United",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-02-16",
+          "time": "14:00",
+          "home_team": "Balzan FC",
+          "away_team": "Floriana FC",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-02-16",
+          "time": "16:15",
+          "home_team": "Melita FC",
+          "away_team": "Hamrun Spartans",
+          "result": {
+            "full_time": "2-0"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 7",
+      "matches": [
+        {
+          "date": "2024-02-21",
+          "time": "20:30",
+          "home_team": "Gżira United",
+          "away_team": "Marsaxlokk FC",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-02-22",
+          "time": "13:45",
+          "home_team": "Sliema Wanderers",
+          "away_team": "Floriana FC",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-02-22",
+          "time": "16:00",
+          "home_team": "Hamrun Spartans",
+          "away_team": "Balzan FC",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-02-23",
+          "time": "13:45",
+          "home_team": "Hibernians FC",
+          "away_team": "Mosta FC",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-02-23",
+          "time": "16:00",
+          "home_team": "St. Patrick FC",
+          "away_team": "Birkirkara FC",
+          "result": {
+            "full_time": "0-3"
+          }
+        },
+        {
+          "date": "2024-02-23",
+          "time": "18:00",
+          "home_team": "Melita FC",
+          "away_team": "Naxxar Lions FC",
+          "result": {
+            "full_time": "2-5"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 8",
+      "matches": [
+        {
+          "date": "2024-02-23",
+          "time": "13:45",
+          "home_team": "Sliema Wanderers",
+          "away_team": "Marsaxlokk FC",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-02-23",
+          "time": "16:00",
+          "home_team": "Birkirkara FC",
+          "away_team": "Hibernians FC",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-02-23",
+          "time": "16:30",
+          "home_team": "Naxxar Lions FC",
+          "away_team": "St. Patrick FC",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-02-23",
+          "time": "19:00",
+          "home_team": "Balzan FC",
+          "away_team": "Melita FC",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-02-23",
+          "time": "13:45",
+          "home_team": "Floriana FC",
+          "away_team": "Mosta FC",
+          "result": {
+            "full_time": "2-2"
+          }
+        },
+        {
+          "date": "2024-02-23",
+          "time": "16:00",
+          "home_team": "Hamrun Spartans",
+          "away_team": "Gżira United",
+          "result": {
+            "full_time": "0-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 9",
+      "matches": [
+        {
+          "date": "2024-02-23",
+          "time": "13:45",
+          "home_team": "Balzan FC",
+          "away_team": "Sliema Wanderers",
+          "result": {
+            "full_time": "2-3"
+          }
+        },
+        {
+          "date": "2024-02-23",
+          "time": "13:45",
+          "home_team": "Birkirkara FC",
+          "away_team": "Marsaxlokk FC",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-02-23",
+          "time": "16:00",
+          "home_team": "Gżira United",
+          "away_team": "Floriana FC",
+          "result": {
+            "full_time": "0-3"
+          }
+        },
+        {
+          "date": "2024-02-23",
+          "time": "16:00",
+          "home_team": "Melita FC",
+          "away_team": "St. Patrick FC",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-02-23",
+          "time": "13:45",
+          "home_team": "Hibernians FC",
+          "away_team": "Naxxar Lions FC",
+          "result": {
+            "full_time": "3-2"
+          }
+        },
+        {
+          "date": "2024-02-23",
+          "time": "16:00",
+          "home_team": "Hamrun Spartans",
+          "away_team": "Mosta FC",
+          "result": {
+            "full_time": "1-2"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 10",
+      "matches": [
+        {
+          "date": "2024-03-12",
+          "time": "19:00",
+          "home_team": "Floriana FC",
+          "away_team": "Birkirkara FC",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-03-13",
+          "time": "18:00",
+          "home_team": "Naxxar Lions FC",
+          "away_team": "Marsaxlokk FC",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-03-13",
+          "time": "18:30",
+          "home_team": "Hamrun Spartans",
+          "away_team": "Sliema Wanderers",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-03-13",
+          "time": "18:30",
+          "home_team": "Mosta FC",
+          "away_team": "Melita FC",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-03-13",
+          "time": "20:45",
+          "home_team": "Hibernians FC",
+          "away_team": "Balzan FC",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-03-13",
+          "time": "20:45",
+          "home_team": "St. Patrick FC",
+          "away_team": "Gżira United",
+          "result": {
+            "full_time": "3-0"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 11",
+      "matches": [
+        {
+          "date": "2024-03-28",
+          "time": "20:00",
+          "home_team": "Gżira United",
+          "away_team": "Balzan FC"
+        },
+        {
+          "date": "2024-03-29",
+          "time": "14:00",
+          "home_team": "Floriana FC",
+          "away_team": "Hibernians FC"
+        },
+        {
+          "date": "2024-03-29",
+          "time": "17:00",
+          "home_team": "St. Patrick FC",
+          "away_team": "Mosta FC"
+        },
+        {
+          "date": "2024-03-30",
+          "time": "14:00",
+          "home_team": "Sliema Wanderers",
+          "away_team": "Birkirkara FC"
+        },
+        {
+          "date": "2024-03-30",
+          "time": "17:00",
+          "home_team": "Melita FC",
+          "away_team": "Marsaxlokk FC"
+        },
+        {
+          "date": "2024-03-31",
+          "time": "15:00",
+          "home_team": "Hamrun Spartans",
+          "away_team": "Naxxar Lions FC"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 1",
+      "matches": [
+        {
+          "date": "2024-08-16",
+          "time": "18:00",
+          "home_team": "Balzan FC",
+          "away_team": "Birkirkara FC",
+          "result": {
+            "full_time": "3-3"
+          }
+        },
+        {
+          "date": "2024-08-16",
+          "time": "20:15",
+          "home_team": "Sliema Wanderers",
+          "away_team": "Mosta FC",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-08-17",
+          "time": "18:00",
+          "home_team": "Floriana FC",
+          "away_team": "Melita FC",
+          "result": {
+            "full_time": "3-3"
+          }
+        },
+        {
+          "date": "2024-08-17",
+          "time": "20:15",
+          "home_team": "Naxxar Lions FC",
+          "away_team": "Hibernians FC",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-08-18",
+          "time": "18:00",
+          "home_team": "Hamrun Spartans",
+          "away_team": "St. Patrick FC",
+          "result": {
+            "full_time": "3-1"
+          }
+        },
+        {
+          "date": "2024-08-18",
+          "time": "20:15",
+          "home_team": "Marsaxlokk FC",
+          "away_team": "Gżira United",
+          "result": {
+            "full_time": "0-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 2",
+      "matches": [
+        {
+          "date": "2024-08-23",
+          "time": "18:00",
+          "home_team": "Naxxar Lions FC",
+          "away_team": "Mosta FC",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-08-23",
+          "time": "20:15",
+          "home_team": "Birkirkara FC",
+          "away_team": "St. Patrick FC",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-08-24",
+          "time": "18:00",
+          "home_team": "Hamrun Spartans",
+          "away_team": "Floriana FC",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-08-24",
+          "time": "20:15",
+          "home_team": "Marsaxlokk FC",
+          "away_team": "Melita FC",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-08-25",
+          "time": "18:00",
+          "home_team": "Hibernians FC",
+          "away_team": "Gżira United",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-08-25",
+          "time": "20:15",
+          "home_team": "Sliema Wanderers",
+          "away_team": "Balzan FC",
+          "result": {
+            "full_time": "2-0"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 3",
+      "matches": [
+        {
+          "date": "2024-08-28",
+          "time": "18:00",
+          "home_team": "St. Patrick FC",
+          "away_team": "Floriana FC",
+          "result": {
+            "full_time": "0-3"
+          }
+        },
+        {
+          "date": "2024-08-28",
+          "time": "20:30",
+          "home_team": "Hamrun Spartans",
+          "away_team": "Melita FC",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-08-29",
+          "time": "18:00",
+          "home_team": "Marsaxlokk FC",
+          "away_team": "Birkirkara FC",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-08-29",
+          "time": "18:00",
+          "home_team": "Balzan FC",
+          "away_team": "Naxxar Lions FC",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-08-29",
+          "time": "20:15",
+          "home_team": "Gżira United",
+          "away_team": "Mosta FC",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-08-29",
+          "time": "20:30",
+          "home_team": "Hibernians FC",
+          "away_team": "Sliema Wanderers",
+          "result": {
+            "full_time": "0-0"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 4",
+      "matches": [
+        {
+          "date": "2024-09-14",
+          "time": "18:00",
+          "home_team": "Hibernians FC",
+          "away_team": "Birkirkara FC",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-09-14",
+          "time": "20:30",
+          "home_team": "Melita FC",
+          "away_team": "Gżira United",
+          "result": {
+            "full_time": "2-3"
+          }
+        },
+        {
+          "date": "2024-09-15",
+          "time": "18:00",
+          "home_team": "Marsaxlokk FC",
+          "away_team": "Sliema Wanderers",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-09-15",
+          "time": "20:15",
+          "home_team": "Mosta FC",
+          "away_team": "Hamrun Spartans",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-09-16",
+          "time": "18:00",
+          "home_team": "Naxxar Lions FC",
+          "away_team": "Floriana FC",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-09-16",
+          "time": "20:30",
+          "home_team": "Balzan FC",
+          "away_team": "St. Patrick FC",
+          "result": {
+            "full_time": "0-2"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 5",
+      "matches": [
+        {
+          "date": "2024-09-21",
+          "time": "18:00",
+          "home_team": "Gżira United",
+          "away_team": "Sliema Wanderers",
+          "result": {
+            "full_time": "2-2"
+          }
+        },
+        {
+          "date": "2024-09-21",
+          "time": "20:30",
+          "home_team": "Balzan FC",
+          "away_team": "Hamrun Spartans",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-09-22",
+          "time": "18:00",
+          "home_team": "Floriana FC",
+          "away_team": "Hibernians FC",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-09-22",
+          "time": "20:30",
+          "home_team": "St. Patrick FC",
+          "away_team": "Naxxar Lions FC",
+          "result": {
+            "full_time": "3-3"
+          }
+        },
+        {
+          "date": "2024-09-23",
+          "time": "18:00",
+          "home_team": "Melita FC",
+          "away_team": "Birkirkara FC",
+          "result": {
+            "full_time": "0-3"
+          }
+        },
+        {
+          "date": "2024-09-23",
+          "time": "20:15",
+          "home_team": "Marsaxlokk FC",
+          "away_team": "Mosta FC",
+          "result": {
+            "full_time": "2-4"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 6",
+      "matches": [
+        {
+          "date": "2024-09-27",
+          "time": "18:00",
+          "home_team": "Floriana FC",
+          "away_team": "Gżira United",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-09-27",
+          "time": "20:30",
+          "home_team": "Naxxar Lions FC",
+          "away_team": "Hamrun Spartans",
+          "result": {
+            "full_time": "0-6"
+          }
+        },
+        {
+          "date": "2024-09-28",
+          "time": "18:00",
+          "home_team": "St. Patrick FC",
+          "away_team": "Hibernians FC",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-09-28",
+          "time": "20:15",
+          "home_team": "Marsaxlokk FC",
+          "away_team": "Balzan FC",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-09-29",
+          "time": "18:00",
+          "home_team": "Mosta FC",
+          "away_team": "Birkirkara FC",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-09-29",
+          "time": "20:30",
+          "home_team": "Sliema Wanderers",
+          "away_team": "Melita FC",
+          "result": {
+            "full_time": "2-2"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 7",
+      "matches": [
+        {
+          "date": "2024-09-29",
+          "time": "18:00",
+          "home_team": "Hamrun Spartans",
+          "away_team": "Hibernians FC",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-09-29",
+          "time": "20:30",
+          "home_team": "St. Patrick FC",
+          "away_team": "Marsaxlokk FC",
+          "result": {
+            "full_time": "1-3"
+          }
+        },
+        {
+          "date": "2024-09-29",
+          "time": "18:00",
+          "home_team": "Mosta FC",
+          "away_team": "Floriana FC",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-09-29",
+          "time": "18:00",
+          "home_team": "Naxxar Lions FC",
+          "away_team": "Melita FC",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-09-29",
+          "time": "20:15",
+          "home_team": "Balzan FC",
+          "away_team": "Gżira United",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-09-29",
+          "time": "20:30",
+          "home_team": "Birkirkara FC",
+          "away_team": "Sliema Wanderers",
+          "result": {
+            "full_time": "1-0"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 8",
+      "matches": [
+        {
+          "date": "2024-10-19",
+          "time": "13:30",
+          "home_team": "Mosta FC",
+          "away_team": "Hibernians FC",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-10-19",
+          "time": "18:00",
+          "home_team": "Birkirkara FC",
+          "away_team": "Hamrun Spartans",
+          "result": {
+            "full_time": "3-2"
+          }
+        },
+        {
+          "date": "2024-10-20",
+          "time": "15:00",
+          "home_team": "Sliema Wanderers",
+          "away_team": "St. Patrick FC",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-10-20",
+          "time": "17:30",
+          "home_team": "Naxxar Lions FC",
+          "away_team": "Gżira United",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-10-20",
+          "time": "18:30",
+          "home_team": "Melita FC",
+          "away_team": "Balzan FC",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-10-21",
+          "time": "19:00",
+          "home_team": "Marsaxlokk FC",
+          "away_team": "Floriana FC",
+          "result": {
+            "full_time": "1-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 9",
+      "matches": [
+        {
+          "date": "2024-10-25",
+          "time": "18:00",
+          "home_team": "Hibernians FC",
+          "away_team": "Melita FC",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-10-25",
+          "time": "20:30",
+          "home_team": "Sliema Wanderers",
+          "away_team": "Hamrun Spartans",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-10-26",
+          "time": "15:00",
+          "home_team": "Floriana FC",
+          "away_team": "Balzan FC",
+          "result": {
+            "full_time": "3-0"
+          }
+        },
+        {
+          "date": "2024-10-26",
+          "time": "17:30",
+          "home_team": "Gżira United",
+          "away_team": "Birkirkara FC",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-10-27",
+          "time": "16:00",
+          "home_team": "Naxxar Lions FC",
+          "away_team": "Marsaxlokk FC",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-10-27",
+          "time": "18:30",
+          "home_team": "Mosta FC",
+          "away_team": "St. Patrick FC",
+          "result": {
+            "full_time": "4-2"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 10",
+      "matches": [
+        {
+          "date": "2024-10-27",
+          "time": "18:00",
+          "home_team": "Floriana FC",
+          "away_team": "Sliema Wanderers",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-10-27",
+          "time": "20:30",
+          "home_team": "Balzan FC",
+          "away_team": "Hibernians FC",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-10-27",
+          "time": "15:00",
+          "home_team": "Hamrun Spartans",
+          "away_team": "Marsaxlokk FC",
+          "result": {
+            "full_time": "2-3"
+          }
+        },
+        {
+          "date": "2024-10-27",
+          "time": "17:30",
+          "home_team": "Gżira United",
+          "away_team": "St. Patrick FC",
+          "result": {
+            "full_time": "3-1"
+          }
+        },
+        {
+          "date": "2024-10-27",
+          "time": "19:00",
+          "home_team": "Birkirkara FC",
+          "away_team": "Naxxar Lions FC",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-10-27",
+          "time": "19:00",
+          "home_team": "Melita FC",
+          "away_team": "Mosta FC",
+          "result": {
+            "full_time": "1-2"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 11",
+      "matches": [
+        {
+          "date": "2024-10-27",
+          "time": "18:00",
+          "home_team": "St. Patrick FC",
+          "away_team": "Melita FC",
+          "result": {
+            "full_time": "1-3"
+          }
+        },
+        {
+          "date": "2024-10-27",
+          "time": "20:30",
+          "home_team": "Mosta FC",
+          "away_team": "Balzan FC",
+          "result": {
+            "full_time": "2-2"
+          }
+        },
+        {
+          "date": "2024-10-27",
+          "time": "18:00",
+          "home_team": "Marsaxlokk FC",
+          "away_team": "Hibernians FC",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-10-27",
+          "time": "18:00",
+          "home_team": "Gżira United",
+          "away_team": "Hamrun Spartans",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-10-27",
+          "time": "20:30",
+          "home_team": "Birkirkara FC",
+          "away_team": "Floriana FC",
+          "result": {
+            "full_time": "1-3"
+          }
+        },
+        {
+          "date": "2024-10-27",
+          "time": "20:30",
+          "home_team": "Naxxar Lions FC",
+          "away_team": "Sliema Wanderers",
+          "result": {
+            "full_time": "0-3"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Opening Bottom 6, Matchday 1",
+      "matches": [
+        {
+          "date": "2024-11-24",
+          "time": "13:30",
+          "home_team": "Gżira United",
+          "away_team": "St. Patrick FC",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-11-24",
+          "time": "16:00",
+          "home_team": "Marsaxlokk FC",
+          "away_team": "Balzan FC",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-11-25",
+          "time": "19:00",
+          "home_team": "Melita FC",
+          "away_team": "Naxxar Lions FC",
+          "result": {
+            "full_time": "0-3"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Opening Bottom 6, Matchday 2",
+      "matches": [
+        {
+          "date": "2024-11-30",
+          "time": "17:00",
+          "home_team": "Gżira United",
+          "away_team": "Naxxar Lions FC",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-11-30",
+          "time": "13:30",
+          "home_team": "Melita FC",
+          "away_team": "Marsaxlokk FC",
+          "result": {
+            "full_time": "1-3"
+          }
+        },
+        {
+          "date": "2024-11-30",
+          "time": "16:00",
+          "home_team": "Balzan FC",
+          "away_team": "St. Patrick FC",
+          "result": {
+            "full_time": "1-2"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Opening Bottom 6, Matchday 3",
+      "matches": [
+        {
+          "date": "2024-11-30",
+          "time": "13:30",
+          "home_team": "Gżira United",
+          "away_team": "Marsaxlokk FC",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-11-30",
+          "time": "16:00",
+          "home_team": "Naxxar Lions FC",
+          "away_team": "St. Patrick FC",
+          "result": {
+            "full_time": "0-3"
+          }
+        },
+        {
+          "date": "2024-11-30",
+          "time": "18:30",
+          "home_team": "Melita FC",
+          "away_team": "Balzan FC",
+          "result": {
+            "full_time": "1-0"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Opening Bottom 6, Matchday 4",
+      "matches": [
+        {
+          "date": "2024-12-14",
+          "time": "17:00",
+          "home_team": "Melita FC",
+          "away_team": "St. Patrick FC",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-12-15",
+          "time": "13:30",
+          "home_team": "Marsaxlokk FC",
+          "away_team": "Naxxar Lions FC",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-12-15",
+          "time": "16:00",
+          "home_team": "Gżira United",
+          "away_team": "Balzan FC",
+          "result": {
+            "full_time": "2-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Opening Bottom 6, Matchday 5",
+      "matches": [
+        {
+          "date": "2024-12-22",
+          "time": "17:00",
+          "home_team": "Gżira United",
+          "away_team": "Melita FC",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-12-22",
+          "time": "17:00",
+          "home_team": "Marsaxlokk FC",
+          "away_team": "St. Patrick FC",
+          "result": {
+            "full_time": "2-2"
+          }
+        },
+        {
+          "date": "2024-12-22",
+          "time": "17:00",
+          "home_team": "Balzan FC",
+          "away_team": "Naxxar Lions FC",
+          "result": {
+            "full_time": "2-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Opening Top 6, Matchday 1",
+      "matches": [
+        {
+          "date": "2024-11-23",
+          "time": "13:30",
+          "home_team": "Floriana FC",
+          "away_team": "Mosta FC",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-11-23",
+          "time": "14:15",
+          "home_team": "Birkirkara FC",
+          "away_team": "Hamrun Spartans",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-11-23",
+          "time": "17:00",
+          "home_team": "Sliema Wanderers",
+          "away_team": "Hibernians FC",
+          "result": {
+            "full_time": "3-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Opening Top 6, Matchday 2",
+      "matches": [
+        {
+          "date": "2024-11-29",
+          "time": "18:00",
+          "home_team": "Birkirkara FC",
+          "away_team": "Mosta FC",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-11-29",
+          "time": "20:30",
+          "home_team": "Sliema Wanderers",
+          "away_team": "Hamrun Spartans",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-11-30",
+          "time": "14:15",
+          "home_team": "Floriana FC",
+          "away_team": "Hibernians FC",
+          "result": {
+            "full_time": "2-0"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Opening Top 6, Matchday 3",
+      "matches": [
+        {
+          "date": "2024-11-30",
+          "time": "14:15",
+          "home_team": "Birkirkara FC",
+          "away_team": "Sliema Wanderers",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-11-30",
+          "time": "17:00",
+          "home_team": "Hibernians FC",
+          "away_team": "Mosta FC",
+          "result": {
+            "full_time": "3-2"
+          }
+        },
+        {
+          "date": "2024-11-30",
+          "time": "15:00",
+          "home_team": "Floriana FC",
+          "away_team": "Hamrun Spartans",
+          "result": {
+            "full_time": "1-2"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Opening Top 6, Matchday 4",
+      "matches": [
+        {
+          "date": "2024-12-14",
+          "time": "14:15",
+          "home_team": "Birkirkara FC",
+          "away_team": "Hibernians FC",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-12-17",
+          "time": "18:00",
+          "home_team": "Hamrun Spartans",
+          "away_team": "Mosta FC",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-12-17",
+          "time": "19:00",
+          "home_team": "Floriana FC",
+          "away_team": "Sliema Wanderers",
+          "result": {
+            "full_time": "1-0"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Opening Top 6, Matchday 5",
+      "matches": [
+        {
+          "date": "2024-12-21",
+          "time": "14:00",
+          "home_team": "Birkirkara FC",
+          "away_team": "Floriana FC",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-12-21",
+          "time": "16:00",
+          "home_team": "Sliema Wanderers",
+          "away_team": "Mosta FC",
+          "result": {
+            "full_time": "3-1"
+          }
+        },
+        {
+          "date": "2024-12-21",
+          "time": "16:00",
+          "home_team": "Hibernians FC",
+          "away_team": "Hamrun Spartans",
+          "result": {
+            "full_time": "0-3"
+          }
+        }
+      ]
+    }
+  ]
+}

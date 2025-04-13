@@ -1,0 +1,2687 @@
+{
+  "league": "Poland Ekstraklasa",
+  "season": "2024/25",
+  "matchdays": [
+    {
+      "matchday": "Matchday 1",
+      "matches": [
+        {
+          "date": "2024-07-19",
+          "time": "18:00",
+          "home_team": "Jagiellonia Białystok",
+          "away_team": "Puszcza Niepołomice",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-07-19",
+          "time": "20:30",
+          "home_team": "Śląsk Wrocław",
+          "away_team": "Lechia Gdańsk",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-07-20",
+          "time": "14:45",
+          "home_team": "GKS Katowice",
+          "away_team": "Radomiak Radom",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-07-20",
+          "time": "17:30",
+          "home_team": "Pogoń Szczecin",
+          "away_team": "Korona Kielce",
+          "result": {
+            "full_time": "3-0"
+          }
+        },
+        {
+          "date": "2024-07-20",
+          "time": "20:15",
+          "home_team": "Legia Warszawa",
+          "away_team": "Zagłębie Lubin",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-07-21",
+          "time": "14:45",
+          "home_team": "KS Cracovia",
+          "away_team": "Piast Gliwice",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-07-21",
+          "time": "17:30",
+          "home_team": "Lech Poznań",
+          "away_team": "Górnik Zabrze",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-07-21",
+          "time": "20:15",
+          "home_team": "Motor Lublin",
+          "away_team": "Raków Częstochowa",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-07-22",
+          "time": "19:00",
+          "home_team": "FKS Stal Mielec",
+          "away_team": "Widzew Łódź",
+          "result": {
+            "full_time": "1-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 2",
+      "matches": [
+        {
+          "date": "2024-07-26",
+          "time": "18:00",
+          "home_team": "Puszcza Niepołomice",
+          "away_team": "Górnik Zabrze",
+          "result": {
+            "full_time": "2-2"
+          }
+        },
+        {
+          "date": "2024-07-26",
+          "time": "20:30",
+          "home_team": "Lechia Gdańsk",
+          "away_team": "Motor Lublin",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-07-27",
+          "time": "14:45",
+          "home_team": "FKS Stal Mielec",
+          "away_team": "GKS Katowice",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-07-27",
+          "time": "17:30",
+          "home_team": "Radomiak Radom",
+          "away_team": "Jagiellonia Białystok",
+          "result": {
+            "full_time": "2-3"
+          }
+        },
+        {
+          "date": "2024-07-27",
+          "time": "20:15",
+          "home_team": "Widzew Łódź",
+          "away_team": "Lech Poznań",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-07-28",
+          "time": "14:45",
+          "home_team": "Zagłębie Lubin",
+          "away_team": "Pogoń Szczecin",
+          "result": {
+            "full_time": "2-2"
+          }
+        },
+        {
+          "date": "2024-07-28",
+          "time": "17:30",
+          "home_team": "Piast Gliwice",
+          "away_team": "Śląsk Wrocław",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-07-28",
+          "time": "20:15",
+          "home_team": "Korona Kielce",
+          "away_team": "Legia Warszawa",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-07-29",
+          "time": "19:00",
+          "home_team": "Raków Częstochowa",
+          "away_team": "KS Cracovia",
+          "result": {
+            "full_time": "0-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 3",
+      "matches": [
+        {
+          "date": "2024-07-29",
+          "time": "18:00",
+          "home_team": "Zagłębie Lubin",
+          "away_team": "Puszcza Niepołomice",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-07-29",
+          "time": "20:30",
+          "home_team": "Górnik Zabrze",
+          "away_team": "Pogoń Szczecin",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-07-29",
+          "time": "14:45",
+          "home_team": "GKS Katowice",
+          "away_team": "Raków Częstochowa",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-07-29",
+          "time": "17:30",
+          "home_team": "Jagiellonia Białystok",
+          "away_team": "FKS Stal Mielec",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-07-29",
+          "time": "20:15",
+          "home_team": "Lech Poznań",
+          "away_team": "Lechia Gdańsk",
+          "result": {
+            "full_time": "3-1"
+          }
+        },
+        {
+          "date": "2024-07-29",
+          "time": "14:45",
+          "home_team": "Motor Lublin",
+          "away_team": "Korona Kielce",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-07-29",
+          "time": "20:15",
+          "home_team": "Legia Warszawa",
+          "away_team": "Piast Gliwice",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-07-29",
+          "time": "19:00",
+          "home_team": "KS Cracovia",
+          "away_team": "Widzew Łódź",
+          "result": {
+            "full_time": "1-3"
+          }
+        },
+        {
+          "date": "2024-12-14",
+          "time": "17:30",
+          "home_team": "Śląsk Wrocław",
+          "away_team": "Radomiak Radom",
+          "result": {
+            "full_time": "1-2"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 4",
+      "matches": [
+        {
+          "date": "2024-12-14",
+          "time": "18:00",
+          "home_team": "Radomiak Radom",
+          "away_team": "Górnik Zabrze",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-12-14",
+          "time": "20:30",
+          "home_team": "Raków Częstochowa",
+          "away_team": "Lech Poznań",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-08-10",
+          "time": "17:30",
+          "home_team": "Korona Kielce",
+          "away_team": "KS Cracovia",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-08-10",
+          "time": "20:15",
+          "home_team": "Pogoń Szczecin",
+          "away_team": "FKS Stal Mielec",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-08-11",
+          "time": "14:45",
+          "home_team": "Lechia Gdańsk",
+          "away_team": "Zagłębie Lubin",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-08-11",
+          "time": "17:30",
+          "home_team": "Puszcza Niepołomice",
+          "away_team": "Legia Warszawa",
+          "result": {
+            "full_time": "2-2"
+          }
+        },
+        {
+          "date": "2024-08-11",
+          "time": "20:15",
+          "home_team": "Widzew Łódź",
+          "away_team": "Śląsk Wrocław",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-08-12",
+          "time": "19:00",
+          "home_team": "Piast Gliwice",
+          "away_team": "GKS Katowice",
+          "result": {
+            "full_time": "2-2"
+          }
+        },
+        {
+          "date": "2024-09-25",
+          "time": "19:00",
+          "home_team": "Motor Lublin",
+          "away_team": "Jagiellonia Białystok",
+          "result": {
+            "full_time": "0-2"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 5",
+      "matches": [
+        {
+          "date": "2024-08-16",
+          "time": "18:00",
+          "home_team": "Puszcza Niepołomice",
+          "away_team": "Lechia Gdańsk",
+          "result": {
+            "full_time": "4-1"
+          }
+        },
+        {
+          "date": "2024-08-16",
+          "time": "20:30",
+          "home_team": "GKS Katowice",
+          "away_team": "Motor Lublin",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-08-17",
+          "time": "14:45",
+          "home_team": "Jagiellonia Białystok",
+          "away_team": "KS Cracovia",
+          "result": {
+            "full_time": "2-4"
+          }
+        },
+        {
+          "date": "2024-08-17",
+          "time": "17:30",
+          "home_team": "Zagłębie Lubin",
+          "away_team": "Lech Poznań",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-08-17",
+          "time": "20:15",
+          "home_team": "Pogoń Szczecin",
+          "away_team": "Widzew Łódź",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-08-18",
+          "time": "14:45",
+          "home_team": "Śląsk Wrocław",
+          "away_team": "Korona Kielce",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-08-18",
+          "time": "17:30",
+          "home_team": "Legia Warszawa",
+          "away_team": "Radomiak Radom",
+          "result": {
+            "full_time": "4-1"
+          }
+        },
+        {
+          "date": "2024-08-18",
+          "time": "20:15",
+          "home_team": "Górnik Zabrze",
+          "away_team": "Raków Częstochowa",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-08-19",
+          "time": "19:00",
+          "home_team": "FKS Stal Mielec",
+          "away_team": "Piast Gliwice",
+          "result": {
+            "full_time": "2-0"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 6",
+      "matches": [
+        {
+          "date": "2024-08-23",
+          "time": "18:00",
+          "home_team": "Widzew Łódź",
+          "away_team": "Radomiak Radom",
+          "result": {
+            "full_time": "3-2"
+          }
+        },
+        {
+          "date": "2024-08-23",
+          "time": "20:30",
+          "home_team": "Lechia Gdańsk",
+          "away_team": "Raków Częstochowa",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-08-24",
+          "time": "14:45",
+          "home_team": "Motor Lublin",
+          "away_team": "Puszcza Niepołomice",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-08-24",
+          "time": "17:30",
+          "home_team": "KS Cracovia",
+          "away_team": "Górnik Zabrze",
+          "result": {
+            "full_time": "3-2"
+          }
+        },
+        {
+          "date": "2024-08-24",
+          "time": "20:15",
+          "home_team": "Piast Gliwice",
+          "away_team": "Zagłębie Lubin",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-08-25",
+          "time": "14:45",
+          "home_team": "GKS Katowice",
+          "away_team": "Jagiellonia Białystok",
+          "result": {
+            "full_time": "3-1"
+          }
+        },
+        {
+          "date": "2024-08-25",
+          "time": "17:30",
+          "home_team": "Lech Poznań",
+          "away_team": "Pogoń Szczecin",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-08-25",
+          "time": "20:15",
+          "home_team": "Śląsk Wrocław",
+          "away_team": "Legia Warszawa",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-08-26",
+          "time": "19:00",
+          "home_team": "Korona Kielce",
+          "away_team": "FKS Stal Mielec",
+          "result": {
+            "full_time": "2-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 7",
+      "matches": [
+        {
+          "date": "2024-08-30",
+          "time": "18:00",
+          "home_team": "Raków Częstochowa",
+          "away_team": "Piast Gliwice",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-08-30",
+          "time": "20:30",
+          "home_team": "FKS Stal Mielec",
+          "away_team": "Lech Poznań",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-08-31",
+          "time": "14:45",
+          "home_team": "Puszcza Niepołomice",
+          "away_team": "Korona Kielce",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-08-31",
+          "time": "17:30",
+          "home_team": "Zagłębie Lubin",
+          "away_team": "GKS Katowice",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-08-31",
+          "time": "20:15",
+          "home_team": "Radomiak Radom",
+          "away_team": "KS Cracovia",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-08-31",
+          "time": "12:15",
+          "home_team": "Górnik Zabrze",
+          "away_team": "Lechia Gdańsk",
+          "result": {
+            "full_time": "2-3"
+          }
+        },
+        {
+          "date": "2024-08-31",
+          "time": "14:45",
+          "home_team": "Legia Warszawa",
+          "away_team": "Motor Lublin",
+          "result": {
+            "full_time": "5-2"
+          }
+        },
+        {
+          "date": "2024-08-31",
+          "time": "17:30",
+          "home_team": "Pogoń Szczecin",
+          "away_team": "Śląsk Wrocław",
+          "result": {
+            "full_time": "5-3"
+          }
+        },
+        {
+          "date": "2024-08-31",
+          "time": "20:15",
+          "home_team": "Jagiellonia Białystok",
+          "away_team": "Widzew Łódź",
+          "result": {
+            "full_time": "1-0"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 8",
+      "matches": [
+        {
+          "date": "2024-09-13",
+          "time": "18:00",
+          "home_team": "Motor Lublin",
+          "away_team": "Górnik Zabrze",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-09-13",
+          "time": "20:30",
+          "home_team": "GKS Katowice",
+          "away_team": "Widzew Łódź",
+          "result": {
+            "full_time": "2-2"
+          }
+        },
+        {
+          "date": "2024-09-14",
+          "time": "14:45",
+          "home_team": "Lechia Gdańsk",
+          "away_team": "Radomiak Radom",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-09-14",
+          "time": "17:30",
+          "home_team": "KS Cracovia",
+          "away_team": "Pogoń Szczecin",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-09-14",
+          "time": "20:15",
+          "home_team": "Lech Poznań",
+          "away_team": "Jagiellonia Białystok",
+          "result": {
+            "full_time": "5-0"
+          }
+        },
+        {
+          "date": "2024-09-15",
+          "time": "12:15",
+          "home_team": "Piast Gliwice",
+          "away_team": "Puszcza Niepołomice",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-09-15",
+          "time": "14:45",
+          "home_team": "Korona Kielce",
+          "away_team": "Zagłębie Lubin",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-09-15",
+          "time": "17:30",
+          "home_team": "Legia Warszawa",
+          "away_team": "Raków Częstochowa",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-10-23",
+          "time": "18:30",
+          "home_team": "Śląsk Wrocław",
+          "away_team": "FKS Stal Mielec",
+          "result": {
+            "full_time": "2-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 9",
+      "matches": [
+        {
+          "date": "2024-09-20",
+          "time": "18:00",
+          "home_team": "Radomiak Radom",
+          "away_team": "Korona Kielce",
+          "result": {
+            "full_time": "4-0"
+          }
+        },
+        {
+          "date": "2024-09-20",
+          "time": "20:30",
+          "home_team": "Pogoń Szczecin",
+          "away_team": "Legia Warszawa",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-09-21",
+          "time": "12:15",
+          "home_team": "Puszcza Niepołomice",
+          "away_team": "KS Cracovia",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-09-21",
+          "time": "14:45",
+          "home_team": "Jagiellonia Białystok",
+          "away_team": "Lechia Gdańsk",
+          "result": {
+            "full_time": "3-2"
+          }
+        },
+        {
+          "date": "2024-09-21",
+          "time": "17:30",
+          "home_team": "Widzew Łódź",
+          "away_team": "Piast Gliwice",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-09-21",
+          "time": "20:15",
+          "home_team": "Górnik Zabrze",
+          "away_team": "GKS Katowice",
+          "result": {
+            "full_time": "3-0"
+          }
+        },
+        {
+          "date": "2024-09-22",
+          "time": "12:15",
+          "home_team": "FKS Stal Mielec",
+          "away_team": "Motor Lublin",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-09-22",
+          "time": "14:45",
+          "home_team": "Raków Częstochowa",
+          "away_team": "Zagłębie Lubin",
+          "result": {
+            "full_time": "5-1"
+          }
+        },
+        {
+          "date": "2024-09-22",
+          "time": "17:30",
+          "home_team": "Lech Poznań",
+          "away_team": "Śląsk Wrocław",
+          "result": {
+            "full_time": "1-0"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 10",
+      "matches": [
+        {
+          "date": "2024-09-27",
+          "time": "18:00",
+          "home_team": "GKS Katowice",
+          "away_team": "Pogoń Szczecin",
+          "result": {
+            "full_time": "3-1"
+          }
+        },
+        {
+          "date": "2024-09-27",
+          "time": "20:30",
+          "home_team": "Lechia Gdańsk",
+          "away_team": "Widzew Łódź",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-09-28",
+          "time": "14:45",
+          "home_team": "Raków Częstochowa",
+          "away_team": "Puszcza Niepołomice",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-09-28",
+          "time": "17:30",
+          "home_team": "Motor Lublin",
+          "away_team": "Śląsk Wrocław",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-09-28",
+          "time": "20:15",
+          "home_team": "Legia Warszawa",
+          "away_team": "Górnik Zabrze",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-09-29",
+          "time": "12:15",
+          "home_team": "Zagłębie Lubin",
+          "away_team": "Radomiak Radom",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-09-29",
+          "time": "14:45",
+          "home_team": "Korona Kielce",
+          "away_team": "Lech Poznań",
+          "result": {
+            "full_time": "2-3"
+          }
+        },
+        {
+          "date": "2024-09-29",
+          "time": "17:30",
+          "home_team": "Piast Gliwice",
+          "away_team": "Jagiellonia Białystok",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-09-30",
+          "time": "19:00",
+          "home_team": "KS Cracovia",
+          "away_team": "FKS Stal Mielec",
+          "result": {
+            "full_time": "1-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 11",
+      "matches": [
+        {
+          "date": "2024-09-30",
+          "time": "18:00",
+          "home_team": "Puszcza Niepołomice",
+          "away_team": "GKS Katowice",
+          "result": {
+            "full_time": "0-6"
+          }
+        },
+        {
+          "date": "2024-09-30",
+          "time": "20:30",
+          "home_team": "Widzew Łódź",
+          "away_team": "Korona Kielce",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-09-30",
+          "time": "12:15",
+          "home_team": "FKS Stal Mielec",
+          "away_team": "Lechia Gdańsk",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-09-30",
+          "time": "14:45",
+          "home_team": "Radomiak Radom",
+          "away_team": "Raków Częstochowa",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-09-30",
+          "time": "17:30",
+          "home_team": "Górnik Zabrze",
+          "away_team": "Zagłębie Lubin",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-09-30",
+          "time": "20:15",
+          "home_team": "Lech Poznań",
+          "away_team": "Motor Lublin",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-09-30",
+          "time": "14:45",
+          "home_team": "Śląsk Wrocław",
+          "away_team": "KS Cracovia",
+          "result": {
+            "full_time": "2-4"
+          }
+        },
+        {
+          "date": "2024-09-30",
+          "time": "17:30",
+          "home_team": "Pogoń Szczecin",
+          "away_team": "Piast Gliwice",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-09-30",
+          "time": "20:15",
+          "home_team": "Jagiellonia Białystok",
+          "away_team": "Legia Warszawa",
+          "result": {
+            "full_time": "1-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 12",
+      "matches": [
+        {
+          "date": "2024-10-18",
+          "time": "18:00",
+          "home_team": "Korona Kielce",
+          "away_team": "Piast Gliwice",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-10-18",
+          "time": "20:30",
+          "home_team": "Lechia Gdańsk",
+          "away_team": "Legia Warszawa",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-10-19",
+          "time": "14:45",
+          "home_team": "Motor Lublin",
+          "away_team": "Widzew Łódź",
+          "result": {
+            "full_time": "3-4"
+          }
+        },
+        {
+          "date": "2024-10-19",
+          "time": "17:30",
+          "home_team": "Zagłębie Lubin",
+          "away_team": "Jagiellonia Białystok",
+          "result": {
+            "full_time": "1-3"
+          }
+        },
+        {
+          "date": "2024-10-19",
+          "time": "20:15",
+          "home_team": "KS Cracovia",
+          "away_team": "Lech Poznań",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-10-20",
+          "time": "12:15",
+          "home_team": "GKS Katowice",
+          "away_team": "Śląsk Wrocław",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-10-20",
+          "time": "14:45",
+          "home_team": "Górnik Zabrze",
+          "away_team": "FKS Stal Mielec",
+          "result": {
+            "full_time": "3-1"
+          }
+        },
+        {
+          "date": "2024-10-20",
+          "time": "17:30",
+          "home_team": "Raków Częstochowa",
+          "away_team": "Pogoń Szczecin",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-10-21",
+          "time": "19:00",
+          "home_team": "Radomiak Radom",
+          "away_team": "Puszcza Niepołomice",
+          "result": {
+            "full_time": "2-0"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 13",
+      "matches": [
+        {
+          "date": "2024-10-25",
+          "time": "18:00",
+          "home_team": "Piast Gliwice",
+          "away_team": "Lechia Gdańsk",
+          "result": {
+            "full_time": "3-3"
+          }
+        },
+        {
+          "date": "2024-10-25",
+          "time": "20:30",
+          "home_team": "Pogoń Szczecin",
+          "away_team": "Puszcza Niepołomice",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-10-26",
+          "time": "14:45",
+          "home_team": "KS Cracovia",
+          "away_team": "Motor Lublin",
+          "result": {
+            "full_time": "6-2"
+          }
+        },
+        {
+          "date": "2024-10-26",
+          "time": "17:30",
+          "home_team": "Śląsk Wrocław",
+          "away_team": "Raków Częstochowa",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-10-26",
+          "time": "20:15",
+          "home_team": "Lech Poznań",
+          "away_team": "Radomiak Radom",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-10-27",
+          "time": "12:15",
+          "home_team": "FKS Stal Mielec",
+          "away_team": "Zagłębie Lubin",
+          "result": {
+            "full_time": "2-2"
+          }
+        },
+        {
+          "date": "2024-10-27",
+          "time": "14:45",
+          "home_team": "Jagiellonia Białystok",
+          "away_team": "Korona Kielce",
+          "result": {
+            "full_time": "3-1"
+          }
+        },
+        {
+          "date": "2024-10-27",
+          "time": "17:30",
+          "home_team": "Widzew Łódź",
+          "away_team": "Górnik Zabrze",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-10-27",
+          "time": "20:15",
+          "home_team": "Legia Warszawa",
+          "away_team": "GKS Katowice",
+          "result": {
+            "full_time": "4-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 14",
+      "matches": [
+        {
+          "date": "2024-10-27",
+          "time": "14:45",
+          "home_team": "Raków Częstochowa",
+          "away_team": "FKS Stal Mielec",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-10-27",
+          "time": "17:30",
+          "home_team": "Motor Lublin",
+          "away_team": "Pogoń Szczecin",
+          "result": {
+            "full_time": "4-2"
+          }
+        },
+        {
+          "date": "2024-10-27",
+          "time": "20:15",
+          "home_team": "Puszcza Niepołomice",
+          "away_team": "Lech Poznań",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-10-27",
+          "time": "12:15",
+          "home_team": "Radomiak Radom",
+          "away_team": "Piast Gliwice",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-10-27",
+          "time": "14:45",
+          "home_team": "Górnik Zabrze",
+          "away_team": "Jagiellonia Białystok",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-10-27",
+          "time": "17:30",
+          "home_team": "Lechia Gdańsk",
+          "away_team": "KS Cracovia",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-10-27",
+          "time": "20:15",
+          "home_team": "Legia Warszawa",
+          "away_team": "Widzew Łódź",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-10-27",
+          "time": "18:00",
+          "home_team": "GKS Katowice",
+          "away_team": "Korona Kielce",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-10-27",
+          "time": "20:30",
+          "home_team": "Zagłębie Lubin",
+          "away_team": "Śląsk Wrocław",
+          "result": {
+            "full_time": "3-0"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 15",
+      "matches": [
+        {
+          "date": "2024-10-27",
+          "time": "18:00",
+          "home_team": "Piast Gliwice",
+          "away_team": "Motor Lublin",
+          "result": {
+            "full_time": "2-3"
+          }
+        },
+        {
+          "date": "2024-10-27",
+          "time": "20:30",
+          "home_team": "Pogoń Szczecin",
+          "away_team": "Radomiak Radom",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-10-27",
+          "time": "12:15",
+          "home_team": "Korona Kielce",
+          "away_team": "Lechia Gdańsk",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-10-27",
+          "time": "14:45",
+          "home_team": "KS Cracovia",
+          "away_team": "GKS Katowice",
+          "result": {
+            "full_time": "3-4"
+          }
+        },
+        {
+          "date": "2024-10-27",
+          "time": "17:30",
+          "home_team": "Widzew Łódź",
+          "away_team": "Zagłębie Lubin",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-10-27",
+          "time": "20:15",
+          "home_team": "Śląsk Wrocław",
+          "away_team": "Górnik Zabrze",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-11-10",
+          "time": "12:15",
+          "home_team": "FKS Stal Mielec",
+          "away_team": "Puszcza Niepołomice",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-11-10",
+          "time": "14:45",
+          "home_team": "Jagiellonia Białystok",
+          "away_team": "Raków Częstochowa",
+          "result": {
+            "full_time": "2-2"
+          }
+        },
+        {
+          "date": "2024-11-10",
+          "time": "17:30",
+          "home_team": "Lech Poznań",
+          "away_team": "Legia Warszawa",
+          "result": {
+            "full_time": "5-2"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 16",
+      "matches": [
+        {
+          "date": "2024-11-22",
+          "time": "18:00",
+          "home_team": "Zagłębie Lubin",
+          "away_team": "Motor Lublin",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-11-22",
+          "time": "20:30",
+          "home_team": "Jagiellonia Białystok",
+          "away_team": "Śląsk Wrocław",
+          "result": {
+            "full_time": "2-2"
+          }
+        },
+        {
+          "date": "2024-11-23",
+          "time": "14:45",
+          "home_team": "Lechia Gdańsk",
+          "away_team": "Pogoń Szczecin",
+          "result": {
+            "full_time": "0-3"
+          }
+        },
+        {
+          "date": "2024-11-23",
+          "time": "17:30",
+          "home_team": "Lech Poznań",
+          "away_team": "GKS Katowice",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-11-23",
+          "time": "20:15",
+          "home_team": "Legia Warszawa",
+          "away_team": "KS Cracovia",
+          "result": {
+            "full_time": "3-2"
+          }
+        },
+        {
+          "date": "2024-11-24",
+          "time": "12:15",
+          "home_team": "Radomiak Radom",
+          "away_team": "FKS Stal Mielec",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-11-24",
+          "time": "14:45",
+          "home_team": "Raków Częstochowa",
+          "away_team": "Korona Kielce",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-11-24",
+          "time": "17:30",
+          "home_team": "Górnik Zabrze",
+          "away_team": "Piast Gliwice",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-11-25",
+          "time": "19:00",
+          "home_team": "Puszcza Niepołomice",
+          "away_team": "Widzew Łódź",
+          "result": {
+            "full_time": "2-0"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 17",
+      "matches": [
+        {
+          "date": "2024-11-29",
+          "time": "18:00",
+          "home_team": "KS Cracovia",
+          "away_team": "Zagłębie Lubin",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-11-29",
+          "time": "20:30",
+          "home_team": "Piast Gliwice",
+          "away_team": "Lech Poznań",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-11-30",
+          "time": "14:45",
+          "home_team": "Śląsk Wrocław",
+          "away_team": "Puszcza Niepołomice",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-11-30",
+          "time": "17:30",
+          "home_team": "GKS Katowice",
+          "away_team": "Lechia Gdańsk",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-11-30",
+          "time": "20:15",
+          "home_team": "Widzew Łódź",
+          "away_team": "Raków Częstochowa",
+          "result": {
+            "full_time": "2-3"
+          }
+        },
+        {
+          "date": "2024-11-30",
+          "time": "12:15",
+          "home_team": "Korona Kielce",
+          "away_team": "Górnik Zabrze",
+          "result": {
+            "full_time": "2-4"
+          }
+        },
+        {
+          "date": "2024-11-30",
+          "time": "14:45",
+          "home_team": "Pogoń Szczecin",
+          "away_team": "Jagiellonia Białystok",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-11-30",
+          "time": "17:30",
+          "home_team": "FKS Stal Mielec",
+          "away_team": "Legia Warszawa",
+          "result": {
+            "full_time": "2-2"
+          }
+        },
+        {
+          "date": "2024-11-30",
+          "time": "19:00",
+          "home_team": "Motor Lublin",
+          "away_team": "Radomiak Radom",
+          "result": {
+            "full_time": "1-0"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 18",
+      "matches": [
+        {
+          "date": "2024-11-30",
+          "time": "18:00",
+          "home_team": "Radomiak Radom",
+          "away_team": "GKS Katowice",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-11-30",
+          "time": "20:30",
+          "home_team": "Górnik Zabrze",
+          "away_team": "Lech Poznań",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-11-30",
+          "time": "14:45",
+          "home_team": "Lechia Gdańsk",
+          "away_team": "Śląsk Wrocław",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-11-30",
+          "time": "17:30",
+          "home_team": "Widzew Łódź",
+          "away_team": "FKS Stal Mielec",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-11-30",
+          "time": "20:15",
+          "home_team": "Raków Częstochowa",
+          "away_team": "Motor Lublin",
+          "result": {
+            "full_time": "2-2"
+          }
+        },
+        {
+          "date": "2024-11-30",
+          "time": "12:15",
+          "home_team": "Piast Gliwice",
+          "away_team": "KS Cracovia",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-11-30",
+          "time": "14:45",
+          "home_team": "Puszcza Niepołomice",
+          "away_team": "Jagiellonia Białystok",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-11-30",
+          "time": "17:30",
+          "home_team": "Zagłębie Lubin",
+          "away_team": "Legia Warszawa",
+          "result": {
+            "full_time": "0-3"
+          }
+        },
+        {
+          "date": "2024-11-30",
+          "time": "19:00",
+          "home_team": "Korona Kielce",
+          "away_team": "Pogoń Szczecin",
+          "result": {
+            "full_time": "0-0"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 19",
+      "matches": [
+        {
+          "date": "2025-01-31",
+          "time": "18:00",
+          "home_team": "GKS Katowice",
+          "away_team": "FKS Stal Mielec",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2025-01-31",
+          "time": "20:30",
+          "home_team": "Lech Poznań",
+          "away_team": "Widzew Łódź",
+          "result": {
+            "full_time": "4-1"
+          }
+        },
+        {
+          "date": "2025-01-31",
+          "time": "14:45",
+          "home_team": "Motor Lublin",
+          "away_team": "Lechia Gdańsk",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2025-01-31",
+          "time": "17:30",
+          "home_team": "KS Cracovia",
+          "away_team": "Raków Częstochowa",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2025-01-31",
+          "time": "20:15",
+          "home_team": "Pogoń Szczecin",
+          "away_team": "Zagłębie Lubin",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2025-01-31",
+          "time": "12:15",
+          "home_team": "Górnik Zabrze",
+          "away_team": "Puszcza Niepołomice",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2025-01-31",
+          "time": "14:45",
+          "home_team": "Jagiellonia Białystok",
+          "away_team": "Radomiak Radom",
+          "result": {
+            "full_time": "5-0"
+          }
+        },
+        {
+          "date": "2025-01-31",
+          "time": "17:30",
+          "home_team": "Legia Warszawa",
+          "away_team": "Korona Kielce",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2025-01-31",
+          "time": "19:00",
+          "home_team": "Śląsk Wrocław",
+          "away_team": "Piast Gliwice",
+          "result": {
+            "full_time": "1-3"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 20",
+      "matches": [
+        {
+          "date": "2025-01-31",
+          "time": "18:00",
+          "home_team": "FKS Stal Mielec",
+          "away_team": "Jagiellonia Białystok",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2025-01-31",
+          "time": "20:30",
+          "home_team": "Pogoń Szczecin",
+          "away_team": "Górnik Zabrze",
+          "result": {
+            "full_time": "3-0"
+          }
+        },
+        {
+          "date": "2025-01-31",
+          "time": "14:45",
+          "home_team": "Radomiak Radom",
+          "away_team": "Śląsk Wrocław",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2025-01-31",
+          "time": "17:30",
+          "home_team": "Raków Częstochowa",
+          "away_team": "GKS Katowice",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2025-01-31",
+          "time": "20:15",
+          "home_team": "Piast Gliwice",
+          "away_team": "Legia Warszawa",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2025-01-31",
+          "time": "12:15",
+          "home_team": "Korona Kielce",
+          "away_team": "Motor Lublin",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2025-01-31",
+          "time": "14:45",
+          "home_team": "Widzew Łódź",
+          "away_team": "KS Cracovia",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2025-01-31",
+          "time": "17:30",
+          "home_team": "Lechia Gdańsk",
+          "away_team": "Lech Poznań",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-02-10",
+          "time": "19:00",
+          "home_team": "Puszcza Niepołomice",
+          "away_team": "Zagłębie Lubin",
+          "result": {
+            "full_time": "1-2"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 21",
+      "matches": [
+        {
+          "date": "2024-02-14",
+          "time": "18:00",
+          "home_team": "KS Cracovia",
+          "away_team": "Korona Kielce",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-02-14",
+          "time": "20:30",
+          "home_team": "Lech Poznań",
+          "away_team": "Raków Częstochowa",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-02-15",
+          "time": "14:45",
+          "home_team": "Śląsk Wrocław",
+          "away_team": "Widzew Łódź",
+          "result": {
+            "full_time": "3-0"
+          }
+        },
+        {
+          "date": "2024-02-15",
+          "time": "17:30",
+          "home_team": "Górnik Zabrze",
+          "away_team": "Radomiak Radom",
+          "result": {
+            "full_time": "3-2"
+          }
+        },
+        {
+          "date": "2024-02-15",
+          "time": "20:15",
+          "home_team": "Legia Warszawa",
+          "away_team": "Puszcza Niepołomice",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-02-16",
+          "time": "12:15",
+          "home_team": "FKS Stal Mielec",
+          "away_team": "Pogoń Szczecin",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-02-16",
+          "time": "14:45",
+          "home_team": "GKS Katowice",
+          "away_team": "Piast Gliwice",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-02-16",
+          "time": "17:30",
+          "home_team": "Jagiellonia Białystok",
+          "away_team": "Motor Lublin",
+          "result": {
+            "full_time": "3-0"
+          }
+        },
+        {
+          "date": "2024-02-17",
+          "time": "19:00",
+          "home_team": "Zagłębie Lubin",
+          "away_team": "Lechia Gdańsk",
+          "result": {
+            "full_time": "1-3"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 22",
+      "matches": [
+        {
+          "date": "2024-02-21",
+          "time": "18:00",
+          "home_team": "Piast Gliwice",
+          "away_team": "FKS Stal Mielec",
+          "result": {
+            "full_time": "2-2"
+          }
+        },
+        {
+          "date": "2024-02-21",
+          "time": "20:30",
+          "home_team": "Raków Częstochowa",
+          "away_team": "Górnik Zabrze",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-02-22",
+          "time": "14:45",
+          "home_team": "Korona Kielce",
+          "away_team": "Śląsk Wrocław",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-02-22",
+          "time": "17:30",
+          "home_team": "Widzew Łódź",
+          "away_team": "Pogoń Szczecin",
+          "result": {
+            "full_time": "0-4"
+          }
+        },
+        {
+          "date": "2024-02-22",
+          "time": "20:15",
+          "home_team": "Radomiak Radom",
+          "away_team": "Legia Warszawa",
+          "result": {
+            "full_time": "3-1"
+          }
+        },
+        {
+          "date": "2024-02-23",
+          "time": "12:15",
+          "home_team": "Lechia Gdańsk",
+          "away_team": "Puszcza Niepołomice",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-02-23",
+          "time": "14:45",
+          "home_team": "KS Cracovia",
+          "away_team": "Jagiellonia Białystok",
+          "result": {
+            "full_time": "2-2"
+          }
+        },
+        {
+          "date": "2024-02-23",
+          "time": "17:30",
+          "home_team": "Lech Poznań",
+          "away_team": "Zagłębie Lubin",
+          "result": {
+            "full_time": "3-1"
+          }
+        },
+        {
+          "date": "2024-02-24",
+          "time": "19:00",
+          "home_team": "Motor Lublin",
+          "away_team": "GKS Katowice",
+          "result": {
+            "full_time": "3-2"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 23",
+      "matches": [
+        {
+          "date": "2024-02-28",
+          "time": "18:00",
+          "home_team": "Radomiak Radom",
+          "away_team": "Widzew Łódź",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-02-28",
+          "time": "20:30",
+          "home_team": "Górnik Zabrze",
+          "away_team": "KS Cracovia",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-02-28",
+          "time": "14:45",
+          "home_team": "FKS Stal Mielec",
+          "away_team": "Korona Kielce",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-02-28",
+          "time": "17:30",
+          "home_team": "Pogoń Szczecin",
+          "away_team": "Lech Poznań",
+          "result": {
+            "full_time": "0-3"
+          }
+        },
+        {
+          "date": "2024-02-28",
+          "time": "20:15",
+          "home_team": "Zagłębie Lubin",
+          "away_team": "Piast Gliwice",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-02-28",
+          "time": "12:15",
+          "home_team": "Puszcza Niepołomice",
+          "away_team": "Motor Lublin",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-02-28",
+          "time": "14:45",
+          "home_team": "Legia Warszawa",
+          "away_team": "Śląsk Wrocław",
+          "result": {
+            "full_time": "3-1"
+          }
+        },
+        {
+          "date": "2024-02-28",
+          "time": "17:30",
+          "home_team": "Jagiellonia Białystok",
+          "away_team": "GKS Katowice",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-02-28",
+          "time": "19:00",
+          "home_team": "Raków Częstochowa",
+          "away_team": "Lechia Gdańsk",
+          "result": {
+            "full_time": "3-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 24",
+      "matches": [
+        {
+          "date": "2024-02-28",
+          "time": "18:00",
+          "home_team": "Korona Kielce",
+          "away_team": "Puszcza Niepołomice",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-02-28",
+          "time": "20:30",
+          "home_team": "Śląsk Wrocław",
+          "away_team": "Pogoń Szczecin",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-02-28",
+          "time": "14:45",
+          "home_team": "KS Cracovia",
+          "away_team": "Radomiak Radom",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-02-28",
+          "time": "17:30",
+          "home_team": "Piast Gliwice",
+          "away_team": "Raków Częstochowa",
+          "result": {
+            "full_time": "0-3"
+          }
+        },
+        {
+          "date": "2024-02-28",
+          "time": "20:15",
+          "home_team": "Lech Poznań",
+          "away_team": "FKS Stal Mielec",
+          "result": {
+            "full_time": "3-1"
+          }
+        },
+        {
+          "date": "2024-02-28",
+          "time": "12:15",
+          "home_team": "GKS Katowice",
+          "away_team": "Zagłębie Lubin",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-02-28",
+          "time": "14:45",
+          "home_team": "Lechia Gdańsk",
+          "away_team": "Górnik Zabrze",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-02-28",
+          "time": "17:30",
+          "home_team": "Widzew Łódź",
+          "away_team": "Jagiellonia Białystok",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-03-10",
+          "time": "19:00",
+          "home_team": "Motor Lublin",
+          "away_team": "Legia Warszawa",
+          "result": {
+            "full_time": "3-3"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 25",
+      "matches": [
+        {
+          "date": "2024-03-14",
+          "time": "18:00",
+          "home_team": "Radomiak Radom",
+          "away_team": "Lechia Gdańsk",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-03-14",
+          "time": "20:30",
+          "home_team": "Pogoń Szczecin",
+          "away_team": "KS Cracovia",
+          "result": {
+            "full_time": "5-2"
+          }
+        },
+        {
+          "date": "2024-03-15",
+          "time": "14:45",
+          "home_team": "FKS Stal Mielec",
+          "away_team": "Śląsk Wrocław",
+          "result": {
+            "full_time": "1-4"
+          }
+        },
+        {
+          "date": "2024-03-15",
+          "time": "17:30",
+          "home_team": "Górnik Zabrze",
+          "away_team": "Motor Lublin",
+          "result": {
+            "full_time": "4-0"
+          }
+        },
+        {
+          "date": "2024-03-15",
+          "time": "20:15",
+          "home_team": "Widzew Łódź",
+          "away_team": "GKS Katowice",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-03-16",
+          "time": "12:15",
+          "home_team": "Puszcza Niepołomice",
+          "away_team": "Piast Gliwice",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-03-16",
+          "time": "14:45",
+          "home_team": "Zagłębie Lubin",
+          "away_team": "Korona Kielce",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-03-16",
+          "time": "17:30",
+          "home_team": "Raków Częstochowa",
+          "away_team": "Legia Warszawa",
+          "result": {
+            "full_time": "3-2"
+          }
+        },
+        {
+          "date": "2024-03-16",
+          "time": "20:15",
+          "home_team": "Jagiellonia Białystok",
+          "away_team": "Lech Poznań",
+          "result": {
+            "full_time": "2-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 26",
+      "matches": [
+        {
+          "date": "2024-03-28",
+          "time": "18:00",
+          "home_team": "Piast Gliwice",
+          "away_team": "Widzew Łódź"
+        },
+        {
+          "date": "2024-03-28",
+          "time": "20:30",
+          "home_team": "Legia Warszawa",
+          "away_team": "Pogoń Szczecin"
+        },
+        {
+          "date": "2024-03-29",
+          "time": "14:45",
+          "home_team": "KS Cracovia",
+          "away_team": "Puszcza Niepołomice"
+        },
+        {
+          "date": "2024-03-29",
+          "time": "17:30",
+          "home_team": "Lechia Gdańsk",
+          "away_team": "Jagiellonia Białystok"
+        },
+        {
+          "date": "2024-03-29",
+          "time": "20:15",
+          "home_team": "Śląsk Wrocław",
+          "away_team": "Lech Poznań"
+        },
+        {
+          "date": "2024-03-30",
+          "time": "12:15",
+          "home_team": "Korona Kielce",
+          "away_team": "Radomiak Radom"
+        },
+        {
+          "date": "2024-03-30",
+          "time": "14:45",
+          "home_team": "Motor Lublin",
+          "away_team": "FKS Stal Mielec"
+        },
+        {
+          "date": "2024-03-30",
+          "time": "17:30",
+          "home_team": "GKS Katowice",
+          "away_team": "Górnik Zabrze"
+        },
+        {
+          "date": "2024-03-31",
+          "time": "19:00",
+          "home_team": "Zagłębie Lubin",
+          "away_team": "Raków Częstochowa"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 27",
+      "matches": [
+        {
+          "date": "2024-03-31",
+          "time": "18:00",
+          "home_team": "FKS Stal Mielec",
+          "away_team": "KS Cracovia"
+        },
+        {
+          "date": "2024-03-31",
+          "time": "20:30",
+          "home_team": "Widzew Łódź",
+          "away_team": "Lechia Gdańsk"
+        },
+        {
+          "date": "2024-03-31",
+          "time": "14:45",
+          "home_team": "Radomiak Radom",
+          "away_team": "Zagłębie Lubin"
+        },
+        {
+          "date": "2024-03-31",
+          "time": "17:30",
+          "home_team": "Śląsk Wrocław",
+          "away_team": "Motor Lublin"
+        },
+        {
+          "date": "2024-03-31",
+          "time": "20:15",
+          "home_team": "Lech Poznań",
+          "away_team": "Korona Kielce"
+        },
+        {
+          "date": "2024-03-31",
+          "time": "12:15",
+          "home_team": "Jagiellonia Białystok",
+          "away_team": "Piast Gliwice"
+        },
+        {
+          "date": "2024-03-31",
+          "time": "14:45",
+          "home_team": "Górnik Zabrze",
+          "away_team": "Legia Warszawa"
+        },
+        {
+          "date": "2024-03-31",
+          "time": "17:30",
+          "home_team": "Pogoń Szczecin",
+          "away_team": "GKS Katowice"
+        },
+        {
+          "date": "2024-03-31",
+          "time": "19:00",
+          "home_team": "Puszcza Niepołomice",
+          "away_team": "Raków Częstochowa"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 28",
+      "matches": [
+        {
+          "date": "2024-04-11",
+          "time": "18:00",
+          "home_team": "Zagłębie Lubin",
+          "away_team": "Górnik Zabrze"
+        },
+        {
+          "date": "2024-04-11",
+          "time": "20:30",
+          "home_team": "Korona Kielce",
+          "away_team": "Widzew Łódź"
+        },
+        {
+          "date": "2024-04-12",
+          "time": "14:45",
+          "home_team": "GKS Katowice",
+          "away_team": "Puszcza Niepołomice"
+        },
+        {
+          "date": "2024-04-12",
+          "time": "17:30",
+          "home_team": "KS Cracovia",
+          "away_team": "Śląsk Wrocław"
+        },
+        {
+          "date": "2024-04-12",
+          "time": "21:15",
+          "home_team": "Raków Częstochowa",
+          "away_team": "Radomiak Radom"
+        },
+        {
+          "date": "2024-04-13",
+          "time": "14:45",
+          "home_team": "Piast Gliwice",
+          "away_team": "Pogoń Szczecin"
+        },
+        {
+          "date": "2024-04-13",
+          "time": "17:30",
+          "home_team": "Motor Lublin",
+          "away_team": "Lech Poznań"
+        },
+        {
+          "date": "2024-04-13",
+          "time": "20:15",
+          "home_team": "Legia Warszawa",
+          "away_team": "Jagiellonia Białystok"
+        },
+        {
+          "date": "2024-04-14",
+          "time": "19:00",
+          "home_team": "Lechia Gdańsk",
+          "away_team": "FKS Stal Mielec"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 29",
+      "matches": [
+        {
+          "date": "2024-04-19",
+          "time": "19:00",
+          "home_team": "Jagiellonia Białystok",
+          "away_team": "Zagłębie Lubin"
+        },
+        {
+          "date": "2024-04-19",
+          "time": "19:00",
+          "home_team": "Lech Poznań",
+          "away_team": "KS Cracovia"
+        },
+        {
+          "date": "2024-04-19",
+          "time": "19:00",
+          "home_team": "Legia Warszawa",
+          "away_team": "Lechia Gdańsk"
+        },
+        {
+          "date": "2024-04-19",
+          "time": "19:00",
+          "home_team": "Piast Gliwice",
+          "away_team": "Korona Kielce"
+        },
+        {
+          "date": "2024-04-19",
+          "time": "19:00",
+          "home_team": "Pogoń Szczecin",
+          "away_team": "Raków Częstochowa"
+        },
+        {
+          "date": "2024-04-19",
+          "time": "19:00",
+          "home_team": "Puszcza Niepołomice",
+          "away_team": "Radomiak Radom"
+        },
+        {
+          "date": "2024-04-19",
+          "time": "19:00",
+          "home_team": "FKS Stal Mielec",
+          "away_team": "Górnik Zabrze"
+        },
+        {
+          "date": "2024-04-19",
+          "time": "19:00",
+          "home_team": "Widzew Łódź",
+          "away_team": "Motor Lublin"
+        },
+        {
+          "date": "2024-04-19",
+          "time": "19:00",
+          "home_team": "Śląsk Wrocław",
+          "away_team": "GKS Katowice"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 30",
+      "matches": [
+        {
+          "date": "2024-04-26",
+          "time": "19:00",
+          "home_team": "GKS Katowice",
+          "away_team": "Legia Warszawa"
+        },
+        {
+          "date": "2024-04-26",
+          "time": "19:00",
+          "home_team": "Górnik Zabrze",
+          "away_team": "Widzew Łódź"
+        },
+        {
+          "date": "2024-04-26",
+          "time": "19:00",
+          "home_team": "Zagłębie Lubin",
+          "away_team": "FKS Stal Mielec"
+        },
+        {
+          "date": "2024-04-26",
+          "time": "19:00",
+          "home_team": "Korona Kielce",
+          "away_team": "Jagiellonia Białystok"
+        },
+        {
+          "date": "2024-04-26",
+          "time": "19:00",
+          "home_team": "Lechia Gdańsk",
+          "away_team": "Piast Gliwice"
+        },
+        {
+          "date": "2024-04-26",
+          "time": "19:00",
+          "home_team": "Motor Lublin",
+          "away_team": "KS Cracovia"
+        },
+        {
+          "date": "2024-04-26",
+          "time": "19:00",
+          "home_team": "Puszcza Niepołomice",
+          "away_team": "Pogoń Szczecin"
+        },
+        {
+          "date": "2024-04-26",
+          "time": "19:00",
+          "home_team": "Radomiak Radom",
+          "away_team": "Lech Poznań"
+        },
+        {
+          "date": "2024-04-26",
+          "time": "19:00",
+          "home_team": "Raków Częstochowa",
+          "away_team": "Śląsk Wrocław"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 31",
+      "matches": [
+        {
+          "date": "2024-04-26",
+          "time": "19:00",
+          "home_team": "KS Cracovia",
+          "away_team": "Lechia Gdańsk"
+        },
+        {
+          "date": "2024-04-26",
+          "time": "19:00",
+          "home_team": "Jagiellonia Białystok",
+          "away_team": "Górnik Zabrze"
+        },
+        {
+          "date": "2024-04-26",
+          "time": "19:00",
+          "home_team": "Korona Kielce",
+          "away_team": "GKS Katowice"
+        },
+        {
+          "date": "2024-04-26",
+          "time": "19:00",
+          "home_team": "Lech Poznań",
+          "away_team": "Puszcza Niepołomice"
+        },
+        {
+          "date": "2024-04-26",
+          "time": "19:00",
+          "home_team": "Piast Gliwice",
+          "away_team": "Radomiak Radom"
+        },
+        {
+          "date": "2024-04-26",
+          "time": "19:00",
+          "home_team": "Pogoń Szczecin",
+          "away_team": "Motor Lublin"
+        },
+        {
+          "date": "2024-04-26",
+          "time": "19:00",
+          "home_team": "FKS Stal Mielec",
+          "away_team": "Raków Częstochowa"
+        },
+        {
+          "date": "2024-04-26",
+          "time": "19:00",
+          "home_team": "Widzew Łódź",
+          "away_team": "Legia Warszawa"
+        },
+        {
+          "date": "2024-04-26",
+          "time": "19:00",
+          "home_team": "Śląsk Wrocław",
+          "away_team": "Zagłębie Lubin"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 32",
+      "matches": [
+        {
+          "date": "2024-05-10",
+          "time": "19:00",
+          "home_team": "GKS Katowice",
+          "away_team": "KS Cracovia"
+        },
+        {
+          "date": "2024-05-10",
+          "time": "19:00",
+          "home_team": "Górnik Zabrze",
+          "away_team": "Śląsk Wrocław"
+        },
+        {
+          "date": "2024-05-10",
+          "time": "19:00",
+          "home_team": "Zagłębie Lubin",
+          "away_team": "Widzew Łódź"
+        },
+        {
+          "date": "2024-05-10",
+          "time": "19:00",
+          "home_team": "Lechia Gdańsk",
+          "away_team": "Korona Kielce"
+        },
+        {
+          "date": "2024-05-10",
+          "time": "19:00",
+          "home_team": "Legia Warszawa",
+          "away_team": "Lech Poznań"
+        },
+        {
+          "date": "2024-05-10",
+          "time": "19:00",
+          "home_team": "Motor Lublin",
+          "away_team": "Piast Gliwice"
+        },
+        {
+          "date": "2024-05-10",
+          "time": "19:00",
+          "home_team": "Puszcza Niepołomice",
+          "away_team": "FKS Stal Mielec"
+        },
+        {
+          "date": "2024-05-10",
+          "time": "19:00",
+          "home_team": "Radomiak Radom",
+          "away_team": "Pogoń Szczecin"
+        },
+        {
+          "date": "2024-05-10",
+          "time": "19:00",
+          "home_team": "Raków Częstochowa",
+          "away_team": "Jagiellonia Białystok"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 33",
+      "matches": [
+        {
+          "date": "2024-05-17",
+          "time": "19:00",
+          "home_team": "KS Cracovia",
+          "away_team": "Legia Warszawa"
+        },
+        {
+          "date": "2024-05-17",
+          "time": "19:00",
+          "home_team": "GKS Katowice",
+          "away_team": "Lech Poznań"
+        },
+        {
+          "date": "2024-05-17",
+          "time": "19:00",
+          "home_team": "Korona Kielce",
+          "away_team": "Raków Częstochowa"
+        },
+        {
+          "date": "2024-05-17",
+          "time": "19:00",
+          "home_team": "Motor Lublin",
+          "away_team": "Zagłębie Lubin"
+        },
+        {
+          "date": "2024-05-17",
+          "time": "19:00",
+          "home_team": "Piast Gliwice",
+          "away_team": "Górnik Zabrze"
+        },
+        {
+          "date": "2024-05-17",
+          "time": "19:00",
+          "home_team": "Pogoń Szczecin",
+          "away_team": "Lechia Gdańsk"
+        },
+        {
+          "date": "2024-05-17",
+          "time": "19:00",
+          "home_team": "FKS Stal Mielec",
+          "away_team": "Radomiak Radom"
+        },
+        {
+          "date": "2024-05-17",
+          "time": "19:00",
+          "home_team": "Widzew Łódź",
+          "away_team": "Puszcza Niepołomice"
+        },
+        {
+          "date": "2024-05-17",
+          "time": "19:00",
+          "home_team": "Śląsk Wrocław",
+          "away_team": "Jagiellonia Białystok"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 34",
+      "matches": [
+        {
+          "date": "2024-05-24",
+          "time": "19:00",
+          "home_team": "Górnik Zabrze",
+          "away_team": "Korona Kielce"
+        },
+        {
+          "date": "2024-05-24",
+          "time": "19:00",
+          "home_team": "Jagiellonia Białystok",
+          "away_team": "Pogoń Szczecin"
+        },
+        {
+          "date": "2024-05-24",
+          "time": "19:00",
+          "home_team": "Zagłębie Lubin",
+          "away_team": "KS Cracovia"
+        },
+        {
+          "date": "2024-05-24",
+          "time": "19:00",
+          "home_team": "Lech Poznań",
+          "away_team": "Piast Gliwice"
+        },
+        {
+          "date": "2024-05-24",
+          "time": "19:00",
+          "home_team": "Lechia Gdańsk",
+          "away_team": "GKS Katowice"
+        },
+        {
+          "date": "2024-05-24",
+          "time": "19:00",
+          "home_team": "Legia Warszawa",
+          "away_team": "FKS Stal Mielec"
+        },
+        {
+          "date": "2024-05-24",
+          "time": "19:00",
+          "home_team": "Puszcza Niepołomice",
+          "away_team": "Śląsk Wrocław"
+        },
+        {
+          "date": "2024-05-24",
+          "time": "19:00",
+          "home_team": "Radomiak Radom",
+          "away_team": "Motor Lublin"
+        },
+        {
+          "date": "2024-05-24",
+          "time": "19:00",
+          "home_team": "Raków Częstochowa",
+          "away_team": "Widzew Łódź"
+        }
+      ]
+    }
+  ]
+}

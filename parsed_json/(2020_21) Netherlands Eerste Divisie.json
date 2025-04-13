@@ -1,0 +1,3616 @@
+{
+  "league": "Netherlands Eerste Divisie",
+  "season": "2020/21",
+  "matchdays": [
+    {
+      "matchday": "Matchday 1",
+      "matches": [
+        {
+          "date": "2020-08-28",
+          "time": "18:45",
+          "home_team": "FC Utrecht J",
+          "away_team": "FC Eindhoven",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2020-08-28",
+          "time": "21:00",
+          "home_team": "SC Cambuur",
+          "away_team": "NEC Nijmegen",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-08-29",
+          "time": "16:30",
+          "home_team": "Jong PSV",
+          "away_team": "SBV Excelsior",
+          "result": {
+            "full_time": "1-6"
+          }
+        },
+        {
+          "date": "2024-08-29",
+          "time": "18:45",
+          "home_team": "TOP Oss",
+          "away_team": "Helmond Sport",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-08-29",
+          "time": "21:00",
+          "home_team": "NAC Breda",
+          "away_team": "AZ Alkmaar J",
+          "result": {
+            "full_time": "6-1"
+          }
+        },
+        {
+          "date": "2024-08-30",
+          "time": "12:15",
+          "home_team": "Telstar",
+          "away_team": "FC Volendam",
+          "result": {
+            "full_time": "2-2"
+          }
+        },
+        {
+          "date": "2024-08-30",
+          "time": "14:30",
+          "home_team": "Jong Ajax",
+          "away_team": "Roda JC Kerkrade",
+          "result": {
+            "full_time": "0-4"
+          }
+        },
+        {
+          "date": "2024-08-30",
+          "time": "16:45",
+          "home_team": "FC Dordrecht",
+          "away_team": "Go Ahead Eagles",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-08-30",
+          "time": "20:00",
+          "home_team": "Almere City FC",
+          "away_team": "MVV",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-08-31",
+          "time": "20:00",
+          "home_team": "De Graafschap",
+          "away_team": "FC Den Bosch",
+          "result": {
+            "full_time": "4-2"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 2",
+      "matches": [
+        {
+          "date": "2024-08-31",
+          "time": "16:30",
+          "home_team": "FC Eindhoven",
+          "away_team": "Telstar",
+          "result": {
+            "full_time": "2-3"
+          }
+        },
+        {
+          "date": "2024-08-31",
+          "time": "18:45",
+          "home_team": "MVV",
+          "away_team": "SC Cambuur",
+          "result": {
+            "full_time": "1-7"
+          }
+        },
+        {
+          "date": "2024-08-31",
+          "time": "21:00",
+          "home_team": "Roda JC Kerkrade",
+          "away_team": "TOP Oss",
+          "result": {
+            "full_time": "3-0"
+          }
+        },
+        {
+          "date": "2024-08-31",
+          "time": "12:15",
+          "home_team": "SBV Excelsior",
+          "away_team": "Almere City FC",
+          "result": {
+            "full_time": "4-6"
+          }
+        },
+        {
+          "date": "2024-08-31",
+          "time": "16:45",
+          "home_team": "FC Den Bosch",
+          "away_team": "FC Dordrecht",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-08-31",
+          "time": "20:00",
+          "home_team": "Helmond Sport",
+          "away_team": "NAC Breda",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-09-14",
+          "time": "18:45",
+          "home_team": "Jong Ajax",
+          "away_team": "Jong PSV",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-09-14",
+          "time": "21:00",
+          "home_team": "FC Utrecht J",
+          "away_team": "AZ Alkmaar J",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-09-15",
+          "time": "21:00",
+          "home_team": "FC Volendam",
+          "away_team": "NEC Nijmegen",
+          "result": {
+            "full_time": "1-3"
+          }
+        },
+        {
+          "date": "2024-10-13",
+          "time": "18:00",
+          "home_team": "Go Ahead Eagles",
+          "away_team": "De Graafschap",
+          "result": {
+            "full_time": "0-0"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 3",
+      "matches": [
+        {
+          "date": "2024-09-11",
+          "time": "18:45",
+          "home_team": "FC Dordrecht",
+          "away_team": "SBV Excelsior",
+          "result": {
+            "full_time": "1-3"
+          }
+        },
+        {
+          "date": "2024-09-11",
+          "time": "18:45",
+          "home_team": "FC Volendam",
+          "away_team": "FC Utrecht J",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-09-11",
+          "time": "18:45",
+          "home_team": "FC Eindhoven",
+          "away_team": "Helmond Sport",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-09-11",
+          "time": "21:00",
+          "home_team": "AZ Alkmaar J",
+          "away_team": "Jong PSV",
+          "result": {
+            "full_time": "1-4"
+          }
+        },
+        {
+          "date": "2024-09-11",
+          "time": "21:00",
+          "home_team": "NEC Nijmegen",
+          "away_team": "Jong Ajax",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-09-11",
+          "time": "21:00",
+          "home_team": "SC Cambuur",
+          "away_team": "Go Ahead Eagles",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-09-12",
+          "time": "16:30",
+          "home_team": "De Graafschap",
+          "away_team": "Roda JC Kerkrade",
+          "result": {
+            "full_time": "4-0"
+          }
+        },
+        {
+          "date": "2024-09-13",
+          "time": "20:00",
+          "home_team": "Telstar",
+          "away_team": "MVV",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-09-14",
+          "time": "20:00",
+          "home_team": "NAC Breda",
+          "away_team": "FC Den Bosch",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-09-15",
+          "time": "18:45",
+          "home_team": "Almere City FC",
+          "away_team": "TOP Oss",
+          "result": {
+            "full_time": "3-0"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 4",
+      "matches": [
+        {
+          "date": "2024-09-18",
+          "time": "18:45",
+          "home_team": "Jong PSV",
+          "away_team": "FC Eindhoven",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-09-18",
+          "time": "18:45",
+          "home_team": "Helmond Sport",
+          "away_team": "FC Volendam",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-09-18",
+          "time": "21:00",
+          "home_team": "Go Ahead Eagles",
+          "away_team": "Jong Ajax",
+          "result": {
+            "full_time": "0-3"
+          }
+        },
+        {
+          "date": "2024-09-18",
+          "time": "21:00",
+          "home_team": "Roda JC Kerkrade",
+          "away_team": "FC Dordrecht",
+          "result": {
+            "full_time": "4-0"
+          }
+        },
+        {
+          "date": "2024-09-19",
+          "time": "16:30",
+          "home_team": "TOP Oss",
+          "away_team": "SC Cambuur",
+          "result": {
+            "full_time": "2-2"
+          }
+        },
+        {
+          "date": "2024-09-20",
+          "time": "20:00",
+          "home_team": "NEC Nijmegen",
+          "away_team": "Almere City FC",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-09-21",
+          "time": "18:45",
+          "home_team": "AZ Alkmaar J",
+          "away_team": "De Graafschap",
+          "result": {
+            "full_time": "7-3"
+          }
+        },
+        {
+          "date": "2024-09-21",
+          "time": "21:00",
+          "home_team": "FC Utrecht J",
+          "away_team": "NAC Breda",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-09-22",
+          "time": "18:45",
+          "home_team": "SBV Excelsior",
+          "away_team": "Telstar",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-09-22",
+          "time": "21:00",
+          "home_team": "FC Den Bosch",
+          "away_team": "MVV",
+          "result": {
+            "full_time": "2-0"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 5",
+      "matches": [
+        {
+          "date": "2024-09-25",
+          "time": "18:45",
+          "home_team": "Almere City FC",
+          "away_team": "Helmond Sport",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-09-25",
+          "time": "18:45",
+          "home_team": "FC Dordrecht",
+          "away_team": "AZ Alkmaar J",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-09-25",
+          "time": "21:00",
+          "home_team": "MVV",
+          "away_team": "TOP Oss",
+          "result": {
+            "full_time": "3-0"
+          }
+        },
+        {
+          "date": "2024-09-25",
+          "time": "21:00",
+          "home_team": "SC Cambuur",
+          "away_team": "FC Utrecht J",
+          "result": {
+            "full_time": "5-2"
+          }
+        },
+        {
+          "date": "2024-09-26",
+          "time": "16:30",
+          "home_team": "NAC Breda",
+          "away_team": "Jong PSV",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-09-27",
+          "time": "12:15",
+          "home_team": "De Graafschap",
+          "away_team": "NEC Nijmegen",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-09-27",
+          "time": "20:00",
+          "home_team": "FC Volendam",
+          "away_team": "Go Ahead Eagles",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-09-28",
+          "time": "18:45",
+          "home_team": "Jong Ajax",
+          "away_team": "SBV Excelsior",
+          "result": {
+            "full_time": "3-0"
+          }
+        },
+        {
+          "date": "2024-09-28",
+          "time": "21:00",
+          "home_team": "Telstar",
+          "away_team": "FC Den Bosch",
+          "result": {
+            "full_time": "6-1"
+          }
+        },
+        {
+          "date": "2024-09-29",
+          "time": "18:45",
+          "home_team": "FC Eindhoven",
+          "away_team": "Roda JC Kerkrade",
+          "result": {
+            "full_time": "3-3"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 6",
+      "matches": [
+        {
+          "date": "2024-09-29",
+          "time": "18:45",
+          "home_team": "Go Ahead Eagles",
+          "away_team": "FC Utrecht J",
+          "result": {
+            "full_time": "2-3"
+          }
+        },
+        {
+          "date": "2024-09-29",
+          "time": "18:45",
+          "home_team": "Jong PSV",
+          "away_team": "Telstar",
+          "result": {
+            "full_time": "3-0"
+          }
+        },
+        {
+          "date": "2024-09-29",
+          "time": "21:00",
+          "home_team": "AZ Alkmaar J",
+          "away_team": "MVV",
+          "result": {
+            "full_time": "3-3"
+          }
+        },
+        {
+          "date": "2024-09-29",
+          "time": "21:00",
+          "home_team": "NAC Breda",
+          "away_team": "Jong Ajax",
+          "result": {
+            "full_time": "4-0"
+          }
+        },
+        {
+          "date": "2024-09-29",
+          "time": "16:30",
+          "home_team": "NEC Nijmegen",
+          "away_team": "FC Eindhoven",
+          "result": {
+            "full_time": "6-0"
+          }
+        },
+        {
+          "date": "2024-09-29",
+          "time": "20:00",
+          "home_team": "Roda JC Kerkrade",
+          "away_team": "FC Volendam",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-09-29",
+          "time": "18:45",
+          "home_team": "SBV Excelsior",
+          "away_team": "De Graafschap",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-09-29",
+          "time": "21:00",
+          "home_team": "TOP Oss",
+          "away_team": "FC Dordrecht",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-09-29",
+          "time": "21:00",
+          "home_team": "Helmond Sport",
+          "away_team": "SC Cambuur",
+          "result": {
+            "full_time": "1-5"
+          }
+        },
+        {
+          "date": "2024-10-15",
+          "time": "20:00",
+          "home_team": "FC Den Bosch",
+          "away_team": "Almere City FC",
+          "result": {
+            "full_time": "1-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 7",
+      "matches": [
+        {
+          "date": "2024-10-15",
+          "time": "21:00",
+          "home_team": "FC Eindhoven",
+          "away_team": "SBV Excelsior",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-10-10",
+          "time": "16:30",
+          "home_team": "MVV",
+          "away_team": "Go Ahead Eagles",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-10-10",
+          "time": "18:45",
+          "home_team": "Almere City FC",
+          "away_team": "Roda JC Kerkrade",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-10-10",
+          "time": "21:00",
+          "home_team": "Telstar",
+          "away_team": "TOP Oss",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-10-11",
+          "time": "14:30",
+          "home_team": "SC Cambuur",
+          "away_team": "FC Dordrecht",
+          "result": {
+            "full_time": "5-0"
+          }
+        },
+        {
+          "date": "2024-10-12",
+          "time": "20:00",
+          "home_team": "FC Den Bosch",
+          "away_team": "Helmond Sport",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-10-19",
+          "time": "18:45",
+          "home_team": "Jong Ajax",
+          "away_team": "FC Utrecht J",
+          "result": {
+            "full_time": "3-2"
+          }
+        },
+        {
+          "date": "2024-10-19",
+          "time": "21:00",
+          "home_team": "AZ Alkmaar J",
+          "away_team": "FC Volendam",
+          "result": {
+            "full_time": "2-6"
+          }
+        },
+        {
+          "date": "2024-10-20",
+          "time": "18:45",
+          "home_team": "Jong PSV",
+          "away_team": "NEC Nijmegen",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-11-11",
+          "time": "18:45",
+          "home_team": "De Graafschap",
+          "away_team": "NAC Breda",
+          "result": {
+            "full_time": "1-0"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 8",
+      "matches": [
+        {
+          "date": "2024-10-16",
+          "time": "18:45",
+          "home_team": "Jong Ajax",
+          "away_team": "AZ Alkmaar J",
+          "result": {
+            "full_time": "3-2"
+          }
+        },
+        {
+          "date": "2024-10-16",
+          "time": "18:45",
+          "home_team": "FC Utrecht J",
+          "away_team": "NEC Nijmegen",
+          "result": {
+            "full_time": "1-4"
+          }
+        },
+        {
+          "date": "2024-10-16",
+          "time": "21:00",
+          "home_team": "SBV Excelsior",
+          "away_team": "MVV",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-10-16",
+          "time": "21:00",
+          "home_team": "FC Volendam",
+          "away_team": "Jong PSV",
+          "result": {
+            "full_time": "5-1"
+          }
+        },
+        {
+          "date": "2024-10-17",
+          "time": "16:30",
+          "home_team": "Go Ahead Eagles",
+          "away_team": "FC Eindhoven",
+          "result": {
+            "full_time": "3-0"
+          }
+        },
+        {
+          "date": "2024-10-18",
+          "time": "20:00",
+          "home_team": "FC Dordrecht",
+          "away_team": "Almere City FC",
+          "result": {
+            "full_time": "2-2"
+          }
+        },
+        {
+          "date": "2024-10-19",
+          "time": "17:30",
+          "home_team": "Helmond Sport",
+          "away_team": "De Graafschap",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-10-19",
+          "time": "20:00",
+          "home_team": "Roda JC Kerkrade",
+          "away_team": "Telstar",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-10-20",
+          "time": "18:45",
+          "home_team": "NAC Breda",
+          "away_team": "SC Cambuur",
+          "result": {
+            "full_time": "0-4"
+          }
+        },
+        {
+          "date": "2024-10-20",
+          "time": "21:00",
+          "home_team": "TOP Oss",
+          "away_team": "FC Den Bosch",
+          "result": {
+            "full_time": "2-0"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 9",
+      "matches": [
+        {
+          "date": "2024-10-23",
+          "time": "18:45",
+          "home_team": "FC Volendam",
+          "away_team": "FC Dordrecht",
+          "result": {
+            "full_time": "7-1"
+          }
+        },
+        {
+          "date": "2024-10-23",
+          "time": "18:45",
+          "home_team": "MVV",
+          "away_team": "Jong Ajax",
+          "result": {
+            "full_time": "1-5"
+          }
+        },
+        {
+          "date": "2024-10-23",
+          "time": "18:45",
+          "home_team": "NEC Nijmegen",
+          "away_team": "Go Ahead Eagles",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-10-23",
+          "time": "18:45",
+          "home_team": "Telstar",
+          "away_team": "Helmond Sport",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-10-23",
+          "time": "21:00",
+          "home_team": "Almere City FC",
+          "away_team": "NAC Breda",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-10-23",
+          "time": "21:00",
+          "home_team": "De Graafschap",
+          "away_team": "Jong PSV",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-10-23",
+          "time": "21:00",
+          "home_team": "FC Den Bosch",
+          "away_team": "SBV Excelsior",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-10-23",
+          "time": "21:00",
+          "home_team": "FC Eindhoven",
+          "away_team": "AZ Alkmaar J",
+          "result": {
+            "full_time": "3-0"
+          }
+        },
+        {
+          "date": "2024-10-23",
+          "time": "21:00",
+          "home_team": "SC Cambuur",
+          "away_team": "Roda JC Kerkrade",
+          "result": {
+            "full_time": "3-0"
+          }
+        },
+        {
+          "date": "2024-12-14",
+          "time": "18:45",
+          "home_team": "FC Utrecht J",
+          "away_team": "TOP Oss",
+          "result": {
+            "full_time": "0-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 10",
+      "matches": [
+        {
+          "date": "2024-10-30",
+          "time": "18:45",
+          "home_team": "Helmond Sport",
+          "away_team": "MVV",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-10-30",
+          "time": "18:45",
+          "home_team": "Jong Ajax",
+          "away_team": "Almere City FC",
+          "result": {
+            "full_time": "1-4"
+          }
+        },
+        {
+          "date": "2024-10-30",
+          "time": "21:00",
+          "home_team": "TOP Oss",
+          "away_team": "De Graafschap",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-10-30",
+          "time": "21:00",
+          "home_team": "NAC Breda",
+          "away_team": "NEC Nijmegen",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-10-31",
+          "time": "14:00",
+          "home_team": "Go Ahead Eagles",
+          "away_team": "SBV Excelsior",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-10-31",
+          "time": "16:30",
+          "home_team": "Roda JC Kerkrade",
+          "away_team": "FC Den Bosch",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-10-31",
+          "time": "12:15",
+          "home_team": "FC Volendam",
+          "away_team": "FC Eindhoven",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-10-31",
+          "time": "18:45",
+          "home_team": "AZ Alkmaar J",
+          "away_team": "Telstar",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-10-31",
+          "time": "18:45",
+          "home_team": "FC Dordrecht",
+          "away_team": "FC Utrecht J",
+          "result": {
+            "full_time": "0-3"
+          }
+        },
+        {
+          "date": "2024-11-30",
+          "time": "16:30",
+          "home_team": "Jong PSV",
+          "away_team": "SC Cambuur",
+          "result": {
+            "full_time": "0-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 11",
+      "matches": [
+        {
+          "date": "2024-11-30",
+          "time": "18:45",
+          "home_team": "FC Den Bosch",
+          "away_team": "Jong PSV",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-11-30",
+          "time": "18:45",
+          "home_team": "MVV",
+          "away_team": "NAC Breda",
+          "result": {
+            "full_time": "1-4"
+          }
+        },
+        {
+          "date": "2024-11-30",
+          "time": "21:00",
+          "home_team": "Almere City FC",
+          "away_team": "AZ Alkmaar J",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-11-30",
+          "time": "21:00",
+          "home_team": "NEC Nijmegen",
+          "away_team": "Helmond Sport",
+          "result": {
+            "full_time": "2-2"
+          }
+        },
+        {
+          "date": "2024-11-30",
+          "time": "14:00",
+          "home_team": "De Graafschap",
+          "away_team": "FC Volendam",
+          "result": {
+            "full_time": "2-5"
+          }
+        },
+        {
+          "date": "2024-11-30",
+          "time": "16:30",
+          "home_team": "SC Cambuur",
+          "away_team": "Jong Ajax",
+          "result": {
+            "full_time": "2-3"
+          }
+        },
+        {
+          "date": "2024-11-30",
+          "time": "18:45",
+          "home_team": "FC Eindhoven",
+          "away_team": "FC Dordrecht",
+          "result": {
+            "full_time": "5-1"
+          }
+        },
+        {
+          "date": "2024-11-30",
+          "time": "21:00",
+          "home_team": "FC Utrecht J",
+          "away_team": "Roda JC Kerkrade",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-11-10",
+          "time": "18:45",
+          "home_team": "SBV Excelsior",
+          "away_team": "TOP Oss",
+          "result": {
+            "full_time": "3-0"
+          }
+        },
+        {
+          "date": "2024-11-10",
+          "time": "21:00",
+          "home_team": "Telstar",
+          "away_team": "Go Ahead Eagles",
+          "result": {
+            "full_time": "1-2"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 12",
+      "matches": [
+        {
+          "date": "2024-11-13",
+          "time": "18:45",
+          "home_team": "Helmond Sport",
+          "away_team": "SBV Excelsior",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-11-13",
+          "time": "21:00",
+          "home_team": "TOP Oss",
+          "away_team": "FC Eindhoven",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-11-14",
+          "time": "16:30",
+          "home_team": "FC Dordrecht",
+          "away_team": "De Graafschap",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-11-14",
+          "time": "18:45",
+          "home_team": "NAC Breda",
+          "away_team": "Telstar",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-11-14",
+          "time": "21:00",
+          "home_team": "Roda JC Kerkrade",
+          "away_team": "MVV",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-11-15",
+          "time": "12:15",
+          "home_team": "Go Ahead Eagles",
+          "away_team": "FC Den Bosch",
+          "result": {
+            "full_time": "3-0"
+          }
+        },
+        {
+          "date": "2024-11-15",
+          "time": "20:00",
+          "home_team": "SC Cambuur",
+          "away_team": "Almere City FC",
+          "result": {
+            "full_time": "7-2"
+          }
+        },
+        {
+          "date": "2024-11-23",
+          "time": "18:45",
+          "home_team": "AZ Alkmaar J",
+          "away_team": "NEC Nijmegen",
+          "result": {
+            "full_time": "0-3"
+          }
+        },
+        {
+          "date": "2024-11-23",
+          "time": "21:00",
+          "home_team": "Jong Ajax",
+          "away_team": "FC Volendam",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-11-24",
+          "time": "18:45",
+          "home_team": "Jong PSV",
+          "away_team": "FC Utrecht J",
+          "result": {
+            "full_time": "1-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 13",
+      "matches": [
+        {
+          "date": "2024-11-19",
+          "time": "18:45",
+          "home_team": "Telstar",
+          "away_team": "FC Dordrecht",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-11-19",
+          "time": "21:00",
+          "home_team": "De Graafschap",
+          "away_team": "SC Cambuur",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-11-20",
+          "time": "18:45",
+          "home_team": "SBV Excelsior",
+          "away_team": "AZ Alkmaar J",
+          "result": {
+            "full_time": "4-1"
+          }
+        },
+        {
+          "date": "2024-11-20",
+          "time": "18:45",
+          "home_team": "FC Volendam",
+          "away_team": "TOP Oss",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-11-20",
+          "time": "18:45",
+          "home_team": "NEC Nijmegen",
+          "away_team": "Roda JC Kerkrade",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-11-20",
+          "time": "21:00",
+          "home_team": "FC Den Bosch",
+          "away_team": "Jong Ajax",
+          "result": {
+            "full_time": "2-2"
+          }
+        },
+        {
+          "date": "2024-11-20",
+          "time": "21:00",
+          "home_team": "FC Utrecht J",
+          "away_team": "Helmond Sport",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-11-20",
+          "time": "21:00",
+          "home_team": "MVV",
+          "away_team": "Jong PSV",
+          "result": {
+            "full_time": "3-3"
+          }
+        },
+        {
+          "date": "2024-11-21",
+          "time": "14:00",
+          "home_team": "FC Eindhoven",
+          "away_team": "NAC Breda",
+          "result": {
+            "full_time": "2-4"
+          }
+        },
+        {
+          "date": "2024-11-21",
+          "time": "16:30",
+          "home_team": "Almere City FC",
+          "away_team": "Go Ahead Eagles",
+          "result": {
+            "full_time": "3-0"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 14",
+      "matches": [
+        {
+          "date": "2024-11-27",
+          "time": "18:45",
+          "home_team": "TOP Oss",
+          "away_team": "NAC Breda",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-11-27",
+          "time": "18:45",
+          "home_team": "SC Cambuur",
+          "away_team": "FC Den Bosch",
+          "result": {
+            "full_time": "3-1"
+          }
+        },
+        {
+          "date": "2024-11-27",
+          "time": "21:00",
+          "home_team": "FC Volendam",
+          "away_team": "Almere City FC",
+          "result": {
+            "full_time": "2-2"
+          }
+        },
+        {
+          "date": "2024-11-27",
+          "time": "21:00",
+          "home_team": "Helmond Sport",
+          "away_team": "Jong PSV",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-11-28",
+          "time": "14:00",
+          "home_team": "Roda JC Kerkrade",
+          "away_team": "SBV Excelsior",
+          "result": {
+            "full_time": "3-1"
+          }
+        },
+        {
+          "date": "2024-11-28",
+          "time": "16:30",
+          "home_team": "FC Dordrecht",
+          "away_team": "Jong Ajax",
+          "result": {
+            "full_time": "3-1"
+          }
+        },
+        {
+          "date": "2024-11-29",
+          "time": "12:15",
+          "home_team": "FC Eindhoven",
+          "away_team": "De Graafschap",
+          "result": {
+            "full_time": "3-2"
+          }
+        },
+        {
+          "date": "2024-11-30",
+          "time": "18:45",
+          "home_team": "FC Utrecht J",
+          "away_team": "Telstar",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-11-30",
+          "time": "21:00",
+          "home_team": "NEC Nijmegen",
+          "away_team": "MVV",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-11-30",
+          "time": "18:45",
+          "home_team": "Go Ahead Eagles",
+          "away_team": "AZ Alkmaar J",
+          "result": {
+            "full_time": "0-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 15",
+      "matches": [
+        {
+          "date": "2024-11-30",
+          "time": "18:45",
+          "home_team": "MVV",
+          "away_team": "De Graafschap",
+          "result": {
+            "full_time": "2-3"
+          }
+        },
+        {
+          "date": "2024-11-30",
+          "time": "18:45",
+          "home_team": "Telstar",
+          "away_team": "SC Cambuur",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-11-30",
+          "time": "21:00",
+          "home_team": "Almere City FC",
+          "away_team": "FC Utrecht J",
+          "result": {
+            "full_time": "4-1"
+          }
+        },
+        {
+          "date": "2024-11-30",
+          "time": "21:00",
+          "home_team": "Helmond Sport",
+          "away_team": "Go Ahead Eagles",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-11-30",
+          "time": "14:00",
+          "home_team": "AZ Alkmaar J",
+          "away_team": "TOP Oss",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-11-30",
+          "time": "16:30",
+          "home_team": "Jong PSV",
+          "away_team": "Roda JC Kerkrade",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-11-30",
+          "time": "12:15",
+          "home_team": "FC Den Bosch",
+          "away_team": "NEC Nijmegen",
+          "result": {
+            "full_time": "2-2"
+          }
+        },
+        {
+          "date": "2024-11-30",
+          "time": "20:00",
+          "home_team": "NAC Breda",
+          "away_team": "FC Dordrecht",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-11-30",
+          "time": "18:45",
+          "home_team": "Jong Ajax",
+          "away_team": "FC Eindhoven",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-11-30",
+          "time": "21:00",
+          "home_team": "SBV Excelsior",
+          "away_team": "FC Volendam",
+          "result": {
+            "full_time": "2-3"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 16",
+      "matches": [
+        {
+          "date": "2024-12-11",
+          "time": "18:45",
+          "home_team": "TOP Oss",
+          "away_team": "Jong PSV",
+          "result": {
+            "full_time": "3-2"
+          }
+        },
+        {
+          "date": "2024-12-11",
+          "time": "18:45",
+          "home_team": "FC Volendam",
+          "away_team": "FC Den Bosch",
+          "result": {
+            "full_time": "6-0"
+          }
+        },
+        {
+          "date": "2024-12-11",
+          "time": "18:45",
+          "home_team": "FC Utrecht J",
+          "away_team": "SBV Excelsior",
+          "result": {
+            "full_time": "3-2"
+          }
+        },
+        {
+          "date": "2024-12-11",
+          "time": "21:00",
+          "home_team": "De Graafschap",
+          "away_team": "Jong Ajax",
+          "result": {
+            "full_time": "2-2"
+          }
+        },
+        {
+          "date": "2024-12-11",
+          "time": "21:00",
+          "home_team": "Go Ahead Eagles",
+          "away_team": "NAC Breda",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-12-11",
+          "time": "21:00",
+          "home_team": "Telstar",
+          "away_team": "Almere City FC",
+          "result": {
+            "full_time": "2-3"
+          }
+        },
+        {
+          "date": "2024-12-12",
+          "time": "14:00",
+          "home_team": "FC Dordrecht",
+          "away_team": "NEC Nijmegen",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-12-12",
+          "time": "16:30",
+          "home_team": "SC Cambuur",
+          "away_team": "AZ Alkmaar J",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-12-12",
+          "time": "21:00",
+          "home_team": "FC Eindhoven",
+          "away_team": "MVV",
+          "result": {
+            "full_time": "4-0"
+          }
+        },
+        {
+          "date": "2024-12-14",
+          "time": "21:00",
+          "home_team": "Roda JC Kerkrade",
+          "away_team": "Helmond Sport",
+          "result": {
+            "full_time": "2-2"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 17",
+      "matches": [
+        {
+          "date": "2024-12-18",
+          "time": "18:45",
+          "home_team": "FC Den Bosch",
+          "away_team": "FC Eindhoven",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-12-18",
+          "time": "18:45",
+          "home_team": "NAC Breda",
+          "away_team": "FC Volendam",
+          "result": {
+            "full_time": "3-0"
+          }
+        },
+        {
+          "date": "2024-12-18",
+          "time": "21:00",
+          "home_team": "MVV",
+          "away_team": "FC Dordrecht",
+          "result": {
+            "full_time": "3-1"
+          }
+        },
+        {
+          "date": "2024-12-18",
+          "time": "21:00",
+          "home_team": "AZ Alkmaar J",
+          "away_team": "Helmond Sport",
+          "result": {
+            "full_time": "2-2"
+          }
+        },
+        {
+          "date": "2024-12-19",
+          "time": "14:00",
+          "home_team": "De Graafschap",
+          "away_team": "FC Utrecht J",
+          "result": {
+            "full_time": "3-1"
+          }
+        },
+        {
+          "date": "2024-12-19",
+          "time": "16:30",
+          "home_team": "NEC Nijmegen",
+          "away_team": "TOP Oss",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-12-20",
+          "time": "12:15",
+          "home_team": "SBV Excelsior",
+          "away_team": "SC Cambuur",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-12-20",
+          "time": "20:00",
+          "home_team": "Roda JC Kerkrade",
+          "away_team": "Go Ahead Eagles",
+          "result": {
+            "full_time": "0-3"
+          }
+        },
+        {
+          "date": "2024-12-21",
+          "time": "18:45",
+          "home_team": "Jong PSV",
+          "away_team": "Almere City FC",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-12-21",
+          "time": "21:00",
+          "home_team": "Jong Ajax",
+          "away_team": "Telstar",
+          "result": {
+            "full_time": "1-2"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 18",
+      "matches": [
+        {
+          "date": "2024-12-21",
+          "time": "18:45",
+          "home_team": "Helmond Sport",
+          "away_team": "FC Dordrecht",
+          "result": {
+            "full_time": "5-2"
+          }
+        },
+        {
+          "date": "2024-12-21",
+          "time": "21:00",
+          "home_team": "Almere City FC",
+          "away_team": "De Graafschap",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-12-21",
+          "time": "12:15",
+          "home_team": "SBV Excelsior",
+          "away_team": "NAC Breda",
+          "result": {
+            "full_time": "0-3"
+          }
+        },
+        {
+          "date": "2024-12-21",
+          "time": "14:30",
+          "home_team": "FC Eindhoven",
+          "away_team": "SC Cambuur",
+          "result": {
+            "full_time": "2-5"
+          }
+        },
+        {
+          "date": "2024-12-21",
+          "time": "16:45",
+          "home_team": "Telstar",
+          "away_team": "NEC Nijmegen",
+          "result": {
+            "full_time": "5-2"
+          }
+        },
+        {
+          "date": "2024-12-21",
+          "time": "20:00",
+          "home_team": "FC Volendam",
+          "away_team": "MVV",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-12-21",
+          "time": "18:45",
+          "home_team": "AZ Alkmaar J",
+          "away_team": "Roda JC Kerkrade",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-12-21",
+          "time": "21:00",
+          "home_team": "FC Utrecht J",
+          "away_team": "FC Den Bosch",
+          "result": {
+            "full_time": "3-1"
+          }
+        },
+        {
+          "date": "2024-12-21",
+          "time": "18:45",
+          "home_team": "Jong PSV",
+          "away_team": "Go Ahead Eagles",
+          "result": {
+            "full_time": "2-3"
+          }
+        },
+        {
+          "date": "2024-12-21",
+          "time": "21:00",
+          "home_team": "TOP Oss",
+          "away_team": "Jong Ajax",
+          "result": {
+            "full_time": "1-0"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 19",
+      "matches": [
+        {
+          "date": "2024-12-21",
+          "time": "18:45",
+          "home_team": "De Graafschap",
+          "away_team": "Telstar",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-12-21",
+          "time": "18:45",
+          "home_team": "MVV",
+          "away_team": "FC Utrecht J",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-12-21",
+          "time": "18:45",
+          "home_team": "NEC Nijmegen",
+          "away_team": "SBV Excelsior",
+          "result": {
+            "full_time": "3-2"
+          }
+        },
+        {
+          "date": "2024-12-21",
+          "time": "21:00",
+          "home_team": "Almere City FC",
+          "away_team": "FC Eindhoven",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-12-21",
+          "time": "21:00",
+          "home_team": "NAC Breda",
+          "away_team": "Roda JC Kerkrade",
+          "result": {
+            "full_time": "2-2"
+          }
+        },
+        {
+          "date": "2024-12-21",
+          "time": "21:00",
+          "home_team": "SC Cambuur",
+          "away_team": "FC Volendam",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-12-21",
+          "time": "14:00",
+          "home_team": "Jong Ajax",
+          "away_team": "Helmond Sport",
+          "result": {
+            "full_time": "2-2"
+          }
+        },
+        {
+          "date": "2024-01-10",
+          "time": "20:15",
+          "home_team": "Go Ahead Eagles",
+          "away_team": "TOP Oss",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-01-11",
+          "time": "18:45",
+          "home_team": "FC Den Bosch",
+          "away_team": "AZ Alkmaar J",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-01-11",
+          "time": "21:00",
+          "home_team": "FC Dordrecht",
+          "away_team": "Jong PSV",
+          "result": {
+            "full_time": "2-3"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 20",
+      "matches": [
+        {
+          "date": "2024-01-15",
+          "time": "18:45",
+          "home_team": "FC Dordrecht",
+          "away_team": "FC Volendam",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-01-15",
+          "time": "18:45",
+          "home_team": "SBV Excelsior",
+          "away_team": "FC Eindhoven",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-01-15",
+          "time": "18:45",
+          "home_team": "Roda JC Kerkrade",
+          "away_team": "De Graafschap",
+          "result": {
+            "full_time": "1-3"
+          }
+        },
+        {
+          "date": "2024-01-15",
+          "time": "21:00",
+          "home_team": "Go Ahead Eagles",
+          "away_team": "MVV",
+          "result": {
+            "full_time": "3-0"
+          }
+        },
+        {
+          "date": "2024-01-15",
+          "time": "21:00",
+          "home_team": "Helmond Sport",
+          "away_team": "FC Den Bosch",
+          "result": {
+            "full_time": "4-0"
+          }
+        },
+        {
+          "date": "2024-01-15",
+          "time": "21:00",
+          "home_team": "AZ Alkmaar J",
+          "away_team": "Almere City FC",
+          "result": {
+            "full_time": "2-5"
+          }
+        },
+        {
+          "date": "2024-01-16",
+          "time": "14:00",
+          "home_team": "TOP Oss",
+          "away_team": "Telstar",
+          "result": {
+            "full_time": "1-4"
+          }
+        },
+        {
+          "date": "2024-01-17",
+          "time": "12:15",
+          "home_team": "NEC Nijmegen",
+          "away_team": "SC Cambuur",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-01-18",
+          "time": "18:45",
+          "home_team": "FC Utrecht J",
+          "away_team": "Jong Ajax",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-01-18",
+          "time": "21:00",
+          "home_team": "Jong PSV",
+          "away_team": "NAC Breda",
+          "result": {
+            "full_time": "1-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 21",
+      "matches": [
+        {
+          "date": "2024-01-22",
+          "time": "18:45",
+          "home_team": "MVV",
+          "away_team": "Helmond Sport",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-01-22",
+          "time": "18:45",
+          "home_team": "SC Cambuur",
+          "away_team": "Jong PSV",
+          "result": {
+            "full_time": "5-1"
+          }
+        },
+        {
+          "date": "2024-01-22",
+          "time": "21:00",
+          "home_team": "Almere City FC",
+          "away_team": "FC Dordrecht",
+          "result": {
+            "full_time": "3-0"
+          }
+        },
+        {
+          "date": "2024-01-22",
+          "time": "21:00",
+          "home_team": "Telstar",
+          "away_team": "AZ Alkmaar J",
+          "result": {
+            "full_time": "2-2"
+          }
+        },
+        {
+          "date": "2024-01-23",
+          "time": "14:00",
+          "home_team": "FC Den Bosch",
+          "away_team": "NAC Breda",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-01-23",
+          "time": "16:30",
+          "home_team": "TOP Oss",
+          "away_team": "SBV Excelsior",
+          "result": {
+            "full_time": "1-3"
+          }
+        },
+        {
+          "date": "2024-01-24",
+          "time": "12:15",
+          "home_team": "FC Volendam",
+          "away_team": "De Graafschap",
+          "result": {
+            "full_time": "1-4"
+          }
+        },
+        {
+          "date": "2024-01-24",
+          "time": "20:00",
+          "home_team": "Roda JC Kerkrade",
+          "away_team": "FC Utrecht J",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-01-25",
+          "time": "18:45",
+          "home_team": "Jong Ajax",
+          "away_team": "Go Ahead Eagles",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-01-25",
+          "time": "21:00",
+          "home_team": "FC Eindhoven",
+          "away_team": "NEC Nijmegen",
+          "result": {
+            "full_time": "0-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 22",
+      "matches": [
+        {
+          "date": "2024-01-29",
+          "time": "18:45",
+          "home_team": "Helmond Sport",
+          "away_team": "Telstar",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-01-29",
+          "time": "18:45",
+          "home_team": "Jong PSV",
+          "away_team": "Jong Ajax",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-01-29",
+          "time": "21:00",
+          "home_team": "De Graafschap",
+          "away_team": "TOP Oss",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-01-29",
+          "time": "21:00",
+          "home_team": "NEC Nijmegen",
+          "away_team": "FC Utrecht J",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-01-30",
+          "time": "14:00",
+          "home_team": "SBV Excelsior",
+          "away_team": "FC Den Bosch",
+          "result": {
+            "full_time": "4-4"
+          }
+        },
+        {
+          "date": "2024-01-30",
+          "time": "16:30",
+          "home_team": "FC Dordrecht",
+          "away_team": "Roda JC Kerkrade",
+          "result": {
+            "full_time": "0-5"
+          }
+        },
+        {
+          "date": "2024-01-31",
+          "time": "20:00",
+          "home_team": "SC Cambuur",
+          "away_team": "MVV",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-01-31",
+          "time": "18:45",
+          "home_team": "AZ Alkmaar J",
+          "away_team": "FC Eindhoven",
+          "result": {
+            "full_time": "3-2"
+          }
+        },
+        {
+          "date": "2024-01-31",
+          "time": "21:00",
+          "home_team": "NAC Breda",
+          "away_team": "Almere City FC",
+          "result": {
+            "full_time": "4-0"
+          }
+        },
+        {
+          "date": "2024-01-31",
+          "time": "18:45",
+          "home_team": "Go Ahead Eagles",
+          "away_team": "FC Volendam",
+          "result": {
+            "full_time": "1-3"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 23",
+      "matches": [
+        {
+          "date": "2024-01-31",
+          "time": "18:45",
+          "home_team": "FC Eindhoven",
+          "away_team": "Go Ahead Eagles",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-01-31",
+          "time": "18:45",
+          "home_team": "TOP Oss",
+          "away_team": "AZ Alkmaar J",
+          "result": {
+            "full_time": "6-0"
+          }
+        },
+        {
+          "date": "2024-01-31",
+          "time": "21:00",
+          "home_team": "FC Volendam",
+          "away_team": "SBV Excelsior",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-01-31",
+          "time": "21:00",
+          "home_team": "Roda JC Kerkrade",
+          "away_team": "Jong PSV",
+          "result": {
+            "full_time": "5-1"
+          }
+        },
+        {
+          "date": "2024-01-31",
+          "time": "14:00",
+          "home_team": "FC Den Bosch",
+          "away_team": "De Graafschap",
+          "result": {
+            "full_time": "2-3"
+          }
+        },
+        {
+          "date": "2024-01-31",
+          "time": "16:30",
+          "home_team": "MVV",
+          "away_team": "NEC Nijmegen",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-02-16",
+          "time": "16:30",
+          "home_team": "Helmond Sport",
+          "away_team": "Almere City FC",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-02-16",
+          "time": "21:00",
+          "home_team": "Telstar",
+          "away_team": "NAC Breda",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-02-19",
+          "time": "16:30",
+          "home_team": "Jong Ajax",
+          "away_team": "SC Cambuur",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-02-19",
+          "time": "18:45",
+          "home_team": "FC Utrecht J",
+          "away_team": "FC Dordrecht",
+          "result": {
+            "full_time": "3-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 24",
+      "matches": [
+        {
+          "date": "2024-02-12",
+          "time": "16:30",
+          "home_team": "NAC Breda",
+          "away_team": "FC Eindhoven",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-02-12",
+          "time": "16:30",
+          "home_team": "AZ Alkmaar J",
+          "away_team": "FC Utrecht J",
+          "result": {
+            "full_time": "3-2"
+          }
+        },
+        {
+          "date": "2024-02-13",
+          "time": "12:00",
+          "home_team": "Go Ahead Eagles",
+          "away_team": "Telstar",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-02-13",
+          "time": "14:15",
+          "home_team": "De Graafschap",
+          "away_team": "MVV",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-02-15",
+          "time": "18:45",
+          "home_team": "Jong Ajax",
+          "away_team": "FC Dordrecht",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-02-15",
+          "time": "21:00",
+          "home_team": "SBV Excelsior",
+          "away_team": "Roda JC Kerkrade",
+          "result": {
+            "full_time": "1-3"
+          }
+        },
+        {
+          "date": "2024-02-16",
+          "time": "18:45",
+          "home_team": "SC Cambuur",
+          "away_team": "TOP Oss",
+          "result": {
+            "full_time": "3-0"
+          }
+        },
+        {
+          "date": "2024-02-23",
+          "time": "21:00",
+          "home_team": "Jong PSV",
+          "away_team": "Helmond Sport",
+          "result": {
+            "full_time": "2-2"
+          }
+        },
+        {
+          "date": "2024-02-23",
+          "time": "16:30",
+          "home_team": "NEC Nijmegen",
+          "away_team": "FC Den Bosch",
+          "result": {
+            "full_time": "4-1"
+          }
+        },
+        {
+          "date": "2024-02-23",
+          "time": "18:45",
+          "home_team": "Almere City FC",
+          "away_team": "FC Volendam",
+          "result": {
+            "full_time": "1-2"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 25",
+      "matches": [
+        {
+          "date": "2024-02-19",
+          "time": "18:45",
+          "home_team": "FC Dordrecht",
+          "away_team": "NAC Breda",
+          "result": {
+            "full_time": "2-3"
+          }
+        },
+        {
+          "date": "2024-02-19",
+          "time": "18:45",
+          "home_team": "Jong PSV",
+          "away_team": "FC Den Bosch",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-02-19",
+          "time": "21:00",
+          "home_team": "Helmond Sport",
+          "away_team": "Roda JC Kerkrade",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-02-19",
+          "time": "21:00",
+          "home_team": "Telstar",
+          "away_team": "FC Eindhoven",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-02-20",
+          "time": "14:00",
+          "home_team": "TOP Oss",
+          "away_team": "Almere City FC",
+          "result": {
+            "full_time": "2-4"
+          }
+        },
+        {
+          "date": "2024-02-20",
+          "time": "16:30",
+          "home_team": "MVV",
+          "away_team": "SBV Excelsior",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-02-21",
+          "time": "12:15",
+          "home_team": "NEC Nijmegen",
+          "away_team": "De Graafschap",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-02-22",
+          "time": "18:45",
+          "home_team": "AZ Alkmaar J",
+          "away_team": "Go Ahead Eagles",
+          "result": {
+            "full_time": "0-3"
+          }
+        },
+        {
+          "date": "2024-02-22",
+          "time": "21:00",
+          "home_team": "FC Utrecht J",
+          "away_team": "SC Cambuur",
+          "result": {
+            "full_time": "1-3"
+          }
+        },
+        {
+          "date": "2024-02-23",
+          "time": "18:45",
+          "home_team": "FC Volendam",
+          "away_team": "Jong Ajax",
+          "result": {
+            "full_time": "3-2"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 26",
+      "matches": [
+        {
+          "date": "2024-02-26",
+          "time": "18:45",
+          "home_team": "Go Ahead Eagles",
+          "away_team": "Jong PSV",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-02-26",
+          "time": "18:45",
+          "home_team": "MVV",
+          "away_team": "Telstar",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-02-26",
+          "time": "21:00",
+          "home_team": "De Graafschap",
+          "away_team": "AZ Alkmaar J",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-02-26",
+          "time": "21:00",
+          "home_team": "FC Den Bosch",
+          "away_team": "FC Utrecht J",
+          "result": {
+            "full_time": "3-0"
+          }
+        },
+        {
+          "date": "2024-02-26",
+          "time": "21:00",
+          "home_team": "Roda JC Kerkrade",
+          "away_team": "NEC Nijmegen",
+          "result": {
+            "full_time": "1-3"
+          }
+        },
+        {
+          "date": "2024-02-27",
+          "time": "14:00",
+          "home_team": "FC Eindhoven",
+          "away_team": "FC Volendam",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-02-27",
+          "time": "16:30",
+          "home_team": "FC Dordrecht",
+          "away_team": "Helmond Sport",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-02-28",
+          "time": "12:15",
+          "home_team": "Almere City FC",
+          "away_team": "SC Cambuur",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-02-28",
+          "time": "18:45",
+          "home_team": "SBV Excelsior",
+          "away_team": "Jong Ajax",
+          "result": {
+            "full_time": "5-1"
+          }
+        },
+        {
+          "date": "2024-02-28",
+          "time": "21:00",
+          "home_team": "NAC Breda",
+          "away_team": "TOP Oss",
+          "result": {
+            "full_time": "3-0"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 27",
+      "matches": [
+        {
+          "date": "2024-02-28",
+          "time": "18:45",
+          "home_team": "Helmond Sport",
+          "away_team": "NEC Nijmegen",
+          "result": {
+            "full_time": "0-7"
+          }
+        },
+        {
+          "date": "2024-02-28",
+          "time": "18:45",
+          "home_team": "FC Utrecht J",
+          "away_team": "MVV",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-02-28",
+          "time": "21:00",
+          "home_team": "TOP Oss",
+          "away_team": "Go Ahead Eagles",
+          "result": {
+            "full_time": "0-4"
+          }
+        },
+        {
+          "date": "2024-02-28",
+          "time": "21:00",
+          "home_team": "SC Cambuur",
+          "away_team": "Telstar",
+          "result": {
+            "full_time": "3-1"
+          }
+        },
+        {
+          "date": "2024-02-28",
+          "time": "14:00",
+          "home_team": "Almere City FC",
+          "away_team": "SBV Excelsior",
+          "result": {
+            "full_time": "4-1"
+          }
+        },
+        {
+          "date": "2024-02-28",
+          "time": "16:30",
+          "home_team": "FC Volendam",
+          "away_team": "Roda JC Kerkrade",
+          "result": {
+            "full_time": "3-4"
+          }
+        },
+        {
+          "date": "2024-02-28",
+          "time": "20:00",
+          "home_team": "De Graafschap",
+          "away_team": "FC Eindhoven",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-02-28",
+          "time": "18:45",
+          "home_team": "Jong Ajax",
+          "away_team": "FC Den Bosch",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-02-28",
+          "time": "21:00",
+          "home_team": "AZ Alkmaar J",
+          "away_team": "NAC Breda",
+          "result": {
+            "full_time": "2-3"
+          }
+        },
+        {
+          "date": "2024-02-28",
+          "time": "21:00",
+          "home_team": "Jong PSV",
+          "away_team": "FC Dordrecht",
+          "result": {
+            "full_time": "0-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 28",
+      "matches": [
+        {
+          "date": "2024-03-12",
+          "time": "14:00",
+          "home_team": "MVV",
+          "away_team": "AZ Alkmaar J",
+          "result": {
+            "full_time": "3-2"
+          }
+        },
+        {
+          "date": "2024-03-12",
+          "time": "16:30",
+          "home_team": "FC Eindhoven",
+          "away_team": "Almere City FC",
+          "result": {
+            "full_time": "1-3"
+          }
+        },
+        {
+          "date": "2024-03-12",
+          "time": "18:45",
+          "home_team": "FC Den Bosch",
+          "away_team": "FC Volendam",
+          "result": {
+            "full_time": "1-5"
+          }
+        },
+        {
+          "date": "2024-03-12",
+          "time": "18:45",
+          "home_team": "FC Dordrecht",
+          "away_team": "TOP Oss",
+          "result": {
+            "full_time": "1-3"
+          }
+        },
+        {
+          "date": "2024-03-12",
+          "time": "18:45",
+          "home_team": "SBV Excelsior",
+          "away_team": "FC Utrecht J",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-03-12",
+          "time": "18:45",
+          "home_team": "NEC Nijmegen",
+          "away_team": "Jong PSV",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-03-12",
+          "time": "21:00",
+          "home_team": "Go Ahead Eagles",
+          "away_team": "SC Cambuur",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-03-12",
+          "time": "21:00",
+          "home_team": "NAC Breda",
+          "away_team": "Helmond Sport",
+          "result": {
+            "full_time": "3-2"
+          }
+        },
+        {
+          "date": "2024-03-12",
+          "time": "21:00",
+          "home_team": "Roda JC Kerkrade",
+          "away_team": "Jong Ajax",
+          "result": {
+            "full_time": "2-2"
+          }
+        },
+        {
+          "date": "2024-03-12",
+          "time": "21:00",
+          "home_team": "Telstar",
+          "away_team": "De Graafschap",
+          "result": {
+            "full_time": "1-2"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 29",
+      "matches": [
+        {
+          "date": "2024-03-19",
+          "time": "20:00",
+          "home_team": "Almere City FC",
+          "away_team": "FC Den Bosch",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-03-19",
+          "time": "20:00",
+          "home_team": "De Graafschap",
+          "away_team": "SBV Excelsior",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-03-19",
+          "time": "20:00",
+          "home_team": "TOP Oss",
+          "away_team": "NEC Nijmegen",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-03-19",
+          "time": "20:00",
+          "home_team": "FC Volendam",
+          "away_team": "NAC Breda",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-03-19",
+          "time": "20:00",
+          "home_team": "Go Ahead Eagles",
+          "away_team": "FC Dordrecht",
+          "result": {
+            "full_time": "5-1"
+          }
+        },
+        {
+          "date": "2024-03-19",
+          "time": "20:00",
+          "home_team": "Helmond Sport",
+          "away_team": "FC Utrecht J",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-03-19",
+          "time": "20:00",
+          "home_team": "Jong Ajax",
+          "away_team": "MVV",
+          "result": {
+            "full_time": "4-3"
+          }
+        },
+        {
+          "date": "2024-03-19",
+          "time": "20:00",
+          "home_team": "Jong PSV",
+          "away_team": "AZ Alkmaar J",
+          "result": {
+            "full_time": "3-0"
+          }
+        },
+        {
+          "date": "2024-03-19",
+          "time": "20:00",
+          "home_team": "Telstar",
+          "away_team": "Roda JC Kerkrade",
+          "result": {
+            "full_time": "3-1"
+          }
+        },
+        {
+          "date": "2024-03-22",
+          "time": "20:00",
+          "home_team": "SC Cambuur",
+          "away_team": "FC Eindhoven",
+          "result": {
+            "full_time": "3-0"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 30",
+      "matches": [
+        {
+          "date": "2024-03-15",
+          "time": "20:00",
+          "home_team": "AZ Alkmaar J",
+          "away_team": "Jong Ajax",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-03-15",
+          "time": "20:00",
+          "home_team": "FC Utrecht J",
+          "away_team": "Jong PSV",
+          "result": {
+            "full_time": "1-6"
+          }
+        },
+        {
+          "date": "2024-03-15",
+          "time": "20:00",
+          "home_team": "NEC Nijmegen",
+          "away_team": "FC Volendam",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-03-26",
+          "time": "18:45",
+          "home_team": "MVV",
+          "away_team": "Almere City FC",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-03-26",
+          "time": "21:00",
+          "home_team": "FC Eindhoven",
+          "away_team": "TOP Oss",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-03-28",
+          "time": "14:30",
+          "home_team": "SBV Excelsior",
+          "away_team": "Helmond Sport",
+          "result": {
+            "full_time": "0-3"
+          }
+        },
+        {
+          "date": "2024-03-28",
+          "time": "16:45",
+          "home_team": "Roda JC Kerkrade",
+          "away_team": "SC Cambuur",
+          "result": {
+            "full_time": "3-1"
+          }
+        },
+        {
+          "date": "2024-03-28",
+          "time": "20:00",
+          "home_team": "NAC Breda",
+          "away_team": "De Graafschap",
+          "result": {
+            "full_time": "3-1"
+          }
+        },
+        {
+          "date": "2024-03-29",
+          "time": "18:45",
+          "home_team": "FC Dordrecht",
+          "away_team": "Telstar",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-03-29",
+          "time": "21:00",
+          "home_team": "FC Den Bosch",
+          "away_team": "Go Ahead Eagles",
+          "result": {
+            "full_time": "3-3"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 31",
+      "matches": [
+        {
+          "date": "2024-03-29",
+          "time": "18:00",
+          "home_team": "Go Ahead Eagles",
+          "away_team": "Roda JC Kerkrade",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-03-29",
+          "time": "20:00",
+          "home_team": "Almere City FC",
+          "away_team": "NEC Nijmegen",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-03-29",
+          "time": "20:00",
+          "home_team": "De Graafschap",
+          "away_team": "FC Dordrecht",
+          "result": {
+            "full_time": "0-3"
+          }
+        },
+        {
+          "date": "2024-03-29",
+          "time": "20:00",
+          "home_team": "FC Den Bosch",
+          "away_team": "TOP Oss",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-03-29",
+          "time": "20:00",
+          "home_team": "SBV Excelsior",
+          "away_team": "Jong PSV",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-03-29",
+          "time": "20:00",
+          "home_team": "FC Volendam",
+          "away_team": "SC Cambuur",
+          "result": {
+            "full_time": "0-3"
+          }
+        },
+        {
+          "date": "2024-03-29",
+          "time": "20:00",
+          "home_team": "Helmond Sport",
+          "away_team": "AZ Alkmaar J",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-03-29",
+          "time": "20:00",
+          "home_team": "Jong Ajax",
+          "away_team": "NAC Breda",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-03-29",
+          "time": "20:00",
+          "home_team": "MVV",
+          "away_team": "FC Eindhoven",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-03-29",
+          "time": "20:00",
+          "home_team": "Telstar",
+          "away_team": "FC Utrecht J",
+          "result": {
+            "full_time": "2-3"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 32",
+      "matches": [
+        {
+          "date": "2024-03-29",
+          "time": "12:15",
+          "home_team": "NEC Nijmegen",
+          "away_team": "Telstar",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-03-29",
+          "time": "14:30",
+          "home_team": "FC Dordrecht",
+          "away_team": "FC Eindhoven",
+          "result": {
+            "full_time": "1-5"
+          }
+        },
+        {
+          "date": "2024-03-29",
+          "time": "14:30",
+          "home_team": "TOP Oss",
+          "away_team": "FC Volendam",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-03-29",
+          "time": "14:30",
+          "home_team": "Helmond Sport",
+          "away_team": "Jong Ajax",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-03-29",
+          "time": "14:30",
+          "home_team": "AZ Alkmaar J",
+          "away_team": "FC Den Bosch",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-03-29",
+          "time": "14:30",
+          "home_team": "FC Utrecht J",
+          "away_team": "De Graafschap",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-03-29",
+          "time": "14:30",
+          "home_team": "Jong PSV",
+          "away_team": "MVV",
+          "result": {
+            "full_time": "3-1"
+          }
+        },
+        {
+          "date": "2024-03-29",
+          "time": "14:30",
+          "home_team": "NAC Breda",
+          "away_team": "Go Ahead Eagles",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-03-29",
+          "time": "14:30",
+          "home_team": "SC Cambuur",
+          "away_team": "SBV Excelsior",
+          "result": {
+            "full_time": "7-2"
+          }
+        },
+        {
+          "date": "2024-03-29",
+          "time": "16:45",
+          "home_team": "Roda JC Kerkrade",
+          "away_team": "Almere City FC",
+          "result": {
+            "full_time": "0-0"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 33",
+      "matches": [
+        {
+          "date": "2024-03-29",
+          "time": "18:00",
+          "home_team": "NAC Breda",
+          "away_team": "FC Utrecht J",
+          "result": {
+            "full_time": "3-1"
+          }
+        },
+        {
+          "date": "2024-03-29",
+          "time": "20:00",
+          "home_team": "FC Den Bosch",
+          "away_team": "SC Cambuur",
+          "result": {
+            "full_time": "3-5"
+          }
+        },
+        {
+          "date": "2024-03-29",
+          "time": "20:00",
+          "home_team": "FC Eindhoven",
+          "away_team": "Jong PSV",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-03-29",
+          "time": "20:00",
+          "home_team": "SBV Excelsior",
+          "away_team": "NEC Nijmegen",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-03-29",
+          "time": "20:00",
+          "home_team": "FC Volendam",
+          "away_team": "Helmond Sport",
+          "result": {
+            "full_time": "5-1"
+          }
+        },
+        {
+          "date": "2024-03-29",
+          "time": "20:00",
+          "home_team": "Jong Ajax",
+          "away_team": "TOP Oss",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-04-11",
+          "time": "12:15",
+          "home_team": "De Graafschap",
+          "away_team": "Go Ahead Eagles",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-04-12",
+          "time": "20:00",
+          "home_team": "Almere City FC",
+          "away_team": "Telstar",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-04-12",
+          "time": "20:00",
+          "home_team": "MVV",
+          "away_team": "Roda JC Kerkrade",
+          "result": {
+            "full_time": "2-4"
+          }
+        },
+        {
+          "date": "2024-04-12",
+          "time": "20:00",
+          "home_team": "AZ Alkmaar J",
+          "away_team": "FC Dordrecht",
+          "result": {
+            "full_time": "4-0"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 34",
+      "matches": [
+        {
+          "date": "2024-04-16",
+          "time": "18:00",
+          "home_team": "NEC Nijmegen",
+          "away_team": "AZ Alkmaar J",
+          "result": {
+            "full_time": "3-2"
+          }
+        },
+        {
+          "date": "2024-04-16",
+          "time": "20:00",
+          "home_team": "FC Dordrecht",
+          "away_team": "FC Den Bosch",
+          "result": {
+            "full_time": "2-6"
+          }
+        },
+        {
+          "date": "2024-04-16",
+          "time": "20:00",
+          "home_team": "FC Eindhoven",
+          "away_team": "Jong Ajax",
+          "result": {
+            "full_time": "3-0"
+          }
+        },
+        {
+          "date": "2024-04-16",
+          "time": "20:00",
+          "home_team": "TOP Oss",
+          "away_team": "MVV",
+          "result": {
+            "full_time": "2-2"
+          }
+        },
+        {
+          "date": "2024-04-16",
+          "time": "20:00",
+          "home_team": "FC Utrecht J",
+          "away_team": "FC Volendam",
+          "result": {
+            "full_time": "2-3"
+          }
+        },
+        {
+          "date": "2024-04-16",
+          "time": "20:00",
+          "home_team": "Roda JC Kerkrade",
+          "away_team": "NAC Breda",
+          "result": {
+            "full_time": "3-3"
+          }
+        },
+        {
+          "date": "2024-04-16",
+          "time": "20:00",
+          "home_team": "SC Cambuur",
+          "away_team": "Helmond Sport",
+          "result": {
+            "full_time": "4-1"
+          }
+        },
+        {
+          "date": "2024-04-16",
+          "time": "20:00",
+          "home_team": "Telstar",
+          "away_team": "SBV Excelsior",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-04-17",
+          "time": "20:00",
+          "home_team": "Go Ahead Eagles",
+          "away_team": "Almere City FC",
+          "result": {
+            "full_time": "3-0"
+          }
+        },
+        {
+          "date": "2024-04-19",
+          "time": "20:00",
+          "home_team": "Jong PSV",
+          "away_team": "De Graafschap",
+          "result": {
+            "full_time": "0-2"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 35",
+      "matches": [
+        {
+          "date": "2024-04-23",
+          "time": "18:45",
+          "home_team": "Helmond Sport",
+          "away_team": "FC Eindhoven",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-04-23",
+          "time": "18:45",
+          "home_team": "NAC Breda",
+          "away_team": "SBV Excelsior",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-04-23",
+          "time": "21:00",
+          "home_team": "De Graafschap",
+          "away_team": "Almere City FC",
+          "result": {
+            "full_time": "2-2"
+          }
+        },
+        {
+          "date": "2024-04-23",
+          "time": "21:00",
+          "home_team": "FC Den Bosch",
+          "away_team": "Roda JC Kerkrade",
+          "result": {
+            "full_time": "7-0"
+          }
+        },
+        {
+          "date": "2024-04-23",
+          "time": "21:00",
+          "home_team": "FC Dordrecht",
+          "away_team": "MVV",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-04-23",
+          "time": "21:00",
+          "home_team": "Jong Ajax",
+          "away_team": "NEC Nijmegen",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-04-23",
+          "time": "21:00",
+          "home_team": "AZ Alkmaar J",
+          "away_team": "SC Cambuur",
+          "result": {
+            "full_time": "2-4"
+          }
+        },
+        {
+          "date": "2024-04-23",
+          "time": "21:00",
+          "home_team": "FC Utrecht J",
+          "away_team": "Go Ahead Eagles",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-04-25",
+          "time": "14:30",
+          "home_team": "FC Volendam",
+          "away_team": "Telstar",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-04-25",
+          "time": "20:00",
+          "home_team": "Jong PSV",
+          "away_team": "TOP Oss",
+          "result": {
+            "full_time": "0-0"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 36",
+      "matches": [
+        {
+          "date": "2024-04-30",
+          "time": "20:00",
+          "home_team": "Almere City FC",
+          "away_team": "Jong Ajax",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-04-30",
+          "time": "20:00",
+          "home_team": "FC Eindhoven",
+          "away_team": "FC Den Bosch",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-04-30",
+          "time": "20:00",
+          "home_team": "SBV Excelsior",
+          "away_team": "FC Dordrecht",
+          "result": {
+            "full_time": "3-0"
+          }
+        },
+        {
+          "date": "2024-04-30",
+          "time": "20:00",
+          "home_team": "TOP Oss",
+          "away_team": "FC Utrecht J",
+          "result": {
+            "full_time": "0-4"
+          }
+        },
+        {
+          "date": "2024-04-30",
+          "time": "20:00",
+          "home_team": "MVV",
+          "away_team": "FC Volendam",
+          "result": {
+            "full_time": "2-2"
+          }
+        },
+        {
+          "date": "2024-04-30",
+          "time": "20:00",
+          "home_team": "Roda JC Kerkrade",
+          "away_team": "AZ Alkmaar J",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-04-30",
+          "time": "20:00",
+          "home_team": "SC Cambuur",
+          "away_team": "De Graafschap",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-04-30",
+          "time": "20:00",
+          "home_team": "Telstar",
+          "away_team": "Jong PSV",
+          "result": {
+            "full_time": "2-2"
+          }
+        },
+        {
+          "date": "2024-04-30",
+          "time": "14:30",
+          "home_team": "Go Ahead Eagles",
+          "away_team": "Helmond Sport",
+          "result": {
+            "full_time": "5-1"
+          }
+        },
+        {
+          "date": "2024-04-30",
+          "time": "20:00",
+          "home_team": "NEC Nijmegen",
+          "away_team": "NAC Breda",
+          "result": {
+            "full_time": "0-2"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 37",
+      "matches": [
+        {
+          "date": "2024-04-30",
+          "time": "20:00",
+          "home_team": "FC Den Bosch",
+          "away_team": "Telstar",
+          "result": {
+            "full_time": "4-1"
+          }
+        },
+        {
+          "date": "2024-04-30",
+          "time": "20:00",
+          "home_team": "FC Dordrecht",
+          "away_team": "SC Cambuur",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-04-30",
+          "time": "20:00",
+          "home_team": "Go Ahead Eagles",
+          "away_team": "NEC Nijmegen",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-04-30",
+          "time": "20:00",
+          "home_team": "Helmond Sport",
+          "away_team": "TOP Oss",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-04-30",
+          "time": "20:00",
+          "home_team": "Jong Ajax",
+          "away_team": "De Graafschap",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-04-30",
+          "time": "20:00",
+          "home_team": "AZ Alkmaar J",
+          "away_team": "SBV Excelsior",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-04-30",
+          "time": "20:00",
+          "home_team": "FC Utrecht J",
+          "away_team": "Almere City FC",
+          "result": {
+            "full_time": "1-3"
+          }
+        },
+        {
+          "date": "2024-04-30",
+          "time": "20:00",
+          "home_team": "Jong PSV",
+          "away_team": "FC Volendam",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-04-30",
+          "time": "20:00",
+          "home_team": "NAC Breda",
+          "away_team": "MVV",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-04-30",
+          "time": "20:00",
+          "home_team": "Roda JC Kerkrade",
+          "away_team": "FC Eindhoven",
+          "result": {
+            "full_time": "2-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 38",
+      "matches": [
+        {
+          "date": "2024-05-12",
+          "time": "20:00",
+          "home_team": "Almere City FC",
+          "away_team": "Jong PSV",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-05-12",
+          "time": "20:00",
+          "home_team": "De Graafschap",
+          "away_team": "Helmond Sport",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-05-12",
+          "time": "20:00",
+          "home_team": "FC Eindhoven",
+          "away_team": "FC Utrecht J",
+          "result": {
+            "full_time": "2-2"
+          }
+        },
+        {
+          "date": "2024-05-12",
+          "time": "20:00",
+          "home_team": "SBV Excelsior",
+          "away_team": "Go Ahead Eagles",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-05-12",
+          "time": "20:00",
+          "home_team": "TOP Oss",
+          "away_team": "Roda JC Kerkrade",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-05-12",
+          "time": "20:00",
+          "home_team": "FC Volendam",
+          "away_team": "AZ Alkmaar J",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-05-12",
+          "time": "20:00",
+          "home_team": "MVV",
+          "away_team": "FC Den Bosch",
+          "result": {
+            "full_time": "3-1"
+          }
+        },
+        {
+          "date": "2024-05-12",
+          "time": "20:00",
+          "home_team": "NEC Nijmegen",
+          "away_team": "FC Dordrecht",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-05-12",
+          "time": "20:00",
+          "home_team": "SC Cambuur",
+          "away_team": "NAC Breda",
+          "result": {
+            "full_time": "3-2"
+          }
+        },
+        {
+          "date": "2024-05-12",
+          "time": "20:00",
+          "home_team": "Telstar",
+          "away_team": "Jong Ajax",
+          "result": {
+            "full_time": "1-2"
+          }
+        }
+      ]
+    }
+  ]
+}

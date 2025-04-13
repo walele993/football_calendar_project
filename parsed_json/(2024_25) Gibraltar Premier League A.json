@@ -1,0 +1,1106 @@
+{
+  "league": "Gibraltar Premier League A",
+  "season": "2024/25",
+  "matchdays": [
+    {
+      "matchday": "Matchday 1",
+      "matches": [
+        {
+          "date": "2024-10-18",
+          "time": "21:00",
+          "home_team": "Europa FC",
+          "away_team": "College 1975 FC",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-10-19",
+          "time": "16:30",
+          "home_team": "FCB Magpies",
+          "away_team": "Europa Point FC",
+          "result": {
+            "full_time": "3-2"
+          }
+        },
+        {
+          "date": "2024-10-19",
+          "time": "19:30",
+          "home_team": "Lynx FC",
+          "away_team": "Glacis United FC",
+          "result": {
+            "full_time": "3-1"
+          }
+        },
+        {
+          "date": "2024-10-20",
+          "time": "16:30",
+          "home_team": "Lincoln Red Imps",
+          "away_team": "Mons Calpe S.C.",
+          "result": {
+            "full_time": "3-0"
+          }
+        },
+        {
+          "date": "2024-10-20",
+          "time": "19:30",
+          "home_team": "St. Joseph's FC",
+          "away_team": "Lions Gibraltar",
+          "result": {
+            "full_time": "2-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 2",
+      "matches": [
+        {
+          "date": "2024-08-23",
+          "time": "21:00",
+          "home_team": "Manchester 62 FC",
+          "away_team": "FCB Magpies",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-08-24",
+          "time": "18:00",
+          "home_team": "College 1975 FC",
+          "away_team": "St. Joseph's FC",
+          "result": {
+            "full_time": "0-4"
+          }
+        },
+        {
+          "date": "2024-08-25",
+          "time": "18:00",
+          "home_team": "Glacis United FC",
+          "away_team": "Europa FC",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-08-25",
+          "time": "21:00",
+          "home_team": "Mons Calpe S.C.",
+          "away_team": "Lynx FC",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-10-30",
+          "time": "21:00",
+          "home_team": "Europa Point FC",
+          "away_team": "Lincoln Red Imps",
+          "result": {
+            "full_time": "0-5"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 3",
+      "matches": [
+        {
+          "date": "2024-08-31",
+          "time": "18:00",
+          "home_team": "St. Joseph's FC",
+          "away_team": "Glacis United FC",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-08-31",
+          "time": "21:00",
+          "home_team": "Lions Gibraltar",
+          "away_team": "College 1975 FC",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-08-31",
+          "time": "18:00",
+          "home_team": "Lynx FC",
+          "away_team": "Europa Point FC",
+          "result": {
+            "full_time": "2-2"
+          }
+        },
+        {
+          "date": "2024-08-31",
+          "time": "21:00",
+          "home_team": "Europa FC",
+          "away_team": "Mons Calpe S.C.",
+          "result": {
+            "full_time": "3-2"
+          }
+        },
+        {
+          "date": "2024-08-31",
+          "time": "21:00",
+          "home_team": "Lincoln Red Imps",
+          "away_team": "Manchester 62 FC",
+          "result": {
+            "full_time": "3-0"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 4",
+      "matches": [
+        {
+          "date": "2024-09-13",
+          "time": "21:00",
+          "home_team": "Glacis United FC",
+          "away_team": "Lions Gibraltar",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-09-14",
+          "time": "16:30",
+          "home_team": "FCB Magpies",
+          "away_team": "Lincoln Red Imps",
+          "result": {
+            "full_time": "1-4"
+          }
+        },
+        {
+          "date": "2024-09-14",
+          "time": "19:30",
+          "home_team": "Manchester 62 FC",
+          "away_team": "Lynx FC",
+          "result": {
+            "full_time": "4-2"
+          }
+        },
+        {
+          "date": "2024-09-15",
+          "time": "16:30",
+          "home_team": "Mons Calpe S.C.",
+          "away_team": "St. Joseph's FC",
+          "result": {
+            "full_time": "1-3"
+          }
+        },
+        {
+          "date": "2024-09-15",
+          "time": "19:30",
+          "home_team": "Europa Point FC",
+          "away_team": "Europa FC",
+          "result": {
+            "full_time": "1-5"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 5",
+      "matches": [
+        {
+          "date": "2024-09-20",
+          "time": "21:00",
+          "home_team": "College 1975 FC",
+          "away_team": "Glacis United FC",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-09-21",
+          "time": "16:30",
+          "home_team": "Lynx FC",
+          "away_team": "FCB Magpies",
+          "result": {
+            "full_time": "0-3"
+          }
+        },
+        {
+          "date": "2024-09-21",
+          "time": "19:30",
+          "home_team": "Lions Gibraltar",
+          "away_team": "Mons Calpe S.C.",
+          "result": {
+            "full_time": "4-2"
+          }
+        },
+        {
+          "date": "2024-09-22",
+          "time": "16:30",
+          "home_team": "Europa FC",
+          "away_team": "Manchester 62 FC",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-09-22",
+          "time": "19:30",
+          "home_team": "St. Joseph's FC",
+          "away_team": "Europa Point FC",
+          "result": {
+            "full_time": "4-0"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 6",
+      "matches": [
+        {
+          "date": "2024-09-25",
+          "time": "21:00",
+          "home_team": "Lincoln Red Imps",
+          "away_team": "Lynx FC",
+          "result": {
+            "full_time": "3-0"
+          }
+        },
+        {
+          "date": "2024-09-28",
+          "time": "18:00",
+          "home_team": "Mons Calpe S.C.",
+          "away_team": "College 1975 FC",
+          "result": {
+            "full_time": "3-0"
+          }
+        },
+        {
+          "date": "2024-09-28",
+          "time": "21:00",
+          "home_team": "FCB Magpies",
+          "away_team": "Europa FC",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-09-29",
+          "time": "16:30",
+          "home_team": "Europa Point FC",
+          "away_team": "Lions Gibraltar",
+          "result": {
+            "full_time": "1-4"
+          }
+        },
+        {
+          "date": "2024-09-29",
+          "time": "19:30",
+          "home_team": "Manchester 62 FC",
+          "away_team": "St. Joseph's FC",
+          "result": {
+            "full_time": "1-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 7",
+      "matches": [
+        {
+          "date": "2024-09-29",
+          "time": "21:00",
+          "home_team": "St. Joseph's FC",
+          "away_team": "FCB Magpies",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-09-29",
+          "time": "16:30",
+          "home_team": "Europa FC",
+          "away_team": "Lincoln Red Imps",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-09-29",
+          "time": "19:30",
+          "home_team": "College 1975 FC",
+          "away_team": "Europa Point FC",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-09-29",
+          "time": "16:30",
+          "home_team": "Glacis United FC",
+          "away_team": "Mons Calpe S.C.",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-09-29",
+          "time": "19:30",
+          "home_team": "Lions Gibraltar",
+          "away_team": "Manchester 62 FC",
+          "result": {
+            "full_time": "2-2"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 8",
+      "matches": [
+        {
+          "date": "2024-08-16",
+          "time": "21:00",
+          "home_team": "Manchester 62 FC",
+          "away_team": "College 1975 FC",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-08-17",
+          "time": "18:00",
+          "home_team": "Lynx FC",
+          "away_team": "Europa FC",
+          "result": {
+            "full_time": "1-3"
+          }
+        },
+        {
+          "date": "2024-08-17",
+          "time": "21:00",
+          "home_team": "Europa Point FC",
+          "away_team": "Glacis United FC",
+          "result": {
+            "full_time": "0-4"
+          }
+        },
+        {
+          "date": "2024-08-18",
+          "time": "18:00",
+          "home_team": "FCB Magpies",
+          "away_team": "Lions Gibraltar",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-10-23",
+          "time": "21:00",
+          "home_team": "Lincoln Red Imps",
+          "away_team": "St. Joseph's FC",
+          "result": {
+            "full_time": "0-0"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 9",
+      "matches": [
+        {
+          "date": "2024-10-25",
+          "time": "21:00",
+          "home_team": "Mons Calpe S.C.",
+          "away_team": "Europa Point FC",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-10-26",
+          "time": "16:30",
+          "home_team": "College 1975 FC",
+          "away_team": "FCB Magpies",
+          "result": {
+            "full_time": "0-5"
+          }
+        },
+        {
+          "date": "2024-10-26",
+          "time": "19:30",
+          "home_team": "Glacis United FC",
+          "away_team": "Manchester 62 FC",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-10-27",
+          "time": "16:30",
+          "home_team": "Lions Gibraltar",
+          "away_team": "Lincoln Red Imps",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-10-27",
+          "time": "19:30",
+          "home_team": "St. Joseph's FC",
+          "away_team": "Lynx FC",
+          "result": {
+            "full_time": "3-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 10",
+      "matches": [
+        {
+          "date": "2024-10-27",
+          "time": "21:00",
+          "home_team": "Europa FC",
+          "away_team": "St. Joseph's FC",
+          "result": {
+            "full_time": "1-3"
+          }
+        },
+        {
+          "date": "2024-10-27",
+          "time": "16:30",
+          "home_team": "Manchester 62 FC",
+          "away_team": "Mons Calpe S.C.",
+          "result": {
+            "full_time": "4-1"
+          }
+        },
+        {
+          "date": "2024-10-27",
+          "time": "19:30",
+          "home_team": "Lynx FC",
+          "away_team": "Lions Gibraltar",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-10-27",
+          "time": "16:30",
+          "home_team": "FCB Magpies",
+          "away_team": "Glacis United FC",
+          "result": {
+            "full_time": "3-1"
+          }
+        },
+        {
+          "date": "2024-10-27",
+          "time": "19:30",
+          "home_team": "Lincoln Red Imps",
+          "away_team": "College 1975 FC",
+          "result": {
+            "full_time": "5-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 11",
+      "matches": [
+        {
+          "date": "2024-10-27",
+          "time": "21:00",
+          "home_team": "Europa Point FC",
+          "away_team": "Manchester 62 FC",
+          "result": {
+            "full_time": "0-4"
+          }
+        },
+        {
+          "date": "2024-10-27",
+          "time": "16:30",
+          "home_team": "Glacis United FC",
+          "away_team": "Lincoln Red Imps",
+          "result": {
+            "full_time": "0-6"
+          }
+        },
+        {
+          "date": "2024-10-27",
+          "time": "19:30",
+          "home_team": "Mons Calpe S.C.",
+          "away_team": "FCB Magpies",
+          "result": {
+            "full_time": "2-5"
+          }
+        },
+        {
+          "date": "2024-11-10",
+          "time": "16:30",
+          "home_team": "College 1975 FC",
+          "away_team": "Lynx FC",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-11-10",
+          "time": "19:30",
+          "home_team": "Lions Gibraltar",
+          "away_team": "Europa FC",
+          "result": {
+            "full_time": "2-4"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 12",
+      "matches": [
+        {
+          "date": "2024-11-23",
+          "time": "16:30",
+          "home_team": "Lions Gibraltar",
+          "away_team": "St. Joseph's FC",
+          "result": {
+            "full_time": "1-3"
+          }
+        },
+        {
+          "date": "2024-11-23",
+          "time": "19:30",
+          "home_team": "Europa Point FC",
+          "away_team": "FCB Magpies",
+          "result": {
+            "full_time": "0-7"
+          }
+        },
+        {
+          "date": "2024-11-24",
+          "time": "16:30",
+          "home_team": "College 1975 FC",
+          "away_team": "Europa FC",
+          "result": {
+            "full_time": "0-3"
+          }
+        },
+        {
+          "date": "2024-11-24",
+          "time": "19:30",
+          "home_team": "Mons Calpe S.C.",
+          "away_team": "Lincoln Red Imps",
+          "result": {
+            "full_time": "0-3"
+          }
+        },
+        {
+          "date": "2024-11-25",
+          "time": "21:00",
+          "home_team": "Glacis United FC",
+          "away_team": "Lynx FC",
+          "result": {
+            "full_time": "4-2"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 13",
+      "matches": [
+        {
+          "date": "2024-11-29",
+          "time": "21:00",
+          "home_team": "FCB Magpies",
+          "away_team": "Manchester 62 FC",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-11-30",
+          "time": "16:30",
+          "home_team": "St. Joseph's FC",
+          "away_team": "College 1975 FC",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-11-30",
+          "time": "19:30",
+          "home_team": "Lincoln Red Imps",
+          "away_team": "Europa Point FC",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-11-30",
+          "time": "16:30",
+          "home_team": "Lynx FC",
+          "away_team": "Mons Calpe S.C.",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-11-30",
+          "time": "19:30",
+          "home_team": "Europa FC",
+          "away_team": "Glacis United FC",
+          "result": {
+            "full_time": "8-0"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 14",
+      "matches": [
+        {
+          "date": "2024-11-30",
+          "time": "21:00",
+          "home_team": "College 1975 FC",
+          "away_team": "Lions Gibraltar",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-11-30",
+          "time": "16:30",
+          "home_team": "Manchester 62 FC",
+          "away_team": "Lincoln Red Imps",
+          "result": {
+            "full_time": "0-4"
+          }
+        },
+        {
+          "date": "2024-11-30",
+          "time": "19:30",
+          "home_team": "Glacis United FC",
+          "away_team": "St. Joseph's FC",
+          "result": {
+            "full_time": "1-4"
+          }
+        },
+        {
+          "date": "2024-11-30",
+          "time": "16:30",
+          "home_team": "Europa Point FC",
+          "away_team": "Lynx FC",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-11-30",
+          "time": "19:30",
+          "home_team": "Mons Calpe S.C.",
+          "away_team": "Europa FC",
+          "result": {
+            "full_time": "1-3"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 15",
+      "matches": [
+        {
+          "date": "2024-12-13",
+          "time": "21:00",
+          "home_team": "Lynx FC",
+          "away_team": "Manchester 62 FC",
+          "result": {
+            "full_time": "3-2"
+          }
+        },
+        {
+          "date": "2024-12-14",
+          "time": "16:30",
+          "home_team": "Lions Gibraltar",
+          "away_team": "Glacis United FC",
+          "result": {
+            "full_time": "4-1"
+          }
+        },
+        {
+          "date": "2024-12-14",
+          "time": "19:30",
+          "home_team": "Lincoln Red Imps",
+          "away_team": "FCB Magpies",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-12-15",
+          "time": "16:30",
+          "home_team": "St. Joseph's FC",
+          "away_team": "Mons Calpe S.C.",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-12-15",
+          "time": "19:30",
+          "home_team": "Europa FC",
+          "away_team": "Europa Point FC",
+          "result": {
+            "full_time": "3-0"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 16",
+      "matches": [
+        {
+          "date": "2024-12-20",
+          "time": "21:00",
+          "home_team": "Glacis United FC",
+          "away_team": "College 1975 FC",
+          "result": {
+            "full_time": "2-3"
+          }
+        },
+        {
+          "date": "2024-12-21",
+          "time": "16:30",
+          "home_team": "FCB Magpies",
+          "away_team": "Lynx FC",
+          "result": {
+            "full_time": "3-0"
+          }
+        },
+        {
+          "date": "2024-12-21",
+          "time": "19:30",
+          "home_team": "Mons Calpe S.C.",
+          "away_team": "Lions Gibraltar",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-12-22",
+          "time": "16:30",
+          "home_team": "Manchester 62 FC",
+          "away_team": "Europa FC",
+          "result": {
+            "full_time": "2-2"
+          }
+        },
+        {
+          "date": "2024-12-22",
+          "time": "19:30",
+          "home_team": "Europa Point FC",
+          "away_team": "St. Joseph's FC",
+          "result": {
+            "full_time": "1-6"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 17",
+      "matches": [
+        {
+          "date": "2024-12-22",
+          "time": "21:00",
+          "home_team": "College 1975 FC",
+          "away_team": "Mons Calpe S.C.",
+          "result": {
+            "full_time": "4-0"
+          }
+        },
+        {
+          "date": "2024-01-10",
+          "time": "21:00",
+          "home_team": "Lynx FC",
+          "away_team": "Lincoln Red Imps",
+          "result": {
+            "full_time": "1-5"
+          }
+        },
+        {
+          "date": "2024-01-11",
+          "time": "16:30",
+          "home_team": "Europa FC",
+          "away_team": "FCB Magpies",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-01-12",
+          "time": "16:30",
+          "home_team": "Lions Gibraltar",
+          "away_team": "Europa Point FC",
+          "result": {
+            "full_time": "3-2"
+          }
+        },
+        {
+          "date": "2024-01-12",
+          "time": "19:30",
+          "home_team": "St. Joseph's FC",
+          "away_team": "Manchester 62 FC",
+          "result": {
+            "full_time": "2-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 18",
+      "matches": [
+        {
+          "date": "2024-01-13",
+          "time": "21:00",
+          "home_team": "Mons Calpe S.C.",
+          "away_team": "Glacis United FC",
+          "result": {
+            "full_time": "1-3"
+          }
+        },
+        {
+          "date": "2024-01-17",
+          "time": "21:00",
+          "home_team": "Lincoln Red Imps",
+          "away_team": "Europa FC",
+          "result": {
+            "full_time": "3-1"
+          }
+        },
+        {
+          "date": "2024-01-17",
+          "time": "21:00",
+          "home_team": "Europa Point FC",
+          "away_team": "College 1975 FC",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-02-19",
+          "time": "21:00",
+          "home_team": "FCB Magpies",
+          "away_team": "St. Joseph's FC",
+          "result": {
+            "full_time": "1-3"
+          }
+        },
+        {
+          "date": "2024-02-26",
+          "time": "21:00",
+          "home_team": "Manchester 62 FC",
+          "away_team": "Lions Gibraltar",
+          "result": {
+            "full_time": "1-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 19",
+      "matches": [
+        {
+          "date": "2024-02-26",
+          "time": "21:00",
+          "home_team": "Europa FC",
+          "away_team": "Lynx FC",
+          "result": {
+            "full_time": "3-0"
+          }
+        },
+        {
+          "date": "2024-02-26",
+          "time": "19:30",
+          "home_team": "Lions Gibraltar",
+          "away_team": "FCB Magpies",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-02-26",
+          "time": "16:30",
+          "home_team": "St. Joseph's FC",
+          "away_team": "Lincoln Red Imps",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-02-26",
+          "time": "19:30",
+          "home_team": "College 1975 FC",
+          "away_team": "Manchester 62 FC",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-02-10",
+          "time": "21:00",
+          "home_team": "Glacis United FC",
+          "away_team": "Europa Point FC",
+          "result": {
+            "full_time": "3-0"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 20",
+      "matches": [
+        {
+          "date": "2024-02-21",
+          "time": "21:00",
+          "home_team": "Europa Point FC",
+          "away_team": "Mons Calpe S.C.",
+          "result": {
+            "full_time": "3-3"
+          }
+        },
+        {
+          "date": "2024-02-22",
+          "time": "16:30",
+          "home_team": "Lincoln Red Imps",
+          "away_team": "Lions Gibraltar",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-02-22",
+          "time": "19:30",
+          "home_team": "Manchester 62 FC",
+          "away_team": "Glacis United FC",
+          "result": {
+            "full_time": "3-2"
+          }
+        },
+        {
+          "date": "2024-02-23",
+          "time": "16:30",
+          "home_team": "Lynx FC",
+          "away_team": "St. Joseph's FC",
+          "result": {
+            "full_time": "0-7"
+          }
+        },
+        {
+          "date": "2024-02-23",
+          "time": "19:30",
+          "home_team": "FCB Magpies",
+          "away_team": "College 1975 FC",
+          "result": {
+            "full_time": "3-2"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 21",
+      "matches": [
+        {
+          "date": "2024-02-23",
+          "time": "21:00",
+          "home_team": "St. Joseph's FC",
+          "away_team": "Europa FC",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-02-23",
+          "time": "16:30",
+          "home_team": "Mons Calpe S.C.",
+          "away_team": "Manchester 62 FC",
+          "result": {
+            "full_time": "0-4"
+          }
+        },
+        {
+          "date": "2024-02-23",
+          "time": "19:30",
+          "home_team": "Lions Gibraltar",
+          "away_team": "Lynx FC",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-02-23",
+          "time": "16:30",
+          "home_team": "Glacis United FC",
+          "away_team": "FCB Magpies",
+          "result": {
+            "full_time": "0-5"
+          }
+        },
+        {
+          "date": "2024-02-23",
+          "time": "19:30",
+          "home_team": "College 1975 FC",
+          "away_team": "Lincoln Red Imps",
+          "result": {
+            "full_time": "0-2"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 22",
+      "matches": [
+        {
+          "date": "2024-03-14",
+          "time": "21:00",
+          "home_team": "Lincoln Red Imps",
+          "away_team": "Glacis United FC",
+          "result": {
+            "full_time": "4-1"
+          }
+        },
+        {
+          "date": "2024-03-15",
+          "time": "16:30",
+          "home_team": "FCB Magpies",
+          "away_team": "Mons Calpe S.C.",
+          "result": {
+            "full_time": "4-1"
+          }
+        },
+        {
+          "date": "2024-03-15",
+          "time": "19:30",
+          "home_team": "Europa FC",
+          "away_team": "Lions Gibraltar",
+          "result": {
+            "full_time": "3-0"
+          }
+        },
+        {
+          "date": "2024-03-16",
+          "time": "16:30",
+          "home_team": "Lynx FC",
+          "away_team": "College 1975 FC",
+          "result": {
+            "full_time": "3-1"
+          }
+        },
+        {
+          "date": "2024-03-16",
+          "time": "19:30",
+          "home_team": "Manchester 62 FC",
+          "away_team": "Europa Point FC",
+          "result": {
+            "full_time": "7-0"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4374 @@
+{
+  "league": "Segunda División de España",
+  "season": "2012/13",
+  "matchdays": [
+    {
+      "matchday": "Matchday 1",
+      "matches": [
+        {
+          "date": "2012-08-17",
+          "time": "19:00",
+          "home_team": "FC Barcelona B",
+          "away_team": "UD Almería",
+          "result": {
+            "full_time": "4-5"
+          }
+        },
+        {
+          "date": "2012-08-17",
+          "time": "19:00",
+          "home_team": "CD Mirandés",
+          "away_team": "SD Huesca",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2012-08-17",
+          "time": "21:00",
+          "home_team": "Villarreal CF",
+          "away_team": "Real Madrid Castilla",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-08-18",
+          "time": "19:00",
+          "home_team": "Girona FC",
+          "away_team": "CE Sabadell",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-08-18",
+          "time": "19:00",
+          "home_team": "CD Lugo",
+          "away_team": "Hércules CF",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-08-18",
+          "time": "21:00",
+          "home_team": "Xerez CD",
+          "away_team": "Recreativo Huelva",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-08-19",
+          "time": "19:00",
+          "home_team": "Racing Santander",
+          "away_team": "UD Las Palmas",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-08-19",
+          "time": "19:00",
+          "home_team": "CD Numancia",
+          "away_team": "Sporting Gijón",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-08-19",
+          "time": "21:00",
+          "home_team": "AD Alcorcón",
+          "away_team": "CD Guadalajara",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-08-19",
+          "time": "21:00",
+          "home_team": "Elche CF",
+          "away_team": "SD Ponferradina",
+          "result": {
+            "full_time": "4-2"
+          }
+        },
+        {
+          "date": "2024-08-20",
+          "time": "21:00",
+          "home_team": "Real Murcia",
+          "away_team": "Córdoba CF",
+          "result": {
+            "full_time": "0-0"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 2",
+      "matches": [
+        {
+          "date": "2024-08-24",
+          "time": "21:00",
+          "home_team": "UD Almería",
+          "away_team": "Xerez CD",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-08-25",
+          "time": "19:00",
+          "home_team": "CE Sabadell",
+          "away_team": "Villarreal CF",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-08-25",
+          "time": "19:00",
+          "home_team": "CD Guadalajara",
+          "away_team": "Girona FC",
+          "result": {
+            "full_time": "1-5"
+          }
+        },
+        {
+          "date": "2024-08-25",
+          "time": "19:00",
+          "home_team": "SD Ponferradina",
+          "away_team": "AD Alcorcón",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-08-25",
+          "time": "19:00",
+          "home_team": "UD Las Palmas",
+          "away_team": "CD Lugo",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-08-25",
+          "time": "19:00",
+          "home_team": "Sporting Gijón",
+          "away_team": "Real Murcia",
+          "result": {
+            "full_time": "2-3"
+          }
+        },
+        {
+          "date": "2024-08-25",
+          "time": "19:00",
+          "home_team": "SD Huesca",
+          "away_team": "CD Numancia",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-08-25",
+          "time": "19:00",
+          "home_team": "Recreativo Huelva",
+          "away_team": "CD Mirandés",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-08-25",
+          "time": "21:00",
+          "home_team": "Real Madrid Castilla",
+          "away_team": "FC Barcelona B",
+          "result": {
+            "full_time": "3-2"
+          }
+        },
+        {
+          "date": "2024-08-26",
+          "time": "20:00",
+          "home_team": "Hércules CF",
+          "away_team": "Elche CF",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-08-26",
+          "time": "22:00",
+          "home_team": "Córdoba CF",
+          "away_team": "Racing Santander",
+          "result": {
+            "full_time": "2-0"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 3",
+      "matches": [
+        {
+          "date": "2024-08-26",
+          "time": "18:00",
+          "home_team": "Girona FC",
+          "away_team": "SD Ponferradina",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-08-26",
+          "time": "18:00",
+          "home_team": "Elche CF",
+          "away_team": "UD Las Palmas",
+          "result": {
+            "full_time": "3-1"
+          }
+        },
+        {
+          "date": "2024-08-26",
+          "time": "18:00",
+          "home_team": "CD Lugo",
+          "away_team": "Córdoba CF",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-08-26",
+          "time": "18:00",
+          "home_team": "Real Murcia",
+          "away_team": "SD Huesca",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-08-26",
+          "time": "18:00",
+          "home_team": "CD Numancia",
+          "away_team": "Recreativo Huelva",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-08-26",
+          "time": "18:00",
+          "home_team": "Xerez CD",
+          "away_team": "CD Mirandés",
+          "result": {
+            "full_time": "0-4"
+          }
+        },
+        {
+          "date": "2024-08-26",
+          "time": "20:00",
+          "home_team": "Villarreal CF",
+          "away_team": "CD Guadalajara",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-08-26",
+          "time": "22:00",
+          "home_team": "UD Almería",
+          "away_team": "Real Madrid Castilla",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-08-26",
+          "time": "12:00",
+          "home_team": "Racing Santander",
+          "away_team": "Sporting Gijón",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-08-26",
+          "time": "16:00",
+          "home_team": "AD Alcorcón",
+          "away_team": "Hércules CF",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-08-26",
+          "time": "18:00",
+          "home_team": "FC Barcelona B",
+          "away_team": "CE Sabadell",
+          "result": {
+            "full_time": "2-0"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 4",
+      "matches": [
+        {
+          "date": "2024-08-26",
+          "time": "16:00",
+          "home_team": "Recreativo Huelva",
+          "away_team": "Real Murcia",
+          "result": {
+            "full_time": "3-2"
+          }
+        },
+        {
+          "date": "2024-08-26",
+          "time": "18:00",
+          "home_team": "CE Sabadell",
+          "away_team": "UD Almería",
+          "result": {
+            "full_time": "3-0"
+          }
+        },
+        {
+          "date": "2024-08-26",
+          "time": "18:00",
+          "home_team": "CD Guadalajara",
+          "away_team": "FC Barcelona B",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-08-26",
+          "time": "18:00",
+          "home_team": "SD Ponferradina",
+          "away_team": "Villarreal CF",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-08-26",
+          "time": "18:00",
+          "home_team": "CD Mirandés",
+          "away_team": "CD Numancia",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-08-26",
+          "time": "20:00",
+          "home_team": "Hércules CF",
+          "away_team": "Girona FC",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-08-26",
+          "time": "20:00",
+          "home_team": "UD Las Palmas",
+          "away_team": "AD Alcorcón",
+          "result": {
+            "full_time": "1-3"
+          }
+        },
+        {
+          "date": "2024-08-26",
+          "time": "22:00",
+          "home_team": "Real Madrid Castilla",
+          "away_team": "Xerez CD",
+          "result": {
+            "full_time": "3-2"
+          }
+        },
+        {
+          "date": "2024-08-26",
+          "time": "12:00",
+          "home_team": "Córdoba CF",
+          "away_team": "Elche CF",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-08-26",
+          "time": "18:00",
+          "home_team": "Sporting Gijón",
+          "away_team": "CD Lugo",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-08-26",
+          "time": "18:00",
+          "home_team": "SD Huesca",
+          "away_team": "Racing Santander",
+          "result": {
+            "full_time": "1-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 5",
+      "matches": [
+        {
+          "date": "2024-09-14",
+          "time": "21:00",
+          "home_team": "Real Madrid Castilla",
+          "away_team": "CE Sabadell",
+          "result": {
+            "full_time": "2-3"
+          }
+        },
+        {
+          "date": "2024-09-15",
+          "time": "18:00",
+          "home_team": "UD Almería",
+          "away_team": "CD Guadalajara",
+          "result": {
+            "full_time": "4-0"
+          }
+        },
+        {
+          "date": "2024-09-15",
+          "time": "18:00",
+          "home_team": "FC Barcelona B",
+          "away_team": "SD Ponferradina",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-09-15",
+          "time": "18:00",
+          "home_team": "AD Alcorcón",
+          "away_team": "Córdoba CF",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-09-15",
+          "time": "18:00",
+          "home_team": "Elche CF",
+          "away_team": "Sporting Gijón",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-09-15",
+          "time": "18:00",
+          "home_team": "CD Lugo",
+          "away_team": "SD Huesca",
+          "result": {
+            "full_time": "2-4"
+          }
+        },
+        {
+          "date": "2024-09-15",
+          "time": "18:00",
+          "home_team": "Racing Santander",
+          "away_team": "Recreativo Huelva",
+          "result": {
+            "full_time": "3-0"
+          }
+        },
+        {
+          "date": "2024-09-15",
+          "time": "18:00",
+          "home_team": "Xerez CD",
+          "away_team": "CD Numancia",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-09-15",
+          "time": "20:00",
+          "home_team": "Real Murcia",
+          "away_team": "CD Mirandés",
+          "result": {
+            "full_time": "2-2"
+          }
+        },
+        {
+          "date": "2024-09-16",
+          "time": "12:00",
+          "home_team": "Girona FC",
+          "away_team": "UD Las Palmas",
+          "result": {
+            "full_time": "5-0"
+          }
+        },
+        {
+          "date": "2024-09-16",
+          "time": "20:30",
+          "home_team": "Villarreal CF",
+          "away_team": "Hércules CF",
+          "result": {
+            "full_time": "1-0"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 6",
+      "matches": [
+        {
+          "date": "2024-09-22",
+          "time": "16:00",
+          "home_team": "Hércules CF",
+          "away_team": "FC Barcelona B",
+          "result": {
+            "full_time": "0-3"
+          }
+        },
+        {
+          "date": "2024-09-22",
+          "time": "18:00",
+          "home_team": "CE Sabadell",
+          "away_team": "Xerez CD",
+          "result": {
+            "full_time": "3-0"
+          }
+        },
+        {
+          "date": "2024-09-22",
+          "time": "18:00",
+          "home_team": "SD Ponferradina",
+          "away_team": "UD Almería",
+          "result": {
+            "full_time": "2-2"
+          }
+        },
+        {
+          "date": "2024-09-22",
+          "time": "18:00",
+          "home_team": "UD Las Palmas",
+          "away_team": "Villarreal CF",
+          "result": {
+            "full_time": "2-2"
+          }
+        },
+        {
+          "date": "2024-09-22",
+          "time": "18:00",
+          "home_team": "Sporting Gijón",
+          "away_team": "AD Alcorcón",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-09-22",
+          "time": "18:00",
+          "home_team": "SD Huesca",
+          "away_team": "Elche CF",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-09-22",
+          "time": "18:00",
+          "home_team": "Recreativo Huelva",
+          "away_team": "CD Lugo",
+          "result": {
+            "full_time": "3-0"
+          }
+        },
+        {
+          "date": "2024-09-22",
+          "time": "18:00",
+          "home_team": "CD Mirandés",
+          "away_team": "Racing Santander",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-09-22",
+          "time": "20:00",
+          "home_team": "CD Guadalajara",
+          "away_team": "Real Madrid Castilla",
+          "result": {
+            "full_time": "3-4"
+          }
+        },
+        {
+          "date": "2024-09-22",
+          "time": "22:00",
+          "home_team": "Córdoba CF",
+          "away_team": "Girona FC",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-09-23",
+          "time": "12:00",
+          "home_team": "CD Numancia",
+          "away_team": "Real Murcia",
+          "result": {
+            "full_time": "1-0"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 7",
+      "matches": [
+        {
+          "date": "2024-09-28",
+          "time": "21:00",
+          "home_team": "Real Madrid Castilla",
+          "away_team": "SD Ponferradina",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-09-29",
+          "time": "16:00",
+          "home_team": "Girona FC",
+          "away_team": "Sporting Gijón",
+          "result": {
+            "full_time": "3-1"
+          }
+        },
+        {
+          "date": "2024-09-29",
+          "time": "18:00",
+          "home_team": "FC Barcelona B",
+          "away_team": "UD Las Palmas",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-09-29",
+          "time": "18:00",
+          "home_team": "Villarreal CF",
+          "away_team": "Córdoba CF",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-09-29",
+          "time": "18:00",
+          "home_team": "AD Alcorcón",
+          "away_team": "SD Huesca",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-09-29",
+          "time": "18:00",
+          "home_team": "CD Lugo",
+          "away_team": "CD Mirandés",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-09-29",
+          "time": "18:00",
+          "home_team": "Racing Santander",
+          "away_team": "CD Numancia",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-09-29",
+          "time": "18:00",
+          "home_team": "Xerez CD",
+          "away_team": "Real Murcia",
+          "result": {
+            "full_time": "0-3"
+          }
+        },
+        {
+          "date": "2024-09-29",
+          "time": "20:00",
+          "home_team": "CE Sabadell",
+          "away_team": "CD Guadalajara",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-09-29",
+          "time": "20:00",
+          "home_team": "Elche CF",
+          "away_team": "Recreativo Huelva",
+          "result": {
+            "full_time": "3-0"
+          }
+        },
+        {
+          "date": "2024-09-30",
+          "time": "20:30",
+          "home_team": "UD Almería",
+          "away_team": "Hércules CF",
+          "result": {
+            "full_time": "0-0"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 8",
+      "matches": [
+        {
+          "date": "2024-09-30",
+          "time": "18:00",
+          "home_team": "CD Guadalajara",
+          "away_team": "Xerez CD",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-09-30",
+          "time": "18:00",
+          "home_team": "SD Ponferradina",
+          "away_team": "CE Sabadell",
+          "result": {
+            "full_time": "3-1"
+          }
+        },
+        {
+          "date": "2024-09-30",
+          "time": "18:00",
+          "home_team": "Córdoba CF",
+          "away_team": "FC Barcelona B",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-09-30",
+          "time": "18:00",
+          "home_team": "SD Huesca",
+          "away_team": "Girona FC",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-09-30",
+          "time": "18:00",
+          "home_team": "Recreativo Huelva",
+          "away_team": "AD Alcorcón",
+          "result": {
+            "full_time": "4-2"
+          }
+        },
+        {
+          "date": "2024-09-30",
+          "time": "18:00",
+          "home_team": "CD Mirandés",
+          "away_team": "Elche CF",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-09-30",
+          "time": "18:00",
+          "home_team": "CD Numancia",
+          "away_team": "CD Lugo",
+          "result": {
+            "full_time": "3-0"
+          }
+        },
+        {
+          "date": "2024-09-30",
+          "time": "18:30",
+          "home_team": "UD Las Palmas",
+          "away_team": "UD Almería",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-09-30",
+          "time": "20:00",
+          "home_team": "Real Murcia",
+          "away_team": "Racing Santander",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-09-30",
+          "time": "12:00",
+          "home_team": "Sporting Gijón",
+          "away_team": "Villarreal CF",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-09-30",
+          "time": "21:30",
+          "home_team": "Hércules CF",
+          "away_team": "Real Madrid Castilla",
+          "result": {
+            "full_time": "2-4"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 9",
+      "matches": [
+        {
+          "date": "2024-10-13",
+          "time": "18:00",
+          "home_team": "CD Guadalajara",
+          "away_team": "SD Ponferradina",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-10-13",
+          "time": "18:00",
+          "home_team": "FC Barcelona B",
+          "away_team": "Sporting Gijón",
+          "result": {
+            "full_time": "3-0"
+          }
+        },
+        {
+          "date": "2024-10-13",
+          "time": "18:00",
+          "home_team": "AD Alcorcón",
+          "away_team": "CD Mirandés",
+          "result": {
+            "full_time": "4-0"
+          }
+        },
+        {
+          "date": "2024-10-13",
+          "time": "18:00",
+          "home_team": "CD Lugo",
+          "away_team": "Real Murcia",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-10-13",
+          "time": "18:00",
+          "home_team": "Xerez CD",
+          "away_team": "Racing Santander",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-10-13",
+          "time": "21:00",
+          "home_team": "Villarreal CF",
+          "away_team": "SD Huesca",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-10-14",
+          "time": "12:00",
+          "home_team": "Elche CF",
+          "away_team": "CD Numancia",
+          "result": {
+            "full_time": "4-0"
+          }
+        },
+        {
+          "date": "2024-10-14",
+          "time": "17:00",
+          "home_team": "CE Sabadell",
+          "away_team": "Hércules CF",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-10-14",
+          "time": "19:00",
+          "home_team": "Girona FC",
+          "away_team": "Recreativo Huelva",
+          "result": {
+            "full_time": "5-2"
+          }
+        },
+        {
+          "date": "2024-10-14",
+          "time": "20:30",
+          "home_team": "UD Almería",
+          "away_team": "Córdoba CF",
+          "result": {
+            "full_time": "3-0"
+          }
+        },
+        {
+          "date": "2024-10-15",
+          "time": "21:00",
+          "home_team": "Real Madrid Castilla",
+          "away_team": "UD Las Palmas",
+          "result": {
+            "full_time": "3-2"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 10",
+      "matches": [
+        {
+          "date": "2024-10-20",
+          "time": "16:00",
+          "home_team": "Córdoba CF",
+          "away_team": "Real Madrid Castilla",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-10-20",
+          "time": "18:00",
+          "home_team": "SD Ponferradina",
+          "away_team": "Xerez CD",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-10-20",
+          "time": "18:00",
+          "home_team": "Hércules CF",
+          "away_team": "CD Guadalajara",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-10-20",
+          "time": "18:00",
+          "home_team": "Sporting Gijón",
+          "away_team": "UD Almería",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-10-20",
+          "time": "18:00",
+          "home_team": "CD Mirandés",
+          "away_team": "Girona FC",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-10-20",
+          "time": "18:00",
+          "home_team": "CD Numancia",
+          "away_team": "AD Alcorcón",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-10-21",
+          "time": "12:00",
+          "home_team": "Racing Santander",
+          "away_team": "CD Lugo",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-10-21",
+          "time": "18:00",
+          "home_team": "Recreativo Huelva",
+          "away_team": "Villarreal CF",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-10-21",
+          "time": "19:00",
+          "home_team": "UD Las Palmas",
+          "away_team": "CE Sabadell",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-10-21",
+          "time": "20:30",
+          "home_team": "Real Murcia",
+          "away_team": "Elche CF",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-10-31",
+          "time": "20:00",
+          "home_team": "SD Huesca",
+          "away_team": "FC Barcelona B",
+          "result": {
+            "full_time": "1-4"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 11",
+      "matches": [
+        {
+          "date": "2024-10-26",
+          "time": "21:00",
+          "home_team": "FC Barcelona B",
+          "away_team": "Recreativo Huelva",
+          "result": {
+            "full_time": "2-3"
+          }
+        },
+        {
+          "date": "2024-10-27",
+          "time": "16:00",
+          "home_team": "UD Almería",
+          "away_team": "SD Huesca",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-10-27",
+          "time": "18:00",
+          "home_team": "CD Guadalajara",
+          "away_team": "UD Las Palmas",
+          "result": {
+            "full_time": "2-3"
+          }
+        },
+        {
+          "date": "2024-10-27",
+          "time": "18:00",
+          "home_team": "CE Sabadell",
+          "away_team": "Córdoba CF",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-10-27",
+          "time": "18:00",
+          "home_team": "Villarreal CF",
+          "away_team": "CD Mirandés",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-10-28",
+          "time": "12:00",
+          "home_team": "Real Madrid Castilla",
+          "away_team": "Sporting Gijón",
+          "result": {
+            "full_time": "2-4"
+          }
+        },
+        {
+          "date": "2024-10-28",
+          "time": "18:00",
+          "home_team": "SD Ponferradina",
+          "away_team": "Hércules CF",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-10-28",
+          "time": "18:00",
+          "home_team": "Girona FC",
+          "away_team": "CD Numancia",
+          "result": {
+            "full_time": "3-1"
+          }
+        },
+        {
+          "date": "2024-10-28",
+          "time": "18:00",
+          "home_team": "AD Alcorcón",
+          "away_team": "Real Murcia",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-10-28",
+          "time": "18:00",
+          "home_team": "Elche CF",
+          "away_team": "Racing Santander",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-10-28",
+          "time": "18:00",
+          "home_team": "Xerez CD",
+          "away_team": "CD Lugo",
+          "result": {
+            "full_time": "1-0"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 12",
+      "matches": [
+        {
+          "date": "2024-10-28",
+          "time": "16:00",
+          "home_team": "CD Mirandés",
+          "away_team": "FC Barcelona B",
+          "result": {
+            "full_time": "3-0"
+          }
+        },
+        {
+          "date": "2024-10-28",
+          "time": "16:00",
+          "home_team": "CD Numancia",
+          "away_team": "Villarreal CF",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-10-28",
+          "time": "18:00",
+          "home_team": "Real Murcia",
+          "away_team": "Girona FC",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-10-28",
+          "time": "18:00",
+          "home_team": "Racing Santander",
+          "away_team": "AD Alcorcón",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-10-28",
+          "time": "12:00",
+          "home_team": "Hércules CF",
+          "away_team": "Xerez CD",
+          "result": {
+            "full_time": "1-5"
+          }
+        },
+        {
+          "date": "2024-10-28",
+          "time": "12:00",
+          "home_team": "Córdoba CF",
+          "away_team": "CD Guadalajara",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-10-28",
+          "time": "12:00",
+          "home_team": "SD Huesca",
+          "away_team": "Real Madrid Castilla",
+          "result": {
+            "full_time": "2-2"
+          }
+        },
+        {
+          "date": "2024-10-28",
+          "time": "18:00",
+          "home_team": "UD Las Palmas",
+          "away_team": "SD Ponferradina",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-10-28",
+          "time": "18:00",
+          "home_team": "CD Lugo",
+          "away_team": "Elche CF",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-10-28",
+          "time": "20:00",
+          "home_team": "Sporting Gijón",
+          "away_team": "CE Sabadell",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-10-28",
+          "time": "20:30",
+          "home_team": "Recreativo Huelva",
+          "away_team": "UD Almería",
+          "result": {
+            "full_time": "0-2"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 13",
+      "matches": [
+        {
+          "date": "2024-11-10",
+          "time": "16:00",
+          "home_team": "Girona FC",
+          "away_team": "Racing Santander",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-11-10",
+          "time": "18:00",
+          "home_team": "CD Guadalajara",
+          "away_team": "Sporting Gijón",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-11-10",
+          "time": "18:00",
+          "home_team": "FC Barcelona B",
+          "away_team": "CD Numancia",
+          "result": {
+            "full_time": "3-3"
+          }
+        },
+        {
+          "date": "2024-11-10",
+          "time": "20:00",
+          "home_team": "CE Sabadell",
+          "away_team": "SD Huesca",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-11-10",
+          "time": "21:30",
+          "home_team": "Xerez CD",
+          "away_team": "Elche CF",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-11-11",
+          "time": "12:00",
+          "home_team": "Hércules CF",
+          "away_team": "UD Las Palmas",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-11-11",
+          "time": "12:00",
+          "home_team": "Villarreal CF",
+          "away_team": "Real Murcia",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-11-11",
+          "time": "16:00",
+          "home_team": "SD Ponferradina",
+          "away_team": "Córdoba CF",
+          "result": {
+            "full_time": "3-5"
+          }
+        },
+        {
+          "date": "2024-11-11",
+          "time": "16:00",
+          "home_team": "UD Almería",
+          "away_team": "CD Mirandés",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-11-11",
+          "time": "16:00",
+          "home_team": "AD Alcorcón",
+          "away_team": "CD Lugo",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-11-12",
+          "time": "21:00",
+          "home_team": "Real Madrid Castilla",
+          "away_team": "Recreativo Huelva",
+          "result": {
+            "full_time": "0-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 14",
+      "matches": [
+        {
+          "date": "2024-11-16",
+          "time": "21:00",
+          "home_team": "Sporting Gijón",
+          "away_team": "SD Ponferradina",
+          "result": {
+            "full_time": "2-3"
+          }
+        },
+        {
+          "date": "2024-11-17",
+          "time": "16:00",
+          "home_team": "Racing Santander",
+          "away_team": "Villarreal CF",
+          "result": {
+            "full_time": "0-3"
+          }
+        },
+        {
+          "date": "2024-11-17",
+          "time": "18:00",
+          "home_team": "Real Murcia",
+          "away_team": "FC Barcelona B",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-11-17",
+          "time": "18:00",
+          "home_team": "CD Lugo",
+          "away_team": "Girona FC",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-11-17",
+          "time": "19:00",
+          "home_team": "UD Las Palmas",
+          "away_team": "Xerez CD",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-11-18",
+          "time": "12:00",
+          "home_team": "Córdoba CF",
+          "away_team": "Hércules CF",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-11-18",
+          "time": "12:00",
+          "home_team": "Recreativo Huelva",
+          "away_team": "CE Sabadell",
+          "result": {
+            "full_time": "2-5"
+          }
+        },
+        {
+          "date": "2024-11-18",
+          "time": "12:00",
+          "home_team": "Elche CF",
+          "away_team": "AD Alcorcón",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-11-18",
+          "time": "16:00",
+          "home_team": "SD Huesca",
+          "away_team": "CD Guadalajara",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-11-18",
+          "time": "18:00",
+          "home_team": "CD Mirandés",
+          "away_team": "Real Madrid Castilla",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-11-18",
+          "time": "18:00",
+          "home_team": "CD Numancia",
+          "away_team": "UD Almería",
+          "result": {
+            "full_time": "0-0"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 15",
+      "matches": [
+        {
+          "date": "2024-11-24",
+          "time": "18:00",
+          "home_team": "UD Las Palmas",
+          "away_team": "Córdoba CF",
+          "result": {
+            "full_time": "3-0"
+          }
+        },
+        {
+          "date": "2024-11-24",
+          "time": "18:00",
+          "home_team": "Hércules CF",
+          "away_team": "Sporting Gijón",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-11-24",
+          "time": "18:00",
+          "home_team": "CD Guadalajara",
+          "away_team": "Recreativo Huelva",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-11-24",
+          "time": "18:00",
+          "home_team": "Girona FC",
+          "away_team": "Elche CF",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-11-24",
+          "time": "20:00",
+          "home_team": "CE Sabadell",
+          "away_team": "CD Mirandés",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-11-24",
+          "time": "20:00",
+          "home_team": "Villarreal CF",
+          "away_team": "CD Lugo",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-11-25",
+          "time": "12:00",
+          "home_team": "FC Barcelona B",
+          "away_team": "Racing Santander",
+          "result": {
+            "full_time": "4-1"
+          }
+        },
+        {
+          "date": "2024-11-25",
+          "time": "17:00",
+          "home_team": "SD Ponferradina",
+          "away_team": "SD Huesca",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-11-25",
+          "time": "17:00",
+          "home_team": "UD Almería",
+          "away_team": "Real Murcia",
+          "result": {
+            "full_time": "3-2"
+          }
+        },
+        {
+          "date": "2024-11-25",
+          "time": "17:00",
+          "home_team": "Xerez CD",
+          "away_team": "AD Alcorcón",
+          "result": {
+            "full_time": "2-4"
+          }
+        },
+        {
+          "date": "2024-11-25",
+          "time": "19:00",
+          "home_team": "Real Madrid Castilla",
+          "away_team": "CD Numancia",
+          "result": {
+            "full_time": "2-4"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 16",
+      "matches": [
+        {
+          "date": "2024-11-30",
+          "time": "21:30",
+          "home_team": "Real Murcia",
+          "away_team": "Real Madrid Castilla",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-11-30",
+          "time": "18:00",
+          "home_team": "Córdoba CF",
+          "away_team": "Xerez CD",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-11-30",
+          "time": "18:00",
+          "home_team": "Sporting Gijón",
+          "away_team": "UD Las Palmas",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-11-30",
+          "time": "18:00",
+          "home_team": "CD Lugo",
+          "away_team": "FC Barcelona B",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-11-30",
+          "time": "12:00",
+          "home_team": "Recreativo Huelva",
+          "away_team": "SD Ponferradina",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-11-30",
+          "time": "12:00",
+          "home_team": "Racing Santander",
+          "away_team": "UD Almería",
+          "result": {
+            "full_time": "3-4"
+          }
+        },
+        {
+          "date": "2024-11-30",
+          "time": "17:00",
+          "home_team": "SD Huesca",
+          "away_team": "Hércules CF",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-11-30",
+          "time": "17:00",
+          "home_team": "CD Mirandés",
+          "away_team": "CD Guadalajara",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-11-30",
+          "time": "17:00",
+          "home_team": "CD Numancia",
+          "away_team": "CE Sabadell",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-11-30",
+          "time": "17:00",
+          "home_team": "AD Alcorcón",
+          "away_team": "Girona FC",
+          "result": {
+            "full_time": "4-1"
+          }
+        },
+        {
+          "date": "2024-11-30",
+          "time": "20:30",
+          "home_team": "Elche CF",
+          "away_team": "Villarreal CF",
+          "result": {
+            "full_time": "1-0"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 17",
+      "matches": [
+        {
+          "date": "2024-11-30",
+          "time": "18:00",
+          "home_team": "UD Las Palmas",
+          "away_team": "SD Huesca",
+          "result": {
+            "full_time": "4-0"
+          }
+        },
+        {
+          "date": "2024-11-30",
+          "time": "18:00",
+          "home_team": "CD Guadalajara",
+          "away_team": "CD Numancia",
+          "result": {
+            "full_time": "5-1"
+          }
+        },
+        {
+          "date": "2024-11-30",
+          "time": "18:00",
+          "home_team": "UD Almería",
+          "away_team": "CD Lugo",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-11-30",
+          "time": "18:00",
+          "home_team": "FC Barcelona B",
+          "away_team": "Elche CF",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-11-30",
+          "time": "20:00",
+          "home_team": "CE Sabadell",
+          "away_team": "Real Murcia",
+          "result": {
+            "full_time": "2-2"
+          }
+        },
+        {
+          "date": "2024-11-30",
+          "time": "12:00",
+          "home_team": "Córdoba CF",
+          "away_team": "Sporting Gijón",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-11-30",
+          "time": "12:00",
+          "home_team": "Hércules CF",
+          "away_team": "Recreativo Huelva",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-11-30",
+          "time": "17:00",
+          "home_team": "SD Ponferradina",
+          "away_team": "CD Mirandés",
+          "result": {
+            "full_time": "3-1"
+          }
+        },
+        {
+          "date": "2024-11-30",
+          "time": "17:00",
+          "home_team": "Villarreal CF",
+          "away_team": "AD Alcorcón",
+          "result": {
+            "full_time": "4-0"
+          }
+        },
+        {
+          "date": "2024-11-30",
+          "time": "17:00",
+          "home_team": "Xerez CD",
+          "away_team": "Girona FC",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-11-30",
+          "time": "19:00",
+          "home_team": "Real Madrid Castilla",
+          "away_team": "Racing Santander",
+          "result": {
+            "full_time": "4-0"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 18",
+      "matches": [
+        {
+          "date": "2024-12-14",
+          "time": "21:00",
+          "home_team": "CD Lugo",
+          "away_team": "Real Madrid Castilla",
+          "result": {
+            "full_time": "3-2"
+          }
+        },
+        {
+          "date": "2024-12-15",
+          "time": "18:00",
+          "home_team": "SD Huesca",
+          "away_team": "Córdoba CF",
+          "result": {
+            "full_time": "1-3"
+          }
+        },
+        {
+          "date": "2024-12-15",
+          "time": "18:00",
+          "home_team": "AD Alcorcón",
+          "away_team": "FC Barcelona B",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-12-15",
+          "time": "20:00",
+          "home_team": "Real Murcia",
+          "away_team": "CD Guadalajara",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-12-15",
+          "time": "20:00",
+          "home_team": "Girona FC",
+          "away_team": "Villarreal CF",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-12-16",
+          "time": "12:00",
+          "home_team": "Racing Santander",
+          "away_team": "CE Sabadell",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-12-16",
+          "time": "12:00",
+          "home_team": "Elche CF",
+          "away_team": "UD Almería",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-12-16",
+          "time": "17:00",
+          "home_team": "Sporting Gijón",
+          "away_team": "Xerez CD",
+          "result": {
+            "full_time": "3-0"
+          }
+        },
+        {
+          "date": "2024-12-16",
+          "time": "17:00",
+          "home_team": "Recreativo Huelva",
+          "away_team": "UD Las Palmas",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-12-16",
+          "time": "17:00",
+          "home_team": "CD Mirandés",
+          "away_team": "Hércules CF",
+          "result": {
+            "full_time": "3-2"
+          }
+        },
+        {
+          "date": "2024-12-16",
+          "time": "17:00",
+          "home_team": "CD Numancia",
+          "away_team": "SD Ponferradina",
+          "result": {
+            "full_time": "0-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 19",
+      "matches": [
+        {
+          "date": "2024-12-20",
+          "time": "20:00",
+          "home_team": "Xerez CD",
+          "away_team": "Villarreal CF",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-12-21",
+          "time": "20:00",
+          "home_team": "Real Madrid Castilla",
+          "away_team": "Elche CF",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-12-21",
+          "time": "22:00",
+          "home_team": "UD Almería",
+          "away_team": "AD Alcorcón",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-12-22",
+          "time": "16:00",
+          "home_team": "Córdoba CF",
+          "away_team": "Recreativo Huelva",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-12-22",
+          "time": "16:00",
+          "home_team": "FC Barcelona B",
+          "away_team": "Girona FC",
+          "result": {
+            "full_time": "4-4"
+          }
+        },
+        {
+          "date": "2024-12-22",
+          "time": "18:00",
+          "home_team": "Sporting Gijón",
+          "away_team": "SD Huesca",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-12-22",
+          "time": "18:00",
+          "home_team": "UD Las Palmas",
+          "away_team": "CD Mirandés",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-12-22",
+          "time": "18:00",
+          "home_team": "Hércules CF",
+          "away_team": "CD Numancia",
+          "result": {
+            "full_time": "1-3"
+          }
+        },
+        {
+          "date": "2024-12-22",
+          "time": "18:00",
+          "home_team": "SD Ponferradina",
+          "away_team": "Real Murcia",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-12-22",
+          "time": "18:00",
+          "home_team": "CD Guadalajara",
+          "away_team": "Racing Santander",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-12-22",
+          "time": "18:00",
+          "home_team": "CE Sabadell",
+          "away_team": "CD Lugo",
+          "result": {
+            "full_time": "0-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 20",
+      "matches": [
+        {
+          "date": "2024-12-22",
+          "time": "18:00",
+          "home_team": "Recreativo Huelva",
+          "away_team": "Sporting Gijón",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-12-22",
+          "time": "18:00",
+          "home_team": "Racing Santander",
+          "away_team": "SD Ponferradina",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-12-22",
+          "time": "18:00",
+          "home_team": "Villarreal CF",
+          "away_team": "FC Barcelona B",
+          "result": {
+            "full_time": "1-3"
+          }
+        },
+        {
+          "date": "2024-12-22",
+          "time": "20:00",
+          "home_team": "AD Alcorcón",
+          "away_team": "Real Madrid Castilla",
+          "result": {
+            "full_time": "3-2"
+          }
+        },
+        {
+          "date": "2024-12-22",
+          "time": "12:00",
+          "home_team": "Real Murcia",
+          "away_team": "Hércules CF",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-12-22",
+          "time": "12:00",
+          "home_team": "Girona FC",
+          "away_team": "UD Almería",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-12-22",
+          "time": "17:00",
+          "home_team": "Xerez CD",
+          "away_team": "SD Huesca",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-12-22",
+          "time": "17:00",
+          "home_team": "CD Mirandés",
+          "away_team": "Córdoba CF",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-12-22",
+          "time": "17:00",
+          "home_team": "CD Numancia",
+          "away_team": "UD Las Palmas",
+          "result": {
+            "full_time": "3-0"
+          }
+        },
+        {
+          "date": "2024-12-22",
+          "time": "17:00",
+          "home_team": "CD Lugo",
+          "away_team": "CD Guadalajara",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-12-22",
+          "time": "17:00",
+          "home_team": "Elche CF",
+          "away_team": "CE Sabadell",
+          "result": {
+            "full_time": "3-2"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 21",
+      "matches": [
+        {
+          "date": "2024-01-12",
+          "time": "18:00",
+          "home_team": "CD Guadalajara",
+          "away_team": "Elche CF",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-01-12",
+          "time": "18:00",
+          "home_team": "FC Barcelona B",
+          "away_team": "Xerez CD",
+          "result": {
+            "full_time": "4-2"
+          }
+        },
+        {
+          "date": "2024-01-12",
+          "time": "20:00",
+          "home_team": "UD Almería",
+          "away_team": "Villarreal CF",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-01-13",
+          "time": "12:00",
+          "home_team": "Sporting Gijón",
+          "away_team": "CD Mirandés",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-01-13",
+          "time": "12:00",
+          "home_team": "Hércules CF",
+          "away_team": "Racing Santander",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-01-13",
+          "time": "12:00",
+          "home_team": "Real Madrid Castilla",
+          "away_team": "Girona FC",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-01-13",
+          "time": "17:00",
+          "home_team": "SD Huesca",
+          "away_team": "Recreativo Huelva",
+          "result": {
+            "full_time": "3-1"
+          }
+        },
+        {
+          "date": "2024-01-13",
+          "time": "17:00",
+          "home_team": "SD Ponferradina",
+          "away_team": "CD Lugo",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-01-13",
+          "time": "17:00",
+          "home_team": "CE Sabadell",
+          "away_team": "AD Alcorcón",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-01-13",
+          "time": "19:00",
+          "home_team": "Córdoba CF",
+          "away_team": "CD Numancia",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-01-13",
+          "time": "19:00",
+          "home_team": "UD Las Palmas",
+          "away_team": "Real Murcia",
+          "result": {
+            "full_time": "3-2"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 22",
+      "matches": [
+        {
+          "date": "2024-01-19",
+          "time": "18:00",
+          "home_team": "CE Sabadell",
+          "away_team": "Girona FC",
+          "result": {
+            "full_time": "4-1"
+          }
+        },
+        {
+          "date": "2024-01-19",
+          "time": "18:00",
+          "home_team": "CD Guadalajara",
+          "away_team": "AD Alcorcón",
+          "result": {
+            "full_time": "3-0"
+          }
+        },
+        {
+          "date": "2024-01-19",
+          "time": "18:00",
+          "home_team": "UD Las Palmas",
+          "away_team": "Racing Santander",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-01-19",
+          "time": "20:00",
+          "home_team": "Real Madrid Castilla",
+          "away_team": "Villarreal CF",
+          "result": {
+            "full_time": "5-0"
+          }
+        },
+        {
+          "date": "2024-01-20",
+          "time": "12:00",
+          "home_team": "Hércules CF",
+          "away_team": "CD Lugo",
+          "result": {
+            "full_time": "3-0"
+          }
+        },
+        {
+          "date": "2024-01-20",
+          "time": "12:00",
+          "home_team": "Córdoba CF",
+          "away_team": "Real Murcia",
+          "result": {
+            "full_time": "5-0"
+          }
+        },
+        {
+          "date": "2024-01-20",
+          "time": "12:00",
+          "home_team": "Sporting Gijón",
+          "away_team": "CD Numancia",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-01-20",
+          "time": "12:00",
+          "home_team": "Recreativo Huelva",
+          "away_team": "Xerez CD",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-01-20",
+          "time": "17:00",
+          "home_team": "UD Almería",
+          "away_team": "FC Barcelona B",
+          "result": {
+            "full_time": "2-2"
+          }
+        },
+        {
+          "date": "2024-01-20",
+          "time": "17:00",
+          "home_team": "SD Huesca",
+          "away_team": "CD Mirandés",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-01-20",
+          "time": "19:00",
+          "home_team": "SD Ponferradina",
+          "away_team": "Elche CF",
+          "result": {
+            "full_time": "1-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 23",
+      "matches": [
+        {
+          "date": "2024-01-25",
+          "time": "21:00",
+          "home_team": "Villarreal CF",
+          "away_team": "CE Sabadell",
+          "result": {
+            "full_time": "3-0"
+          }
+        },
+        {
+          "date": "2024-01-26",
+          "time": "16:00",
+          "home_team": "Girona FC",
+          "away_team": "CD Guadalajara",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-01-26",
+          "time": "18:00",
+          "home_team": "CD Lugo",
+          "away_team": "UD Las Palmas",
+          "result": {
+            "full_time": "3-1"
+          }
+        },
+        {
+          "date": "2024-01-26",
+          "time": "18:00",
+          "home_team": "Racing Santander",
+          "away_team": "Córdoba CF",
+          "result": {
+            "full_time": "1-3"
+          }
+        },
+        {
+          "date": "2024-01-26",
+          "time": "18:00",
+          "home_team": "Real Murcia",
+          "away_team": "Sporting Gijón",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-01-26",
+          "time": "20:00",
+          "home_team": "Elche CF",
+          "away_team": "Hércules CF",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-01-27",
+          "time": "17:00",
+          "home_team": "Xerez CD",
+          "away_team": "UD Almería",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-01-27",
+          "time": "17:00",
+          "home_team": "FC Barcelona B",
+          "away_team": "Real Madrid Castilla",
+          "result": {
+            "full_time": "3-1"
+          }
+        },
+        {
+          "date": "2024-01-27",
+          "time": "17:00",
+          "home_team": "AD Alcorcón",
+          "away_team": "SD Ponferradina",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-01-27",
+          "time": "17:00",
+          "home_team": "CD Numancia",
+          "away_team": "SD Huesca",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-01-27",
+          "time": "17:00",
+          "home_team": "CD Mirandés",
+          "away_team": "Recreativo Huelva",
+          "result": {
+            "full_time": "2-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 24",
+      "matches": [
+        {
+          "date": "2024-01-27",
+          "time": "18:00",
+          "home_team": "CE Sabadell",
+          "away_team": "FC Barcelona B",
+          "result": {
+            "full_time": "3-2"
+          }
+        },
+        {
+          "date": "2024-01-27",
+          "time": "18:00",
+          "home_team": "CD Guadalajara",
+          "away_team": "Villarreal CF",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-01-27",
+          "time": "18:00",
+          "home_team": "UD Las Palmas",
+          "away_team": "Elche CF",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-01-27",
+          "time": "18:00",
+          "home_team": "Sporting Gijón",
+          "away_team": "Racing Santander",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-01-27",
+          "time": "20:00",
+          "home_team": "Hércules CF",
+          "away_team": "AD Alcorcón",
+          "result": {
+            "full_time": "3-0"
+          }
+        },
+        {
+          "date": "2024-01-27",
+          "time": "12:00",
+          "home_team": "SD Ponferradina",
+          "away_team": "Girona FC",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-01-27",
+          "time": "12:00",
+          "home_team": "Recreativo Huelva",
+          "away_team": "CD Numancia",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-01-27",
+          "time": "17:00",
+          "home_team": "Córdoba CF",
+          "away_team": "CD Lugo",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-01-27",
+          "time": "17:00",
+          "home_team": "SD Huesca",
+          "away_team": "Real Murcia",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-01-27",
+          "time": "17:00",
+          "home_team": "CD Mirandés",
+          "away_team": "Xerez CD",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-01-27",
+          "time": "21:00",
+          "home_team": "Real Madrid Castilla",
+          "away_team": "UD Almería",
+          "result": {
+            "full_time": "2-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 25",
+      "matches": [
+        {
+          "date": "2024-01-27",
+          "time": "21:00",
+          "home_team": "UD Almería",
+          "away_team": "CE Sabadell",
+          "result": {
+            "full_time": "5-1"
+          }
+        },
+        {
+          "date": "2024-01-27",
+          "time": "16:00",
+          "home_team": "FC Barcelona B",
+          "away_team": "CD Guadalajara",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-01-27",
+          "time": "18:00",
+          "home_team": "Villarreal CF",
+          "away_team": "SD Ponferradina",
+          "result": {
+            "full_time": "3-0"
+          }
+        },
+        {
+          "date": "2024-01-27",
+          "time": "18:00",
+          "home_team": "Girona FC",
+          "away_team": "Hércules CF",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-01-27",
+          "time": "18:00",
+          "home_team": "CD Lugo",
+          "away_team": "Sporting Gijón",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-01-27",
+          "time": "18:00",
+          "home_team": "Racing Santander",
+          "away_team": "SD Huesca",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-01-27",
+          "time": "18:00",
+          "home_team": "Real Murcia",
+          "away_team": "Recreativo Huelva",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-01-27",
+          "time": "18:00",
+          "home_team": "Xerez CD",
+          "away_team": "Real Madrid Castilla",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-01-27",
+          "time": "20:00",
+          "home_team": "Elche CF",
+          "away_team": "Córdoba CF",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-02-10",
+          "time": "17:00",
+          "home_team": "CD Numancia",
+          "away_team": "CD Mirandés",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-02-10",
+          "time": "20:30",
+          "home_team": "AD Alcorcón",
+          "away_team": "UD Las Palmas",
+          "result": {
+            "full_time": "3-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 26",
+      "matches": [
+        {
+          "date": "2024-02-16",
+          "time": "18:00",
+          "home_team": "CD Guadalajara",
+          "away_team": "UD Almería",
+          "result": {
+            "full_time": "2-2"
+          }
+        },
+        {
+          "date": "2024-02-16",
+          "time": "18:00",
+          "home_team": "SD Ponferradina",
+          "away_team": "FC Barcelona B",
+          "result": {
+            "full_time": "3-2"
+          }
+        },
+        {
+          "date": "2024-02-16",
+          "time": "20:00",
+          "home_team": "CE Sabadell",
+          "away_team": "Real Madrid Castilla",
+          "result": {
+            "full_time": "3-1"
+          }
+        },
+        {
+          "date": "2024-02-17",
+          "time": "12:00",
+          "home_team": "Sporting Gijón",
+          "away_team": "Elche CF",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-02-17",
+          "time": "12:00",
+          "home_team": "Recreativo Huelva",
+          "away_team": "Racing Santander",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-02-17",
+          "time": "17:00",
+          "home_team": "UD Las Palmas",
+          "away_team": "Girona FC",
+          "result": {
+            "full_time": "5-2"
+          }
+        },
+        {
+          "date": "2024-02-17",
+          "time": "17:00",
+          "home_team": "Córdoba CF",
+          "away_team": "AD Alcorcón",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-02-17",
+          "time": "17:00",
+          "home_team": "SD Huesca",
+          "away_team": "CD Lugo",
+          "result": {
+            "full_time": "3-0"
+          }
+        },
+        {
+          "date": "2024-02-17",
+          "time": "17:00",
+          "home_team": "CD Mirandés",
+          "away_team": "Real Murcia",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-02-17",
+          "time": "17:00",
+          "home_team": "CD Numancia",
+          "away_team": "Xerez CD",
+          "result": {
+            "full_time": "3-0"
+          }
+        },
+        {
+          "date": "2024-02-17",
+          "time": "19:00",
+          "home_team": "Hércules CF",
+          "away_team": "Villarreal CF",
+          "result": {
+            "full_time": "1-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 27",
+      "matches": [
+        {
+          "date": "2024-02-23",
+          "time": "18:00",
+          "home_team": "AD Alcorcón",
+          "away_team": "Sporting Gijón",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-02-23",
+          "time": "18:00",
+          "home_team": "CD Lugo",
+          "away_team": "Recreativo Huelva",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-02-23",
+          "time": "18:00",
+          "home_team": "Real Murcia",
+          "away_team": "CD Numancia",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-02-23",
+          "time": "20:00",
+          "home_team": "FC Barcelona B",
+          "away_team": "Hércules CF",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-02-23",
+          "time": "21:00",
+          "home_team": "Racing Santander",
+          "away_team": "CD Mirandés",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-02-24",
+          "time": "12:00",
+          "home_team": "Real Madrid Castilla",
+          "away_team": "CD Guadalajara",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-02-24",
+          "time": "17:00",
+          "home_team": "UD Almería",
+          "away_team": "SD Ponferradina",
+          "result": {
+            "full_time": "4-1"
+          }
+        },
+        {
+          "date": "2024-02-24",
+          "time": "17:00",
+          "home_team": "Girona FC",
+          "away_team": "Córdoba CF",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-02-24",
+          "time": "19:00",
+          "home_team": "Elche CF",
+          "away_team": "SD Huesca",
+          "result": {
+            "full_time": "3-1"
+          }
+        },
+        {
+          "date": "2024-02-24",
+          "time": "20:00",
+          "home_team": "Villarreal CF",
+          "away_team": "UD Las Palmas",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-02-24",
+          "time": "21:00",
+          "home_team": "Xerez CD",
+          "away_team": "CE Sabadell",
+          "result": {
+            "full_time": "0-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 28",
+      "matches": [
+        {
+          "date": "2024-02-24",
+          "time": "20:00",
+          "home_team": "UD Las Palmas",
+          "away_team": "FC Barcelona B",
+          "result": {
+            "full_time": "3-3"
+          }
+        },
+        {
+          "date": "2024-02-24",
+          "time": "21:00",
+          "home_team": "Recreativo Huelva",
+          "away_team": "Elche CF",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-02-24",
+          "time": "12:00",
+          "home_team": "SD Huesca",
+          "away_team": "AD Alcorcón",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-02-24",
+          "time": "16:00",
+          "home_team": "Hércules CF",
+          "away_team": "UD Almería",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-02-24",
+          "time": "17:00",
+          "home_team": "CD Guadalajara",
+          "away_team": "CE Sabadell",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-02-24",
+          "time": "17:00",
+          "home_team": "CD Mirandés",
+          "away_team": "CD Lugo",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-02-24",
+          "time": "17:00",
+          "home_team": "CD Numancia",
+          "away_team": "Racing Santander",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-02-24",
+          "time": "17:00",
+          "home_team": "Real Murcia",
+          "away_team": "Xerez CD",
+          "result": {
+            "full_time": "3-1"
+          }
+        },
+        {
+          "date": "2024-02-24",
+          "time": "18:00",
+          "home_team": "SD Ponferradina",
+          "away_team": "Real Madrid Castilla",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-02-24",
+          "time": "20:00",
+          "home_team": "Sporting Gijón",
+          "away_team": "Girona FC",
+          "result": {
+            "full_time": "4-0"
+          }
+        },
+        {
+          "date": "2024-02-24",
+          "time": "21:00",
+          "home_team": "Córdoba CF",
+          "away_team": "Villarreal CF",
+          "result": {
+            "full_time": "0-2"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 29",
+      "matches": [
+        {
+          "date": "2024-02-24",
+          "time": "18:00",
+          "home_team": "FC Barcelona B",
+          "away_team": "Córdoba CF",
+          "result": {
+            "full_time": "4-3"
+          }
+        },
+        {
+          "date": "2024-02-24",
+          "time": "18:00",
+          "home_team": "Elche CF",
+          "away_team": "CD Mirandés",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-02-24",
+          "time": "18:00",
+          "home_team": "CD Lugo",
+          "away_team": "CD Numancia",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-02-24",
+          "time": "20:00",
+          "home_team": "Xerez CD",
+          "away_team": "CD Guadalajara",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-02-24",
+          "time": "20:00",
+          "home_team": "CE Sabadell",
+          "away_team": "SD Ponferradina",
+          "result": {
+            "full_time": "0-3"
+          }
+        },
+        {
+          "date": "2024-02-24",
+          "time": "20:00",
+          "home_team": "UD Almería",
+          "away_team": "UD Las Palmas",
+          "result": {
+            "full_time": "2-3"
+          }
+        },
+        {
+          "date": "2024-03-10",
+          "time": "12:00",
+          "home_team": "Villarreal CF",
+          "away_team": "Sporting Gijón",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-03-10",
+          "time": "17:00",
+          "home_team": "Girona FC",
+          "away_team": "SD Huesca",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-03-10",
+          "time": "17:00",
+          "home_team": "Racing Santander",
+          "away_team": "Real Murcia",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-03-10",
+          "time": "20:00",
+          "home_team": "AD Alcorcón",
+          "away_team": "Recreativo Huelva",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-03-11",
+          "time": "21:00",
+          "home_team": "Real Madrid Castilla",
+          "away_team": "Hércules CF",
+          "result": {
+            "full_time": "1-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 30",
+      "matches": [
+        {
+          "date": "2024-03-16",
+          "time": "18:00",
+          "home_team": "UD Las Palmas",
+          "away_team": "Real Madrid Castilla",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-03-16",
+          "time": "18:00",
+          "home_team": "Sporting Gijón",
+          "away_team": "FC Barcelona B",
+          "result": {
+            "full_time": "5-2"
+          }
+        },
+        {
+          "date": "2024-03-16",
+          "time": "18:00",
+          "home_team": "Recreativo Huelva",
+          "away_team": "Girona FC",
+          "result": {
+            "full_time": "1-3"
+          }
+        },
+        {
+          "date": "2024-03-16",
+          "time": "20:00",
+          "home_team": "SD Huesca",
+          "away_team": "Villarreal CF",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-03-17",
+          "time": "12:00",
+          "home_team": "Córdoba CF",
+          "away_team": "UD Almería",
+          "result": {
+            "full_time": "4-1"
+          }
+        },
+        {
+          "date": "2024-03-17",
+          "time": "12:00",
+          "home_team": "Real Murcia",
+          "away_team": "CD Lugo",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-03-17",
+          "time": "12:00",
+          "home_team": "Racing Santander",
+          "away_team": "Xerez CD",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-03-17",
+          "time": "17:00",
+          "home_team": "SD Ponferradina",
+          "away_team": "CD Guadalajara",
+          "result": {
+            "full_time": "2-2"
+          }
+        },
+        {
+          "date": "2024-03-17",
+          "time": "17:00",
+          "home_team": "Hércules CF",
+          "away_team": "CE Sabadell",
+          "result": {
+            "full_time": "3-1"
+          }
+        },
+        {
+          "date": "2024-03-17",
+          "time": "19:00",
+          "home_team": "CD Numancia",
+          "away_team": "Elche CF",
+          "result": {
+            "full_time": "3-1"
+          }
+        },
+        {
+          "date": "2024-03-17",
+          "time": "20:00",
+          "home_team": "CD Mirandés",
+          "away_team": "AD Alcorcón",
+          "result": {
+            "full_time": "0-2"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 31",
+      "matches": [
+        {
+          "date": "2024-03-23",
+          "time": "18:00",
+          "home_team": "FC Barcelona B",
+          "away_team": "SD Huesca",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-03-23",
+          "time": "18:00",
+          "home_team": "CD Lugo",
+          "away_team": "Racing Santander",
+          "result": {
+            "full_time": "3-2"
+          }
+        },
+        {
+          "date": "2024-03-23",
+          "time": "20:00",
+          "home_team": "Girona FC",
+          "away_team": "CD Mirandés",
+          "result": {
+            "full_time": "4-0"
+          }
+        },
+        {
+          "date": "2024-03-23",
+          "time": "21:00",
+          "home_team": "Xerez CD",
+          "away_team": "SD Ponferradina",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-03-24",
+          "time": "12:00",
+          "home_team": "Real Madrid Castilla",
+          "away_team": "Córdoba CF",
+          "result": {
+            "full_time": "4-0"
+          }
+        },
+        {
+          "date": "2024-03-24",
+          "time": "17:00",
+          "home_team": "CD Guadalajara",
+          "away_team": "Hércules CF",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-03-24",
+          "time": "17:00",
+          "home_team": "UD Almería",
+          "away_team": "Sporting Gijón",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-03-24",
+          "time": "19:00",
+          "home_team": "CE Sabadell",
+          "away_team": "UD Las Palmas",
+          "result": {
+            "full_time": "0-4"
+          }
+        },
+        {
+          "date": "2024-03-24",
+          "time": "19:00",
+          "home_team": "Villarreal CF",
+          "away_team": "Recreativo Huelva",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-03-24",
+          "time": "20:00",
+          "home_team": "Elche CF",
+          "away_team": "Real Murcia",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-03-24",
+          "time": "21:00",
+          "home_team": "AD Alcorcón",
+          "away_team": "CD Numancia",
+          "result": {
+            "full_time": "1-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 32",
+      "matches": [
+        {
+          "date": "2024-03-30",
+          "time": "18:00",
+          "home_team": "UD Las Palmas",
+          "away_team": "CD Guadalajara",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-03-30",
+          "time": "18:00",
+          "home_team": "Sporting Gijón",
+          "away_team": "Real Madrid Castilla",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-03-30",
+          "time": "18:00",
+          "home_team": "CD Lugo",
+          "away_team": "Xerez CD",
+          "result": {
+            "full_time": "4-0"
+          }
+        },
+        {
+          "date": "2024-03-30",
+          "time": "21:00",
+          "home_team": "Córdoba CF",
+          "away_team": "CE Sabadell",
+          "result": {
+            "full_time": "3-0"
+          }
+        },
+        {
+          "date": "2024-03-31",
+          "time": "12:00",
+          "home_team": "Hércules CF",
+          "away_team": "SD Ponferradina",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-03-31",
+          "time": "12:00",
+          "home_team": "SD Huesca",
+          "away_team": "UD Almería",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-03-31",
+          "time": "12:00",
+          "home_team": "Racing Santander",
+          "away_team": "Elche CF",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-03-31",
+          "time": "17:00",
+          "home_team": "Recreativo Huelva",
+          "away_team": "FC Barcelona B",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-03-31",
+          "time": "17:00",
+          "home_team": "CD Mirandés",
+          "away_team": "Villarreal CF",
+          "result": {
+            "full_time": "1-5"
+          }
+        },
+        {
+          "date": "2024-03-31",
+          "time": "19:00",
+          "home_team": "Real Murcia",
+          "away_team": "AD Alcorcón",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-03-31",
+          "time": "21:00",
+          "home_team": "CD Numancia",
+          "away_team": "Girona FC",
+          "result": {
+            "full_time": "2-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 33",
+      "matches": [
+        {
+          "date": "2024-03-31",
+          "time": "18:00",
+          "home_team": "SD Ponferradina",
+          "away_team": "UD Las Palmas",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-03-31",
+          "time": "18:00",
+          "home_team": "FC Barcelona B",
+          "away_team": "CD Mirandés",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-03-31",
+          "time": "20:00",
+          "home_team": "Elche CF",
+          "away_team": "CD Lugo",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-03-31",
+          "time": "21:00",
+          "home_team": "AD Alcorcón",
+          "away_team": "Racing Santander",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-03-31",
+          "time": "17:00",
+          "home_team": "Xerez CD",
+          "away_team": "Hércules CF",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-03-31",
+          "time": "17:00",
+          "home_team": "CD Guadalajara",
+          "away_team": "Córdoba CF",
+          "result": {
+            "full_time": "3-1"
+          }
+        },
+        {
+          "date": "2024-03-31",
+          "time": "17:00",
+          "home_team": "Villarreal CF",
+          "away_team": "CD Numancia",
+          "result": {
+            "full_time": "6-1"
+          }
+        },
+        {
+          "date": "2024-03-31",
+          "time": "17:00",
+          "home_team": "Girona FC",
+          "away_team": "Real Murcia",
+          "result": {
+            "full_time": "5-2"
+          }
+        },
+        {
+          "date": "2024-03-31",
+          "time": "19:00",
+          "home_team": "UD Almería",
+          "away_team": "Recreativo Huelva",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-03-31",
+          "time": "20:00",
+          "home_team": "CE Sabadell",
+          "away_team": "Sporting Gijón",
+          "result": {
+            "full_time": "4-3"
+          }
+        },
+        {
+          "date": "2024-03-31",
+          "time": "21:00",
+          "home_team": "Real Madrid Castilla",
+          "away_team": "SD Huesca",
+          "result": {
+            "full_time": "5-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 34",
+      "matches": [
+        {
+          "date": "2024-04-13",
+          "time": "18:00",
+          "home_team": "UD Las Palmas",
+          "away_team": "Hércules CF",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-04-13",
+          "time": "18:00",
+          "home_team": "Sporting Gijón",
+          "away_team": "CD Guadalajara",
+          "result": {
+            "full_time": "3-0"
+          }
+        },
+        {
+          "date": "2024-04-13",
+          "time": "18:00",
+          "home_team": "CD Mirandés",
+          "away_team": "UD Almería",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-04-13",
+          "time": "18:00",
+          "home_team": "Racing Santander",
+          "away_team": "Girona FC",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-04-13",
+          "time": "18:00",
+          "home_team": "CD Lugo",
+          "away_team": "AD Alcorcón",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-04-13",
+          "time": "20:00",
+          "home_team": "Recreativo Huelva",
+          "away_team": "Real Madrid Castilla",
+          "result": {
+            "full_time": "1-3"
+          }
+        },
+        {
+          "date": "2024-04-13",
+          "time": "21:00",
+          "home_team": "CD Numancia",
+          "away_team": "FC Barcelona B",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-04-14",
+          "time": "12:00",
+          "home_team": "Córdoba CF",
+          "away_team": "SD Ponferradina",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-04-14",
+          "time": "12:00",
+          "home_team": "Real Murcia",
+          "away_team": "Villarreal CF",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-04-14",
+          "time": "17:00",
+          "home_team": "Elche CF",
+          "away_team": "Xerez CD",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-04-14",
+          "time": "21:00",
+          "home_team": "SD Huesca",
+          "away_team": "CE Sabadell",
+          "result": {
+            "full_time": "4-3"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 35",
+      "matches": [
+        {
+          "date": "2024-04-19",
+          "time": "21:00",
+          "home_team": "CE Sabadell",
+          "away_team": "Recreativo Huelva",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-04-20",
+          "time": "17:00",
+          "home_team": "Girona FC",
+          "away_team": "CD Lugo",
+          "result": {
+            "full_time": "4-0"
+          }
+        },
+        {
+          "date": "2024-04-20",
+          "time": "18:00",
+          "home_team": "Xerez CD",
+          "away_team": "UD Las Palmas",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-04-20",
+          "time": "18:00",
+          "home_team": "SD Ponferradina",
+          "away_team": "Sporting Gijón",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-04-20",
+          "time": "21:00",
+          "home_team": "CD Guadalajara",
+          "away_team": "SD Huesca",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-04-21",
+          "time": "12:00",
+          "home_team": "AD Alcorcón",
+          "away_team": "Elche CF",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-04-21",
+          "time": "17:00",
+          "home_team": "Hércules CF",
+          "away_team": "Córdoba CF",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-04-21",
+          "time": "17:00",
+          "home_team": "UD Almería",
+          "away_team": "CD Numancia",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-04-21",
+          "time": "17:00",
+          "home_team": "FC Barcelona B",
+          "away_team": "Real Murcia",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-04-21",
+          "time": "19:00",
+          "home_team": "Villarreal CF",
+          "away_team": "Racing Santander",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-04-21",
+          "time": "21:00",
+          "home_team": "Real Madrid Castilla",
+          "away_team": "CD Mirandés",
+          "result": {
+            "full_time": "6-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 36",
+      "matches": [
+        {
+          "date": "2024-04-26",
+          "time": "21:00",
+          "home_team": "CD Mirandés",
+          "away_team": "CE Sabadell",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-04-26",
+          "time": "21:00",
+          "home_team": "Racing Santander",
+          "away_team": "FC Barcelona B",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-04-27",
+          "time": "17:00",
+          "home_team": "CD Lugo",
+          "away_team": "Villarreal CF",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-04-27",
+          "time": "18:00",
+          "home_team": "Córdoba CF",
+          "away_team": "UD Las Palmas",
+          "result": {
+            "full_time": "5-1"
+          }
+        },
+        {
+          "date": "2024-04-27",
+          "time": "18:00",
+          "home_team": "Sporting Gijón",
+          "away_team": "Hércules CF",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-04-27",
+          "time": "18:00",
+          "home_team": "AD Alcorcón",
+          "away_team": "Xerez CD",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-04-27",
+          "time": "21:00",
+          "home_team": "SD Huesca",
+          "away_team": "SD Ponferradina",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-04-28",
+          "time": "12:00",
+          "home_team": "Elche CF",
+          "away_team": "Girona FC",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-04-28",
+          "time": "17:00",
+          "home_team": "Real Murcia",
+          "away_team": "UD Almería",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-04-28",
+          "time": "19:00",
+          "home_team": "Recreativo Huelva",
+          "away_team": "CD Guadalajara",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-04-28",
+          "time": "21:00",
+          "home_team": "CD Numancia",
+          "away_team": "Real Madrid Castilla",
+          "result": {
+            "full_time": "3-3"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 37",
+      "matches": [
+        {
+          "date": "2024-04-28",
+          "time": "21:00",
+          "home_team": "Xerez CD",
+          "away_team": "Córdoba CF",
+          "result": {
+            "full_time": "1-3"
+          }
+        },
+        {
+          "date": "2024-04-28",
+          "time": "18:00",
+          "home_team": "UD Las Palmas",
+          "away_team": "Sporting Gijón",
+          "result": {
+            "full_time": "4-2"
+          }
+        },
+        {
+          "date": "2024-04-28",
+          "time": "18:00",
+          "home_team": "FC Barcelona B",
+          "away_team": "CD Lugo",
+          "result": {
+            "full_time": "2-2"
+          }
+        },
+        {
+          "date": "2024-04-28",
+          "time": "20:00",
+          "home_team": "SD Ponferradina",
+          "away_team": "Recreativo Huelva",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-04-28",
+          "time": "20:00",
+          "home_team": "Girona FC",
+          "away_team": "AD Alcorcón",
+          "result": {
+            "full_time": "3-2"
+          }
+        },
+        {
+          "date": "2024-04-28",
+          "time": "21:00",
+          "home_team": "CD Guadalajara",
+          "away_team": "CD Mirandés",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-04-28",
+          "time": "12:00",
+          "home_team": "Hércules CF",
+          "away_team": "SD Huesca",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-04-28",
+          "time": "12:00",
+          "home_team": "Villarreal CF",
+          "away_team": "Elche CF",
+          "result": {
+            "full_time": "2-3"
+          }
+        },
+        {
+          "date": "2024-04-28",
+          "time": "17:00",
+          "home_team": "Real Madrid Castilla",
+          "away_team": "Real Murcia",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-04-28",
+          "time": "19:00",
+          "home_team": "UD Almería",
+          "away_team": "Racing Santander",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-04-28",
+          "time": "21:00",
+          "home_team": "CE Sabadell",
+          "away_team": "CD Numancia",
+          "result": {
+            "full_time": "2-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 38",
+      "matches": [
+        {
+          "date": "2024-05-10",
+          "time": "21:00",
+          "home_team": "Elche CF",
+          "away_team": "FC Barcelona B",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-05-11",
+          "time": "18:00",
+          "home_team": "Sporting Gijón",
+          "away_team": "Córdoba CF",
+          "result": {
+            "full_time": "3-0"
+          }
+        },
+        {
+          "date": "2024-05-11",
+          "time": "18:00",
+          "home_team": "CD Numancia",
+          "away_team": "CD Guadalajara",
+          "result": {
+            "full_time": "2-2"
+          }
+        },
+        {
+          "date": "2024-05-11",
+          "time": "18:00",
+          "home_team": "CD Lugo",
+          "away_team": "UD Almería",
+          "result": {
+            "full_time": "3-5"
+          }
+        },
+        {
+          "date": "2024-05-11",
+          "time": "18:00",
+          "home_team": "Girona FC",
+          "away_team": "Xerez CD",
+          "result": {
+            "full_time": "2-4"
+          }
+        },
+        {
+          "date": "2024-05-11",
+          "time": "20:00",
+          "home_team": "SD Huesca",
+          "away_team": "UD Las Palmas",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-05-11",
+          "time": "20:00",
+          "home_team": "Real Murcia",
+          "away_team": "CE Sabadell",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-05-11",
+          "time": "21:00",
+          "home_team": "CD Mirandés",
+          "away_team": "SD Ponferradina",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-05-12",
+          "time": "12:00",
+          "home_team": "AD Alcorcón",
+          "away_team": "Villarreal CF",
+          "result": {
+            "full_time": "1-3"
+          }
+        },
+        {
+          "date": "2024-05-12",
+          "time": "17:00",
+          "home_team": "Racing Santander",
+          "away_team": "Real Madrid Castilla",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-05-13",
+          "time": "21:00",
+          "home_team": "Recreativo Huelva",
+          "away_team": "Hércules CF",
+          "result": {
+            "full_time": "0-2"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 39",
+      "matches": [
+        {
+          "date": "2024-05-18",
+          "time": "18:00",
+          "home_team": "Xerez CD",
+          "away_team": "Sporting Gijón",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-05-18",
+          "time": "18:00",
+          "home_team": "UD Las Palmas",
+          "away_team": "Recreativo Huelva",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-05-18",
+          "time": "18:00",
+          "home_team": "Real Madrid Castilla",
+          "away_team": "CD Lugo",
+          "result": {
+            "full_time": "3-1"
+          }
+        },
+        {
+          "date": "2024-05-18",
+          "time": "18:00",
+          "home_team": "FC Barcelona B",
+          "away_team": "AD Alcorcón",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-05-18",
+          "time": "20:00",
+          "home_team": "SD Ponferradina",
+          "away_team": "CD Numancia",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-05-18",
+          "time": "20:00",
+          "home_team": "Villarreal CF",
+          "away_team": "Girona FC",
+          "result": {
+            "full_time": "4-1"
+          }
+        },
+        {
+          "date": "2024-05-18",
+          "time": "22:00",
+          "home_team": "Córdoba CF",
+          "away_team": "SD Huesca",
+          "result": {
+            "full_time": "2-2"
+          }
+        },
+        {
+          "date": "2024-05-19",
+          "time": "12:00",
+          "home_team": "UD Almería",
+          "away_team": "Elche CF",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-05-19",
+          "time": "17:00",
+          "home_team": "Hércules CF",
+          "away_team": "CD Mirandés",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-05-19",
+          "time": "21:00",
+          "home_team": "CE Sabadell",
+          "away_team": "Racing Santander",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-05-20",
+          "time": "21:00",
+          "home_team": "CD Guadalajara",
+          "away_team": "Real Murcia",
+          "result": {
+            "full_time": "3-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 40",
+      "matches": [
+        {
+          "date": "2024-05-25",
+          "time": "16:00",
+          "home_team": "SD Huesca",
+          "away_team": "Sporting Gijón",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-05-25",
+          "time": "16:00",
+          "home_team": "CD Mirandés",
+          "away_team": "UD Las Palmas",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-05-25",
+          "time": "16:00",
+          "home_team": "AD Alcorcón",
+          "away_team": "UD Almería",
+          "result": {
+            "full_time": "0-3"
+          }
+        },
+        {
+          "date": "2024-05-26",
+          "time": "12:00",
+          "home_team": "Recreativo Huelva",
+          "away_team": "Córdoba CF",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-05-26",
+          "time": "12:00",
+          "home_team": "Girona FC",
+          "away_team": "FC Barcelona B",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-05-26",
+          "time": "17:00",
+          "home_team": "Real Murcia",
+          "away_team": "SD Ponferradina",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-05-26",
+          "time": "17:00",
+          "home_team": "Elche CF",
+          "away_team": "Real Madrid Castilla",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-05-26",
+          "time": "18:00",
+          "home_team": "CD Lugo",
+          "away_team": "CE Sabadell",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-05-26",
+          "time": "19:00",
+          "home_team": "Racing Santander",
+          "away_team": "CD Guadalajara",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-05-26",
+          "time": "21:00",
+          "home_team": "CD Numancia",
+          "away_team": "Hércules CF",
+          "result": {
+            "full_time": "3-2"
+          }
+        },
+        {
+          "date": "2024-05-27",
+          "time": "21:00",
+          "home_team": "Villarreal CF",
+          "away_team": "Xerez CD",
+          "result": {
+            "full_time": "3-2"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 41",
+      "matches": [
+        {
+          "date": "2024-05-27",
+          "time": "21:00",
+          "home_team": "CE Sabadell",
+          "away_team": "Elche CF",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-05-27",
+          "time": "18:00",
+          "home_team": "SD Huesca",
+          "away_team": "Xerez CD",
+          "result": {
+            "full_time": "3-1"
+          }
+        },
+        {
+          "date": "2024-05-27",
+          "time": "18:00",
+          "home_team": "Sporting Gijón",
+          "away_team": "Recreativo Huelva",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-05-27",
+          "time": "18:00",
+          "home_team": "Córdoba CF",
+          "away_team": "CD Mirandés",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-05-27",
+          "time": "18:00",
+          "home_team": "UD Las Palmas",
+          "away_team": "CD Numancia",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-05-27",
+          "time": "18:00",
+          "home_team": "Hércules CF",
+          "away_team": "Real Murcia",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-05-27",
+          "time": "18:00",
+          "home_team": "SD Ponferradina",
+          "away_team": "Racing Santander",
+          "result": {
+            "full_time": "2-2"
+          }
+        },
+        {
+          "date": "2024-05-27",
+          "time": "18:00",
+          "home_team": "CD Guadalajara",
+          "away_team": "CD Lugo",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-05-27",
+          "time": "18:00",
+          "home_team": "Real Madrid Castilla",
+          "away_team": "AD Alcorcón",
+          "result": {
+            "full_time": "4-0"
+          }
+        },
+        {
+          "date": "2024-05-27",
+          "time": "18:00",
+          "home_team": "UD Almería",
+          "away_team": "Girona FC",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-05-27",
+          "time": "18:00",
+          "home_team": "FC Barcelona B",
+          "away_team": "Villarreal CF",
+          "result": {
+            "full_time": "0-3"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 42",
+      "matches": [
+        {
+          "date": "2024-05-27",
+          "time": "19:00",
+          "home_team": "Recreativo Huelva",
+          "away_team": "SD Huesca",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-05-27",
+          "time": "19:00",
+          "home_team": "CD Mirandés",
+          "away_team": "Sporting Gijón",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-05-27",
+          "time": "19:00",
+          "home_team": "Real Murcia",
+          "away_team": "UD Las Palmas",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-05-27",
+          "time": "19:00",
+          "home_team": "Racing Santander",
+          "away_team": "Hércules CF",
+          "result": {
+            "full_time": "3-0"
+          }
+        },
+        {
+          "date": "2024-05-27",
+          "time": "19:00",
+          "home_team": "CD Lugo",
+          "away_team": "SD Ponferradina",
+          "result": {
+            "full_time": "2-2"
+          }
+        },
+        {
+          "date": "2024-05-27",
+          "time": "19:00",
+          "home_team": "Elche CF",
+          "away_team": "CD Guadalajara",
+          "result": {
+            "full_time": "3-1"
+          }
+        },
+        {
+          "date": "2024-05-27",
+          "time": "19:00",
+          "home_team": "AD Alcorcón",
+          "away_team": "CE Sabadell",
+          "result": {
+            "full_time": "4-0"
+          }
+        },
+        {
+          "date": "2024-05-27",
+          "time": "19:00",
+          "home_team": "Girona FC",
+          "away_team": "Real Madrid Castilla",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-05-27",
+          "time": "19:00",
+          "home_team": "Villarreal CF",
+          "away_team": "UD Almería",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-05-27",
+          "time": "19:00",
+          "home_team": "Xerez CD",
+          "away_team": "FC Barcelona B",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-05-27",
+          "time": "19:00",
+          "home_team": "CD Numancia",
+          "away_team": "Córdoba CF",
+          "result": {
+            "full_time": "1-0"
+          }
+        }
+      ]
+    }
+  ]
+}

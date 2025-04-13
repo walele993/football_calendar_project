@@ -1,0 +1,867 @@
+{
+  "league": "English EFL Cup",
+  "season": "2019/20",
+  "matchdays": [
+    {
+      "matchday": "Round 1",
+      "matches": [
+        {
+          "date": "2024-08-13",
+          "time": "19:45",
+          "home_team": "Sheffield Wednesday",
+          "away_team": "Bury FC",
+          "result": "cancelled"
+        },
+        {
+          "date": "2024-08-13",
+          "time": "19:45",
+          "home_team": "Tranmere Rovers",
+          "away_team": "Hull City",
+          "result": {
+            "full_time": "0-3"
+          }
+        },
+        {
+          "date": "2024-08-13",
+          "time": "19:45",
+          "home_team": "Grimsby Town",
+          "away_team": "Doncaster Rovers",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-08-13",
+          "time": "19:45",
+          "home_team": "Wigan Athletic",
+          "away_team": "Stoke City",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-08-13",
+          "time": "19:45",
+          "home_team": "Port Vale FC",
+          "away_team": "Burton Albion",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-08-13",
+          "time": "19:45",
+          "home_team": "Nottingham Forest",
+          "away_team": "Fleetwood Town",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-08-13",
+          "time": "19:45",
+          "home_team": "Bradford City",
+          "away_team": "Preston North End",
+          "result": {
+            "full_time": "0-4"
+          }
+        },
+        {
+          "date": "2024-08-13",
+          "time": "19:45",
+          "home_team": "Blackpool FC",
+          "away_team": "Macclesfield Town",
+          "result": {
+            "full_time": "2-4"
+          }
+        },
+        {
+          "date": "2024-08-13",
+          "time": "19:45",
+          "home_team": "Blackburn Rovers",
+          "away_team": "Oldham Athletic",
+          "result": {
+            "full_time": "3-2"
+          }
+        },
+        {
+          "date": "2024-08-13",
+          "time": "19:45",
+          "home_team": "Mansfield Town",
+          "away_team": "Morecambe FC",
+          "result": {
+            "full_time": "5-6"
+          }
+        },
+        {
+          "date": "2024-08-13",
+          "time": "19:45",
+          "home_team": "Accrington Stanley",
+          "away_team": "Sunderland AFC",
+          "result": {
+            "full_time": "1-3"
+          }
+        },
+        {
+          "date": "2024-08-13",
+          "time": "19:45",
+          "home_team": "Scunthorpe United",
+          "away_team": "Derby County",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-08-13",
+          "time": "19:45",
+          "home_team": "Rochdale AFC",
+          "away_team": "Bolton Wanderers",
+          "result": {
+            "full_time": "5-2"
+          }
+        },
+        {
+          "date": "2024-08-13",
+          "time": "19:45",
+          "home_team": "Huddersfield Town",
+          "away_team": "Lincoln City",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-08-13",
+          "time": "19:45",
+          "home_team": "Middlesbrough FC",
+          "away_team": "Crewe Alexandra",
+          "result": {
+            "full_time": "2-4"
+          }
+        },
+        {
+          "date": "2024-08-13",
+          "time": "19:45",
+          "home_team": "Shrewsbury Town",
+          "away_team": "Rotherham United",
+          "result": {
+            "full_time": "0-4"
+          }
+        },
+        {
+          "date": "2024-08-13",
+          "time": "19:45",
+          "home_team": "Salford City",
+          "away_team": "Leeds United",
+          "result": {
+            "full_time": "0-3"
+          }
+        },
+        {
+          "date": "2024-08-13",
+          "time": "19:45",
+          "home_team": "Barnsley FC",
+          "away_team": "Carlisle United",
+          "result": {
+            "full_time": "0-3"
+          }
+        },
+        {
+          "date": "2024-08-13",
+          "time": "19:45",
+          "home_team": "Colchester United",
+          "away_team": "Swindon Town",
+          "result": {
+            "full_time": "3-0"
+          }
+        },
+        {
+          "date": "2024-08-13",
+          "time": "19:45",
+          "home_team": "AFC Wimbledon",
+          "away_team": "Milton Keynes Dons",
+          "result": {
+            "full_time": "2-4"
+          }
+        },
+        {
+          "date": "2024-08-13",
+          "time": "19:45",
+          "home_team": "Oxford United",
+          "away_team": "Peterborough United",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-08-13",
+          "time": "19:45",
+          "home_team": "Queens Park Rangers",
+          "away_team": "Bristol City",
+          "result": {
+            "full_time": "5-4"
+          }
+        },
+        {
+          "date": "2024-08-13",
+          "time": "19:45",
+          "home_team": "Plymouth Argyle",
+          "away_team": "Leyton Orient",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-08-13",
+          "time": "19:45",
+          "home_team": "Wycombe Wanderers",
+          "away_team": "Reading FC",
+          "result": {
+            "full_time": "2-4"
+          }
+        },
+        {
+          "date": "2024-08-13",
+          "time": "19:45",
+          "home_team": "Charlton Athletic",
+          "away_team": "Forest Green Rovers",
+          "result": {
+            "full_time": "3-5"
+          }
+        },
+        {
+          "date": "2024-08-13",
+          "time": "19:45",
+          "home_team": "Gillingham FC",
+          "away_team": "Newport County",
+          "result": {
+            "full_time": "1-4"
+          }
+        },
+        {
+          "date": "2024-08-13",
+          "time": "19:45",
+          "home_team": "Stevenage FC",
+          "away_team": "Southend United",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-08-13",
+          "time": "19:45",
+          "home_team": "Luton Town",
+          "away_team": "Ipswich Town",
+          "result": {
+            "full_time": "3-1"
+          }
+        },
+        {
+          "date": "2024-08-13",
+          "time": "19:45",
+          "home_team": "Walsall FC",
+          "away_team": "Crawley Town",
+          "result": {
+            "full_time": "2-3"
+          }
+        },
+        {
+          "date": "2024-08-13",
+          "time": "19:45",
+          "home_team": "Bristol Rovers",
+          "away_team": "Cheltenham Town",
+          "result": {
+            "full_time": "3-0"
+          }
+        },
+        {
+          "date": "2024-08-13",
+          "time": "19:45",
+          "home_team": "Brentford FC",
+          "away_team": "Cambridge United",
+          "result": {
+            "full_time": "4-5"
+          }
+        },
+        {
+          "date": "2024-08-13",
+          "time": "19:45",
+          "home_team": "Coventry City",
+          "away_team": "Exeter City",
+          "result": {
+            "full_time": "4-1"
+          }
+        },
+        {
+          "date": "2024-08-13",
+          "time": "19:45",
+          "home_team": "Swansea City",
+          "away_team": "Northampton Town",
+          "result": {
+            "full_time": "3-1"
+          }
+        },
+        {
+          "date": "2024-08-13",
+          "time": "20:00",
+          "home_team": "West Bromwich Albion",
+          "away_team": "Millwall FC",
+          "result": {
+            "full_time": "1-2"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Round 2",
+      "matches": [
+        {
+          "date": "2024-08-27",
+          "time": "19:45",
+          "home_team": "Plymouth Argyle",
+          "away_team": "Reading FC",
+          "result": {
+            "full_time": "2-4"
+          }
+        },
+        {
+          "date": "2024-08-27",
+          "time": "19:45",
+          "home_team": "Crawley Town",
+          "away_team": "Norwich City",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-08-27",
+          "time": "19:45",
+          "home_team": "Newport County",
+          "away_team": "West Ham United",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-08-27",
+          "time": "19:45",
+          "home_team": "Oxford United",
+          "away_team": "Millwall FC",
+          "result": {
+            "full_time": "4-2"
+          }
+        },
+        {
+          "date": "2024-08-27",
+          "time": "19:45",
+          "home_team": "Watford FC",
+          "away_team": "Coventry City",
+          "result": {
+            "full_time": "3-0"
+          }
+        },
+        {
+          "date": "2024-08-27",
+          "time": "19:45",
+          "home_team": "Cardiff City",
+          "away_team": "Luton Town",
+          "result": {
+            "full_time": "0-3"
+          }
+        },
+        {
+          "date": "2024-08-27",
+          "time": "19:45",
+          "home_team": "Bristol Rovers",
+          "away_team": "Brighton & Hove Albion",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-08-27",
+          "time": "19:45",
+          "home_team": "Crystal Palace",
+          "away_team": "Colchester United",
+          "result": {
+            "full_time": "4-5"
+          }
+        },
+        {
+          "date": "2024-08-27",
+          "time": "19:45",
+          "home_team": "Fulham FC",
+          "away_team": "Southampton FC",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-08-27",
+          "time": "19:45",
+          "home_team": "Southend United",
+          "away_team": "Milton Keynes Dons",
+          "result": {
+            "full_time": "1-4"
+          }
+        },
+        {
+          "date": "2024-08-27",
+          "time": "19:45",
+          "home_team": "Crewe Alexandra",
+          "away_team": "Aston Villa",
+          "result": {
+            "full_time": "1-6"
+          }
+        },
+        {
+          "date": "2024-08-27",
+          "time": "19:45",
+          "home_team": "Leeds United",
+          "away_team": "Stoke City",
+          "result": {
+            "full_time": "4-5"
+          }
+        },
+        {
+          "date": "2024-08-27",
+          "time": "19:45",
+          "home_team": "Sheffield United",
+          "away_team": "Blackburn Rovers",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-08-27",
+          "time": "19:45",
+          "home_team": "Burton Albion",
+          "away_team": "Morecambe FC",
+          "result": {
+            "full_time": "4-0"
+          }
+        },
+        {
+          "date": "2024-08-27",
+          "time": "19:45",
+          "home_team": "Nottingham Forest",
+          "away_team": "Derby County",
+          "result": {
+            "full_time": "3-0"
+          }
+        },
+        {
+          "date": "2024-08-27",
+          "time": "19:45",
+          "home_team": "Preston North End",
+          "away_team": "Hull City",
+          "result": {
+            "full_time": "5-4"
+          }
+        },
+        {
+          "date": "2024-08-27",
+          "time": "19:45",
+          "home_team": "Rochdale AFC",
+          "away_team": "Carlisle United",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-08-28",
+          "time": "19:45",
+          "home_team": "Swansea City",
+          "away_team": "Cambridge United",
+          "result": {
+            "full_time": "6-0"
+          }
+        },
+        {
+          "date": "2024-08-28",
+          "time": "19:45",
+          "home_team": "AFC Bournemouth",
+          "away_team": "Forest Green Rovers",
+          "result": {
+            "full_time": "3-0"
+          }
+        },
+        {
+          "date": "2024-08-28",
+          "time": "19:45",
+          "home_team": "Queens Park Rangers",
+          "away_team": "Portsmouth FC",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-08-28",
+          "time": "19:45",
+          "home_team": "Lincoln City",
+          "away_team": "Everton FC",
+          "result": {
+            "full_time": "2-4"
+          }
+        },
+        {
+          "date": "2024-08-28",
+          "time": "19:45",
+          "home_team": "Rotherham United",
+          "away_team": "Sheffield Wednesday",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-08-28",
+          "time": "19:45",
+          "home_team": "Newcastle United",
+          "away_team": "Leicester City",
+          "result": {
+            "full_time": "2-4"
+          }
+        },
+        {
+          "date": "2024-08-28",
+          "time": "19:45",
+          "home_team": "Burnley FC",
+          "away_team": "Sunderland AFC",
+          "result": {
+            "full_time": "1-3"
+          }
+        },
+        {
+          "date": "2024-09-10",
+          "time": "19:45",
+          "home_team": "Grimsby Town",
+          "away_team": "Macclesfield Town",
+          "result": {
+            "full_time": "5-4"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Round 3",
+      "matches": [
+        {
+          "date": "2024-09-24",
+          "time": "19:45",
+          "home_team": "Watford FC",
+          "away_team": "Swansea City",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-09-24",
+          "time": "19:45",
+          "home_team": "Colchester United",
+          "away_team": "Tottenham Hotspur",
+          "result": {
+            "full_time": "4-3"
+          }
+        },
+        {
+          "date": "2024-09-24",
+          "time": "19:45",
+          "home_team": "Preston North End",
+          "away_team": "Manchester City",
+          "result": {
+            "full_time": "0-3"
+          }
+        },
+        {
+          "date": "2024-09-24",
+          "time": "19:45",
+          "home_team": "Luton Town",
+          "away_team": "Leicester City",
+          "result": {
+            "full_time": "0-4"
+          }
+        },
+        {
+          "date": "2024-09-24",
+          "time": "19:45",
+          "home_team": "Portsmouth FC",
+          "away_team": "Southampton FC",
+          "result": {
+            "full_time": "0-4"
+          }
+        },
+        {
+          "date": "2024-09-24",
+          "time": "19:45",
+          "home_team": "Sheffield Wednesday",
+          "away_team": "Everton FC",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-09-24",
+          "time": "19:45",
+          "home_team": "Crawley Town",
+          "away_team": "Stoke City",
+          "result": {
+            "full_time": "5-3"
+          }
+        },
+        {
+          "date": "2024-09-24",
+          "time": "20:00",
+          "home_team": "Arsenal FC",
+          "away_team": "Nottingham Forest",
+          "result": {
+            "full_time": "5-0"
+          }
+        },
+        {
+          "date": "2024-09-25",
+          "time": "19:45",
+          "home_team": "Wolverhampton Wanderers",
+          "away_team": "Reading FC",
+          "result": {
+            "full_time": "4-2"
+          }
+        },
+        {
+          "date": "2024-09-25",
+          "time": "19:45",
+          "home_team": "Oxford United",
+          "away_team": "West Ham United",
+          "result": {
+            "full_time": "4-0"
+          }
+        },
+        {
+          "date": "2024-09-25",
+          "time": "19:45",
+          "home_team": "Brighton & Hove Albion",
+          "away_team": "Aston Villa",
+          "result": {
+            "full_time": "1-3"
+          }
+        },
+        {
+          "date": "2024-09-25",
+          "time": "19:45",
+          "home_team": "Sheffield United",
+          "away_team": "Sunderland AFC",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-09-25",
+          "time": "19:45",
+          "home_team": "Burton Albion",
+          "away_team": "AFC Bournemouth",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-09-25",
+          "time": "19:45",
+          "home_team": "Milton Keynes Dons",
+          "away_team": "Liverpool FC",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-09-25",
+          "time": "19:45",
+          "home_team": "Chelsea FC",
+          "away_team": "Grimsby Town",
+          "result": {
+            "full_time": "7-1"
+          }
+        },
+        {
+          "date": "2024-09-25",
+          "time": "20:00",
+          "home_team": "Manchester United",
+          "away_team": "Rochdale AFC",
+          "result": {
+            "full_time": "5-3"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Round of 16",
+      "matches": [
+        {
+          "date": "2024-10-29",
+          "time": "19:45",
+          "home_team": "Everton FC",
+          "away_team": "Watford FC",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-10-29",
+          "time": "19:45",
+          "home_team": "Manchester City",
+          "away_team": "Southampton FC",
+          "result": {
+            "full_time": "3-1"
+          }
+        },
+        {
+          "date": "2024-10-29",
+          "time": "19:45",
+          "home_team": "Burton Albion",
+          "away_team": "Leicester City",
+          "result": {
+            "full_time": "1-3"
+          }
+        },
+        {
+          "date": "2024-10-29",
+          "time": "19:45",
+          "home_team": "Crawley Town",
+          "away_team": "Colchester United",
+          "result": {
+            "full_time": "1-3"
+          }
+        },
+        {
+          "date": "2024-10-29",
+          "time": "19:45",
+          "home_team": "Oxford United",
+          "away_team": "Sunderland AFC",
+          "result": {
+            "full_time": "4-2"
+          }
+        },
+        {
+          "date": "2024-10-30",
+          "time": "19:30",
+          "home_team": "Liverpool FC",
+          "away_team": "Arsenal FC",
+          "result": {
+            "full_time": "5-4"
+          }
+        },
+        {
+          "date": "2024-10-30",
+          "time": "19:45",
+          "home_team": "Aston Villa",
+          "away_team": "Wolverhampton Wanderers",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-10-30",
+          "time": "20:05",
+          "home_team": "Chelsea FC",
+          "away_team": "Manchester United",
+          "result": {
+            "full_time": "1-2"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Quarterfinals",
+      "matches": [
+        {
+          "date": "2024-12-17",
+          "time": "19:45",
+          "home_team": "Aston Villa",
+          "away_team": "Liverpool FC",
+          "result": {
+            "full_time": "5-0"
+          }
+        },
+        {
+          "date": "2024-12-18",
+          "time": "19:45",
+          "home_team": "Oxford United",
+          "away_team": "Manchester City",
+          "result": {
+            "full_time": "1-3"
+          }
+        },
+        {
+          "date": "2024-12-18",
+          "time": "19:45",
+          "home_team": "Everton FC",
+          "away_team": "Leicester City",
+          "result": {
+            "full_time": "2-4"
+          }
+        },
+        {
+          "date": "2024-12-18",
+          "time": "20:00",
+          "home_team": "Manchester United",
+          "away_team": "Colchester United",
+          "result": {
+            "full_time": "3-0"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Semifinals",
+      "matches": [
+        {
+          "date": "2024-12-18",
+          "time": "20:00",
+          "home_team": "Manchester United",
+          "away_team": "Manchester City",
+          "result": {
+            "full_time": "1-3"
+          }
+        },
+        {
+          "date": "2024-12-18",
+          "time": "20:00",
+          "home_team": "Leicester City",
+          "away_team": "Aston Villa",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-01-28",
+          "time": "19:45",
+          "home_team": "Aston Villa",
+          "away_team": "Leicester City",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-01-29",
+          "time": "19:45",
+          "home_team": "Manchester City",
+          "away_team": "Manchester United",
+          "result": {
+            "full_time": "0-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Final",
+      "matches": [
+        {
+          "date": "2024-01-29",
+          "time": "16:30",
+          "home_team": "Aston Villa",
+          "away_team": "Manchester City",
+          "result": {
+            "full_time": "1-2"
+          }
+        }
+      ]
+    }
+  ]
+}

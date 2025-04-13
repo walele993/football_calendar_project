@@ -1,0 +1,603 @@
+{
+  "league": "Swiss Cup",
+  "season": "2023/24",
+  "matchdays": [
+    {
+      "matchday": "Round 1",
+      "matches": [
+        {
+          "date": "2023-08-18",
+          "time": "19:30",
+          "home_team": "FC Ajoie-Monterri",
+          "away_team": "SR Delémont",
+          "result": {
+            "full_time": "0-3"
+          }
+        },
+        {
+          "date": "2023-08-18",
+          "time": "19:30",
+          "home_team": "FC Breitenrain Bern",
+          "away_team": "BSC Young Boys",
+          "result": {
+            "full_time": "0-5"
+          }
+        },
+        {
+          "date": "2023-08-18",
+          "time": "20:00",
+          "home_team": "Lancy FC",
+          "away_team": "FC Stade Nyonnais",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2023-08-18",
+          "time": "20:00",
+          "home_team": "Etoile Carouge FC",
+          "away_team": "FC Sion",
+          "result": {
+            "full_time": "1-3"
+          }
+        },
+        {
+          "date": "2023-08-18",
+          "time": "20:30",
+          "home_team": "FC Genolier-Begnins",
+          "away_team": "FC Onex",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-08-19",
+          "time": "16:00",
+          "home_team": "SV Höngg",
+          "away_team": "FC Rapperswil-Jona",
+          "result": {
+            "full_time": "1-3"
+          }
+        },
+        {
+          "date": "2024-08-19",
+          "time": "16:00",
+          "home_team": "FC Affoltern",
+          "away_team": "FC Baden",
+          "result": {
+            "full_time": "0-4"
+          }
+        },
+        {
+          "date": "2024-08-19",
+          "time": "16:00",
+          "home_team": "FC Wettswil-Bonstetten",
+          "away_team": "FC Winterthur",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-08-19",
+          "time": "16:00",
+          "home_team": "FC Grand-Saconnex",
+          "away_team": "Stade Lausanne-Ouchy",
+          "result": {
+            "full_time": "0-4"
+          }
+        },
+        {
+          "date": "2024-08-19",
+          "time": "16:00",
+          "home_team": "FC Buchs AG",
+          "away_team": "AC Bellinzona",
+          "result": {
+            "full_time": "0-4"
+          }
+        },
+        {
+          "date": "2024-08-19",
+          "time": "17:00",
+          "home_team": "FC Dietikon",
+          "away_team": "FC Aarau",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-08-19",
+          "time": "17:00",
+          "home_team": "FC Haute-Gruyère",
+          "away_team": "Yverdon Sport FC",
+          "result": {
+            "full_time": "0-9"
+          }
+        },
+        {
+          "date": "2024-08-19",
+          "time": "17:30",
+          "home_team": "FC Courtételle",
+          "away_team": "FC Black Stars Basel",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-08-19",
+          "time": "17:30",
+          "home_team": "FC Schönenwerd-Niedergösgen",
+          "away_team": "FC Greifensee",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-08-19",
+          "time": "18:00",
+          "home_team": "FC Porrentruy",
+          "away_team": "FC Bosporus",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-08-19",
+          "time": "18:00",
+          "home_team": "FC Frutigen",
+          "away_team": "FC Thun Berner Oberland",
+          "result": {
+            "full_time": "0-5"
+          }
+        },
+        {
+          "date": "2024-08-19",
+          "time": "18:00",
+          "home_team": "FC Red Star Zürich",
+          "away_team": "FC Zürich",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-08-19",
+          "time": "18:00",
+          "home_team": "FC Meyrin",
+          "away_team": "Servette FC",
+          "result": {
+            "full_time": "0-8"
+          }
+        },
+        {
+          "date": "2024-08-19",
+          "time": "18:00",
+          "home_team": "FC Mendrisio",
+          "away_team": "SC Kriens",
+          "result": {
+            "full_time": "1-3"
+          }
+        },
+        {
+          "date": "2024-08-19",
+          "time": "18:00",
+          "home_team": "AC Malcantone",
+          "away_team": "FC Tuggen",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-08-19",
+          "time": "18:00",
+          "home_team": "FC Gunzwil",
+          "away_team": "FC Lugano",
+          "result": {
+            "full_time": "0-7"
+          }
+        },
+        {
+          "date": "2024-08-19",
+          "time": "19:00",
+          "home_team": "AC Taverne",
+          "away_team": "SC Brühl",
+          "result": {
+            "full_time": "0-3"
+          }
+        },
+        {
+          "date": "2024-08-19",
+          "time": "20:00",
+          "home_team": "Iliria Solothurn",
+          "away_team": "FC La Chaux-de-Fonds",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-08-19",
+          "time": "20:00",
+          "home_team": "Vevey-Sports",
+          "away_team": "FC Lausanne-Sport",
+          "result": {
+            "full_time": "0-3"
+          }
+        },
+        {
+          "date": "2024-08-20",
+          "time": "14:00",
+          "home_team": "VfR Kleinhüningen",
+          "away_team": "Neuchâtel Xamax FCS",
+          "result": {
+            "full_time": "0-8"
+          }
+        },
+        {
+          "date": "2024-08-20",
+          "time": "14:00",
+          "home_team": "FC Saint-Blaise",
+          "away_team": "FC Basel 1893",
+          "result": {
+            "full_time": "1-8"
+          }
+        },
+        {
+          "date": "2024-08-20",
+          "time": "14:00",
+          "home_team": "SC Cham",
+          "away_team": "FC Schaffhausen",
+          "result": {
+            "full_time": "1-3"
+          }
+        },
+        {
+          "date": "2024-08-20",
+          "time": "14:00",
+          "home_team": "FC Savièse",
+          "away_team": "FC Bulle",
+          "result": {
+            "full_time": "0-5"
+          }
+        },
+        {
+          "date": "2024-08-20",
+          "time": "14:00",
+          "home_team": "FC Winkeln St. Gallen",
+          "away_team": "FC Luzern",
+          "result": {
+            "full_time": "0-6"
+          }
+        },
+        {
+          "date": "2024-08-20",
+          "time": "14:00",
+          "home_team": "FC Widnau",
+          "away_team": "FC St. Gallen",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-08-20",
+          "time": "16:15",
+          "home_team": "SV Schaffhausen",
+          "away_team": "Grasshopper Club Zürich",
+          "result": {
+            "full_time": "0-4"
+          }
+        },
+        {
+          "date": "2024-08-20",
+          "time": "17:30",
+          "home_team": "FC Collina d'Oro",
+          "away_team": "FC Wil 1900",
+          "result": {
+            "full_time": "0-4"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Round 2",
+      "matches": [
+        {
+          "date": "2024-09-15",
+          "time": "19:30",
+          "home_team": "Neuchâtel Xamax FCS",
+          "away_team": "BSC Young Boys",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-09-15",
+          "time": "19:30",
+          "home_team": "FC Wil 1900",
+          "away_team": "Stade Lausanne-Ouchy",
+          "result": {
+            "full_time": "3-4"
+          }
+        },
+        {
+          "date": "2024-09-15",
+          "time": "20:30",
+          "home_team": "FC Sion",
+          "away_team": "Grasshopper Club Zürich",
+          "result": {
+            "full_time": "3-0"
+          }
+        },
+        {
+          "date": "2024-09-16",
+          "time": "16:00",
+          "home_team": "Lancy FC",
+          "away_team": "FC Lugano",
+          "result": {
+            "full_time": "0-3"
+          }
+        },
+        {
+          "date": "2024-09-16",
+          "time": "16:00",
+          "home_team": "FC Rapperswil-Jona",
+          "away_team": "Yverdon Sport FC",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-09-16",
+          "time": "17:30",
+          "home_team": "FC Black Stars Basel",
+          "away_team": "FC La Chaux-de-Fonds",
+          "result": {
+            "full_time": "4-1"
+          }
+        },
+        {
+          "date": "2024-09-16",
+          "time": "17:30",
+          "home_team": "SC Kriens",
+          "away_team": "FC Baden",
+          "result": {
+            "full_time": "4-0"
+          }
+        },
+        {
+          "date": "2024-09-16",
+          "time": "18:30",
+          "home_team": "FC Thun Berner Oberland",
+          "away_team": "FC Luzern",
+          "result": {
+            "full_time": "1-3"
+          }
+        },
+        {
+          "date": "2024-09-16",
+          "time": "19:00",
+          "home_team": "FC Bulle",
+          "away_team": "Servette FC",
+          "result": {
+            "full_time": "1-4"
+          }
+        },
+        {
+          "date": "2024-09-16",
+          "time": "19:30",
+          "home_team": "FC Bosporus",
+          "away_team": "FC Basel 1893",
+          "result": {
+            "full_time": "0-8"
+          }
+        },
+        {
+          "date": "2024-09-16",
+          "time": "20:00",
+          "home_team": "FC Greifensee",
+          "away_team": "FC Onex",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-09-17",
+          "time": "14:30",
+          "home_team": "SR Delémont",
+          "away_team": "FC St. Gallen",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-09-17",
+          "time": "15:00",
+          "home_team": "SC Brühl",
+          "away_team": "FC Lausanne-Sport",
+          "result": {
+            "full_time": "0-4"
+          }
+        },
+        {
+          "date": "2024-09-17",
+          "time": "16:00",
+          "home_team": "AC Bellinzona",
+          "away_team": "FC Schaffhausen",
+          "result": {
+            "full_time": "3-1"
+          }
+        },
+        {
+          "date": "2024-09-17",
+          "time": "16:00",
+          "home_team": "FC Tuggen",
+          "away_team": "FC Zürich",
+          "result": {
+            "full_time": "0-3"
+          }
+        },
+        {
+          "date": "2024-09-17",
+          "time": "16:00",
+          "home_team": "FC Aarau",
+          "away_team": "FC Winterthur",
+          "result": {
+            "full_time": "1-2"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Round of 16",
+      "matches": [
+        {
+          "date": "2024-10-31",
+          "time": "18:30",
+          "home_team": "AC Bellinzona",
+          "away_team": "FC Zürich",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-10-31",
+          "time": "20:30",
+          "home_team": "FC Onex",
+          "away_team": "FC Sion",
+          "result": {
+            "full_time": "1-6"
+          }
+        },
+        {
+          "date": "2024-10-31",
+          "time": "19:00",
+          "home_team": "FC Rapperswil-Jona",
+          "away_team": "BSC Young Boys",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-10-31",
+          "time": "19:30",
+          "home_team": "Servette FC",
+          "away_team": "Stade Lausanne-Ouchy",
+          "result": {
+            "full_time": "4-1"
+          }
+        },
+        {
+          "date": "2024-10-31",
+          "time": "20:00",
+          "home_team": "FC Black Stars Basel",
+          "away_team": "FC Winterthur",
+          "result": {
+            "full_time": "2-6"
+          }
+        },
+        {
+          "date": "2024-10-31",
+          "time": "20:30",
+          "home_team": "SC Kriens",
+          "away_team": "FC Basel 1893",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-10-31",
+          "time": "20:30",
+          "home_team": "SR Delémont",
+          "away_team": "FC Luzern",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-10-31",
+          "time": "20:30",
+          "home_team": "FC Lausanne-Sport",
+          "away_team": "FC Lugano",
+          "result": {
+            "full_time": "0-4"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Quarterfinals",
+      "matches": [
+        {
+          "date": "2024-02-28",
+          "time": "20:15",
+          "home_team": "SR Delémont",
+          "away_team": "Servette FC",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-02-28",
+          "time": "20:30",
+          "home_team": "FC Basel 1893",
+          "away_team": "FC Lugano",
+          "result": {
+            "full_time": "3-4"
+          }
+        },
+        {
+          "date": "2024-02-28",
+          "time": "20:30",
+          "home_team": "FC Zürich",
+          "away_team": "FC Winterthur",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-02-29",
+          "time": "20:30",
+          "home_team": "FC Sion",
+          "away_team": "BSC Young Boys",
+          "result": {
+            "full_time": "2-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Semifinals",
+      "matches": [
+        {
+          "date": "2024-04-27",
+          "time": "20:30",
+          "home_team": "FC Sion",
+          "away_team": "FC Lugano",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-04-28",
+          "time": "16:30",
+          "home_team": "FC Winterthur",
+          "away_team": "Servette FC",
+          "result": {
+            "full_time": "0-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Final",
+      "matches": [
+        {
+          "date": "2024-04-28",
+          "time": "14:00",
+          "home_team": "Servette FC",
+          "away_team": "FC Lugano",
+          "result": {
+            "full_time": "9-8"
+          }
+        }
+      ]
+    }
+  ]
+}
