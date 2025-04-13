@@ -1,22 +1,14 @@
 import os
 import json
-from parser import parse_football_txt  # assumes this function exists and works correctly
+import re
+from parser import parse_football_txt
 
-def split_competition_name(name):
-    """
-    Splits competition name into league and season.
-    Example: 'English Premier League 2024/25' -> ('English Premier League', '2024/25')
-    """
-    if not name:
-        return "Unknown League", "Unknown Season"
+def sanitize_filename(name):
+    """Remove/replace characters that are unsafe for filenames."""
+    return re.sub(r'[\\/:"*?<>|]', '_', name)
 
-    parts = name.rsplit(' ', 1)
-    if len(parts) == 2 and '/' in parts[1]:
-        return parts[0], parts[1]
-    return name, "Unknown Season"
-
-def convert_all_to_single_json(input_root='.', output_file='./all_matches.json'):
-    all_data = []
+def convert_txts_to_jsons(input_root='.', output_dir='./parsed_json'):
+    os.makedirs(output_dir, exist_ok=True)
 
     for root, _, files in os.walk(input_root):
         for filename in files:
@@ -25,28 +17,28 @@ def convert_all_to_single_json(input_root='.', output_file='./all_matches.json')
                 try:
                     with open(input_path, 'r', encoding='utf-8') as f:
                         content = f.read()
-                    
+
                     parsed = parse_football_txt(content)
-                    if not parsed:
-                        print(f"⚠️  Skipped (empty parsing): {input_path}")
+                    if not parsed or not parsed.get("matchdays"):
+                        print(f"⚠️  Skipped (no matchdays): {input_path}")
                         continue
 
-                    competition = parsed.get('competition')
-                    league, season = split_competition_name(competition)
+                    league = parsed.get("league", "Unknown League")
+                    season = parsed.get("season", "Unknown Season")
+                    league_safe = sanitize_filename(league)
+                    season_safe = sanitize_filename(season)
 
-                    all_data.append({
-                        "league": league,
-                        "season": season,
-                        "matchdays": parsed.get("matchdays", [])
-                    })
-                    print(f'Parsed: {input_path}')
+                    json_filename = f"({season_safe}) {league_safe}.json"
+                    output_path = os.path.join(output_dir, json_filename)
+
+                    with open(output_path, 'w', encoding='utf-8') as out_f:
+                        json.dump(parsed, out_f, indent=2, ensure_ascii=False)
+
                 except Exception as e:
                     print(f"❌ Error parsing {input_path}: {e}")
 
-    with open(output_file, 'w', encoding='utf-8') as f:
-        json.dump(all_data, f, indent=2, ensure_ascii=False)
+    print(f'\n📁 All JSON files saved in: {output_dir}')
 
-    print(f'\n✅ All data saved to {output_file}')
 
 if __name__ == '__main__':
-    convert_all_to_single_json(input_root='./', output_file='./all_matches.json')
+    convert_txts_to_jsons(input_root='./', output_dir='./parsed_json')
