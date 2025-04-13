@@ -39,6 +39,9 @@ jobs:
     - name: Generate updated data
       run: python3 converter.py
 
+    - name: Include parsed_json folder
+      run: git add parsed_json/
+
     - name: Configure Git
       run: |
         git config --global user.email "gabale.ag@gmail.com"
@@ -55,7 +58,8 @@ jobs:
 
     - name: Commit and push changes
       run: |
-        git add all_matches.json
+        # Assuming that parsed_json is the folder where new JSON files are stored
+        git add parsed_json/*
         if ! git diff --staged --quiet; then
           git commit -m "Update football data (automated)"
           git push origin HEAD:main
