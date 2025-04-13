@@ -1,18 +1,18 @@
 # ⚽ Football Calendar Project
 
-*Automate football match data extraction and visualization for various leagues!*  
+*Automate football match data extraction and conversion for various leagues!*
 
 ---
 
 ## 🚀 Introduction
 
-**Football Calendar Project** is a Python-based tool that extracts and processes football match data for various leagues. This project organizes matches by matchdays, tracks results, and outputs them in a clean JSON format. Designed to work with multiple leagues, this tool aims to assist in football scheduling and analysis.
+**Football Calendar Project** is a Python-based backend tool that extracts football match data from textual sources provided by openfootball and converts them into a structured JSON format. It automates the extraction process by reading the TXT files (Football.TXT format) from openfootball, parses them into a detailed match calendar, and outputs JSON files organized by league and season. These JSON files offer a clean, easy-to-use football match calendar, ready for integration into various applications and further analysis.
 
 ### Key Features
-- 🏆 **Matchday Organization**: Automatically organizes match results by competition and season.
-- 📅 **Comprehensive Calendar**: Supports multiple leagues and seasons, handling matchups, times, and results.
-- 🔄 **Automatic Data Extraction**: Scrapes match data and generates structured JSON files for further use.
-- 🗂️ **Easy to Integrate**: Output is in JSON format, ready for integration into various applications or services.
+- 🏆 **Matchday & Round Organization**: Automatically organizes match data by league, season, matchday, and rounds.
+- 📅 **Detailed Fixtures**: Supports multiple leagues and seasons, capturing match dates, times, teams, and results.
+- 🔄 **Data Conversion**: Converts publicly available TXT files from openfootball into structured JSON format.
+- 🗂️ **Easy Integration**: JSON output is standardized and ready for use in web or mobile applications for football scheduling and analysis.
 
 ---
 
@@ -21,8 +21,7 @@
 ### Prerequisites
 - Python 3.x
 - Requests
-- BeautifulSoup4 (for web scraping)
-- JSON
+- JSON (built into Python)
 
 ### Install Dependencies
 
@@ -34,49 +33,42 @@ pip install -r requirements.txt
 
 ## 💻 Usage
 
-1. **Convert Data to JSON**:  
-   Run the conversion script to extract and convert match data into JSON format:
+1. **Convert TXT Files to JSON**  
+   Run the conversion script to extract and convert match data from TXT files into JSON. The TXT files are sourced from openfootball repositories.
    ```bash
-   python converter.py
+   python converter.py --input_folder ./openfootball_txt --output_folder ./parsed_json
    ```
+   - **Input Folder**: Folder containing the TXT files (downloaded from openfootball).
+   - **Output Folder**: Folder where the corresponding JSON files will be generated. Each TXT file is converted into a JSON file named using the league and season (e.g., `(2024/25) UEFA Europa League.json`).
 
-2. **View Match Data**:  
-   The output JSON files will be saved in the `json_output` directory. Each file contains structured match data for different competitions.
-
-3. **Process Multiple Files**:  
-   If you have multiple league files, use the recursive feature to convert all match files at once:
-   ```bash
-   python converter.py --process_all
-   ```
-
-4. **Customize Source Folder**:  
-   If you wish to specify a custom folder containing your football text files:
-   ```bash
-   python converter.py --input_folder ./custom_folder
-   ```
+2. **Review Output**  
+   The output JSON files in the `parsed_json` folder contain structured match data with the following information:
+   - **League**: Name of the football league (e.g., Italian Serie A, UEFA Champions League).
+   - **Season**: The season year (e.g., 2023/24).
+   - **Matchdays**: An array of matchdays or rounds, each containing a list of matches.
+   - **Matches**: Each match includes the date, time, home team, away team, and result details (full-time score, half-time score, penalties, etc.).
 
 ---
 
 ## 🧠 Data Structure
 
-The JSON files will be structured as follows:
+The JSON output is structured as follows:
 
 ```json
 {
-  "competition": "English Premier League",
+  "league": "Italian Serie A",
   "season": "2023/24",
   "matchdays": [
     {
-      "matchday": 1,
+      "matchday": "Matchday 1",
       "matches": [
         {
           "date": "2024-08-11",
           "time": "20:00",
-          "home_team": "Burnley FC",
-          "away_team": "Manchester City FC",
+          "home_team": "ACF Fiorentina",
+          "away_team": "Torino FC",
           "result": {
-            "full_time": "0-3",
-            "half_time": "0-2"
+            "full_time": "1-0"
           }
         },
         ...
@@ -87,58 +79,54 @@ The JSON files will be structured as follows:
 }
 ```
 
-Where:
-- **competition**: Name of the football league.
-- **season**: The season year (e.g., 2023/24).
-- **matchday**: Matchday number or name.
-- **matches**: List of match details, including date, time, teams, and results.
+*Note: The exact field names can vary based on the details available in the TXT files.*
 
 ---
 
 ## 📝 Key Functions
 
-### ✨ Data Extraction & Processing
-- **`parse_football_txt(content)`** → Parses match data from text content and structures it into a JSON format.
-- **`convert_folder(input_root, output_root)`** → Processes all `.txt` files in a folder structure, converting them into JSON.
+### Data Extraction & Processing
+- **`parse_football_txt(content)`**  
+  Parses match data from an input TXT file (Football.TXT format) and structures it into JSON with league, season, and matchdays.
 
-### 📊 Data Visualization & Analysis
-- Currently, this project focuses on extracting match data and structuring it. Future enhancements will include:
-  - Generating match summaries and analysis.
-  - Visualizing team performance and rankings.
+- **`convert_folder(input_folder, output_folder)`**  
+  Recursively processes all TXT files in a given folder, converts them into JSON files (each named with league and season), and saves them in an output folder.
+
+### Output
+- **JSON Files**: Each TXT file from openfootball is converted into an individual JSON file stored in the `parsed_json` folder, named in the format `(season) league.json` to avoid overwriting duplicates.
 
 ---
 
 ## 💪 Future Enhancements
 
-- 🌍 Expand support for more football leagues (e.g., Serie A, La Liga, Bundesliga).
-- 📅 Add calendar features for automated match reminders and scheduling.
-- 📝 Include additional match analysis (e.g., win rates, team performance).
+- 🌍 Expand support for additional leagues.
+- 📅 Enhance calendar functionalities with automated scheduling and reminders.
+- 📝 Incorporate detailed match analysis and performance metrics.
 
 ---
 
 ## 🏅 Contribution
 
-This is a **work-in-progress** project, and I would love your feedback!  
+This is a **work-in-progress** project, and I welcome your feedback!  
 
 1. **Fork** the repository  
 2. **Clone** your fork:  
    ```bash
-   git clone https://github.com/your-username/football-calendar.git
+   git clone https://github.com/your-username/football-calendar-project.git
    ```
 3. Create a **feature branch**:  
    ```bash
    git checkout -b feature-enhancement
    ```
-4. **Push** changes & submit a **pull request**
+4. **Push** your changes and submit a **pull request**
 
 ---
 
 ## 🏁 Credits
 
 Project created by **Gabriele Meucci**.  
-
-Data sourced from football fixtures (usually parsed from textual formats, such as those found on sports websites).
+Data is sourced from publicly available football fixtures in the Football.TXT format provided by openfootball.
 
 ---
 
-*Ready to organize and analyze football like never before? Let’s go!* ⚽🔥
+*Ready to organize and analyze football match data like never before? Let's go!* ⚽🔥
