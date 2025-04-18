@@ -31,11 +31,12 @@ def parse_football_txt(content):
                 start_year = int(season_match.group(1))
                 yy = int(season_match.group(2))
                 century = start_year // 100
-                # compute end year
-                if yy < (start_year % 100):
-                    end_year = century * 100 + yy
-                else:
+                # compute end year with correct rollover logic
+                # if yy <= last two digits of start_year, it means next century
+                if yy <= (start_year % 100):
                     end_year = (century + 1) * 100 + yy
+                else:
+                    end_year = century * 100 + yy
                 season_start_year = start_year
                 season_end_year = end_year
                 cross_year = True
