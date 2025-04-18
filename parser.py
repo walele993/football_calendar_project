@@ -9,111 +9,127 @@ def parse_football_txt(content):
     current_date = None
     current_time = None
 
+    # Season rollover variables
+    season_start_year = None
+    season_end_year = None
+    season_start_month = None
+    cross_year = False
+
     lines = content.split('\n')
-    
     for line in lines:
         line = line.strip()
         if not line:
             continue
 
-        # League and season title
+        # Parse league and season header
         if line.startswith('= '):
             title_line = line[2:].strip()
-
-            match = re.search(r'(\d{4}/\d{2})$', title_line)
-            if match:
-                season = match.group(1)
-                league = title_line[:match.start()].strip()
+            # Detect season string like '2024/25'
+            season_match = re.search(r"(\d{4})/(\d{2})$", title_line)
+            if season_match:
+                # Extract start and end years
+                start_year = int(season_match.group(1))
+                yy = int(season_match.group(2))
+                century = start_year // 100
+                # compute end year
+                if yy < (start_year % 100):
+                    end_year = century * 100 + yy
+                else:
+                    end_year = (century + 1) * 100 + yy
+                season_start_year = start_year
+                season_end_year = end_year
+                cross_year = True
+                season = season_match.group(0)
+                league = title_line[:season_match.start()].strip()
             else:
                 league = title_line
                 season = None
             continue
 
-        # Matchday or round
-        matchday_match = None
-
-        if line.startswith('»'):
-            matchday_match = re.match(r'» (?:[A-Za-z]+,\s*)?(.+)', line)
-        elif re.match(r'(Matchday \d+|[A-Za-z ]+Round \d+|[A-Za-z ]+round|[A-Za-z ]+Finals?)', line):
-            matchday_match = re.match(r'(.+)', line)
-
-        if matchday_match:
+        # Matchday marker
+        if line.startswith('»') or re.match(r'(Matchday \d+|[A-Za-z ]+Round \d+|Finals?)', line):
             if current_matchday:
                 matchdays.append(current_matchday)
             current_matchday = {
-                "matchday": matchday_match.group(1).strip(),
+                "matchday": line.lstrip('» ').strip(),
                 "matches": []
             }
-
-        # Date
-        date_match = re.match(r'([A-Za-z]{3} [A-Za-z]{3}/\d{2}(?: \d{4})?)', line)
-        if date_match:
-            try:
-                parts = date_match.group(1).split(' ', 1)[1]
-                if len(parts.split()[-1]) == 4:
-                    current_date = datetime.strptime(parts, '%b/%d %Y').strftime('%Y-%m-%d')
-                else:
-                    current_date = datetime.strptime(parts + ' 2024', '%b/%d %Y').strftime('%Y-%m-%d')
-            except Exception as e:
-                print(f"[DEBUG] Error parsing date: {e}")
-                current_date = None
             continue
 
-        # Time
-        time_match = re.match(r'(\d{1,2}\.\d{2})', line)
+        # Date line, capture month/day and optional year
+        date_match = re.match(r"(?:[A-Za-z]{3}\s+)?([A-Za-z]{3})/(\d{1,2})(?:\s+(\d{4}))?", line)
+        if date_match:
+            mon_str, day_str, year_str = date_match.groups()
+            month = datetime.strptime(mon_str, '%b').month
+            day = int(day_str)
+            # Record season_start_month on first date
+            if season_start_month is None:
+                season_start_month = month
+                # If no season header, initialize year from first explicit date
+                if not cross_year and year_str:
+                    season_start_year = int(year_str)
+
+            # Determine year for this date
+            if year_str:
+                year = int(year_str)
+            else:
+                if cross_year:
+                    # rollover: months before start month are next calendar year
+                    if month >= season_start_month:
+                        year = season_start_year
+                    else:
+                        year = season_end_year
+                else:
+                    year = season_start_year
+
+            current_date = f"{year:04d}-{month:02d}-{day:02d}"
+            continue
+
+        # Time line
+        time_match = re.match(r"(\d{1,2}\.\d{2})", line)
         if time_match:
             current_time = time_match.group(1).replace('.', ':')
-            line = line[line.find(time_match.group(1)) + len(time_match.group(1)):].strip()
+            # remove time from line to isolate teams
+            line = line[time_match.end():].strip()
 
         # Match line
         if ' v ' in line and current_date:
-            parts = re.split(r'\s+v\s+', line)
-            if len(parts) != 2:
+            home_away = re.split(r"\s+v\s+", line)
+            if len(home_away) != 2:
                 continue
-
-            home = parts[0].strip()
-            away = parts[1].strip()
-
-            cancelled = '[cancelled]' in away
+            home, away_part = home_away
+            cancelled = '[cancelled]' in away_part
             if cancelled:
-                away = away.replace('[cancelled]', '').strip()
+                away_part = away_part.replace('[cancelled]', '').strip()
 
-            result_match = re.search(r'(\d+-\d+)(?:\s*(pen\.)?(\d+-\d+))?(?:\s*\(\d+-\d+\))?', away)
-            if result_match:
-                result_str = result_match.group(1)
-                penalty_str = result_match.group(3) if result_match.group(3) else None
-                away = away[:result_match.start()].strip()
-                
-                full_time = result_str
-                pen_result = penalty_str if penalty_str else None
-                aet_result = None
-
-                if 'a.e.t.' in away:
-                    aet_result = away.split('a.e.t.')[1].strip()
-
-                result = {"full_time": full_time}
-                if aet_result:
-                    result["aet"] = aet_result
-                if pen_result:
-                    result["penalties"] = pen_result
-            elif cancelled:
-                result = "cancelled"
+            # Extract results
+            result = None
+            res_match = re.search(r"(\d+-\d+)(?:\s*(pen\.)?(\d+-\d+))?", away_part)
+            if res_match:
+                ft = res_match.group(1)
+                pen = res_match.group(3)
+                result = {"full_time": ft}
+                if pen:
+                    result["penalties"] = pen
+                # strip result from away team
+                away = away_part[:res_match.start()].strip()
             else:
-                result = None
+                away = away_part
+                if cancelled:
+                    result = 'cancelled'
 
             match = {
                 "date": current_date,
                 "time": current_time,
-                "home_team": home,
+                "home_team": home.strip(),
                 "away_team": away
             }
-
             if result:
                 match["result"] = result
-
             if current_matchday:
                 current_matchday["matches"].append(match)
 
+    # append last matchday
     if current_matchday:
         matchdays.append(current_matchday)
 
