@@ -4,11 +4,84 @@
   "matchdays": [
     {
       "matchday": "Preliminary round",
-      "matches": []
+      "matches": [
+        {
+          "date": "2024-08-03",
+          "time": "18:00",
+          "home_team": "Carrarese Calcio",
+          "away_team": "Calcio Catania",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-08-03",
+          "time": "20:30",
+          "home_team": "SEF Torres 1903",
+          "away_team": "Mantova 1911 SSD",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-08-04",
+          "time": "20:30",
+          "home_team": "Cesena FC",
+          "away_team": "Calcio Padova",
+          "result": {
+            "full_time": "3-1"
+          }
+        },
+        {
+          "date": "2024-08-04",
+          "time": "20:45",
+          "home_team": "US Avellino",
+          "away_team": "Juve Stabia",
+          "result": {
+            "full_time": "3-1"
+          }
+        }
+      ]
     },
     {
       "matchday": "Round 1",
       "matches": [
+        {
+          "date": "2024-08-09",
+          "time": "18:00",
+          "home_team": "Sassuolo Calcio",
+          "away_team": "AS Cittadella",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-08-09",
+          "time": "18:30",
+          "home_team": "Udinese Calcio",
+          "away_team": "US Avellino",
+          "result": {
+            "full_time": "4-0"
+          }
+        },
+        {
+          "date": "2024-08-09",
+          "time": "20:45",
+          "home_team": "Genoa CFC",
+          "away_team": "AC Reggiana 1919",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-08-09",
+          "time": "21:15",
+          "home_team": "AC Monza",
+          "away_team": "FC Südtirol",
+          "result": {
+            "full_time": "9-8"
+          }
+        },
         {
           "date": "2024-08-10",
           "time": "18:00",
@@ -200,7 +273,7 @@
       "matchday": "Round of 16",
       "matches": [
         {
-          "date": "2024-09-26",
+          "date": "2024-12-03",
           "time": "18:30",
           "home_team": "Bologna FC",
           "away_team": "AC Monza",
@@ -209,7 +282,7 @@
           }
         },
         {
-          "date": "2024-09-26",
+          "date": "2024-12-03",
           "time": "21:00",
           "home_team": "AC Milan",
           "away_team": "Sassuolo Calcio",
@@ -218,7 +291,7 @@
           }
         },
         {
-          "date": "2024-09-26",
+          "date": "2024-12-04",
           "time": "21:00",
           "home_team": "ACF Fiorentina",
           "away_team": "Empoli FC",
@@ -227,7 +300,7 @@
           }
         },
         {
-          "date": "2024-09-26",
+          "date": "2024-12-05",
           "time": "21:00",
           "home_team": "Lazio Roma",
           "away_team": "SSC Napoli",
@@ -277,7 +350,7 @@
       "matchday": "Quarterfinals",
       "matches": [
         {
-          "date": "2024-12-19",
+          "date": "2025-02-04",
           "time": "21:00",
           "home_team": "Atalanta",
           "away_team": "Bologna FC",
@@ -286,7 +359,7 @@
           }
         },
         {
-          "date": "2024-12-19",
+          "date": "2125-02-05",
           "time": "21:00",
           "home_team": "AC Milan",
           "away_team": "AS Roma",
@@ -295,7 +368,7 @@
           }
         },
         {
-          "date": "2024-02-25",
+          "date": "2125-02-25",
           "time": "21:00",
           "home_team": "Inter",
           "away_team": "Lazio Roma",
@@ -304,7 +377,7 @@
           }
         },
         {
-          "date": "2024-02-26",
+          "date": "2125-02-26",
           "time": "21:00",
           "home_team": "Juventus",
           "away_team": "Empoli FC",
@@ -318,25 +391,25 @@
       "matchday": "Semifinals",
       "matches": [
         {
-          "date": "2024-02-26",
+          "date": "2125-04-01",
           "time": "21:00",
           "home_team": "Empoli FC",
           "away_team": "Bologna FC"
         },
         {
-          "date": "2024-02-26",
+          "date": "2125-04-02",
           "time": "21:00",
           "home_team": "AC Milan",
           "away_team": "Inter"
         },
         {
-          "date": "2024-04-23",
+          "date": "2125-04-23",
           "time": "21:00",
           "home_team": "Bologna FC",
           "away_team": "Empoli FC"
         },
         {
-          "date": "2024-04-23",
+          "date": "2125-04-23",
           "time": "21:00",
           "home_team": "Inter",
           "away_team": "AC Milan"
@@ -347,7 +420,7 @@
       "matchday": "Final",
       "matches": [
         {
-          "date": "2024-05-15",
+          "date": "2125-05-15",
           "time": "21:00",
           "home_team": "N.N.",
           "away_team": "N.N."

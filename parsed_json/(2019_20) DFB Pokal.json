@@ -6,7 +6,34 @@
       "matchday": "Round 1",
       "matches": [
         {
-          "date": "2024-08-10",
+          "date": "2019-08-09",
+          "time": "20:45",
+          "home_team": "KFC Uerdingen 05",
+          "away_team": "Borussia Dortmund",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2019-08-09",
+          "time": "20:45",
+          "home_team": "FC Ingolstadt 04",
+          "away_team": "1. FC Nürnberg",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2019-08-09",
+          "time": "21:30",
+          "home_team": "SV Sandhausen",
+          "away_team": "Bor. Mönchengladbach",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2019-08-10",
           "time": "15:30",
           "home_team": "1. FC Kaiserslautern",
           "away_team": "1. FSV Mainz 05",
@@ -15,7 +42,7 @@
           }
         },
         {
-          "date": "2024-08-10",
+          "date": "2019-08-10",
           "time": "15:30",
           "home_team": "Alemannia Aachen",
           "away_team": "Bayer Leverkusen",
@@ -24,7 +51,7 @@
           }
         },
         {
-          "date": "2024-08-10",
+          "date": "2019-08-10",
           "time": "15:30",
           "home_team": "TuS Dassendorf",
           "away_team": "Dynamo Dresden",
@@ -33,7 +60,7 @@
           }
         },
         {
-          "date": "2024-08-10",
+          "date": "2019-08-10",
           "time": "15:30",
           "home_team": "FC 08 Villingen",
           "away_team": "Fortuna Düsseldorf",
@@ -42,7 +69,7 @@
           }
         },
         {
-          "date": "2024-08-10",
+          "date": "2019-08-10",
           "time": "15:30",
           "home_team": "SV Drochtersen/Assel",
           "away_team": "FC Schalke 04",
@@ -51,7 +78,7 @@
           }
         },
         {
-          "date": "2024-08-10",
+          "date": "2019-08-10",
           "time": "15:30",
           "home_team": "FC Viktoria 1889 Berlin",
           "away_team": "Arminia Bielefeld",
@@ -60,7 +87,7 @@
           }
         },
         {
-          "date": "2024-08-10",
+          "date": "2019-08-10",
           "time": "15:30",
           "home_team": "SC Verl",
           "away_team": "FC Augsburg",
@@ -69,7 +96,7 @@
           }
         },
         {
-          "date": "2024-08-10",
+          "date": "2019-08-10",
           "time": "15:30",
           "home_team": "Wacker Nordhausen",
           "away_team": "Erzgebirge Aue",
@@ -78,7 +105,7 @@
           }
         },
         {
-          "date": "2024-08-10",
+          "date": "2019-08-10",
           "time": "15:30",
           "home_team": "1. FC Magdeburg",
           "away_team": "SC Freiburg",
@@ -87,7 +114,7 @@
           }
         },
         {
-          "date": "2024-08-10",
+          "date": "2019-08-10",
           "time": "18:30",
           "home_team": "Würzburger Kickers",
           "away_team": "1899 Hoffenheim",
@@ -96,7 +123,7 @@
           }
         },
         {
-          "date": "2024-08-10",
+          "date": "2019-08-10",
           "time": "18:30",
           "home_team": "KSV Baunatal",
           "away_team": "VfL Bochum",
@@ -105,7 +132,7 @@
           }
         },
         {
-          "date": "2024-08-10",
+          "date": "2019-08-10",
           "time": "18:30",
           "home_team": "SSV Ulm 1846",
           "away_team": "1. FC Heidenheim 1846",
@@ -114,7 +141,7 @@
           }
         },
         {
-          "date": "2024-08-10",
+          "date": "2019-08-10",
           "time": "20:45",
           "home_team": "Atlas Delmenhorst",
           "away_team": "Werder Bremen",
@@ -123,7 +150,7 @@
           }
         },
         {
-          "date": "2024-08-11",
+          "date": "2019-08-11",
           "time": "15:30",
           "home_team": "FSV Salmrohr",
           "away_team": "Holstein Kiel",
@@ -132,7 +159,7 @@
           }
         },
         {
-          "date": "2024-08-11",
+          "date": "2019-08-11",
           "time": "15:30",
           "home_team": "Germania Halberstadt",
           "away_team": "1. FC Union Berlin",
@@ -141,7 +168,7 @@
           }
         },
         {
-          "date": "2024-08-11",
+          "date": "2019-08-11",
           "time": "15:30",
           "home_team": "SV Rödinghausen",
           "away_team": "SC Paderborn 07",
@@ -150,7 +177,7 @@
           }
         },
         {
-          "date": "2024-08-11",
+          "date": "2019-08-11",
           "time": "15:30",
           "home_team": "Waldhof Mannheim",
           "away_team": "Eintracht Frankfurt",
@@ -159,7 +186,7 @@
           }
         },
         {
-          "date": "2024-08-11",
+          "date": "2019-08-11",
           "time": "15:30",
           "home_team": "FC Oberneuland",
           "away_team": "SV Darmstadt 98",
@@ -168,7 +195,7 @@
           }
         },
         {
-          "date": "2024-08-11",
+          "date": "2019-08-11",
           "time": "15:30",
           "home_team": "1. FC Saarbrücken",
           "away_team": "Jahn Regensburg",
@@ -177,7 +204,7 @@
           }
         },
         {
-          "date": "2024-08-11",
+          "date": "2019-08-11",
           "time": "15:30",
           "home_team": "VfB Lübeck",
           "away_team": "FC St. Pauli",
@@ -186,7 +213,7 @@
           }
         },
         {
-          "date": "2024-08-11",
+          "date": "2019-08-11",
           "time": "15:30",
           "home_team": "VfB Eichstätt",
           "away_team": "Hertha BSC",
@@ -195,7 +222,7 @@
           }
         },
         {
-          "date": "2024-08-11",
+          "date": "2019-08-11",
           "time": "15:30",
           "home_team": "VfL Osnabrück",
           "away_team": "RB Leipzig",
@@ -204,7 +231,7 @@
           }
         },
         {
-          "date": "2024-08-11",
+          "date": "2019-08-11",
           "time": "18:30",
           "home_team": "Chemnitzer FC",
           "away_team": "Hamburger SV",
@@ -213,7 +240,7 @@
           }
         },
         {
-          "date": "2024-08-11",
+          "date": "2019-08-11",
           "time": "18:30",
           "home_team": "MSV Duisburg",
           "away_team": "SpVgg Greuther Fürth",
@@ -222,7 +249,7 @@
           }
         },
         {
-          "date": "2024-08-11",
+          "date": "2019-08-11",
           "time": "18:30",
           "home_team": "SV Wehen Wiesbaden",
           "away_team": "1. FC Köln",
@@ -231,7 +258,7 @@
           }
         },
         {
-          "date": "2024-08-12",
+          "date": "2019-08-12",
           "time": "18:30",
           "home_team": "Hallescher FC",
           "away_team": "VfL Wolfsburg",
@@ -240,7 +267,7 @@
           }
         },
         {
-          "date": "2024-08-12",
+          "date": "2019-08-12",
           "time": "18:30",
           "home_team": "Karlsruher SC",
           "away_team": "Hannover 96",
@@ -249,7 +276,7 @@
           }
         },
         {
-          "date": "2024-08-12",
+          "date": "2019-08-12",
           "time": "18:30",
           "home_team": "Hansa Rostock",
           "away_team": "VfB Stuttgart",
@@ -258,7 +285,7 @@
           }
         },
         {
-          "date": "2024-08-12",
+          "date": "2019-08-12",
           "time": "20:45",
           "home_team": "Energie Cottbus",
           "away_team": "Bayern München",
@@ -272,7 +299,7 @@
       "matchday": "Round 2",
       "matches": [
         {
-          "date": "2024-10-29",
+          "date": "2019-10-29",
           "time": "18:30",
           "home_team": "MSV Duisburg",
           "away_team": "1899 Hoffenheim",
@@ -281,7 +308,7 @@
           }
         },
         {
-          "date": "2024-10-29",
+          "date": "2019-10-29",
           "time": "18:30",
           "home_team": "1. FC Saarbrücken",
           "away_team": "1. FC Köln",
@@ -290,7 +317,7 @@
           }
         },
         {
-          "date": "2024-10-29",
+          "date": "2019-10-29",
           "time": "18:30",
           "home_team": "SC Freiburg",
           "away_team": "1. FC Union Berlin",
@@ -299,7 +326,7 @@
           }
         },
         {
-          "date": "2024-10-29",
+          "date": "2019-10-29",
           "time": "18:30",
           "home_team": "Hamburger SV",
           "away_team": "VfB Stuttgart",
@@ -308,7 +335,7 @@
           }
         },
         {
-          "date": "2024-10-29",
+          "date": "2019-10-29",
           "time": "20:00",
           "home_team": "VfL Bochum",
           "away_team": "Bayern München",
@@ -317,7 +344,7 @@
           }
         },
         {
-          "date": "2024-10-29",
+          "date": "2019-10-29",
           "time": "20:45",
           "home_team": "SV Darmstadt 98",
           "away_team": "Karlsruher SC",
@@ -326,7 +353,7 @@
           }
         },
         {
-          "date": "2024-10-29",
+          "date": "2019-10-29",
           "time": "20:45",
           "home_team": "Bayer Leverkusen",
           "away_team": "SC Paderborn 07",
@@ -335,7 +362,7 @@
           }
         },
         {
-          "date": "2024-10-29",
+          "date": "2019-10-29",
           "time": "20:45",
           "home_team": "Arminia Bielefeld",
           "away_team": "FC Schalke 04",
@@ -344,7 +371,7 @@
           }
         },
         {
-          "date": "2024-10-30",
+          "date": "2019-10-30",
           "time": "18:30",
           "home_team": "1. FC Kaiserslautern",
           "away_team": "1. FC Nürnberg",
@@ -353,7 +380,7 @@
           }
         },
         {
-          "date": "2024-10-30",
+          "date": "2019-10-30",
           "time": "18:30",
           "home_team": "SC Verl",
           "away_team": "Holstein Kiel",
@@ -362,7 +389,7 @@
           }
         },
         {
-          "date": "2024-10-30",
+          "date": "2019-10-30",
           "time": "18:30",
           "home_team": "VfL Wolfsburg",
           "away_team": "RB Leipzig",
@@ -371,7 +398,7 @@
           }
         },
         {
-          "date": "2024-10-30",
+          "date": "2019-10-30",
           "time": "18:30",
           "home_team": "Werder Bremen",
           "away_team": "1. FC Heidenheim 1846",
@@ -380,7 +407,7 @@
           }
         },
         {
-          "date": "2024-10-30",
+          "date": "2019-10-30",
           "time": "20:45",
           "home_team": "Fortuna Düsseldorf",
           "away_team": "Erzgebirge Aue",
@@ -389,7 +416,7 @@
           }
         },
         {
-          "date": "2024-10-30",
+          "date": "2019-10-30",
           "time": "20:45",
           "home_team": "Borussia Dortmund",
           "away_team": "Bor. Mönchengladbach",
@@ -398,7 +425,7 @@
           }
         },
         {
-          "date": "2024-10-30",
+          "date": "2019-10-30",
           "time": "20:45",
           "home_team": "Hertha BSC",
           "away_team": "Dynamo Dresden",
@@ -407,7 +434,7 @@
           }
         },
         {
-          "date": "2024-10-30",
+          "date": "2019-10-30",
           "time": "20:45",
           "home_team": "FC St. Pauli",
           "away_team": "Eintracht Frankfurt",
@@ -421,7 +448,7 @@
       "matchday": "Round of 16",
       "matches": [
         {
-          "date": "2024-10-30",
+          "date": "2020-02-04",
           "time": "18:30",
           "home_team": "Eintracht Frankfurt",
           "away_team": "RB Leipzig",
@@ -430,7 +457,7 @@
           }
         },
         {
-          "date": "2024-10-30",
+          "date": "2020-02-04",
           "time": "18:30",
           "home_team": "1. FC Kaiserslautern",
           "away_team": "Fortuna Düsseldorf",
@@ -439,7 +466,7 @@
           }
         },
         {
-          "date": "2024-10-30",
+          "date": "2020-02-04",
           "time": "20:45",
           "home_team": "FC Schalke 04",
           "away_team": "Hertha BSC",
@@ -448,7 +475,7 @@
           }
         },
         {
-          "date": "2024-10-30",
+          "date": "2020-02-04",
           "time": "20:45",
           "home_team": "Werder Bremen",
           "away_team": "Borussia Dortmund",
@@ -457,7 +484,7 @@
           }
         },
         {
-          "date": "2024-10-30",
+          "date": "2120-02-05",
           "time": "18:30",
           "home_team": "Bayer Leverkusen",
           "away_team": "VfB Stuttgart",
@@ -466,7 +493,7 @@
           }
         },
         {
-          "date": "2024-10-30",
+          "date": "2120-02-05",
           "time": "18:30",
           "home_team": "SC Verl",
           "away_team": "1. FC Union Berlin",
@@ -475,7 +502,7 @@
           }
         },
         {
-          "date": "2024-10-30",
+          "date": "2120-02-05",
           "time": "20:45",
           "home_team": "Bayern München",
           "away_team": "1899 Hoffenheim",
@@ -484,7 +511,7 @@
           }
         },
         {
-          "date": "2024-10-30",
+          "date": "2120-02-05",
           "time": "20:45",
           "home_team": "1. FC Saarbrücken",
           "away_team": "Karlsruher SC",
@@ -498,7 +525,7 @@
       "matchday": "Quarterfinals",
       "matches": [
         {
-          "date": "2024-10-30",
+          "date": "2120-03-03",
           "time": "18:30",
           "home_team": "1. FC Saarbrücken",
           "away_team": "Fortuna Düsseldorf",
@@ -507,7 +534,7 @@
           }
         },
         {
-          "date": "2024-10-30",
+          "date": "2120-03-03",
           "time": "20:45",
           "home_team": "FC Schalke 04",
           "away_team": "Bayern München",
@@ -516,7 +543,7 @@
           }
         },
         {
-          "date": "2024-10-30",
+          "date": "2120-03-04",
           "time": "18:30",
           "home_team": "Bayer Leverkusen",
           "away_team": "1. FC Union Berlin",
@@ -525,7 +552,7 @@
           }
         },
         {
-          "date": "2024-10-30",
+          "date": "2120-03-04",
           "time": "20:45",
           "home_team": "Eintracht Frankfurt",
           "away_team": "Werder Bremen",
@@ -539,7 +566,7 @@
       "matchday": "Semifinals",
       "matches": [
         {
-          "date": "2024-10-30",
+          "date": "2120-06-09",
           "time": "20:45",
           "home_team": "1. FC Saarbrücken",
           "away_team": "Bayer Leverkusen",
@@ -548,7 +575,7 @@
           }
         },
         {
-          "date": "2024-06-10",
+          "date": "2120-06-10",
           "time": "20:45",
           "home_team": "Bayern München",
           "away_team": "Eintracht Frankfurt",
@@ -562,7 +589,7 @@
       "matchday": "Final",
       "matches": [
         {
-          "date": "2024-06-10",
+          "date": "2120-07-04",
           "time": "20:00",
           "home_team": "Bayer Leverkusen",
           "away_team": "Bayern München",

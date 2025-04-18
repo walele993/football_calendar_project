@@ -4,7 +4,98 @@
   "matchdays": [
     {
       "matchday": "Preliminary round",
-      "matches": []
+      "matches": [
+        {
+          "date": "2024-10-09",
+          "time": "17:30",
+          "home_team": "San Tirso SD",
+          "away_team": "Selaya FC",
+          "result": {
+            "full_time": "5-3"
+          }
+        },
+        {
+          "date": "2024-10-09",
+          "time": "18:30",
+          "home_team": "CD Sonseca",
+          "away_team": "Parla Escuela",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-10-09",
+          "time": "19:00",
+          "home_team": "Astur CF",
+          "away_team": "EDF Logroño",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-10-09",
+          "time": "19:00",
+          "home_team": "CD Baztán",
+          "away_team": "Ontiñena CF",
+          "result": {
+            "full_time": "2-4"
+          }
+        },
+        {
+          "date": "2024-10-09",
+          "time": "19:00",
+          "home_team": "UD San Pedro",
+          "away_team": "Ceuta 6 de Junio",
+          "result": {
+            "full_time": "4-2"
+          }
+        },
+        {
+          "date": "2024-10-09",
+          "time": "19:30",
+          "home_team": "CD Villamuriel",
+          "away_team": "CD Aurrerá de Vitoria",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-10-09",
+          "time": "20:00",
+          "home_team": "EF Dolorense",
+          "away_team": "Manises CF",
+          "result": {
+            "full_time": "1-3"
+          }
+        },
+        {
+          "date": "2024-10-09",
+          "time": "20:30",
+          "home_team": "UE Vic",
+          "away_team": "CF Sporting Mahonés",
+          "result": {
+            "full_time": "4-0"
+          }
+        },
+        {
+          "date": "2024-10-09",
+          "time": "20:30",
+          "home_team": "CD Gévora",
+          "away_team": "Playas de Sotavento",
+          "result": {
+            "full_time": "4-2"
+          }
+        },
+        {
+          "date": "2024-10-09",
+          "time": "21:00",
+          "home_team": "Chiclana CF",
+          "away_team": "Melilla CD",
+          "result": {
+            "full_time": "4-0"
+          }
+        }
+      ]
     },
     {
       "matchday": "Round 1",
@@ -442,7 +533,7 @@
           }
         },
         {
-          "date": "2024-10-31",
+          "date": "2024-11-05",
           "time": "19:00",
           "home_team": "Chiclana CF",
           "away_team": "CA Osasuna",
@@ -451,7 +542,7 @@
           }
         },
         {
-          "date": "2024-10-31",
+          "date": "2024-11-06",
           "time": "19:00",
           "home_team": "Xerez CD",
           "away_team": "AD Ceuta FC",
@@ -510,7 +601,7 @@
       "matchday": "Round 2",
       "matches": [
         {
-          "date": "2024-11-26",
+          "date": "2024-12-03",
           "time": "19:00",
           "home_team": "Real Ávila CF",
           "away_team": "Real Valladolid",
@@ -519,7 +610,7 @@
           }
         },
         {
-          "date": "2024-11-26",
+          "date": "2024-12-03",
           "time": "20:00",
           "home_team": "Yeclano Deportivo",
           "away_team": "Elche CF",
@@ -528,7 +619,7 @@
           }
         },
         {
-          "date": "2024-11-26",
+          "date": "2024-12-03",
           "time": "21:00",
           "home_team": "Salamanca CF UDS",
           "away_team": "RC Celta",
@@ -537,7 +628,7 @@
           }
         },
         {
-          "date": "2024-11-26",
+          "date": "2024-12-03",
           "time": "21:00",
           "home_team": "UD Barbastro",
           "away_team": "Espanyol Barcelona",
@@ -546,7 +637,7 @@
           }
         },
         {
-          "date": "2024-11-26",
+          "date": "2024-12-03",
           "time": "21:00",
           "home_team": "Real Zaragoza",
           "away_team": "Granada CF",
@@ -555,7 +646,7 @@
           }
         },
         {
-          "date": "2024-11-26",
+          "date": "2024-12-03",
           "time": "21:15",
           "home_team": "CE Europa",
           "away_team": "UD Las Palmas",
@@ -564,7 +655,7 @@
           }
         },
         {
-          "date": "2024-11-26",
+          "date": "2024-12-04",
           "time": "19:00",
           "home_team": "UE Sant Andreu",
           "away_team": "Real Betis",
@@ -573,7 +664,7 @@
           }
         },
         {
-          "date": "2024-11-26",
+          "date": "2024-12-04",
           "time": "19:00",
           "home_team": "Unionistas CF",
           "away_team": "Rayo Vallecano",
@@ -582,7 +673,7 @@
           }
         },
         {
-          "date": "2024-11-26",
+          "date": "2024-12-04",
           "time": "19:00",
           "home_team": "Gimnàstic de Tarragona",
           "away_team": "SD Huesca",
@@ -591,7 +682,7 @@
           }
         },
         {
-          "date": "2024-11-26",
+          "date": "2024-12-04",
           "time": "20:00",
           "home_team": "Ourense CF",
           "away_team": "Deportivo La Coruña",
@@ -600,7 +691,7 @@
           }
         },
         {
-          "date": "2024-11-26",
+          "date": "2024-12-04",
           "time": "20:00",
           "home_team": "Cultural Leonesa",
           "away_team": "UD Almería",
@@ -609,7 +700,7 @@
           }
         },
         {
-          "date": "2024-11-26",
+          "date": "2024-12-04",
           "time": "20:00",
           "home_team": "Cádiz CF",
           "away_team": "CD Eldense",
@@ -618,7 +709,7 @@
           }
         },
         {
-          "date": "2024-11-26",
+          "date": "2024-12-04",
           "time": "20:30",
           "home_team": "Racing Santander",
           "away_team": "Sporting Gijón",
@@ -627,7 +718,7 @@
           }
         },
         {
-          "date": "2024-11-26",
+          "date": "2024-12-04",
           "time": "21:00",
           "home_team": "UD Logroñés",
           "away_team": "Girona FC",
@@ -636,7 +727,7 @@
           }
         },
         {
-          "date": "2024-11-26",
+          "date": "2024-12-04",
           "time": "21:00",
           "home_team": "SD Ejea",
           "away_team": "Valencia CF",
@@ -645,7 +736,7 @@
           }
         },
         {
-          "date": "2024-11-26",
+          "date": "2024-12-04",
           "time": "21:00",
           "home_team": "Pontevedra CF",
           "away_team": "Villarreal CF",
@@ -654,7 +745,7 @@
           }
         },
         {
-          "date": "2024-11-26",
+          "date": "2024-12-04",
           "time": "21:00",
           "home_team": "CD Estepona",
           "away_team": "CD Leganés",
@@ -663,7 +754,7 @@
           }
         },
         {
-          "date": "2024-11-26",
+          "date": "2024-12-04",
           "time": "21:00",
           "home_team": "Zamora CF",
           "away_team": "CD Tenerife",
@@ -672,7 +763,7 @@
           }
         },
         {
-          "date": "2024-11-26",
+          "date": "2024-12-05",
           "time": "19:00",
           "home_team": "CP Cacereño",
           "away_team": "Atlético Madrid",
@@ -681,7 +772,7 @@
           }
         },
         {
-          "date": "2024-11-26",
+          "date": "2024-12-05",
           "time": "19:00",
           "home_team": "Orihuela CF",
           "away_team": "Getafe CF",
@@ -690,7 +781,7 @@
           }
         },
         {
-          "date": "2024-11-26",
+          "date": "2024-12-05",
           "time": "19:00",
           "home_team": "AD Ceuta FC",
           "away_team": "CA Osasuna",
@@ -699,7 +790,7 @@
           }
         },
         {
-          "date": "2024-11-26",
+          "date": "2024-12-05",
           "time": "20:00",
           "home_team": "SD Ponferradina",
           "away_team": "CD Castellón",
@@ -708,7 +799,7 @@
           }
         },
         {
-          "date": "2024-11-26",
+          "date": "2024-12-05",
           "time": "20:00",
           "home_team": "Barakaldo CF",
           "away_team": "Racing Ferrol",
@@ -717,7 +808,7 @@
           }
         },
         {
-          "date": "2024-11-26",
+          "date": "2024-12-05",
           "time": "20:00",
           "home_team": "Marbella FC",
           "away_team": "Burgos CF",
@@ -726,7 +817,7 @@
           }
         },
         {
-          "date": "2024-11-26",
+          "date": "2024-12-05",
           "time": "20:00",
           "home_team": "FC Andorra",
           "away_team": "FC Cartagena",
@@ -735,7 +826,7 @@
           }
         },
         {
-          "date": "2024-11-26",
+          "date": "2024-12-05",
           "time": "21:00",
           "home_team": "UE Olot",
           "away_team": "Sevilla FC",
@@ -744,7 +835,7 @@
           }
         },
         {
-          "date": "2024-11-26",
+          "date": "2024-12-05",
           "time": "21:00",
           "home_team": "Deportiva Minera",
           "away_team": "CD Alavés",
@@ -753,7 +844,7 @@
           }
         },
         {
-          "date": "2024-11-26",
+          "date": "2024-12-05",
           "time": "21:00",
           "home_team": "UB Conquense",
           "away_team": "Real Sociedad",
@@ -767,7 +858,7 @@
       "matchday": "Round 3",
       "matches": [
         {
-          "date": "2024-11-26",
+          "date": "2025-01-03",
           "time": "19:00",
           "home_team": "Pontevedra CF",
           "away_team": "RCD Mallorca",
@@ -776,7 +867,7 @@
           }
         },
         {
-          "date": "2024-11-26",
+          "date": "2025-01-03",
           "time": "19:00",
           "home_team": "Granada CF",
           "away_team": "Getafe CF",
@@ -785,7 +876,7 @@
           }
         },
         {
-          "date": "2024-11-26",
+          "date": "2025-01-03",
           "time": "19:00",
           "home_team": "Racing Ferrol",
           "away_team": "Rayo Vallecano",
@@ -794,7 +885,7 @@
           }
         },
         {
-          "date": "2024-11-26",
+          "date": "2125-01-04",
           "time": "15:30",
           "home_team": "SD Huesca",
           "away_team": "Real Betis",
@@ -803,7 +894,7 @@
           }
         },
         {
-          "date": "2024-11-26",
+          "date": "2125-01-04",
           "time": "16:30",
           "home_team": "CD Tenerife",
           "away_team": "CA Osasuna",
@@ -812,7 +903,7 @@
           }
         },
         {
-          "date": "2024-11-26",
+          "date": "2125-01-04",
           "time": "17:30",
           "home_team": "UD Almería",
           "away_team": "Sevilla FC",
@@ -821,7 +912,7 @@
           }
         },
         {
-          "date": "2024-11-26",
+          "date": "2125-01-04",
           "time": "19:00",
           "home_team": "UD Barbastro",
           "away_team": "FC Barcelona",
@@ -830,7 +921,7 @@
           }
         },
         {
-          "date": "2024-11-26",
+          "date": "2125-01-04",
           "time": "21:30",
           "home_team": "UD Logroñés",
           "away_team": "Athletic Club",
@@ -839,7 +930,7 @@
           }
         },
         {
-          "date": "2024-11-26",
+          "date": "2125-01-04",
           "time": "21:30",
           "home_team": "Marbella FC",
           "away_team": "Atlético Madrid",
@@ -848,7 +939,7 @@
           }
         },
         {
-          "date": "2024-11-26",
+          "date": "2125-01-05",
           "time": "12:00",
           "home_team": "Ourense CF",
           "away_team": "Real Valladolid",
@@ -857,7 +948,7 @@
           }
         },
         {
-          "date": "2024-11-26",
+          "date": "2125-01-05",
           "time": "12:00",
           "home_team": "Elche CF",
           "away_team": "UD Las Palmas",
@@ -866,7 +957,7 @@
           }
         },
         {
-          "date": "2024-11-26",
+          "date": "2125-01-05",
           "time": "15:30",
           "home_team": "SD Ponferradina",
           "away_team": "Real Sociedad",
@@ -875,7 +966,7 @@
           }
         },
         {
-          "date": "2024-11-26",
+          "date": "2125-01-05",
           "time": "15:30",
           "home_team": "Racing Santander",
           "away_team": "RC Celta",
@@ -884,7 +975,7 @@
           }
         },
         {
-          "date": "2024-11-26",
+          "date": "2125-01-05",
           "time": "15:30",
           "home_team": "FC Cartagena",
           "away_team": "CD Leganés",
@@ -893,7 +984,7 @@
           }
         },
         {
-          "date": "2024-11-26",
+          "date": "2125-01-06",
           "time": "19:00",
           "home_team": "Deportiva Minera",
           "away_team": "Real Madrid",
@@ -902,7 +993,7 @@
           }
         },
         {
-          "date": "2024-11-26",
+          "date": "2125-01-07",
           "time": "21:00",
           "home_team": "CD Eldense",
           "away_team": "Valencia CF",
@@ -916,7 +1007,7 @@
       "matchday": "Round of 16",
       "matches": [
         {
-          "date": "2024-01-14",
+          "date": "2125-01-14",
           "time": "21:00",
           "home_team": "Ourense CF",
           "away_team": "Valencia CF",
@@ -925,7 +1016,7 @@
           }
         },
         {
-          "date": "2024-01-15",
+          "date": "2125-01-15",
           "time": "19:30",
           "home_team": "Pontevedra CF",
           "away_team": "Getafe CF",
@@ -934,7 +1025,7 @@
           }
         },
         {
-          "date": "2024-01-15",
+          "date": "2125-01-15",
           "time": "19:30",
           "home_team": "UD Almería",
           "away_team": "CD Leganés",
@@ -943,7 +1034,7 @@
           }
         },
         {
-          "date": "2024-01-15",
+          "date": "2125-01-15",
           "time": "21:00",
           "home_team": "FC Barcelona",
           "away_team": "Real Betis",
@@ -952,7 +1043,7 @@
           }
         },
         {
-          "date": "2024-01-15",
+          "date": "2125-01-15",
           "time": "21:30",
           "home_team": "Elche CF",
           "away_team": "Atlético Madrid",
@@ -961,7 +1052,7 @@
           }
         },
         {
-          "date": "2024-01-16",
+          "date": "2125-01-16",
           "time": "19:30",
           "home_team": "Real Sociedad",
           "away_team": "Rayo Vallecano",
@@ -970,7 +1061,7 @@
           }
         },
         {
-          "date": "2024-01-16",
+          "date": "2125-01-16",
           "time": "19:30",
           "home_team": "Athletic Club",
           "away_team": "CA Osasuna",
@@ -979,7 +1070,7 @@
           }
         },
         {
-          "date": "2024-01-16",
+          "date": "2125-01-16",
           "time": "21:30",
           "home_team": "Real Madrid",
           "away_team": "RC Celta",
@@ -993,7 +1084,7 @@
       "matchday": "Quarterfinals",
       "matches": [
         {
-          "date": "2024-01-16",
+          "date": "2125-02-04",
           "time": "21:30",
           "home_team": "Atlético Madrid",
           "away_team": "Getafe CF",
@@ -1002,7 +1093,7 @@
           }
         },
         {
-          "date": "2024-01-16",
+          "date": "2125-02-05",
           "time": "21:00",
           "home_team": "CD Leganés",
           "away_team": "Real Madrid",
@@ -1011,7 +1102,7 @@
           }
         },
         {
-          "date": "2024-01-16",
+          "date": "2125-02-06",
           "time": "19:30",
           "home_team": "Real Sociedad",
           "away_team": "CA Osasuna",
@@ -1020,7 +1111,7 @@
           }
         },
         {
-          "date": "2024-01-16",
+          "date": "2125-02-06",
           "time": "21:30",
           "home_team": "Valencia CF",
           "away_team": "FC Barcelona",
@@ -1034,7 +1125,7 @@
       "matchday": "Semifinals",
       "matches": [
         {
-          "date": "2024-02-25",
+          "date": "2125-02-25",
           "time": "21:30",
           "home_team": "FC Barcelona",
           "away_team": "Atlético Madrid",
@@ -1043,7 +1134,7 @@
           }
         },
         {
-          "date": "2024-02-26",
+          "date": "2125-02-26",
           "time": "21:30",
           "home_team": "Real Sociedad",
           "away_team": "Real Madrid",
@@ -1052,13 +1143,13 @@
           }
         },
         {
-          "date": "2024-02-26",
+          "date": "2125-04-01",
           "time": "21:30",
           "home_team": "Real Madrid",
           "away_team": "Real Sociedad"
         },
         {
-          "date": "2024-02-26",
+          "date": "2125-04-02",
           "time": "21:30",
           "home_team": "Atlético Madrid",
           "away_team": "FC Barcelona"

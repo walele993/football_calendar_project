@@ -6,7 +6,25 @@
       "matchday": "Group A",
       "matches": [
         {
-          "date": "2024-09-13",
+          "date": "2022-09-07",
+          "time": "18:45",
+          "home_team": "AFC Ajax (NED)",
+          "away_team": "Rangers FC (SCO)",
+          "result": {
+            "full_time": "4-0"
+          }
+        },
+        {
+          "date": "2022-09-07",
+          "time": "21:00",
+          "home_team": "SSC Napoli (ITA)",
+          "away_team": "Liverpool FC (ENG)",
+          "result": {
+            "full_time": "4-1"
+          }
+        },
+        {
+          "date": "2022-09-13",
           "time": "21:00",
           "home_team": "Liverpool FC (ENG)",
           "away_team": "AFC Ajax (NED)",
@@ -15,7 +33,7 @@
           }
         },
         {
-          "date": "2024-09-14",
+          "date": "2022-09-14",
           "time": "21:00",
           "home_team": "Rangers FC (SCO)",
           "away_team": "SSC Napoli (ITA)",
@@ -24,7 +42,7 @@
           }
         },
         {
-          "date": "2024-09-14",
+          "date": "2022-10-04",
           "time": "21:00",
           "home_team": "AFC Ajax (NED)",
           "away_team": "SSC Napoli (ITA)",
@@ -33,7 +51,7 @@
           }
         },
         {
-          "date": "2024-09-14",
+          "date": "2022-10-04",
           "time": "21:00",
           "home_team": "Liverpool FC (ENG)",
           "away_team": "Rangers FC (SCO)",
@@ -42,7 +60,7 @@
           }
         },
         {
-          "date": "2024-10-12",
+          "date": "2022-10-12",
           "time": "18:45",
           "home_team": "SSC Napoli (ITA)",
           "away_team": "AFC Ajax (NED)",
@@ -51,7 +69,7 @@
           }
         },
         {
-          "date": "2024-10-12",
+          "date": "2022-10-12",
           "time": "21:00",
           "home_team": "Rangers FC (SCO)",
           "away_team": "Liverpool FC (ENG)",
@@ -60,7 +78,7 @@
           }
         },
         {
-          "date": "2024-10-26",
+          "date": "2022-10-26",
           "time": "21:00",
           "home_team": "AFC Ajax (NED)",
           "away_team": "Liverpool FC (ENG)",
@@ -69,7 +87,7 @@
           }
         },
         {
-          "date": "2024-10-26",
+          "date": "2022-10-26",
           "time": "21:00",
           "home_team": "SSC Napoli (ITA)",
           "away_team": "Rangers FC (SCO)",
@@ -78,7 +96,7 @@
           }
         },
         {
-          "date": "2024-10-26",
+          "date": "2022-11-01",
           "time": "21:00",
           "home_team": "Rangers FC (SCO)",
           "away_team": "AFC Ajax (NED)",
@@ -87,7 +105,7 @@
           }
         },
         {
-          "date": "2024-10-26",
+          "date": "2022-11-01",
           "time": "21:00",
           "home_team": "Liverpool FC (ENG)",
           "away_team": "SSC Napoli (ITA)",
@@ -101,7 +119,7 @@
       "matchday": "Group B",
       "matches": [
         {
-          "date": "2024-10-26",
+          "date": "2022-09-07",
           "time": "21:00",
           "home_team": "Atlético Madrid (ESP)",
           "away_team": "FC Porto (POR)",
@@ -110,7 +128,7 @@
           }
         },
         {
-          "date": "2024-10-26",
+          "date": "2022-09-07",
           "time": "21:00",
           "home_team": "Club Brugge KV (BEL)",
           "away_team": "Bayer Leverkusen (GER)",
@@ -119,7 +137,7 @@
           }
         },
         {
-          "date": "2024-09-13",
+          "date": "2022-09-13",
           "time": "21:00",
           "home_team": "Bayer Leverkusen (GER)",
           "away_team": "Atlético Madrid (ESP)",
@@ -128,7 +146,7 @@
           }
         },
         {
-          "date": "2024-09-13",
+          "date": "2022-09-13",
           "time": "21:00",
           "home_team": "FC Porto (POR)",
           "away_team": "Club Brugge KV (BEL)",
@@ -137,7 +155,7 @@
           }
         },
         {
-          "date": "2024-09-13",
+          "date": "2022-10-04",
           "time": "21:00",
           "home_team": "Club Brugge KV (BEL)",
           "away_team": "Atlético Madrid (ESP)",
@@ -146,7 +164,7 @@
           }
         },
         {
-          "date": "2024-09-13",
+          "date": "2022-10-04",
           "time": "21:00",
           "home_team": "FC Porto (POR)",
           "away_team": "Bayer Leverkusen (GER)",
@@ -155,7 +173,7 @@
           }
         },
         {
-          "date": "2024-10-12",
+          "date": "2022-10-12",
           "time": "18:45",
           "home_team": "Atlético Madrid (ESP)",
           "away_team": "Club Brugge KV (BEL)",
@@ -164,7 +182,7 @@
           }
         },
         {
-          "date": "2024-10-12",
+          "date": "2022-10-12",
           "time": "21:00",
           "home_team": "Bayer Leverkusen (GER)",
           "away_team": "FC Porto (POR)",
@@ -173,7 +191,7 @@
           }
         },
         {
-          "date": "2024-10-26",
+          "date": "2022-10-26",
           "time": "18:45",
           "home_team": "Club Brugge KV (BEL)",
           "away_team": "FC Porto (POR)",
@@ -182,7 +200,7 @@
           }
         },
         {
-          "date": "2024-10-26",
+          "date": "2022-10-26",
           "time": "21:00",
           "home_team": "Atlético Madrid (ESP)",
           "away_team": "Bayer Leverkusen (GER)",
@@ -191,7 +209,7 @@
           }
         },
         {
-          "date": "2024-10-26",
+          "date": "2022-11-01",
           "time": "18:45",
           "home_team": "FC Porto (POR)",
           "away_team": "Atlético Madrid (ESP)",
@@ -200,7 +218,7 @@
           }
         },
         {
-          "date": "2024-10-26",
+          "date": "2022-11-01",
           "time": "18:45",
           "home_team": "Bayer Leverkusen (GER)",
           "away_team": "Club Brugge KV (BEL)",
@@ -214,7 +232,7 @@
       "matchday": "Group C",
       "matches": [
         {
-          "date": "2024-10-26",
+          "date": "2022-09-07",
           "time": "21:00",
           "home_team": "Inter (ITA)",
           "away_team": "Bayern München (GER)",
@@ -223,7 +241,7 @@
           }
         },
         {
-          "date": "2024-10-26",
+          "date": "2022-09-07",
           "time": "21:00",
           "home_team": "FC Barcelona (ESP)",
           "away_team": "Viktoria Plzeň (CZE)",
@@ -232,7 +250,7 @@
           }
         },
         {
-          "date": "2024-09-13",
+          "date": "2022-09-13",
           "time": "18:45",
           "home_team": "Viktoria Plzeň (CZE)",
           "away_team": "Inter (ITA)",
@@ -241,7 +259,7 @@
           }
         },
         {
-          "date": "2024-09-13",
+          "date": "2022-09-13",
           "time": "21:00",
           "home_team": "Bayern München (GER)",
           "away_team": "FC Barcelona (ESP)",
@@ -250,7 +268,7 @@
           }
         },
         {
-          "date": "2024-09-13",
+          "date": "2022-10-04",
           "time": "18:45",
           "home_team": "Bayern München (GER)",
           "away_team": "Viktoria Plzeň (CZE)",
@@ -259,7 +277,7 @@
           }
         },
         {
-          "date": "2024-09-13",
+          "date": "2022-10-04",
           "time": "21:00",
           "home_team": "Inter (ITA)",
           "away_team": "FC Barcelona (ESP)",
@@ -268,7 +286,7 @@
           }
         },
         {
-          "date": "2024-10-12",
+          "date": "2022-10-12",
           "time": "21:00",
           "home_team": "Viktoria Plzeň (CZE)",
           "away_team": "Bayern München (GER)",
@@ -277,7 +295,7 @@
           }
         },
         {
-          "date": "2024-10-12",
+          "date": "2022-10-12",
           "time": "21:00",
           "home_team": "FC Barcelona (ESP)",
           "away_team": "Inter (ITA)",
@@ -286,7 +304,7 @@
           }
         },
         {
-          "date": "2024-10-26",
+          "date": "2022-10-26",
           "time": "18:45",
           "home_team": "Inter (ITA)",
           "away_team": "Viktoria Plzeň (CZE)",
@@ -295,7 +313,7 @@
           }
         },
         {
-          "date": "2024-10-26",
+          "date": "2022-10-26",
           "time": "21:00",
           "home_team": "FC Barcelona (ESP)",
           "away_team": "Bayern München (GER)",
@@ -304,7 +322,7 @@
           }
         },
         {
-          "date": "2024-10-26",
+          "date": "2022-11-01",
           "time": "21:00",
           "home_team": "Bayern München (GER)",
           "away_team": "Inter (ITA)",
@@ -313,7 +331,7 @@
           }
         },
         {
-          "date": "2024-10-26",
+          "date": "2022-11-01",
           "time": "21:00",
           "home_team": "Viktoria Plzeň (CZE)",
           "away_team": "FC Barcelona (ESP)",
@@ -327,7 +345,7 @@
       "matchday": "Group D",
       "matches": [
         {
-          "date": "2024-10-26",
+          "date": "2022-09-07",
           "time": "18:45",
           "home_team": "Eintracht Frankfurt (GER)",
           "away_team": "Sporting CP (POR)",
@@ -336,7 +354,7 @@
           }
         },
         {
-          "date": "2024-10-26",
+          "date": "2022-09-07",
           "time": "21:00",
           "home_team": "Tottenham Hotspur (ENG)",
           "away_team": "Olympique Marseille (FRA)",
@@ -345,7 +363,7 @@
           }
         },
         {
-          "date": "2024-09-13",
+          "date": "2022-09-13",
           "time": "18:45",
           "home_team": "Sporting CP (POR)",
           "away_team": "Tottenham Hotspur (ENG)",
@@ -354,7 +372,7 @@
           }
         },
         {
-          "date": "2024-09-13",
+          "date": "2022-09-13",
           "time": "21:00",
           "home_team": "Olympique Marseille (FRA)",
           "away_team": "Eintracht Frankfurt (GER)",
@@ -363,7 +381,7 @@
           }
         },
         {
-          "date": "2024-09-13",
+          "date": "2022-10-04",
           "time": "18:45",
           "home_team": "Olympique Marseille (FRA)",
           "away_team": "Sporting CP (POR)",
@@ -372,7 +390,7 @@
           }
         },
         {
-          "date": "2024-09-13",
+          "date": "2022-10-04",
           "time": "21:00",
           "home_team": "Eintracht Frankfurt (GER)",
           "away_team": "Tottenham Hotspur (ENG)",
@@ -381,7 +399,7 @@
           }
         },
         {
-          "date": "2024-10-12",
+          "date": "2022-10-12",
           "time": "21:00",
           "home_team": "Tottenham Hotspur (ENG)",
           "away_team": "Eintracht Frankfurt (GER)",
@@ -390,7 +408,7 @@
           }
         },
         {
-          "date": "2024-10-12",
+          "date": "2022-10-12",
           "time": "21:00",
           "home_team": "Sporting CP (POR)",
           "away_team": "Olympique Marseille (FRA)",
@@ -399,7 +417,7 @@
           }
         },
         {
-          "date": "2024-10-26",
+          "date": "2022-10-26",
           "time": "21:00",
           "home_team": "Eintracht Frankfurt (GER)",
           "away_team": "Olympique Marseille (FRA)",
@@ -408,7 +426,7 @@
           }
         },
         {
-          "date": "2024-10-26",
+          "date": "2022-10-26",
           "time": "21:00",
           "home_team": "Tottenham Hotspur (ENG)",
           "away_team": "Sporting CP (POR)",
@@ -417,7 +435,7 @@
           }
         },
         {
-          "date": "2024-10-26",
+          "date": "2022-11-01",
           "time": "21:00",
           "home_team": "Sporting CP (POR)",
           "away_team": "Eintracht Frankfurt (GER)",
@@ -426,7 +444,7 @@
           }
         },
         {
-          "date": "2024-10-26",
+          "date": "2022-11-01",
           "time": "21:00",
           "home_team": "Olympique Marseille (FRA)",
           "away_team": "Tottenham Hotspur (ENG)",
@@ -440,7 +458,7 @@
       "matchday": "Group E",
       "matches": [
         {
-          "date": "2024-10-26",
+          "date": "2022-09-06",
           "time": "18:45",
           "home_team": "Dinamo Zagreb (CRO)",
           "away_team": "Chelsea FC (ENG)",
@@ -449,7 +467,7 @@
           }
         },
         {
-          "date": "2024-10-26",
+          "date": "2022-09-06",
           "time": "21:00",
           "home_team": "RB Salzburg (AUT)",
           "away_team": "AC Milan (ITA)",
@@ -458,7 +476,7 @@
           }
         },
         {
-          "date": "2024-09-14",
+          "date": "2022-09-14",
           "time": "18:45",
           "home_team": "AC Milan (ITA)",
           "away_team": "Dinamo Zagreb (CRO)",
@@ -467,7 +485,7 @@
           }
         },
         {
-          "date": "2024-09-14",
+          "date": "2022-09-14",
           "time": "21:00",
           "home_team": "Chelsea FC (ENG)",
           "away_team": "RB Salzburg (AUT)",
@@ -476,7 +494,7 @@
           }
         },
         {
-          "date": "2024-09-14",
+          "date": "2022-10-05",
           "time": "18:45",
           "home_team": "RB Salzburg (AUT)",
           "away_team": "Dinamo Zagreb (CRO)",
@@ -485,7 +503,7 @@
           }
         },
         {
-          "date": "2024-09-14",
+          "date": "2022-10-05",
           "time": "21:00",
           "home_team": "Chelsea FC (ENG)",
           "away_team": "AC Milan (ITA)",
@@ -494,7 +512,7 @@
           }
         },
         {
-          "date": "2024-10-11",
+          "date": "2022-10-11",
           "time": "21:00",
           "home_team": "AC Milan (ITA)",
           "away_team": "Chelsea FC (ENG)",
@@ -503,7 +521,7 @@
           }
         },
         {
-          "date": "2024-10-11",
+          "date": "2022-10-11",
           "time": "21:00",
           "home_team": "Dinamo Zagreb (CRO)",
           "away_team": "RB Salzburg (AUT)",
@@ -512,7 +530,7 @@
           }
         },
         {
-          "date": "2024-10-25",
+          "date": "2022-10-25",
           "time": "18:45",
           "home_team": "RB Salzburg (AUT)",
           "away_team": "Chelsea FC (ENG)",
@@ -521,7 +539,7 @@
           }
         },
         {
-          "date": "2024-10-25",
+          "date": "2022-10-25",
           "time": "21:00",
           "home_team": "Dinamo Zagreb (CRO)",
           "away_team": "AC Milan (ITA)",
@@ -530,7 +548,7 @@
           }
         },
         {
-          "date": "2024-10-25",
+          "date": "2022-11-02",
           "time": "21:00",
           "home_team": "AC Milan (ITA)",
           "away_team": "RB Salzburg (AUT)",
@@ -539,7 +557,7 @@
           }
         },
         {
-          "date": "2024-10-25",
+          "date": "2022-11-02",
           "time": "21:00",
           "home_team": "Chelsea FC (ENG)",
           "away_team": "Dinamo Zagreb (CRO)",
@@ -553,7 +571,7 @@
       "matchday": "Group F",
       "matches": [
         {
-          "date": "2024-10-25",
+          "date": "2022-09-06",
           "time": "21:00",
           "home_team": "Celtic FC (SCO)",
           "away_team": "Real Madrid (ESP)",
@@ -562,7 +580,7 @@
           }
         },
         {
-          "date": "2024-10-25",
+          "date": "2022-09-06",
           "time": "21:00",
           "home_team": "RB Leipzig (GER)",
           "away_team": "Shakhtar Donetsk (UKR)",
@@ -571,7 +589,7 @@
           }
         },
         {
-          "date": "2024-09-14",
+          "date": "2022-09-14",
           "time": "18:45",
           "home_team": "Shakhtar Donetsk (UKR)",
           "away_team": "Celtic FC (SCO)",
@@ -580,7 +598,7 @@
           }
         },
         {
-          "date": "2024-09-14",
+          "date": "2022-09-14",
           "time": "21:00",
           "home_team": "Real Madrid (ESP)",
           "away_team": "RB Leipzig (GER)",
@@ -589,7 +607,7 @@
           }
         },
         {
-          "date": "2024-09-14",
+          "date": "2022-10-05",
           "time": "18:45",
           "home_team": "RB Leipzig (GER)",
           "away_team": "Celtic FC (SCO)",
@@ -598,7 +616,7 @@
           }
         },
         {
-          "date": "2024-09-14",
+          "date": "2022-10-05",
           "time": "21:00",
           "home_team": "Real Madrid (ESP)",
           "away_team": "Shakhtar Donetsk (UKR)",
@@ -607,7 +625,7 @@
           }
         },
         {
-          "date": "2024-10-11",
+          "date": "2022-10-11",
           "time": "21:00",
           "home_team": "Celtic FC (SCO)",
           "away_team": "RB Leipzig (GER)",
@@ -616,7 +634,7 @@
           }
         },
         {
-          "date": "2024-10-11",
+          "date": "2022-10-11",
           "time": "21:00",
           "home_team": "Shakhtar Donetsk (UKR)",
           "away_team": "Real Madrid (ESP)",
@@ -625,7 +643,7 @@
           }
         },
         {
-          "date": "2024-10-25",
+          "date": "2022-10-25",
           "time": "21:00",
           "home_team": "Celtic FC (SCO)",
           "away_team": "Shakhtar Donetsk (UKR)",
@@ -634,7 +652,7 @@
           }
         },
         {
-          "date": "2024-10-25",
+          "date": "2022-10-25",
           "time": "21:00",
           "home_team": "RB Leipzig (GER)",
           "away_team": "Real Madrid (ESP)",
@@ -643,7 +661,7 @@
           }
         },
         {
-          "date": "2024-10-25",
+          "date": "2022-11-02",
           "time": "18:45",
           "home_team": "Real Madrid (ESP)",
           "away_team": "Celtic FC (SCO)",
@@ -652,7 +670,7 @@
           }
         },
         {
-          "date": "2024-10-25",
+          "date": "2022-11-02",
           "time": "18:45",
           "home_team": "Shakhtar Donetsk (UKR)",
           "away_team": "RB Leipzig (GER)",
@@ -666,7 +684,7 @@
       "matchday": "Gruppe G",
       "matches": [
         {
-          "date": "2024-10-25",
+          "date": "2022-09-06",
           "time": "18:45",
           "home_team": "Borussia Dortmund (GER)",
           "away_team": "FC København (DEN)",
@@ -675,7 +693,7 @@
           }
         },
         {
-          "date": "2024-10-25",
+          "date": "2022-09-06",
           "time": "21:00",
           "home_team": "Sevilla FC (ESP)",
           "away_team": "Manchester City (ENG)",
@@ -684,7 +702,7 @@
           }
         },
         {
-          "date": "2024-09-14",
+          "date": "2022-09-14",
           "time": "21:00",
           "home_team": "Manchester City (ENG)",
           "away_team": "Borussia Dortmund (GER)",
@@ -693,7 +711,7 @@
           }
         },
         {
-          "date": "2024-09-14",
+          "date": "2022-09-14",
           "time": "21:00",
           "home_team": "FC København (DEN)",
           "away_team": "Sevilla FC (ESP)",
@@ -702,7 +720,7 @@
           }
         },
         {
-          "date": "2024-09-14",
+          "date": "2022-10-05",
           "time": "21:00",
           "home_team": "Sevilla FC (ESP)",
           "away_team": "Borussia Dortmund (GER)",
@@ -711,7 +729,7 @@
           }
         },
         {
-          "date": "2024-09-14",
+          "date": "2022-10-05",
           "time": "21:00",
           "home_team": "Manchester City (ENG)",
           "away_team": "FC København (DEN)",
@@ -720,7 +738,7 @@
           }
         },
         {
-          "date": "2024-10-11",
+          "date": "2022-10-11",
           "time": "18:45",
           "home_team": "FC København (DEN)",
           "away_team": "Manchester City (ENG)",
@@ -729,7 +747,7 @@
           }
         },
         {
-          "date": "2024-10-11",
+          "date": "2022-10-11",
           "time": "21:00",
           "home_team": "Borussia Dortmund (GER)",
           "away_team": "Sevilla FC (ESP)",
@@ -738,7 +756,7 @@
           }
         },
         {
-          "date": "2024-10-25",
+          "date": "2022-10-25",
           "time": "18:45",
           "home_team": "Sevilla FC (ESP)",
           "away_team": "FC København (DEN)",
@@ -747,7 +765,7 @@
           }
         },
         {
-          "date": "2024-10-25",
+          "date": "2022-10-25",
           "time": "21:00",
           "home_team": "Borussia Dortmund (GER)",
           "away_team": "Manchester City (ENG)",
@@ -756,7 +774,7 @@
           }
         },
         {
-          "date": "2024-10-25",
+          "date": "2022-11-02",
           "time": "21:00",
           "home_team": "FC København (DEN)",
           "away_team": "Borussia Dortmund (GER)",
@@ -765,7 +783,7 @@
           }
         },
         {
-          "date": "2024-10-25",
+          "date": "2022-11-02",
           "time": "21:00",
           "home_team": "Manchester City (ENG)",
           "away_team": "Sevilla FC (ESP)",
@@ -779,7 +797,7 @@
       "matchday": "Gruppe H",
       "matches": [
         {
-          "date": "2024-10-25",
+          "date": "2022-09-06",
           "time": "21:00",
           "home_team": "Paris Saint-Germain (FRA)",
           "away_team": "Juventus (ITA)",
@@ -788,7 +806,7 @@
           }
         },
         {
-          "date": "2024-10-25",
+          "date": "2022-09-06",
           "time": "21:00",
           "home_team": "SL Benfica (POR)",
           "away_team": "Maccabi Haifa (ISR)",
@@ -797,7 +815,7 @@
           }
         },
         {
-          "date": "2024-09-14",
+          "date": "2022-09-14",
           "time": "21:00",
           "home_team": "Juventus (ITA)",
           "away_team": "SL Benfica (POR)",
@@ -806,7 +824,7 @@
           }
         },
         {
-          "date": "2024-09-14",
+          "date": "2022-09-14",
           "time": "21:00",
           "home_team": "Maccabi Haifa (ISR)",
           "away_team": "Paris Saint-Germain (FRA)",
@@ -815,7 +833,7 @@
           }
         },
         {
-          "date": "2024-09-14",
+          "date": "2022-10-05",
           "time": "21:00",
           "home_team": "Juventus (ITA)",
           "away_team": "Maccabi Haifa (ISR)",
@@ -824,7 +842,7 @@
           }
         },
         {
-          "date": "2024-09-14",
+          "date": "2022-10-05",
           "time": "21:00",
           "home_team": "SL Benfica (POR)",
           "away_team": "Paris Saint-Germain (FRA)",
@@ -833,7 +851,7 @@
           }
         },
         {
-          "date": "2024-10-11",
+          "date": "2022-10-11",
           "time": "18:45",
           "home_team": "Maccabi Haifa (ISR)",
           "away_team": "Juventus (ITA)",
@@ -842,7 +860,7 @@
           }
         },
         {
-          "date": "2024-10-11",
+          "date": "2022-10-11",
           "time": "21:00",
           "home_team": "Paris Saint-Germain (FRA)",
           "away_team": "SL Benfica (POR)",
@@ -851,7 +869,7 @@
           }
         },
         {
-          "date": "2024-10-25",
+          "date": "2022-10-25",
           "time": "21:00",
           "home_team": "SL Benfica (POR)",
           "away_team": "Juventus (ITA)",
@@ -860,7 +878,7 @@
           }
         },
         {
-          "date": "2024-10-25",
+          "date": "2022-10-25",
           "time": "21:00",
           "home_team": "Paris Saint-Germain (FRA)",
           "away_team": "Maccabi Haifa (ISR)",
@@ -869,7 +887,7 @@
           }
         },
         {
-          "date": "2024-10-25",
+          "date": "2022-11-02",
           "time": "21:00",
           "home_team": "Juventus (ITA)",
           "away_team": "Paris Saint-Germain (FRA)",
@@ -878,7 +896,7 @@
           }
         },
         {
-          "date": "2024-10-25",
+          "date": "2022-11-02",
           "time": "21:00",
           "home_team": "Maccabi Haifa (ISR)",
           "away_team": "SL Benfica (POR)",
@@ -910,7 +928,7 @@
           }
         },
         {
-          "date": "2024-02-15",
+          "date": "2123-02-15",
           "time": "21:00",
           "home_team": "Club Brugge KV (BEL)",
           "away_team": "SL Benfica (POR)",
@@ -919,7 +937,7 @@
           }
         },
         {
-          "date": "2024-02-15",
+          "date": "2123-02-15",
           "time": "21:00",
           "home_team": "Borussia Dortmund (GER)",
           "away_team": "Chelsea FC (ENG)",
@@ -928,7 +946,7 @@
           }
         },
         {
-          "date": "2024-02-21",
+          "date": "2123-02-21",
           "time": "21:00",
           "home_team": "Liverpool FC (ENG)",
           "away_team": "Real Madrid (ESP)",
@@ -937,7 +955,7 @@
           }
         },
         {
-          "date": "2024-02-21",
+          "date": "2123-02-21",
           "time": "21:00",
           "home_team": "Eintracht Frankfurt (GER)",
           "away_team": "SSC Napoli (ITA)",
@@ -946,7 +964,7 @@
           }
         },
         {
-          "date": "2024-02-22",
+          "date": "2123-02-22",
           "time": "21:00",
           "home_team": "RB Leipzig (GER)",
           "away_team": "Manchester City (ENG)",
@@ -955,7 +973,7 @@
           }
         },
         {
-          "date": "2024-02-22",
+          "date": "2123-02-22",
           "time": "21:00",
           "home_team": "Inter (ITA)",
           "away_team": "FC Porto (POR)",
@@ -964,7 +982,7 @@
           }
         },
         {
-          "date": "2024-02-22",
+          "date": "2123-03-07",
           "time": "21:00",
           "home_team": "SL Benfica (POR)",
           "away_team": "Club Brugge KV (BEL)",
@@ -973,7 +991,7 @@
           }
         },
         {
-          "date": "2024-02-22",
+          "date": "2123-03-07",
           "time": "21:10",
           "home_team": "Chelsea FC (ENG)",
           "away_team": "Borussia Dortmund (GER)",
@@ -982,7 +1000,7 @@
           }
         },
         {
-          "date": "2024-02-22",
+          "date": "2123-03-08",
           "time": "21:00",
           "home_team": "Bayern München (GER)",
           "away_team": "Paris Saint-Germain (FRA)",
@@ -991,7 +1009,7 @@
           }
         },
         {
-          "date": "2024-02-22",
+          "date": "2123-03-08",
           "time": "21:10",
           "home_team": "Tottenham Hotspur (ENG)",
           "away_team": "AC Milan (ITA)",
@@ -1000,7 +1018,7 @@
           }
         },
         {
-          "date": "2024-03-14",
+          "date": "2123-03-14",
           "time": "21:00",
           "home_team": "Manchester City (ENG)",
           "away_team": "RB Leipzig (GER)",
@@ -1009,7 +1027,7 @@
           }
         },
         {
-          "date": "2024-03-14",
+          "date": "2123-03-14",
           "time": "21:00",
           "home_team": "FC Porto (POR)",
           "away_team": "Inter (ITA)",
@@ -1018,7 +1036,7 @@
           }
         },
         {
-          "date": "2024-03-15",
+          "date": "2123-03-15",
           "time": "21:00",
           "home_team": "Real Madrid (ESP)",
           "away_team": "Liverpool FC (ENG)",
@@ -1027,7 +1045,7 @@
           }
         },
         {
-          "date": "2024-03-15",
+          "date": "2123-03-15",
           "time": "21:00",
           "home_team": "SSC Napoli (ITA)",
           "away_team": "Eintracht Frankfurt (GER)",
@@ -1041,7 +1059,7 @@
       "matchday": "Quarterfinals",
       "matches": [
         {
-          "date": "2024-04-11",
+          "date": "2123-04-11",
           "time": "21:00",
           "home_team": "SL Benfica (POR)",
           "away_team": "Inter (ITA)",
@@ -1050,7 +1068,7 @@
           }
         },
         {
-          "date": "2024-04-11",
+          "date": "2123-04-11",
           "time": "21:00",
           "home_team": "Manchester City (ENG)",
           "away_team": "Bayern München (GER)",
@@ -1059,7 +1077,7 @@
           }
         },
         {
-          "date": "2024-04-12",
+          "date": "2123-04-12",
           "time": "21:00",
           "home_team": "Real Madrid (ESP)",
           "away_team": "Chelsea FC (ENG)",
@@ -1068,7 +1086,7 @@
           }
         },
         {
-          "date": "2024-04-12",
+          "date": "2123-04-12",
           "time": "21:00",
           "home_team": "AC Milan (ITA)",
           "away_team": "SSC Napoli (ITA)",
@@ -1077,7 +1095,7 @@
           }
         },
         {
-          "date": "2024-04-18",
+          "date": "2123-04-18",
           "time": "21:00",
           "home_team": "Chelsea FC (ENG)",
           "away_team": "Real Madrid (ESP)",
@@ -1086,7 +1104,7 @@
           }
         },
         {
-          "date": "2024-04-18",
+          "date": "2123-04-18",
           "time": "21:00",
           "home_team": "SSC Napoli (ITA)",
           "away_team": "AC Milan (ITA)",
@@ -1095,7 +1113,7 @@
           }
         },
         {
-          "date": "2024-04-19",
+          "date": "2123-04-19",
           "time": "21:00",
           "home_team": "Inter (ITA)",
           "away_team": "SL Benfica (POR)",
@@ -1104,7 +1122,7 @@
           }
         },
         {
-          "date": "2024-04-19",
+          "date": "2123-04-19",
           "time": "21:00",
           "home_team": "Bayern München (GER)",
           "away_team": "Manchester City (ENG)",
@@ -1118,7 +1136,7 @@
       "matchday": "Semifinals",
       "matches": [
         {
-          "date": "2024-04-19",
+          "date": "2123-05-09",
           "time": "21:00",
           "home_team": "Real Madrid (ESP)",
           "away_team": "Manchester City (ENG)",
@@ -1127,7 +1145,7 @@
           }
         },
         {
-          "date": "2024-05-10",
+          "date": "2123-05-10",
           "time": "21:00",
           "home_team": "AC Milan (ITA)",
           "away_team": "Inter (ITA)",
@@ -1136,7 +1154,7 @@
           }
         },
         {
-          "date": "2024-05-16",
+          "date": "2123-05-16",
           "time": "21:00",
           "home_team": "Inter (ITA)",
           "away_team": "AC Milan (ITA)",
@@ -1145,7 +1163,7 @@
           }
         },
         {
-          "date": "2024-05-17",
+          "date": "2123-05-17",
           "time": "21:00",
           "home_team": "Manchester City (ENG)",
           "away_team": "Real Madrid (ESP)",
@@ -1159,7 +1177,7 @@
       "matchday": "Final",
       "matches": [
         {
-          "date": "2024-06-10",
+          "date": "2123-06-10",
           "time": "21:00",
           "home_team": "Manchester City (ENG)",
           "away_team": "Inter (ITA)",
