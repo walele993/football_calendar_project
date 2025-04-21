@@ -2395,19 +2395,28 @@
           "date": "2025-04-07",
           "time": "18:45",
           "home_team": "SC Farense",
-          "away_team": "Casa Pia AC"
+          "away_team": "Casa Pia AC",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2025-04-07",
           "time": "20:15",
           "home_team": "Rio Ave FC",
-          "away_team": "Boavista FC"
+          "away_team": "Boavista FC",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2025-04-07",
           "time": "20:45",
           "home_team": "Sporting Clube de Portugal",
-          "away_team": "Sporting Clube de Braga"
+          "away_team": "Sporting Clube de Braga",
+          "result": {
+            "full_time": "1-1"
+          }
         }
       ]
     },
@@ -2418,55 +2427,82 @@
           "date": "2025-04-11",
           "time": "20:15",
           "home_team": "Gil Vicente FC",
-          "away_team": "Vitória Guimarães"
+          "away_team": "Vitória Guimarães",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2025-04-12",
           "time": "15:30",
           "home_team": "FC Famalicão",
-          "away_team": "GD Estoril Praia"
+          "away_team": "GD Estoril Praia",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2025-04-12",
           "time": "15:30",
           "home_team": "Boavista FC",
-          "away_team": "CD Nacional"
+          "away_team": "CD Nacional",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2025-04-12",
           "time": "18:00",
           "home_team": "CD Santa Clara",
-          "away_team": "Sporting Clube de Portugal"
+          "away_team": "Sporting Clube de Portugal",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2025-04-12",
           "time": "20:30",
           "home_team": "Casa Pia AC",
-          "away_team": "FC Porto"
+          "away_team": "FC Porto",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2025-04-13",
           "time": "15:30",
           "home_team": "CF Estrela da Amadora",
-          "away_team": "SC Farense"
+          "away_team": "SC Farense",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2025-04-13",
           "time": "18:00",
           "home_team": "Sporting Clube de Braga",
-          "away_team": "AVS"
+          "away_team": "AVS",
+          "result": {
+            "full_time": "4-1"
+          }
         },
         {
           "date": "2025-04-13",
           "time": "18:00",
           "home_team": "Sport Lisboa e Benfica",
-          "away_team": "FC Arouca"
+          "away_team": "FC Arouca",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2025-04-13",
           "time": "20:30",
           "home_team": "Moreirense FC",
-          "away_team": "Rio Ave FC"
+          "away_team": "Rio Ave FC",
+          "result": {
+            "full_time": "0-2"
+          }
         }
       ]
     },
@@ -2477,55 +2513,82 @@
           "date": "2025-04-18",
           "time": "15:30",
           "home_team": "SC Farense",
-          "away_team": "Boavista FC"
+          "away_team": "Boavista FC",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2025-04-18",
           "time": "15:30",
           "home_team": "Rio Ave FC",
-          "away_team": "CD Santa Clara"
+          "away_team": "CD Santa Clara",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-04-18",
           "time": "18:00",
           "home_team": "FC Porto",
-          "away_team": "FC Famalicão"
+          "away_team": "FC Famalicão",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2025-04-18",
           "time": "20:30",
           "home_team": "Sporting Clube de Portugal",
-          "away_team": "Moreirense FC"
+          "away_team": "Moreirense FC",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2025-04-19",
           "time": "15:30",
           "home_team": "CD Nacional",
-          "away_team": "Gil Vicente FC"
+          "away_team": "Gil Vicente FC",
+          "result": {
+            "full_time": "0-3"
+          }
         },
         {
           "date": "2025-04-19",
           "time": "15:30",
           "home_team": "AVS",
-          "away_team": "Casa Pia AC"
+          "away_team": "Casa Pia AC",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-04-19",
           "time": "18:00",
           "home_team": "GD Estoril Praia",
-          "away_team": "Sporting Clube de Braga"
+          "away_team": "Sporting Clube de Braga",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2025-04-19",
           "time": "18:00",
           "home_team": "FC Arouca",
-          "away_team": "CF Estrela da Amadora"
+          "away_team": "CF Estrela da Amadora",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2025-04-19",
           "time": "20:30",
           "home_team": "Vitória Guimarães",
-          "away_team": "Sport Lisboa e Benfica"
+          "away_team": "Sport Lisboa e Benfica",
+          "result": {
+            "full_time": "0-3"
+          }
         }
       ]
     },
