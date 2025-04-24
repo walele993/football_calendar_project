@@ -95,7 +95,6 @@ def parse_football_txt(content):
 
         # Match line
         if ' v ' in line and current_date:
-            line = re.sub(r'^\d+\.\s*', '', line)
             home_away = re.split(r"\s+v\s+", line)
             if len(home_away) != 2:
                 continue
