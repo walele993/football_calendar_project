@@ -124,7 +124,7 @@ def parse_football_txt(content):
                 "date": current_date,
                 "time": current_time,
                 "home_team": home.strip(),
-                "away_team": away
+                "away_team": away.strip()
             }
             if result:
                 match["result"] = result
