@@ -1078,24 +1078,70 @@
           "date": "2025-03-29",
           "time": "12:15",
           "home_team": "Fulham FC",
-          "away_team": "Crystal Palace"
+          "away_team": "Crystal Palace",
+          "result": {
+            "full_time": "0-3"
+          }
         },
         {
           "date": "2025-03-29",
           "time": "17:15",
           "home_team": "Brighton & Hove Albion",
-          "away_team": "Nottingham Forest"
+          "away_team": "Nottingham Forest",
+          "result": {
+            "full_time": "3-4"
+          }
         },
         {
           "date": "2025-03-30",
           "time": "13:30",
           "home_team": "Preston North End",
-          "away_team": "Aston Villa"
+          "away_team": "Aston Villa",
+          "result": {
+            "full_time": "0-3"
+          }
         },
         {
           "date": "2025-03-30",
           "time": "16:30",
           "home_team": "AFC Bournemouth",
+          "away_team": "Manchester City",
+          "result": {
+            "full_time": "1-2"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Semifinals",
+      "matches": [
+        {
+          "date": "2025-04-26",
+          "time": "17:15",
+          "home_team": "Crystal Palace",
+          "away_team": "Aston Villa",
+          "result": {
+            "full_time": "3-0"
+          }
+        },
+        {
+          "date": "2025-04-27",
+          "time": "16:30",
+          "home_team": "Nottingham Forest",
+          "away_team": "Manchester City",
+          "result": {
+            "full_time": "0-2"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Final",
+      "matches": [
+        {
+          "date": "2025-05-17",
+          "time": "16:30",
+          "home_team": "Crystal Palace",
           "away_team": "Manchester City"
         }
       ]

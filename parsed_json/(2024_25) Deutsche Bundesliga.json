@@ -2557,19 +2557,28 @@
           "date": "2025-04-20",
           "time": "15:30",
           "home_team": "FC Augsburg",
-          "away_team": "Eintracht Frankfurt"
+          "away_team": "Eintracht Frankfurt",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2025-04-20",
           "time": "17:30",
           "home_team": "Borussia Dortmund",
-          "away_team": "Borussia Mönchengladbach"
+          "away_team": "Borussia Mönchengladbach",
+          "result": {
+            "full_time": "3-2"
+          }
         },
         {
           "date": "2025-04-20",
           "time": "19:30",
           "home_team": "FC St. Pauli 1910",
-          "away_team": "Bayer 04 Leverkusen"
+          "away_team": "Bayer 04 Leverkusen",
+          "result": {
+            "full_time": "1-1"
+          }
         }
       ]
     },
@@ -2580,55 +2589,82 @@
           "date": "2025-04-25",
           "time": "20:30",
           "home_team": "VfB Stuttgart",
-          "away_team": "1. FC Heidenheim 1846"
+          "away_team": "1. FC Heidenheim 1846",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2025-04-26",
           "time": "15:30",
           "home_team": "TSG 1899 Hoffenheim",
-          "away_team": "Borussia Dortmund"
+          "away_team": "Borussia Dortmund",
+          "result": {
+            "full_time": "2-3"
+          }
         },
         {
           "date": "2025-04-26",
           "time": "15:30",
           "home_team": "VfL Wolfsburg",
-          "away_team": "SC Freiburg"
+          "away_team": "SC Freiburg",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2025-04-26",
           "time": "15:30",
           "home_team": "FC Bayern München",
-          "away_team": "1. FSV Mainz 05"
+          "away_team": "1. FSV Mainz 05",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2025-04-26",
           "time": "15:30",
           "home_team": "Holstein Kiel",
-          "away_team": "Borussia Mönchengladbach"
+          "away_team": "Borussia Mönchengladbach",
+          "result": {
+            "full_time": "4-3"
+          }
         },
         {
           "date": "2025-04-26",
           "time": "15:30",
           "home_team": "Bayer 04 Leverkusen",
-          "away_team": "FC Augsburg"
+          "away_team": "FC Augsburg",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2025-04-26",
           "time": "18:30",
           "home_team": "Eintracht Frankfurt",
-          "away_team": "RB Leipzig"
+          "away_team": "RB Leipzig",
+          "result": {
+            "full_time": "4-0"
+          }
         },
         {
           "date": "2025-04-27",
           "time": "15:30",
           "home_team": "VfL Bochum 1848",
-          "away_team": "1. FC Union Berlin"
+          "away_team": "1. FC Union Berlin",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-04-27",
           "time": "17:30",
           "home_team": "SV Werder Bremen",
-          "away_team": "FC St. Pauli 1910"
+          "away_team": "FC St. Pauli 1910",
+          "result": {
+            "full_time": "0-0"
+          }
         }
       ]
     },

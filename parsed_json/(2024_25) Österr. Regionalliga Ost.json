@@ -688,7 +688,10 @@
           "date": "2025-04-21",
           "time": "17:00",
           "home_team": "FCM Traiskirchen",
-          "away_team": "Wiener Sport-Club"
+          "away_team": "Wiener Sport-Club",
+          "result": {
+            "full_time": "0-1"
+          }
         }
       ]
     },
@@ -1378,7 +1381,10 @@
           "date": "2025-03-26",
           "time": "19:00",
           "home_team": "SV Gloggnitz",
-          "away_team": "SV Leobendorf"
+          "away_team": "SV Leobendorf",
+          "result": {
+            "full_time": "2-2"
+          }
         }
       ]
     },
@@ -1449,7 +1455,7 @@
           }
         },
         {
-          "date": "2025-04-29",
+          "date": "2025-05-13",
           "time": "19:00",
           "home_team": "Austria Wien II",
           "away_team": "SR Donaufeld"
@@ -1463,49 +1469,73 @@
           "date": "2025-03-28",
           "time": "19:00",
           "home_team": "SC Neusiedl/See 1919",
-          "away_team": "Austria Wien II"
+          "away_team": "Austria Wien II",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-03-28",
           "time": "19:00",
           "home_team": "FC Marchfeld Donauauen",
-          "away_team": "SV Oberwart"
+          "away_team": "SV Oberwart",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2025-03-28",
           "time": "19:30",
           "home_team": "Wiener Sport-Club",
-          "away_team": "TWL Elektra"
+          "away_team": "TWL Elektra",
+          "result": {
+            "full_time": "4-0"
+          }
         },
         {
           "date": "2025-03-28",
           "time": "19:30",
           "home_team": "Favoritner AC",
-          "away_team": "Kremser SC"
+          "away_team": "Kremser SC",
+          "result": {
+            "full_time": "0-3"
+          }
         },
         {
           "date": "2025-03-28",
-          "time": "19:30",
+          "time": "19:45",
           "home_team": "FCM Traiskirchen",
-          "away_team": "ASV Siegendorf"
-        },
-        {
-          "date": "2025-03-29",
-          "time": "15:00",
-          "home_team": "SR Donaufeld",
-          "away_team": "SV Leobendorf"
-        },
-        {
-          "date": "2025-03-29",
-          "time": "16:00",
-          "home_team": "SV Gloggnitz",
-          "away_team": "Sportunion Mauer"
+          "away_team": "ASV Siegendorf",
+          "result": {
+            "full_time": "3-3"
+          }
         },
         {
           "date": "2025-03-29",
           "time": "16:00",
           "home_team": "SC Wiener Viktoria",
-          "away_team": "FC Mauerwerk"
+          "away_team": "FC Mauerwerk",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2025-04-08",
+          "time": "20:00",
+          "home_team": "SV Gloggnitz",
+          "away_team": "Sportunion Mauer",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2025-04-21",
+          "time": "17:00",
+          "home_team": "SR Donaufeld",
+          "away_team": "SV Leobendorf",
+          "result": {
+            "full_time": "3-1"
+          }
         }
       ]
     },
@@ -1516,49 +1546,73 @@
           "date": "2025-04-04",
           "time": "18:00",
           "home_team": "SV Leobendorf",
-          "away_team": "SC Neusiedl/See 1919"
+          "away_team": "SC Neusiedl/See 1919",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2025-04-04",
           "time": "19:00",
           "home_team": "ASV Siegendorf",
-          "away_team": "SC Wiener Viktoria"
+          "away_team": "SC Wiener Viktoria",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-04-04",
           "time": "19:00",
           "home_team": "FC Mauerwerk",
-          "away_team": "SV Gloggnitz"
+          "away_team": "SV Gloggnitz",
+          "result": {
+            "full_time": "1-4"
+          }
         },
         {
           "date": "2025-04-04",
           "time": "19:30",
           "home_team": "SV Oberwart",
-          "away_team": "Kremser SC"
+          "away_team": "Kremser SC",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-04-04",
           "time": "19:30",
           "home_team": "Austria Wien II",
-          "away_team": "FC Marchfeld Donauauen"
+          "away_team": "FC Marchfeld Donauauen",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2025-04-04",
           "time": "19:30",
           "home_team": "TWL Elektra",
-          "away_team": "SR Donaufeld"
+          "away_team": "SR Donaufeld",
+          "result": {
+            "full_time": "0-3"
+          }
         },
         {
           "date": "2025-04-04",
           "time": "19:30",
           "home_team": "FCM Traiskirchen",
-          "away_team": "Favoritner AC"
+          "away_team": "Favoritner AC",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2025-04-05",
           "time": "14:00",
           "home_team": "Sportunion Mauer",
-          "away_team": "Wiener Sport-Club"
+          "away_team": "Wiener Sport-Club",
+          "result": {
+            "full_time": "1-2"
+          }
         }
       ]
     },
@@ -1569,49 +1623,73 @@
           "date": "2025-04-11",
           "time": "18:30",
           "home_team": "FCM Traiskirchen",
-          "away_team": "SC Wiener Viktoria"
+          "away_team": "SC Wiener Viktoria",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2025-04-11",
           "time": "19:00",
           "home_team": "SC Neusiedl/See 1919",
-          "away_team": "TWL Elektra"
+          "away_team": "TWL Elektra",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2025-04-11",
           "time": "19:00",
           "home_team": "FC Marchfeld Donauauen",
-          "away_team": "SV Leobendorf"
+          "away_team": "SV Leobendorf",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2025-04-11",
           "time": "19:00",
           "home_team": "SV Gloggnitz",
-          "away_team": "ASV Siegendorf"
+          "away_team": "ASV Siegendorf",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2025-04-11",
           "time": "19:30",
           "home_team": "Wiener Sport-Club",
-          "away_team": "FC Mauerwerk"
+          "away_team": "FC Mauerwerk",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-04-11",
           "time": "19:30",
           "home_team": "Favoritner AC",
-          "away_team": "SV Oberwart"
+          "away_team": "SV Oberwart",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2025-04-11",
           "time": "19:30",
           "home_team": "Kremser SC",
-          "away_team": "Austria Wien II"
+          "away_team": "Austria Wien II",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2025-04-12",
           "time": "16:00",
           "home_team": "SR Donaufeld",
-          "away_team": "Sportunion Mauer"
+          "away_team": "Sportunion Mauer",
+          "result": {
+            "full_time": "2-0"
+          }
         }
       ]
     },
@@ -1620,51 +1698,75 @@
       "matches": [
         {
           "date": "2025-04-18",
+          "time": "18:30",
+          "home_team": "SV Leobendorf",
+          "away_team": "Kremser SC",
+          "result": {
+            "full_time": "2-3"
+          }
+        },
+        {
+          "date": "2025-04-18",
           "time": "19:00",
           "home_team": "FC Mauerwerk",
-          "away_team": "SR Donaufeld"
+          "away_team": "SR Donaufeld",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2025-04-18",
           "time": "19:00",
           "home_team": "ASV Siegendorf",
-          "away_team": "Wiener Sport-Club"
+          "away_team": "Wiener Sport-Club",
+          "result": {
+            "full_time": "0-3"
+          }
         },
         {
           "date": "2025-04-18",
           "time": "19:00",
           "home_team": "SC Wiener Viktoria",
-          "away_team": "Favoritner AC"
+          "away_team": "Favoritner AC",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-04-18",
           "time": "19:30",
           "home_team": "Austria Wien II",
-          "away_team": "SV Oberwart"
+          "away_team": "SV Oberwart",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2025-04-18",
           "time": "19:30",
           "home_team": "FCM Traiskirchen",
-          "away_team": "SV Gloggnitz"
+          "away_team": "SV Gloggnitz",
+          "result": {
+            "full_time": "3-2"
+          }
         },
         {
           "date": "2025-04-18",
           "time": "19:30",
           "home_team": "TWL Elektra",
-          "away_team": "FC Marchfeld Donauauen"
+          "away_team": "FC Marchfeld Donauauen",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2025-04-19",
           "time": "14:00",
           "home_team": "Sportunion Mauer",
-          "away_team": "SC Neusiedl/See 1919"
-        },
-        {
-          "date": "2025-04-19",
-          "time": "16:30",
-          "home_team": "SV Leobendorf",
-          "away_team": "Kremser SC"
+          "away_team": "SC Neusiedl/See 1919",
+          "result": {
+            "full_time": "0-0"
+          }
         }
       ]
     },
@@ -1673,51 +1775,69 @@
       "matches": [
         {
           "date": "2025-04-25",
-          "time": "19:00",
+          "time": "18:00",
           "home_team": "SC Neusiedl/See 1919",
-          "away_team": "FC Mauerwerk"
+          "away_team": "FC Mauerwerk",
+          "result": {
+            "full_time": "5-1"
+          }
         },
         {
           "date": "2025-04-25",
           "time": "19:00",
           "home_team": "FC Marchfeld Donauauen",
-          "away_team": "Sportunion Mauer"
+          "away_team": "Sportunion Mauer",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2025-04-25",
           "time": "19:00",
           "home_team": "SV Gloggnitz",
-          "away_team": "SC Wiener Viktoria"
-        },
-        {
-          "date": "2025-04-25",
-          "time": "19:30",
-          "home_team": "Kremser SC",
-          "away_team": "TWL Elektra"
-        },
-        {
-          "date": "2025-04-25",
-          "time": "19:30",
-          "home_team": "Wiener Sport-Club",
-          "away_team": "FCM Traiskirchen"
+          "away_team": "SC Wiener Viktoria",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2025-04-25",
           "time": "19:30",
           "home_team": "SV Oberwart",
-          "away_team": "SV Leobendorf"
+          "away_team": "SV Leobendorf",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2025-04-25",
           "time": "19:30",
           "home_team": "Favoritner AC",
-          "away_team": "Austria Wien II"
+          "away_team": "Austria Wien II",
+          "result": {
+            "full_time": "3-6"
+          }
         },
         {
           "date": "2025-04-26",
           "time": "16:00",
           "home_team": "SR Donaufeld",
-          "away_team": "ASV Siegendorf"
+          "away_team": "ASV Siegendorf",
+          "result": {
+            "full_time": "4-0"
+          }
+        },
+        {
+          "date": "2025-04-29",
+          "time": "19:00",
+          "home_team": "Wiener Sport-Club",
+          "away_team": "FCM Traiskirchen"
+        },
+        {
+          "date": "2025-04-29",
+          "time": "19:30",
+          "home_team": "Kremser SC",
+          "away_team": "TWL Elektra"
         }
       ]
     },
@@ -1885,15 +2005,21 @@
       "matches": [
         {
           "date": "2025-05-23",
-          "time": "19:00",
-          "home_team": "FC Marchfeld Donauauen",
-          "away_team": "SC Wiener Viktoria"
+          "time": "18:00",
+          "home_team": "SC Neusiedl/See 1919",
+          "away_team": "SV Gloggnitz"
+        },
+        {
+          "date": "2025-05-23",
+          "time": "18:00",
+          "home_team": "SR Donaufeld",
+          "away_team": "Wiener Sport-Club"
         },
         {
           "date": "2025-05-23",
           "time": "19:00",
-          "home_team": "SC Neusiedl/See 1919",
-          "away_team": "SV Gloggnitz"
+          "home_team": "FC Marchfeld Donauauen",
+          "away_team": "SC Wiener Viktoria"
         },
         {
           "date": "2025-05-23",
@@ -1918,12 +2044,6 @@
           "time": "19:30",
           "home_team": "Favoritner AC",
           "away_team": "TWL Elektra"
-        },
-        {
-          "date": "2025-05-24",
-          "time": "16:00",
-          "home_team": "SR Donaufeld",
-          "away_team": "Wiener Sport-Club"
         },
         {
           "date": "2025-05-24",

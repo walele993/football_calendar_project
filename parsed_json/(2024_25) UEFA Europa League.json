@@ -1608,49 +1608,73 @@
           "date": "2025-04-10",
           "time": "18:45",
           "home_team": "FK Bodø/Glimt (NOR)",
-          "away_team": "Lazio Roma (ITA)"
+          "away_team": "Lazio Roma (ITA)",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2025-04-10",
           "time": "21:00",
           "home_team": "Tottenham Hotspur (ENG)",
-          "away_team": "Eintracht Frankfurt (GER)"
+          "away_team": "Eintracht Frankfurt (GER)",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-04-10",
           "time": "21:00",
           "home_team": "Rangers FC (SCO)",
-          "away_team": "Athletic Club (ESP)"
+          "away_team": "Athletic Club (ESP)",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2025-04-10",
           "time": "21:00",
           "home_team": "Olympique Lyonnais (FRA)",
-          "away_team": "Manchester United (ENG)"
+          "away_team": "Manchester United (ENG)",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2025-04-17",
           "time": "21:00",
           "home_team": "Eintracht Frankfurt (GER)",
-          "away_team": "Tottenham Hotspur (ENG)"
+          "away_team": "Tottenham Hotspur (ENG)",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2025-04-17",
           "time": "21:00",
           "home_team": "Lazio Roma (ITA)",
-          "away_team": "FK Bodø/Glimt (NOR)"
+          "away_team": "FK Bodø/Glimt (NOR)",
+          "result": {
+            "full_time": "2-3"
+          }
         },
         {
           "date": "2025-04-17",
           "time": "21:00",
           "home_team": "Athletic Club (ESP)",
-          "away_team": "Rangers FC (SCO)"
+          "away_team": "Rangers FC (SCO)",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2025-04-17",
           "time": "21:00",
           "home_team": "Manchester United (ENG)",
-          "away_team": "Olympique Lyonnais (FRA)"
+          "away_team": "Olympique Lyonnais (FRA)",
+          "result": {
+            "full_time": "5-4"
+          }
         }
       ]
     },
@@ -1660,26 +1684,26 @@
         {
           "date": "2025-05-01",
           "time": "21:00",
-          "home_team": "N.N.",
-          "away_team": "N.N."
+          "home_team": "Tottenham Hotspur (ENG)",
+          "away_team": "FK Bodø/Glimt (NOR)"
         },
         {
           "date": "2025-05-01",
           "time": "21:00",
-          "home_team": "N.N.",
-          "away_team": "N.N."
+          "home_team": "Athletic Club (ESP)",
+          "away_team": "Manchester United (ENG)"
         },
         {
           "date": "2025-05-08",
           "time": "21:00",
-          "home_team": "N.N.",
-          "away_team": "N.N."
+          "home_team": "FK Bodø/Glimt (NOR)",
+          "away_team": "Tottenham Hotspur (ENG)"
         },
         {
           "date": "2025-05-08",
           "time": "21:00",
-          "home_team": "N.N.",
-          "away_team": "N.N."
+          "home_team": "Manchester United (ENG)",
+          "away_team": "Athletic Club (ESP)"
         }
       ]
     },

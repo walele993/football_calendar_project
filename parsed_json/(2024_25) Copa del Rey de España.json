@@ -1146,13 +1146,33 @@
           "date": "2025-04-01",
           "time": "21:30",
           "home_team": "Real Madrid",
-          "away_team": "Real Sociedad"
+          "away_team": "Real Sociedad",
+          "result": {
+            "full_time": "4-4"
+          }
         },
         {
           "date": "2025-04-02",
           "time": "21:30",
           "home_team": "Atlético Madrid",
-          "away_team": "FC Barcelona"
+          "away_team": "FC Barcelona",
+          "result": {
+            "full_time": "0-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Final",
+      "matches": [
+        {
+          "date": "2025-04-26",
+          "time": "22:00",
+          "home_team": "FC Barcelona",
+          "away_team": "Real Madrid",
+          "result": {
+            "full_time": "3-2"
+          }
         }
       ]
     }
