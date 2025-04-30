@@ -11,7 +11,10 @@
           "home_team": "FC Thun",
           "away_team": "Stade Lausanne-Ouchy",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -20,7 +23,10 @@
           "home_team": "Grasshopper Club Zürich",
           "away_team": "FC Winterthur",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "2-1"
+            ],
+            "full_time": "2-1"
           }
         },
         {
@@ -29,7 +35,10 @@
           "home_team": "FC Schaffhausen",
           "away_team": "FC Chiasso",
           "result": {
-            "full_time": "5-2"
+            "breakdown": [
+              "3-0"
+            ],
+            "full_time": "3-0"
           }
         },
         {
@@ -38,7 +47,10 @@
           "home_team": "SC Kriens",
           "away_team": "Neuchâtel Xamax FCS",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -47,7 +59,10 @@
           "home_team": "FC Aarau",
           "away_team": "FC Wil 1900",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         }
       ]
@@ -61,7 +76,10 @@
           "home_team": "Neuchâtel Xamax FCS",
           "away_team": "FC Schaffhausen",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -70,7 +88,10 @@
           "home_team": "FC Winterthur",
           "away_team": "FC Aarau",
           "result": {
-            "full_time": "5-2"
+            "breakdown": [
+              "3-1"
+            ],
+            "full_time": "3-1"
           }
         },
         {
@@ -79,7 +100,10 @@
           "home_team": "FC Wil 1900",
           "away_team": "FC Thun",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -88,7 +112,10 @@
           "home_team": "Stade Lausanne-Ouchy",
           "away_team": "SC Kriens",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -97,7 +124,10 @@
           "home_team": "FC Chiasso",
           "away_team": "Grasshopper Club Zürich",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -111,7 +141,10 @@
           "home_team": "FC Thun",
           "away_team": "Neuchâtel Xamax FCS",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -120,6 +153,9 @@
           "home_team": "SC Kriens",
           "away_team": "FC Winterthur",
           "result": {
+            "breakdown": [
+              "0-2"
+            ],
             "full_time": "0-2"
           }
         },
@@ -129,7 +165,10 @@
           "home_team": "FC Aarau",
           "away_team": "FC Chiasso",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -138,7 +177,10 @@
           "home_team": "Grasshopper Club Zürich",
           "away_team": "FC Wil 1900",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -147,7 +189,10 @@
           "home_team": "FC Schaffhausen",
           "away_team": "Stade Lausanne-Ouchy",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -161,7 +206,10 @@
           "home_team": "Stade Lausanne-Ouchy",
           "away_team": "FC Aarau",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -170,7 +218,10 @@
           "home_team": "FC Chiasso",
           "away_team": "FC Thun",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -179,7 +230,10 @@
           "home_team": "FC Wil 1900",
           "away_team": "SC Kriens",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -188,7 +242,10 @@
           "home_team": "FC Winterthur",
           "away_team": "FC Schaffhausen",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "2-1"
+            ],
+            "full_time": "2-1"
           }
         },
         {
@@ -197,6 +254,9 @@
           "home_team": "Neuchâtel Xamax FCS",
           "away_team": "Grasshopper Club Zürich",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         }
@@ -211,7 +271,10 @@
           "home_team": "FC Schaffhausen",
           "away_team": "FC Aarau",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -220,7 +283,10 @@
           "home_team": "FC Thun",
           "away_team": "FC Winterthur",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -229,7 +295,10 @@
           "home_team": "Stade Lausanne-Ouchy",
           "away_team": "FC Chiasso",
           "result": {
-            "full_time": "4-1"
+            "breakdown": [
+              "3-0"
+            ],
+            "full_time": "3-0"
           }
         },
         {
@@ -238,7 +307,10 @@
           "home_team": "Neuchâtel Xamax FCS",
           "away_team": "FC Wil 1900",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -247,7 +319,10 @@
           "home_team": "SC Kriens",
           "away_team": "Grasshopper Club Zürich",
           "result": {
-            "full_time": "5-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         }
       ]
@@ -261,7 +336,10 @@
           "home_team": "SC Kriens",
           "away_team": "FC Thun",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -279,7 +357,10 @@
           "home_team": "FC Aarau",
           "away_team": "Neuchâtel Xamax FCS",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -288,7 +369,10 @@
           "home_team": "Grasshopper Club Zürich",
           "away_team": "FC Schaffhausen",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -297,7 +381,10 @@
           "home_team": "FC Winterthur",
           "away_team": "FC Chiasso",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         }
       ]
@@ -311,7 +398,10 @@
           "home_team": "Stade Lausanne-Ouchy",
           "away_team": "Grasshopper Club Zürich",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -320,7 +410,10 @@
           "home_team": "FC Thun",
           "away_team": "FC Aarau",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -329,7 +422,10 @@
           "home_team": "FC Chiasso",
           "away_team": "FC Wil 1900",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -338,7 +434,10 @@
           "home_team": "FC Schaffhausen",
           "away_team": "SC Kriens",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -347,7 +446,10 @@
           "home_team": "Neuchâtel Xamax FCS",
           "away_team": "FC Winterthur",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         }
       ]
@@ -361,7 +463,10 @@
           "home_team": "Grasshopper Club Zürich",
           "away_team": "FC Thun",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -370,7 +475,10 @@
           "home_team": "FC Aarau",
           "away_team": "SC Kriens",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -379,7 +487,10 @@
           "home_team": "FC Wil 1900",
           "away_team": "FC Schaffhausen",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -388,7 +499,10 @@
           "home_team": "FC Chiasso",
           "away_team": "Neuchâtel Xamax FCS",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -397,7 +511,10 @@
           "home_team": "FC Winterthur",
           "away_team": "Stade Lausanne-Ouchy",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         }
       ]
@@ -420,7 +537,10 @@
           "home_team": "FC Schaffhausen",
           "away_team": "FC Thun",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -429,6 +549,9 @@
           "home_team": "FC Aarau",
           "away_team": "Grasshopper Club Zürich",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -438,7 +561,10 @@
           "home_team": "Neuchâtel Xamax FCS",
           "away_team": "Stade Lausanne-Ouchy",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -447,7 +573,10 @@
           "home_team": "FC Wil 1900",
           "away_team": "FC Winterthur",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -461,7 +590,10 @@
           "home_team": "Stade Lausanne-Ouchy",
           "away_team": "FC Schaffhausen",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -470,6 +602,9 @@
           "home_team": "FC Winterthur",
           "away_team": "SC Kriens",
           "result": {
+            "breakdown": [
+              "1-1"
+            ],
             "full_time": "1-1"
           }
         },
@@ -479,7 +614,10 @@
           "home_team": "FC Thun",
           "away_team": "FC Wil 1900",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -488,7 +626,10 @@
           "home_team": "Grasshopper Club Zürich",
           "away_team": "Neuchâtel Xamax FCS",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -497,7 +638,10 @@
           "home_team": "FC Chiasso",
           "away_team": "FC Aarau",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -511,7 +655,10 @@
           "home_team": "FC Aarau",
           "away_team": "FC Winterthur",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -520,6 +667,9 @@
           "home_team": "SC Kriens",
           "away_team": "Stade Lausanne-Ouchy",
           "result": {
+            "breakdown": [
+              "0-2"
+            ],
             "full_time": "0-2"
           }
         },
@@ -529,6 +679,9 @@
           "home_team": "FC Schaffhausen",
           "away_team": "Neuchâtel Xamax FCS",
           "result": {
+            "breakdown": [
+              "2-0"
+            ],
             "full_time": "2-0"
           }
         },
@@ -538,7 +691,10 @@
           "home_team": "FC Wil 1900",
           "away_team": "Grasshopper Club Zürich",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -547,7 +703,10 @@
           "home_team": "FC Thun",
           "away_team": "FC Chiasso",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -561,7 +720,10 @@
           "home_team": "Grasshopper Club Zürich",
           "away_team": "SC Kriens",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -570,7 +732,10 @@
           "home_team": "Neuchâtel Xamax FCS",
           "away_team": "FC Aarau",
           "result": {
-            "full_time": "2-4"
+            "breakdown": [
+              "1-2"
+            ],
+            "full_time": "1-2"
           }
         },
         {
@@ -588,7 +753,10 @@
           "home_team": "FC Chiasso",
           "away_team": "FC Schaffhausen",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -597,6 +765,9 @@
           "home_team": "Stade Lausanne-Ouchy",
           "away_team": "FC Wil 1900",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         }
@@ -611,7 +782,10 @@
           "home_team": "FC Aarau",
           "away_team": "Stade Lausanne-Ouchy",
           "result": {
-            "full_time": "3-3"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -620,7 +794,10 @@
           "home_team": "SC Kriens",
           "away_team": "FC Schaffhausen",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -629,7 +806,10 @@
           "home_team": "FC Thun",
           "away_team": "Grasshopper Club Zürich",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -638,7 +818,10 @@
           "home_team": "FC Wil 1900",
           "away_team": "FC Chiasso",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -647,7 +830,10 @@
           "home_team": "FC Winterthur",
           "away_team": "Neuchâtel Xamax FCS",
           "result": {
-            "full_time": "4-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -661,7 +847,10 @@
           "home_team": "FC Schaffhausen",
           "away_team": "FC Wil 1900",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -670,7 +859,10 @@
           "home_team": "Grasshopper Club Zürich",
           "away_team": "FC Chiasso",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -679,7 +871,10 @@
           "home_team": "Stade Lausanne-Ouchy",
           "away_team": "FC Winterthur",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -688,7 +883,10 @@
           "home_team": "Neuchâtel Xamax FCS",
           "away_team": "FC Thun",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -697,7 +895,10 @@
           "home_team": "SC Kriens",
           "away_team": "FC Aarau",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         }
       ]
@@ -711,7 +912,10 @@
           "home_team": "FC Chiasso",
           "away_team": "SC Kriens",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -720,7 +924,10 @@
           "home_team": "Stade Lausanne-Ouchy",
           "away_team": "Neuchâtel Xamax FCS",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -729,7 +936,10 @@
           "home_team": "FC Schaffhausen",
           "away_team": "Grasshopper Club Zürich",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -738,7 +948,10 @@
           "home_team": "FC Winterthur",
           "away_team": "FC Wil 1900",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "2-1"
+            ],
+            "full_time": "2-1"
           }
         },
         {
@@ -747,7 +960,10 @@
           "home_team": "FC Aarau",
           "away_team": "FC Thun",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         }
       ]
@@ -761,7 +977,10 @@
           "home_team": "Neuchâtel Xamax FCS",
           "away_team": "SC Kriens",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -770,7 +989,10 @@
           "home_team": "Grasshopper Club Zürich",
           "away_team": "Stade Lausanne-Ouchy",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -779,7 +1001,10 @@
           "home_team": "FC Chiasso",
           "away_team": "FC Winterthur",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -788,7 +1013,10 @@
           "home_team": "FC Thun",
           "away_team": "FC Schaffhausen",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -797,7 +1025,10 @@
           "home_team": "FC Wil 1900",
           "away_team": "FC Aarau",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         }
       ]
@@ -811,7 +1042,10 @@
           "home_team": "Stade Lausanne-Ouchy",
           "away_team": "FC Thun",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -820,7 +1054,10 @@
           "home_team": "Neuchâtel Xamax FCS",
           "away_team": "FC Chiasso",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -829,7 +1066,10 @@
           "home_team": "SC Kriens",
           "away_team": "FC Wil 1900",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -838,7 +1078,10 @@
           "home_team": "FC Schaffhausen",
           "away_team": "FC Winterthur",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -847,7 +1090,10 @@
           "home_team": "Grasshopper Club Zürich",
           "away_team": "FC Aarau",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         }
       ]
@@ -861,7 +1107,10 @@
           "home_team": "FC Aarau",
           "away_team": "FC Schaffhausen",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -879,7 +1128,10 @@
           "home_team": "FC Thun",
           "away_team": "SC Kriens",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -888,7 +1140,10 @@
           "home_team": "FC Wil 1900",
           "away_team": "Neuchâtel Xamax FCS",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -897,7 +1152,10 @@
           "home_team": "FC Winterthur",
           "away_team": "Grasshopper Club Zürich",
           "result": {
-            "full_time": "2-3"
+            "breakdown": [
+              "2-1"
+            ],
+            "full_time": "2-1"
           }
         }
       ]
@@ -920,7 +1178,10 @@
           "home_team": "Stade Lausanne-Ouchy",
           "away_team": "FC Winterthur",
           "result": {
-            "full_time": "4-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -929,7 +1190,10 @@
           "home_team": "Neuchâtel Xamax FCS",
           "away_team": "FC Thun",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -938,7 +1202,10 @@
           "home_team": "FC Schaffhausen",
           "away_team": "FC Wil 1900",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -947,7 +1214,10 @@
           "home_team": "Grasshopper Club Zürich",
           "away_team": "FC Chiasso",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -961,7 +1231,10 @@
           "home_team": "FC Wil 1900",
           "away_team": "Stade Lausanne-Ouchy",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -970,7 +1243,10 @@
           "home_team": "FC Thun",
           "away_team": "Grasshopper Club Zürich",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -979,7 +1255,10 @@
           "home_team": "FC Chiasso",
           "away_team": "FC Schaffhausen",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -988,7 +1267,10 @@
           "home_team": "FC Aarau",
           "away_team": "Neuchâtel Xamax FCS",
           "result": {
-            "full_time": "4-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -1011,7 +1293,10 @@
           "home_team": "Stade Lausanne-Ouchy",
           "away_team": "FC Aarau",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1020,7 +1305,10 @@
           "home_team": "FC Schaffhausen",
           "away_team": "FC Thun",
           "result": {
-            "full_time": "4-0"
+            "breakdown": [
+              "3-0"
+            ],
+            "full_time": "3-0"
           }
         },
         {
@@ -1029,7 +1317,10 @@
           "home_team": "FC Wil 1900",
           "away_team": "Grasshopper Club Zürich",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1038,7 +1329,10 @@
           "home_team": "Neuchâtel Xamax FCS",
           "away_team": "FC Winterthur",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1047,7 +1341,10 @@
           "home_team": "SC Kriens",
           "away_team": "FC Chiasso",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -1061,6 +1358,9 @@
           "home_team": "FC Chiasso",
           "away_team": "FC Wil 1900",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -1070,7 +1370,10 @@
           "home_team": "SC Kriens",
           "away_team": "Neuchâtel Xamax FCS",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1079,7 +1382,10 @@
           "home_team": "FC Thun",
           "away_team": "Stade Lausanne-Ouchy",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1097,7 +1403,10 @@
           "home_team": "Grasshopper Club Zürich",
           "away_team": "FC Schaffhausen",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -1111,7 +1420,10 @@
           "home_team": "FC Aarau",
           "away_team": "FC Thun",
           "result": {
-            "full_time": "4-2"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -1120,7 +1432,10 @@
           "home_team": "Neuchâtel Xamax FCS",
           "away_team": "FC Chiasso",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1129,6 +1444,9 @@
           "home_team": "FC Schaffhausen",
           "away_team": "SC Kriens",
           "result": {
+            "breakdown": [
+              "2-0"
+            ],
             "full_time": "2-0"
           }
         },
@@ -1138,6 +1456,9 @@
           "home_team": "Stade Lausanne-Ouchy",
           "away_team": "Grasshopper Club Zürich",
           "result": {
+            "breakdown": [
+              "1-1"
+            ],
             "full_time": "1-1"
           }
         },
@@ -1147,7 +1468,10 @@
           "home_team": "FC Wil 1900",
           "away_team": "FC Winterthur",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -1161,7 +1485,10 @@
           "home_team": "FC Chiasso",
           "away_team": "FC Aarau",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1170,7 +1497,10 @@
           "home_team": "FC Schaffhausen",
           "away_team": "Stade Lausanne-Ouchy",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1179,7 +1509,10 @@
           "home_team": "Grasshopper Club Zürich",
           "away_team": "FC Winterthur",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1188,7 +1521,10 @@
           "home_team": "FC Wil 1900",
           "away_team": "Neuchâtel Xamax FCS",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1197,7 +1533,10 @@
           "home_team": "FC Thun",
           "away_team": "SC Kriens",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -1211,7 +1550,10 @@
           "home_team": "Neuchâtel Xamax FCS",
           "away_team": "FC Schaffhausen",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1220,7 +1562,10 @@
           "home_team": "SC Kriens",
           "away_team": "Grasshopper Club Zürich",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1229,7 +1574,10 @@
           "home_team": "FC Winterthur",
           "away_team": "FC Thun",
           "result": {
-            "full_time": "2-3"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -1238,7 +1586,10 @@
           "home_team": "Stade Lausanne-Ouchy",
           "away_team": "FC Chiasso",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1247,7 +1598,10 @@
           "home_team": "FC Aarau",
           "away_team": "FC Wil 1900",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         }
       ]
@@ -1261,6 +1615,9 @@
           "home_team": "FC Chiasso",
           "away_team": "FC Thun",
           "result": {
+            "breakdown": [
+              "1-1"
+            ],
             "full_time": "1-1"
           }
         },
@@ -1270,7 +1627,10 @@
           "home_team": "FC Schaffhausen",
           "away_team": "FC Winterthur",
           "result": {
-            "full_time": "3-3"
+            "breakdown": [
+              "2-2"
+            ],
+            "full_time": "2-2"
           }
         },
         {
@@ -1279,7 +1639,10 @@
           "home_team": "Grasshopper Club Zürich",
           "away_team": "FC Aarau",
           "result": {
-            "full_time": "4-1"
+            "breakdown": [
+              "3-0"
+            ],
+            "full_time": "3-0"
           }
         },
         {
@@ -1297,7 +1660,10 @@
           "home_team": "FC Wil 1900",
           "away_team": "SC Kriens",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         }
       ]
@@ -1311,6 +1677,9 @@
           "home_team": "FC Aarau",
           "away_team": "FC Schaffhausen",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -1320,7 +1689,10 @@
           "home_team": "Grasshopper Club Zürich",
           "away_team": "Neuchâtel Xamax FCS",
           "result": {
-            "full_time": "1-4"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -1329,7 +1701,10 @@
           "home_team": "SC Kriens",
           "away_team": "Stade Lausanne-Ouchy",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1338,7 +1713,10 @@
           "home_team": "FC Thun",
           "away_team": "FC Wil 1900",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1347,6 +1725,9 @@
           "home_team": "FC Winterthur",
           "away_team": "FC Chiasso",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         }
@@ -1370,6 +1751,9 @@
           "home_team": "FC Schaffhausen",
           "away_team": "Grasshopper Club Zürich",
           "result": {
+            "breakdown": [
+              "0-2"
+            ],
             "full_time": "0-2"
           }
         },
@@ -1379,7 +1763,10 @@
           "home_team": "Stade Lausanne-Ouchy",
           "away_team": "FC Thun",
           "result": {
-            "full_time": "2-3"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -1388,7 +1775,10 @@
           "home_team": "Neuchâtel Xamax FCS",
           "away_team": "FC Aarau",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1397,6 +1787,9 @@
           "home_team": "FC Winterthur",
           "away_team": "FC Wil 1900",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         }
@@ -1411,7 +1804,10 @@
           "home_team": "FC Aarau",
           "away_team": "FC Chiasso",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1429,6 +1825,9 @@
           "home_team": "FC Winterthur",
           "away_team": "Stade Lausanne-Ouchy",
           "result": {
+            "breakdown": [
+              "1-1"
+            ],
             "full_time": "1-1"
           }
         },
@@ -1438,7 +1837,10 @@
           "home_team": "Grasshopper Club Zürich",
           "away_team": "FC Wil 1900",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1447,7 +1849,10 @@
           "home_team": "SC Kriens",
           "away_team": "FC Schaffhausen",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -1461,7 +1866,10 @@
           "home_team": "FC Winterthur",
           "away_team": "FC Thun",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -1470,7 +1878,10 @@
           "home_team": "FC Chiasso",
           "away_team": "Grasshopper Club Zürich",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -1479,7 +1890,10 @@
           "home_team": "Neuchâtel Xamax FCS",
           "away_team": "SC Kriens",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -1488,7 +1902,10 @@
           "home_team": "Stade Lausanne-Ouchy",
           "away_team": "FC Schaffhausen",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1497,7 +1914,10 @@
           "home_team": "FC Wil 1900",
           "away_team": "FC Aarau",
           "result": {
-            "full_time": "7-0"
+            "breakdown": [
+              "5-0"
+            ],
+            "full_time": "5-0"
           }
         }
       ]
@@ -1511,6 +1931,9 @@
           "home_team": "FC Chiasso",
           "away_team": "Stade Lausanne-Ouchy",
           "result": {
+            "breakdown": [
+              "2-1"
+            ],
             "full_time": "2-1"
           }
         },
@@ -1520,7 +1943,10 @@
           "home_team": "FC Schaffhausen",
           "away_team": "Neuchâtel Xamax FCS",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1529,7 +1955,10 @@
           "home_team": "FC Winterthur",
           "away_team": "FC Aarau",
           "result": {
-            "full_time": "3-3"
+            "breakdown": [
+              "2-1"
+            ],
+            "full_time": "2-1"
           }
         },
         {
@@ -1538,7 +1967,10 @@
           "home_team": "Grasshopper Club Zürich",
           "away_team": "FC Thun",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -1547,7 +1979,10 @@
           "home_team": "SC Kriens",
           "away_team": "FC Wil 1900",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "2-1"
+            ],
+            "full_time": "2-1"
           }
         }
       ]
@@ -1561,7 +1996,10 @@
           "home_team": "Stade Lausanne-Ouchy",
           "away_team": "SC Kriens",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1570,7 +2008,10 @@
           "home_team": "FC Thun",
           "away_team": "FC Chiasso",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1579,7 +2020,10 @@
           "home_team": "FC Aarau",
           "away_team": "Grasshopper Club Zürich",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1588,7 +2032,10 @@
           "home_team": "FC Winterthur",
           "away_team": "Neuchâtel Xamax FCS",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1597,7 +2044,10 @@
           "home_team": "FC Wil 1900",
           "away_team": "FC Schaffhausen",
           "result": {
-            "full_time": "2-3"
+            "breakdown": [
+              "1-2"
+            ],
+            "full_time": "1-2"
           }
         }
       ]
@@ -1611,7 +2061,10 @@
           "home_team": "FC Chiasso",
           "away_team": "FC Winterthur",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1620,7 +2073,10 @@
           "home_team": "SC Kriens",
           "away_team": "FC Thun",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1629,7 +2085,10 @@
           "home_team": "Grasshopper Club Zürich",
           "away_team": "Stade Lausanne-Ouchy",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1638,7 +2097,10 @@
           "home_team": "Neuchâtel Xamax FCS",
           "away_team": "FC Wil 1900",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1647,7 +2109,10 @@
           "home_team": "FC Schaffhausen",
           "away_team": "FC Aarau",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         }
       ]
@@ -1661,6 +2126,9 @@
           "home_team": "Stade Lausanne-Ouchy",
           "away_team": "Neuchâtel Xamax FCS",
           "result": {
+            "breakdown": [
+              "1-1"
+            ],
             "full_time": "1-1"
           }
         },
@@ -1670,7 +2138,10 @@
           "home_team": "FC Winterthur",
           "away_team": "Grasshopper Club Zürich",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1679,7 +2150,10 @@
           "home_team": "FC Aarau",
           "away_team": "SC Kriens",
           "result": {
-            "full_time": "4-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1688,7 +2162,10 @@
           "home_team": "FC Thun",
           "away_team": "FC Schaffhausen",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1697,7 +2174,10 @@
           "home_team": "FC Wil 1900",
           "away_team": "FC Chiasso",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         }
       ]
@@ -1711,7 +2191,10 @@
           "home_team": "SC Kriens",
           "away_team": "FC Winterthur",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1720,6 +2203,9 @@
           "home_team": "Neuchâtel Xamax FCS",
           "away_team": "Grasshopper Club Zürich",
           "result": {
+            "breakdown": [
+              "1-1"
+            ],
             "full_time": "1-1"
           }
         },
@@ -1729,7 +2215,10 @@
           "home_team": "FC Schaffhausen",
           "away_team": "FC Chiasso",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1738,7 +2227,10 @@
           "home_team": "Stade Lausanne-Ouchy",
           "away_team": "FC Wil 1900",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -1747,7 +2239,10 @@
           "home_team": "FC Thun",
           "away_team": "FC Aarau",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         }
       ]
@@ -1761,7 +2256,10 @@
           "home_team": "FC Aarau",
           "away_team": "Stade Lausanne-Ouchy",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1770,6 +2268,9 @@
           "home_team": "FC Chiasso",
           "away_team": "Neuchâtel Xamax FCS",
           "result": {
+            "breakdown": [
+              "2-1"
+            ],
             "full_time": "2-1"
           }
         },
@@ -1779,7 +2280,10 @@
           "home_team": "Grasshopper Club Zürich",
           "away_team": "SC Kriens",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -1788,7 +2292,10 @@
           "home_team": "FC Wil 1900",
           "away_team": "FC Thun",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1797,7 +2304,10 @@
           "home_team": "FC Winterthur",
           "away_team": "FC Schaffhausen",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         }
       ]

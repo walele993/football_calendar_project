@@ -11,7 +11,10 @@
           "home_team": "Bayern München",
           "away_team": "Hamburger SV",
           "result": {
-            "full_time": "5-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -20,7 +23,10 @@
           "home_team": "1. FSV Mainz 05",
           "away_team": "FC Ingolstadt 04",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -29,7 +35,10 @@
           "home_team": "SV Darmstadt 98",
           "away_team": "Hannover 96",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -38,7 +47,10 @@
           "home_team": "Werder Bremen",
           "away_team": "FC Schalke 04",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -47,7 +59,10 @@
           "home_team": "FC Augsburg",
           "away_team": "Hertha BSC",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -56,7 +71,10 @@
           "home_team": "Bayer Leverkusen",
           "away_team": "1899 Hoffenheim",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -65,7 +83,10 @@
           "home_team": "Borussia Dortmund",
           "away_team": "Bor. Mönchengladbach",
           "result": {
-            "full_time": "4-0"
+            "breakdown": [
+              "3-0"
+            ],
+            "full_time": "3-0"
           }
         },
         {
@@ -74,6 +95,9 @@
           "home_team": "VfL Wolfsburg",
           "away_team": "Eintracht Frankfurt",
           "result": {
+            "breakdown": [
+              "2-1"
+            ],
             "full_time": "2-1"
           }
         },
@@ -83,7 +107,10 @@
           "home_team": "VfB Stuttgart",
           "away_team": "1. FC Köln",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -97,6 +124,9 @@
           "home_team": "Hertha BSC",
           "away_team": "Werder Bremen",
           "result": {
+            "breakdown": [
+              "1-1"
+            ],
             "full_time": "1-1"
           }
         },
@@ -106,7 +136,10 @@
           "home_team": "FC Schalke 04",
           "away_team": "SV Darmstadt 98",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -115,7 +148,10 @@
           "home_team": "Eintracht Frankfurt",
           "away_team": "FC Augsburg",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -124,7 +160,10 @@
           "home_team": "1. FC Köln",
           "away_team": "VfL Wolfsburg",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -133,6 +172,9 @@
           "home_team": "Hannover 96",
           "away_team": "Bayer Leverkusen",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -142,7 +184,10 @@
           "home_team": "1899 Hoffenheim",
           "away_team": "Bayern München",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -151,7 +196,10 @@
           "home_team": "Hamburger SV",
           "away_team": "VfB Stuttgart",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "1-2"
+            ],
+            "full_time": "1-2"
           }
         },
         {
@@ -160,7 +208,10 @@
           "home_team": "FC Ingolstadt 04",
           "away_team": "Borussia Dortmund",
           "result": {
-            "full_time": "0-4"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -169,7 +220,10 @@
           "home_team": "Bor. Mönchengladbach",
           "away_team": "1. FSV Mainz 05",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         }
       ]
@@ -183,7 +237,10 @@
           "home_team": "VfL Wolfsburg",
           "away_team": "FC Schalke 04",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -192,7 +249,10 @@
           "home_team": "VfB Stuttgart",
           "away_team": "Eintracht Frankfurt",
           "result": {
-            "full_time": "1-4"
+            "breakdown": [
+              "1-2"
+            ],
+            "full_time": "1-2"
           }
         },
         {
@@ -201,7 +261,10 @@
           "home_team": "FC Augsburg",
           "away_team": "FC Ingolstadt 04",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -210,7 +273,10 @@
           "home_team": "1. FC Köln",
           "away_team": "Hamburger SV",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -219,7 +285,10 @@
           "home_team": "1. FSV Mainz 05",
           "away_team": "Hannover 96",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -237,7 +306,10 @@
           "home_team": "Bayern München",
           "away_team": "Bayer Leverkusen",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -246,7 +318,10 @@
           "home_team": "Borussia Dortmund",
           "away_team": "Hertha BSC",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -255,7 +330,10 @@
           "home_team": "Werder Bremen",
           "away_team": "Bor. Mönchengladbach",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         }
       ]
@@ -269,7 +347,10 @@
           "home_team": "Bor. Mönchengladbach",
           "away_team": "Hamburger SV",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -278,7 +359,10 @@
           "home_team": "Bayern München",
           "away_team": "FC Augsburg",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -287,6 +371,9 @@
           "home_team": "Bayer Leverkusen",
           "away_team": "SV Darmstadt 98",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -296,7 +383,10 @@
           "home_team": "Hannover 96",
           "away_team": "Borussia Dortmund",
           "result": {
-            "full_time": "2-4"
+            "breakdown": [
+              "1-2"
+            ],
+            "full_time": "1-2"
           }
         },
         {
@@ -305,6 +395,9 @@
           "home_team": "Hertha BSC",
           "away_team": "VfB Stuttgart",
           "result": {
+            "breakdown": [
+              "2-1"
+            ],
             "full_time": "2-1"
           }
         },
@@ -323,7 +416,10 @@
           "home_team": "Eintracht Frankfurt",
           "away_team": "1. FC Köln",
           "result": {
-            "full_time": "6-2"
+            "breakdown": [
+              "4-1"
+            ],
+            "full_time": "4-1"
           }
         },
         {
@@ -332,7 +428,10 @@
           "home_team": "1899 Hoffenheim",
           "away_team": "Werder Bremen",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -341,7 +440,10 @@
           "home_team": "FC Schalke 04",
           "away_team": "1. FSV Mainz 05",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         }
       ]
@@ -355,7 +457,10 @@
           "home_team": "1. FSV Mainz 05",
           "away_team": "1899 Hoffenheim",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -364,7 +469,10 @@
           "home_team": "VfL Wolfsburg",
           "away_team": "Hertha BSC",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -382,7 +490,10 @@
           "home_team": "Werder Bremen",
           "away_team": "FC Ingolstadt 04",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -391,7 +502,10 @@
           "home_team": "1. FC Köln",
           "away_team": "Bor. Mönchengladbach",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -400,7 +514,10 @@
           "home_team": "SV Darmstadt 98",
           "away_team": "Bayern München",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -409,7 +526,10 @@
           "home_team": "VfB Stuttgart",
           "away_team": "FC Schalke 04",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -418,7 +538,10 @@
           "home_team": "Borussia Dortmund",
           "away_team": "Bayer Leverkusen",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -427,6 +550,9 @@
           "home_team": "FC Augsburg",
           "away_team": "Hannover 96",
           "result": {
+            "breakdown": [
+              "2-0"
+            ],
             "full_time": "2-0"
           }
         }
@@ -441,7 +567,10 @@
           "home_team": "Bayern München",
           "away_team": "VfL Wolfsburg",
           "result": {
-            "full_time": "5-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -450,7 +579,10 @@
           "home_team": "Hertha BSC",
           "away_team": "1. FC Köln",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -459,7 +591,10 @@
           "home_team": "FC Ingolstadt 04",
           "away_team": "Hamburger SV",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -468,7 +603,10 @@
           "home_team": "SV Darmstadt 98",
           "away_team": "Werder Bremen",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -477,7 +615,10 @@
           "home_team": "FC Schalke 04",
           "away_team": "Eintracht Frankfurt",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -486,7 +627,10 @@
           "home_team": "Bayer Leverkusen",
           "away_team": "1. FSV Mainz 05",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -495,7 +639,10 @@
           "home_team": "Bor. Mönchengladbach",
           "away_team": "FC Augsburg",
           "result": {
-            "full_time": "4-2"
+            "breakdown": [
+              "4-0"
+            ],
+            "full_time": "4-0"
           }
         },
         {
@@ -504,7 +651,10 @@
           "home_team": "Hannover 96",
           "away_team": "VfB Stuttgart",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "1-2"
+            ],
+            "full_time": "1-2"
           }
         },
         {
@@ -513,7 +663,10 @@
           "home_team": "1899 Hoffenheim",
           "away_team": "Borussia Dortmund",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         }
       ]
@@ -527,6 +680,9 @@
           "home_team": "1. FC Köln",
           "away_team": "FC Ingolstadt 04",
           "result": {
+            "breakdown": [
+              "1-1"
+            ],
             "full_time": "1-1"
           }
         },
@@ -536,7 +692,10 @@
           "home_team": "VfL Wolfsburg",
           "away_team": "Hannover 96",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -545,7 +704,10 @@
           "home_team": "VfB Stuttgart",
           "away_team": "Bor. Mönchengladbach",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "1-2"
+            ],
+            "full_time": "1-2"
           }
         },
         {
@@ -554,7 +716,10 @@
           "home_team": "FC Augsburg",
           "away_team": "1899 Hoffenheim",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -563,7 +728,10 @@
           "home_team": "Werder Bremen",
           "away_team": "Bayer Leverkusen",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -572,7 +740,10 @@
           "home_team": "1. FSV Mainz 05",
           "away_team": "Bayern München",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -581,7 +752,10 @@
           "home_team": "Hamburger SV",
           "away_team": "FC Schalke 04",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -590,7 +764,10 @@
           "home_team": "Eintracht Frankfurt",
           "away_team": "Hertha BSC",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -599,7 +776,10 @@
           "home_team": "Borussia Dortmund",
           "away_team": "SV Darmstadt 98",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         }
       ]
@@ -613,7 +793,10 @@
           "home_team": "SV Darmstadt 98",
           "away_team": "1. FSV Mainz 05",
           "result": {
-            "full_time": "2-3"
+            "breakdown": [
+              "1-2"
+            ],
+            "full_time": "1-2"
           }
         },
         {
@@ -622,7 +805,10 @@
           "home_team": "Bor. Mönchengladbach",
           "away_team": "VfL Wolfsburg",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -631,7 +817,10 @@
           "home_team": "Hannover 96",
           "away_team": "Werder Bremen",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -640,7 +829,10 @@
           "home_team": "Hertha BSC",
           "away_team": "Hamburger SV",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -649,7 +841,10 @@
           "home_team": "1899 Hoffenheim",
           "away_team": "VfB Stuttgart",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -658,7 +853,10 @@
           "home_team": "FC Ingolstadt 04",
           "away_team": "Eintracht Frankfurt",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -667,7 +865,10 @@
           "home_team": "FC Schalke 04",
           "away_team": "1. FC Köln",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -676,7 +877,10 @@
           "home_team": "Bayern München",
           "away_team": "Borussia Dortmund",
           "result": {
-            "full_time": "5-1"
+            "breakdown": [
+              "2-1"
+            ],
+            "full_time": "2-1"
           }
         },
         {
@@ -685,6 +889,9 @@
           "home_team": "Bayer Leverkusen",
           "away_team": "FC Augsburg",
           "result": {
+            "breakdown": [
+              "1-1"
+            ],
             "full_time": "1-1"
           }
         }
@@ -699,7 +906,10 @@
           "home_team": "1. FSV Mainz 05",
           "away_team": "Borussia Dortmund",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -708,7 +918,10 @@
           "home_team": "FC Schalke 04",
           "away_team": "Hertha BSC",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -717,7 +930,10 @@
           "home_team": "VfL Wolfsburg",
           "away_team": "1899 Hoffenheim",
           "result": {
-            "full_time": "4-2"
+            "breakdown": [
+              "2-1"
+            ],
+            "full_time": "2-1"
           }
         },
         {
@@ -735,6 +951,9 @@
           "home_team": "FC Augsburg",
           "away_team": "SV Darmstadt 98",
           "result": {
+            "breakdown": [
+              "0-2"
+            ],
             "full_time": "0-2"
           }
         },
@@ -744,6 +963,9 @@
           "home_team": "Werder Bremen",
           "away_team": "Bayern München",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -753,7 +975,10 @@
           "home_team": "Eintracht Frankfurt",
           "away_team": "Bor. Mönchengladbach",
           "result": {
-            "full_time": "1-5"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -762,6 +987,9 @@
           "home_team": "1. FC Köln",
           "away_team": "Hannover 96",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -771,7 +999,10 @@
           "home_team": "VfB Stuttgart",
           "away_team": "FC Ingolstadt 04",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -785,7 +1016,10 @@
           "home_team": "1899 Hoffenheim",
           "away_team": "Hamburger SV",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -794,7 +1028,10 @@
           "home_team": "Bayern München",
           "away_team": "1. FC Köln",
           "result": {
-            "full_time": "4-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -803,7 +1040,10 @@
           "home_team": "Bayer Leverkusen",
           "away_team": "VfB Stuttgart",
           "result": {
-            "full_time": "4-3"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -812,7 +1052,10 @@
           "home_team": "Hannover 96",
           "away_team": "Eintracht Frankfurt",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -821,7 +1064,10 @@
           "home_team": "1. FSV Mainz 05",
           "away_team": "Werder Bremen",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "0-3"
+            ],
+            "full_time": "0-3"
           }
         },
         {
@@ -830,7 +1076,10 @@
           "home_team": "SV Darmstadt 98",
           "away_team": "VfL Wolfsburg",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -839,6 +1088,9 @@
           "home_team": "FC Ingolstadt 04",
           "away_team": "Hertha BSC",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -848,7 +1100,10 @@
           "home_team": "Borussia Dortmund",
           "away_team": "FC Augsburg",
           "result": {
-            "full_time": "5-1"
+            "breakdown": [
+              "3-0"
+            ],
+            "full_time": "3-0"
           }
         },
         {
@@ -857,7 +1112,10 @@
           "home_team": "Bor. Mönchengladbach",
           "away_team": "FC Schalke 04",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         }
       ]
@@ -880,7 +1138,10 @@
           "home_team": "FC Schalke 04",
           "away_team": "FC Ingolstadt 04",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -889,7 +1150,10 @@
           "home_team": "FC Augsburg",
           "away_team": "1. FSV Mainz 05",
           "result": {
-            "full_time": "3-3"
+            "breakdown": [
+              "1-2"
+            ],
+            "full_time": "1-2"
           }
         },
         {
@@ -898,7 +1162,10 @@
           "home_team": "Werder Bremen",
           "away_team": "Borussia Dortmund",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "1-2"
+            ],
+            "full_time": "1-2"
           }
         },
         {
@@ -916,7 +1183,10 @@
           "home_team": "Hertha BSC",
           "away_team": "Bor. Mönchengladbach",
           "result": {
-            "full_time": "1-4"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -925,7 +1195,10 @@
           "home_team": "VfL Wolfsburg",
           "away_team": "Bayer Leverkusen",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -934,7 +1207,10 @@
           "home_team": "VfB Stuttgart",
           "away_team": "SV Darmstadt 98",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -943,7 +1219,10 @@
           "home_team": "Hamburger SV",
           "away_team": "Hannover 96",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         }
       ]
@@ -957,7 +1236,10 @@
           "home_team": "Hannover 96",
           "away_team": "Hertha BSC",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -966,6 +1248,9 @@
           "home_team": "Bayern München",
           "away_team": "VfB Stuttgart",
           "result": {
+            "breakdown": [
+              "4-0"
+            ],
             "full_time": "4-0"
           }
         },
@@ -975,7 +1260,10 @@
           "home_team": "Bayer Leverkusen",
           "away_team": "1. FC Köln",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -1002,7 +1290,10 @@
           "home_team": "1. FSV Mainz 05",
           "away_team": "VfL Wolfsburg",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1011,7 +1302,10 @@
           "home_team": "SV Darmstadt 98",
           "away_team": "Hamburger SV",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1020,7 +1314,10 @@
           "home_team": "Borussia Dortmund",
           "away_team": "FC Schalke 04",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "2-1"
+            ],
+            "full_time": "2-1"
           }
         },
         {
@@ -1029,7 +1326,10 @@
           "home_team": "FC Augsburg",
           "away_team": "Werder Bremen",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -1043,7 +1343,10 @@
           "home_team": "Hamburger SV",
           "away_team": "Borussia Dortmund",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -1052,7 +1355,10 @@
           "home_team": "Bor. Mönchengladbach",
           "away_team": "Hannover 96",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1061,7 +1367,10 @@
           "home_team": "VfL Wolfsburg",
           "away_team": "Werder Bremen",
           "result": {
-            "full_time": "6-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -1070,7 +1379,10 @@
           "home_team": "Eintracht Frankfurt",
           "away_team": "Bayer Leverkusen",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "1-2"
+            ],
+            "full_time": "1-2"
           }
         },
         {
@@ -1088,7 +1400,10 @@
           "home_team": "VfB Stuttgart",
           "away_team": "FC Augsburg",
           "result": {
-            "full_time": "0-4"
+            "breakdown": [
+              "0-3"
+            ],
+            "full_time": "0-3"
           }
         },
         {
@@ -1097,7 +1412,10 @@
           "home_team": "FC Schalke 04",
           "away_team": "Bayern München",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -1106,6 +1424,9 @@
           "home_team": "Hertha BSC",
           "away_team": "1899 Hoffenheim",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -1115,7 +1436,10 @@
           "home_team": "FC Ingolstadt 04",
           "away_team": "SV Darmstadt 98",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         }
       ]
@@ -1138,6 +1462,9 @@
           "home_team": "Bayern München",
           "away_team": "Hertha BSC",
           "result": {
+            "breakdown": [
+              "2-0"
+            ],
             "full_time": "2-0"
           }
         },
@@ -1147,7 +1474,10 @@
           "home_team": "Werder Bremen",
           "away_team": "Hamburger SV",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -1156,7 +1486,10 @@
           "home_team": "Hannover 96",
           "away_team": "FC Ingolstadt 04",
           "result": {
-            "full_time": "4-0"
+            "breakdown": [
+              "3-0"
+            ],
+            "full_time": "3-0"
           }
         },
         {
@@ -1165,7 +1498,10 @@
           "home_team": "1899 Hoffenheim",
           "away_team": "Bor. Mönchengladbach",
           "result": {
-            "full_time": "3-3"
+            "breakdown": [
+              "2-1"
+            ],
+            "full_time": "2-1"
           }
         },
         {
@@ -1174,7 +1510,10 @@
           "home_team": "1. FSV Mainz 05",
           "away_team": "Eintracht Frankfurt",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -1183,7 +1522,10 @@
           "home_team": "Borussia Dortmund",
           "away_team": "VfB Stuttgart",
           "result": {
-            "full_time": "4-1"
+            "breakdown": [
+              "2-1"
+            ],
+            "full_time": "2-1"
           }
         },
         {
@@ -1192,7 +1534,10 @@
           "home_team": "Bayer Leverkusen",
           "away_team": "FC Schalke 04",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1215,7 +1560,10 @@
           "home_team": "FC Schalke 04",
           "away_team": "Hannover 96",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1224,7 +1572,10 @@
           "home_team": "Bor. Mönchengladbach",
           "away_team": "Bayern München",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1233,7 +1584,10 @@
           "home_team": "Hamburger SV",
           "away_team": "1. FSV Mainz 05",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1242,7 +1596,10 @@
           "home_team": "1. FC Köln",
           "away_team": "FC Augsburg",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1251,7 +1608,10 @@
           "home_team": "Hertha BSC",
           "away_team": "Bayer Leverkusen",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -1260,7 +1620,10 @@
           "home_team": "FC Ingolstadt 04",
           "away_team": "1899 Hoffenheim",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1269,7 +1632,10 @@
           "home_team": "VfL Wolfsburg",
           "away_team": "Borussia Dortmund",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1278,7 +1644,10 @@
           "home_team": "VfB Stuttgart",
           "away_team": "Werder Bremen",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1287,6 +1656,9 @@
           "home_team": "Eintracht Frankfurt",
           "away_team": "SV Darmstadt 98",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         }
@@ -1310,7 +1682,10 @@
           "home_team": "Bayern München",
           "away_team": "FC Ingolstadt 04",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1319,7 +1694,10 @@
           "home_team": "VfL Wolfsburg",
           "away_team": "Hamburger SV",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1328,7 +1706,10 @@
           "home_team": "Werder Bremen",
           "away_team": "1. FC Köln",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1337,6 +1718,9 @@
           "home_team": "1899 Hoffenheim",
           "away_team": "Hannover 96",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -1346,7 +1730,10 @@
           "home_team": "SV Darmstadt 98",
           "away_team": "Hertha BSC",
           "result": {
-            "full_time": "0-4"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -1355,7 +1742,10 @@
           "home_team": "Bayer Leverkusen",
           "away_team": "Bor. Mönchengladbach",
           "result": {
-            "full_time": "5-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1364,7 +1754,10 @@
           "home_team": "FC Augsburg",
           "away_team": "FC Schalke 04",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1373,7 +1766,10 @@
           "home_team": "Borussia Dortmund",
           "away_team": "Eintracht Frankfurt",
           "result": {
-            "full_time": "4-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         }
       ]
@@ -1387,6 +1783,9 @@
           "home_team": "FC Schalke 04",
           "away_team": "1899 Hoffenheim",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -1396,7 +1795,10 @@
           "home_team": "Hamburger SV",
           "away_team": "FC Augsburg",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1405,7 +1807,10 @@
           "home_team": "Eintracht Frankfurt",
           "away_team": "Werder Bremen",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -1414,7 +1819,10 @@
           "home_team": "1. FC Köln",
           "away_team": "Borussia Dortmund",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1423,6 +1831,9 @@
           "home_team": "Hannover 96",
           "away_team": "Bayern München",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -1432,7 +1843,10 @@
           "home_team": "FC Ingolstadt 04",
           "away_team": "Bayer Leverkusen",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1441,7 +1855,10 @@
           "home_team": "VfB Stuttgart",
           "away_team": "VfL Wolfsburg",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "2-1"
+            ],
+            "full_time": "2-1"
           }
         },
         {
@@ -1450,7 +1867,10 @@
           "home_team": "Hertha BSC",
           "away_team": "1. FSV Mainz 05",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1459,7 +1879,10 @@
           "home_team": "Bor. Mönchengladbach",
           "away_team": "SV Darmstadt 98",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         }
       ]
@@ -1473,7 +1896,10 @@
           "home_team": "Hamburger SV",
           "away_team": "Bayern München",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1482,6 +1908,9 @@
           "home_team": "FC Ingolstadt 04",
           "away_team": "1. FSV Mainz 05",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -1491,7 +1920,10 @@
           "home_team": "Hannover 96",
           "away_team": "SV Darmstadt 98",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -1509,7 +1941,10 @@
           "home_team": "1. FC Köln",
           "away_team": "VfB Stuttgart",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -1518,7 +1953,10 @@
           "home_team": "1899 Hoffenheim",
           "away_team": "Bayer Leverkusen",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1527,7 +1965,10 @@
           "home_team": "Bor. Mönchengladbach",
           "away_team": "Borussia Dortmund",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1536,7 +1977,10 @@
           "home_team": "Eintracht Frankfurt",
           "away_team": "VfL Wolfsburg",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1545,7 +1989,10 @@
           "home_team": "FC Schalke 04",
           "away_team": "Werder Bremen",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         }
       ]
@@ -1559,6 +2006,9 @@
           "home_team": "1. FSV Mainz 05",
           "away_team": "Bor. Mönchengladbach",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -1568,7 +2018,10 @@
           "home_team": "SV Darmstadt 98",
           "away_team": "FC Schalke 04",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1586,7 +2039,10 @@
           "home_team": "Bayer Leverkusen",
           "away_team": "Hannover 96",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1595,7 +2051,10 @@
           "home_team": "Werder Bremen",
           "away_team": "Hertha BSC",
           "result": {
-            "full_time": "3-3"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -1604,7 +2063,10 @@
           "home_team": "Borussia Dortmund",
           "away_team": "FC Ingolstadt 04",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1613,7 +2075,10 @@
           "home_team": "VfB Stuttgart",
           "away_team": "Hamburger SV",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1622,7 +2087,10 @@
           "home_team": "VfL Wolfsburg",
           "away_team": "1. FC Köln",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1631,7 +2099,10 @@
           "home_team": "Bayern München",
           "away_team": "1899 Hoffenheim",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         }
       ]
@@ -1645,7 +2116,10 @@
           "home_team": "Bor. Mönchengladbach",
           "away_team": "Werder Bremen",
           "result": {
-            "full_time": "5-1"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -1663,7 +2137,10 @@
           "home_team": "FC Schalke 04",
           "away_team": "VfL Wolfsburg",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -1672,7 +2149,10 @@
           "home_team": "Eintracht Frankfurt",
           "away_team": "VfB Stuttgart",
           "result": {
-            "full_time": "2-4"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -1681,7 +2161,10 @@
           "home_team": "FC Ingolstadt 04",
           "away_team": "FC Augsburg",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1690,6 +2173,9 @@
           "home_team": "Hannover 96",
           "away_team": "1. FSV Mainz 05",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -1708,7 +2194,10 @@
           "home_team": "Hamburger SV",
           "away_team": "1. FC Köln",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1717,7 +2206,10 @@
           "home_team": "1899 Hoffenheim",
           "away_team": "SV Darmstadt 98",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         }
       ]
@@ -1731,7 +2223,10 @@
           "home_team": "1. FSV Mainz 05",
           "away_team": "FC Schalke 04",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1740,7 +2235,10 @@
           "home_team": "SV Darmstadt 98",
           "away_team": "Bayer Leverkusen",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1749,7 +2247,10 @@
           "home_team": "Borussia Dortmund",
           "away_team": "Hannover 96",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1758,7 +2259,10 @@
           "home_team": "VfB Stuttgart",
           "away_team": "Hertha BSC",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1767,6 +2271,9 @@
           "home_team": "Werder Bremen",
           "away_team": "1899 Hoffenheim",
           "result": {
+            "breakdown": [
+              "1-1"
+            ],
             "full_time": "1-1"
           }
         },
@@ -1776,6 +2283,9 @@
           "home_team": "VfL Wolfsburg",
           "away_team": "FC Ingolstadt 04",
           "result": {
+            "breakdown": [
+              "2-0"
+            ],
             "full_time": "2-0"
           }
         },
@@ -1785,7 +2295,10 @@
           "home_team": "1. FC Köln",
           "away_team": "Eintracht Frankfurt",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -1794,7 +2307,10 @@
           "home_team": "Hamburger SV",
           "away_team": "Bor. Mönchengladbach",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "2-1"
+            ],
+            "full_time": "2-1"
           }
         },
         {
@@ -1803,7 +2319,10 @@
           "home_team": "FC Augsburg",
           "away_team": "Bayern München",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         }
       ]
@@ -1826,7 +2345,10 @@
           "home_team": "Hertha BSC",
           "away_team": "VfL Wolfsburg",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1835,7 +2357,10 @@
           "home_team": "FC Ingolstadt 04",
           "away_team": "Werder Bremen",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1844,6 +2369,9 @@
           "home_team": "Bor. Mönchengladbach",
           "away_team": "1. FC Köln",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -1853,7 +2381,10 @@
           "home_team": "1899 Hoffenheim",
           "away_team": "1. FSV Mainz 05",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -1862,7 +2393,10 @@
           "home_team": "Bayern München",
           "away_team": "SV Darmstadt 98",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1871,7 +2405,10 @@
           "home_team": "Bayer Leverkusen",
           "away_team": "Borussia Dortmund",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1880,7 +2417,10 @@
           "home_team": "FC Schalke 04",
           "away_team": "VfB Stuttgart",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1889,6 +2429,9 @@
           "home_team": "Hannover 96",
           "away_team": "FC Augsburg",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         }
@@ -1903,6 +2446,9 @@
           "home_team": "1. FC Köln",
           "away_team": "Hertha BSC",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -1912,7 +2458,10 @@
           "home_team": "VfL Wolfsburg",
           "away_team": "Bayern München",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1921,7 +2470,10 @@
           "home_team": "VfB Stuttgart",
           "away_team": "Hannover 96",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -1930,7 +2482,10 @@
           "home_team": "Hamburger SV",
           "away_team": "FC Ingolstadt 04",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1939,7 +2494,10 @@
           "home_team": "Werder Bremen",
           "away_team": "SV Darmstadt 98",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -1948,7 +2506,10 @@
           "home_team": "FC Augsburg",
           "away_team": "Bor. Mönchengladbach",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1957,7 +2518,10 @@
           "home_team": "1. FSV Mainz 05",
           "away_team": "Bayer Leverkusen",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -1966,7 +2530,10 @@
           "home_team": "Borussia Dortmund",
           "away_team": "1899 Hoffenheim",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1989,7 +2556,10 @@
           "home_team": "Hannover 96",
           "away_team": "VfL Wolfsburg",
           "result": {
-            "full_time": "0-4"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1998,7 +2568,10 @@
           "home_team": "FC Ingolstadt 04",
           "away_team": "1. FC Köln",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2007,7 +2580,10 @@
           "home_team": "SV Darmstadt 98",
           "away_team": "Borussia Dortmund",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -2016,7 +2592,10 @@
           "home_team": "FC Schalke 04",
           "away_team": "Hamburger SV",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -2025,7 +2604,10 @@
           "home_team": "Bor. Mönchengladbach",
           "away_team": "VfB Stuttgart",
           "result": {
-            "full_time": "4-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2034,7 +2616,10 @@
           "home_team": "1899 Hoffenheim",
           "away_team": "FC Augsburg",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -2043,7 +2628,10 @@
           "home_team": "Bayer Leverkusen",
           "away_team": "Werder Bremen",
           "result": {
-            "full_time": "1-4"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -2052,7 +2640,10 @@
           "home_team": "Hertha BSC",
           "away_team": "Eintracht Frankfurt",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2061,7 +2652,10 @@
           "home_team": "Bayern München",
           "away_team": "1. FSV Mainz 05",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         }
       ]
@@ -2075,7 +2669,10 @@
           "home_team": "1. FC Köln",
           "away_team": "FC Schalke 04",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "1-2"
+            ],
+            "full_time": "1-2"
           }
         },
         {
@@ -2084,7 +2681,10 @@
           "home_team": "FC Augsburg",
           "away_team": "Bayer Leverkusen",
           "result": {
-            "full_time": "3-3"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -2093,6 +2693,9 @@
           "home_team": "VfL Wolfsburg",
           "away_team": "Bor. Mönchengladbach",
           "result": {
+            "breakdown": [
+              "2-1"
+            ],
             "full_time": "2-1"
           }
         },
@@ -2102,7 +2705,10 @@
           "home_team": "Werder Bremen",
           "away_team": "Hannover 96",
           "result": {
-            "full_time": "4-1"
+            "breakdown": [
+              "2-1"
+            ],
+            "full_time": "2-1"
           }
         },
         {
@@ -2111,7 +2717,10 @@
           "home_team": "VfB Stuttgart",
           "away_team": "1899 Hoffenheim",
           "result": {
-            "full_time": "5-1"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -2120,7 +2729,10 @@
           "home_team": "Eintracht Frankfurt",
           "away_team": "FC Ingolstadt 04",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -2147,7 +2759,10 @@
           "home_team": "Hamburger SV",
           "away_team": "Hertha BSC",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -2161,7 +2776,10 @@
           "home_team": "Hertha BSC",
           "away_team": "FC Schalke 04",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2170,6 +2788,9 @@
           "home_team": "1899 Hoffenheim",
           "away_team": "VfL Wolfsburg",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -2179,7 +2800,10 @@
           "home_team": "FC Ingolstadt 04",
           "away_team": "VfB Stuttgart",
           "result": {
-            "full_time": "3-3"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -2188,7 +2812,10 @@
           "home_team": "SV Darmstadt 98",
           "away_team": "FC Augsburg",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -2197,7 +2824,10 @@
           "home_team": "Bor. Mönchengladbach",
           "away_team": "Eintracht Frankfurt",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2206,7 +2836,10 @@
           "home_team": "Hannover 96",
           "away_team": "1. FC Köln",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -2215,7 +2848,10 @@
           "home_team": "Bayern München",
           "away_team": "Werder Bremen",
           "result": {
-            "full_time": "5-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -2224,6 +2860,9 @@
           "home_team": "Bayer Leverkusen",
           "away_team": "Hamburger SV",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -2233,7 +2872,10 @@
           "home_team": "Borussia Dortmund",
           "away_team": "1. FSV Mainz 05",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         }
       ]
@@ -2247,7 +2889,10 @@
           "home_team": "FC Schalke 04",
           "away_team": "Bor. Mönchengladbach",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2256,6 +2901,9 @@
           "home_team": "1. FC Köln",
           "away_team": "Bayern München",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -2265,7 +2913,10 @@
           "home_team": "Hamburger SV",
           "away_team": "1899 Hoffenheim",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "1-2"
+            ],
+            "full_time": "1-2"
           }
         },
         {
@@ -2274,6 +2925,9 @@
           "home_team": "Werder Bremen",
           "away_team": "1. FSV Mainz 05",
           "result": {
+            "breakdown": [
+              "1-1"
+            ],
             "full_time": "1-1"
           }
         },
@@ -2283,7 +2937,10 @@
           "home_team": "Hertha BSC",
           "away_team": "FC Ingolstadt 04",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2292,7 +2949,10 @@
           "home_team": "VfL Wolfsburg",
           "away_team": "SV Darmstadt 98",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2301,6 +2961,9 @@
           "home_team": "Eintracht Frankfurt",
           "away_team": "Hannover 96",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -2310,7 +2973,10 @@
           "home_team": "VfB Stuttgart",
           "away_team": "Bayer Leverkusen",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -2319,7 +2985,10 @@
           "home_team": "FC Augsburg",
           "away_team": "Borussia Dortmund",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         }
       ]
@@ -2333,7 +3002,10 @@
           "home_team": "Bayer Leverkusen",
           "away_team": "VfL Wolfsburg",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2342,7 +3014,10 @@
           "home_team": "FC Ingolstadt 04",
           "away_team": "FC Schalke 04",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -2351,7 +3026,10 @@
           "home_team": "Hannover 96",
           "away_team": "Hamburger SV",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2360,7 +3038,10 @@
           "home_team": "SV Darmstadt 98",
           "away_team": "VfB Stuttgart",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-2"
+            ],
+            "full_time": "1-2"
           }
         },
         {
@@ -2369,7 +3050,10 @@
           "home_team": "1. FSV Mainz 05",
           "away_team": "FC Augsburg",
           "result": {
-            "full_time": "4-2"
+            "breakdown": [
+              "2-2"
+            ],
+            "full_time": "2-2"
           }
         },
         {
@@ -2378,6 +3062,9 @@
           "home_team": "Bayern München",
           "away_team": "Eintracht Frankfurt",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -2387,7 +3074,10 @@
           "home_team": "Borussia Dortmund",
           "away_team": "Werder Bremen",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2396,7 +3086,10 @@
           "home_team": "Bor. Mönchengladbach",
           "away_team": "Hertha BSC",
           "result": {
-            "full_time": "5-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2405,7 +3098,10 @@
           "home_team": "1899 Hoffenheim",
           "away_team": "1. FC Köln",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -2419,7 +3115,10 @@
           "home_team": "Hertha BSC",
           "away_team": "Hannover 96",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -2428,7 +3127,10 @@
           "home_team": "VfB Stuttgart",
           "away_team": "Bayern München",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -2437,7 +3139,10 @@
           "home_team": "FC Ingolstadt 04",
           "away_team": "Bor. Mönchengladbach",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2446,7 +3151,10 @@
           "home_team": "Werder Bremen",
           "away_team": "FC Augsburg",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2455,7 +3163,10 @@
           "home_team": "Eintracht Frankfurt",
           "away_team": "1899 Hoffenheim",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2464,7 +3175,10 @@
           "home_team": "Hamburger SV",
           "away_team": "SV Darmstadt 98",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -2473,7 +3187,10 @@
           "home_team": "VfL Wolfsburg",
           "away_team": "1. FSV Mainz 05",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2482,7 +3199,10 @@
           "home_team": "FC Schalke 04",
           "away_team": "Borussia Dortmund",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2491,6 +3211,9 @@
           "home_team": "1. FC Köln",
           "away_team": "Bayer Leverkusen",
           "result": {
+            "breakdown": [
+              "0-2"
+            ],
             "full_time": "0-2"
           }
         }
@@ -2505,7 +3228,10 @@
           "home_team": "Hannover 96",
           "away_team": "Bor. Mönchengladbach",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2514,7 +3240,10 @@
           "home_team": "Werder Bremen",
           "away_team": "VfL Wolfsburg",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -2523,6 +3252,9 @@
           "home_team": "FC Augsburg",
           "away_team": "VfB Stuttgart",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -2532,7 +3264,10 @@
           "home_team": "Bayer Leverkusen",
           "away_team": "Eintracht Frankfurt",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2541,7 +3276,10 @@
           "home_team": "1899 Hoffenheim",
           "away_team": "Hertha BSC",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -2550,7 +3288,10 @@
           "home_team": "SV Darmstadt 98",
           "away_team": "FC Ingolstadt 04",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2559,7 +3300,10 @@
           "home_team": "Bayern München",
           "away_team": "FC Schalke 04",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2568,7 +3312,10 @@
           "home_team": "Borussia Dortmund",
           "away_team": "Hamburger SV",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -2577,7 +3324,10 @@
           "home_team": "1. FSV Mainz 05",
           "away_team": "1. FC Köln",
           "result": {
-            "full_time": "2-3"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         }
       ]
@@ -2591,7 +3341,10 @@
           "home_team": "Hamburger SV",
           "away_team": "Werder Bremen",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -2600,7 +3353,10 @@
           "home_team": "Hertha BSC",
           "away_team": "Bayern München",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2609,7 +3365,10 @@
           "home_team": "VfB Stuttgart",
           "away_team": "Borussia Dortmund",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -2618,7 +3377,10 @@
           "home_team": "VfL Wolfsburg",
           "away_team": "FC Augsburg",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -2627,7 +3389,10 @@
           "home_team": "FC Ingolstadt 04",
           "away_team": "Hannover 96",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -2636,7 +3401,10 @@
           "home_team": "1. FC Köln",
           "away_team": "SV Darmstadt 98",
           "result": {
-            "full_time": "4-1"
+            "breakdown": [
+              "2-1"
+            ],
+            "full_time": "2-1"
           }
         },
         {
@@ -2645,7 +3413,10 @@
           "home_team": "FC Schalke 04",
           "away_team": "Bayer Leverkusen",
           "result": {
-            "full_time": "2-3"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -2654,7 +3425,10 @@
           "home_team": "Bor. Mönchengladbach",
           "away_team": "1899 Hoffenheim",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -2663,7 +3437,10 @@
           "home_team": "Eintracht Frankfurt",
           "away_team": "1. FSV Mainz 05",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         }
       ]
@@ -2686,7 +3463,10 @@
           "home_team": "Hannover 96",
           "away_team": "FC Schalke 04",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "1-2"
+            ],
+            "full_time": "1-2"
           }
         },
         {
@@ -2695,7 +3475,10 @@
           "home_team": "Bayern München",
           "away_team": "Bor. Mönchengladbach",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2704,7 +3487,10 @@
           "home_team": "Borussia Dortmund",
           "away_team": "VfL Wolfsburg",
           "result": {
-            "full_time": "5-1"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -2722,7 +3508,10 @@
           "home_team": "SV Darmstadt 98",
           "away_team": "Eintracht Frankfurt",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2731,7 +3520,10 @@
           "home_team": "1899 Hoffenheim",
           "away_team": "FC Ingolstadt 04",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -2740,6 +3532,9 @@
           "home_team": "Bayer Leverkusen",
           "away_team": "Hertha BSC",
           "result": {
+            "breakdown": [
+              "2-1"
+            ],
             "full_time": "2-1"
           }
         },
@@ -2749,7 +3544,10 @@
           "home_team": "Werder Bremen",
           "away_team": "VfB Stuttgart",
           "result": {
-            "full_time": "6-2"
+            "breakdown": [
+              "3-1"
+            ],
+            "full_time": "3-1"
           }
         }
       ]
@@ -2763,6 +3561,9 @@
           "home_team": "FC Ingolstadt 04",
           "away_team": "Bayern München",
           "result": {
+            "breakdown": [
+              "1-2"
+            ],
             "full_time": "1-2"
           }
         },
@@ -2772,6 +3573,9 @@
           "home_team": "Eintracht Frankfurt",
           "away_team": "Borussia Dortmund",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -2781,7 +3585,10 @@
           "home_team": "Bor. Mönchengladbach",
           "away_team": "Bayer Leverkusen",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -2790,7 +3597,10 @@
           "home_team": "Hamburger SV",
           "away_team": "VfL Wolfsburg",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2799,7 +3609,10 @@
           "home_team": "FC Schalke 04",
           "away_team": "FC Augsburg",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2817,6 +3630,9 @@
           "home_team": "Hannover 96",
           "away_team": "1899 Hoffenheim",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -2826,7 +3642,10 @@
           "home_team": "VfB Stuttgart",
           "away_team": "1. FSV Mainz 05",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -2835,7 +3654,10 @@
           "home_team": "Hertha BSC",
           "away_team": "SV Darmstadt 98",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         }
       ]
@@ -2849,7 +3671,10 @@
           "home_team": "1899 Hoffenheim",
           "away_team": "FC Schalke 04",
           "result": {
-            "full_time": "1-4"
+            "breakdown": [
+              "1-2"
+            ],
+            "full_time": "1-2"
           }
         },
         {
@@ -2858,7 +3683,10 @@
           "home_team": "SV Darmstadt 98",
           "away_team": "Bor. Mönchengladbach",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -2867,7 +3695,10 @@
           "home_team": "FC Augsburg",
           "away_team": "Hamburger SV",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -2876,7 +3707,10 @@
           "home_team": "VfL Wolfsburg",
           "away_team": "VfB Stuttgart",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -2885,7 +3719,10 @@
           "home_team": "Werder Bremen",
           "away_team": "Eintracht Frankfurt",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2894,7 +3731,10 @@
           "home_team": "Borussia Dortmund",
           "away_team": "1. FC Köln",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-2"
+            ],
+            "full_time": "1-2"
           }
         },
         {
@@ -2903,7 +3743,10 @@
           "home_team": "Bayern München",
           "away_team": "Hannover 96",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -2921,7 +3764,10 @@
           "home_team": "Bayer Leverkusen",
           "away_team": "FC Ingolstadt 04",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "2-1"
+            ],
+            "full_time": "2-1"
           }
         }
       ]

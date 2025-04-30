@@ -11,7 +11,10 @@
           "home_team": "Sporting Clube de Portugal",
           "away_team": "Rio Ave FC",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -20,7 +23,10 @@
           "home_team": "AVS",
           "away_team": "CD Nacional",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -29,7 +35,10 @@
           "home_team": "Casa Pia AC",
           "away_team": "Boavista FC",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -38,7 +47,10 @@
           "home_team": "FC Porto",
           "away_team": "Gil Vicente FC",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -47,7 +59,10 @@
           "home_team": "GD Estoril Praia",
           "away_team": "CD Santa Clara",
           "result": {
-            "full_time": "1-4"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -56,7 +71,10 @@
           "home_team": "SC Farense",
           "away_team": "Moreirense FC",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -65,7 +83,10 @@
           "home_team": "FC Famalicão",
           "away_team": "Sport Lisboa e Benfica",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -74,7 +95,10 @@
           "home_team": "Sporting Clube de Braga",
           "away_team": "CF Estrela da Amadora",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -83,6 +107,9 @@
           "home_team": "FC Arouca",
           "away_team": "Vitória Guimarães",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         }
@@ -97,6 +124,9 @@
           "home_team": "CD Santa Clara",
           "away_team": "FC Porto",
           "result": {
+            "breakdown": [
+              "0-2"
+            ],
             "full_time": "0-2"
           }
         },
@@ -106,7 +136,10 @@
           "home_team": "Gil Vicente FC",
           "away_team": "AVS",
           "result": {
-            "full_time": "4-2"
+            "breakdown": [
+              "2-2"
+            ],
+            "full_time": "2-2"
           }
         },
         {
@@ -115,6 +148,9 @@
           "home_team": "Rio Ave FC",
           "away_team": "SC Farense",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -124,7 +160,10 @@
           "home_team": "CD Nacional",
           "away_team": "Sporting Clube de Portugal",
           "result": {
-            "full_time": "1-6"
+            "breakdown": [
+              "1-2"
+            ],
+            "full_time": "1-2"
           }
         },
         {
@@ -133,7 +172,10 @@
           "home_team": "Sport Lisboa e Benfica",
           "away_team": "Casa Pia AC",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -142,7 +184,10 @@
           "home_team": "Moreirense FC",
           "away_team": "FC Arouca",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "2-1"
+            ],
+            "full_time": "2-1"
           }
         },
         {
@@ -151,6 +196,9 @@
           "home_team": "Vitória Guimarães",
           "away_team": "GD Estoril Praia",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -160,6 +208,9 @@
           "home_team": "Boavista FC",
           "away_team": "Sporting Clube de Braga",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -169,7 +220,10 @@
           "home_team": "CF Estrela da Amadora",
           "away_team": "FC Famalicão",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         }
       ]
@@ -183,7 +237,10 @@
           "home_team": "SC Farense",
           "away_team": "Sporting Clube de Portugal",
           "result": {
-            "full_time": "0-5"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -192,7 +249,10 @@
           "home_team": "Casa Pia AC",
           "away_team": "CD Santa Clara",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -201,6 +261,9 @@
           "home_team": "FC Porto",
           "away_team": "Rio Ave FC",
           "result": {
+            "breakdown": [
+              "2-0"
+            ],
             "full_time": "2-0"
           }
         },
@@ -210,6 +273,9 @@
           "home_team": "Sport Lisboa e Benfica",
           "away_team": "CF Estrela da Amadora",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -219,6 +285,9 @@
           "home_team": "FC Famalicão",
           "away_team": "Boavista FC",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -228,6 +297,9 @@
           "home_team": "FC Arouca",
           "away_team": "CD Nacional",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -246,7 +318,10 @@
           "home_team": "Sporting Clube de Braga",
           "away_team": "Moreirense FC",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -255,7 +330,10 @@
           "home_team": "AVS",
           "away_team": "Vitória Guimarães",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -269,7 +347,10 @@
           "home_team": "Moreirense FC",
           "away_team": "Sport Lisboa e Benfica",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -278,7 +359,10 @@
           "home_team": "CD Santa Clara",
           "away_team": "AVS",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -296,7 +380,10 @@
           "home_team": "CF Estrela da Amadora",
           "away_team": "Casa Pia AC",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -305,7 +392,10 @@
           "home_team": "Sporting Clube de Portugal",
           "away_team": "FC Porto",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -314,7 +404,10 @@
           "home_team": "CD Nacional",
           "away_team": "SC Farense",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -323,6 +416,9 @@
           "home_team": "Rio Ave FC",
           "away_team": "FC Arouca",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -341,7 +437,10 @@
           "home_team": "Vitória Guimarães",
           "away_team": "FC Famalicão",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         }
       ]
@@ -355,7 +454,10 @@
           "home_team": "FC Arouca",
           "away_team": "Sporting Clube de Portugal",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -364,7 +466,10 @@
           "home_team": "Casa Pia AC",
           "away_team": "Moreirense FC",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -373,7 +478,10 @@
           "home_team": "AVS",
           "away_team": "Rio Ave FC",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -382,7 +490,10 @@
           "home_team": "Sport Lisboa e Benfica",
           "away_team": "CD Santa Clara",
           "result": {
-            "full_time": "4-1"
+            "breakdown": [
+              "2-1"
+            ],
+            "full_time": "2-1"
           }
         },
         {
@@ -391,7 +502,10 @@
           "home_team": "FC Famalicão",
           "away_team": "Gil Vicente FC",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -400,7 +514,10 @@
           "home_team": "FC Porto",
           "away_team": "SC Farense",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -409,6 +526,9 @@
           "home_team": "GD Estoril Praia",
           "away_team": "CD Nacional",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -418,7 +538,10 @@
           "home_team": "Sporting Clube de Braga",
           "away_team": "Vitória Guimarães",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -427,7 +550,10 @@
           "home_team": "CF Estrela da Amadora",
           "away_team": "Boavista FC",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-2"
+            ],
+            "full_time": "1-2"
           }
         }
       ]
@@ -441,7 +567,10 @@
           "home_team": "CD Nacional",
           "away_team": "Sporting Clube de Braga",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -450,7 +579,10 @@
           "home_team": "CD Santa Clara",
           "away_team": "CF Estrela da Amadora",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -459,7 +591,10 @@
           "home_team": "Rio Ave FC",
           "away_team": "GD Estoril Praia",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -468,7 +603,10 @@
           "home_team": "Vitória Guimarães",
           "away_team": "FC Porto",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -486,7 +624,10 @@
           "home_team": "Gil Vicente FC",
           "away_team": "Casa Pia AC",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -495,6 +636,9 @@
           "home_team": "SC Farense",
           "away_team": "FC Arouca",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -504,7 +648,10 @@
           "home_team": "Sporting Clube de Portugal",
           "away_team": "AVS",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -513,7 +660,10 @@
           "home_team": "Boavista FC",
           "away_team": "Sport Lisboa e Benfica",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         }
       ]
@@ -527,7 +677,10 @@
           "home_team": "GD Estoril Praia",
           "away_team": "Sporting Clube de Portugal",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -536,7 +689,10 @@
           "home_team": "CF Estrela da Amadora",
           "away_team": "Moreirense FC",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -545,7 +701,10 @@
           "home_team": "Casa Pia AC",
           "away_team": "Vitória Guimarães",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -554,7 +713,10 @@
           "home_team": "Sport Lisboa e Benfica",
           "away_team": "Gil Vicente FC",
           "result": {
-            "full_time": "5-1"
+            "breakdown": [
+              "2-1"
+            ],
+            "full_time": "2-1"
           }
         },
         {
@@ -572,7 +734,10 @@
           "home_team": "FC Porto",
           "away_team": "FC Arouca",
           "result": {
-            "full_time": "4-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -581,7 +746,10 @@
           "home_team": "Sporting Clube de Braga",
           "away_team": "Rio Ave FC",
           "result": {
-            "full_time": "4-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -590,6 +758,9 @@
           "home_team": "CD Santa Clara",
           "away_team": "Boavista FC",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -613,7 +784,10 @@
           "home_team": "Rio Ave FC",
           "away_team": "FC Famalicão",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -622,7 +796,10 @@
           "home_team": "Moreirense FC",
           "away_team": "CD Santa Clara",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -631,7 +808,10 @@
           "home_team": "Gil Vicente FC",
           "away_team": "CF Estrela da Amadora",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -640,7 +820,10 @@
           "home_team": "FC Arouca",
           "away_team": "AVS",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -649,7 +832,10 @@
           "home_team": "Sporting Clube de Portugal",
           "away_team": "Casa Pia AC",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -658,7 +844,10 @@
           "home_team": "Vitória Guimarães",
           "away_team": "Boavista FC",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -667,7 +856,10 @@
           "home_team": "SC Farense",
           "away_team": "GD Estoril Praia",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -676,7 +868,10 @@
           "home_team": "FC Porto",
           "away_team": "Sporting Clube de Braga",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         }
       ]
@@ -690,6 +885,9 @@
           "home_team": "Casa Pia AC",
           "away_team": "CD Nacional",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -699,6 +897,9 @@
           "home_team": "CD Santa Clara",
           "away_team": "Gil Vicente FC",
           "result": {
+            "breakdown": [
+              "2-1"
+            ],
             "full_time": "2-1"
           }
         },
@@ -708,7 +909,10 @@
           "home_team": "GD Estoril Praia",
           "away_team": "FC Arouca",
           "result": {
-            "full_time": "4-1"
+            "breakdown": [
+              "2-1"
+            ],
+            "full_time": "2-1"
           }
         },
         {
@@ -717,7 +921,10 @@
           "home_team": "Boavista FC",
           "away_team": "Moreirense FC",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -726,7 +933,10 @@
           "home_team": "FC Famalicão",
           "away_team": "Sporting Clube de Portugal",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -735,7 +945,10 @@
           "home_team": "Sporting Clube de Braga",
           "away_team": "SC Farense",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -744,7 +957,10 @@
           "home_team": "Sport Lisboa e Benfica",
           "away_team": "Rio Ave FC",
           "result": {
-            "full_time": "5-0"
+            "breakdown": [
+              "3-0"
+            ],
+            "full_time": "3-0"
           }
         },
         {
@@ -753,7 +969,10 @@
           "home_team": "CF Estrela da Amadora",
           "away_team": "Vitória Guimarães",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -762,7 +981,10 @@
           "home_team": "AVS",
           "away_team": "FC Porto",
           "result": {
-            "full_time": "0-5"
+            "breakdown": [
+              "0-4"
+            ],
+            "full_time": "0-4"
           }
         }
       ]
@@ -776,7 +998,10 @@
           "home_team": "Sporting Clube de Portugal",
           "away_team": "CF Estrela da Amadora",
           "result": {
-            "full_time": "5-1"
+            "breakdown": [
+              "3-1"
+            ],
+            "full_time": "3-1"
           }
         },
         {
@@ -785,6 +1010,9 @@
           "home_team": "Rio Ave FC",
           "away_team": "Casa Pia AC",
           "result": {
+            "breakdown": [
+              "2-2"
+            ],
             "full_time": "2-2"
           }
         },
@@ -794,7 +1022,10 @@
           "home_team": "SC Farense",
           "away_team": "Sport Lisboa e Benfica",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -803,7 +1034,10 @@
           "home_team": "Gil Vicente FC",
           "away_team": "Boavista FC",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -812,7 +1046,10 @@
           "home_team": "AVS",
           "away_team": "FC Famalicão",
           "result": {
-            "full_time": "2-3"
+            "breakdown": [
+              "2-2"
+            ],
+            "full_time": "2-2"
           }
         },
         {
@@ -821,7 +1058,10 @@
           "home_team": "FC Arouca",
           "away_team": "Sporting Clube de Braga",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -830,7 +1070,10 @@
           "home_team": "Vitória Guimarães",
           "away_team": "Moreirense FC",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -839,7 +1082,10 @@
           "home_team": "FC Porto",
           "away_team": "GD Estoril Praia",
           "result": {
-            "full_time": "4-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -848,6 +1094,9 @@
           "home_team": "CD Nacional",
           "away_team": "CD Santa Clara",
           "result": {
+            "breakdown": [
+              "2-0"
+            ],
             "full_time": "2-0"
           }
         }
@@ -862,7 +1111,10 @@
           "home_team": "Moreirense FC",
           "away_team": "Gil Vicente FC",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -871,6 +1123,9 @@
           "home_team": "Casa Pia AC",
           "away_team": "SC Farense",
           "result": {
+            "breakdown": [
+              "1-1"
+            ],
             "full_time": "1-1"
           }
         },
@@ -898,7 +1153,10 @@
           "home_team": "Boavista FC",
           "away_team": "Rio Ave FC",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -907,7 +1165,10 @@
           "home_team": "CF Estrela da Amadora",
           "away_team": "CD Nacional",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -916,7 +1177,10 @@
           "home_team": "CD Santa Clara",
           "away_team": "Vitória Guimarães",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -925,7 +1189,10 @@
           "home_team": "Sporting Clube de Braga",
           "away_team": "Sporting Clube de Portugal",
           "result": {
-            "full_time": "2-4"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -934,7 +1201,10 @@
           "home_team": "Sport Lisboa e Benfica",
           "away_team": "FC Porto",
           "result": {
-            "full_time": "4-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         }
       ]
@@ -948,6 +1218,9 @@
           "home_team": "SC Farense",
           "away_team": "CF Estrela da Amadora",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -957,7 +1230,10 @@
           "home_team": "Rio Ave FC",
           "away_team": "Moreirense FC",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -975,6 +1251,9 @@
           "home_team": "Sporting Clube de Portugal",
           "away_team": "CD Santa Clara",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -984,6 +1263,9 @@
           "home_team": "GD Estoril Praia",
           "away_team": "FC Famalicão",
           "result": {
+            "breakdown": [
+              "2-1"
+            ],
             "full_time": "2-1"
           }
         },
@@ -993,7 +1275,10 @@
           "home_team": "FC Arouca",
           "away_team": "Sport Lisboa e Benfica",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1002,7 +1287,10 @@
           "home_team": "AVS",
           "away_team": "Sporting Clube de Braga",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1011,7 +1299,10 @@
           "home_team": "Vitória Guimarães",
           "away_team": "Gil Vicente FC",
           "result": {
-            "full_time": "4-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1020,7 +1311,10 @@
           "home_team": "FC Porto",
           "away_team": "Casa Pia AC",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -1034,6 +1328,9 @@
           "home_team": "Moreirense FC",
           "away_team": "Sporting Clube de Portugal",
           "result": {
+            "breakdown": [
+              "2-1"
+            ],
             "full_time": "2-1"
           }
         },
@@ -1043,7 +1340,10 @@
           "home_team": "Sporting Clube de Braga",
           "away_team": "GD Estoril Praia",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1052,7 +1352,10 @@
           "home_team": "Gil Vicente FC",
           "away_team": "CD Nacional",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1061,6 +1364,9 @@
           "home_team": "Sport Lisboa e Benfica",
           "away_team": "Vitória Guimarães",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -1070,6 +1376,9 @@
           "home_team": "CD Santa Clara",
           "away_team": "Rio Ave FC",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -1079,7 +1388,10 @@
           "home_team": "FC Famalicão",
           "away_team": "FC Porto",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1088,7 +1400,10 @@
           "home_team": "Boavista FC",
           "away_team": "SC Farense",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1097,7 +1412,10 @@
           "home_team": "Casa Pia AC",
           "away_team": "AVS",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1106,7 +1424,10 @@
           "home_team": "CF Estrela da Amadora",
           "away_team": "FC Arouca",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         }
       ]
@@ -1120,7 +1441,10 @@
           "home_team": "SC Farense",
           "away_team": "Gil Vicente FC",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1129,7 +1453,10 @@
           "home_team": "CD Nacional",
           "away_team": "Moreirense FC",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1138,7 +1465,10 @@
           "home_team": "Sporting Clube de Portugal",
           "away_team": "Boavista FC",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -1147,7 +1477,10 @@
           "home_team": "FC Arouca",
           "away_team": "CD Santa Clara",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1156,7 +1489,10 @@
           "home_team": "AVS",
           "away_team": "Sport Lisboa e Benfica",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1165,7 +1501,10 @@
           "home_team": "GD Estoril Praia",
           "away_team": "Casa Pia AC",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1174,7 +1513,10 @@
           "home_team": "Sporting Clube de Braga",
           "away_team": "FC Famalicão",
           "result": {
-            "full_time": "3-3"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1183,7 +1525,10 @@
           "home_team": "FC Porto",
           "away_team": "CF Estrela da Amadora",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1192,7 +1537,10 @@
           "home_team": "Rio Ave FC",
           "away_team": "Vitória Guimarães",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         }
       ]
@@ -1206,7 +1554,10 @@
           "home_team": "CD Nacional",
           "away_team": "Sport Lisboa e Benfica",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -1220,7 +1571,10 @@
           "home_team": "Casa Pia AC",
           "away_team": "FC Arouca",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -1229,7 +1583,10 @@
           "home_team": "FC Famalicão",
           "away_team": "SC Farense",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1247,7 +1604,10 @@
           "home_team": "Moreirense FC",
           "away_team": "FC Porto",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1256,7 +1616,10 @@
           "home_team": "CD Santa Clara",
           "away_team": "Sporting Clube de Braga",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1274,7 +1637,10 @@
           "home_team": "Sport Lisboa e Benfica",
           "away_team": "GD Estoril Praia",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1283,7 +1649,10 @@
           "home_team": "Vitória Guimarães",
           "away_team": "CD Nacional",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -1292,6 +1661,9 @@
           "home_team": "CF Estrela da Amadora",
           "away_team": "Rio Ave FC",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         }
@@ -1306,7 +1678,10 @@
           "home_team": "FC Arouca",
           "away_team": "Gil Vicente FC",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1315,7 +1690,10 @@
           "home_team": "AVS",
           "away_team": "CF Estrela da Amadora",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1324,7 +1702,10 @@
           "home_team": "GD Estoril Praia",
           "away_team": "Moreirense FC",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "2-1"
+            ],
+            "full_time": "2-1"
           }
         },
         {
@@ -1333,7 +1714,10 @@
           "home_team": "FC Porto",
           "away_team": "Boavista FC",
           "result": {
-            "full_time": "4-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1342,7 +1726,10 @@
           "home_team": "SC Farense",
           "away_team": "Vitória Guimarães",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1351,7 +1738,10 @@
           "home_team": "Rio Ave FC",
           "away_team": "CD Nacional",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -1360,7 +1750,10 @@
           "home_team": "Sporting Clube de Braga",
           "away_team": "Casa Pia AC",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -1369,6 +1762,9 @@
           "home_team": "Sporting Clube de Portugal",
           "away_team": "Sport Lisboa e Benfica",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -1378,7 +1774,10 @@
           "home_team": "FC Famalicão",
           "away_team": "CD Santa Clara",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         }
       ]
@@ -1392,7 +1791,10 @@
           "home_team": "Vitória Guimarães",
           "away_team": "Sporting Clube de Portugal",
           "result": {
-            "full_time": "4-4"
+            "breakdown": [
+              "1-2"
+            ],
+            "full_time": "1-2"
           }
         },
         {
@@ -1401,6 +1803,9 @@
           "home_team": "Moreirense FC",
           "away_team": "AVS",
           "result": {
+            "breakdown": [
+              "1-1"
+            ],
             "full_time": "1-1"
           }
         },
@@ -1410,7 +1815,10 @@
           "home_team": "Sport Lisboa e Benfica",
           "away_team": "Sporting Clube de Braga",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -1419,7 +1827,10 @@
           "home_team": "Boavista FC",
           "away_team": "FC Arouca",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1437,6 +1848,9 @@
           "home_team": "Casa Pia AC",
           "away_team": "FC Famalicão",
           "result": {
+            "breakdown": [
+              "1-1"
+            ],
             "full_time": "1-1"
           }
         },
@@ -1446,7 +1860,10 @@
           "home_team": "CF Estrela da Amadora",
           "away_team": "GD Estoril Praia",
           "result": {
-            "full_time": "2-4"
+            "breakdown": [
+              "0-3"
+            ],
+            "full_time": "0-3"
           }
         },
         {
@@ -1455,7 +1872,10 @@
           "home_team": "Gil Vicente FC",
           "away_team": "Rio Ave FC",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1464,6 +1884,9 @@
           "home_team": "CD Nacional",
           "away_team": "FC Porto",
           "result": {
+            "breakdown": [
+              "2-0"
+            ],
             "full_time": "2-0"
           }
         }
@@ -1478,7 +1901,10 @@
           "home_team": "Sport Lisboa e Benfica",
           "away_team": "FC Famalicão",
           "result": {
-            "full_time": "4-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -1487,7 +1913,10 @@
           "home_team": "CD Santa Clara",
           "away_team": "GD Estoril Praia",
           "result": {
-            "full_time": "2-3"
+            "breakdown": [
+              "1-2"
+            ],
+            "full_time": "1-2"
           }
         },
         {
@@ -1496,7 +1925,10 @@
           "home_team": "Rio Ave FC",
           "away_team": "Sporting Clube de Portugal",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -1505,7 +1937,10 @@
           "home_team": "Vitória Guimarães",
           "away_team": "FC Arouca",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -1514,6 +1949,9 @@
           "home_team": "CD Nacional",
           "away_team": "AVS",
           "result": {
+            "breakdown": [
+              "3-1"
+            ],
             "full_time": "3-1"
           }
         },
@@ -1532,7 +1970,10 @@
           "home_team": "CF Estrela da Amadora",
           "away_team": "Sporting Clube de Braga",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1541,7 +1982,10 @@
           "home_team": "Gil Vicente FC",
           "away_team": "FC Porto",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1550,7 +1994,10 @@
           "home_team": "Boavista FC",
           "away_team": "Casa Pia AC",
           "result": {
-            "full_time": "2-3"
+            "breakdown": [
+              "1-2"
+            ],
+            "full_time": "1-2"
           }
         }
       ]
@@ -1564,7 +2011,10 @@
           "home_team": "FC Arouca",
           "away_team": "Moreirense FC",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1582,7 +2032,10 @@
           "home_team": "SC Farense",
           "away_team": "Rio Ave FC",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1591,7 +2044,10 @@
           "home_team": "Casa Pia AC",
           "away_team": "Sport Lisboa e Benfica",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -1600,7 +2056,10 @@
           "home_team": "Sporting Clube de Portugal",
           "away_team": "CD Nacional",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1609,7 +2068,10 @@
           "home_team": "GD Estoril Praia",
           "away_team": "Vitória Guimarães",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1618,7 +2080,10 @@
           "home_team": "FC Porto",
           "away_team": "CD Santa Clara",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1627,7 +2092,10 @@
           "home_team": "Sporting Clube de Braga",
           "away_team": "Boavista FC",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -1636,7 +2104,10 @@
           "home_team": "AVS",
           "away_team": "Gil Vicente FC",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -1650,7 +2121,10 @@
           "home_team": "Boavista FC",
           "away_team": "FC Famalicão",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1659,6 +2133,9 @@
           "home_team": "CD Nacional",
           "away_team": "FC Arouca",
           "result": {
+            "breakdown": [
+              "1-2"
+            ],
             "full_time": "1-2"
           }
         },
@@ -1668,7 +2145,10 @@
           "home_team": "CD Santa Clara",
           "away_team": "Casa Pia AC",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1677,7 +2157,10 @@
           "home_team": "Gil Vicente FC",
           "away_team": "GD Estoril Praia",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -1686,7 +2169,10 @@
           "home_team": "Vitória Guimarães",
           "away_team": "AVS",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1695,7 +2181,10 @@
           "home_team": "Sporting Clube de Portugal",
           "away_team": "SC Farense",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "2-1"
+            ],
+            "full_time": "2-1"
           }
         },
         {
@@ -1704,7 +2193,10 @@
           "home_team": "CF Estrela da Amadora",
           "away_team": "Sport Lisboa e Benfica",
           "result": {
-            "full_time": "2-3"
+            "breakdown": [
+              "1-3"
+            ],
+            "full_time": "1-3"
           }
         },
         {
@@ -1713,7 +2205,10 @@
           "home_team": "Moreirense FC",
           "away_team": "Sporting Clube de Braga",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1722,7 +2217,10 @@
           "home_team": "Rio Ave FC",
           "away_team": "FC Porto",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         }
       ]
@@ -1736,7 +2234,10 @@
           "home_team": "FC Porto",
           "away_team": "Sporting Clube de Portugal",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1745,7 +2246,10 @@
           "home_team": "AVS",
           "away_team": "CD Santa Clara",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1754,7 +2258,10 @@
           "home_team": "Sport Lisboa e Benfica",
           "away_team": "Moreirense FC",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "3-1"
+            ],
+            "full_time": "3-1"
           }
         },
         {
@@ -1772,7 +2279,10 @@
           "home_team": "GD Estoril Praia",
           "away_team": "Boavista FC",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1781,7 +2291,10 @@
           "home_team": "SC Farense",
           "away_team": "CD Nacional",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1790,7 +2303,10 @@
           "home_team": "Sporting Clube de Braga",
           "away_team": "Gil Vicente FC",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1799,6 +2315,9 @@
           "home_team": "Casa Pia AC",
           "away_team": "CF Estrela da Amadora",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -1808,7 +2327,10 @@
           "home_team": "FC Arouca",
           "away_team": "Rio Ave FC",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -1822,6 +2344,9 @@
           "home_team": "Boavista FC",
           "away_team": "CF Estrela da Amadora",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -1831,7 +2356,10 @@
           "home_team": "Moreirense FC",
           "away_team": "Casa Pia AC",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "3-0"
+            ],
+            "full_time": "3-0"
           }
         },
         {
@@ -1840,7 +2368,10 @@
           "home_team": "CD Nacional",
           "away_team": "GD Estoril Praia",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -1849,7 +2380,10 @@
           "home_team": "CD Santa Clara",
           "away_team": "Sport Lisboa e Benfica",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1858,7 +2392,10 @@
           "home_team": "Sporting Clube de Portugal",
           "away_team": "FC Arouca",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-2"
+            ],
+            "full_time": "1-2"
           }
         },
         {
@@ -1867,7 +2404,10 @@
           "home_team": "Rio Ave FC",
           "away_team": "AVS",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1876,7 +2416,10 @@
           "home_team": "SC Farense",
           "away_team": "FC Porto",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1894,7 +2437,10 @@
           "home_team": "Gil Vicente FC",
           "away_team": "FC Famalicão",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         }
       ]
@@ -1908,6 +2454,9 @@
           "home_team": "Sporting Clube de Braga",
           "away_team": "CD Nacional",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -1917,7 +2466,10 @@
           "home_team": "Casa Pia AC",
           "away_team": "Gil Vicente FC",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1926,7 +2478,10 @@
           "home_team": "Sport Lisboa e Benfica",
           "away_team": "Boavista FC",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1935,7 +2490,10 @@
           "home_team": "GD Estoril Praia",
           "away_team": "Rio Ave FC",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1953,7 +2511,10 @@
           "home_team": "FC Arouca",
           "away_team": "SC Farense",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1962,7 +2523,10 @@
           "home_team": "AVS",
           "away_team": "Sporting Clube de Portugal",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -1971,7 +2535,10 @@
           "home_team": "FC Famalicão",
           "away_team": "Moreirense FC",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1980,7 +2547,10 @@
           "home_team": "FC Porto",
           "away_team": "Vitória Guimarães",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -1994,7 +2564,10 @@
           "home_team": "CD Nacional",
           "away_team": "FC Famalicão",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2003,7 +2576,10 @@
           "home_team": "FC Arouca",
           "away_team": "FC Porto",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -2012,7 +2588,10 @@
           "home_team": "Vitória Guimarães",
           "away_team": "Casa Pia AC",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2021,7 +2600,10 @@
           "home_team": "Boavista FC",
           "away_team": "CD Santa Clara",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2030,7 +2612,10 @@
           "home_team": "Moreirense FC",
           "away_team": "CF Estrela da Amadora",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2039,7 +2624,10 @@
           "home_team": "SC Farense",
           "away_team": "AVS",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2048,7 +2636,10 @@
           "home_team": "Rio Ave FC",
           "away_team": "Sporting Clube de Braga",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -2057,7 +2648,10 @@
           "home_team": "Sporting Clube de Portugal",
           "away_team": "GD Estoril Praia",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         }
       ]
@@ -2071,7 +2665,10 @@
           "home_team": "CF Estrela da Amadora",
           "away_team": "Gil Vicente FC",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2080,7 +2677,10 @@
           "home_team": "AVS",
           "away_team": "FC Arouca",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2089,7 +2689,10 @@
           "home_team": "GD Estoril Praia",
           "away_team": "SC Farense",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2098,7 +2701,10 @@
           "home_team": "Sport Lisboa e Benfica",
           "away_team": "CD Nacional",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -2107,6 +2713,9 @@
           "home_team": "Sporting Clube de Braga",
           "away_team": "FC Porto",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -2116,7 +2725,10 @@
           "home_team": "CD Santa Clara",
           "away_team": "Moreirense FC",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2125,7 +2737,10 @@
           "home_team": "Casa Pia AC",
           "away_team": "Sporting Clube de Portugal",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "1-2"
+            ],
+            "full_time": "1-2"
           }
         },
         {
@@ -2134,7 +2749,10 @@
           "home_team": "Boavista FC",
           "away_team": "Vitória Guimarães",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2143,6 +2761,9 @@
           "home_team": "FC Famalicão",
           "away_team": "Rio Ave FC",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         }
@@ -2157,7 +2778,10 @@
           "home_team": "SC Farense",
           "away_team": "Sporting Clube de Braga",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2166,6 +2790,9 @@
           "home_team": "Gil Vicente FC",
           "away_team": "CD Santa Clara",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -2175,7 +2802,10 @@
           "home_team": "FC Porto",
           "away_team": "AVS",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2184,7 +2814,10 @@
           "home_team": "Sporting Clube de Portugal",
           "away_team": "FC Famalicão",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -2193,7 +2826,10 @@
           "home_team": "CD Nacional",
           "away_team": "Casa Pia AC",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2202,7 +2838,10 @@
           "home_team": "FC Arouca",
           "away_team": "GD Estoril Praia",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2211,7 +2850,10 @@
           "home_team": "Rio Ave FC",
           "away_team": "Sport Lisboa e Benfica",
           "result": {
-            "full_time": "2-3"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -2220,7 +2862,10 @@
           "home_team": "Vitória Guimarães",
           "away_team": "CF Estrela da Amadora",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2229,6 +2874,9 @@
           "home_team": "Moreirense FC",
           "away_team": "Boavista FC",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         }
@@ -2243,7 +2891,10 @@
           "home_team": "Gil Vicente FC",
           "away_team": "Sport Lisboa e Benfica",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         }
       ]
@@ -2257,7 +2908,10 @@
           "home_team": "Casa Pia AC",
           "away_team": "Rio Ave FC",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -2266,7 +2920,10 @@
           "home_team": "CF Estrela da Amadora",
           "away_team": "Sporting Clube de Portugal",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2275,7 +2932,10 @@
           "home_team": "Sporting Clube de Braga",
           "away_team": "FC Arouca",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -2284,7 +2944,10 @@
           "home_team": "FC Famalicão",
           "away_team": "AVS",
           "result": {
-            "full_time": "4-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2293,6 +2956,9 @@
           "home_team": "CD Santa Clara",
           "away_team": "CD Nacional",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -2302,7 +2968,10 @@
           "home_team": "GD Estoril Praia",
           "away_team": "FC Porto",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -2311,7 +2980,10 @@
           "home_team": "Moreirense FC",
           "away_team": "Vitória Guimarães",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -2320,7 +2992,10 @@
           "home_team": "Boavista FC",
           "away_team": "Gil Vicente FC",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2329,7 +3004,10 @@
           "home_team": "Sport Lisboa e Benfica",
           "away_team": "SC Farense",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "2-1"
+            ],
+            "full_time": "2-1"
           }
         }
       ]
@@ -2343,7 +3021,10 @@
           "home_team": "AVS",
           "away_team": "GD Estoril Praia",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -2352,7 +3033,10 @@
           "home_team": "FC Arouca",
           "away_team": "FC Famalicão",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -2361,7 +3045,10 @@
           "home_team": "Vitória Guimarães",
           "away_team": "CD Santa Clara",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2370,7 +3057,10 @@
           "home_team": "Gil Vicente FC",
           "away_team": "Moreirense FC",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2379,7 +3069,10 @@
           "home_team": "CD Nacional",
           "away_team": "CF Estrela da Amadora",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2388,7 +3081,10 @@
           "home_team": "FC Porto",
           "away_team": "Sport Lisboa e Benfica",
           "result": {
-            "full_time": "1-4"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -2406,7 +3102,10 @@
           "home_team": "Rio Ave FC",
           "away_team": "Boavista FC",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -2415,7 +3114,10 @@
           "home_team": "Sporting Clube de Portugal",
           "away_team": "Sporting Clube de Braga",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         }
       ]
@@ -2429,7 +3131,10 @@
           "home_team": "Gil Vicente FC",
           "away_team": "Vitória Guimarães",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2438,7 +3143,10 @@
           "home_team": "FC Famalicão",
           "away_team": "GD Estoril Praia",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2447,6 +3155,9 @@
           "home_team": "Boavista FC",
           "away_team": "CD Nacional",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -2456,7 +3167,10 @@
           "home_team": "CD Santa Clara",
           "away_team": "Sporting Clube de Portugal",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2465,6 +3179,9 @@
           "home_team": "Casa Pia AC",
           "away_team": "FC Porto",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -2474,7 +3191,10 @@
           "home_team": "CF Estrela da Amadora",
           "away_team": "SC Farense",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2483,7 +3203,10 @@
           "home_team": "Sporting Clube de Braga",
           "away_team": "AVS",
           "result": {
-            "full_time": "4-1"
+            "breakdown": [
+              "3-1"
+            ],
+            "full_time": "3-1"
           }
         },
         {
@@ -2492,7 +3215,10 @@
           "home_team": "Sport Lisboa e Benfica",
           "away_team": "FC Arouca",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2501,7 +3227,10 @@
           "home_team": "Moreirense FC",
           "away_team": "Rio Ave FC",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -2515,7 +3244,10 @@
           "home_team": "SC Farense",
           "away_team": "Boavista FC",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2524,7 +3256,10 @@
           "home_team": "Rio Ave FC",
           "away_team": "CD Santa Clara",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2533,7 +3268,10 @@
           "home_team": "FC Porto",
           "away_team": "FC Famalicão",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2542,7 +3280,10 @@
           "home_team": "Sporting Clube de Portugal",
           "away_team": "Moreirense FC",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -2551,7 +3292,10 @@
           "home_team": "CD Nacional",
           "away_team": "Gil Vicente FC",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -2560,7 +3304,10 @@
           "home_team": "AVS",
           "away_team": "Casa Pia AC",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2569,6 +3316,9 @@
           "home_team": "GD Estoril Praia",
           "away_team": "Sporting Clube de Braga",
           "result": {
+            "breakdown": [
+              "0-2"
+            ],
             "full_time": "0-2"
           }
         },
@@ -2578,7 +3328,10 @@
           "home_team": "FC Arouca",
           "away_team": "CF Estrela da Amadora",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2587,7 +3340,10 @@
           "home_team": "Vitória Guimarães",
           "away_team": "Sport Lisboa e Benfica",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         }
       ]
@@ -2601,7 +3357,10 @@
           "home_team": "FC Famalicão",
           "away_team": "Sporting Clube de Braga",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2610,6 +3369,9 @@
           "home_team": "CD Santa Clara",
           "away_team": "FC Arouca",
           "result": {
+            "breakdown": [
+              "2-0"
+            ],
             "full_time": "2-0"
           }
         },
@@ -2619,7 +3381,10 @@
           "home_team": "Gil Vicente FC",
           "away_team": "SC Farense",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2628,7 +3393,10 @@
           "home_team": "CF Estrela da Amadora",
           "away_team": "FC Porto",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2637,7 +3405,10 @@
           "home_team": "Moreirense FC",
           "away_team": "CD Nacional",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2646,7 +3417,10 @@
           "home_team": "Sport Lisboa e Benfica",
           "away_team": "AVS",
           "result": {
-            "full_time": "6-0"
+            "breakdown": [
+              "4-0"
+            ],
+            "full_time": "4-0"
           }
         },
         {
@@ -2655,6 +3429,9 @@
           "home_team": "Vitória Guimarães",
           "away_team": "Rio Ave FC",
           "result": {
+            "breakdown": [
+              "3-0"
+            ],
             "full_time": "3-0"
           }
         },
@@ -2664,7 +3441,10 @@
           "home_team": "Boavista FC",
           "away_team": "Sporting Clube de Portugal",
           "result": {
-            "full_time": "0-5"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {

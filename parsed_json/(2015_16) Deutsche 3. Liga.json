@@ -11,7 +11,10 @@
           "home_team": "1. FC Magdeburg",
           "away_team": "Rot-Weiß Erfurt",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -29,7 +32,10 @@
           "home_team": "Dynamo Dresden",
           "away_team": "VfB Stuttgart II",
           "result": {
-            "full_time": "4-1"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -47,7 +53,10 @@
           "home_team": "Holstein Kiel",
           "away_team": "1. FSV Mainz 05 II",
           "result": {
-            "full_time": "0-4"
+            "breakdown": [
+              "0-3"
+            ],
+            "full_time": "0-3"
           }
         },
         {
@@ -56,7 +65,10 @@
           "home_team": "Hansa Rostock",
           "away_team": "Werder Bremen II",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -74,7 +86,10 @@
           "home_team": "Stuttgarter Kickers",
           "away_team": "Fortuna Köln",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -83,7 +98,10 @@
           "home_team": "Preußen Münster",
           "away_team": "SG Sonnenhof Großaspach",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -92,7 +110,10 @@
           "home_team": "Energie Cottbus",
           "away_team": "Hallescher FC",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         }
       ]
@@ -106,7 +127,10 @@
           "home_team": "1. FSV Mainz 05 II",
           "away_team": "1. FC Magdeburg",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -115,7 +139,10 @@
           "home_team": "VfB Stuttgart II",
           "away_team": "Preußen Münster",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "1-2"
+            ],
+            "full_time": "1-2"
           }
         },
         {
@@ -124,7 +151,10 @@
           "home_team": "Fortuna Köln",
           "away_team": "VfR Aalen",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -133,7 +163,10 @@
           "home_team": "Chemnitzer FC",
           "away_team": "Hansa Rostock",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -142,7 +175,10 @@
           "home_team": "Werder Bremen II",
           "away_team": "Energie Cottbus",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -160,7 +196,10 @@
           "home_team": "Würzburger Kickers",
           "away_team": "Dynamo Dresden",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -169,7 +208,10 @@
           "home_team": "VfL Osnabrück",
           "away_team": "Stuttgarter Kickers",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -178,7 +220,10 @@
           "home_team": "Hallescher FC",
           "away_team": "Holstein Kiel",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -187,7 +232,10 @@
           "home_team": "SG Sonnenhof Großaspach",
           "away_team": "Erzgebirge Aue",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         }
       ]
@@ -201,7 +249,10 @@
           "home_team": "Dynamo Dresden",
           "away_team": "Rot-Weiß Erfurt",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -210,7 +261,10 @@
           "home_team": "VfR Aalen",
           "away_team": "VfL Osnabrück",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -219,7 +273,10 @@
           "home_team": "Erzgebirge Aue",
           "away_team": "Stuttgarter Kickers",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -228,6 +285,9 @@
           "home_team": "SV Wehen Wiesbaden",
           "away_team": "1. FSV Mainz 05 II",
           "result": {
+            "breakdown": [
+              "1-1"
+            ],
             "full_time": "1-1"
           }
         },
@@ -237,7 +297,10 @@
           "home_team": "Holstein Kiel",
           "away_team": "Werder Bremen II",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -246,7 +309,10 @@
           "home_team": "Energie Cottbus",
           "away_team": "Chemnitzer FC",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -255,7 +321,10 @@
           "home_team": "Hansa Rostock",
           "away_team": "Fortuna Köln",
           "result": {
-            "full_time": "4-2"
+            "breakdown": [
+              "3-2"
+            ],
+            "full_time": "3-2"
           }
         },
         {
@@ -264,7 +333,10 @@
           "home_team": "SG Sonnenhof Großaspach",
           "away_team": "VfB Stuttgart II",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -282,7 +354,10 @@
           "home_team": "1. FC Magdeburg",
           "away_team": "Hallescher FC",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         }
       ]
@@ -296,7 +371,10 @@
           "home_team": "Fortuna Köln",
           "away_team": "Energie Cottbus",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -305,7 +383,10 @@
           "home_team": "Werder Bremen II",
           "away_team": "1. FC Magdeburg",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -314,7 +395,10 @@
           "home_team": "VfL Osnabrück",
           "away_team": "Hansa Rostock",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -323,7 +407,10 @@
           "home_team": "Chemnitzer FC",
           "away_team": "Holstein Kiel",
           "result": {
-            "full_time": "4-2"
+            "breakdown": [
+              "2-1"
+            ],
+            "full_time": "2-1"
           }
         },
         {
@@ -332,7 +419,10 @@
           "home_team": "Hallescher FC",
           "away_team": "SV Wehen Wiesbaden",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -341,6 +431,9 @@
           "home_team": "Rot-Weiß Erfurt",
           "away_team": "Preußen Münster",
           "result": {
+            "breakdown": [
+              "1-1"
+            ],
             "full_time": "1-1"
           }
         },
@@ -350,6 +443,9 @@
           "home_team": "Würzburger Kickers",
           "away_team": "SG Sonnenhof Großaspach",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -359,7 +455,10 @@
           "home_team": "VfB Stuttgart II",
           "away_team": "Erzgebirge Aue",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -368,7 +467,10 @@
           "home_team": "1. FSV Mainz 05 II",
           "away_team": "Dynamo Dresden",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -391,7 +493,10 @@
           "home_team": "SV Wehen Wiesbaden",
           "away_team": "Werder Bremen II",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -400,7 +505,10 @@
           "home_team": "Holstein Kiel",
           "away_team": "Fortuna Köln",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -409,7 +517,10 @@
           "home_team": "Energie Cottbus",
           "away_team": "VfL Osnabrück",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -418,7 +529,10 @@
           "home_team": "VfB Stuttgart II",
           "away_team": "Würzburger Kickers",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -427,7 +541,10 @@
           "home_team": "1. FC Magdeburg",
           "away_team": "Chemnitzer FC",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -436,7 +553,10 @@
           "home_team": "SG Sonnenhof Großaspach",
           "away_team": "Rot-Weiß Erfurt",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -445,6 +565,9 @@
           "home_team": "Erzgebirge Aue",
           "away_team": "VfR Aalen",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -454,7 +577,10 @@
           "home_team": "Hansa Rostock",
           "away_team": "Stuttgarter Kickers",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -463,6 +589,9 @@
           "home_team": "Preußen Münster",
           "away_team": "1. FSV Mainz 05 II",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -472,7 +601,10 @@
           "home_team": "Dynamo Dresden",
           "away_team": "Hallescher FC",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         }
       ]
@@ -486,7 +618,10 @@
           "home_team": "Fortuna Köln",
           "away_team": "1. FC Magdeburg",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -495,7 +630,10 @@
           "home_team": "Chemnitzer FC",
           "away_team": "SV Wehen Wiesbaden",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -504,7 +642,10 @@
           "home_team": "Werder Bremen II",
           "away_team": "Dynamo Dresden",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -513,7 +654,10 @@
           "home_team": "Hallescher FC",
           "away_team": "Preußen Münster",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -522,7 +666,10 @@
           "home_team": "Rot-Weiß Erfurt",
           "away_team": "VfB Stuttgart II",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -531,7 +678,10 @@
           "home_team": "Würzburger Kickers",
           "away_team": "Erzgebirge Aue",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -549,7 +699,10 @@
           "home_team": "VfL Osnabrück",
           "away_team": "Holstein Kiel",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "3-0"
+            ],
+            "full_time": "3-0"
           }
         },
         {
@@ -558,7 +711,10 @@
           "home_team": "1. FSV Mainz 05 II",
           "away_team": "SG Sonnenhof Großaspach",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -567,6 +723,9 @@
           "home_team": "VfR Aalen",
           "away_team": "Hansa Rostock",
           "result": {
+            "breakdown": [
+              "1-1"
+            ],
             "full_time": "1-1"
           }
         }
@@ -590,7 +749,10 @@
           "home_team": "SV Wehen Wiesbaden",
           "away_team": "Fortuna Köln",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -599,7 +761,10 @@
           "home_team": "Holstein Kiel",
           "away_team": "Stuttgarter Kickers",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -608,7 +773,10 @@
           "home_team": "Energie Cottbus",
           "away_team": "VfR Aalen",
           "result": {
-            "full_time": "0-4"
+            "breakdown": [
+              "0-3"
+            ],
+            "full_time": "0-3"
           }
         },
         {
@@ -626,7 +794,10 @@
           "home_team": "Preußen Münster",
           "away_team": "Werder Bremen II",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -635,7 +806,10 @@
           "home_team": "Dynamo Dresden",
           "away_team": "Chemnitzer FC",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -644,7 +818,10 @@
           "home_team": "1. FC Magdeburg",
           "away_team": "VfL Osnabrück",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -662,7 +839,10 @@
           "home_team": "VfB Stuttgart II",
           "away_team": "1. FSV Mainz 05 II",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         }
       ]
@@ -676,7 +856,10 @@
           "home_team": "Hansa Rostock",
           "away_team": "Energie Cottbus",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -685,6 +868,9 @@
           "home_team": "Stuttgarter Kickers",
           "away_team": "1. FC Magdeburg",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -694,7 +880,10 @@
           "home_team": "Fortuna Köln",
           "away_team": "Dynamo Dresden",
           "result": {
-            "full_time": "1-5"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -703,7 +892,10 @@
           "home_team": "Chemnitzer FC",
           "away_team": "Preußen Münster",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -712,7 +904,10 @@
           "home_team": "Werder Bremen II",
           "away_team": "SG Sonnenhof Großaspach",
           "result": {
-            "full_time": "0-4"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -721,7 +916,10 @@
           "home_team": "Hallescher FC",
           "away_team": "VfB Stuttgart II",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -730,7 +928,10 @@
           "home_team": "1. FSV Mainz 05 II",
           "away_team": "Würzburger Kickers",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -739,7 +940,10 @@
           "home_team": "Rot-Weiß Erfurt",
           "away_team": "Erzgebirge Aue",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -748,7 +952,10 @@
           "home_team": "VfL Osnabrück",
           "away_team": "SV Wehen Wiesbaden",
           "result": {
-            "full_time": "4-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -771,7 +978,10 @@
           "home_team": "1. FC Magdeburg",
           "away_team": "VfR Aalen",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -780,6 +990,9 @@
           "home_team": "Erzgebirge Aue",
           "away_team": "Energie Cottbus",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -789,7 +1002,10 @@
           "home_team": "Dynamo Dresden",
           "away_team": "VfL Osnabrück",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -798,7 +1014,10 @@
           "home_team": "SV Wehen Wiesbaden",
           "away_team": "Stuttgarter Kickers",
           "result": {
-            "full_time": "3-3"
+            "breakdown": [
+              "1-2"
+            ],
+            "full_time": "1-2"
           }
         },
         {
@@ -816,7 +1035,10 @@
           "home_team": "Rot-Weiß Erfurt",
           "away_team": "1. FSV Mainz 05 II",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -825,7 +1047,10 @@
           "home_team": "Würzburger Kickers",
           "away_team": "Hallescher FC",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -834,6 +1059,9 @@
           "home_team": "VfB Stuttgart II",
           "away_team": "Werder Bremen II",
           "result": {
+            "breakdown": [
+              "1-1"
+            ],
             "full_time": "1-1"
           }
         },
@@ -843,7 +1071,10 @@
           "home_team": "SG Sonnenhof Großaspach",
           "away_team": "Chemnitzer FC",
           "result": {
-            "full_time": "4-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -852,7 +1083,10 @@
           "home_team": "Preußen Münster",
           "away_team": "Fortuna Köln",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         }
       ]
@@ -866,6 +1100,9 @@
           "home_team": "1. FSV Mainz 05 II",
           "away_team": "Erzgebirge Aue",
           "result": {
+            "breakdown": [
+              "1-1"
+            ],
             "full_time": "1-1"
           }
         },
@@ -875,6 +1112,9 @@
           "home_team": "Chemnitzer FC",
           "away_team": "VfB Stuttgart II",
           "result": {
+            "breakdown": [
+              "2-1"
+            ],
             "full_time": "2-1"
           }
         },
@@ -893,7 +1133,10 @@
           "home_team": "VfR Aalen",
           "away_team": "SV Wehen Wiesbaden",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -902,7 +1145,10 @@
           "home_team": "Hallescher FC",
           "away_team": "Rot-Weiß Erfurt",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -911,7 +1157,10 @@
           "home_team": "VfL Osnabrück",
           "away_team": "Preußen Münster",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -920,7 +1169,10 @@
           "home_team": "Fortuna Köln",
           "away_team": "SG Sonnenhof Großaspach",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -929,7 +1181,10 @@
           "home_team": "Energie Cottbus",
           "away_team": "Holstein Kiel",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -938,7 +1193,10 @@
           "home_team": "Stuttgarter Kickers",
           "away_team": "Dynamo Dresden",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -947,7 +1205,10 @@
           "home_team": "Hansa Rostock",
           "away_team": "1. FC Magdeburg",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -961,7 +1222,10 @@
           "home_team": "1. FSV Mainz 05 II",
           "away_team": "Hallescher FC",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -970,7 +1234,10 @@
           "home_team": "Würzburger Kickers",
           "away_team": "Chemnitzer FC",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -997,7 +1264,10 @@
           "home_team": "1. FC Magdeburg",
           "away_team": "Energie Cottbus",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1006,7 +1276,10 @@
           "home_team": "Rot-Weiß Erfurt",
           "away_team": "Werder Bremen II",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1015,6 +1288,9 @@
           "home_team": "SG Sonnenhof Großaspach",
           "away_team": "VfL Osnabrück",
           "result": {
+            "breakdown": [
+              "3-3"
+            ],
             "full_time": "3-3"
           }
         },
@@ -1024,7 +1300,10 @@
           "home_team": "Preußen Münster",
           "away_team": "Stuttgarter Kickers",
           "result": {
-            "full_time": "4-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -1033,7 +1312,10 @@
           "home_team": "Dynamo Dresden",
           "away_team": "VfR Aalen",
           "result": {
-            "full_time": "4-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -1042,7 +1324,10 @@
           "home_team": "VfB Stuttgart II",
           "away_team": "Fortuna Köln",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         }
       ]
@@ -1056,7 +1341,10 @@
           "home_team": "Chemnitzer FC",
           "away_team": "Rot-Weiß Erfurt",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1074,7 +1362,10 @@
           "home_team": "Fortuna Köln",
           "away_team": "Würzburger Kickers",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -1083,7 +1374,10 @@
           "home_team": "Werder Bremen II",
           "away_team": "1. FSV Mainz 05 II",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1092,7 +1386,10 @@
           "home_team": "Hallescher FC",
           "away_team": "Erzgebirge Aue",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1101,7 +1398,10 @@
           "home_team": "Hansa Rostock",
           "away_team": "Dynamo Dresden",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1119,7 +1419,10 @@
           "home_team": "Stuttgarter Kickers",
           "away_team": "SG Sonnenhof Großaspach",
           "result": {
-            "full_time": "0-4"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1128,7 +1431,10 @@
           "home_team": "VfL Osnabrück",
           "away_team": "VfB Stuttgart II",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1137,7 +1443,10 @@
           "home_team": "Energie Cottbus",
           "away_team": "SV Wehen Wiesbaden",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         }
       ]
@@ -1151,7 +1460,10 @@
           "home_team": "Preußen Münster",
           "away_team": "Hansa Rostock",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1160,7 +1472,10 @@
           "home_team": "Dynamo Dresden",
           "away_team": "Energie Cottbus",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1169,7 +1484,10 @@
           "home_team": "SV Wehen Wiesbaden",
           "away_team": "Holstein Kiel",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -1178,7 +1496,10 @@
           "home_team": "Hallescher FC",
           "away_team": "Werder Bremen II",
           "result": {
-            "full_time": "6-2"
+            "breakdown": [
+              "3-1"
+            ],
+            "full_time": "3-1"
           }
         },
         {
@@ -1196,7 +1517,10 @@
           "home_team": "Rot-Weiß Erfurt",
           "away_team": "Fortuna Köln",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1205,7 +1529,10 @@
           "home_team": "Würzburger Kickers",
           "away_team": "VfL Osnabrück",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1214,7 +1541,10 @@
           "home_team": "SG Sonnenhof Großaspach",
           "away_team": "VfR Aalen",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1232,7 +1562,10 @@
           "home_team": "VfB Stuttgart II",
           "away_team": "Stuttgarter Kickers",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -1246,7 +1579,10 @@
           "home_team": "Werder Bremen II",
           "away_team": "Erzgebirge Aue",
           "result": {
-            "full_time": "4-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1255,7 +1591,10 @@
           "home_team": "Fortuna Köln",
           "away_team": "1. FSV Mainz 05 II",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1264,7 +1603,10 @@
           "home_team": "1. FC Magdeburg",
           "away_team": "SV Wehen Wiesbaden",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1273,7 +1615,10 @@
           "home_team": "Holstein Kiel",
           "away_team": "Dynamo Dresden",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -1291,7 +1636,10 @@
           "home_team": "Hansa Rostock",
           "away_team": "SG Sonnenhof Großaspach",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1300,7 +1648,10 @@
           "home_team": "VfR Aalen",
           "away_team": "VfB Stuttgart II",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1309,7 +1660,10 @@
           "home_team": "Stuttgarter Kickers",
           "away_team": "Würzburger Kickers",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -1318,7 +1672,10 @@
           "home_team": "VfL Osnabrück",
           "away_team": "Rot-Weiß Erfurt",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1327,7 +1684,10 @@
           "home_team": "Chemnitzer FC",
           "away_team": "Hallescher FC",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         }
       ]
@@ -1341,7 +1701,10 @@
           "home_team": "Erzgebirge Aue",
           "away_team": "SV Wehen Wiesbaden",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1350,7 +1713,10 @@
           "home_team": "VfB Stuttgart II",
           "away_team": "Hansa Rostock",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1359,7 +1725,10 @@
           "home_team": "Dynamo Dresden",
           "away_team": "1. FC Magdeburg",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -1368,7 +1737,10 @@
           "home_team": "Hallescher FC",
           "away_team": "Fortuna Köln",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1386,6 +1758,9 @@
           "home_team": "Rot-Weiß Erfurt",
           "away_team": "Stuttgarter Kickers",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -1395,7 +1770,10 @@
           "home_team": "Würzburger Kickers",
           "away_team": "VfR Aalen",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1404,6 +1782,9 @@
           "home_team": "SG Sonnenhof Großaspach",
           "away_team": "Energie Cottbus",
           "result": {
+            "breakdown": [
+              "1-1"
+            ],
             "full_time": "1-1"
           }
         },
@@ -1413,6 +1794,9 @@
           "home_team": "Preußen Münster",
           "away_team": "Holstein Kiel",
           "result": {
+            "breakdown": [
+              "2-0"
+            ],
             "full_time": "2-0"
           }
         },
@@ -1422,7 +1806,10 @@
           "home_team": "Werder Bremen II",
           "away_team": "Chemnitzer FC",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "2-1"
+            ],
+            "full_time": "2-1"
           }
         }
       ]
@@ -1436,7 +1823,10 @@
           "home_team": "SV Wehen Wiesbaden",
           "away_team": "Dynamo Dresden",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1445,7 +1835,10 @@
           "home_team": "VfL Osnabrück",
           "away_team": "Hallescher FC",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1454,7 +1847,10 @@
           "home_team": "Fortuna Köln",
           "away_team": "Werder Bremen II",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1463,7 +1859,10 @@
           "home_team": "Holstein Kiel",
           "away_team": "SG Sonnenhof Großaspach",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -1472,7 +1871,10 @@
           "home_team": "Energie Cottbus",
           "away_team": "VfB Stuttgart II",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -1490,7 +1892,10 @@
           "home_team": "VfR Aalen",
           "away_team": "Rot-Weiß Erfurt",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -1499,7 +1904,10 @@
           "home_team": "Stuttgarter Kickers",
           "away_team": "1. FSV Mainz 05 II",
           "result": {
-            "full_time": "1-4"
+            "breakdown": [
+              "0-3"
+            ],
+            "full_time": "0-3"
           }
         },
         {
@@ -1508,7 +1916,10 @@
           "home_team": "1. FC Magdeburg",
           "away_team": "Preußen Münster",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -1517,6 +1928,9 @@
           "home_team": "Chemnitzer FC",
           "away_team": "Erzgebirge Aue",
           "result": {
+            "breakdown": [
+              "1-2"
+            ],
             "full_time": "1-2"
           }
         }
@@ -1531,7 +1945,10 @@
           "home_team": "VfB Stuttgart II",
           "away_team": "Holstein Kiel",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1540,7 +1957,10 @@
           "home_team": "Erzgebirge Aue",
           "away_team": "Dynamo Dresden",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1549,7 +1969,10 @@
           "home_team": "Werder Bremen II",
           "away_team": "VfL Osnabrück",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1558,7 +1981,10 @@
           "home_team": "Hallescher FC",
           "away_team": "Stuttgarter Kickers",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1567,7 +1993,10 @@
           "home_team": "1. FSV Mainz 05 II",
           "away_team": "VfR Aalen",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1576,7 +2005,10 @@
           "home_team": "Rot-Weiß Erfurt",
           "away_team": "Hansa Rostock",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -1585,7 +2017,10 @@
           "home_team": "Würzburger Kickers",
           "away_team": "Energie Cottbus",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1594,7 +2029,10 @@
           "home_team": "SG Sonnenhof Großaspach",
           "away_team": "1. FC Magdeburg",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1612,7 +2050,10 @@
           "home_team": "Chemnitzer FC",
           "away_team": "Fortuna Köln",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         }
       ]
@@ -1635,7 +2076,10 @@
           "home_team": "SV Wehen Wiesbaden",
           "away_team": "SG Sonnenhof Großaspach",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -1644,7 +2088,10 @@
           "home_team": "1. FC Magdeburg",
           "away_team": "VfB Stuttgart II",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -1653,7 +2100,10 @@
           "home_team": "Holstein Kiel",
           "away_team": "Würzburger Kickers",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -1662,7 +2112,10 @@
           "home_team": "Energie Cottbus",
           "away_team": "Rot-Weiß Erfurt",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1671,7 +2124,10 @@
           "home_team": "Hansa Rostock",
           "away_team": "1. FSV Mainz 05 II",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1689,7 +2145,10 @@
           "home_team": "Stuttgarter Kickers",
           "away_team": "Werder Bremen II",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1698,7 +2157,10 @@
           "home_team": "VfL Osnabrück",
           "away_team": "Chemnitzer FC",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1707,6 +2169,9 @@
           "home_team": "Erzgebirge Aue",
           "away_team": "Fortuna Köln",
           "result": {
+            "breakdown": [
+              "2-0"
+            ],
             "full_time": "2-0"
           }
         }
@@ -1721,7 +2186,10 @@
           "home_team": "Fortuna Köln",
           "away_team": "VfL Osnabrück",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -1739,7 +2207,10 @@
           "home_team": "Chemnitzer FC",
           "away_team": "Stuttgarter Kickers",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1748,7 +2219,10 @@
           "home_team": "Werder Bremen II",
           "away_team": "VfR Aalen",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1757,7 +2231,10 @@
           "home_team": "Hallescher FC",
           "away_team": "Hansa Rostock",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1766,6 +2243,9 @@
           "home_team": "1. FSV Mainz 05 II",
           "away_team": "Energie Cottbus",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -1775,7 +2255,10 @@
           "home_team": "Rot-Weiß Erfurt",
           "away_team": "Holstein Kiel",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "1-2"
+            ],
+            "full_time": "1-2"
           }
         },
         {
@@ -1784,7 +2267,10 @@
           "home_team": "Würzburger Kickers",
           "away_team": "1. FC Magdeburg",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1793,7 +2279,10 @@
           "home_team": "VfB Stuttgart II",
           "away_team": "SV Wehen Wiesbaden",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1802,7 +2291,10 @@
           "home_team": "Preußen Münster",
           "away_team": "Erzgebirge Aue",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -1816,7 +2308,10 @@
           "home_team": "VfB Stuttgart II",
           "away_team": "Dynamo Dresden",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1843,7 +2338,10 @@
           "home_team": "Chemnitzer FC",
           "away_team": "VfR Aalen",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1852,7 +2350,10 @@
           "home_team": "Fortuna Köln",
           "away_team": "Stuttgarter Kickers",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -1861,7 +2362,10 @@
           "home_team": "SG Sonnenhof Großaspach",
           "away_team": "Preußen Münster",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1879,7 +2383,10 @@
           "home_team": "Hallescher FC",
           "away_team": "Energie Cottbus",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1888,7 +2395,10 @@
           "home_team": "Werder Bremen II",
           "away_team": "Hansa Rostock",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1897,6 +2407,9 @@
           "home_team": "Rot-Weiß Erfurt",
           "away_team": "1. FC Magdeburg",
           "result": {
+            "breakdown": [
+              "0-2"
+            ],
             "full_time": "0-2"
           }
         }
@@ -1911,6 +2424,9 @@
           "home_team": "Dynamo Dresden",
           "away_team": "Würzburger Kickers",
           "result": {
+            "breakdown": [
+              "2-1"
+            ],
             "full_time": "2-1"
           }
         },
@@ -1920,7 +2436,10 @@
           "home_team": "Holstein Kiel",
           "away_team": "Hallescher FC",
           "result": {
-            "full_time": "0-4"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -1929,7 +2448,10 @@
           "home_team": "Stuttgarter Kickers",
           "away_team": "VfL Osnabrück",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -1938,7 +2460,10 @@
           "home_team": "SV Wehen Wiesbaden",
           "away_team": "Rot-Weiß Erfurt",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1947,6 +2472,9 @@
           "home_team": "VfR Aalen",
           "away_team": "Fortuna Köln",
           "result": {
+            "breakdown": [
+              "0-2"
+            ],
             "full_time": "0-2"
           }
         },
@@ -1956,7 +2484,10 @@
           "home_team": "Hansa Rostock",
           "away_team": "Chemnitzer FC",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1965,6 +2496,9 @@
           "home_team": "Energie Cottbus",
           "away_team": "Werder Bremen II",
           "result": {
+            "breakdown": [
+              "1-1"
+            ],
             "full_time": "1-1"
           }
         },
@@ -1974,7 +2508,10 @@
           "home_team": "1. FC Magdeburg",
           "away_team": "1. FSV Mainz 05 II",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "2-1"
+            ],
+            "full_time": "2-1"
           }
         },
         {
@@ -1983,7 +2520,10 @@
           "home_team": "Preußen Münster",
           "away_team": "VfB Stuttgart II",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -1992,7 +2532,10 @@
           "home_team": "Erzgebirge Aue",
           "away_team": "SG Sonnenhof Großaspach",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -2006,7 +2549,10 @@
           "home_team": "Stuttgarter Kickers",
           "away_team": "Erzgebirge Aue",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2015,7 +2561,10 @@
           "home_team": "Fortuna Köln",
           "away_team": "Hansa Rostock",
           "result": {
-            "full_time": "5-1"
+            "breakdown": [
+              "3-1"
+            ],
+            "full_time": "3-1"
           }
         },
         {
@@ -2024,7 +2573,10 @@
           "home_team": "Rot-Weiß Erfurt",
           "away_team": "Dynamo Dresden",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -2042,7 +2594,10 @@
           "home_team": "VfL Osnabrück",
           "away_team": "VfR Aalen",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -2051,7 +2606,10 @@
           "home_team": "Hallescher FC",
           "away_team": "1. FC Magdeburg",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -2060,7 +2618,10 @@
           "home_team": "Werder Bremen II",
           "away_team": "Holstein Kiel",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2069,7 +2630,10 @@
           "home_team": "VfB Stuttgart II",
           "away_team": "SG Sonnenhof Großaspach",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -2078,7 +2642,10 @@
           "home_team": "Würzburger Kickers",
           "away_team": "Preußen Münster",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -2087,7 +2654,10 @@
           "home_team": "Chemnitzer FC",
           "away_team": "Energie Cottbus",
           "result": {
-            "full_time": "4-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         }
       ]
@@ -2101,7 +2671,10 @@
           "home_team": "Holstein Kiel",
           "away_team": "Chemnitzer FC",
           "result": {
-            "full_time": "5-2"
+            "breakdown": [
+              "4-1"
+            ],
+            "full_time": "4-1"
           }
         },
         {
@@ -2110,7 +2683,10 @@
           "home_team": "1. FC Magdeburg",
           "away_team": "Werder Bremen II",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2119,7 +2695,10 @@
           "home_team": "Dynamo Dresden",
           "away_team": "1. FSV Mainz 05 II",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -2128,6 +2707,9 @@
           "home_team": "Preußen Münster",
           "away_team": "Rot-Weiß Erfurt",
           "result": {
+            "breakdown": [
+              "2-0"
+            ],
             "full_time": "2-0"
           }
         },
@@ -2137,7 +2719,10 @@
           "home_team": "SG Sonnenhof Großaspach",
           "away_team": "Würzburger Kickers",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -2146,7 +2731,10 @@
           "home_team": "Erzgebirge Aue",
           "away_team": "VfB Stuttgart II",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2155,7 +2743,10 @@
           "home_team": "VfR Aalen",
           "away_team": "Stuttgarter Kickers",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2182,6 +2773,9 @@
           "home_team": "SV Wehen Wiesbaden",
           "away_team": "Hallescher FC",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         }
@@ -2205,7 +2799,10 @@
           "home_team": "VfR Aalen",
           "away_team": "Erzgebirge Aue",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2223,7 +2820,10 @@
           "home_team": "Werder Bremen II",
           "away_team": "SV Wehen Wiesbaden",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2232,7 +2832,10 @@
           "home_team": "Stuttgarter Kickers",
           "away_team": "Hansa Rostock",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2250,7 +2853,10 @@
           "home_team": "Rot-Weiß Erfurt",
           "away_team": "SG Sonnenhof Großaspach",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2259,7 +2865,10 @@
           "home_team": "1. FSV Mainz 05 II",
           "away_team": "Preußen Münster",
           "result": {
-            "full_time": "2-3"
+            "breakdown": [
+              "1-2"
+            ],
+            "full_time": "1-2"
           }
         },
         {
@@ -2277,7 +2886,10 @@
           "home_team": "Fortuna Köln",
           "away_team": "Holstein Kiel",
           "result": {
-            "full_time": "2-3"
+            "breakdown": [
+              "1-2"
+            ],
+            "full_time": "1-2"
           }
         }
       ]
@@ -2291,7 +2903,10 @@
           "home_team": "VfB Stuttgart II",
           "away_team": "Rot-Weiß Erfurt",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2309,7 +2924,10 @@
           "home_team": "SV Wehen Wiesbaden",
           "away_team": "Chemnitzer FC",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2318,6 +2936,9 @@
           "home_team": "Preußen Münster",
           "away_team": "Hallescher FC",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -2327,7 +2948,10 @@
           "home_team": "SG Sonnenhof Großaspach",
           "away_team": "1. FSV Mainz 05 II",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -2336,7 +2960,10 @@
           "home_team": "Hansa Rostock",
           "away_team": "VfR Aalen",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2345,7 +2972,10 @@
           "home_team": "Energie Cottbus",
           "away_team": "Stuttgarter Kickers",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -2354,7 +2984,10 @@
           "home_team": "Holstein Kiel",
           "away_team": "VfL Osnabrück",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2363,7 +2996,10 @@
           "home_team": "Dynamo Dresden",
           "away_team": "Werder Bremen II",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -2395,7 +3031,10 @@
           "home_team": "Hansa Rostock",
           "away_team": "Erzgebirge Aue",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -2404,7 +3043,10 @@
           "home_team": "Fortuna Köln",
           "away_team": "SV Wehen Wiesbaden",
           "result": {
-            "full_time": "4-1"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -2413,7 +3055,10 @@
           "home_team": "VfL Osnabrück",
           "away_team": "1. FC Magdeburg",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2422,7 +3067,10 @@
           "home_team": "VfR Aalen",
           "away_team": "Energie Cottbus",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2431,7 +3079,10 @@
           "home_team": "1. FSV Mainz 05 II",
           "away_team": "VfB Stuttgart II",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -2440,7 +3091,10 @@
           "home_team": "Hallescher FC",
           "away_team": "SG Sonnenhof Großaspach",
           "result": {
-            "full_time": "4-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -2458,7 +3112,10 @@
           "home_team": "Chemnitzer FC",
           "away_team": "Dynamo Dresden",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-2"
+            ],
+            "full_time": "1-2"
           }
         },
         {
@@ -2467,7 +3124,10 @@
           "home_team": "Rot-Weiß Erfurt",
           "away_team": "Würzburger Kickers",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -2481,7 +3141,10 @@
           "home_team": "VfB Stuttgart II",
           "away_team": "Hallescher FC",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -2490,7 +3153,10 @@
           "home_team": "Dynamo Dresden",
           "away_team": "Fortuna Köln",
           "result": {
-            "full_time": "4-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -2499,6 +3165,9 @@
           "home_team": "SG Sonnenhof Großaspach",
           "away_team": "Werder Bremen II",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -2508,6 +3177,9 @@
           "home_team": "Würzburger Kickers",
           "away_team": "1. FSV Mainz 05 II",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -2517,6 +3189,9 @@
           "home_team": "Energie Cottbus",
           "away_team": "Hansa Rostock",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -2526,6 +3201,9 @@
           "home_team": "Holstein Kiel",
           "away_team": "VfR Aalen",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -2535,7 +3213,10 @@
           "home_team": "SV Wehen Wiesbaden",
           "away_team": "VfL Osnabrück",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -2544,7 +3225,10 @@
           "home_team": "Preußen Münster",
           "away_team": "Chemnitzer FC",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -2553,7 +3237,10 @@
           "home_team": "Erzgebirge Aue",
           "away_team": "Rot-Weiß Erfurt",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -2562,7 +3249,10 @@
           "home_team": "1. FC Magdeburg",
           "away_team": "Stuttgarter Kickers",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         }
       ]
@@ -2576,7 +3266,10 @@
           "home_team": "Chemnitzer FC",
           "away_team": "SG Sonnenhof Großaspach",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2585,6 +3278,9 @@
           "home_team": "Hansa Rostock",
           "away_team": "Holstein Kiel",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -2594,7 +3290,10 @@
           "home_team": "Hallescher FC",
           "away_team": "Würzburger Kickers",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -2603,7 +3302,10 @@
           "home_team": "Werder Bremen II",
           "away_team": "VfB Stuttgart II",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2612,7 +3314,10 @@
           "home_team": "Fortuna Köln",
           "away_team": "Preußen Münster",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2639,7 +3344,10 @@
           "home_team": "Stuttgarter Kickers",
           "away_team": "SV Wehen Wiesbaden",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2648,6 +3356,9 @@
           "home_team": "1. FSV Mainz 05 II",
           "away_team": "Rot-Weiß Erfurt",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -2657,7 +3368,10 @@
           "home_team": "VfL Osnabrück",
           "away_team": "Dynamo Dresden",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         }
       ]
@@ -2671,6 +3385,9 @@
           "home_team": "SG Sonnenhof Großaspach",
           "away_team": "Fortuna Köln",
           "result": {
+            "breakdown": [
+              "1-1"
+            ],
             "full_time": "1-1"
           }
         },
@@ -2680,7 +3397,10 @@
           "home_team": "Würzburger Kickers",
           "away_team": "Werder Bremen II",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2689,6 +3409,9 @@
           "home_team": "Rot-Weiß Erfurt",
           "away_team": "Hallescher FC",
           "result": {
+            "breakdown": [
+              "1-1"
+            ],
             "full_time": "1-1"
           }
         },
@@ -2698,7 +3421,10 @@
           "home_team": "Holstein Kiel",
           "away_team": "Energie Cottbus",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -2707,7 +3433,10 @@
           "home_team": "1. FC Magdeburg",
           "away_team": "Hansa Rostock",
           "result": {
-            "full_time": "4-1"
+            "breakdown": [
+              "2-1"
+            ],
+            "full_time": "2-1"
           }
         },
         {
@@ -2716,6 +3445,9 @@
           "home_team": "SV Wehen Wiesbaden",
           "away_team": "VfR Aalen",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -2725,7 +3457,10 @@
           "home_team": "VfB Stuttgart II",
           "away_team": "Chemnitzer FC",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2734,7 +3469,10 @@
           "home_team": "Erzgebirge Aue",
           "away_team": "1. FSV Mainz 05 II",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2743,7 +3481,10 @@
           "home_team": "Dynamo Dresden",
           "away_team": "Stuttgarter Kickers",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2775,7 +3516,10 @@
           "home_team": "Hallescher FC",
           "away_team": "1. FSV Mainz 05 II",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2784,7 +3528,10 @@
           "home_team": "Holstein Kiel",
           "away_team": "Erzgebirge Aue",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -2793,7 +3540,10 @@
           "home_team": "Hansa Rostock",
           "away_team": "SV Wehen Wiesbaden",
           "result": {
-            "full_time": "4-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2802,6 +3552,9 @@
           "home_team": "Energie Cottbus",
           "away_team": "1. FC Magdeburg",
           "result": {
+            "breakdown": [
+              "2-0"
+            ],
             "full_time": "2-0"
           }
         },
@@ -2811,6 +3564,9 @@
           "home_team": "Werder Bremen II",
           "away_team": "Rot-Weiß Erfurt",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -2820,6 +3576,9 @@
           "home_team": "Chemnitzer FC",
           "away_team": "Würzburger Kickers",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -2829,7 +3588,10 @@
           "home_team": "Fortuna Köln",
           "away_team": "VfB Stuttgart II",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -2838,7 +3600,10 @@
           "home_team": "VfL Osnabrück",
           "away_team": "SG Sonnenhof Großaspach",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -2847,6 +3612,9 @@
           "home_team": "Stuttgarter Kickers",
           "away_team": "Preußen Münster",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         }
@@ -2861,7 +3629,10 @@
           "home_team": "Erzgebirge Aue",
           "away_team": "Hallescher FC",
           "result": {
-            "full_time": "4-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2870,7 +3641,10 @@
           "home_team": "Würzburger Kickers",
           "away_team": "Fortuna Köln",
           "result": {
-            "full_time": "4-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -2879,7 +3653,10 @@
           "home_team": "VfB Stuttgart II",
           "away_team": "VfL Osnabrück",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2888,7 +3665,10 @@
           "home_team": "1. FSV Mainz 05 II",
           "away_team": "Werder Bremen II",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -2906,6 +3686,9 @@
           "home_team": "Preußen Münster",
           "away_team": "VfR Aalen",
           "result": {
+            "breakdown": [
+              "0-2"
+            ],
             "full_time": "0-2"
           }
         },
@@ -2915,7 +3698,10 @@
           "home_team": "SG Sonnenhof Großaspach",
           "away_team": "Stuttgarter Kickers",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -2924,7 +3710,10 @@
           "home_team": "Dynamo Dresden",
           "away_team": "Hansa Rostock",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2933,7 +3722,10 @@
           "home_team": "Rot-Weiß Erfurt",
           "away_team": "Chemnitzer FC",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2942,6 +3734,9 @@
           "home_team": "1. FC Magdeburg",
           "away_team": "Holstein Kiel",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         }
@@ -2956,6 +3751,9 @@
           "home_team": "1. FC Magdeburg",
           "away_team": "Erzgebirge Aue",
           "result": {
+            "breakdown": [
+              "0-3"
+            ],
             "full_time": "0-3"
           }
         },
@@ -2965,7 +3763,10 @@
           "home_team": "Energie Cottbus",
           "away_team": "Dynamo Dresden",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -2974,7 +3775,10 @@
           "home_team": "Holstein Kiel",
           "away_team": "SV Wehen Wiesbaden",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -2983,7 +3787,10 @@
           "home_team": "Werder Bremen II",
           "away_team": "Hallescher FC",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2992,7 +3799,10 @@
           "home_team": "Chemnitzer FC",
           "away_team": "1. FSV Mainz 05 II",
           "result": {
-            "full_time": "5-1"
+            "breakdown": [
+              "3-1"
+            ],
+            "full_time": "3-1"
           }
         },
         {
@@ -3001,7 +3811,10 @@
           "home_team": "Fortuna Köln",
           "away_team": "Rot-Weiß Erfurt",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "1-2"
+            ],
+            "full_time": "1-2"
           }
         },
         {
@@ -3010,7 +3823,10 @@
           "home_team": "VfR Aalen",
           "away_team": "SG Sonnenhof Großaspach",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -3028,6 +3844,9 @@
           "home_team": "VfL Osnabrück",
           "away_team": "Würzburger Kickers",
           "result": {
+            "breakdown": [
+              "1-1"
+            ],
             "full_time": "1-1"
           }
         },
@@ -3037,7 +3856,10 @@
           "home_team": "Stuttgarter Kickers",
           "away_team": "VfB Stuttgart II",
           "result": {
-            "full_time": "4-1"
+            "breakdown": [
+              "3-0"
+            ],
+            "full_time": "3-0"
           }
         }
       ]
@@ -3060,6 +3882,9 @@
           "home_team": "SG Sonnenhof Großaspach",
           "away_team": "Hansa Rostock",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -3069,7 +3894,10 @@
           "home_team": "1. FSV Mainz 05 II",
           "away_team": "Fortuna Köln",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -3087,7 +3915,10 @@
           "home_team": "Preußen Münster",
           "away_team": "Energie Cottbus",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -3096,7 +3927,10 @@
           "home_team": "VfB Stuttgart II",
           "away_team": "VfR Aalen",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -3105,7 +3939,10 @@
           "home_team": "Würzburger Kickers",
           "away_team": "Stuttgarter Kickers",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -3114,7 +3951,10 @@
           "home_team": "Erzgebirge Aue",
           "away_team": "Werder Bremen II",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -3123,7 +3963,10 @@
           "home_team": "Rot-Weiß Erfurt",
           "away_team": "VfL Osnabrück",
           "result": {
-            "full_time": "4-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -3132,7 +3975,10 @@
           "home_team": "Hallescher FC",
           "away_team": "Chemnitzer FC",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -3146,6 +3992,9 @@
           "home_team": "SV Wehen Wiesbaden",
           "away_team": "Erzgebirge Aue",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -3155,6 +4004,9 @@
           "home_team": "VfR Aalen",
           "away_team": "Würzburger Kickers",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -3164,7 +4016,10 @@
           "home_team": "1. FC Magdeburg",
           "away_team": "Dynamo Dresden",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -3173,7 +4028,10 @@
           "home_team": "Chemnitzer FC",
           "away_team": "Werder Bremen II",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -3182,7 +4040,10 @@
           "home_team": "VfL Osnabrück",
           "away_team": "1. FSV Mainz 05 II",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -3191,7 +4052,10 @@
           "home_team": "Stuttgarter Kickers",
           "away_team": "Rot-Weiß Erfurt",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -3200,7 +4064,10 @@
           "home_team": "Hansa Rostock",
           "away_team": "VfB Stuttgart II",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -3209,7 +4076,10 @@
           "home_team": "Energie Cottbus",
           "away_team": "SG Sonnenhof Großaspach",
           "result": {
-            "full_time": "0-5"
+            "breakdown": [
+              "0-4"
+            ],
+            "full_time": "0-4"
           }
         },
         {
@@ -3227,7 +4097,10 @@
           "home_team": "Fortuna Köln",
           "away_team": "Hallescher FC",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         }
       ]
@@ -3241,7 +4114,10 @@
           "home_team": "Werder Bremen II",
           "away_team": "Fortuna Köln",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "1-2"
+            ],
+            "full_time": "1-2"
           }
         },
         {
@@ -3250,7 +4126,10 @@
           "home_team": "Preußen Münster",
           "away_team": "1. FC Magdeburg",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -3259,6 +4138,9 @@
           "home_team": "VfB Stuttgart II",
           "away_team": "Energie Cottbus",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -3268,7 +4150,10 @@
           "home_team": "Dynamo Dresden",
           "away_team": "SV Wehen Wiesbaden",
           "result": {
-            "full_time": "4-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -3286,7 +4171,10 @@
           "home_team": "Würzburger Kickers",
           "away_team": "Hansa Rostock",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -3295,7 +4183,10 @@
           "home_team": "Rot-Weiß Erfurt",
           "away_team": "VfR Aalen",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -3304,7 +4195,10 @@
           "home_team": "1. FSV Mainz 05 II",
           "away_team": "Stuttgarter Kickers",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -3313,6 +4207,9 @@
           "home_team": "Hallescher FC",
           "away_team": "VfL Osnabrück",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -3322,7 +4219,10 @@
           "home_team": "Erzgebirge Aue",
           "away_team": "Chemnitzer FC",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         }
       ]
@@ -3336,7 +4236,10 @@
           "home_team": "Fortuna Köln",
           "away_team": "Chemnitzer FC",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -3345,7 +4248,10 @@
           "home_team": "SV Wehen Wiesbaden",
           "away_team": "Preußen Münster",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -3354,7 +4260,10 @@
           "home_team": "Dynamo Dresden",
           "away_team": "Erzgebirge Aue",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -3363,7 +4272,10 @@
           "home_team": "VfL Osnabrück",
           "away_team": "Werder Bremen II",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "3-0"
+            ],
+            "full_time": "3-0"
           }
         },
         {
@@ -3372,6 +4284,9 @@
           "home_team": "Stuttgarter Kickers",
           "away_team": "Hallescher FC",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -3381,7 +4296,10 @@
           "home_team": "VfR Aalen",
           "away_team": "1. FSV Mainz 05 II",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "1-2"
+            ],
+            "full_time": "1-2"
           }
         },
         {
@@ -3390,7 +4308,10 @@
           "home_team": "Hansa Rostock",
           "away_team": "Rot-Weiß Erfurt",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "2-1"
+            ],
+            "full_time": "2-1"
           }
         },
         {
@@ -3399,7 +4320,10 @@
           "home_team": "Energie Cottbus",
           "away_team": "Würzburger Kickers",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -3408,7 +4332,10 @@
           "home_team": "Holstein Kiel",
           "away_team": "VfB Stuttgart II",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -3417,7 +4344,10 @@
           "home_team": "1. FC Magdeburg",
           "away_team": "SG Sonnenhof Großaspach",
           "result": {
-            "full_time": "4-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         }
       ]
@@ -3431,7 +4361,10 @@
           "home_team": "Fortuna Köln",
           "away_team": "Erzgebirge Aue",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -3440,7 +4373,10 @@
           "home_team": "Preußen Münster",
           "away_team": "Dynamo Dresden",
           "result": {
-            "full_time": "2-3"
+            "breakdown": [
+              "0-3"
+            ],
+            "full_time": "0-3"
           }
         },
         {
@@ -3449,6 +4385,9 @@
           "home_team": "SG Sonnenhof Großaspach",
           "away_team": "SV Wehen Wiesbaden",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -3458,7 +4397,10 @@
           "home_team": "VfB Stuttgart II",
           "away_team": "1. FC Magdeburg",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -3467,7 +4409,10 @@
           "home_team": "Würzburger Kickers",
           "away_team": "Holstein Kiel",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -3476,6 +4421,9 @@
           "home_team": "Rot-Weiß Erfurt",
           "away_team": "Energie Cottbus",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -3485,7 +4433,10 @@
           "home_team": "1. FSV Mainz 05 II",
           "away_team": "Hansa Rostock",
           "result": {
-            "full_time": "4-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -3494,7 +4445,10 @@
           "home_team": "Hallescher FC",
           "away_team": "VfR Aalen",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "2-1"
+            ],
+            "full_time": "2-1"
           }
         },
         {
@@ -3503,7 +4457,10 @@
           "home_team": "Werder Bremen II",
           "away_team": "Stuttgarter Kickers",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -3512,7 +4469,10 @@
           "home_team": "Chemnitzer FC",
           "away_team": "VfL Osnabrück",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         }
       ]
@@ -3526,7 +4486,10 @@
           "home_team": "VfL Osnabrück",
           "away_team": "Fortuna Köln",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -3535,7 +4498,10 @@
           "home_team": "Stuttgarter Kickers",
           "away_team": "Chemnitzer FC",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -3544,7 +4510,10 @@
           "home_team": "VfR Aalen",
           "away_team": "Werder Bremen II",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -3553,7 +4522,10 @@
           "home_team": "Hansa Rostock",
           "away_team": "Hallescher FC",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -3562,7 +4534,10 @@
           "home_team": "Energie Cottbus",
           "away_team": "1. FSV Mainz 05 II",
           "result": {
-            "full_time": "2-3"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -3571,7 +4546,10 @@
           "home_team": "Holstein Kiel",
           "away_team": "Rot-Weiß Erfurt",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -3580,6 +4558,9 @@
           "home_team": "1. FC Magdeburg",
           "away_team": "Würzburger Kickers",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -3589,7 +4570,10 @@
           "home_team": "SV Wehen Wiesbaden",
           "away_team": "VfB Stuttgart II",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -3598,7 +4582,10 @@
           "home_team": "Dynamo Dresden",
           "away_team": "SG Sonnenhof Großaspach",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -3607,7 +4594,10 @@
           "home_team": "Erzgebirge Aue",
           "away_team": "Preußen Münster",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         }
       ]

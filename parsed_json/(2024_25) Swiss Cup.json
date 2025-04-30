@@ -11,7 +11,10 @@
           "home_team": "FC Wettswil-Bonstetten",
           "away_team": "FC Winterthur",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -20,7 +23,12 @@
           "home_team": "Lancy FC",
           "away_team": "Etoile Carouge FC",
           "result": {
-            "full_time": "1-4"
+            "breakdown": [
+              "3-3",
+              "2-1"
+            ],
+            "full_time": "2-1",
+            "penalties": "3-3"
           }
         },
         {
@@ -29,7 +37,10 @@
           "home_team": "FC Dardania Lausanne",
           "away_team": "Yverdon Sport FC",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -38,7 +49,10 @@
           "home_team": "SC Kriens",
           "away_team": "AC Bellinzona",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -47,7 +61,10 @@
           "home_team": "AC Taverne",
           "away_team": "FC Wil 1900",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -56,7 +73,10 @@
           "home_team": "FC Subingen",
           "away_team": "FC Basel 1893",
           "result": {
-            "full_time": "0-8"
+            "breakdown": [
+              "0-5"
+            ],
+            "full_time": "0-5"
           }
         },
         {
@@ -65,7 +85,10 @@
           "home_team": "FC Baden",
           "away_team": "FC Rapperswil-Jona",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -74,7 +97,10 @@
           "home_team": "FC Ursy",
           "away_team": "FC Stade Nyonnais",
           "result": {
-            "full_time": "0-6"
+            "breakdown": [
+              "0-4"
+            ],
+            "full_time": "0-4"
           }
         },
         {
@@ -83,7 +109,10 @@
           "home_team": "FC Schattdorf",
           "away_team": "FC Paradiso",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -92,7 +121,10 @@
           "home_team": "FC Printse-Nendaz",
           "away_team": "BSC Young Boys",
           "result": {
-            "full_time": "0-10"
+            "breakdown": [
+              "0-6"
+            ],
+            "full_time": "0-6"
           }
         },
         {
@@ -101,7 +133,10 @@
           "home_team": "FC Suhr",
           "away_team": "FC Aarau",
           "result": {
-            "full_time": "0-4"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -110,7 +145,10 @@
           "home_team": "FC Echallens",
           "away_team": "Stade Lausanne-Ouchy",
           "result": {
-            "full_time": "1-6"
+            "breakdown": [
+              "0-3"
+            ],
+            "full_time": "0-3"
           }
         },
         {
@@ -119,6 +157,9 @@
           "home_team": "FC Besa St. Gallen",
           "away_team": "Chur 97",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -128,7 +169,11 @@
           "home_team": "FC Monthey",
           "away_team": "FC Solothurn",
           "result": {
-            "full_time": "4-3"
+            "breakdown": [
+              "3-3",
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -137,7 +182,10 @@
           "home_team": "FC Wallbach",
           "away_team": "FC Langenthal",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -146,7 +194,10 @@
           "home_team": "FC Tuggen",
           "away_team": "FC Schaffhausen",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -155,7 +206,10 @@
           "home_team": "FC Mendrisio",
           "away_team": "FC Luzern",
           "result": {
-            "full_time": "1-4"
+            "breakdown": [
+              "1-3"
+            ],
+            "full_time": "1-3"
           }
         },
         {
@@ -164,7 +218,10 @@
           "home_team": "FC Aemme",
           "away_team": "FC Haute-Ajoie",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -173,7 +230,12 @@
           "home_team": "FC CSL",
           "away_team": "FC Prishtina Bern",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "1-1",
+              "1-0"
+            ],
+            "full_time": "1-0",
+            "penalties": "1-1"
           }
         },
         {
@@ -182,7 +244,10 @@
           "home_team": "Zürich City SC",
           "away_team": "SC YF/Juventus Zürich",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -191,7 +256,10 @@
           "home_team": "SC Emmen",
           "away_team": "FC Altstätten",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -200,7 +268,10 @@
           "home_team": "FC Biel/Bienne",
           "away_team": "Neuchâtel Xamax FCS",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -209,7 +280,12 @@
           "home_team": "SR Delémont",
           "away_team": "FC Sion",
           "result": {
-            "full_time": "1-4"
+            "breakdown": [
+              "1-1",
+              "1-0"
+            ],
+            "full_time": "1-0",
+            "penalties": "1-1"
           }
         },
         {
@@ -218,7 +294,10 @@
           "home_team": "FC Genolier-Begnins",
           "away_team": "Vevey-Sports",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -227,7 +306,10 @@
           "home_team": "Signal FC Bernex-Confignon",
           "away_team": "Servette FC",
           "result": {
-            "full_time": "1-7"
+            "breakdown": [
+              "0-4"
+            ],
+            "full_time": "0-4"
           }
         },
         {
@@ -236,7 +318,10 @@
           "home_team": "FC Champel",
           "away_team": "FC Lausanne-Sport",
           "result": {
-            "full_time": "0-7"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -245,7 +330,10 @@
           "home_team": "SC Schwyz",
           "away_team": "FC Thun Berner Oberland",
           "result": {
-            "full_time": "0-6"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -254,7 +342,10 @@
           "home_team": "KF Dardania St. Gallen",
           "away_team": "FC Gambarogno-Contone",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -263,7 +354,10 @@
           "home_team": "SC Brühl",
           "away_team": "FC Lugano",
           "result": {
-            "full_time": "1-7"
+            "breakdown": [
+              "1-4"
+            ],
+            "full_time": "1-4"
           }
         },
         {
@@ -272,6 +366,9 @@
           "home_team": "Zug 94",
           "away_team": "FC Zürich",
           "result": {
+            "breakdown": [
+              "0-2"
+            ],
             "full_time": "0-2"
           }
         },
@@ -281,7 +378,10 @@
           "home_team": "FC Regensdorf",
           "away_team": "Grasshopper Club Zürich",
           "result": {
-            "full_time": "0-9"
+            "breakdown": [
+              "0-6"
+            ],
+            "full_time": "0-6"
           }
         },
         {
@@ -290,7 +390,10 @@
           "home_team": "FC Malcantone",
           "away_team": "FC St. Gallen",
           "result": {
-            "full_time": "0-4"
+            "breakdown": [
+              "0-3"
+            ],
+            "full_time": "0-3"
           }
         }
       ]
@@ -304,6 +407,9 @@
           "home_team": "FC Monthey",
           "away_team": "Etoile Carouge FC",
           "result": {
+            "breakdown": [
+              "0-2"
+            ],
             "full_time": "0-2"
           }
         },
@@ -313,6 +419,9 @@
           "home_team": "SC Emmen",
           "away_team": "Yverdon Sport FC",
           "result": {
+            "breakdown": [
+              "1-2"
+            ],
             "full_time": "1-2"
           }
         },
@@ -322,7 +431,10 @@
           "home_team": "SC YF/Juventus Zürich",
           "away_team": "FC Sion",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -331,7 +443,10 @@
           "home_team": "FC Thun Berner Oberland",
           "away_team": "Grasshopper Club Zürich",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -340,7 +455,10 @@
           "home_team": "FC Besa St. Gallen",
           "away_team": "FC Biel/Bienne",
           "result": {
-            "full_time": "1-6"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -349,6 +467,9 @@
           "home_team": "FC Langenthal",
           "away_team": "Stade Lausanne-Ouchy",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -358,7 +479,10 @@
           "home_team": "FC Paradiso",
           "away_team": "FC St. Gallen",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -367,7 +491,10 @@
           "home_team": "FC Rapperswil-Jona",
           "away_team": "FC Lugano",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -376,7 +503,10 @@
           "home_team": "FC Aemme",
           "away_team": "FC Lausanne-Sport",
           "result": {
-            "full_time": "0-4"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -385,7 +515,10 @@
           "home_team": "Vevey-Sports",
           "away_team": "BSC Young Boys",
           "result": {
-            "full_time": "2-4"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -394,7 +527,12 @@
           "home_team": "FC Wil 1900",
           "away_team": "FC Winterthur",
           "result": {
-            "full_time": "2-4"
+            "breakdown": [
+              "1-1",
+              "0-1"
+            ],
+            "full_time": "0-1",
+            "penalties": "2-2"
           }
         },
         {
@@ -403,7 +541,10 @@
           "home_team": "FC CSL",
           "away_team": "FC Zürich",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -412,7 +553,10 @@
           "home_team": "FC Schaffhausen",
           "away_team": "Servette FC",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -421,7 +565,10 @@
           "home_team": "FC Gambarogno-Contone",
           "away_team": "AC Bellinzona",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -430,7 +577,10 @@
           "home_team": "FC Aarau",
           "away_team": "FC Luzern",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -439,7 +589,10 @@
           "home_team": "FC Stade Nyonnais",
           "away_team": "FC Basel 1893",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -453,7 +606,10 @@
           "home_team": "FC Langenthal",
           "away_team": "FC Biel/Bienne",
           "result": {
-            "full_time": "0-6"
+            "breakdown": [
+              "0-4"
+            ],
+            "full_time": "0-4"
           }
         },
         {
@@ -462,7 +618,10 @@
           "home_team": "Grasshopper Club Zürich",
           "away_team": "FC Zürich",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -471,6 +630,9 @@
           "home_team": "FC Schaffhausen",
           "away_team": "BSC Young Boys",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -480,7 +642,12 @@
           "home_team": "FC Basel 1893",
           "away_team": "FC Sion",
           "result": {
-            "full_time": "4-1"
+            "breakdown": [
+              "2-2",
+              "1-2"
+            ],
+            "full_time": "1-2",
+            "penalties": "2-2"
           }
         },
         {
@@ -489,7 +656,10 @@
           "home_team": "Yverdon Sport FC",
           "away_team": "FC Lugano",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -498,7 +668,10 @@
           "home_team": "FC Aarau",
           "away_team": "Etoile Carouge FC",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -507,7 +680,10 @@
           "home_team": "AC Bellinzona",
           "away_team": "FC St. Gallen",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -516,7 +692,10 @@
           "home_team": "FC Winterthur",
           "away_team": "FC Lausanne-Sport",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         }
       ]
@@ -530,7 +709,12 @@
           "home_team": "AC Bellinzona",
           "away_team": "FC Lausanne-Sport",
           "result": {
-            "full_time": "3-4"
+            "breakdown": [
+              "1-1",
+              "0-0"
+            ],
+            "full_time": "0-0",
+            "penalties": "1-1"
           }
         },
         {
@@ -539,7 +723,10 @@
           "home_team": "Etoile Carouge FC",
           "away_team": "FC Basel 1893",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -548,7 +735,10 @@
           "home_team": "FC Biel/Bienne",
           "away_team": "FC Lugano",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -557,7 +747,10 @@
           "home_team": "FC Zürich",
           "away_team": "BSC Young Boys",
           "result": {
-            "full_time": "2-3"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         }
       ]
