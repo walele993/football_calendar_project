@@ -569,13 +569,19 @@
           "date": "2025-04-01",
           "time": "20:45",
           "home_team": "Arminia Bielefeld",
-          "away_team": "Bayer Leverkusen"
+          "away_team": "Bayer Leverkusen",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2025-04-02",
           "time": "20:45",
           "home_team": "VfB Stuttgart",
-          "away_team": "RB Leipzig"
+          "away_team": "RB Leipzig",
+          "result": {
+            "full_time": "3-1"
+          }
         }
       ]
     },
@@ -584,9 +590,9 @@
       "matches": [
         {
           "date": "2025-05-24",
-          "time": "20:45",
-          "home_team": "N.N.",
-          "away_team": "N.N."
+          "time": "20:00",
+          "home_team": "Arminia Bielefeld",
+          "away_team": "VfB Stuttgart"
         }
       ]
     }

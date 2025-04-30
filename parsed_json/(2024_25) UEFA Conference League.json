@@ -1284,49 +1284,73 @@
           "date": "2025-04-10",
           "time": "18:45",
           "home_team": "Legia Warszawa (POL)",
-          "away_team": "Chelsea FC (ENG)"
+          "away_team": "Chelsea FC (ENG)",
+          "result": {
+            "full_time": "0-3"
+          }
         },
         {
           "date": "2025-04-10",
           "time": "21:00",
           "home_team": "Real Betis (ESP)",
-          "away_team": "Jagiellonia Białystok (POL)"
+          "away_team": "Jagiellonia Białystok (POL)",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2025-04-10",
           "time": "21:00",
           "home_team": "NK Celje (SVN)",
-          "away_team": "ACF Fiorentina (ITA)"
+          "away_team": "ACF Fiorentina (ITA)",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2025-04-10",
           "time": "21:00",
           "home_team": "Djurgårdens IF (SWE)",
-          "away_team": "Rapid Wien (AUT)"
+          "away_team": "Rapid Wien (AUT)",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2025-04-17",
           "time": "18:45",
           "home_team": "Jagiellonia Białystok (POL)",
-          "away_team": "Real Betis (ESP)"
+          "away_team": "Real Betis (ESP)",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-04-17",
           "time": "18:45",
           "home_team": "ACF Fiorentina (ITA)",
-          "away_team": "NK Celje (SVN)"
+          "away_team": "NK Celje (SVN)",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2025-04-17",
           "time": "21:00",
           "home_team": "Chelsea FC (ENG)",
-          "away_team": "Legia Warszawa (POL)"
+          "away_team": "Legia Warszawa (POL)",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2025-04-17",
           "time": "21:00",
           "home_team": "Rapid Wien (AUT)",
-          "away_team": "Djurgårdens IF (SWE)"
+          "away_team": "Djurgårdens IF (SWE)",
+          "result": {
+            "full_time": "1-4"
+          }
         }
       ]
     },
@@ -1336,26 +1360,26 @@
         {
           "date": "2025-05-01",
           "time": "21:00",
-          "home_team": "N.N.",
-          "away_team": "N.N."
+          "home_team": "Real Betis (ESP)",
+          "away_team": "ACF Fiorentina (ITA)"
         },
         {
           "date": "2025-05-01",
           "time": "21:00",
-          "home_team": "N.N.",
-          "away_team": "N.N."
+          "home_team": "Djurgårdens IF (SWE)",
+          "away_team": "Chelsea FC (ENG)"
         },
         {
           "date": "2025-05-08",
           "time": "21:00",
-          "home_team": "N.N.",
-          "away_team": "N.N."
+          "home_team": "ACF Fiorentina (ITA)",
+          "away_team": "Real Betis (ESP)"
         },
         {
           "date": "2025-05-08",
           "time": "21:00",
-          "home_team": "N.N.",
-          "away_team": "N.N."
+          "home_team": "Chelsea FC (ENG)",
+          "away_team": "Djurgårdens IF (SWE)"
         }
       ]
     },

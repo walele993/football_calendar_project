@@ -394,25 +394,37 @@
           "date": "2025-04-01",
           "time": "21:00",
           "home_team": "Empoli FC",
-          "away_team": "Bologna FC"
+          "away_team": "Bologna FC",
+          "result": {
+            "full_time": "0-3"
+          }
         },
         {
           "date": "2025-04-02",
           "time": "21:00",
           "home_team": "AC Milan",
-          "away_team": "Inter"
-        },
-        {
-          "date": "2025-04-23",
-          "time": "21:00",
-          "home_team": "Bologna FC",
-          "away_team": "Empoli FC"
+          "away_team": "Inter",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-04-23",
           "time": "21:00",
           "home_team": "Inter",
-          "away_team": "AC Milan"
+          "away_team": "AC Milan",
+          "result": {
+            "full_time": "0-3"
+          }
+        },
+        {
+          "date": "2025-04-24",
+          "time": "21:00",
+          "home_team": "Bologna FC",
+          "away_team": "Empoli FC",
+          "result": {
+            "full_time": "2-1"
+          }
         }
       ]
     },
@@ -420,10 +432,10 @@
       "matchday": "Final",
       "matches": [
         {
-          "date": "2025-05-15",
+          "date": "2025-05-14",
           "time": "21:00",
-          "home_team": "N.N.",
-          "away_team": "N.N."
+          "home_team": "Bologna FC",
+          "away_team": "AC Milan"
         }
       ]
     }

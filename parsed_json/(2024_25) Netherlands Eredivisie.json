@@ -2528,55 +2528,82 @@
           "date": "2025-04-23",
           "time": "20:00",
           "home_team": "FC Groningen",
-          "away_team": "Heracles Almelo"
+          "away_team": "Heracles Almelo",
+          "result": {
+            "full_time": "4-1"
+          }
         },
         {
           "date": "2025-04-24",
           "time": "18:45",
           "home_team": "AZ",
-          "away_team": "NAC Breda"
+          "away_team": "NAC Breda",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-04-24",
           "time": "21:00",
           "home_team": "FC Twente '65",
-          "away_team": "PSV"
+          "away_team": "PSV",
+          "result": {
+            "full_time": "1-3"
+          }
         },
         {
           "date": "2025-04-25",
           "time": "18:45",
           "home_team": "RKC Waalwijk",
-          "away_team": "FC Utrecht"
+          "away_team": "FC Utrecht",
+          "result": {
+            "full_time": "0-4"
+          }
         },
         {
           "date": "2025-04-25",
           "time": "21:00",
           "home_team": "Feyenoord Rotterdam",
-          "away_team": "PEC Zwolle"
+          "away_team": "PEC Zwolle",
+          "result": {
+            "full_time": "4-0"
+          }
         },
         {
           "date": "2025-04-27",
           "time": "12:15",
           "home_team": "Fortuna Sittard",
-          "away_team": "Willem II Tilburg"
+          "away_team": "Willem II Tilburg",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2025-04-27",
           "time": "14:30",
           "home_team": "AFC Ajax",
-          "away_team": "Sparta Rotterdam"
+          "away_team": "Sparta Rotterdam",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-04-27",
           "time": "14:30",
           "home_team": "SC Heerenveen",
-          "away_team": "NEC"
+          "away_team": "NEC",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2025-04-27",
           "time": "16:45",
           "home_team": "Almere City FC",
-          "away_team": "Go Ahead Eagles"
+          "away_team": "Go Ahead Eagles",
+          "result": {
+            "full_time": "0-0"
+          }
         }
       ]
     },
