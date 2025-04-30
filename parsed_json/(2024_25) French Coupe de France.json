@@ -11,14 +11,17 @@
           "home_team": "Jeunesse Evolution",
           "away_team": "CS Moulien",
           "result": {
-            "penalties": "7-6"
+            "full_time": "7-6"
           }
         },
         {
           "date": "2024-11-15",
           "time": "19:00",
           "home_team": "Vendée Les Herbiers",
-          "away_team": "AC Ajaccio"
+          "away_team": "AC Ajaccio",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2024-11-15",
@@ -26,45 +29,62 @@
           "home_team": "Paris FC",
           "away_team": "US Quevilly-Rouen",
           "result": {
-            "penalties": "2-4",
-            "full_time": "2-2"
+            "full_time": "2-4"
           }
         },
         {
           "date": "2024-11-15",
           "time": "20:00",
           "home_team": "Angoulême CFC",
-          "away_team": "Rodez AF"
+          "away_team": "Rodez AF",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2024-11-16",
           "time": "13:45",
           "home_team": "FCSR Obernai",
-          "away_team": "FC Metz"
+          "away_team": "FC Metz",
+          "result": {
+            "full_time": "0-3"
+          }
         },
         {
           "date": "2024-11-16",
           "time": "13:45",
           "home_team": "C'Chartres Football",
-          "away_team": "SM Caen"
+          "away_team": "SM Caen",
+          "result": {
+            "full_time": "0-4"
+          }
         },
         {
           "date": "2024-11-16",
           "time": "13:45",
           "home_team": "Aviron Bayonnais",
-          "away_team": "Pau FC"
+          "away_team": "Pau FC",
+          "result": {
+            "full_time": "1-3"
+          }
         },
         {
           "date": "2024-11-16",
           "time": "14:00",
           "home_team": "FC Freyming",
-          "away_team": "SC Bastia"
+          "away_team": "SC Bastia",
+          "result": {
+            "full_time": "0-4"
+          }
         },
         {
           "date": "2024-11-16",
           "time": "14:00",
           "home_team": "Houilles AC",
-          "away_team": "US Boulogne"
+          "away_team": "US Boulogne",
+          "result": {
+            "full_time": "0-3"
+          }
         },
         {
           "date": "2024-11-16",
@@ -72,7 +92,7 @@
           "home_team": "US Crépy-en-Valois",
           "away_team": "Diables Noirs",
           "result": {
-            "penalties": "2-4"
+            "full_time": "2-4"
           }
         },
         {
@@ -81,33 +101,44 @@
           "home_team": "USC Corte",
           "away_team": "ESA Linas-Montlhéry",
           "result": {
-            "penalties": "4-2",
-            "full_time": "1-2"
+            "full_time": "4-2"
           }
         },
         {
           "date": "2024-11-16",
           "time": "14:00",
           "home_team": "AS Ginglin Cesson",
-          "away_team": "US Alençon"
+          "away_team": "US Alençon",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2024-11-16",
           "time": "14:00",
           "home_team": "CS Feytiat",
-          "away_team": "Clermont Foot 63"
+          "away_team": "Clermont Foot 63",
+          "result": {
+            "full_time": "0-3"
+          }
         },
         {
           "date": "2024-11-16",
           "time": "14:00",
           "home_team": "FC Chaumont",
-          "away_team": "GOAL FC"
+          "away_team": "GOAL FC",
+          "result": {
+            "full_time": "2-3"
+          }
         },
         {
           "date": "2024-11-16",
           "time": "15:00",
           "home_team": "CG Haubourdin",
-          "away_team": "Red Star FC"
+          "away_team": "Red Star FC",
+          "result": {
+            "full_time": "1-7"
+          }
         },
         {
           "date": "2024-11-16",
@@ -115,27 +146,35 @@
           "home_team": "US Raon-l'Etape",
           "away_team": "ASC Biesheim",
           "result": {
-            "penalties": "4-2",
-            "full_time": "1-2"
+            "full_time": "4-2"
           }
         },
         {
           "date": "2024-11-16",
           "time": "15:30",
           "home_team": "Ruffiac Malestroit Foot",
-          "away_team": "FC Lorient"
+          "away_team": "FC Lorient",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2024-11-16",
           "time": "15:30",
           "home_team": "RC Saint-Joseph",
-          "away_team": "AS Samaritaine"
+          "away_team": "AS Samaritaine",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2024-11-16",
           "time": "16:00",
           "home_team": "FC PRJ",
-          "away_team": "SA Mérignac"
+          "away_team": "SA Mérignac",
+          "result": {
+            "full_time": "0-6"
+          }
         },
         {
           "date": "2024-11-16",
@@ -143,33 +182,44 @@
           "home_team": "St-Pierre de Milizac",
           "away_team": "Dinan Léhon",
           "result": {
-            "penalties": "2-3",
-            "full_time": "1-2"
+            "full_time": "2-3"
           }
         },
         {
           "date": "2024-11-16",
           "time": "17:00",
           "home_team": "US Sarre-Union",
-          "away_team": "ES Thaon"
+          "away_team": "ES Thaon",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2024-11-16",
           "time": "17:00",
           "home_team": "Vannes OC",
-          "away_team": "Le Mans FC"
+          "away_team": "Le Mans FC",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2024-11-16",
           "time": "17:00",
           "home_team": "Saint-Colomban Locminé",
-          "away_team": "Sablé FC"
+          "away_team": "Sablé FC",
+          "result": {
+            "full_time": "4-2"
+          }
         },
         {
           "date": "2024-11-16",
           "time": "17:00",
           "home_team": "Olympique Saumur",
-          "away_team": "US Concarneau"
+          "away_team": "US Concarneau",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2024-11-16",
@@ -177,51 +227,71 @@
           "home_team": "RCO Agde",
           "away_team": "SO Romorantin",
           "result": {
-            "penalties": "9-8",
-            "full_time": "2-1"
+            "full_time": "9-8"
           }
         },
         {
           "date": "2024-11-16",
           "time": "17:00",
           "home_team": "FC Grandvillars",
-          "away_team": "Dijon FCO"
+          "away_team": "Dijon FCO",
+          "result": {
+            "full_time": "2-4"
+          }
         },
         {
           "date": "2024-11-16",
           "time": "17:00",
           "home_team": "ESB Marboz",
-          "away_team": "Cluses-Scionzier FC"
+          "away_team": "Cluses-Scionzier FC",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2024-11-16",
           "time": "17:30",
           "home_team": "US Nousseviller",
-          "away_team": "SR Colmar"
+          "away_team": "SR Colmar",
+          "result": {
+            "full_time": "0-3"
+          }
         },
         {
           "date": "2024-11-16",
           "time": "17:30",
           "home_team": "FC Istres",
-          "away_team": "Cannet Rocheville"
+          "away_team": "Cannet Rocheville",
+          "result": {
+            "full_time": "4-0"
+          }
         },
         {
           "date": "2024-11-16",
           "time": "18:00",
           "home_team": "SAS Épinal",
-          "away_team": "AS Nancy Lorraine"
+          "away_team": "AS Nancy Lorraine",
+          "result": {
+            "full_time": "2-4"
+          }
         },
         {
           "date": "2024-11-16",
           "time": "18:00",
           "home_team": "JA Drancy",
-          "away_team": "Pays de Cassel"
+          "away_team": "Pays de Cassel",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2024-11-16",
           "time": "18:00",
           "home_team": "Gallia Lucciana",
-          "away_team": "Olympique Charleville Prix AM"
+          "away_team": "Olympique Charleville Prix AM",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2024-11-16",
@@ -229,20 +299,26 @@
           "home_team": "Stade Béthunois",
           "away_team": "USL Dunkerque",
           "result": {
-            "penalties": "6-7"
+            "full_time": "6-7"
           }
         },
         {
           "date": "2024-11-16",
           "time": "18:00",
           "home_team": "Arras Football",
-          "away_team": "Valenciennes FC"
+          "away_team": "Valenciennes FC",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2024-11-16",
           "time": "18:00",
           "home_team": "AS Beauvais",
-          "away_team": "US Chantilly"
+          "away_team": "US Chantilly",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2024-11-16",
@@ -250,8 +326,7 @@
           "home_team": "FC Fleury 91",
           "away_team": "Amiens SC",
           "result": {
-            "penalties": "3-5",
-            "full_time": "2-1"
+            "full_time": "3-5"
           }
         },
         {
@@ -260,7 +335,7 @@
           "home_team": "AS Vitré",
           "away_team": "Stade Lavallois",
           "result": {
-            "penalties": "4-5"
+            "full_time": "4-5"
           }
         },
         {
@@ -269,21 +344,26 @@
           "home_team": "FC Saint-Lô Manche",
           "away_team": "SU Dives Cabourg",
           "result": {
-            "penalties": "4-5",
-            "full_time": "1-2"
+            "full_time": "4-5"
           }
         },
         {
           "date": "2024-11-16",
           "time": "18:00",
           "home_team": "US Philibertine",
-          "away_team": "Thouars Foot 79"
+          "away_team": "Thouars Foot 79",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2024-11-16",
           "time": "18:00",
           "home_team": "Vendée Fontenay",
-          "away_team": "ESOF La Roche"
+          "away_team": "ESOF La Roche",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2024-11-16",
@@ -291,63 +371,89 @@
           "home_team": "US Colomiers",
           "away_team": "Vierzon FC",
           "result": {
-            "penalties": "4-5",
-            "full_time": "3-4"
+            "full_time": "4-5"
           }
         },
         {
           "date": "2024-11-16",
           "time": "18:00",
           "home_team": "FC Espaly",
-          "away_team": "Biars-Bretenoux"
+          "away_team": "Biars-Bretenoux",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2024-11-16",
           "time": "18:00",
           "home_team": "Canet Roussillon",
-          "away_team": "FC Versailles"
+          "away_team": "FC Versailles",
+          "result": {
+            "full_time": "1-3"
+          }
         },
         {
           "date": "2024-11-16",
           "time": "18:00",
           "home_team": "Olympique Alès",
-          "away_team": "Stade Beaucairois"
+          "away_team": "Stade Beaucairois",
+          "result": {
+            "full_time": "4-2"
+          }
         },
         {
           "date": "2024-11-16",
           "time": "18:00",
           "home_team": "ASJR Football",
-          "away_team": "FC Bourgoin-Jallieu"
+          "away_team": "FC Bourgoin-Jallieu",
+          "result": {
+            "full_time": "0-4"
+          }
         },
         {
           "date": "2024-11-16",
           "time": "18:00",
           "home_team": "GFA Rumilly Vallières",
-          "away_team": "Jura Dolois"
+          "away_team": "Jura Dolois",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2024-11-16",
           "time": "18:00",
           "home_team": "FC Foron",
-          "away_team": "ESTAC Troyes"
+          "away_team": "ESTAC Troyes",
+          "result": {
+            "full_time": "1-3"
+          }
         },
         {
           "date": "2024-11-16",
           "time": "18:00",
           "home_team": "AS Guereins",
-          "away_team": "UF Mâconnais"
+          "away_team": "UF Mâconnais",
+          "result": {
+            "full_time": "0-4"
+          }
         },
         {
           "date": "2024-11-16",
           "time": "18:00",
           "home_team": "FC Gueugnon",
-          "away_team": "FC Sochaux"
+          "away_team": "FC Sochaux",
+          "result": {
+            "full_time": "1-3"
+          }
         },
         {
           "date": "2024-11-16",
           "time": "18:00",
           "home_team": "FC Vesoul",
-          "away_team": "FC Annecy"
+          "away_team": "FC Annecy",
+          "result": {
+            "full_time": "1-6"
+          }
         },
         {
           "date": "2024-11-16",
@@ -355,8 +461,7 @@
           "home_team": "OC Cesson-Sévigné",
           "away_team": "TA Rennes",
           "result": {
-            "penalties": "3-1",
-            "full_time": "2-2"
+            "full_time": "3-1"
           }
         },
         {
@@ -365,27 +470,35 @@
           "home_team": "US Montagnarde",
           "away_team": "Tours FC",
           "result": {
-            "penalties": "3-4",
-            "full_time": "2-2"
+            "full_time": "3-4"
           }
         },
         {
           "date": "2024-11-16",
           "time": "18:30",
           "home_team": "CS Blénod et Pont-á-Mousson",
-          "away_team": "FCSR Haguenau"
+          "away_team": "FCSR Haguenau",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2024-11-16",
           "time": "18:30",
           "home_team": "CA Boulay",
-          "away_team": "US Thionville-Lusitanos"
+          "away_team": "US Thionville-Lusitanos",
+          "result": {
+            "full_time": "0-3"
+          }
         },
         {
           "date": "2024-11-16",
           "time": "18:30",
           "home_team": "FC Serquigny-Nassandres",
-          "away_team": "EA Guingamp"
+          "away_team": "EA Guingamp",
+          "result": {
+            "full_time": "0-5"
+          }
         },
         {
           "date": "2024-11-16",
@@ -393,45 +506,62 @@
           "home_team": "Grenoble Foot 38",
           "away_team": "FC Villefranche Beaujolais",
           "result": {
-            "penalties": "10-9",
-            "full_time": "1-1"
+            "full_time": "10-9"
           }
         },
         {
           "date": "2024-11-16",
           "time": "19:00",
           "home_team": "Calais Beau Marais",
-          "away_team": "AC Paris 15"
+          "away_team": "AC Paris 15",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2024-11-16",
           "time": "19:00",
           "home_team": "Chamois Niortais",
-          "away_team": "US Orléans"
+          "away_team": "US Orléans",
+          "result": {
+            "full_time": "0-3"
+          }
         },
         {
           "date": "2024-11-16",
           "time": "19:00",
           "home_team": "Cazaux Olympique",
-          "away_team": "La Roche VF"
+          "away_team": "La Roche VF",
+          "result": {
+            "full_time": "0-6"
+          }
         },
         {
           "date": "2024-11-16",
           "time": "19:00",
           "home_team": "FC Comtal",
-          "away_team": "Le Puy Foot 43"
+          "away_team": "Le Puy Foot 43",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2024-11-16",
           "time": "19:00",
           "home_team": "ES Grau-du-Roi",
-          "away_team": "AS Cannes"
+          "away_team": "AS Cannes",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2024-11-16",
           "time": "19:00",
           "home_team": "Valence FC",
-          "away_team": "Marignane Gignac"
+          "away_team": "Marignane Gignac",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2024-11-17",
@@ -439,7 +569,6 @@
           "home_team": "AS Dragon",
           "away_team": "US Avranches",
           "result": {
-            "penalties": "4-2",
             "full_time": "4-2"
           }
         },
@@ -447,7 +576,10 @@
           "date": "2024-11-17",
           "time": "13:30",
           "home_team": "JS Saint-Pierroise",
-          "away_team": "Saint-Denis FC"
+          "away_team": "Saint-Denis FC",
+          "result": {
+            "full_time": "1-4"
+          }
         },
         {
           "date": "2024-11-17",
@@ -455,39 +587,53 @@
           "home_team": "FC Hettange Grande",
           "away_team": "Luneville",
           "result": {
-            "penalties": "2-3",
-            "full_time": "4-5"
+            "full_time": "2-3"
           }
         },
         {
           "date": "2024-11-17",
           "time": "14:00",
           "home_team": "Association Still-Mutzig",
-          "away_team": "FA Illkirch Graffenstaden"
+          "away_team": "FA Illkirch Graffenstaden",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2024-11-17",
           "time": "14:00",
           "home_team": "RC Labourse",
-          "away_team": "FC 93 Bobigny"
+          "away_team": "FC 93 Bobigny",
+          "result": {
+            "full_time": "0-4"
+          }
         },
         {
           "date": "2024-11-17",
           "time": "14:00",
           "home_team": "FC Raismes",
-          "away_team": "Entente Feignies Aulnoye"
+          "away_team": "Entente Feignies Aulnoye",
+          "result": {
+            "full_time": "0-5"
+          }
         },
         {
           "date": "2024-11-17",
           "time": "14:00",
           "home_team": "Etoile Club Anstaing Chéreng",
-          "away_team": "FCM Aubervilliers"
+          "away_team": "FCM Aubervilliers",
+          "result": {
+            "full_time": "0-4"
+          }
         },
         {
           "date": "2024-11-17",
           "time": "14:00",
           "home_team": "RC Roubaix",
-          "away_team": "SFC Neuilly-sur-Marne"
+          "away_team": "SFC Neuilly-sur-Marne",
+          "result": {
+            "full_time": "4-5"
+          }
         },
         {
           "date": "2024-11-17",
@@ -495,14 +641,17 @@
           "home_team": "Liancourt Clermont",
           "away_team": "CS Brétigny",
           "result": {
-            "penalties": "4-3"
+            "full_time": "4-3"
           }
         },
         {
           "date": "2024-11-17",
           "time": "14:00",
           "home_team": "CO Les Ulis",
-          "away_team": "RC Calais"
+          "away_team": "RC Calais",
+          "result": {
+            "full_time": "1-3"
+          }
         },
         {
           "date": "2024-11-17",
@@ -510,93 +659,134 @@
           "home_team": "Le Touquet-Paris-Plage AC",
           "away_team": "FC Porto Portugais d'Amiens",
           "result": {
-            "penalties": "4-1",
-            "full_time": "2-1"
+            "full_time": "4-1"
           }
         },
         {
           "date": "2024-11-17",
           "time": "14:00",
           "home_team": "FC Fief-Gesté",
-          "away_team": "US Monnaie"
+          "away_team": "US Monnaie",
+          "result": {
+            "full_time": "1-3"
+          }
         },
         {
           "date": "2024-11-17",
           "time": "14:00",
           "home_team": "MOS Caen",
-          "away_team": "US Bolbec"
+          "away_team": "US Bolbec",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2024-11-17",
           "time": "14:00",
           "home_team": "COBSP Football",
-          "away_team": "US Saint-Malo"
+          "away_team": "US Saint-Malo",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2024-11-17",
           "time": "14:00",
           "home_team": "ES Beaumont Saint-Cyr",
-          "away_team": "FCE Mérignac Arlac"
+          "away_team": "FCE Mérignac Arlac",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2024-11-17",
           "time": "14:00",
           "home_team": "Étoile Maritime",
-          "away_team": "USSA Vertou"
+          "away_team": "USSA Vertou",
+          "result": {
+            "full_time": "0-3"
+          }
         },
         {
           "date": "2024-11-17",
           "time": "14:00",
           "home_team": "Avenir Mourenxois",
-          "away_team": "FC Marmande 47"
+          "away_team": "FC Marmande 47",
+          "result": {
+            "full_time": "0-3"
+          }
         },
         {
           "date": "2024-11-17",
           "time": "14:00",
           "home_team": "US Couzeix-Chaptelat",
-          "away_team": "Sauveteurs Brivois"
+          "away_team": "Sauveteurs Brivois",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2024-11-17",
           "time": "14:00",
           "home_team": "AS Montferrand",
-          "away_team": "L'Union Saint-Jean FC"
+          "away_team": "L'Union Saint-Jean FC",
+          "result": {
+            "full_time": "0-4"
+          }
         },
         {
           "date": "2024-11-17",
           "time": "14:00",
           "home_team": "Olympique de Valence",
-          "away_team": "AC Arles-Avignon"
+          "away_team": "AC Arles-Avignon",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2024-11-17",
           "time": "14:00",
           "home_team": "Lempdes SF",
-          "away_team": "Carnoux FC"
+          "away_team": "Carnoux FC",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2024-11-17",
           "time": "14:00",
           "home_team": "SC Anduzien",
-          "away_team": "Hauts Lyonnais"
+          "away_team": "Hauts Lyonnais",
+          "result": {
+            "full_time": "1-3"
+          }
         },
         {
           "date": "2024-11-17",
           "time": "14:00",
           "home_team": "Chambéry SF",
-          "away_team": "FC Saint-Cyr Collonges"
+          "away_team": "FC Saint-Cyr Collonges",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2024-11-17",
           "time": "14:00",
           "home_team": "FC Valdahon Vercel",
-          "away_team": "Jura Sud"
+          "away_team": "Jura Sud",
+          "result": {
+            "full_time": "0-4"
+          }
         },
         {
           "date": "2024-11-17",
           "time": "14:00",
           "home_team": "Stade Paimpolais",
-          "away_team": "Stade Briochin"
+          "away_team": "Stade Briochin",
+          "result": {
+            "full_time": "0-3"
+          }
         },
         {
           "date": "2024-11-17",
@@ -604,27 +794,35 @@
           "home_team": "US Pays Saint-Omer",
           "away_team": "US Noyelles-sous-Lens",
           "result": {
-            "penalties": "4-5",
-            "full_time": "1-2"
+            "full_time": "4-5"
           }
         },
         {
           "date": "2024-11-17",
           "time": "17:00",
           "home_team": "FC Bressuire",
-          "away_team": "Girondins Bordeaux"
+          "away_team": "Girondins Bordeaux",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2024-11-17",
           "time": "17:00",
           "home_team": "FC Allobroges Asafia",
-          "away_team": "FC Martigues"
+          "away_team": "FC Martigues",
+          "result": {
+            "full_time": "0-5"
+          }
         },
         {
           "date": "2024-11-23",
           "time": "15:45",
           "home_team": "Aigles d'Or de Mana",
-          "away_team": "Étoile de Matoury"
+          "away_team": "Étoile de Matoury",
+          "result": {
+            "full_time": "3-2"
+          }
         }
       ]
     },
@@ -635,7 +833,10 @@
           "date": "2024-11-20",
           "time": "20:00",
           "home_team": "USC Corte",
-          "away_team": "Diables Noirs"
+          "away_team": "Diables Noirs",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2024-11-29",
@@ -643,7 +844,7 @@
           "home_team": "Stade Briochin",
           "away_team": "US Saint-Malo",
           "result": {
-            "penalties": "5-4"
+            "full_time": "5-4"
           }
         },
         {
@@ -652,51 +853,71 @@
           "home_team": "US Orléans",
           "away_team": "La Roche VF",
           "result": {
-            "penalties": "2-4",
-            "full_time": "1-1"
+            "full_time": "2-4"
           }
         },
         {
           "date": "2024-11-29",
           "time": "19:30",
           "home_team": "SC Bastia",
-          "away_team": "AS Nancy Lorraine"
+          "away_team": "AS Nancy Lorraine",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2024-11-29",
           "time": "19:30",
           "home_team": "US Raon-l'Etape",
-          "away_team": "FC Metz"
+          "away_team": "FC Metz",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2024-11-29",
           "time": "20:00",
           "home_team": "Calais Beau Marais",
-          "away_team": "Amiens SC"
+          "away_team": "Amiens SC",
+          "result": {
+            "full_time": "0-3"
+          }
         },
         {
           "date": "2024-11-29",
           "time": "20:00",
           "home_team": "Chambéry SF",
-          "away_team": "Dijon FCO"
+          "away_team": "Dijon FCO",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2024-11-30",
           "time": "13:30",
           "home_team": "US Monnaie",
-          "away_team": "FC Lorient"
+          "away_team": "FC Lorient",
+          "result": {
+            "full_time": "0-5"
+          }
         },
         {
           "date": "2024-11-30",
           "time": "13:30",
           "home_team": "SM Caen",
-          "away_team": "US Bolbec"
+          "away_team": "US Bolbec",
+          "result": {
+            "full_time": "6-0"
+          }
         },
         {
           "date": "2024-11-30",
           "time": "14:00",
           "home_team": "Association Still-Mutzig",
-          "away_team": "Jeunesse Evolution"
+          "away_team": "Jeunesse Evolution",
+          "result": {
+            "full_time": "4-1"
+          }
         },
         {
           "date": "2024-11-30",
@@ -704,15 +925,17 @@
           "home_team": "Stade Lavallois",
           "away_team": "US Concarneau",
           "result": {
-            "penalties": "5-3",
-            "full_time": "3-3"
+            "full_time": "5-3"
           }
         },
         {
           "date": "2024-11-30",
           "time": "14:00",
           "home_team": "Angoulême CFC",
-          "away_team": "Clermont Foot 63"
+          "away_team": "Clermont Foot 63",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2024-11-30",
@@ -720,15 +943,17 @@
           "home_team": "FC 93 Bobigny",
           "away_team": "Red Star FC",
           "result": {
-            "penalties": "4-2",
-            "full_time": "3-3"
+            "full_time": "4-2"
           }
         },
         {
           "date": "2024-11-30",
           "time": "14:30",
           "home_team": "FCM Aubervilliers",
-          "away_team": "USL Dunkerque"
+          "away_team": "USL Dunkerque",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2024-11-30",
@@ -736,27 +961,35 @@
           "home_team": "US Philibertine",
           "away_team": "Pau FC",
           "result": {
-            "penalties": "4-1",
-            "full_time": "2-1"
+            "full_time": "4-1"
           }
         },
         {
           "date": "2024-11-30",
           "time": "15:00",
           "home_team": "Liancourt Clermont",
-          "away_team": "US Quevilly-Rouen"
+          "away_team": "US Quevilly-Rouen",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2024-11-30",
           "time": "16:00",
           "home_team": "Étoile de Matoury",
-          "away_team": "US Thionville-Lusitanos"
+          "away_team": "US Thionville-Lusitanos",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2024-11-30",
           "time": "16:00",
           "home_team": "Valenciennes FC",
-          "away_team": "SFC Neuilly-sur-Marne"
+          "away_team": "SFC Neuilly-sur-Marne",
+          "result": {
+            "full_time": "4-3"
+          }
         },
         {
           "date": "2024-11-30",
@@ -764,7 +997,7 @@
           "home_team": "Jura Sud",
           "away_team": "FC Annecy",
           "result": {
-            "penalties": "5-6"
+            "full_time": "5-6"
           }
         },
         {
@@ -773,21 +1006,26 @@
           "home_team": "SR Colmar",
           "away_team": "FCSR Haguenau",
           "result": {
-            "penalties": "3-4",
-            "full_time": "2-1"
+            "full_time": "3-4"
           }
         },
         {
           "date": "2024-11-30",
           "time": "17:00",
           "home_team": "RCO Agde",
-          "away_team": "Le Puy Foot 43"
+          "away_team": "Le Puy Foot 43",
+          "result": {
+            "full_time": "1-5"
+          }
         },
         {
           "date": "2024-11-30",
           "time": "17:00",
           "home_team": "FC Istres",
-          "away_team": "Grenoble Foot 38"
+          "away_team": "Grenoble Foot 38",
+          "result": {
+            "full_time": "0-4"
+          }
         },
         {
           "date": "2024-11-30",
@@ -795,39 +1033,53 @@
           "home_team": "GFA Rumilly Vallières",
           "away_team": "GOAL FC",
           "result": {
-            "penalties": "3-4",
-            "full_time": "2-1"
+            "full_time": "3-4"
           }
         },
         {
           "date": "2024-11-30",
           "time": "17:00",
           "home_team": "Cluses-Scionzier FC",
-          "away_team": "ESTAC Troyes"
+          "away_team": "ESTAC Troyes",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2024-11-30",
           "time": "18:00",
           "home_team": "Le Touquet-Paris-Plage AC",
-          "away_team": "RC Calais"
+          "away_team": "RC Calais",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2024-11-30",
           "time": "18:00",
           "home_team": "Le Mans FC",
-          "away_team": "Saint-Colomban Locminé"
+          "away_team": "Saint-Colomban Locminé",
+          "result": {
+            "full_time": "4-0"
+          }
         },
         {
           "date": "2024-11-30",
           "time": "18:00",
           "home_team": "Tours FC",
-          "away_team": "OC Cesson-Sévigné"
+          "away_team": "OC Cesson-Sévigné",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2024-11-30",
           "time": "18:00",
           "home_team": "Dinan Léhon",
-          "away_team": "EA Guingamp"
+          "away_team": "EA Guingamp",
+          "result": {
+            "full_time": "1-4"
+          }
         },
         {
           "date": "2024-11-30",
@@ -835,99 +1087,143 @@
           "home_team": "SA Mérignac",
           "away_team": "ES Beaumont Saint-Cyr",
           "result": {
-            "penalties": "4-2",
-            "full_time": "1-1"
+            "full_time": "4-2"
           }
         },
         {
           "date": "2024-11-30",
           "time": "18:00",
           "home_team": "ESOF La Roche",
-          "away_team": "RC Saint-Joseph"
+          "away_team": "RC Saint-Joseph",
+          "result": {
+            "full_time": "1-3"
+          }
         },
         {
           "date": "2024-11-30",
           "time": "18:00",
           "home_team": "L'Union Saint-Jean FC",
-          "away_team": "FC Versailles"
+          "away_team": "FC Versailles",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2024-11-30",
           "time": "18:00",
           "home_team": "Olympique Alès",
-          "away_team": "AS Cannes"
+          "away_team": "AS Cannes",
+          "result": {
+            "full_time": "1-5"
+          }
         },
         {
           "date": "2024-11-30",
           "time": "18:00",
           "home_team": "Valence FC",
-          "away_team": "FC Martigues"
+          "away_team": "FC Martigues",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2024-11-30",
           "time": "18:00",
           "home_team": "FC Bourgoin-Jallieu",
-          "away_team": "Olympique de Valence"
+          "away_team": "Olympique de Valence",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2024-11-30",
           "time": "18:00",
           "home_team": "Carnoux FC",
-          "away_team": "Hauts Lyonnais"
+          "away_team": "Hauts Lyonnais",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2024-11-30",
           "time": "18:00",
           "home_team": "UF Mâconnais",
-          "away_team": "FC Sochaux"
+          "away_team": "FC Sochaux",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2024-11-30",
           "time": "18:30",
           "home_team": "AS Ginglin Cesson",
-          "away_team": "FC Rouen 1899"
+          "away_team": "FC Rouen 1899",
+          "result": {
+            "full_time": "0-3"
+          }
         },
         {
           "date": "2024-11-30",
           "time": "20:00",
           "home_team": "SU Dives Cabourg",
-          "away_team": "AS Dragon"
+          "away_team": "AS Dragon",
+          "result": {
+            "full_time": "6-1"
+          }
         },
         {
           "date": "2024-11-30",
           "time": "20:00",
           "home_team": "FC Marmande 47",
-          "away_team": "Vierzon FC"
+          "away_team": "Vierzon FC",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2024-12-01",
           "time": "13:30",
           "home_team": "Entente Feignies Aulnoye",
-          "away_team": "Gallia Lucciana"
+          "away_team": "Gallia Lucciana",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2024-12-01",
           "time": "13:30",
           "home_team": "US Couzeix-Chaptelat",
-          "away_team": "FC Espaly"
+          "away_team": "FC Espaly",
+          "result": {
+            "full_time": "0-3"
+          }
         },
         {
           "date": "2024-12-01",
           "time": "13:45",
           "home_team": "US Boulogne",
-          "away_team": "AS Beauvais"
+          "away_team": "AS Beauvais",
+          "result": {
+            "full_time": "4-2"
+          }
         },
         {
           "date": "2024-12-01",
           "time": "14:00",
           "home_team": "US Noyelles-sous-Lens",
-          "away_team": "JA Drancy"
+          "away_team": "JA Drancy",
+          "result": {
+            "full_time": "0-3"
+          }
         },
         {
           "date": "2024-12-01",
           "time": "15:00",
           "home_team": "Luneville",
-          "away_team": "ES Thaon"
+          "away_team": "ES Thaon",
+          "result": {
+            "full_time": "0-4"
+          }
         },
         {
           "date": "2024-12-01",
@@ -935,14 +1231,17 @@
           "home_team": "Saint-Denis FC",
           "away_team": "USSA Vertou",
           "result": {
-            "penalties": "5-4"
+            "full_time": "5-4"
           }
         },
         {
           "date": "2024-12-01",
           "time": "17:00",
           "home_team": "Girondins Bordeaux",
-          "away_team": "Vendée Les Herbiers"
+          "away_team": "Vendée Les Herbiers",
+          "result": {
+            "full_time": "2-0"
+          }
         }
       ]
     },
@@ -955,33 +1254,44 @@
           "home_team": "FC Espaly",
           "away_team": "Dijon FCO",
           "result": {
-            "penalties": "4-3",
-            "full_time": "1-1"
+            "full_time": "4-3"
           }
         },
         {
           "date": "2024-12-20",
           "time": "20:45",
           "home_team": "GOAL FC",
-          "away_team": "FC Annecy"
+          "away_team": "FC Annecy",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2024-12-20",
           "time": "20:45",
           "home_team": "ESTAC Troyes",
-          "away_team": "FC Metz"
+          "away_team": "FC Metz",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2024-12-20",
           "time": "20:45",
           "home_team": "FCSR Haguenau",
-          "away_team": "US Boulogne"
+          "away_team": "US Boulogne",
+          "result": {
+            "full_time": "4-1"
+          }
         },
         {
           "date": "2024-12-20",
           "time": "20:45",
           "home_team": "SC Bastia",
-          "away_team": "RC Saint-Joseph"
+          "away_team": "RC Saint-Joseph",
+          "result": {
+            "full_time": "5-0"
+          }
         },
         {
           "date": "2024-12-20",
@@ -989,32 +1299,44 @@
           "home_team": "SA Mérignac",
           "away_team": "Stade Lavallois",
           "result": {
-            "penalties": "3-4"
+            "full_time": "3-4"
           }
         },
         {
           "date": "2024-12-20",
           "time": "21:00",
           "home_team": "FC Rouen 1899",
-          "away_team": "Lille OSC"
+          "away_team": "Lille OSC",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2024-12-21",
           "time": "21:00",
           "home_team": "Tours FC",
-          "away_team": "FC Lorient"
+          "away_team": "FC Lorient",
+          "result": {
+            "full_time": "0-3"
+          }
         },
         {
           "date": "2024-12-21",
           "time": "15:30",
           "home_team": "AS Cannes",
-          "away_team": "Grenoble Foot 38"
+          "away_team": "Grenoble Foot 38",
+          "result": {
+            "full_time": "3-2"
+          }
         },
         {
           "date": "2024-12-21",
           "time": "15:30",
           "home_team": "FC Bourgoin-Jallieu",
-          "away_team": "FC Martigues"
+          "away_team": "FC Martigues",
+          "result": {
+            "full_time": "4-1"
+          }
         },
         {
           "date": "2024-12-21",
@@ -1022,26 +1344,35 @@
           "home_team": "Hauts Lyonnais",
           "away_team": "Toulouse FC",
           "result": {
-            "penalties": "2-4"
+            "full_time": "2-4"
           }
         },
         {
           "date": "2024-12-21",
           "time": "15:30",
           "home_team": "SU Dives Cabourg",
-          "away_team": "Saint-Denis FC"
+          "away_team": "Saint-Denis FC",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2024-12-21",
           "time": "15:30",
           "home_team": "Stade Briochin",
-          "away_team": "Havre AC"
+          "away_team": "Havre AC",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2024-12-21",
           "time": "15:30",
           "home_team": "La Roche VF",
-          "away_team": "Stade Brestois 29"
+          "away_team": "Stade Brestois 29",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2024-12-21",
@@ -1049,69 +1380,98 @@
           "home_team": "USC Corte",
           "away_team": "OGC Nice",
           "result": {
-            "penalties": "3-5",
-            "full_time": "2-1"
+            "full_time": "3-5"
           }
         },
         {
           "date": "2024-12-21",
           "time": "18:00",
           "home_team": "Le Puy Foot 43",
-          "away_team": "Montpellier HSC"
+          "away_team": "Montpellier HSC",
+          "result": {
+            "full_time": "4-0"
+          }
         },
         {
           "date": "2024-12-21",
           "time": "18:00",
           "home_team": "ES Thaon",
-          "away_team": "Amiens SC"
+          "away_team": "Amiens SC",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2024-12-21",
           "time": "18:00",
           "home_team": "JA Drancy",
-          "away_team": "FC Nantes"
+          "away_team": "FC Nantes",
+          "result": {
+            "full_time": "0-4"
+          }
         },
         {
           "date": "2024-12-21",
           "time": "18:00",
           "home_team": "Entente Feignies Aulnoye",
-          "away_team": "Olympique Lyonnais"
+          "away_team": "Olympique Lyonnais",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2024-12-21",
           "time": "21:00",
           "home_team": "RC Calais",
-          "away_team": "RC Strasbourg"
+          "away_team": "RC Strasbourg",
+          "result": {
+            "full_time": "0-3"
+          }
         },
         {
           "date": "2024-12-22",
           "time": "14:45",
           "home_team": "L'Union Saint-Jean FC",
-          "away_team": "AS Monaco"
+          "away_team": "AS Monaco",
+          "result": {
+            "full_time": "1-4"
+          }
         },
         {
           "date": "2024-12-22",
           "time": "14:45",
           "home_team": "AS Saint-Étienne",
-          "away_team": "Olympique Marseille"
+          "away_team": "Olympique Marseille",
+          "result": {
+            "full_time": "0-4"
+          }
         },
         {
           "date": "2024-12-22",
           "time": "14:45",
           "home_team": "Association Still-Mutzig",
-          "away_team": "Stade de Reims"
+          "away_team": "Stade de Reims",
+          "result": {
+            "full_time": "1-3"
+          }
         },
         {
           "date": "2024-12-22",
           "time": "14:45",
           "home_team": "AJ Auxerre",
-          "away_team": "USL Dunkerque"
+          "away_team": "USL Dunkerque",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2024-12-22",
           "time": "14:45",
           "home_team": "Girondins Bordeaux",
-          "away_team": "Stade Rennais"
+          "away_team": "Stade Rennais",
+          "result": {
+            "full_time": "1-4"
+          }
         },
         {
           "date": "2024-12-22",
@@ -1119,7 +1479,7 @@
           "home_team": "FC Sochaux",
           "away_team": "Clermont Foot 63",
           "result": {
-            "penalties": "5-3"
+            "full_time": "5-3"
           }
         },
         {
@@ -1128,33 +1488,44 @@
           "home_team": "US Thionville-Lusitanos",
           "away_team": "Valenciennes FC",
           "result": {
-            "penalties": "4-5",
-            "full_time": "2-3"
+            "full_time": "4-5"
           }
         },
         {
           "date": "2024-12-22",
           "time": "17:30",
           "home_team": "FC 93 Bobigny",
-          "away_team": "Angers SCO"
+          "away_team": "Angers SCO",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2024-12-22",
           "time": "17:30",
           "home_team": "US Philibertine",
-          "away_team": "US Quevilly-Rouen"
+          "away_team": "US Quevilly-Rouen",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2024-12-22",
           "time": "17:30",
           "home_team": "FC Marmande 47",
-          "away_team": "Le Mans FC"
+          "away_team": "Le Mans FC",
+          "result": {
+            "full_time": "0-7"
+          }
         },
         {
           "date": "2024-12-22",
           "time": "17:30",
           "home_team": "EA Guingamp",
-          "away_team": "SM Caen"
+          "away_team": "SM Caen",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2024-12-22",
@@ -1162,8 +1533,7 @@
           "home_team": "RC Lens",
           "away_team": "Paris Saint-Germain",
           "result": {
-            "penalties": "3-4",
-            "full_time": "1-1"
+            "full_time": "3-4"
           }
         }
       ]
@@ -1175,13 +1545,19 @@
           "date": "2025-01-14",
           "time": "20:45",
           "home_team": "SC Bastia",
-          "away_team": "OGC Nice"
+          "away_team": "OGC Nice",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2025-01-14",
           "time": "20:45",
           "home_team": "SU Dives Cabourg",
-          "away_team": "Le Puy Foot 43"
+          "away_team": "Le Puy Foot 43",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2025-01-14",
@@ -1189,8 +1565,7 @@
           "home_team": "Le Mans FC",
           "away_team": "Valenciennes FC",
           "result": {
-            "penalties": "4-3",
-            "full_time": "2-1"
+            "full_time": "4-3"
           }
         },
         {
@@ -1199,8 +1574,7 @@
           "home_team": "EA Guingamp",
           "away_team": "FC Sochaux",
           "result": {
-            "penalties": "9-8",
-            "full_time": "3-4"
+            "full_time": "9-8"
           }
         },
         {
@@ -1209,8 +1583,7 @@
           "home_team": "Stade de Reims",
           "away_team": "AS Monaco",
           "result": {
-            "penalties": "3-1",
-            "full_time": "2-1"
+            "full_time": "3-1"
           }
         },
         {
@@ -1219,8 +1592,7 @@
           "home_team": "Olympique Marseille",
           "away_team": "Lille OSC",
           "result": {
-            "penalties": "3-4",
-            "full_time": "1-1"
+            "full_time": "3-4"
           }
         },
         {
@@ -1229,27 +1601,35 @@
           "home_team": "FC Bourgoin-Jallieu",
           "away_team": "Olympique Lyonnais",
           "result": {
-            "penalties": "4-2",
-            "full_time": "3-3"
+            "full_time": "4-2"
           }
         },
         {
           "date": "2025-01-15",
           "time": "18:30",
           "home_team": "Toulouse FC",
-          "away_team": "Stade Lavallois"
+          "away_team": "Stade Lavallois",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2025-01-15",
           "time": "18:30",
           "home_team": "US Quevilly-Rouen",
-          "away_team": "Angers SCO"
+          "away_team": "Angers SCO",
+          "result": {
+            "full_time": "2-3"
+          }
         },
         {
           "date": "2025-01-15",
           "time": "18:30",
           "home_team": "ESTAC Troyes",
-          "away_team": "Stade Rennais"
+          "away_team": "Stade Rennais",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2025-01-15",
@@ -1257,21 +1637,26 @@
           "home_team": "Stade Briochin",
           "away_team": "FC Annecy",
           "result": {
-            "penalties": "4-3",
-            "full_time": "1-2"
+            "full_time": "4-3"
           }
         },
         {
           "date": "2025-01-15",
           "time": "18:30",
           "home_team": "AS Cannes",
-          "away_team": "FC Lorient"
+          "away_team": "FC Lorient",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2025-01-15",
           "time": "18:30",
           "home_team": "Stade Brestois 29",
-          "away_team": "FC Nantes"
+          "away_team": "FC Nantes",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2025-01-15",
@@ -1279,21 +1664,26 @@
           "home_team": "ES Thaon",
           "away_team": "RC Strasbourg",
           "result": {
-            "penalties": "3-5",
-            "full_time": "4-4"
+            "full_time": "3-5"
           }
         },
         {
           "date": "2025-01-15",
           "time": "21:00",
           "home_team": "FC Espaly",
-          "away_team": "Paris Saint-Germain"
+          "away_team": "Paris Saint-Germain",
+          "result": {
+            "full_time": "2-4"
+          }
         },
         {
           "date": "2025-01-22",
           "time": "17:00",
           "home_team": "FCSR Haguenau",
-          "away_team": "USL Dunkerque"
+          "away_team": "USL Dunkerque",
+          "result": {
+            "full_time": "1-3"
+          }
         }
       ]
     },
@@ -1304,7 +1694,10 @@
           "date": "2025-02-04",
           "time": "19:00",
           "home_team": "ESTAC Troyes",
-          "away_team": "Stade Brestois 29"
+          "away_team": "Stade Brestois 29",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2025-02-04",
@@ -1312,39 +1705,53 @@
           "home_team": "Lille OSC",
           "away_team": "USL Dunkerque",
           "result": {
-            "penalties": "4-5",
-            "full_time": "1-1"
+            "full_time": "4-5"
           }
         },
         {
           "date": "2025-02-04",
           "time": "21:10",
           "home_team": "Le Mans FC",
-          "away_team": "Paris Saint-Germain"
+          "away_team": "Paris Saint-Germain",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2025-02-05",
           "time": "20:45",
           "home_team": "Stade Briochin",
-          "away_team": "OGC Nice"
+          "away_team": "OGC Nice",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2025-02-05",
           "time": "20:45",
           "home_team": "Toulouse FC",
-          "away_team": "EA Guingamp"
+          "away_team": "EA Guingamp",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2025-02-05",
           "time": "20:45",
           "home_team": "AS Cannes",
-          "away_team": "SU Dives Cabourg"
+          "away_team": "SU Dives Cabourg",
+          "result": {
+            "full_time": "5-3"
+          }
         },
         {
           "date": "2025-02-05",
           "time": "20:45",
           "home_team": "RC Strasbourg",
-          "away_team": "Angers SCO"
+          "away_team": "Angers SCO",
+          "result": {
+            "full_time": "1-3"
+          }
         },
         {
           "date": "2025-02-06",
@@ -1352,7 +1759,7 @@
           "home_team": "FC Bourgoin-Jallieu",
           "away_team": "Stade de Reims",
           "result": {
-            "penalties": "2-3"
+            "full_time": "2-3"
           }
         }
       ]
@@ -1364,7 +1771,10 @@
           "date": "2025-02-25",
           "time": "21:00",
           "home_team": "AS Cannes",
-          "away_team": "EA Guingamp"
+          "away_team": "EA Guingamp",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2025-02-25",
@@ -1372,21 +1782,26 @@
           "home_team": "Angers SCO",
           "away_team": "Stade de Reims",
           "result": {
-            "penalties": "3-5",
-            "full_time": "1-1"
+            "full_time": "3-5"
           }
         },
         {
           "date": "2025-02-26",
           "time": "19:00",
           "home_team": "Stade Brestois 29",
-          "away_team": "USL Dunkerque"
+          "away_team": "USL Dunkerque",
+          "result": {
+            "full_time": "2-3"
+          }
         },
         {
           "date": "2025-02-26",
           "time": "21:10",
           "home_team": "Stade Briochin",
-          "away_team": "Paris Saint-Germain"
+          "away_team": "Paris Saint-Germain",
+          "result": {
+            "full_time": "0-7"
+          }
         }
       ]
     },
@@ -1397,13 +1812,19 @@
           "date": "2025-04-01",
           "time": "21:10",
           "home_team": "USL Dunkerque",
-          "away_team": "Paris Saint-Germain"
+          "away_team": "Paris Saint-Germain",
+          "result": {
+            "full_time": "2-4"
+          }
         },
         {
           "date": "2025-04-02",
           "time": "21:00",
           "home_team": "AS Cannes",
-          "away_team": "Stade de Reims"
+          "away_team": "Stade de Reims",
+          "result": {
+            "full_time": "1-2"
+          }
         }
       ]
     },

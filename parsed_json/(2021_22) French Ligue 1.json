@@ -9,61 +9,91 @@
           "date": "2021-08-06",
           "time": "21:00",
           "home_team": "AS Monaco",
-          "away_team": "FC Nantes"
+          "away_team": "FC Nantes",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2021-08-07",
           "time": "17:00",
           "home_team": "Olympique Lyonnais",
-          "away_team": "Stade Brestois 29"
+          "away_team": "Stade Brestois 29",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2021-08-07",
           "time": "21:00",
           "home_team": "ESTAC Troyes",
-          "away_team": "Paris Saint-Germain"
+          "away_team": "Paris Saint-Germain",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2021-08-08",
           "time": "13:00",
           "home_team": "Stade Rennais",
-          "away_team": "RC Lens"
+          "away_team": "RC Lens",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2021-08-08",
           "time": "15:00",
           "home_team": "AS Saint-Étienne",
-          "away_team": "FC Lorient"
+          "away_team": "FC Lorient",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2021-08-08",
           "time": "15:00",
           "home_team": "Girondins Bordeaux",
-          "away_team": "Clermont Foot 63"
+          "away_team": "Clermont Foot 63",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2021-08-08",
           "time": "15:00",
           "home_team": "OGC Nice",
-          "away_team": "Stade de Reims"
+          "away_team": "Stade de Reims",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2021-08-08",
           "time": "15:00",
           "home_team": "RC Strasbourg",
-          "away_team": "Angers SCO"
+          "away_team": "Angers SCO",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2021-08-08",
           "time": "17:00",
           "home_team": "FC Metz",
-          "away_team": "Lille OSC"
+          "away_team": "Lille OSC",
+          "result": {
+            "full_time": "3-3"
+          }
         },
         {
           "date": "2021-08-08",
           "time": "20:45",
           "home_team": "Montpellier HSC",
-          "away_team": "Olympique Marseille"
+          "away_team": "Olympique Marseille",
+          "result": {
+            "full_time": "2-3"
+          }
         }
       ]
     },
@@ -74,61 +104,91 @@
           "date": "2021-08-13",
           "time": "21:00",
           "home_team": "FC Lorient",
-          "away_team": "AS Monaco"
+          "away_team": "AS Monaco",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2021-08-14",
           "time": "17:00",
           "home_team": "Lille OSC",
-          "away_team": "OGC Nice"
+          "away_team": "OGC Nice",
+          "result": {
+            "full_time": "0-4"
+          }
         },
         {
           "date": "2021-08-14",
           "time": "21:00",
           "home_team": "Paris Saint-Germain",
-          "away_team": "RC Strasbourg"
+          "away_team": "RC Strasbourg",
+          "result": {
+            "full_time": "4-2"
+          }
         },
         {
           "date": "2021-08-15",
           "time": "13:00",
           "home_team": "Angers SCO",
-          "away_team": "Olympique Lyonnais"
+          "away_team": "Olympique Lyonnais",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2021-08-15",
           "time": "15:00",
           "home_team": "Clermont Foot 63",
-          "away_team": "ESTAC Troyes"
+          "away_team": "ESTAC Troyes",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2021-08-15",
           "time": "15:00",
           "home_team": "FC Nantes",
-          "away_team": "FC Metz"
+          "away_team": "FC Metz",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2021-08-15",
           "time": "15:00",
           "home_team": "Stade Brestois 29",
-          "away_team": "Stade Rennais"
+          "away_team": "Stade Rennais",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2021-08-15",
           "time": "15:00",
           "home_team": "Stade de Reims",
-          "away_team": "Montpellier HSC"
+          "away_team": "Montpellier HSC",
+          "result": {
+            "full_time": "3-3"
+          }
         },
         {
           "date": "2021-08-15",
           "time": "17:00",
           "home_team": "RC Lens",
-          "away_team": "AS Saint-Étienne"
+          "away_team": "AS Saint-Étienne",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2021-08-15",
           "time": "20:45",
           "home_team": "Olympique Marseille",
-          "away_team": "Girondins Bordeaux"
+          "away_team": "Girondins Bordeaux",
+          "result": {
+            "full_time": "2-2"
+          }
         }
       ]
     },
@@ -139,61 +199,91 @@
           "date": "2021-08-20",
           "time": "21:00",
           "home_team": "Stade Brestois 29",
-          "away_team": "Paris Saint-Germain"
+          "away_team": "Paris Saint-Germain",
+          "result": {
+            "full_time": "2-4"
+          }
         },
         {
           "date": "2021-08-21",
           "time": "17:00",
           "home_team": "AS Monaco",
-          "away_team": "RC Lens"
+          "away_team": "RC Lens",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2021-08-21",
           "time": "21:00",
           "home_team": "AS Saint-Étienne",
-          "away_team": "Lille OSC"
+          "away_team": "Lille OSC",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2021-08-22",
           "time": "13:00",
           "home_team": "Olympique Lyonnais",
-          "away_team": "Clermont Foot 63"
+          "away_team": "Clermont Foot 63",
+          "result": {
+            "full_time": "3-3"
+          }
         },
         {
           "date": "2021-08-22",
           "time": "15:00",
           "home_team": "FC Metz",
-          "away_team": "Stade de Reims"
+          "away_team": "Stade de Reims",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2021-08-22",
           "time": "15:00",
           "home_team": "Girondins Bordeaux",
-          "away_team": "Angers SCO"
+          "away_team": "Angers SCO",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2021-08-22",
           "time": "15:00",
           "home_team": "Montpellier HSC",
-          "away_team": "FC Lorient"
+          "away_team": "FC Lorient",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2021-08-22",
           "time": "15:00",
           "home_team": "RC Strasbourg",
-          "away_team": "ESTAC Troyes"
+          "away_team": "ESTAC Troyes",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2021-08-22",
           "time": "17:00",
           "home_team": "Stade Rennais",
-          "away_team": "FC Nantes"
+          "away_team": "FC Nantes",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2021-10-27",
           "time": "21:00",
           "home_team": "OGC Nice",
-          "away_team": "Olympique Marseille"
+          "away_team": "Olympique Marseille",
+          "result": {
+            "full_time": "1-1"
+          }
         }
       ]
     },
@@ -204,61 +294,91 @@
           "date": "2021-08-27",
           "time": "21:00",
           "home_team": "FC Nantes",
-          "away_team": "Olympique Lyonnais"
+          "away_team": "Olympique Lyonnais",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2021-08-28",
           "time": "17:00",
           "home_team": "OGC Nice",
-          "away_team": "Girondins Bordeaux"
+          "away_team": "Girondins Bordeaux",
+          "result": {
+            "full_time": "4-0"
+          }
         },
         {
           "date": "2021-08-28",
           "time": "21:00",
           "home_team": "Olympique Marseille",
-          "away_team": "AS Saint-Étienne"
+          "away_team": "AS Saint-Étienne",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2021-08-29",
           "time": "13:00",
           "home_team": "ESTAC Troyes",
-          "away_team": "AS Monaco"
+          "away_team": "AS Monaco",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2021-08-29",
           "time": "15:00",
           "home_team": "Clermont Foot 63",
-          "away_team": "FC Metz"
+          "away_team": "FC Metz",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2021-08-29",
           "time": "15:00",
           "home_team": "RC Strasbourg",
-          "away_team": "Stade Brestois 29"
+          "away_team": "Stade Brestois 29",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2021-08-29",
           "time": "15:00",
           "home_team": "RC Lens",
-          "away_team": "FC Lorient"
+          "away_team": "FC Lorient",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2021-08-29",
           "time": "15:00",
           "home_team": "Angers SCO",
-          "away_team": "Stade Rennais"
+          "away_team": "Stade Rennais",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2021-08-29",
           "time": "17:00",
           "home_team": "Lille OSC",
-          "away_team": "Montpellier HSC"
+          "away_team": "Montpellier HSC",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2021-08-29",
           "time": "20:45",
           "home_team": "Stade de Reims",
-          "away_team": "Paris Saint-Germain"
+          "away_team": "Paris Saint-Germain",
+          "result": {
+            "full_time": "0-2"
+          }
         }
       ]
     },
@@ -269,61 +389,91 @@
           "date": "2021-09-10",
           "time": "21:00",
           "home_team": "FC Lorient",
-          "away_team": "Lille OSC"
+          "away_team": "Lille OSC",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2021-09-11",
           "time": "17:00",
           "home_team": "Paris Saint-Germain",
-          "away_team": "Clermont Foot 63"
+          "away_team": "Clermont Foot 63",
+          "result": {
+            "full_time": "4-0"
+          }
         },
         {
           "date": "2021-09-11",
           "time": "21:00",
           "home_team": "AS Monaco",
-          "away_team": "Olympique Marseille"
+          "away_team": "Olympique Marseille",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2021-09-12",
           "time": "13:00",
           "home_team": "Montpellier HSC",
-          "away_team": "AS Saint-Étienne"
+          "away_team": "AS Saint-Étienne",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2021-09-12",
           "time": "15:00",
           "home_team": "FC Metz",
-          "away_team": "ESTAC Troyes"
+          "away_team": "ESTAC Troyes",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2021-09-12",
           "time": "15:00",
           "home_team": "Girondins Bordeaux",
-          "away_team": "RC Lens"
+          "away_team": "RC Lens",
+          "result": {
+            "full_time": "2-3"
+          }
         },
         {
           "date": "2021-09-12",
           "time": "15:00",
           "home_team": "Stade Brestois 29",
-          "away_team": "Angers SCO"
+          "away_team": "Angers SCO",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2021-09-12",
           "time": "15:00",
           "home_team": "Stade Rennais",
-          "away_team": "Stade de Reims"
+          "away_team": "Stade de Reims",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2021-09-12",
           "time": "17:00",
           "home_team": "FC Nantes",
-          "away_team": "OGC Nice"
+          "away_team": "OGC Nice",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2021-09-12",
           "time": "20:45",
           "home_team": "Olympique Lyonnais",
-          "away_team": "RC Strasbourg"
+          "away_team": "RC Strasbourg",
+          "result": {
+            "full_time": "3-1"
+          }
         }
       ]
     },
@@ -334,61 +484,91 @@
           "date": "2021-09-17",
           "time": "21:00",
           "home_team": "RC Strasbourg",
-          "away_team": "FC Metz"
+          "away_team": "FC Metz",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2021-09-18",
           "time": "17:00",
           "home_team": "RC Lens",
-          "away_team": "Lille OSC"
+          "away_team": "Lille OSC",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2021-09-18",
           "time": "21:00",
           "home_team": "AS Saint-Étienne",
-          "away_team": "Girondins Bordeaux"
+          "away_team": "Girondins Bordeaux",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2021-09-19",
           "time": "13:00",
           "home_team": "OGC Nice",
-          "away_team": "AS Monaco"
+          "away_team": "AS Monaco",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2021-09-19",
           "time": "15:00",
           "home_team": "Clermont Foot 63",
-          "away_team": "Stade Brestois 29"
+          "away_team": "Stade Brestois 29",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2021-09-19",
           "time": "15:00",
           "home_team": "ESTAC Troyes",
-          "away_team": "Montpellier HSC"
+          "away_team": "Montpellier HSC",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2021-09-19",
           "time": "15:00",
           "home_team": "Angers SCO",
-          "away_team": "FC Nantes"
+          "away_team": "FC Nantes",
+          "result": {
+            "full_time": "1-4"
+          }
         },
         {
           "date": "2021-09-19",
           "time": "15:00",
           "home_team": "Stade de Reims",
-          "away_team": "FC Lorient"
+          "away_team": "FC Lorient",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2021-09-19",
           "time": "17:00",
           "home_team": "Olympique Marseille",
-          "away_team": "Stade Rennais"
+          "away_team": "Stade Rennais",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2021-09-19",
           "time": "20:45",
           "home_team": "Paris Saint-Germain",
-          "away_team": "Olympique Lyonnais"
+          "away_team": "Olympique Lyonnais",
+          "result": {
+            "full_time": "2-1"
+          }
         }
       ]
     },
@@ -399,61 +579,91 @@
           "date": "2021-09-22",
           "time": "19:00",
           "home_team": "AS Monaco",
-          "away_team": "AS Saint-Étienne"
+          "away_team": "AS Saint-Étienne",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2021-09-22",
           "time": "19:00",
           "home_team": "FC Nantes",
-          "away_team": "Stade Brestois 29"
+          "away_team": "Stade Brestois 29",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2021-09-22",
           "time": "19:00",
           "home_team": "Montpellier HSC",
-          "away_team": "Girondins Bordeaux"
+          "away_team": "Girondins Bordeaux",
+          "result": {
+            "full_time": "3-3"
+          }
         },
         {
           "date": "2021-09-22",
           "time": "19:00",
           "home_team": "Lille OSC",
-          "away_team": "Stade de Reims"
+          "away_team": "Stade de Reims",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2021-09-22",
           "time": "19:00",
           "home_team": "Stade Rennais",
-          "away_team": "Clermont Foot 63"
+          "away_team": "Clermont Foot 63",
+          "result": {
+            "full_time": "6-0"
+          }
         },
         {
           "date": "2021-09-22",
           "time": "21:00",
           "home_team": "FC Lorient",
-          "away_team": "OGC Nice"
+          "away_team": "OGC Nice",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2021-09-22",
           "time": "21:00",
           "home_team": "FC Metz",
-          "away_team": "Paris Saint-Germain"
+          "away_team": "Paris Saint-Germain",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2021-09-22",
           "time": "21:00",
           "home_team": "Olympique Lyonnais",
-          "away_team": "ESTAC Troyes"
+          "away_team": "ESTAC Troyes",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2021-09-22",
           "time": "21:00",
           "home_team": "RC Lens",
-          "away_team": "RC Strasbourg"
+          "away_team": "RC Strasbourg",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2021-09-22",
           "time": "21:00",
           "home_team": "Angers SCO",
-          "away_team": "Olympique Marseille"
+          "away_team": "Olympique Marseille",
+          "result": {
+            "full_time": "0-0"
+          }
         }
       ]
     },
@@ -464,61 +674,91 @@
           "date": "2021-09-25",
           "time": "17:00",
           "home_team": "AS Saint-Étienne",
-          "away_team": "OGC Nice"
+          "away_team": "OGC Nice",
+          "result": {
+            "full_time": "0-3"
+          }
         },
         {
           "date": "2021-09-25",
           "time": "19:00",
           "home_team": "RC Strasbourg",
-          "away_team": "Lille OSC"
+          "away_team": "Lille OSC",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2021-09-25",
           "time": "21:00",
           "home_team": "Olympique Lyonnais",
-          "away_team": "FC Lorient"
+          "away_team": "FC Lorient",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2021-09-25",
           "time": "21:00",
           "home_team": "Paris Saint-Germain",
-          "away_team": "Montpellier HSC"
+          "away_team": "Montpellier HSC",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2021-09-26",
           "time": "13:00",
           "home_team": "Girondins Bordeaux",
-          "away_team": "Stade Rennais"
+          "away_team": "Stade Rennais",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2021-09-26",
           "time": "15:00",
           "home_team": "ESTAC Troyes",
-          "away_team": "Angers SCO"
+          "away_team": "Angers SCO",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2021-09-26",
           "time": "15:00",
           "home_team": "Stade Brestois 29",
-          "away_team": "FC Metz"
+          "away_team": "FC Metz",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2021-09-26",
           "time": "15:00",
           "home_team": "Stade de Reims",
-          "away_team": "FC Nantes"
+          "away_team": "FC Nantes",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2021-09-26",
           "time": "17:00",
           "home_team": "Clermont Foot 63",
-          "away_team": "AS Monaco"
+          "away_team": "AS Monaco",
+          "result": {
+            "full_time": "1-3"
+          }
         },
         {
           "date": "2021-09-26",
           "time": "20:45",
           "home_team": "Olympique Marseille",
-          "away_team": "RC Lens"
+          "away_team": "RC Lens",
+          "result": {
+            "full_time": "2-3"
+          }
         }
       ]
     },
@@ -529,61 +769,91 @@
           "date": "2021-10-01",
           "time": "21:00",
           "home_team": "RC Lens",
-          "away_team": "Stade de Reims"
+          "away_team": "Stade de Reims",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2021-10-02",
           "time": "17:00",
           "home_team": "Montpellier HSC",
-          "away_team": "RC Strasbourg"
+          "away_team": "RC Strasbourg",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2021-10-02",
           "time": "21:00",
           "home_team": "OGC Nice",
-          "away_team": "Stade Brestois 29"
+          "away_team": "Stade Brestois 29",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2021-10-03",
           "time": "13:00",
           "home_team": "Stade Rennais",
-          "away_team": "Paris Saint-Germain"
+          "away_team": "Paris Saint-Germain",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2021-10-03",
           "time": "15:00",
           "home_team": "AS Monaco",
-          "away_team": "Girondins Bordeaux"
+          "away_team": "Girondins Bordeaux",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2021-10-03",
           "time": "15:00",
           "home_team": "FC Lorient",
-          "away_team": "Clermont Foot 63"
+          "away_team": "Clermont Foot 63",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2021-10-03",
           "time": "15:00",
           "home_team": "FC Nantes",
-          "away_team": "ESTAC Troyes"
+          "away_team": "ESTAC Troyes",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2021-10-03",
           "time": "15:00",
           "home_team": "Angers SCO",
-          "away_team": "FC Metz"
+          "away_team": "FC Metz",
+          "result": {
+            "full_time": "3-2"
+          }
         },
         {
           "date": "2021-10-03",
           "time": "17:00",
           "home_team": "Lille OSC",
-          "away_team": "Olympique Marseille"
+          "away_team": "Olympique Marseille",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2021-10-03",
           "time": "20:45",
           "home_team": "AS Saint-Étienne",
-          "away_team": "Olympique Lyonnais"
+          "away_team": "Olympique Lyonnais",
+          "result": {
+            "full_time": "1-1"
+          }
         }
       ]
     },
@@ -594,61 +864,91 @@
           "date": "2021-10-15",
           "time": "21:00",
           "home_team": "Paris Saint-Germain",
-          "away_team": "Angers SCO"
+          "away_team": "Angers SCO",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2021-10-16",
           "time": "17:00",
           "home_team": "Clermont Foot 63",
-          "away_team": "Lille OSC"
+          "away_team": "Lille OSC",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2021-10-16",
           "time": "21:00",
           "home_team": "Olympique Lyonnais",
-          "away_team": "AS Monaco"
+          "away_team": "AS Monaco",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2021-10-17",
           "time": "13:00",
           "home_team": "ESTAC Troyes",
-          "away_team": "OGC Nice"
+          "away_team": "OGC Nice",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2021-10-17",
           "time": "15:00",
           "home_team": "FC Metz",
-          "away_team": "Stade Rennais"
+          "away_team": "Stade Rennais",
+          "result": {
+            "full_time": "0-3"
+          }
         },
         {
           "date": "2021-10-17",
           "time": "15:00",
           "home_team": "Girondins Bordeaux",
-          "away_team": "FC Nantes"
+          "away_team": "FC Nantes",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2021-10-17",
           "time": "15:00",
           "home_team": "RC Strasbourg",
-          "away_team": "AS Saint-Étienne"
+          "away_team": "AS Saint-Étienne",
+          "result": {
+            "full_time": "5-1"
+          }
         },
         {
           "date": "2021-10-17",
           "time": "15:00",
           "home_team": "Stade Brestois 29",
-          "away_team": "Stade de Reims"
+          "away_team": "Stade de Reims",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2021-10-17",
           "time": "17:00",
           "home_team": "Montpellier HSC",
-          "away_team": "RC Lens"
+          "away_team": "RC Lens",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2021-10-17",
           "time": "20:45",
           "home_team": "Olympique Marseille",
-          "away_team": "FC Lorient"
+          "away_team": "FC Lorient",
+          "result": {
+            "full_time": "4-1"
+          }
         }
       ]
     },
@@ -659,61 +959,91 @@
           "date": "2021-10-22",
           "time": "21:00",
           "home_team": "AS Saint-Étienne",
-          "away_team": "Angers SCO"
+          "away_team": "Angers SCO",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2021-10-23",
           "time": "17:00",
           "home_team": "FC Nantes",
-          "away_team": "Clermont Foot 63"
+          "away_team": "Clermont Foot 63",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2021-10-23",
           "time": "21:00",
           "home_team": "Lille OSC",
-          "away_team": "Stade Brestois 29"
+          "away_team": "Stade Brestois 29",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2021-10-24",
           "time": "13:00",
           "home_team": "OGC Nice",
-          "away_team": "Olympique Lyonnais"
+          "away_team": "Olympique Lyonnais",
+          "result": {
+            "full_time": "3-2"
+          }
         },
         {
           "date": "2021-10-24",
           "time": "15:00",
           "home_team": "FC Lorient",
-          "away_team": "Girondins Bordeaux"
+          "away_team": "Girondins Bordeaux",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2021-10-24",
           "time": "15:00",
           "home_team": "RC Lens",
-          "away_team": "FC Metz"
+          "away_team": "FC Metz",
+          "result": {
+            "full_time": "4-1"
+          }
         },
         {
           "date": "2021-10-24",
           "time": "15:00",
           "home_team": "Stade de Reims",
-          "away_team": "ESTAC Troyes"
+          "away_team": "ESTAC Troyes",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2021-10-24",
           "time": "15:00",
           "home_team": "Stade Rennais",
-          "away_team": "RC Strasbourg"
+          "away_team": "RC Strasbourg",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2021-10-24",
           "time": "17:00",
           "home_team": "AS Monaco",
-          "away_team": "Montpellier HSC"
+          "away_team": "Montpellier HSC",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2021-10-24",
           "time": "20:45",
           "home_team": "Olympique Marseille",
-          "away_team": "Paris Saint-Germain"
+          "away_team": "Paris Saint-Germain",
+          "result": {
+            "full_time": "0-0"
+          }
         }
       ]
     },
@@ -724,61 +1054,91 @@
           "date": "2021-10-29",
           "time": "21:00",
           "home_team": "Paris Saint-Germain",
-          "away_team": "Lille OSC"
+          "away_team": "Lille OSC",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2021-10-30",
           "time": "17:00",
           "home_team": "FC Metz",
-          "away_team": "AS Saint-Étienne"
+          "away_team": "AS Saint-Étienne",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2021-10-30",
           "time": "21:00",
           "home_team": "Olympique Lyonnais",
-          "away_team": "RC Lens"
+          "away_team": "RC Lens",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2021-10-31",
           "time": "13:00",
           "home_team": "Angers SCO",
-          "away_team": "OGC Nice"
+          "away_team": "OGC Nice",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2021-10-31",
           "time": "15:00",
           "home_team": "ESTAC Troyes",
-          "away_team": "Stade Rennais"
+          "away_team": "Stade Rennais",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2021-10-31",
           "time": "15:00",
           "home_team": "Girondins Bordeaux",
-          "away_team": "Stade de Reims"
+          "away_team": "Stade de Reims",
+          "result": {
+            "full_time": "3-2"
+          }
         },
         {
           "date": "2021-10-31",
           "time": "15:00",
           "home_team": "Montpellier HSC",
-          "away_team": "FC Nantes"
+          "away_team": "FC Nantes",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2021-10-31",
           "time": "15:00",
           "home_team": "RC Strasbourg",
-          "away_team": "FC Lorient"
+          "away_team": "FC Lorient",
+          "result": {
+            "full_time": "4-0"
+          }
         },
         {
           "date": "2021-10-31",
           "time": "17:00",
           "home_team": "Stade Brestois 29",
-          "away_team": "AS Monaco"
+          "away_team": "AS Monaco",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2021-10-31",
           "time": "20:45",
           "home_team": "Clermont Foot 63",
-          "away_team": "Olympique Marseille"
+          "away_team": "Olympique Marseille",
+          "result": {
+            "full_time": "0-1"
+          }
         }
       ]
     },
@@ -789,61 +1149,91 @@
           "date": "2021-11-05",
           "time": "21:00",
           "home_team": "RC Lens",
-          "away_team": "ESTAC Troyes"
+          "away_team": "ESTAC Troyes",
+          "result": {
+            "full_time": "4-0"
+          }
         },
         {
           "date": "2021-11-06",
           "time": "17:00",
           "home_team": "Lille OSC",
-          "away_team": "Angers SCO"
+          "away_team": "Angers SCO",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2021-11-06",
           "time": "21:00",
           "home_team": "Girondins Bordeaux",
-          "away_team": "Paris Saint-Germain"
+          "away_team": "Paris Saint-Germain",
+          "result": {
+            "full_time": "2-3"
+          }
         },
         {
           "date": "2021-11-07",
           "time": "13:00",
           "home_team": "Olympique Marseille",
-          "away_team": "FC Metz"
+          "away_team": "FC Metz",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2021-11-07",
           "time": "15:00",
           "home_team": "AS Saint-Étienne",
-          "away_team": "Clermont Foot 63"
+          "away_team": "Clermont Foot 63",
+          "result": {
+            "full_time": "3-2"
+          }
         },
         {
           "date": "2021-11-07",
           "time": "15:00",
           "home_team": "FC Lorient",
-          "away_team": "Stade Brestois 29"
+          "away_team": "Stade Brestois 29",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2021-11-07",
           "time": "15:00",
           "home_team": "FC Nantes",
-          "away_team": "RC Strasbourg"
+          "away_team": "RC Strasbourg",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2021-11-07",
           "time": "15:00",
           "home_team": "Stade de Reims",
-          "away_team": "AS Monaco"
+          "away_team": "AS Monaco",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2021-11-07",
           "time": "17:00",
           "home_team": "OGC Nice",
-          "away_team": "Montpellier HSC"
+          "away_team": "Montpellier HSC",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2021-11-07",
           "time": "20:45",
           "home_team": "Stade Rennais",
-          "away_team": "Olympique Lyonnais"
+          "away_team": "Olympique Lyonnais",
+          "result": {
+            "full_time": "4-1"
+          }
         }
       ]
     },
@@ -854,61 +1244,91 @@
           "date": "2021-11-19",
           "time": "21:00",
           "home_team": "AS Monaco",
-          "away_team": "Lille OSC"
+          "away_team": "Lille OSC",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2021-11-20",
           "time": "17:00",
           "home_team": "Paris Saint-Germain",
-          "away_team": "FC Nantes"
+          "away_team": "FC Nantes",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2021-11-20",
           "time": "21:00",
           "home_team": "Stade Rennais",
-          "away_team": "Montpellier HSC"
+          "away_team": "Montpellier HSC",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2021-11-21",
           "time": "13:00",
           "home_team": "Stade Brestois 29",
-          "away_team": "RC Lens"
+          "away_team": "RC Lens",
+          "result": {
+            "full_time": "4-0"
+          }
         },
         {
           "date": "2021-11-21",
           "time": "15:00",
           "home_team": "ESTAC Troyes",
-          "away_team": "AS Saint-Étienne"
+          "away_team": "AS Saint-Étienne",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2021-11-21",
           "time": "15:00",
           "home_team": "FC Metz",
-          "away_team": "Girondins Bordeaux"
+          "away_team": "Girondins Bordeaux",
+          "result": {
+            "full_time": "3-3"
+          }
         },
         {
           "date": "2021-11-21",
           "time": "15:00",
           "home_team": "RC Strasbourg",
-          "away_team": "Stade de Reims"
+          "away_team": "Stade de Reims",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2021-11-21",
           "time": "15:00",
           "home_team": "Angers SCO",
-          "away_team": "FC Lorient"
+          "away_team": "FC Lorient",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2021-11-21",
           "time": "17:00",
           "home_team": "Clermont Foot 63",
-          "away_team": "OGC Nice"
+          "away_team": "OGC Nice",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2022-02-01",
           "time": "21:00",
           "home_team": "Olympique Lyonnais",
-          "away_team": "Olympique Marseille"
+          "away_team": "Olympique Marseille",
+          "result": {
+            "full_time": "2-1"
+          }
         }
       ]
     },
@@ -919,61 +1339,91 @@
           "date": "2021-11-26",
           "time": "21:00",
           "home_team": "RC Lens",
-          "away_team": "Angers SCO"
+          "away_team": "Angers SCO",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2021-11-27",
           "time": "17:00",
           "home_team": "Lille OSC",
-          "away_team": "FC Nantes"
+          "away_team": "FC Nantes",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2021-11-27",
           "time": "21:00",
           "home_team": "OGC Nice",
-          "away_team": "FC Metz"
+          "away_team": "FC Metz",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2021-11-28",
           "time": "13:00",
           "home_team": "AS Saint-Étienne",
-          "away_team": "Paris Saint-Germain"
+          "away_team": "Paris Saint-Germain",
+          "result": {
+            "full_time": "1-3"
+          }
         },
         {
           "date": "2021-11-28",
           "time": "15:00",
           "home_team": "AS Monaco",
-          "away_team": "RC Strasbourg"
+          "away_team": "RC Strasbourg",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2021-11-28",
           "time": "15:00",
           "home_team": "FC Lorient",
-          "away_team": "Stade Rennais"
+          "away_team": "Stade Rennais",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2021-11-28",
           "time": "15:00",
           "home_team": "Girondins Bordeaux",
-          "away_team": "Stade Brestois 29"
+          "away_team": "Stade Brestois 29",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2021-11-28",
           "time": "15:00",
           "home_team": "Stade de Reims",
-          "away_team": "Clermont Foot 63"
+          "away_team": "Clermont Foot 63",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2021-11-28",
           "time": "17:00",
           "home_team": "Montpellier HSC",
-          "away_team": "Olympique Lyonnais"
+          "away_team": "Olympique Lyonnais",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2021-11-28",
           "time": "20:45",
           "home_team": "Olympique Marseille",
-          "away_team": "ESTAC Troyes"
+          "away_team": "ESTAC Troyes",
+          "result": {
+            "full_time": "1-0"
+          }
         }
       ]
     },
@@ -984,61 +1434,91 @@
           "date": "2021-12-01",
           "time": "19:00",
           "home_team": "ESTAC Troyes",
-          "away_team": "FC Lorient"
+          "away_team": "FC Lorient",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2021-12-01",
           "time": "19:00",
           "home_team": "FC Metz",
-          "away_team": "Montpellier HSC"
+          "away_team": "Montpellier HSC",
+          "result": {
+            "full_time": "1-3"
+          }
         },
         {
           "date": "2021-12-01",
           "time": "19:00",
           "home_team": "RC Strasbourg",
-          "away_team": "Girondins Bordeaux"
+          "away_team": "Girondins Bordeaux",
+          "result": {
+            "full_time": "5-2"
+          }
         },
         {
           "date": "2021-12-01",
           "time": "19:00",
           "home_team": "Angers SCO",
-          "away_team": "AS Monaco"
+          "away_team": "AS Monaco",
+          "result": {
+            "full_time": "1-3"
+          }
         },
         {
           "date": "2021-12-01",
           "time": "19:00",
           "home_team": "Stade Brestois 29",
-          "away_team": "AS Saint-Étienne"
+          "away_team": "AS Saint-Étienne",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2021-12-01",
           "time": "21:00",
           "home_team": "Clermont Foot 63",
-          "away_team": "RC Lens"
+          "away_team": "RC Lens",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2021-12-01",
           "time": "21:00",
           "home_team": "FC Nantes",
-          "away_team": "Olympique Marseille"
+          "away_team": "Olympique Marseille",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2021-12-01",
           "time": "21:00",
           "home_team": "Olympique Lyonnais",
-          "away_team": "Stade de Reims"
+          "away_team": "Stade de Reims",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2021-12-01",
           "time": "21:00",
           "home_team": "Paris Saint-Germain",
-          "away_team": "OGC Nice"
+          "away_team": "OGC Nice",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2021-12-01",
           "time": "21:00",
           "home_team": "Stade Rennais",
-          "away_team": "Lille OSC"
+          "away_team": "Lille OSC",
+          "result": {
+            "full_time": "1-2"
+          }
         }
       ]
     },
@@ -1049,61 +1529,91 @@
           "date": "2021-12-04",
           "time": "17:00",
           "home_team": "Olympique Marseille",
-          "away_team": "Stade Brestois 29"
+          "away_team": "Stade Brestois 29",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2021-12-04",
           "time": "19:00",
           "home_team": "Lille OSC",
-          "away_team": "ESTAC Troyes"
+          "away_team": "ESTAC Troyes",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2021-12-04",
           "time": "21:00",
           "home_team": "RC Lens",
-          "away_team": "Paris Saint-Germain"
+          "away_team": "Paris Saint-Germain",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2021-12-05",
           "time": "13:00",
           "home_team": "AS Saint-Étienne",
-          "away_team": "Stade Rennais"
+          "away_team": "Stade Rennais",
+          "result": {
+            "full_time": "0-5"
+          }
         },
         {
           "date": "2021-12-05",
           "time": "15:00",
           "home_team": "AS Monaco",
-          "away_team": "FC Metz"
+          "away_team": "FC Metz",
+          "result": {
+            "full_time": "4-0"
+          }
         },
         {
           "date": "2021-12-05",
           "time": "15:00",
           "home_team": "FC Lorient",
-          "away_team": "FC Nantes"
+          "away_team": "FC Nantes",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2021-12-05",
           "time": "15:00",
           "home_team": "Montpellier HSC",
-          "away_team": "Clermont Foot 63"
+          "away_team": "Clermont Foot 63",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2021-12-05",
           "time": "15:00",
           "home_team": "Stade de Reims",
-          "away_team": "Angers SCO"
+          "away_team": "Angers SCO",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2021-12-05",
           "time": "17:00",
           "home_team": "OGC Nice",
-          "away_team": "RC Strasbourg"
+          "away_team": "RC Strasbourg",
+          "result": {
+            "full_time": "0-3"
+          }
         },
         {
           "date": "2021-12-05",
           "time": "20:45",
           "home_team": "Girondins Bordeaux",
-          "away_team": "Olympique Lyonnais"
+          "away_team": "Olympique Lyonnais",
+          "result": {
+            "full_time": "2-2"
+          }
         }
       ]
     },
@@ -1114,61 +1624,91 @@
           "date": "2021-12-10",
           "time": "21:00",
           "home_team": "FC Nantes",
-          "away_team": "RC Lens"
+          "away_team": "RC Lens",
+          "result": {
+            "full_time": "3-2"
+          }
         },
         {
           "date": "2021-12-11",
           "time": "17:00",
           "home_team": "Stade Brestois 29",
-          "away_team": "Montpellier HSC"
+          "away_team": "Montpellier HSC",
+          "result": {
+            "full_time": "0-4"
+          }
         },
         {
           "date": "2021-12-11",
           "time": "21:00",
           "home_team": "Stade de Reims",
-          "away_team": "AS Saint-Étienne"
+          "away_team": "AS Saint-Étienne",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2021-12-12",
           "time": "13:00",
           "home_team": "Lille OSC",
-          "away_team": "Olympique Lyonnais"
+          "away_team": "Olympique Lyonnais",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2021-12-12",
           "time": "15:00",
           "home_team": "ESTAC Troyes",
-          "away_team": "Girondins Bordeaux"
+          "away_team": "Girondins Bordeaux",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2021-12-12",
           "time": "15:00",
           "home_team": "FC Metz",
-          "away_team": "FC Lorient"
+          "away_team": "FC Lorient",
+          "result": {
+            "full_time": "4-1"
+          }
         },
         {
           "date": "2021-12-12",
           "time": "15:00",
           "home_team": "Angers SCO",
-          "away_team": "Clermont Foot 63"
+          "away_team": "Clermont Foot 63",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2021-12-12",
           "time": "15:00",
           "home_team": "Stade Rennais",
-          "away_team": "OGC Nice"
+          "away_team": "OGC Nice",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2021-12-12",
           "time": "17:00",
           "home_team": "RC Strasbourg",
-          "away_team": "Olympique Marseille"
+          "away_team": "Olympique Marseille",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2021-12-12",
           "time": "20:45",
           "home_team": "Paris Saint-Germain",
-          "away_team": "AS Monaco"
+          "away_team": "AS Monaco",
+          "result": {
+            "full_time": "2-0"
+          }
         }
       ]
     },
@@ -1179,61 +1719,91 @@
           "date": "2021-12-22",
           "time": "21:00",
           "home_team": "AS Monaco",
-          "away_team": "Stade Rennais"
+          "away_team": "Stade Rennais",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2021-12-22",
           "time": "21:00",
           "home_team": "AS Saint-Étienne",
-          "away_team": "FC Nantes"
+          "away_team": "FC Nantes",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2021-12-22",
           "time": "21:00",
           "home_team": "ESTAC Troyes",
-          "away_team": "Stade Brestois 29"
+          "away_team": "Stade Brestois 29",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2021-12-22",
           "time": "21:00",
           "home_team": "FC Lorient",
-          "away_team": "Paris Saint-Germain"
+          "away_team": "Paris Saint-Germain",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2021-12-22",
           "time": "21:00",
           "home_team": "Girondins Bordeaux",
-          "away_team": "Lille OSC"
+          "away_team": "Lille OSC",
+          "result": {
+            "full_time": "2-3"
+          }
         },
         {
           "date": "2021-12-22",
           "time": "21:00",
           "home_team": "Montpellier HSC",
-          "away_team": "Angers SCO"
+          "away_team": "Angers SCO",
+          "result": {
+            "full_time": "4-1"
+          }
         },
         {
           "date": "2021-12-22",
           "time": "21:00",
           "home_team": "OGC Nice",
-          "away_team": "RC Lens"
+          "away_team": "RC Lens",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2021-12-22",
           "time": "21:00",
           "home_team": "Olympique Lyonnais",
-          "away_team": "FC Metz"
+          "away_team": "FC Metz",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2021-12-22",
           "time": "21:00",
           "home_team": "Olympique Marseille",
-          "away_team": "Stade de Reims"
+          "away_team": "Stade de Reims",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2022-01-19",
           "time": "19:00",
           "home_team": "Clermont Foot 63",
-          "away_team": "RC Strasbourg"
+          "away_team": "RC Strasbourg",
+          "result": {
+            "full_time": "0-2"
+          }
         }
       ]
     },
@@ -1244,61 +1814,91 @@
           "date": "2022-01-07",
           "time": "21:00",
           "home_team": "Girondins Bordeaux",
-          "away_team": "Olympique Marseille"
+          "away_team": "Olympique Marseille",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2022-01-08",
           "time": "21:00",
           "home_team": "RC Lens",
-          "away_team": "Stade Rennais"
+          "away_team": "Stade Rennais",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2022-01-09",
           "time": "13:00",
           "home_team": "Stade Brestois 29",
-          "away_team": "OGC Nice"
+          "away_team": "OGC Nice",
+          "result": {
+            "full_time": "0-3"
+          }
         },
         {
           "date": "2022-01-09",
           "time": "15:00",
           "home_team": "Clermont Foot 63",
-          "away_team": "Stade de Reims"
+          "away_team": "Stade de Reims",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2022-01-09",
           "time": "15:00",
           "home_team": "FC Metz",
-          "away_team": "RC Strasbourg"
+          "away_team": "RC Strasbourg",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2022-01-09",
           "time": "17:00",
           "home_team": "FC Nantes",
-          "away_team": "AS Monaco"
+          "away_team": "AS Monaco",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2022-01-09",
           "time": "20:45",
           "home_team": "Olympique Lyonnais",
-          "away_team": "Paris Saint-Germain"
+          "away_team": "Paris Saint-Germain",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2022-01-19",
           "time": "19:00",
           "home_team": "Montpellier HSC",
-          "away_team": "ESTAC Troyes"
+          "away_team": "ESTAC Troyes",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2022-01-19",
           "time": "19:00",
           "home_team": "Lille OSC",
-          "away_team": "FC Lorient"
+          "away_team": "FC Lorient",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2022-01-26",
           "time": "19:00",
           "home_team": "Angers SCO",
-          "away_team": "AS Saint-Étienne"
+          "away_team": "AS Saint-Étienne",
+          "result": {
+            "full_time": "0-1"
+          }
         }
       ]
     },
@@ -1309,61 +1909,91 @@
           "date": "2022-01-14",
           "time": "21:00",
           "home_team": "OGC Nice",
-          "away_team": "FC Nantes"
+          "away_team": "FC Nantes",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2022-01-15",
           "time": "17:00",
           "home_team": "AS Saint-Étienne",
-          "away_team": "RC Lens"
+          "away_team": "RC Lens",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2022-01-15",
           "time": "21:00",
           "home_team": "Paris Saint-Germain",
-          "away_team": "Stade Brestois 29"
+          "away_team": "Stade Brestois 29",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2022-01-16",
           "time": "13:00",
           "home_team": "Stade Rennais",
-          "away_team": "Girondins Bordeaux"
+          "away_team": "Girondins Bordeaux",
+          "result": {
+            "full_time": "6-0"
+          }
         },
         {
           "date": "2022-01-16",
           "time": "15:00",
           "home_team": "AS Monaco",
-          "away_team": "Clermont Foot 63"
+          "away_team": "Clermont Foot 63",
+          "result": {
+            "full_time": "4-0"
+          }
         },
         {
           "date": "2022-01-16",
           "time": "15:00",
           "home_team": "FC Lorient",
-          "away_team": "Angers SCO"
+          "away_team": "Angers SCO",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2022-01-16",
           "time": "15:00",
           "home_team": "RC Strasbourg",
-          "away_team": "Montpellier HSC"
+          "away_team": "Montpellier HSC",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2022-01-16",
           "time": "15:00",
           "home_team": "Stade de Reims",
-          "away_team": "FC Metz"
+          "away_team": "FC Metz",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2022-01-16",
           "time": "17:05",
           "home_team": "ESTAC Troyes",
-          "away_team": "Olympique Lyonnais"
+          "away_team": "Olympique Lyonnais",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2022-01-16",
           "time": "20:45",
           "home_team": "Olympique Marseille",
-          "away_team": "Lille OSC"
+          "away_team": "Lille OSC",
+          "result": {
+            "full_time": "1-1"
+          }
         }
       ]
     },
@@ -1374,61 +2004,91 @@
           "date": "2022-01-21",
           "time": "21:00",
           "home_team": "Olympique Lyonnais",
-          "away_team": "AS Saint-Étienne"
+          "away_team": "AS Saint-Étienne",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2022-01-22",
           "time": "17:00",
           "home_team": "Stade Brestois 29",
-          "away_team": "Lille OSC"
+          "away_team": "Lille OSC",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2022-01-22",
           "time": "21:00",
           "home_team": "RC Lens",
-          "away_team": "Olympique Marseille"
+          "away_team": "Olympique Marseille",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2022-01-23",
           "time": "13:00",
           "home_team": "FC Metz",
-          "away_team": "OGC Nice"
+          "away_team": "OGC Nice",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2022-01-23",
           "time": "15:00",
           "home_team": "Clermont Foot 63",
-          "away_team": "Stade Rennais"
+          "away_team": "Stade Rennais",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2022-01-23",
           "time": "15:00",
           "home_team": "FC Nantes",
-          "away_team": "FC Lorient"
+          "away_team": "FC Lorient",
+          "result": {
+            "full_time": "4-2"
+          }
         },
         {
           "date": "2022-01-23",
           "time": "15:00",
           "home_team": "Girondins Bordeaux",
-          "away_team": "RC Strasbourg"
+          "away_team": "RC Strasbourg",
+          "result": {
+            "full_time": "4-3"
+          }
         },
         {
           "date": "2022-01-23",
           "time": "15:00",
           "home_team": "Angers SCO",
-          "away_team": "ESTAC Troyes"
+          "away_team": "ESTAC Troyes",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2022-01-23",
           "time": "17:05",
           "home_team": "Montpellier HSC",
-          "away_team": "AS Monaco"
+          "away_team": "AS Monaco",
+          "result": {
+            "full_time": "3-2"
+          }
         },
         {
           "date": "2022-01-23",
           "time": "20:45",
           "home_team": "Paris Saint-Germain",
-          "away_team": "Stade de Reims"
+          "away_team": "Stade de Reims",
+          "result": {
+            "full_time": "4-0"
+          }
         }
       ]
     },
@@ -1439,61 +2099,91 @@
           "date": "2022-02-04",
           "time": "21:00",
           "home_team": "Olympique Marseille",
-          "away_team": "Angers SCO"
+          "away_team": "Angers SCO",
+          "result": {
+            "full_time": "5-2"
+          }
         },
         {
           "date": "2022-02-05",
           "time": "17:00",
           "home_team": "AS Saint-Étienne",
-          "away_team": "Montpellier HSC"
+          "away_team": "Montpellier HSC",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2022-02-05",
           "time": "21:00",
           "home_team": "AS Monaco",
-          "away_team": "Olympique Lyonnais"
+          "away_team": "Olympique Lyonnais",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2022-02-06",
           "time": "13:00",
           "home_team": "FC Lorient",
-          "away_team": "RC Lens"
+          "away_team": "RC Lens",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2022-02-06",
           "time": "15:00",
           "home_team": "ESTAC Troyes",
-          "away_team": "FC Metz"
+          "away_team": "FC Metz",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2022-02-06",
           "time": "15:00",
           "home_team": "OGC Nice",
-          "away_team": "Clermont Foot 63"
+          "away_team": "Clermont Foot 63",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2022-02-06",
           "time": "15:00",
           "home_team": "RC Strasbourg",
-          "away_team": "FC Nantes"
+          "away_team": "FC Nantes",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2022-02-06",
           "time": "15:00",
           "home_team": "Stade de Reims",
-          "away_team": "Girondins Bordeaux"
+          "away_team": "Girondins Bordeaux",
+          "result": {
+            "full_time": "5-0"
+          }
         },
         {
           "date": "2022-02-06",
           "time": "17:00",
           "home_team": "Stade Rennais",
-          "away_team": "Stade Brestois 29"
+          "away_team": "Stade Brestois 29",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2022-02-06",
           "time": "20:45",
           "home_team": "Lille OSC",
-          "away_team": "Paris Saint-Germain"
+          "away_team": "Paris Saint-Germain",
+          "result": {
+            "full_time": "1-5"
+          }
         }
       ]
     },
@@ -1504,61 +2194,91 @@
           "date": "2022-02-11",
           "time": "21:00",
           "home_team": "Paris Saint-Germain",
-          "away_team": "Stade Rennais"
+          "away_team": "Stade Rennais",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2022-02-12",
           "time": "17:00",
           "home_team": "Montpellier HSC",
-          "away_team": "Lille OSC"
+          "away_team": "Lille OSC",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2022-02-12",
           "time": "21:00",
           "home_team": "Olympique Lyonnais",
-          "away_team": "OGC Nice"
+          "away_team": "OGC Nice",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2022-02-13",
           "time": "13:00",
           "home_team": "AS Monaco",
-          "away_team": "FC Lorient"
+          "away_team": "FC Lorient",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2022-02-13",
           "time": "15:00",
           "home_team": "Clermont Foot 63",
-          "away_team": "AS Saint-Étienne"
+          "away_team": "AS Saint-Étienne",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2022-02-13",
           "time": "15:00",
           "home_team": "FC Nantes",
-          "away_team": "Stade de Reims"
+          "away_team": "Stade de Reims",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2022-02-13",
           "time": "15:00",
           "home_team": "Angers SCO",
-          "away_team": "RC Strasbourg"
+          "away_team": "RC Strasbourg",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2022-02-13",
           "time": "15:00",
           "home_team": "Stade Brestois 29",
-          "away_team": "ESTAC Troyes"
+          "away_team": "ESTAC Troyes",
+          "result": {
+            "full_time": "5-1"
+          }
         },
         {
           "date": "2022-02-13",
           "time": "17:05",
           "home_team": "RC Lens",
-          "away_team": "Girondins Bordeaux"
+          "away_team": "Girondins Bordeaux",
+          "result": {
+            "full_time": "3-2"
+          }
         },
         {
           "date": "2022-02-13",
           "time": "20:45",
           "home_team": "FC Metz",
-          "away_team": "Olympique Marseille"
+          "away_team": "Olympique Marseille",
+          "result": {
+            "full_time": "1-2"
+          }
         }
       ]
     },
@@ -1569,61 +2289,91 @@
           "date": "2022-02-18",
           "time": "21:00",
           "home_team": "Lille OSC",
-          "away_team": "FC Metz"
+          "away_team": "FC Metz",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2022-02-19",
           "time": "17:00",
           "home_team": "RC Lens",
-          "away_team": "Olympique Lyonnais"
+          "away_team": "Olympique Lyonnais",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2022-02-19",
           "time": "21:00",
           "home_team": "FC Nantes",
-          "away_team": "Paris Saint-Germain"
+          "away_team": "Paris Saint-Germain",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2022-02-20",
           "time": "13:00",
           "home_team": "OGC Nice",
-          "away_team": "Angers SCO"
+          "away_team": "Angers SCO",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2022-02-20",
           "time": "15:00",
           "home_team": "AS Saint-Étienne",
-          "away_team": "RC Strasbourg"
+          "away_team": "RC Strasbourg",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2022-02-20",
           "time": "15:00",
           "home_team": "FC Lorient",
-          "away_team": "Montpellier HSC"
+          "away_team": "Montpellier HSC",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2022-02-20",
           "time": "15:00",
           "home_team": "Stade de Reims",
-          "away_team": "Stade Brestois 29"
+          "away_team": "Stade Brestois 29",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2022-02-20",
           "time": "15:00",
           "home_team": "Stade Rennais",
-          "away_team": "ESTAC Troyes"
+          "away_team": "ESTAC Troyes",
+          "result": {
+            "full_time": "4-1"
+          }
         },
         {
           "date": "2022-02-20",
           "time": "17:05",
           "home_team": "Girondins Bordeaux",
-          "away_team": "AS Monaco"
+          "away_team": "AS Monaco",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2022-02-20",
           "time": "20:45",
           "home_team": "Olympique Marseille",
-          "away_team": "Clermont Foot 63"
+          "away_team": "Clermont Foot 63",
+          "result": {
+            "full_time": "0-2"
+          }
         }
       ]
     },
@@ -1634,61 +2384,91 @@
           "date": "2022-02-25",
           "time": "21:00",
           "home_team": "Montpellier HSC",
-          "away_team": "Stade Rennais"
+          "away_team": "Stade Rennais",
+          "result": {
+            "full_time": "2-4"
+          }
         },
         {
           "date": "2022-02-26",
           "time": "17:00",
           "home_team": "RC Strasbourg",
-          "away_team": "OGC Nice"
+          "away_team": "OGC Nice",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2022-02-26",
           "time": "21:00",
           "home_team": "Paris Saint-Germain",
-          "away_team": "AS Saint-Étienne"
+          "away_team": "AS Saint-Étienne",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2022-02-27",
           "time": "13:00",
           "home_team": "AS Monaco",
-          "away_team": "Stade de Reims"
+          "away_team": "Stade de Reims",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2022-02-27",
           "time": "15:00",
           "home_team": "Clermont Foot 63",
-          "away_team": "Girondins Bordeaux"
+          "away_team": "Girondins Bordeaux",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2022-02-27",
           "time": "15:00",
           "home_team": "FC Metz",
-          "away_team": "FC Nantes"
+          "away_team": "FC Nantes",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2022-02-27",
           "time": "15:00",
           "home_team": "Angers SCO",
-          "away_team": "RC Lens"
+          "away_team": "RC Lens",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2022-02-27",
           "time": "15:00",
           "home_team": "Stade Brestois 29",
-          "away_team": "FC Lorient"
+          "away_team": "FC Lorient",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2022-02-27",
           "time": "17:05",
           "home_team": "ESTAC Troyes",
-          "away_team": "Olympique Marseille"
+          "away_team": "Olympique Marseille",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2022-02-27",
           "time": "20:45",
           "home_team": "Olympique Lyonnais",
-          "away_team": "Lille OSC"
+          "away_team": "Lille OSC",
+          "result": {
+            "full_time": "0-1"
+          }
         }
       ]
     },
@@ -1699,61 +2479,91 @@
           "date": "2022-03-04",
           "time": "21:00",
           "home_team": "FC Lorient",
-          "away_team": "Olympique Lyonnais"
+          "away_team": "Olympique Lyonnais",
+          "result": {
+            "full_time": "1-4"
+          }
         },
         {
           "date": "2022-03-05",
           "time": "17:00",
           "home_team": "RC Lens",
-          "away_team": "Stade Brestois 29"
+          "away_team": "Stade Brestois 29",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2022-03-05",
           "time": "21:00",
           "home_team": "OGC Nice",
-          "away_team": "Paris Saint-Germain"
+          "away_team": "Paris Saint-Germain",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2022-03-06",
           "time": "13:00",
           "home_team": "AS Saint-Étienne",
-          "away_team": "FC Metz"
+          "away_team": "FC Metz",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2022-03-06",
           "time": "15:00",
           "home_team": "FC Nantes",
-          "away_team": "Montpellier HSC"
+          "away_team": "Montpellier HSC",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2022-03-06",
           "time": "15:00",
           "home_team": "Girondins Bordeaux",
-          "away_team": "ESTAC Troyes"
+          "away_team": "ESTAC Troyes",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2022-03-06",
           "time": "15:00",
           "home_team": "Stade de Reims",
-          "away_team": "RC Strasbourg"
+          "away_team": "RC Strasbourg",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2022-03-06",
           "time": "15:00",
           "home_team": "Stade Rennais",
-          "away_team": "Angers SCO"
+          "away_team": "Angers SCO",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2022-03-06",
           "time": "17:05",
           "home_team": "Lille OSC",
-          "away_team": "Clermont Foot 63"
+          "away_team": "Clermont Foot 63",
+          "result": {
+            "full_time": "4-0"
+          }
         },
         {
           "date": "2022-03-06",
           "time": "20:45",
           "home_team": "Olympique Marseille",
-          "away_team": "AS Monaco"
+          "away_team": "AS Monaco",
+          "result": {
+            "full_time": "0-1"
+          }
         }
       ]
     },
@@ -1764,61 +2574,91 @@
           "date": "2022-03-11",
           "time": "21:00",
           "home_team": "Lille OSC",
-          "away_team": "AS Saint-Étienne"
+          "away_team": "AS Saint-Étienne",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2022-03-12",
           "time": "17:00",
           "home_team": "Montpellier HSC",
-          "away_team": "OGC Nice"
+          "away_team": "OGC Nice",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2022-03-12",
           "time": "21:00",
           "home_team": "ESTAC Troyes",
-          "away_team": "FC Nantes"
+          "away_team": "FC Nantes",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2022-03-13",
           "time": "13:00",
           "home_team": "Paris Saint-Germain",
-          "away_team": "Girondins Bordeaux"
+          "away_team": "Girondins Bordeaux",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2022-03-13",
           "time": "15:00",
           "home_team": "Clermont Foot 63",
-          "away_team": "FC Lorient"
+          "away_team": "FC Lorient",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2022-03-13",
           "time": "15:00",
           "home_team": "FC Metz",
-          "away_team": "RC Lens"
+          "away_team": "RC Lens",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2022-03-13",
           "time": "15:00",
           "home_team": "RC Strasbourg",
-          "away_team": "AS Monaco"
+          "away_team": "AS Monaco",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2022-03-13",
           "time": "15:00",
           "home_team": "Angers SCO",
-          "away_team": "Stade de Reims"
+          "away_team": "Stade de Reims",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2022-03-13",
           "time": "17:05",
           "home_team": "Olympique Lyonnais",
-          "away_team": "Stade Rennais"
+          "away_team": "Stade Rennais",
+          "result": {
+            "full_time": "2-4"
+          }
         },
         {
           "date": "2022-03-13",
           "time": "20:45",
           "home_team": "Stade Brestois 29",
-          "away_team": "Olympique Marseille"
+          "away_team": "Olympique Marseille",
+          "result": {
+            "full_time": "1-4"
+          }
         }
       ]
     },
@@ -1829,61 +2669,91 @@
           "date": "2022-03-18",
           "time": "21:00",
           "home_team": "AS Saint-Étienne",
-          "away_team": "ESTAC Troyes"
+          "away_team": "ESTAC Troyes",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2022-03-19",
           "time": "17:00",
           "home_team": "RC Lens",
-          "away_team": "Clermont Foot 63"
+          "away_team": "Clermont Foot 63",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2022-03-19",
           "time": "21:00",
           "home_team": "FC Nantes",
-          "away_team": "Lille OSC"
+          "away_team": "Lille OSC",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2022-03-20",
           "time": "13:00",
           "home_team": "AS Monaco",
-          "away_team": "Paris Saint-Germain"
+          "away_team": "Paris Saint-Germain",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2022-03-20",
           "time": "15:00",
           "home_team": "FC Lorient",
-          "away_team": "RC Strasbourg"
+          "away_team": "RC Strasbourg",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2022-03-20",
           "time": "15:00",
           "home_team": "Girondins Bordeaux",
-          "away_team": "Montpellier HSC"
+          "away_team": "Montpellier HSC",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2022-03-20",
           "time": "15:00",
           "home_team": "Angers SCO",
-          "away_team": "Stade Brestois 29"
+          "away_team": "Stade Brestois 29",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2022-03-20",
           "time": "15:00",
           "home_team": "Stade Rennais",
-          "away_team": "FC Metz"
+          "away_team": "FC Metz",
+          "result": {
+            "full_time": "6-1"
+          }
         },
         {
           "date": "2022-03-20",
           "time": "17:05",
           "home_team": "Stade de Reims",
-          "away_team": "Olympique Lyonnais"
+          "away_team": "Olympique Lyonnais",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2022-03-20",
           "time": "20:45",
           "home_team": "Olympique Marseille",
-          "away_team": "OGC Nice"
+          "away_team": "OGC Nice",
+          "result": {
+            "full_time": "2-1"
+          }
         }
       ]
     },
@@ -1894,61 +2764,91 @@
           "date": "2022-04-02",
           "time": "17:00",
           "home_team": "OGC Nice",
-          "away_team": "Stade Rennais"
+          "away_team": "Stade Rennais",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2022-04-02",
           "time": "19:00",
           "home_team": "Lille OSC",
-          "away_team": "Girondins Bordeaux"
+          "away_team": "Girondins Bordeaux",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2022-04-03",
           "time": "13:00",
           "home_team": "RC Strasbourg",
-          "away_team": "RC Lens"
+          "away_team": "RC Lens",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2022-04-03",
           "time": "15:00",
           "home_team": "AS Saint-Étienne",
-          "away_team": "Olympique Marseille"
+          "away_team": "Olympique Marseille",
+          "result": {
+            "full_time": "2-4"
+          }
         },
         {
           "date": "2022-04-03",
           "time": "15:00",
           "home_team": "Clermont Foot 63",
-          "away_team": "FC Nantes"
+          "away_team": "FC Nantes",
+          "result": {
+            "full_time": "2-3"
+          }
         },
         {
           "date": "2022-04-03",
           "time": "15:00",
           "home_team": "ESTAC Troyes",
-          "away_team": "Stade de Reims"
+          "away_team": "Stade de Reims",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2022-04-03",
           "time": "15:00",
           "home_team": "FC Metz",
-          "away_team": "AS Monaco"
+          "away_team": "AS Monaco",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2022-04-03",
           "time": "15:00",
           "home_team": "Montpellier HSC",
-          "away_team": "Stade Brestois 29"
+          "away_team": "Stade Brestois 29",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2022-04-03",
           "time": "17:05",
           "home_team": "Olympique Lyonnais",
-          "away_team": "Angers SCO"
+          "away_team": "Angers SCO",
+          "result": {
+            "full_time": "3-2"
+          }
         },
         {
           "date": "2022-04-03",
           "time": "20:45",
           "home_team": "Paris Saint-Germain",
-          "away_team": "FC Lorient"
+          "away_team": "FC Lorient",
+          "result": {
+            "full_time": "5-1"
+          }
         }
       ]
     },
@@ -1959,61 +2859,91 @@
           "date": "2022-04-08",
           "time": "21:00",
           "home_team": "FC Lorient",
-          "away_team": "AS Saint-Étienne"
+          "away_team": "AS Saint-Étienne",
+          "result": {
+            "full_time": "6-2"
+          }
         },
         {
           "date": "2022-04-09",
           "time": "17:00",
           "home_team": "Stade de Reims",
-          "away_team": "Stade Rennais"
+          "away_team": "Stade Rennais",
+          "result": {
+            "full_time": "2-3"
+          }
         },
         {
           "date": "2022-04-09",
           "time": "21:00",
           "home_team": "Clermont Foot 63",
-          "away_team": "Paris Saint-Germain"
+          "away_team": "Paris Saint-Germain",
+          "result": {
+            "full_time": "1-6"
+          }
         },
         {
           "date": "2022-04-10",
           "time": "13:00",
           "home_team": "Girondins Bordeaux",
-          "away_team": "FC Metz"
+          "away_team": "FC Metz",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2022-04-10",
           "time": "15:00",
           "home_team": "AS Monaco",
-          "away_team": "ESTAC Troyes"
+          "away_team": "ESTAC Troyes",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2022-04-10",
           "time": "15:00",
           "home_team": "Angers SCO",
-          "away_team": "Lille OSC"
+          "away_team": "Lille OSC",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2022-04-10",
           "time": "15:00",
           "home_team": "Stade Brestois 29",
-          "away_team": "FC Nantes"
+          "away_team": "FC Nantes",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2022-04-10",
           "time": "17:05",
           "home_team": "RC Lens",
-          "away_team": "OGC Nice"
+          "away_team": "OGC Nice",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2022-04-10",
           "time": "19:00",
           "home_team": "RC Strasbourg",
-          "away_team": "Olympique Lyonnais"
+          "away_team": "Olympique Lyonnais",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2022-04-10",
           "time": "21:00",
           "home_team": "Olympique Marseille",
-          "away_team": "Montpellier HSC"
+          "away_team": "Montpellier HSC",
+          "result": {
+            "full_time": "2-0"
+          }
         }
       ]
     },
@@ -2024,61 +2954,91 @@
           "date": "2022-04-15",
           "time": "21:00",
           "home_team": "Stade Rennais",
-          "away_team": "AS Monaco"
+          "away_team": "AS Monaco",
+          "result": {
+            "full_time": "2-3"
+          }
         },
         {
           "date": "2022-04-16",
           "time": "17:00",
           "home_team": "AS Saint-Étienne",
-          "away_team": "Stade Brestois 29"
+          "away_team": "Stade Brestois 29",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2022-04-16",
           "time": "21:00",
           "home_team": "Lille OSC",
-          "away_team": "RC Lens"
+          "away_team": "RC Lens",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2022-04-17",
           "time": "13:00",
           "home_team": "OGC Nice",
-          "away_team": "FC Lorient"
+          "away_team": "FC Lorient",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2022-04-17",
           "time": "15:00",
           "home_team": "ESTAC Troyes",
-          "away_team": "RC Strasbourg"
+          "away_team": "RC Strasbourg",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2022-04-17",
           "time": "15:00",
           "home_team": "FC Metz",
-          "away_team": "Clermont Foot 63"
+          "away_team": "Clermont Foot 63",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2022-04-17",
           "time": "15:00",
           "home_team": "FC Nantes",
-          "away_team": "Angers SCO"
+          "away_team": "Angers SCO",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2022-04-17",
           "time": "15:00",
           "home_team": "Montpellier HSC",
-          "away_team": "Stade de Reims"
+          "away_team": "Stade de Reims",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2022-04-17",
           "time": "17:05",
           "home_team": "Olympique Lyonnais",
-          "away_team": "Girondins Bordeaux"
+          "away_team": "Girondins Bordeaux",
+          "result": {
+            "full_time": "6-1"
+          }
         },
         {
           "date": "2022-04-17",
           "time": "20:45",
           "home_team": "Paris Saint-Germain",
-          "away_team": "Olympique Marseille"
+          "away_team": "Olympique Marseille",
+          "result": {
+            "full_time": "2-1"
+          }
         }
       ]
     },
@@ -2089,61 +3049,91 @@
           "date": "2022-04-20",
           "time": "19:00",
           "home_team": "AS Monaco",
-          "away_team": "OGC Nice"
+          "away_team": "OGC Nice",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2022-04-20",
           "time": "19:00",
           "home_team": "ESTAC Troyes",
-          "away_team": "Clermont Foot 63"
+          "away_team": "Clermont Foot 63",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2022-04-20",
           "time": "19:00",
           "home_team": "FC Lorient",
-          "away_team": "FC Metz"
+          "away_team": "FC Metz",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2022-04-20",
           "time": "19:00",
           "home_team": "Girondins Bordeaux",
-          "away_team": "AS Saint-Étienne"
+          "away_team": "AS Saint-Étienne",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2022-04-20",
           "time": "19:00",
           "home_team": "Stade de Reims",
-          "away_team": "Lille OSC"
+          "away_team": "Lille OSC",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2022-04-20",
           "time": "21:00",
           "home_team": "Olympique Marseille",
-          "away_team": "FC Nantes"
+          "away_team": "FC Nantes",
+          "result": {
+            "full_time": "3-2"
+          }
         },
         {
           "date": "2022-04-20",
           "time": "21:00",
           "home_team": "RC Strasbourg",
-          "away_team": "Stade Rennais"
+          "away_team": "Stade Rennais",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2022-04-20",
           "time": "21:00",
           "home_team": "RC Lens",
-          "away_team": "Montpellier HSC"
+          "away_team": "Montpellier HSC",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2022-04-20",
           "time": "21:00",
           "home_team": "Angers SCO",
-          "away_team": "Paris Saint-Germain"
+          "away_team": "Paris Saint-Germain",
+          "result": {
+            "full_time": "0-3"
+          }
         },
         {
           "date": "2022-04-20",
           "time": "21:00",
           "home_team": "Stade Brestois 29",
-          "away_team": "Olympique Lyonnais"
+          "away_team": "Olympique Lyonnais",
+          "result": {
+            "full_time": "2-1"
+          }
         }
       ]
     },
@@ -2154,61 +3144,91 @@
           "date": "2022-04-23",
           "time": "17:00",
           "home_team": "Olympique Lyonnais",
-          "away_team": "Montpellier HSC"
+          "away_team": "Montpellier HSC",
+          "result": {
+            "full_time": "5-2"
+          }
         },
         {
           "date": "2022-04-23",
           "time": "19:00",
           "home_team": "AS Saint-Étienne",
-          "away_team": "AS Monaco"
+          "away_team": "AS Monaco",
+          "result": {
+            "full_time": "1-4"
+          }
         },
         {
           "date": "2022-04-23",
           "time": "21:00",
           "home_team": "Paris Saint-Germain",
-          "away_team": "RC Lens"
+          "away_team": "RC Lens",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2022-04-24",
           "time": "13:00",
           "home_team": "Stade Rennais",
-          "away_team": "FC Lorient"
+          "away_team": "FC Lorient",
+          "result": {
+            "full_time": "5-0"
+          }
         },
         {
           "date": "2022-04-24",
           "time": "15:00",
           "home_team": "Clermont Foot 63",
-          "away_team": "Angers SCO"
+          "away_team": "Angers SCO",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2022-04-24",
           "time": "15:00",
           "home_team": "FC Metz",
-          "away_team": "Stade Brestois 29"
+          "away_team": "Stade Brestois 29",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2022-04-24",
           "time": "15:00",
           "home_team": "FC Nantes",
-          "away_team": "Girondins Bordeaux"
+          "away_team": "Girondins Bordeaux",
+          "result": {
+            "full_time": "5-3"
+          }
         },
         {
           "date": "2022-04-24",
           "time": "15:00",
           "home_team": "OGC Nice",
-          "away_team": "ESTAC Troyes"
+          "away_team": "ESTAC Troyes",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2022-04-24",
           "time": "17:05",
           "home_team": "Lille OSC",
-          "away_team": "RC Strasbourg"
+          "away_team": "RC Strasbourg",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2022-04-24",
           "time": "20:45",
           "home_team": "Stade de Reims",
-          "away_team": "Olympique Marseille"
+          "away_team": "Olympique Marseille",
+          "result": {
+            "full_time": "0-1"
+          }
         }
       ]
     },
@@ -2219,61 +3239,91 @@
           "date": "2022-04-29",
           "time": "21:00",
           "home_team": "RC Strasbourg",
-          "away_team": "Paris Saint-Germain"
+          "away_team": "Paris Saint-Germain",
+          "result": {
+            "full_time": "3-3"
+          }
         },
         {
           "date": "2022-04-30",
           "time": "17:00",
           "home_team": "RC Lens",
-          "away_team": "FC Nantes"
+          "away_team": "FC Nantes",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2022-04-30",
           "time": "21:00",
           "home_team": "Stade Rennais",
-          "away_team": "AS Saint-Étienne"
+          "away_team": "AS Saint-Étienne",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2022-05-01",
           "time": "13:00",
           "home_team": "ESTAC Troyes",
-          "away_team": "Lille OSC"
+          "away_team": "Lille OSC",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2022-05-01",
           "time": "15:00",
           "home_team": "AS Monaco",
-          "away_team": "Angers SCO"
+          "away_team": "Angers SCO",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2022-05-01",
           "time": "15:00",
           "home_team": "FC Lorient",
-          "away_team": "Stade de Reims"
+          "away_team": "Stade de Reims",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2022-05-01",
           "time": "15:00",
           "home_team": "Montpellier HSC",
-          "away_team": "FC Metz"
+          "away_team": "FC Metz",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2022-05-01",
           "time": "15:00",
           "home_team": "Stade Brestois 29",
-          "away_team": "Clermont Foot 63"
+          "away_team": "Clermont Foot 63",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2022-05-01",
           "time": "17:05",
           "home_team": "Girondins Bordeaux",
-          "away_team": "OGC Nice"
+          "away_team": "OGC Nice",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2022-05-01",
           "time": "20:45",
           "home_team": "Olympique Marseille",
-          "away_team": "Olympique Lyonnais"
+          "away_team": "Olympique Lyonnais",
+          "result": {
+            "full_time": "0-3"
+          }
         }
       ]
     },
@@ -2284,61 +3334,91 @@
           "date": "2022-05-06",
           "time": "21:00",
           "home_team": "Lille OSC",
-          "away_team": "AS Monaco"
+          "away_team": "AS Monaco",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2022-05-07",
           "time": "17:00",
           "home_team": "Stade Brestois 29",
-          "away_team": "RC Strasbourg"
+          "away_team": "RC Strasbourg",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2022-05-08",
           "time": "13:00",
           "home_team": "FC Metz",
-          "away_team": "Olympique Lyonnais"
+          "away_team": "Olympique Lyonnais",
+          "result": {
+            "full_time": "3-2"
+          }
         },
         {
           "date": "2022-05-08",
           "time": "15:00",
           "home_team": "Clermont Foot 63",
-          "away_team": "Montpellier HSC"
+          "away_team": "Montpellier HSC",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2022-05-08",
           "time": "15:00",
           "home_team": "Angers SCO",
-          "away_team": "Girondins Bordeaux"
+          "away_team": "Girondins Bordeaux",
+          "result": {
+            "full_time": "4-1"
+          }
         },
         {
           "date": "2022-05-08",
           "time": "15:00",
           "home_team": "Stade de Reims",
-          "away_team": "RC Lens"
+          "away_team": "RC Lens",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2022-05-08",
           "time": "17:05",
           "home_team": "FC Lorient",
-          "away_team": "Olympique Marseille"
+          "away_team": "Olympique Marseille",
+          "result": {
+            "full_time": "0-3"
+          }
         },
         {
           "date": "2022-05-08",
           "time": "20:45",
           "home_team": "Paris Saint-Germain",
-          "away_team": "ESTAC Troyes"
+          "away_team": "ESTAC Troyes",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2022-05-11",
           "time": "19:00",
           "home_team": "OGC Nice",
-          "away_team": "AS Saint-Étienne"
+          "away_team": "AS Saint-Étienne",
+          "result": {
+            "full_time": "4-2"
+          }
         },
         {
           "date": "2022-05-11",
           "time": "21:00",
           "home_team": "FC Nantes",
-          "away_team": "Stade Rennais"
+          "away_team": "Stade Rennais",
+          "result": {
+            "full_time": "2-1"
+          }
         }
       ]
     },
@@ -2349,61 +3429,91 @@
           "date": "2022-05-14",
           "time": "21:00",
           "home_team": "AS Monaco",
-          "away_team": "Stade Brestois 29"
+          "away_team": "Stade Brestois 29",
+          "result": {
+            "full_time": "4-2"
+          }
         },
         {
           "date": "2022-05-14",
           "time": "21:00",
           "home_team": "AS Saint-Étienne",
-          "away_team": "Stade de Reims"
+          "away_team": "Stade de Reims",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2022-05-14",
           "time": "21:00",
           "home_team": "ESTAC Troyes",
-          "away_team": "RC Lens"
+          "away_team": "RC Lens",
+          "result": {
+            "full_time": "1-3"
+          }
         },
         {
           "date": "2022-05-14",
           "time": "21:00",
           "home_team": "FC Metz",
-          "away_team": "Angers SCO"
+          "away_team": "Angers SCO",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2022-05-14",
           "time": "21:00",
           "home_team": "Girondins Bordeaux",
-          "away_team": "FC Lorient"
+          "away_team": "FC Lorient",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2022-05-14",
           "time": "21:00",
           "home_team": "Montpellier HSC",
-          "away_team": "Paris Saint-Germain"
+          "away_team": "Paris Saint-Germain",
+          "result": {
+            "full_time": "0-4"
+          }
         },
         {
           "date": "2022-05-14",
           "time": "21:00",
           "home_team": "OGC Nice",
-          "away_team": "Lille OSC"
+          "away_team": "Lille OSC",
+          "result": {
+            "full_time": "1-3"
+          }
         },
         {
           "date": "2022-05-14",
           "time": "21:00",
           "home_team": "Olympique Lyonnais",
-          "away_team": "FC Nantes"
+          "away_team": "FC Nantes",
+          "result": {
+            "full_time": "3-2"
+          }
         },
         {
           "date": "2022-05-14",
           "time": "21:00",
           "home_team": "RC Strasbourg",
-          "away_team": "Clermont Foot 63"
+          "away_team": "Clermont Foot 63",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2022-05-14",
           "time": "21:00",
           "home_team": "Stade Rennais",
-          "away_team": "Olympique Marseille"
+          "away_team": "Olympique Marseille",
+          "result": {
+            "full_time": "2-0"
+          }
         }
       ]
     },
@@ -2414,61 +3524,91 @@
           "date": "2022-05-21",
           "time": "21:00",
           "home_team": "Clermont Foot 63",
-          "away_team": "Olympique Lyonnais"
+          "away_team": "Olympique Lyonnais",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2022-05-21",
           "time": "21:00",
           "home_team": "FC Lorient",
-          "away_team": "ESTAC Troyes"
+          "away_team": "ESTAC Troyes",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2022-05-21",
           "time": "21:00",
           "home_team": "FC Nantes",
-          "away_team": "AS Saint-Étienne"
+          "away_team": "AS Saint-Étienne",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2022-05-21",
           "time": "21:00",
           "home_team": "Olympique Marseille",
-          "away_team": "RC Strasbourg"
+          "away_team": "RC Strasbourg",
+          "result": {
+            "full_time": "4-0"
+          }
         },
         {
           "date": "2022-05-21",
           "time": "21:00",
           "home_team": "Lille OSC",
-          "away_team": "Stade Rennais"
+          "away_team": "Stade Rennais",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2022-05-21",
           "time": "21:00",
           "home_team": "Paris Saint-Germain",
-          "away_team": "FC Metz"
+          "away_team": "FC Metz",
+          "result": {
+            "full_time": "5-0"
+          }
         },
         {
           "date": "2022-05-21",
           "time": "21:00",
           "home_team": "RC Lens",
-          "away_team": "AS Monaco"
+          "away_team": "AS Monaco",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2022-05-21",
           "time": "21:00",
           "home_team": "Angers SCO",
-          "away_team": "Montpellier HSC"
+          "away_team": "Montpellier HSC",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2022-05-21",
           "time": "21:00",
           "home_team": "Stade Brestois 29",
-          "away_team": "Girondins Bordeaux"
+          "away_team": "Girondins Bordeaux",
+          "result": {
+            "full_time": "2-4"
+          }
         },
         {
           "date": "2022-05-21",
           "time": "21:00",
           "home_team": "Stade de Reims",
-          "away_team": "OGC Nice"
+          "away_team": "OGC Nice",
+          "result": {
+            "full_time": "2-3"
+          }
         }
       ]
     }

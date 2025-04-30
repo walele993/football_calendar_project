@@ -9,61 +9,91 @@
           "date": "2018-08-10",
           "time": "20:45",
           "home_team": "Olympique Marseille",
-          "away_team": "Toulouse FC"
+          "away_team": "Toulouse FC",
+          "result": {
+            "full_time": "4-0"
+          }
         },
         {
           "date": "2018-08-11",
           "time": "17:00",
           "home_team": "FC Nantes",
-          "away_team": "AS Monaco"
+          "away_team": "AS Monaco",
+          "result": {
+            "full_time": "1-3"
+          }
         },
         {
           "date": "2018-08-11",
           "time": "20:00",
           "home_team": "Angers SCO",
-          "away_team": "Nîmes Olympique"
+          "away_team": "Nîmes Olympique",
+          "result": {
+            "full_time": "3-4"
+          }
         },
         {
           "date": "2018-08-11",
           "time": "20:00",
           "home_team": "Lille OSC",
-          "away_team": "Stade Rennais"
+          "away_team": "Stade Rennais",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2018-08-11",
           "time": "20:00",
           "home_team": "Montpellier HSC",
-          "away_team": "Dijon FCO"
+          "away_team": "Dijon FCO",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2018-08-11",
           "time": "20:00",
           "home_team": "OGC Nice",
-          "away_team": "Stade de Reims"
+          "away_team": "Stade de Reims",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2018-08-11",
           "time": "20:00",
           "home_team": "AS Saint-Étienne",
-          "away_team": "EA Guingamp"
+          "away_team": "EA Guingamp",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2018-08-12",
           "time": "15:00",
           "home_team": "Olympique Lyonnais",
-          "away_team": "Amiens SC"
+          "away_team": "Amiens SC",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2018-08-12",
           "time": "17:00",
           "home_team": "Girondins Bordeaux",
-          "away_team": "RC Strasbourg"
+          "away_team": "RC Strasbourg",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2018-08-12",
           "time": "21:00",
           "home_team": "Paris Saint-Germain",
-          "away_team": "SM Caen"
+          "away_team": "SM Caen",
+          "result": {
+            "full_time": "3-0"
+          }
         }
       ]
     },
@@ -74,61 +104,91 @@
           "date": "2018-08-17",
           "time": "20:45",
           "home_team": "Stade de Reims",
-          "away_team": "Olympique Lyonnais"
+          "away_team": "Olympique Lyonnais",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2018-08-18",
           "time": "17:00",
           "home_team": "EA Guingamp",
-          "away_team": "Paris Saint-Germain"
+          "away_team": "Paris Saint-Germain",
+          "result": {
+            "full_time": "1-3"
+          }
         },
         {
           "date": "2018-08-18",
           "time": "20:00",
           "home_team": "Amiens SC",
-          "away_team": "Montpellier HSC"
+          "away_team": "Montpellier HSC",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2018-08-18",
           "time": "20:00",
           "home_team": "SM Caen",
-          "away_team": "OGC Nice"
+          "away_team": "OGC Nice",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2018-08-18",
           "time": "20:00",
           "home_team": "Dijon FCO",
-          "away_team": "FC Nantes"
+          "away_team": "FC Nantes",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2018-08-18",
           "time": "20:00",
           "home_team": "AS Monaco",
-          "away_team": "Lille OSC"
+          "away_team": "Lille OSC",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2018-08-18",
           "time": "20:00",
           "home_team": "Stade Rennais",
-          "away_team": "Angers SCO"
+          "away_team": "Angers SCO",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2018-08-19",
           "time": "15:00",
           "home_team": "RC Strasbourg",
-          "away_team": "AS Saint-Étienne"
+          "away_team": "AS Saint-Étienne",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2018-08-19",
           "time": "17:00",
           "home_team": "Toulouse FC",
-          "away_team": "Girondins Bordeaux"
+          "away_team": "Girondins Bordeaux",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2018-08-19",
           "time": "21:00",
           "home_team": "Nîmes Olympique",
-          "away_team": "Olympique Marseille"
+          "away_team": "Olympique Marseille",
+          "result": {
+            "full_time": "3-1"
+          }
         }
       ]
     },
@@ -139,61 +199,91 @@
           "date": "2018-08-24",
           "time": "20:45",
           "home_team": "Olympique Lyonnais",
-          "away_team": "RC Strasbourg"
+          "away_team": "RC Strasbourg",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2018-08-25",
           "time": "17:00",
           "home_team": "Paris Saint-Germain",
-          "away_team": "Angers SCO"
+          "away_team": "Angers SCO",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2018-08-25",
           "time": "20:00",
           "home_team": "Amiens SC",
-          "away_team": "Stade de Reims"
+          "away_team": "Stade de Reims",
+          "result": {
+            "full_time": "4-1"
+          }
         },
         {
           "date": "2018-08-25",
           "time": "20:00",
           "home_team": "Montpellier HSC",
-          "away_team": "AS Saint-Étienne"
+          "away_team": "AS Saint-Étienne",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2018-08-25",
           "time": "20:00",
           "home_team": "FC Nantes",
-          "away_team": "SM Caen"
+          "away_team": "SM Caen",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2018-08-25",
           "time": "20:00",
           "home_team": "OGC Nice",
-          "away_team": "Dijon FCO"
+          "away_team": "Dijon FCO",
+          "result": {
+            "full_time": "0-4"
+          }
         },
         {
           "date": "2018-08-25",
           "time": "20:00",
           "home_team": "Toulouse FC",
-          "away_team": "Nîmes Olympique"
+          "away_team": "Nîmes Olympique",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2018-08-26",
           "time": "15:00",
           "home_team": "Lille OSC",
-          "away_team": "EA Guingamp"
+          "away_team": "EA Guingamp",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2018-08-26",
           "time": "17:00",
           "home_team": "Girondins Bordeaux",
-          "away_team": "AS Monaco"
+          "away_team": "AS Monaco",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2018-08-26",
           "time": "21:00",
           "home_team": "Olympique Marseille",
-          "away_team": "Stade Rennais"
+          "away_team": "Stade Rennais",
+          "result": {
+            "full_time": "2-2"
+          }
         }
       ]
     },
@@ -204,61 +294,91 @@
           "date": "2018-08-31",
           "time": "20:45",
           "home_team": "Olympique Lyonnais",
-          "away_team": "OGC Nice"
+          "away_team": "OGC Nice",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2018-09-01",
           "time": "17:00",
           "home_team": "Nîmes Olympique",
-          "away_team": "Paris Saint-Germain"
+          "away_team": "Paris Saint-Germain",
+          "result": {
+            "full_time": "2-4"
+          }
         },
         {
           "date": "2018-09-01",
           "time": "20:00",
           "home_team": "Angers SCO",
-          "away_team": "Lille OSC"
+          "away_team": "Lille OSC",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2018-09-01",
           "time": "20:00",
           "home_team": "Dijon FCO",
-          "away_team": "SM Caen"
+          "away_team": "SM Caen",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2018-09-01",
           "time": "20:00",
           "home_team": "EA Guingamp",
-          "away_team": "Toulouse FC"
+          "away_team": "Toulouse FC",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2018-09-01",
           "time": "20:00",
           "home_team": "Stade de Reims",
-          "away_team": "Montpellier HSC"
+          "away_team": "Montpellier HSC",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2018-09-01",
           "time": "20:00",
           "home_team": "RC Strasbourg",
-          "away_team": "FC Nantes"
+          "away_team": "FC Nantes",
+          "result": {
+            "full_time": "2-3"
+          }
         },
         {
           "date": "2018-09-02",
           "time": "15:00",
           "home_team": "AS Saint-Étienne",
-          "away_team": "Amiens SC"
+          "away_team": "Amiens SC",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2018-09-02",
           "time": "17:00",
           "home_team": "Stade Rennais",
-          "away_team": "Girondins Bordeaux"
+          "away_team": "Girondins Bordeaux",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2018-09-02",
           "time": "21:00",
           "home_team": "AS Monaco",
-          "away_team": "Olympique Marseille"
+          "away_team": "Olympique Marseille",
+          "result": {
+            "full_time": "2-3"
+          }
         }
       ]
     },
@@ -269,61 +389,91 @@
           "date": "2018-09-14",
           "time": "19:00",
           "home_team": "OGC Nice",
-          "away_team": "Stade Rennais"
+          "away_team": "Stade Rennais",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2018-09-14",
           "time": "20:45",
           "home_team": "Paris Saint-Germain",
-          "away_team": "AS Saint-Étienne"
+          "away_team": "AS Saint-Étienne",
+          "result": {
+            "full_time": "4-0"
+          }
         },
         {
           "date": "2018-09-15",
           "time": "17:00",
           "home_team": "SM Caen",
-          "away_team": "Olympique Lyonnais"
+          "away_team": "Olympique Lyonnais",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2018-09-15",
           "time": "20:00",
           "home_team": "Amiens SC",
-          "away_team": "Lille OSC"
+          "away_team": "Lille OSC",
+          "result": {
+            "full_time": "2-3"
+          }
         },
         {
           "date": "2018-09-15",
           "time": "20:00",
           "home_team": "Dijon FCO",
-          "away_team": "Angers SCO"
+          "away_team": "Angers SCO",
+          "result": {
+            "full_time": "1-3"
+          }
         },
         {
           "date": "2018-09-15",
           "time": "20:00",
           "home_team": "Montpellier HSC",
-          "away_team": "RC Strasbourg"
+          "away_team": "RC Strasbourg",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2018-09-15",
           "time": "20:00",
           "home_team": "Toulouse FC",
-          "away_team": "AS Monaco"
+          "away_team": "AS Monaco",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2018-09-16",
           "time": "15:00",
           "home_team": "FC Nantes",
-          "away_team": "Stade de Reims"
+          "away_team": "Stade de Reims",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2018-09-16",
           "time": "17:00",
           "home_team": "Girondins Bordeaux",
-          "away_team": "Nîmes Olympique"
+          "away_team": "Nîmes Olympique",
+          "result": {
+            "full_time": "3-3"
+          }
         },
         {
           "date": "2018-09-16",
           "time": "21:00",
           "home_team": "Olympique Marseille",
-          "away_team": "EA Guingamp"
+          "away_team": "EA Guingamp",
+          "result": {
+            "full_time": "4-0"
+          }
         }
       ]
     },
@@ -334,61 +484,91 @@
           "date": "2018-09-21",
           "time": "20:45",
           "home_team": "AS Monaco",
-          "away_team": "Nîmes Olympique"
+          "away_team": "Nîmes Olympique",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2018-09-22",
           "time": "17:00",
           "home_team": "Lille OSC",
-          "away_team": "FC Nantes"
+          "away_team": "FC Nantes",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2018-09-22",
           "time": "20:00",
           "home_team": "Angers SCO",
-          "away_team": "Toulouse FC"
+          "away_team": "Toulouse FC",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2018-09-22",
           "time": "20:00",
           "home_team": "Montpellier HSC",
-          "away_team": "OGC Nice"
+          "away_team": "OGC Nice",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2018-09-22",
           "time": "20:00",
           "home_team": "Stade de Reims",
-          "away_team": "Dijon FCO"
+          "away_team": "Dijon FCO",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2018-09-22",
           "time": "20:00",
           "home_team": "AS Saint-Étienne",
-          "away_team": "SM Caen"
+          "away_team": "SM Caen",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2018-09-22",
           "time": "20:00",
           "home_team": "RC Strasbourg",
-          "away_team": "Amiens SC"
+          "away_team": "Amiens SC",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2018-09-23",
           "time": "15:00",
           "home_team": "Stade Rennais",
-          "away_team": "Paris Saint-Germain"
+          "away_team": "Paris Saint-Germain",
+          "result": {
+            "full_time": "1-3"
+          }
         },
         {
           "date": "2018-09-23",
           "time": "17:00",
           "home_team": "EA Guingamp",
-          "away_team": "Girondins Bordeaux"
+          "away_team": "Girondins Bordeaux",
+          "result": {
+            "full_time": "1-3"
+          }
         },
         {
           "date": "2018-09-23",
           "time": "21:00",
           "home_team": "Olympique Lyonnais",
-          "away_team": "Olympique Marseille"
+          "away_team": "Olympique Marseille",
+          "result": {
+            "full_time": "4-2"
+          }
         }
       ]
     },
@@ -399,61 +579,91 @@
           "date": "2018-09-25",
           "time": "19:00",
           "home_team": "AS Monaco",
-          "away_team": "Angers SCO"
+          "away_team": "Angers SCO",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2018-09-25",
           "time": "19:00",
           "home_team": "FC Nantes",
-          "away_team": "OGC Nice"
+          "away_team": "OGC Nice",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2018-09-25",
           "time": "21:00",
           "home_team": "Toulouse FC",
-          "away_team": "AS Saint-Étienne"
+          "away_team": "AS Saint-Étienne",
+          "result": {
+            "full_time": "2-3"
+          }
         },
         {
           "date": "2018-09-26",
           "time": "19:00",
           "home_team": "Amiens SC",
-          "away_team": "Stade Rennais"
+          "away_team": "Stade Rennais",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2018-09-26",
           "time": "19:00",
           "home_team": "Girondins Bordeaux",
-          "away_team": "Lille OSC"
+          "away_team": "Lille OSC",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2018-09-26",
           "time": "19:00",
           "home_team": "SM Caen",
-          "away_team": "Montpellier HSC"
+          "away_team": "Montpellier HSC",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2018-09-26",
           "time": "19:00",
           "home_team": "Dijon FCO",
-          "away_team": "Olympique Lyonnais"
+          "away_team": "Olympique Lyonnais",
+          "result": {
+            "full_time": "0-3"
+          }
         },
         {
           "date": "2018-09-26",
           "time": "19:00",
           "home_team": "Olympique Marseille",
-          "away_team": "RC Strasbourg"
+          "away_team": "RC Strasbourg",
+          "result": {
+            "full_time": "3-2"
+          }
         },
         {
           "date": "2018-09-26",
           "time": "19:00",
           "home_team": "Nîmes Olympique",
-          "away_team": "EA Guingamp"
+          "away_team": "EA Guingamp",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2018-09-26",
           "time": "21:00",
           "home_team": "Paris Saint-Germain",
-          "away_team": "Stade de Reims"
+          "away_team": "Stade de Reims",
+          "result": {
+            "full_time": "4-1"
+          }
         }
       ]
     },
@@ -464,61 +674,91 @@
           "date": "2018-09-28",
           "time": "20:45",
           "home_team": "AS Saint-Étienne",
-          "away_team": "AS Monaco"
+          "away_team": "AS Monaco",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2018-09-29",
           "time": "17:15",
           "home_team": "OGC Nice",
-          "away_team": "Paris Saint-Germain"
+          "away_team": "Paris Saint-Germain",
+          "result": {
+            "full_time": "0-3"
+          }
         },
         {
           "date": "2018-09-29",
           "time": "20:00",
           "home_team": "Angers SCO",
-          "away_team": "EA Guingamp"
+          "away_team": "EA Guingamp",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2018-09-29",
           "time": "20:00",
           "home_team": "SM Caen",
-          "away_team": "Amiens SC"
+          "away_team": "Amiens SC",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2018-09-29",
           "time": "20:00",
           "home_team": "Olympique Lyonnais",
-          "away_team": "FC Nantes"
+          "away_team": "FC Nantes",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2018-09-29",
           "time": "20:00",
           "home_team": "Stade de Reims",
-          "away_team": "Girondins Bordeaux"
+          "away_team": "Girondins Bordeaux",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2018-09-29",
           "time": "20:00",
           "home_team": "RC Strasbourg",
-          "away_team": "Dijon FCO"
+          "away_team": "Dijon FCO",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2018-09-30",
           "time": "15:00",
           "home_team": "Stade Rennais",
-          "away_team": "Toulouse FC"
+          "away_team": "Toulouse FC",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2018-09-30",
           "time": "17:00",
           "home_team": "Montpellier HSC",
-          "away_team": "Nîmes Olympique"
+          "away_team": "Nîmes Olympique",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2018-09-30",
           "time": "21:00",
           "home_team": "Lille OSC",
-          "away_team": "Olympique Marseille"
+          "away_team": "Olympique Marseille",
+          "result": {
+            "full_time": "3-0"
+          }
         }
       ]
     },
@@ -529,61 +769,91 @@
           "date": "2018-10-05",
           "time": "20:45",
           "home_team": "Toulouse FC",
-          "away_team": "OGC Nice"
+          "away_team": "OGC Nice",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2018-10-06",
           "time": "17:00",
           "home_team": "Lille OSC",
-          "away_team": "AS Saint-Étienne"
+          "away_team": "AS Saint-Étienne",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2018-10-06",
           "time": "20:00",
           "home_team": "Amiens SC",
-          "away_team": "Dijon FCO"
+          "away_team": "Dijon FCO",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2018-10-06",
           "time": "20:00",
           "home_team": "Angers SCO",
-          "away_team": "RC Strasbourg"
+          "away_team": "RC Strasbourg",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2018-10-06",
           "time": "20:00",
           "home_team": "EA Guingamp",
-          "away_team": "Montpellier HSC"
+          "away_team": "Montpellier HSC",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2018-10-06",
           "time": "20:00",
           "home_team": "Nîmes Olympique",
-          "away_team": "Stade de Reims"
+          "away_team": "Stade de Reims",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2018-10-07",
           "time": "15:00",
           "home_team": "Girondins Bordeaux",
-          "away_team": "FC Nantes"
+          "away_team": "FC Nantes",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2018-10-07",
           "time": "17:00",
           "home_team": "Olympique Marseille",
-          "away_team": "SM Caen"
+          "away_team": "SM Caen",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2018-10-07",
           "time": "17:00",
           "home_team": "AS Monaco",
-          "away_team": "Stade Rennais"
+          "away_team": "Stade Rennais",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2018-10-07",
           "time": "21:00",
           "home_team": "Paris Saint-Germain",
-          "away_team": "Olympique Lyonnais"
+          "away_team": "Olympique Lyonnais",
+          "result": {
+            "full_time": "5-0"
+          }
         }
       ]
     },
@@ -594,61 +864,91 @@
           "date": "2018-10-19",
           "time": "20:45",
           "home_team": "Olympique Lyonnais",
-          "away_team": "Nîmes Olympique"
+          "away_team": "Nîmes Olympique",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2018-10-20",
           "time": "17:00",
           "home_team": "Paris Saint-Germain",
-          "away_team": "Amiens SC"
+          "away_team": "Amiens SC",
+          "result": {
+            "full_time": "5-0"
+          }
         },
         {
           "date": "2018-10-20",
           "time": "20:00",
           "home_team": "SM Caen",
-          "away_team": "EA Guingamp"
+          "away_team": "EA Guingamp",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2018-10-20",
           "time": "20:00",
           "home_team": "Dijon FCO",
-          "away_team": "Lille OSC"
+          "away_team": "Lille OSC",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2018-10-20",
           "time": "20:00",
           "home_team": "FC Nantes",
-          "away_team": "Toulouse FC"
+          "away_team": "Toulouse FC",
+          "result": {
+            "full_time": "4-0"
+          }
         },
         {
           "date": "2018-10-20",
           "time": "20:00",
           "home_team": "Stade de Reims",
-          "away_team": "Angers SCO"
+          "away_team": "Angers SCO",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2018-10-20",
           "time": "20:00",
           "home_team": "RC Strasbourg",
-          "away_team": "AS Monaco"
+          "away_team": "AS Monaco",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2018-10-21",
           "time": "15:00",
           "home_team": "Montpellier HSC",
-          "away_team": "Girondins Bordeaux"
+          "away_team": "Girondins Bordeaux",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2018-10-21",
           "time": "17:00",
           "home_team": "AS Saint-Étienne",
-          "away_team": "Stade Rennais"
+          "away_team": "Stade Rennais",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2018-10-21",
           "time": "21:00",
           "home_team": "OGC Nice",
-          "away_team": "Olympique Marseille"
+          "away_team": "Olympique Marseille",
+          "result": {
+            "full_time": "0-1"
+          }
         }
       ]
     },
@@ -659,61 +959,91 @@
           "date": "2018-10-26",
           "time": "20:45",
           "home_team": "Nîmes Olympique",
-          "away_team": "AS Saint-Étienne"
+          "away_team": "AS Saint-Étienne",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2018-10-27",
           "time": "17:00",
           "home_team": "Angers SCO",
-          "away_team": "Olympique Lyonnais"
+          "away_team": "Olympique Lyonnais",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2018-10-27",
           "time": "20:00",
           "home_team": "Amiens SC",
-          "away_team": "FC Nantes"
+          "away_team": "FC Nantes",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2018-10-27",
           "time": "20:00",
           "home_team": "EA Guingamp",
-          "away_team": "RC Strasbourg"
+          "away_team": "RC Strasbourg",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2018-10-27",
           "time": "20:00",
           "home_team": "Lille OSC",
-          "away_team": "SM Caen"
+          "away_team": "SM Caen",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2018-10-27",
           "time": "20:00",
           "home_team": "AS Monaco",
-          "away_team": "Dijon FCO"
+          "away_team": "Dijon FCO",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2018-10-27",
           "time": "20:00",
           "home_team": "Toulouse FC",
-          "away_team": "Montpellier HSC"
+          "away_team": "Montpellier HSC",
+          "result": {
+            "full_time": "0-3"
+          }
         },
         {
           "date": "2018-10-28",
           "time": "15:00",
           "home_team": "Stade Rennais",
-          "away_team": "Stade de Reims"
+          "away_team": "Stade de Reims",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2018-10-28",
           "time": "17:00",
           "home_team": "Girondins Bordeaux",
-          "away_team": "OGC Nice"
+          "away_team": "OGC Nice",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2018-10-28",
           "time": "21:00",
           "home_team": "Olympique Marseille",
-          "away_team": "Paris Saint-Germain"
+          "away_team": "Paris Saint-Germain",
+          "result": {
+            "full_time": "0-2"
+          }
         }
       ]
     },
@@ -724,61 +1054,91 @@
           "date": "2018-11-02",
           "time": "20:45",
           "home_team": "Paris Saint-Germain",
-          "away_team": "Lille OSC"
+          "away_team": "Lille OSC",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2018-11-03",
           "time": "17:00",
           "home_team": "Olympique Lyonnais",
-          "away_team": "Girondins Bordeaux"
+          "away_team": "Girondins Bordeaux",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2018-11-03",
           "time": "20:00",
           "home_team": "SM Caen",
-          "away_team": "Stade Rennais"
+          "away_team": "Stade Rennais",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2018-11-03",
           "time": "20:00",
           "home_team": "Dijon FCO",
-          "away_team": "Nîmes Olympique"
+          "away_team": "Nîmes Olympique",
+          "result": {
+            "full_time": "0-4"
+          }
         },
         {
           "date": "2018-11-03",
           "time": "20:00",
           "home_team": "OGC Nice",
-          "away_team": "Amiens SC"
+          "away_team": "Amiens SC",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2018-11-03",
           "time": "20:00",
           "home_team": "Stade de Reims",
-          "away_team": "AS Monaco"
+          "away_team": "AS Monaco",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2018-11-03",
           "time": "20:00",
           "home_team": "RC Strasbourg",
-          "away_team": "Toulouse FC"
+          "away_team": "Toulouse FC",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2018-11-04",
           "time": "15:00",
           "home_team": "FC Nantes",
-          "away_team": "EA Guingamp"
+          "away_team": "EA Guingamp",
+          "result": {
+            "full_time": "5-0"
+          }
         },
         {
           "date": "2018-11-04",
           "time": "17:00",
           "home_team": "AS Saint-Étienne",
-          "away_team": "Angers SCO"
+          "away_team": "Angers SCO",
+          "result": {
+            "full_time": "4-3"
+          }
         },
         {
           "date": "2018-11-04",
           "time": "21:00",
           "home_team": "Montpellier HSC",
-          "away_team": "Olympique Marseille"
+          "away_team": "Olympique Marseille",
+          "result": {
+            "full_time": "3-0"
+          }
         }
       ]
     },
@@ -789,61 +1149,91 @@
           "date": "2018-11-09",
           "time": "20:45",
           "home_team": "Lille OSC",
-          "away_team": "RC Strasbourg"
+          "away_team": "RC Strasbourg",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2018-11-10",
           "time": "17:00",
           "home_team": "EA Guingamp",
-          "away_team": "Olympique Lyonnais"
+          "away_team": "Olympique Lyonnais",
+          "result": {
+            "full_time": "2-4"
+          }
         },
         {
           "date": "2018-11-10",
           "time": "20:00",
           "home_team": "Angers SCO",
-          "away_team": "Montpellier HSC"
+          "away_team": "Montpellier HSC",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2018-11-10",
           "time": "20:00",
           "home_team": "Nîmes Olympique",
-          "away_team": "OGC Nice"
+          "away_team": "OGC Nice",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2018-11-10",
           "time": "20:00",
           "home_team": "AS Saint-Étienne",
-          "away_team": "Stade de Reims"
+          "away_team": "Stade de Reims",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2018-11-10",
           "time": "20:00",
           "home_team": "Toulouse FC",
-          "away_team": "Amiens SC"
+          "away_team": "Amiens SC",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2018-11-11",
           "time": "15:00",
           "home_team": "Girondins Bordeaux",
-          "away_team": "SM Caen"
+          "away_team": "SM Caen",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2018-11-11",
           "time": "17:00",
           "home_team": "Olympique Marseille",
-          "away_team": "Dijon FCO"
+          "away_team": "Dijon FCO",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2018-11-11",
           "time": "17:00",
           "home_team": "Stade Rennais",
-          "away_team": "FC Nantes"
+          "away_team": "FC Nantes",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2018-11-11",
           "time": "21:00",
           "home_team": "AS Monaco",
-          "away_team": "Paris Saint-Germain"
+          "away_team": "Paris Saint-Germain",
+          "result": {
+            "full_time": "0-4"
+          }
         }
       ]
     },
@@ -854,61 +1244,91 @@
           "date": "2018-11-23",
           "time": "21:00",
           "home_team": "Olympique Lyonnais",
-          "away_team": "AS Saint-Étienne"
+          "away_team": "AS Saint-Étienne",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2018-11-24",
           "time": "17:00",
           "home_team": "Paris Saint-Germain",
-          "away_team": "Toulouse FC"
+          "away_team": "Toulouse FC",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2018-11-24",
           "time": "20:00",
           "home_team": "SM Caen",
-          "away_team": "AS Monaco"
+          "away_team": "AS Monaco",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2018-11-24",
           "time": "20:00",
           "home_team": "Dijon FCO",
-          "away_team": "Girondins Bordeaux"
+          "away_team": "Girondins Bordeaux",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2018-11-24",
           "time": "20:00",
           "home_team": "FC Nantes",
-          "away_team": "Angers SCO"
+          "away_team": "Angers SCO",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2018-11-24",
           "time": "20:00",
           "home_team": "Stade de Reims",
-          "away_team": "EA Guingamp"
+          "away_team": "EA Guingamp",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2018-11-24",
           "time": "20:00",
           "home_team": "RC Strasbourg",
-          "away_team": "Nîmes Olympique"
+          "away_team": "Nîmes Olympique",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2018-11-25",
           "time": "15:00",
           "home_team": "Montpellier HSC",
-          "away_team": "Stade Rennais"
+          "away_team": "Stade Rennais",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2018-11-25",
           "time": "17:00",
           "home_team": "OGC Nice",
-          "away_team": "Lille OSC"
+          "away_team": "Lille OSC",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2018-11-25",
           "time": "21:00",
           "home_team": "Amiens SC",
-          "away_team": "Olympique Marseille"
+          "away_team": "Olympique Marseille",
+          "result": {
+            "full_time": "1-3"
+          }
         }
       ]
     },
@@ -919,61 +1339,91 @@
           "date": "2018-11-30",
           "time": "20:45",
           "home_team": "AS Saint-Étienne",
-          "away_team": "FC Nantes"
+          "away_team": "FC Nantes",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2018-12-01",
           "time": "17:00",
           "home_team": "Lille OSC",
-          "away_team": "Olympique Lyonnais"
+          "away_team": "Olympique Lyonnais",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2018-12-01",
           "time": "20:00",
           "home_team": "Angers SCO",
-          "away_team": "SM Caen"
+          "away_team": "SM Caen",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2018-12-01",
           "time": "20:00",
           "home_team": "EA Guingamp",
-          "away_team": "OGC Nice"
+          "away_team": "OGC Nice",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2018-12-01",
           "time": "20:00",
           "home_team": "AS Monaco",
-          "away_team": "Montpellier HSC"
+          "away_team": "Montpellier HSC",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2018-12-01",
           "time": "20:00",
           "home_team": "Nîmes Olympique",
-          "away_team": "Amiens SC"
+          "away_team": "Amiens SC",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2018-12-02",
           "time": "15:00",
           "home_team": "Toulouse FC",
-          "away_team": "Dijon FCO"
+          "away_team": "Dijon FCO",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2018-12-02",
           "time": "17:00",
           "home_team": "Olympique Marseille",
-          "away_team": "Stade de Reims"
+          "away_team": "Stade de Reims",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2018-12-02",
           "time": "17:00",
           "home_team": "Stade Rennais",
-          "away_team": "RC Strasbourg"
+          "away_team": "RC Strasbourg",
+          "result": {
+            "full_time": "1-4"
+          }
         },
         {
           "date": "2018-12-02",
           "time": "21:00",
           "home_team": "Girondins Bordeaux",
-          "away_team": "Paris Saint-Germain"
+          "away_team": "Paris Saint-Germain",
+          "result": {
+            "full_time": "2-2"
+          }
         }
       ]
     },
@@ -984,61 +1434,91 @@
           "date": "2018-12-04",
           "time": "19:00",
           "home_team": "Amiens SC",
-          "away_team": "AS Monaco"
+          "away_team": "AS Monaco",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2018-12-04",
           "time": "19:00",
           "home_team": "OGC Nice",
-          "away_team": "Angers SCO"
+          "away_team": "Angers SCO",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2018-12-04",
           "time": "21:00",
           "home_team": "Montpellier HSC",
-          "away_team": "Lille OSC"
+          "away_team": "Lille OSC",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2018-12-05",
           "time": "19:00",
           "home_team": "Girondins Bordeaux",
-          "away_team": "AS Saint-Étienne"
+          "away_team": "AS Saint-Étienne",
+          "result": {
+            "full_time": "3-2"
+          }
         },
         {
           "date": "2018-12-05",
           "time": "19:00",
           "home_team": "SM Caen",
-          "away_team": "Nîmes Olympique"
+          "away_team": "Nîmes Olympique",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2018-12-05",
           "time": "19:00",
           "home_team": "Dijon FCO",
-          "away_team": "EA Guingamp"
+          "away_team": "EA Guingamp",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2018-12-05",
           "time": "19:00",
           "home_team": "Olympique Lyonnais",
-          "away_team": "Stade Rennais"
+          "away_team": "Stade Rennais",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2018-12-05",
           "time": "19:00",
           "home_team": "FC Nantes",
-          "away_team": "Olympique Marseille"
+          "away_team": "Olympique Marseille",
+          "result": {
+            "full_time": "3-2"
+          }
         },
         {
           "date": "2018-12-05",
           "time": "19:00",
           "home_team": "Stade de Reims",
-          "away_team": "Toulouse FC"
+          "away_team": "Toulouse FC",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2018-12-05",
           "time": "21:00",
           "home_team": "RC Strasbourg",
-          "away_team": "Paris Saint-Germain"
+          "away_team": "Paris Saint-Germain",
+          "result": {
+            "full_time": "1-1"
+          }
         }
       ]
     },
@@ -1049,61 +1529,91 @@
           "date": "2018-12-08",
           "time": "20:00",
           "home_team": "EA Guingamp",
-          "away_team": "Amiens SC"
+          "away_team": "Amiens SC",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2018-12-08",
           "time": "20:00",
           "home_team": "Stade Rennais",
-          "away_team": "Dijon FCO"
+          "away_team": "Dijon FCO",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2018-12-09",
           "time": "15:00",
           "home_team": "RC Strasbourg",
-          "away_team": "SM Caen"
+          "away_team": "SM Caen",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2018-12-09",
           "time": "17:00",
           "home_team": "Lille OSC",
-          "away_team": "Stade de Reims"
+          "away_team": "Stade de Reims",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2019-01-15",
           "time": "19:00",
           "home_team": "Angers SCO",
-          "away_team": "Girondins Bordeaux"
+          "away_team": "Girondins Bordeaux",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2019-01-16",
           "time": "19:00",
           "home_team": "AS Monaco",
-          "away_team": "OGC Nice"
+          "away_team": "OGC Nice",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2019-01-16",
           "time": "19:00",
           "home_team": "Nîmes Olympique",
-          "away_team": "FC Nantes"
+          "away_team": "FC Nantes",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2019-01-16",
           "time": "19:00",
           "home_team": "Toulouse FC",
-          "away_team": "Olympique Lyonnais"
+          "away_team": "Olympique Lyonnais",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2019-01-16",
           "time": "21:00",
           "home_team": "AS Saint-Étienne",
-          "away_team": "Olympique Marseille"
+          "away_team": "Olympique Marseille",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2019-02-20",
           "time": "21:00",
           "home_team": "Paris Saint-Germain",
-          "away_team": "Montpellier HSC"
+          "away_team": "Montpellier HSC",
+          "result": {
+            "full_time": "5-1"
+          }
         }
       ]
     },
@@ -1114,61 +1624,91 @@
           "date": "2018-12-15",
           "time": "20:00",
           "home_team": "Stade de Reims",
-          "away_team": "RC Strasbourg"
+          "away_team": "RC Strasbourg",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2018-12-16",
           "time": "15:00",
           "home_team": "Nîmes Olympique",
-          "away_team": "Lille OSC"
+          "away_team": "Lille OSC",
+          "result": {
+            "full_time": "2-3"
+          }
         },
         {
           "date": "2018-12-16",
           "time": "17:00",
           "home_team": "OGC Nice",
-          "away_team": "AS Saint-Étienne"
+          "away_team": "AS Saint-Étienne",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2018-12-16",
           "time": "21:00",
           "home_team": "Olympique Lyonnais",
-          "away_team": "AS Monaco"
+          "away_team": "AS Monaco",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2018-12-18",
           "time": "19:30",
           "home_team": "SM Caen",
-          "away_team": "Toulouse FC"
+          "away_team": "Toulouse FC",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2019-01-08",
           "time": "19:00",
           "home_team": "Amiens SC",
-          "away_team": "Angers SCO"
+          "away_team": "Angers SCO",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2019-01-08",
           "time": "19:00",
           "home_team": "FC Nantes",
-          "away_team": "Montpellier HSC"
+          "away_team": "Montpellier HSC",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2019-01-16",
           "time": "19:00",
           "home_team": "EA Guingamp",
-          "away_team": "Stade Rennais"
+          "away_team": "Stade Rennais",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2019-02-05",
           "time": "19:00",
           "home_team": "Olympique Marseille",
-          "away_team": "Girondins Bordeaux"
+          "away_team": "Girondins Bordeaux",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2019-03-12",
           "time": "19:00",
           "home_team": "Dijon FCO",
-          "away_team": "Paris Saint-Germain"
+          "away_team": "Paris Saint-Germain",
+          "result": {
+            "full_time": "0-4"
+          }
         }
       ]
     },
@@ -1179,61 +1719,91 @@
           "date": "2018-12-22",
           "time": "21:00",
           "home_team": "Angers SCO",
-          "away_team": "Olympique Marseille"
+          "away_team": "Olympique Marseille",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2018-12-22",
           "time": "21:00",
           "home_team": "Lille OSC",
-          "away_team": "Toulouse FC"
+          "away_team": "Toulouse FC",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2018-12-22",
           "time": "21:00",
           "home_team": "AS Monaco",
-          "away_team": "EA Guingamp"
+          "away_team": "EA Guingamp",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2018-12-22",
           "time": "21:00",
           "home_team": "Montpellier HSC",
-          "away_team": "Olympique Lyonnais"
+          "away_team": "Olympique Lyonnais",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2018-12-22",
           "time": "21:00",
           "home_team": "Paris Saint-Germain",
-          "away_team": "FC Nantes"
+          "away_team": "FC Nantes",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2018-12-22",
           "time": "21:00",
           "home_team": "Stade de Reims",
-          "away_team": "SM Caen"
+          "away_team": "SM Caen",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2018-12-22",
           "time": "21:00",
           "home_team": "Stade Rennais",
-          "away_team": "Nîmes Olympique"
+          "away_team": "Nîmes Olympique",
+          "result": {
+            "full_time": "4-0"
+          }
         },
         {
           "date": "2018-12-22",
           "time": "21:00",
           "home_team": "AS Saint-Étienne",
-          "away_team": "Dijon FCO"
+          "away_team": "Dijon FCO",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2018-12-22",
           "time": "21:00",
           "home_team": "RC Strasbourg",
-          "away_team": "OGC Nice"
+          "away_team": "OGC Nice",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2018-12-23",
           "time": "17:00",
           "home_team": "Girondins Bordeaux",
-          "away_team": "Amiens SC"
+          "away_team": "Amiens SC",
+          "result": {
+            "full_time": "1-1"
+          }
         }
       ]
     },
@@ -1244,61 +1814,91 @@
           "date": "2019-01-11",
           "time": "19:00",
           "home_team": "SM Caen",
-          "away_team": "Lille OSC"
+          "away_team": "Lille OSC",
+          "result": {
+            "full_time": "1-3"
+          }
         },
         {
           "date": "2019-01-11",
           "time": "20:45",
           "home_team": "Olympique Lyonnais",
-          "away_team": "Stade de Reims"
+          "away_team": "Stade de Reims",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2019-01-12",
           "time": "17:00",
           "home_team": "Amiens SC",
-          "away_team": "Paris Saint-Germain"
+          "away_team": "Paris Saint-Germain",
+          "result": {
+            "full_time": "0-3"
+          }
         },
         {
           "date": "2019-01-12",
           "time": "20:00",
           "home_team": "EA Guingamp",
-          "away_team": "AS Saint-Étienne"
+          "away_team": "AS Saint-Étienne",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2019-01-12",
           "time": "20:00",
           "home_team": "OGC Nice",
-          "away_team": "Girondins Bordeaux"
+          "away_team": "Girondins Bordeaux",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2019-01-13",
           "time": "15:00",
           "home_team": "FC Nantes",
-          "away_team": "Stade Rennais"
+          "away_team": "Stade Rennais",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2019-01-13",
           "time": "17:00",
           "home_team": "Dijon FCO",
-          "away_team": "Montpellier HSC"
+          "away_team": "Montpellier HSC",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2019-01-13",
           "time": "17:00",
           "home_team": "Toulouse FC",
-          "away_team": "RC Strasbourg"
+          "away_team": "RC Strasbourg",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2019-01-13",
           "time": "21:00",
           "home_team": "Olympique Marseille",
-          "away_team": "AS Monaco"
+          "away_team": "AS Monaco",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2019-01-23",
           "time": "19:00",
           "home_team": "Nîmes Olympique",
-          "away_team": "Angers SCO"
+          "away_team": "Angers SCO",
+          "result": {
+            "full_time": "3-1"
+          }
         }
       ]
     },
@@ -1309,61 +1909,91 @@
           "date": "2019-01-18",
           "time": "20:45",
           "home_team": "Lille OSC",
-          "away_team": "Amiens SC"
+          "away_team": "Amiens SC",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2019-01-19",
           "time": "17:00",
           "home_team": "Paris Saint-Germain",
-          "away_team": "EA Guingamp"
+          "away_team": "EA Guingamp",
+          "result": {
+            "full_time": "9-0"
+          }
         },
         {
           "date": "2019-01-19",
           "time": "20:00",
           "home_team": "AS Monaco",
-          "away_team": "RC Strasbourg"
+          "away_team": "RC Strasbourg",
+          "result": {
+            "full_time": "1-5"
+          }
         },
         {
           "date": "2019-01-19",
           "time": "20:00",
           "home_team": "Nîmes Olympique",
-          "away_team": "Toulouse FC"
+          "away_team": "Toulouse FC",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2019-01-19",
           "time": "20:00",
           "home_team": "Stade de Reims",
-          "away_team": "OGC Nice"
+          "away_team": "OGC Nice",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2019-01-20",
           "time": "15:00",
           "home_team": "Stade Rennais",
-          "away_team": "Montpellier HSC"
+          "away_team": "Montpellier HSC",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2019-01-20",
           "time": "17:00",
           "home_team": "Angers SCO",
-          "away_team": "FC Nantes"
+          "away_team": "FC Nantes",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2019-01-20",
           "time": "17:00",
           "home_team": "SM Caen",
-          "away_team": "Olympique Marseille"
+          "away_team": "Olympique Marseille",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2019-01-20",
           "time": "19:00",
           "home_team": "Girondins Bordeaux",
-          "away_team": "Dijon FCO"
+          "away_team": "Dijon FCO",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2019-01-20",
           "time": "21:00",
           "home_team": "AS Saint-Étienne",
-          "away_team": "Olympique Lyonnais"
+          "away_team": "Olympique Lyonnais",
+          "result": {
+            "full_time": "1-2"
+          }
         }
       ]
     },
@@ -1374,61 +2004,91 @@
           "date": "2019-01-25",
           "time": "20:45",
           "home_team": "Olympique Marseille",
-          "away_team": "Lille OSC"
+          "away_team": "Lille OSC",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2019-01-26",
           "time": "20:00",
           "home_team": "Dijon FCO",
-          "away_team": "AS Monaco"
+          "away_team": "AS Monaco",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2019-01-26",
           "time": "20:00",
           "home_team": "EA Guingamp",
-          "away_team": "Stade de Reims"
+          "away_team": "Stade de Reims",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2019-01-26",
           "time": "20:00",
           "home_team": "OGC Nice",
-          "away_team": "Nîmes Olympique"
+          "away_team": "Nîmes Olympique",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2019-01-26",
           "time": "20:00",
           "home_team": "RC Strasbourg",
-          "away_team": "Girondins Bordeaux"
+          "away_team": "Girondins Bordeaux",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2019-01-27",
           "time": "15:00",
           "home_team": "Montpellier HSC",
-          "away_team": "SM Caen"
+          "away_team": "SM Caen",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2019-01-27",
           "time": "17:00",
           "home_team": "Amiens SC",
-          "away_team": "Olympique Lyonnais"
+          "away_team": "Olympique Lyonnais",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2019-01-27",
           "time": "20:00",
           "home_team": "Toulouse FC",
-          "away_team": "Angers SCO"
+          "away_team": "Angers SCO",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2019-01-27",
           "time": "21:00",
           "home_team": "Paris Saint-Germain",
-          "away_team": "Stade Rennais"
+          "away_team": "Stade Rennais",
+          "result": {
+            "full_time": "4-1"
+          }
         },
         {
           "date": "2019-01-30",
           "time": "21:00",
           "home_team": "FC Nantes",
-          "away_team": "AS Saint-Étienne"
+          "away_team": "AS Saint-Étienne",
+          "result": {
+            "full_time": "1-1"
+          }
         }
       ]
     },
@@ -1439,61 +2099,91 @@
           "date": "2019-02-01",
           "time": "20:45",
           "home_team": "Lille OSC",
-          "away_team": "OGC Nice"
+          "away_team": "OGC Nice",
+          "result": {
+            "full_time": "4-0"
+          }
         },
         {
           "date": "2019-02-02",
           "time": "20:00",
           "home_team": "Angers SCO",
-          "away_team": "Dijon FCO"
+          "away_team": "Dijon FCO",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2019-02-02",
           "time": "20:00",
           "home_team": "AS Monaco",
-          "away_team": "Toulouse FC"
+          "away_team": "Toulouse FC",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2019-02-02",
           "time": "20:00",
           "home_team": "Stade Rennais",
-          "away_team": "Amiens SC"
+          "away_team": "Amiens SC",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2019-02-02",
           "time": "21:00",
           "home_team": "Stade de Reims",
-          "away_team": "Olympique Marseille"
+          "away_team": "Olympique Marseille",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2019-02-03",
           "time": "15:00",
           "home_team": "Nîmes Olympique",
-          "away_team": "Montpellier HSC"
+          "away_team": "Montpellier HSC",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2019-02-03",
           "time": "21:00",
           "home_team": "Olympique Lyonnais",
-          "away_team": "Paris Saint-Germain"
+          "away_team": "Paris Saint-Germain",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2019-02-13",
           "time": "19:00",
           "home_team": "AS Saint-Étienne",
-          "away_team": "RC Strasbourg"
+          "away_team": "RC Strasbourg",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2019-02-13",
           "time": "19:30",
           "home_team": "SM Caen",
-          "away_team": "FC Nantes"
+          "away_team": "FC Nantes",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2019-02-20",
           "time": "19:00",
           "home_team": "Girondins Bordeaux",
-          "away_team": "EA Guingamp"
+          "away_team": "EA Guingamp",
+          "result": {
+            "full_time": "0-0"
+          }
         }
       ]
     },
@@ -1504,61 +2194,91 @@
           "date": "2019-02-08",
           "time": "20:45",
           "home_team": "Dijon FCO",
-          "away_team": "Olympique Marseille"
+          "away_team": "Olympique Marseille",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2019-02-09",
           "time": "17:00",
           "home_team": "Paris Saint-Germain",
-          "away_team": "Girondins Bordeaux"
+          "away_team": "Girondins Bordeaux",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2019-02-09",
           "time": "20:00",
           "home_team": "Amiens SC",
-          "away_team": "SM Caen"
+          "away_team": "SM Caen",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2019-02-09",
           "time": "20:00",
           "home_team": "RC Strasbourg",
-          "away_team": "Angers SCO"
+          "away_team": "Angers SCO",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2019-02-10",
           "time": "15:00",
           "home_team": "Montpellier HSC",
-          "away_team": "AS Monaco"
+          "away_team": "AS Monaco",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2019-02-10",
           "time": "15:00",
           "home_team": "FC Nantes",
-          "away_team": "Nîmes Olympique"
+          "away_team": "Nîmes Olympique",
+          "result": {
+            "full_time": "2-4"
+          }
         },
         {
           "date": "2019-02-10",
           "time": "15:00",
           "home_team": "Toulouse FC",
-          "away_team": "Stade de Reims"
+          "away_team": "Stade de Reims",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2019-02-10",
           "time": "17:00",
           "home_team": "EA Guingamp",
-          "away_team": "Lille OSC"
+          "away_team": "Lille OSC",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2019-02-10",
           "time": "17:00",
           "home_team": "Stade Rennais",
-          "away_team": "AS Saint-Étienne"
+          "away_team": "AS Saint-Étienne",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2019-02-10",
           "time": "21:00",
           "home_team": "OGC Nice",
-          "away_team": "Olympique Lyonnais"
+          "away_team": "Olympique Lyonnais",
+          "result": {
+            "full_time": "1-0"
+          }
         }
       ]
     },
@@ -1569,61 +2289,91 @@
           "date": "2019-02-15",
           "time": "19:00",
           "home_team": "Nîmes Olympique",
-          "away_team": "Dijon FCO"
+          "away_team": "Dijon FCO",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2019-02-15",
           "time": "20:45",
           "home_team": "Olympique Lyonnais",
-          "away_team": "EA Guingamp"
+          "away_team": "EA Guingamp",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2019-02-16",
           "time": "17:00",
           "home_team": "Olympique Marseille",
-          "away_team": "Amiens SC"
+          "away_team": "Amiens SC",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2019-02-16",
           "time": "20:00",
           "home_team": "Angers SCO",
-          "away_team": "OGC Nice"
+          "away_team": "OGC Nice",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2019-02-16",
           "time": "20:00",
           "home_team": "AS Monaco",
-          "away_team": "FC Nantes"
+          "away_team": "FC Nantes",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2019-02-17",
           "time": "15:00",
           "home_team": "Girondins Bordeaux",
-          "away_team": "Toulouse FC"
+          "away_team": "Toulouse FC",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2019-02-17",
           "time": "15:00",
           "home_team": "SM Caen",
-          "away_team": "RC Strasbourg"
+          "away_team": "RC Strasbourg",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2019-02-17",
           "time": "15:00",
           "home_team": "Lille OSC",
-          "away_team": "Montpellier HSC"
+          "away_team": "Montpellier HSC",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2019-02-17",
           "time": "17:00",
           "home_team": "Stade de Reims",
-          "away_team": "Stade Rennais"
+          "away_team": "Stade Rennais",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2019-02-17",
           "time": "21:00",
           "home_team": "AS Saint-Étienne",
-          "away_team": "Paris Saint-Germain"
+          "away_team": "Paris Saint-Germain",
+          "result": {
+            "full_time": "0-1"
+          }
         }
       ]
     },
@@ -1634,61 +2384,91 @@
           "date": "2019-02-22",
           "time": "19:00",
           "home_team": "Dijon FCO",
-          "away_team": "AS Saint-Étienne"
+          "away_team": "AS Saint-Étienne",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2019-02-22",
           "time": "20:45",
           "home_team": "RC Strasbourg",
-          "away_team": "Lille OSC"
+          "away_team": "Lille OSC",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2019-02-23",
           "time": "17:00",
           "home_team": "Paris Saint-Germain",
-          "away_team": "Nîmes Olympique"
+          "away_team": "Nîmes Olympique",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2019-02-23",
           "time": "20:00",
           "home_team": "Amiens SC",
-          "away_team": "OGC Nice"
+          "away_team": "OGC Nice",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2019-02-23",
           "time": "20:00",
           "home_team": "EA Guingamp",
-          "away_team": "Angers SCO"
+          "away_team": "Angers SCO",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2019-02-24",
           "time": "15:00",
           "home_team": "Montpellier HSC",
-          "away_team": "Stade de Reims"
+          "away_team": "Stade de Reims",
+          "result": {
+            "full_time": "2-4"
+          }
         },
         {
           "date": "2019-02-24",
           "time": "15:00",
           "home_team": "FC Nantes",
-          "away_team": "Girondins Bordeaux"
+          "away_team": "Girondins Bordeaux",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2019-02-24",
           "time": "15:00",
           "home_team": "Toulouse FC",
-          "away_team": "SM Caen"
+          "away_team": "SM Caen",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2019-02-24",
           "time": "17:00",
           "home_team": "Stade Rennais",
-          "away_team": "Olympique Marseille"
+          "away_team": "Olympique Marseille",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2019-02-24",
           "time": "21:00",
           "home_team": "AS Monaco",
-          "away_team": "Olympique Lyonnais"
+          "away_team": "Olympique Lyonnais",
+          "result": {
+            "full_time": "2-0"
+          }
         }
       ]
     },
@@ -1699,61 +2479,91 @@
           "date": "2019-03-02",
           "time": "17:00",
           "home_team": "SM Caen",
-          "away_team": "Paris Saint-Germain"
+          "away_team": "Paris Saint-Germain",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2019-03-02",
           "time": "20:00",
           "home_team": "Angers SCO",
-          "away_team": "AS Monaco"
+          "away_team": "AS Monaco",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2019-03-02",
           "time": "20:00",
           "home_team": "Stade de Reims",
-          "away_team": "Amiens SC"
+          "away_team": "Amiens SC",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2019-03-03",
           "time": "15:00",
           "home_team": "EA Guingamp",
-          "away_team": "FC Nantes"
+          "away_team": "FC Nantes",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2019-03-03",
           "time": "15:00",
           "home_team": "Lille OSC",
-          "away_team": "Dijon FCO"
+          "away_team": "Dijon FCO",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2019-03-03",
           "time": "15:00",
           "home_team": "OGC Nice",
-          "away_team": "RC Strasbourg"
+          "away_team": "RC Strasbourg",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2019-03-03",
           "time": "17:00",
           "home_team": "Olympique Lyonnais",
-          "away_team": "Toulouse FC"
+          "away_team": "Toulouse FC",
+          "result": {
+            "full_time": "5-1"
+          }
         },
         {
           "date": "2019-03-03",
           "time": "21:00",
           "home_team": "Olympique Marseille",
-          "away_team": "AS Saint-Étienne"
+          "away_team": "AS Saint-Étienne",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2019-03-05",
           "time": "19:00",
           "home_team": "Girondins Bordeaux",
-          "away_team": "Montpellier HSC"
+          "away_team": "Montpellier HSC",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2019-04-09",
           "time": "19:00",
           "home_team": "Nîmes Olympique",
-          "away_team": "Stade Rennais"
+          "away_team": "Stade Rennais",
+          "result": {
+            "full_time": "3-1"
+          }
         }
       ]
     },
@@ -1764,61 +2574,91 @@
           "date": "2019-03-09",
           "time": "17:00",
           "home_team": "RC Strasbourg",
-          "away_team": "Olympique Lyonnais"
+          "away_team": "Olympique Lyonnais",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2019-03-09",
           "time": "20:00",
           "home_team": "Amiens SC",
-          "away_team": "Nîmes Olympique"
+          "away_team": "Nîmes Olympique",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2019-03-09",
           "time": "20:00",
           "home_team": "Dijon FCO",
-          "away_team": "Stade de Reims"
+          "away_team": "Stade de Reims",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2019-03-09",
           "time": "20:00",
           "home_team": "AS Monaco",
-          "away_team": "Girondins Bordeaux"
+          "away_team": "Girondins Bordeaux",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2019-03-10",
           "time": "15:00",
           "home_team": "Montpellier HSC",
-          "away_team": "Angers SCO"
+          "away_team": "Angers SCO",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2019-03-10",
           "time": "15:00",
           "home_team": "AS Saint-Étienne",
-          "away_team": "Lille OSC"
+          "away_team": "Lille OSC",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2019-03-10",
           "time": "15:00",
           "home_team": "Toulouse FC",
-          "away_team": "EA Guingamp"
+          "away_team": "EA Guingamp",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2019-03-10",
           "time": "17:00",
           "home_team": "Stade Rennais",
-          "away_team": "SM Caen"
+          "away_team": "SM Caen",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2019-03-10",
           "time": "21:00",
           "home_team": "Olympique Marseille",
-          "away_team": "OGC Nice"
+          "away_team": "OGC Nice",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2019-04-17",
           "time": "19:00",
           "home_team": "FC Nantes",
-          "away_team": "Paris Saint-Germain"
+          "away_team": "Paris Saint-Germain",
+          "result": {
+            "full_time": "3-2"
+          }
         }
       ]
     },
@@ -1829,61 +2669,91 @@
           "date": "2019-03-15",
           "time": "19:00",
           "home_team": "OGC Nice",
-          "away_team": "Toulouse FC"
+          "away_team": "Toulouse FC",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2019-03-15",
           "time": "20:45",
           "home_team": "Lille OSC",
-          "away_team": "AS Monaco"
+          "away_team": "AS Monaco",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2019-03-16",
           "time": "20:00",
           "home_team": "Angers SCO",
-          "away_team": "Amiens SC"
+          "away_team": "Amiens SC",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2019-03-16",
           "time": "20:00",
           "home_team": "SM Caen",
-          "away_team": "AS Saint-Étienne"
+          "away_team": "AS Saint-Étienne",
+          "result": {
+            "full_time": "0-5"
+          }
         },
         {
           "date": "2019-03-16",
           "time": "20:00",
           "home_team": "EA Guingamp",
-          "away_team": "Dijon FCO"
+          "away_team": "Dijon FCO",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2019-03-16",
           "time": "20:00",
           "home_team": "Nîmes Olympique",
-          "away_team": "RC Strasbourg"
+          "away_team": "RC Strasbourg",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2019-03-17",
           "time": "14:30",
           "home_team": "Olympique Lyonnais",
-          "away_team": "Montpellier HSC"
+          "away_team": "Montpellier HSC",
+          "result": {
+            "full_time": "3-2"
+          }
         },
         {
           "date": "2019-03-17",
           "time": "15:00",
           "home_team": "Stade de Reims",
-          "away_team": "FC Nantes"
+          "away_team": "FC Nantes",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2019-03-17",
           "time": "17:00",
           "home_team": "Girondins Bordeaux",
-          "away_team": "Stade Rennais"
+          "away_team": "Stade Rennais",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2019-03-17",
           "time": "21:00",
           "home_team": "Paris Saint-Germain",
-          "away_team": "Olympique Marseille"
+          "away_team": "Olympique Marseille",
+          "result": {
+            "full_time": "3-1"
+          }
         }
       ]
     },
@@ -1894,61 +2764,91 @@
           "date": "2019-03-29",
           "time": "20:45",
           "home_team": "Stade Rennais",
-          "away_team": "Olympique Lyonnais"
+          "away_team": "Olympique Lyonnais",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2019-03-30",
           "time": "17:00",
           "home_team": "Olympique Marseille",
-          "away_team": "Angers SCO"
+          "away_team": "Angers SCO",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2019-03-31",
           "time": "15:00",
           "home_team": "Amiens SC",
-          "away_team": "Girondins Bordeaux"
+          "away_team": "Girondins Bordeaux",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2019-03-31",
           "time": "15:00",
           "home_team": "Dijon FCO",
-          "away_team": "OGC Nice"
+          "away_team": "OGC Nice",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2019-03-31",
           "time": "15:00",
           "home_team": "AS Monaco",
-          "away_team": "SM Caen"
+          "away_team": "SM Caen",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2019-03-31",
           "time": "17:00",
           "home_team": "FC Nantes",
-          "away_team": "Lille OSC"
+          "away_team": "Lille OSC",
+          "result": {
+            "full_time": "2-3"
+          }
         },
         {
           "date": "2019-03-31",
           "time": "21:00",
           "home_team": "Toulouse FC",
-          "away_team": "Paris Saint-Germain"
+          "away_team": "Paris Saint-Germain",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2019-04-01",
           "time": "20:30",
           "home_team": "AS Saint-Étienne",
-          "away_team": "Nîmes Olympique"
+          "away_team": "Nîmes Olympique",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2019-04-03",
           "time": "19:00",
           "home_team": "Montpellier HSC",
-          "away_team": "EA Guingamp"
+          "away_team": "EA Guingamp",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2019-04-03",
           "time": "19:00",
           "home_team": "RC Strasbourg",
-          "away_team": "Stade de Reims"
+          "away_team": "Stade de Reims",
+          "result": {
+            "full_time": "4-0"
+          }
         }
       ]
     },
@@ -1959,61 +2859,91 @@
           "date": "2019-04-05",
           "time": "20:45",
           "home_team": "Girondins Bordeaux",
-          "away_team": "Olympique Marseille"
+          "away_team": "Olympique Marseille",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2019-04-06",
           "time": "17:00",
           "home_team": "Olympique Lyonnais",
-          "away_team": "Dijon FCO"
+          "away_team": "Dijon FCO",
+          "result": {
+            "full_time": "1-3"
+          }
         },
         {
           "date": "2019-04-06",
           "time": "20:00",
           "home_team": "Amiens SC",
-          "away_team": "AS Saint-Étienne"
+          "away_team": "AS Saint-Étienne",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2019-04-06",
           "time": "20:00",
           "home_team": "Angers SCO",
-          "away_team": "Stade Rennais"
+          "away_team": "Stade Rennais",
+          "result": {
+            "full_time": "3-3"
+          }
         },
         {
           "date": "2019-04-06",
           "time": "20:00",
           "home_team": "EA Guingamp",
-          "away_team": "AS Monaco"
+          "away_team": "AS Monaco",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2019-04-06",
           "time": "20:00",
           "home_team": "Nîmes Olympique",
-          "away_team": "SM Caen"
+          "away_team": "SM Caen",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2019-04-07",
           "time": "15:00",
           "home_team": "Stade de Reims",
-          "away_team": "Lille OSC"
+          "away_team": "Lille OSC",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2019-04-07",
           "time": "15:00",
           "home_team": "Toulouse FC",
-          "away_team": "FC Nantes"
+          "away_team": "FC Nantes",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2019-04-07",
           "time": "17:00",
           "home_team": "OGC Nice",
-          "away_team": "Montpellier HSC"
+          "away_team": "Montpellier HSC",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2019-04-07",
           "time": "21:00",
           "home_team": "Paris Saint-Germain",
-          "away_team": "RC Strasbourg"
+          "away_team": "RC Strasbourg",
+          "result": {
+            "full_time": "2-2"
+          }
         }
       ]
     },
@@ -2024,61 +2954,91 @@
           "date": "2019-04-12",
           "time": "19:00",
           "home_team": "Dijon FCO",
-          "away_team": "Amiens SC"
+          "away_team": "Amiens SC",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2019-04-12",
           "time": "20:45",
           "home_team": "FC Nantes",
-          "away_team": "Olympique Lyonnais"
+          "away_team": "Olympique Lyonnais",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2019-04-13",
           "time": "17:00",
           "home_team": "Olympique Marseille",
-          "away_team": "Nîmes Olympique"
+          "away_team": "Nîmes Olympique",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2019-04-13",
           "time": "20:00",
           "home_team": "SM Caen",
-          "away_team": "Angers SCO"
+          "away_team": "Angers SCO",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2019-04-13",
           "time": "20:00",
           "home_team": "AS Monaco",
-          "away_team": "Stade de Reims"
+          "away_team": "Stade de Reims",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2019-04-13",
           "time": "20:00",
           "home_team": "RC Strasbourg",
-          "away_team": "EA Guingamp"
+          "away_team": "EA Guingamp",
+          "result": {
+            "full_time": "3-3"
+          }
         },
         {
           "date": "2019-04-14",
           "time": "15:00",
           "home_team": "Montpellier HSC",
-          "away_team": "Toulouse FC"
+          "away_team": "Toulouse FC",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2019-04-14",
           "time": "15:00",
           "home_team": "Stade Rennais",
-          "away_team": "OGC Nice"
+          "away_team": "OGC Nice",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2019-04-14",
           "time": "17:00",
           "home_team": "AS Saint-Étienne",
-          "away_team": "Girondins Bordeaux"
+          "away_team": "Girondins Bordeaux",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2019-04-14",
           "time": "21:00",
           "home_team": "Lille OSC",
-          "away_team": "Paris Saint-Germain"
+          "away_team": "Paris Saint-Germain",
+          "result": {
+            "full_time": "5-1"
+          }
         }
       ]
     },
@@ -2089,61 +3049,91 @@
           "date": "2019-04-19",
           "time": "19:00",
           "home_team": "Dijon FCO",
-          "away_team": "Stade Rennais"
+          "away_team": "Stade Rennais",
+          "result": {
+            "full_time": "3-2"
+          }
         },
         {
           "date": "2019-04-19",
           "time": "20:45",
           "home_team": "Olympique Lyonnais",
-          "away_team": "Angers SCO"
+          "away_team": "Angers SCO",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2019-04-20",
           "time": "17:00",
           "home_team": "EA Guingamp",
-          "away_team": "Olympique Marseille"
+          "away_team": "Olympique Marseille",
+          "result": {
+            "full_time": "1-3"
+          }
         },
         {
           "date": "2019-04-20",
           "time": "20:00",
           "home_team": "OGC Nice",
-          "away_team": "SM Caen"
+          "away_team": "SM Caen",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2019-04-20",
           "time": "20:00",
           "home_team": "Nîmes Olympique",
-          "away_team": "Girondins Bordeaux"
+          "away_team": "Girondins Bordeaux",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2019-04-20",
           "time": "20:00",
           "home_team": "RC Strasbourg",
-          "away_team": "Montpellier HSC"
+          "away_team": "Montpellier HSC",
+          "result": {
+            "full_time": "1-3"
+          }
         },
         {
           "date": "2019-04-21",
           "time": "15:00",
           "home_team": "FC Nantes",
-          "away_team": "Amiens SC"
+          "away_team": "Amiens SC",
+          "result": {
+            "full_time": "3-2"
+          }
         },
         {
           "date": "2019-04-21",
           "time": "15:00",
           "home_team": "Toulouse FC",
-          "away_team": "Lille OSC"
+          "away_team": "Lille OSC",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2019-04-21",
           "time": "17:00",
           "home_team": "Stade de Reims",
-          "away_team": "AS Saint-Étienne"
+          "away_team": "AS Saint-Étienne",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2019-04-21",
           "time": "21:00",
           "home_team": "Paris Saint-Germain",
-          "away_team": "AS Monaco"
+          "away_team": "AS Monaco",
+          "result": {
+            "full_time": "3-1"
+          }
         }
       ]
     },
@@ -2154,61 +3144,91 @@
           "date": "2019-04-26",
           "time": "20:45",
           "home_team": "Girondins Bordeaux",
-          "away_team": "Olympique Lyonnais"
+          "away_team": "Olympique Lyonnais",
+          "result": {
+            "full_time": "2-3"
+          }
         },
         {
           "date": "2019-04-28",
           "time": "15:00",
           "home_team": "Amiens SC",
-          "away_team": "RC Strasbourg"
+          "away_team": "RC Strasbourg",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2019-04-28",
           "time": "15:00",
           "home_team": "Angers SCO",
-          "away_team": "Stade de Reims"
+          "away_team": "Stade de Reims",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2019-04-28",
           "time": "15:00",
           "home_team": "SM Caen",
-          "away_team": "Dijon FCO"
+          "away_team": "Dijon FCO",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2019-04-28",
           "time": "15:00",
           "home_team": "Lille OSC",
-          "away_team": "Nîmes Olympique"
+          "away_team": "Nîmes Olympique",
+          "result": {
+            "full_time": "5-0"
+          }
         },
         {
           "date": "2019-04-28",
           "time": "15:00",
           "home_team": "OGC Nice",
-          "away_team": "EA Guingamp"
+          "away_team": "EA Guingamp",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2019-04-28",
           "time": "17:00",
           "home_team": "AS Saint-Étienne",
-          "away_team": "Toulouse FC"
+          "away_team": "Toulouse FC",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2019-04-28",
           "time": "21:00",
           "home_team": "Olympique Marseille",
-          "away_team": "FC Nantes"
+          "away_team": "FC Nantes",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2019-04-30",
           "time": "19:00",
           "home_team": "Montpellier HSC",
-          "away_team": "Paris Saint-Germain"
+          "away_team": "Paris Saint-Germain",
+          "result": {
+            "full_time": "3-2"
+          }
         },
         {
           "date": "2019-05-01",
           "time": "19:00",
           "home_team": "Stade Rennais",
-          "away_team": "AS Monaco"
+          "away_team": "AS Monaco",
+          "result": {
+            "full_time": "2-2"
+          }
         }
       ]
     },
@@ -2219,61 +3239,91 @@
           "date": "2019-05-03",
           "time": "20:45",
           "home_team": "RC Strasbourg",
-          "away_team": "Olympique Marseille"
+          "away_team": "Olympique Marseille",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2019-05-04",
           "time": "17:00",
           "home_team": "Paris Saint-Germain",
-          "away_team": "OGC Nice"
+          "away_team": "OGC Nice",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2019-05-04",
           "time": "20:00",
           "home_team": "Girondins Bordeaux",
-          "away_team": "Angers SCO"
+          "away_team": "Angers SCO",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2019-05-04",
           "time": "20:00",
           "home_team": "EA Guingamp",
-          "away_team": "SM Caen"
+          "away_team": "SM Caen",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2019-05-04",
           "time": "20:00",
           "home_team": "Stade de Reims",
-          "away_team": "Nîmes Olympique"
+          "away_team": "Nîmes Olympique",
+          "result": {
+            "full_time": "0-3"
+          }
         },
         {
           "date": "2019-05-05",
           "time": "15:00",
           "home_team": "Montpellier HSC",
-          "away_team": "Amiens SC"
+          "away_team": "Amiens SC",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2019-05-05",
           "time": "15:00",
           "home_team": "FC Nantes",
-          "away_team": "Dijon FCO"
+          "away_team": "Dijon FCO",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2019-05-05",
           "time": "15:00",
           "home_team": "Toulouse FC",
-          "away_team": "Stade Rennais"
+          "away_team": "Stade Rennais",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2019-05-05",
           "time": "17:00",
           "home_team": "AS Monaco",
-          "away_team": "AS Saint-Étienne"
+          "away_team": "AS Saint-Étienne",
+          "result": {
+            "full_time": "2-3"
+          }
         },
         {
           "date": "2019-05-05",
           "time": "21:00",
           "home_team": "Olympique Lyonnais",
-          "away_team": "Lille OSC"
+          "away_team": "Lille OSC",
+          "result": {
+            "full_time": "2-2"
+          }
         }
       ]
     },
@@ -2284,61 +3334,91 @@
           "date": "2019-05-10",
           "time": "20:45",
           "home_team": "AS Saint-Étienne",
-          "away_team": "Montpellier HSC"
+          "away_team": "Montpellier HSC",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2019-05-11",
           "time": "17:00",
           "home_team": "Angers SCO",
-          "away_team": "Paris Saint-Germain"
+          "away_team": "Paris Saint-Germain",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2019-05-11",
           "time": "20:00",
           "home_team": "Amiens SC",
-          "away_team": "Toulouse FC"
+          "away_team": "Toulouse FC",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2019-05-11",
           "time": "20:00",
           "home_team": "SM Caen",
-          "away_team": "Stade de Reims"
+          "away_team": "Stade de Reims",
+          "result": {
+            "full_time": "3-2"
+          }
         },
         {
           "date": "2019-05-11",
           "time": "20:00",
           "home_team": "Dijon FCO",
-          "away_team": "RC Strasbourg"
+          "away_team": "RC Strasbourg",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2019-05-11",
           "time": "20:00",
           "home_team": "OGC Nice",
-          "away_team": "FC Nantes"
+          "away_team": "FC Nantes",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2019-05-11",
           "time": "20:00",
           "home_team": "Nîmes Olympique",
-          "away_team": "AS Monaco"
+          "away_team": "AS Monaco",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2019-05-12",
           "time": "15:00",
           "home_team": "Stade Rennais",
-          "away_team": "EA Guingamp"
+          "away_team": "EA Guingamp",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2019-05-12",
           "time": "17:00",
           "home_team": "Lille OSC",
-          "away_team": "Girondins Bordeaux"
+          "away_team": "Girondins Bordeaux",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2019-05-12",
           "time": "21:00",
           "home_team": "Olympique Marseille",
-          "away_team": "Olympique Lyonnais"
+          "away_team": "Olympique Lyonnais",
+          "result": {
+            "full_time": "0-3"
+          }
         }
       ]
     },
@@ -2349,61 +3429,91 @@
           "date": "2019-05-18",
           "time": "21:00",
           "home_team": "Girondins Bordeaux",
-          "away_team": "Stade de Reims"
+          "away_team": "Stade de Reims",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2019-05-18",
           "time": "21:00",
           "home_team": "EA Guingamp",
-          "away_team": "Nîmes Olympique"
+          "away_team": "Nîmes Olympique",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2019-05-18",
           "time": "21:00",
           "home_team": "Lille OSC",
-          "away_team": "Angers SCO"
+          "away_team": "Angers SCO",
+          "result": {
+            "full_time": "5-0"
+          }
         },
         {
           "date": "2019-05-18",
           "time": "21:00",
           "home_team": "Olympique Lyonnais",
-          "away_team": "SM Caen"
+          "away_team": "SM Caen",
+          "result": {
+            "full_time": "4-0"
+          }
         },
         {
           "date": "2019-05-18",
           "time": "21:00",
           "home_team": "AS Monaco",
-          "away_team": "Amiens SC"
+          "away_team": "Amiens SC",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2019-05-18",
           "time": "21:00",
           "home_team": "Montpellier HSC",
-          "away_team": "FC Nantes"
+          "away_team": "FC Nantes",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2019-05-18",
           "time": "21:00",
           "home_team": "Paris Saint-Germain",
-          "away_team": "Dijon FCO"
+          "away_team": "Dijon FCO",
+          "result": {
+            "full_time": "4-0"
+          }
         },
         {
           "date": "2019-05-18",
           "time": "21:00",
           "home_team": "AS Saint-Étienne",
-          "away_team": "OGC Nice"
+          "away_team": "OGC Nice",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2019-05-18",
           "time": "21:00",
           "home_team": "RC Strasbourg",
-          "away_team": "Stade Rennais"
+          "away_team": "Stade Rennais",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2019-05-18",
           "time": "21:00",
           "home_team": "Toulouse FC",
-          "away_team": "Olympique Marseille"
+          "away_team": "Olympique Marseille",
+          "result": {
+            "full_time": "2-5"
+          }
         }
       ]
     },
@@ -2414,61 +3524,91 @@
           "date": "2019-05-24",
           "time": "21:05",
           "home_team": "Amiens SC",
-          "away_team": "EA Guingamp"
+          "away_team": "EA Guingamp",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2019-05-24",
           "time": "21:05",
           "home_team": "Angers SCO",
-          "away_team": "AS Saint-Étienne"
+          "away_team": "AS Saint-Étienne",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2019-05-24",
           "time": "21:05",
           "home_team": "SM Caen",
-          "away_team": "Girondins Bordeaux"
+          "away_team": "Girondins Bordeaux",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2019-05-24",
           "time": "21:05",
           "home_team": "Dijon FCO",
-          "away_team": "Toulouse FC"
+          "away_team": "Toulouse FC",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2019-05-24",
           "time": "21:05",
           "home_team": "Olympique Marseille",
-          "away_team": "Montpellier HSC"
+          "away_team": "Montpellier HSC",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2019-05-24",
           "time": "21:05",
           "home_team": "FC Nantes",
-          "away_team": "RC Strasbourg"
+          "away_team": "RC Strasbourg",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2019-05-24",
           "time": "21:05",
           "home_team": "OGC Nice",
-          "away_team": "AS Monaco"
+          "away_team": "AS Monaco",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2019-05-24",
           "time": "21:05",
           "home_team": "Nîmes Olympique",
-          "away_team": "Olympique Lyonnais"
+          "away_team": "Olympique Lyonnais",
+          "result": {
+            "full_time": "2-3"
+          }
         },
         {
           "date": "2019-05-24",
           "time": "21:05",
           "home_team": "Stade de Reims",
-          "away_team": "Paris Saint-Germain"
+          "away_team": "Paris Saint-Germain",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2019-05-24",
           "time": "21:05",
           "home_team": "Stade Rennais",
-          "away_team": "Lille OSC"
+          "away_team": "Lille OSC",
+          "result": {
+            "full_time": "3-1"
+          }
         }
       ]
     }

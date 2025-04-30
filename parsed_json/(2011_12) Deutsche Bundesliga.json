@@ -9,55 +9,82 @@
           "date": "2011-08-05",
           "time": "20:30",
           "home_team": "Borussia Dortmund",
-          "away_team": "Hamburger SV"
+          "away_team": "Hamburger SV",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2011-08-06",
           "time": "15:30",
           "home_team": "Werder Bremen",
-          "away_team": "1. FC Kaiserslautern"
+          "away_team": "1. FC Kaiserslautern",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2011-08-06",
           "time": "15:30",
           "home_team": "Hannover 96",
-          "away_team": "1899 Hoffenheim"
+          "away_team": "1899 Hoffenheim",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2011-08-06",
           "time": "15:30",
           "home_team": "VfB Stuttgart",
-          "away_team": "FC Schalke 04"
+          "away_team": "FC Schalke 04",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2011-08-06",
           "time": "15:30",
           "home_team": "1. FC Köln",
-          "away_team": "VfL Wolfsburg"
+          "away_team": "VfL Wolfsburg",
+          "result": {
+            "full_time": "0-3"
+          }
         },
         {
           "date": "2011-08-06",
           "time": "15:30",
           "home_team": "FC Augsburg",
-          "away_team": "SC Freiburg"
+          "away_team": "SC Freiburg",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2011-08-06",
           "time": "18:30",
           "home_team": "Hertha BSC",
-          "away_team": "1. FC Nürnberg"
+          "away_team": "1. FC Nürnberg",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2011-08-07",
           "time": "15:30",
           "home_team": "1. FSV Mainz 05",
-          "away_team": "Bayer Leverkusen"
+          "away_team": "Bayer Leverkusen",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2011-08-07",
           "time": "17:30",
           "home_team": "Bayern München",
-          "away_team": "Bor. Mönchengladbach"
+          "away_team": "Bor. Mönchengladbach",
+          "result": {
+            "full_time": "0-1"
+          }
         }
       ]
     },
@@ -68,55 +95,82 @@
           "date": "2011-08-13",
           "time": "15:30",
           "home_team": "Hamburger SV",
-          "away_team": "Hertha BSC"
+          "away_team": "Hertha BSC",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2011-08-13",
           "time": "15:30",
           "home_team": "1. FC Nürnberg",
-          "away_team": "Hannover 96"
+          "away_team": "Hannover 96",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2011-08-13",
           "time": "15:30",
           "home_team": "SC Freiburg",
-          "away_team": "1. FSV Mainz 05"
+          "away_team": "1. FSV Mainz 05",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2011-08-13",
           "time": "15:30",
           "home_team": "1899 Hoffenheim",
-          "away_team": "Borussia Dortmund"
+          "away_team": "Borussia Dortmund",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2011-08-13",
           "time": "15:30",
           "home_team": "VfL Wolfsburg",
-          "away_team": "Bayern München"
+          "away_team": "Bayern München",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2011-08-13",
           "time": "15:40",
           "home_team": "FC Schalke 04",
-          "away_team": "1. FC Köln"
+          "away_team": "1. FC Köln",
+          "result": {
+            "full_time": "5-1"
+          }
         },
         {
           "date": "2011-08-13",
           "time": "18:30",
           "home_team": "Bor. Mönchengladbach",
-          "away_team": "VfB Stuttgart"
+          "away_team": "VfB Stuttgart",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2011-08-14",
           "time": "15:30",
           "home_team": "1. FC Kaiserslautern",
-          "away_team": "FC Augsburg"
+          "away_team": "FC Augsburg",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2011-08-14",
           "time": "17:30",
           "home_team": "Bayer Leverkusen",
-          "away_team": "Werder Bremen"
+          "away_team": "Werder Bremen",
+          "result": {
+            "full_time": "1-0"
+          }
         }
       ]
     },
@@ -127,55 +181,82 @@
           "date": "2011-08-19",
           "time": "20:30",
           "home_team": "Bor. Mönchengladbach",
-          "away_team": "VfL Wolfsburg"
+          "away_team": "VfL Wolfsburg",
+          "result": {
+            "full_time": "4-1"
+          }
         },
         {
           "date": "2011-08-20",
           "time": "15:30",
           "home_team": "Borussia Dortmund",
-          "away_team": "1. FC Nürnberg"
+          "away_team": "1. FC Nürnberg",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2011-08-20",
           "time": "15:30",
           "home_team": "Bayern München",
-          "away_team": "Hamburger SV"
+          "away_team": "Hamburger SV",
+          "result": {
+            "full_time": "5-0"
+          }
         },
         {
           "date": "2011-08-20",
           "time": "15:30",
           "home_team": "Werder Bremen",
-          "away_team": "SC Freiburg"
+          "away_team": "SC Freiburg",
+          "result": {
+            "full_time": "5-3"
+          }
         },
         {
           "date": "2011-08-20",
           "time": "15:30",
           "home_team": "VfB Stuttgart",
-          "away_team": "Bayer Leverkusen"
+          "away_team": "Bayer Leverkusen",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2011-08-20",
           "time": "15:30",
           "home_team": "FC Augsburg",
-          "away_team": "1899 Hoffenheim"
+          "away_team": "1899 Hoffenheim",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2011-08-20",
           "time": "18:30",
           "home_team": "1. FC Köln",
-          "away_team": "1. FC Kaiserslautern"
+          "away_team": "1. FC Kaiserslautern",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2011-08-21",
           "time": "15:30",
           "home_team": "1. FSV Mainz 05",
-          "away_team": "FC Schalke 04"
+          "away_team": "FC Schalke 04",
+          "result": {
+            "full_time": "2-4"
+          }
         },
         {
           "date": "2011-08-21",
           "time": "17:30",
           "home_team": "Hannover 96",
-          "away_team": "Hertha BSC"
+          "away_team": "Hertha BSC",
+          "result": {
+            "full_time": "1-1"
+          }
         }
       ]
     },
@@ -186,55 +267,82 @@
           "date": "2011-08-26",
           "time": "20:30",
           "home_team": "Hertha BSC",
-          "away_team": "VfB Stuttgart"
+          "away_team": "VfB Stuttgart",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2011-08-27",
           "time": "15:30",
           "home_team": "Hamburger SV",
-          "away_team": "1. FC Köln"
+          "away_team": "1. FC Köln",
+          "result": {
+            "full_time": "3-4"
+          }
         },
         {
           "date": "2011-08-27",
           "time": "15:30",
           "home_team": "1. FC Nürnberg",
-          "away_team": "FC Augsburg"
+          "away_team": "FC Augsburg",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2011-08-27",
           "time": "15:30",
           "home_team": "SC Freiburg",
-          "away_team": "VfL Wolfsburg"
+          "away_team": "VfL Wolfsburg",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2011-08-27",
           "time": "15:30",
           "home_team": "1. FC Kaiserslautern",
-          "away_team": "Bayern München"
+          "away_team": "Bayern München",
+          "result": {
+            "full_time": "0-3"
+          }
         },
         {
           "date": "2011-08-27",
           "time": "15:30",
           "home_team": "1899 Hoffenheim",
-          "away_team": "Werder Bremen"
+          "away_team": "Werder Bremen",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2011-08-27",
           "time": "18:30",
           "home_team": "Bayer Leverkusen",
-          "away_team": "Borussia Dortmund"
+          "away_team": "Borussia Dortmund",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2011-08-28",
           "time": "15:30",
           "home_team": "Hannover 96",
-          "away_team": "1. FSV Mainz 05"
+          "away_team": "1. FSV Mainz 05",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2011-08-28",
           "time": "17:30",
           "home_team": "FC Schalke 04",
-          "away_team": "Bor. Mönchengladbach"
+          "away_team": "Bor. Mönchengladbach",
+          "result": {
+            "full_time": "1-0"
+          }
         }
       ]
     },
@@ -245,55 +353,82 @@
           "date": "2011-09-09",
           "time": "20:30",
           "home_team": "FC Augsburg",
-          "away_team": "Bayer Leverkusen"
+          "away_team": "Bayer Leverkusen",
+          "result": {
+            "full_time": "1-4"
+          }
         },
         {
           "date": "2011-09-10",
           "time": "15:30",
           "home_team": "Borussia Dortmund",
-          "away_team": "Hertha BSC"
+          "away_team": "Hertha BSC",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2011-09-10",
           "time": "15:30",
           "home_team": "Bayern München",
-          "away_team": "SC Freiburg"
+          "away_team": "SC Freiburg",
+          "result": {
+            "full_time": "7-0"
+          }
         },
         {
           "date": "2011-09-10",
           "time": "15:30",
           "home_team": "1. FSV Mainz 05",
-          "away_team": "1899 Hoffenheim"
+          "away_team": "1899 Hoffenheim",
+          "result": {
+            "full_time": "0-4"
+          }
         },
         {
           "date": "2011-09-10",
           "time": "15:30",
           "home_team": "VfB Stuttgart",
-          "away_team": "Hannover 96"
+          "away_team": "Hannover 96",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2011-09-10",
           "time": "15:30",
           "home_team": "Bor. Mönchengladbach",
-          "away_team": "1. FC Kaiserslautern"
+          "away_team": "1. FC Kaiserslautern",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2011-09-10",
           "time": "18:30",
           "home_team": "Werder Bremen",
-          "away_team": "Hamburger SV"
+          "away_team": "Hamburger SV",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2011-09-11",
           "time": "15:30",
           "home_team": "1. FC Köln",
-          "away_team": "1. FC Nürnberg"
+          "away_team": "1. FC Nürnberg",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2011-09-11",
           "time": "17:30",
           "home_team": "VfL Wolfsburg",
-          "away_team": "FC Schalke 04"
+          "away_team": "FC Schalke 04",
+          "result": {
+            "full_time": "2-1"
+          }
         }
       ]
     },
@@ -304,55 +439,82 @@
           "date": "2011-09-16",
           "time": "20:45",
           "home_team": "SC Freiburg",
-          "away_team": "VfB Stuttgart"
+          "away_team": "VfB Stuttgart",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2011-09-17",
           "time": "15:30",
           "home_team": "Bayer Leverkusen",
-          "away_team": "1. FC Köln"
+          "away_team": "1. FC Köln",
+          "result": {
+            "full_time": "1-4"
+          }
         },
         {
           "date": "2011-09-17",
           "time": "15:30",
           "home_team": "Hamburger SV",
-          "away_team": "Bor. Mönchengladbach"
+          "away_team": "Bor. Mönchengladbach",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2011-09-17",
           "time": "15:30",
           "home_team": "1. FC Nürnberg",
-          "away_team": "Werder Bremen"
+          "away_team": "Werder Bremen",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2011-09-17",
           "time": "15:30",
           "home_team": "1899 Hoffenheim",
-          "away_team": "VfL Wolfsburg"
+          "away_team": "VfL Wolfsburg",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2011-09-17",
           "time": "15:30",
           "home_team": "Hertha BSC",
-          "away_team": "FC Augsburg"
+          "away_team": "FC Augsburg",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2011-09-17",
           "time": "18:30",
           "home_team": "1. FC Kaiserslautern",
-          "away_team": "1. FSV Mainz 05"
+          "away_team": "1. FSV Mainz 05",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2011-09-18",
           "time": "15:30",
           "home_team": "Hannover 96",
-          "away_team": "Borussia Dortmund"
+          "away_team": "Borussia Dortmund",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2011-09-18",
           "time": "17:30",
           "home_team": "FC Schalke 04",
-          "away_team": "Bayern München"
+          "away_team": "Bayern München",
+          "result": {
+            "full_time": "0-2"
+          }
         }
       ]
     },
@@ -363,55 +525,82 @@
           "date": "2011-09-23",
           "time": "20:40",
           "home_team": "VfB Stuttgart",
-          "away_team": "Hamburger SV"
+          "away_team": "Hamburger SV",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2011-09-24",
           "time": "15:30",
           "home_team": "FC Schalke 04",
-          "away_team": "SC Freiburg"
+          "away_team": "SC Freiburg",
+          "result": {
+            "full_time": "4-2"
+          }
         },
         {
           "date": "2011-09-24",
           "time": "15:30",
           "home_team": "1. FSV Mainz 05",
-          "away_team": "Borussia Dortmund"
+          "away_team": "Borussia Dortmund",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2011-09-24",
           "time": "15:30",
           "home_team": "VfL Wolfsburg",
-          "away_team": "1. FC Kaiserslautern"
+          "away_team": "1. FC Kaiserslautern",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2011-09-24",
           "time": "15:30",
           "home_team": "Bor. Mönchengladbach",
-          "away_team": "1. FC Nürnberg"
+          "away_team": "1. FC Nürnberg",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2011-09-24",
           "time": "15:30",
           "home_team": "FC Augsburg",
-          "away_team": "Hannover 96"
+          "away_team": "Hannover 96",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2011-09-24",
           "time": "18:30",
           "home_team": "Bayern München",
-          "away_team": "Bayer Leverkusen"
+          "away_team": "Bayer Leverkusen",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2011-09-25",
           "time": "15:40",
           "home_team": "1. FC Köln",
-          "away_team": "1899 Hoffenheim"
+          "away_team": "1899 Hoffenheim",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2011-09-25",
           "time": "17:30",
           "home_team": "Werder Bremen",
-          "away_team": "Hertha BSC"
+          "away_team": "Hertha BSC",
+          "result": {
+            "full_time": "2-1"
+          }
         }
       ]
     },
@@ -422,55 +611,82 @@
           "date": "2011-09-30",
           "time": "20:40",
           "home_team": "1. FC Kaiserslautern",
-          "away_team": "VfB Stuttgart"
+          "away_team": "VfB Stuttgart",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2011-10-01",
           "time": "15:30",
           "home_team": "Borussia Dortmund",
-          "away_team": "FC Augsburg"
+          "away_team": "FC Augsburg",
+          "result": {
+            "full_time": "4-0"
+          }
         },
         {
           "date": "2011-10-01",
           "time": "15:30",
           "home_team": "Bayer Leverkusen",
-          "away_team": "VfL Wolfsburg"
+          "away_team": "VfL Wolfsburg",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2011-10-01",
           "time": "15:30",
           "home_team": "1. FC Nürnberg",
-          "away_team": "1. FSV Mainz 05"
+          "away_team": "1. FSV Mainz 05",
+          "result": {
+            "full_time": "3-3"
+          }
         },
         {
           "date": "2011-10-01",
           "time": "15:30",
           "home_team": "SC Freiburg",
-          "away_team": "Bor. Mönchengladbach"
+          "away_team": "Bor. Mönchengladbach",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2011-10-01",
           "time": "15:30",
           "home_team": "1899 Hoffenheim",
-          "away_team": "Bayern München"
+          "away_team": "Bayern München",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2011-10-01",
           "time": "18:30",
           "home_team": "Hertha BSC",
-          "away_team": "1. FC Köln"
+          "away_team": "1. FC Köln",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2011-10-02",
           "time": "15:30",
           "home_team": "Hannover 96",
-          "away_team": "Werder Bremen"
+          "away_team": "Werder Bremen",
+          "result": {
+            "full_time": "3-2"
+          }
         },
         {
           "date": "2011-10-02",
           "time": "17:30",
           "home_team": "Hamburger SV",
-          "away_team": "FC Schalke 04"
+          "away_team": "FC Schalke 04",
+          "result": {
+            "full_time": "1-2"
+          }
         }
       ]
     },
@@ -481,55 +697,82 @@
           "date": "2011-10-14",
           "time": "20:30",
           "home_team": "Werder Bremen",
-          "away_team": "Borussia Dortmund"
+          "away_team": "Borussia Dortmund",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2011-10-15",
           "time": "15:30",
           "home_team": "Bayern München",
-          "away_team": "Hertha BSC"
+          "away_team": "Hertha BSC",
+          "result": {
+            "full_time": "4-0"
+          }
         },
         {
           "date": "2011-10-15",
           "time": "15:30",
           "home_team": "1. FSV Mainz 05",
-          "away_team": "FC Augsburg"
+          "away_team": "FC Augsburg",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2011-10-15",
           "time": "15:30",
           "home_team": "VfB Stuttgart",
-          "away_team": "1899 Hoffenheim"
+          "away_team": "1899 Hoffenheim",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2011-10-15",
           "time": "15:30",
           "home_team": "VfL Wolfsburg",
-          "away_team": "1. FC Nürnberg"
+          "away_team": "1. FC Nürnberg",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2011-10-15",
           "time": "15:30",
           "home_team": "Bor. Mönchengladbach",
-          "away_team": "Bayer Leverkusen"
+          "away_team": "Bayer Leverkusen",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2011-10-15",
           "time": "18:30",
           "home_team": "FC Schalke 04",
-          "away_team": "1. FC Kaiserslautern"
+          "away_team": "1. FC Kaiserslautern",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2011-10-16",
           "time": "15:30",
           "home_team": "SC Freiburg",
-          "away_team": "Hamburger SV"
+          "away_team": "Hamburger SV",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2011-10-16",
           "time": "17:30",
           "home_team": "1. FC Köln",
-          "away_team": "Hannover 96"
+          "away_team": "Hannover 96",
+          "result": {
+            "full_time": "2-0"
+          }
         }
       ]
     },
@@ -540,55 +783,82 @@
           "date": "2011-10-21",
           "time": "20:30",
           "home_team": "FC Augsburg",
-          "away_team": "Werder Bremen"
+          "away_team": "Werder Bremen",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2011-10-22",
           "time": "15:30",
           "home_team": "Borussia Dortmund",
-          "away_team": "1. FC Köln"
+          "away_team": "1. FC Köln",
+          "result": {
+            "full_time": "5-0"
+          }
         },
         {
           "date": "2011-10-22",
           "time": "15:30",
           "home_team": "1. FC Nürnberg",
-          "away_team": "VfB Stuttgart"
+          "away_team": "VfB Stuttgart",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2011-10-22",
           "time": "15:30",
           "home_team": "1. FC Kaiserslautern",
-          "away_team": "SC Freiburg"
+          "away_team": "SC Freiburg",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2011-10-22",
           "time": "15:30",
           "home_team": "1899 Hoffenheim",
-          "away_team": "Bor. Mönchengladbach"
+          "away_team": "Bor. Mönchengladbach",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2011-10-22",
           "time": "15:30",
           "home_team": "Hertha BSC",
-          "away_team": "1. FSV Mainz 05"
+          "away_team": "1. FSV Mainz 05",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2011-10-22",
           "time": "18:30",
           "home_team": "Hamburger SV",
-          "away_team": "VfL Wolfsburg"
+          "away_team": "VfL Wolfsburg",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2011-10-23",
           "time": "15:30",
           "home_team": "Bayer Leverkusen",
-          "away_team": "FC Schalke 04"
+          "away_team": "FC Schalke 04",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2011-10-23",
           "time": "17:30",
           "home_team": "Hannover 96",
-          "away_team": "Bayern München"
+          "away_team": "Bayern München",
+          "result": {
+            "full_time": "2-1"
+          }
         }
       ]
     },
@@ -599,55 +869,82 @@
           "date": "2011-10-28",
           "time": "20:30",
           "home_team": "SC Freiburg",
-          "away_team": "Bayer Leverkusen"
+          "away_team": "Bayer Leverkusen",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2011-10-29",
           "time": "15:30",
           "home_team": "Bayern München",
-          "away_team": "1. FC Nürnberg"
+          "away_team": "1. FC Nürnberg",
+          "result": {
+            "full_time": "4-0"
+          }
         },
         {
           "date": "2011-10-29",
           "time": "15:30",
           "home_team": "FC Schalke 04",
-          "away_team": "1899 Hoffenheim"
+          "away_team": "1899 Hoffenheim",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2011-10-29",
           "time": "15:30",
           "home_team": "VfL Wolfsburg",
-          "away_team": "Hertha BSC"
+          "away_team": "Hertha BSC",
+          "result": {
+            "full_time": "2-3"
+          }
         },
         {
           "date": "2011-10-29",
           "time": "15:30",
           "home_team": "Bor. Mönchengladbach",
-          "away_team": "Hannover 96"
+          "away_team": "Hannover 96",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2011-10-29",
           "time": "15:45",
           "home_team": "VfB Stuttgart",
-          "away_team": "Borussia Dortmund"
+          "away_team": "Borussia Dortmund",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2011-10-29",
           "time": "18:30",
           "home_team": "1. FSV Mainz 05",
-          "away_team": "Werder Bremen"
+          "away_team": "Werder Bremen",
+          "result": {
+            "full_time": "1-3"
+          }
         },
         {
           "date": "2011-10-30",
           "time": "15:30",
           "home_team": "1. FC Köln",
-          "away_team": "FC Augsburg"
+          "away_team": "FC Augsburg",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2011-10-30",
           "time": "17:30",
           "home_team": "Hamburger SV",
-          "away_team": "1. FC Kaiserslautern"
+          "away_team": "1. FC Kaiserslautern",
+          "result": {
+            "full_time": "1-1"
+          }
         }
       ]
     },
@@ -658,55 +955,82 @@
           "date": "2011-11-04",
           "time": "20:30",
           "home_team": "1. FSV Mainz 05",
-          "away_team": "VfB Stuttgart"
+          "away_team": "VfB Stuttgart",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2011-11-05",
           "time": "15:30",
           "home_team": "Borussia Dortmund",
-          "away_team": "VfL Wolfsburg"
+          "away_team": "VfL Wolfsburg",
+          "result": {
+            "full_time": "5-1"
+          }
         },
         {
           "date": "2011-11-05",
           "time": "15:30",
           "home_team": "Werder Bremen",
-          "away_team": "1. FC Köln"
+          "away_team": "1. FC Köln",
+          "result": {
+            "full_time": "3-2"
+          }
         },
         {
           "date": "2011-11-05",
           "time": "15:30",
           "home_team": "1. FC Nürnberg",
-          "away_team": "SC Freiburg"
+          "away_team": "SC Freiburg",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2011-11-05",
           "time": "15:30",
           "home_team": "1899 Hoffenheim",
-          "away_team": "1. FC Kaiserslautern"
+          "away_team": "1. FC Kaiserslautern",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2011-11-05",
           "time": "15:30",
           "home_team": "Hertha BSC",
-          "away_team": "Bor. Mönchengladbach"
+          "away_team": "Bor. Mönchengladbach",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2011-11-05",
           "time": "18:30",
           "home_team": "Bayer Leverkusen",
-          "away_team": "Hamburger SV"
+          "away_team": "Hamburger SV",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2011-11-06",
           "time": "15:30",
           "home_team": "Hannover 96",
-          "away_team": "FC Schalke 04"
+          "away_team": "FC Schalke 04",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2011-11-06",
           "time": "17:30",
           "home_team": "FC Augsburg",
-          "away_team": "Bayern München"
+          "away_team": "Bayern München",
+          "result": {
+            "full_time": "1-2"
+          }
         }
       ]
     },
@@ -717,55 +1041,82 @@
           "date": "2011-11-18",
           "time": "20:30",
           "home_team": "1. FC Kaiserslautern",
-          "away_team": "Bayer Leverkusen"
+          "away_team": "Bayer Leverkusen",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2011-11-19",
           "time": "15:30",
           "home_team": "FC Schalke 04",
-          "away_team": "1. FC Nürnberg"
+          "away_team": "1. FC Nürnberg",
+          "result": {
+            "full_time": "4-0"
+          }
         },
         {
           "date": "2011-11-19",
           "time": "15:30",
           "home_team": "SC Freiburg",
-          "away_team": "Hertha BSC"
+          "away_team": "Hertha BSC",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2011-11-19",
           "time": "15:30",
           "home_team": "VfL Wolfsburg",
-          "away_team": "Hannover 96"
+          "away_team": "Hannover 96",
+          "result": {
+            "full_time": "4-1"
+          }
         },
         {
           "date": "2011-11-19",
           "time": "15:30",
           "home_team": "Bor. Mönchengladbach",
-          "away_team": "Werder Bremen"
+          "away_team": "Werder Bremen",
+          "result": {
+            "full_time": "5-0"
+          }
         },
         {
           "date": "2011-11-19",
           "time": "18:30",
           "home_team": "Bayern München",
-          "away_team": "Borussia Dortmund"
+          "away_team": "Borussia Dortmund",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2011-11-20",
           "time": "15:30",
           "home_team": "VfB Stuttgart",
-          "away_team": "FC Augsburg"
+          "away_team": "FC Augsburg",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2011-11-20",
           "time": "17:30",
           "home_team": "Hamburger SV",
-          "away_team": "1899 Hoffenheim"
+          "away_team": "1899 Hoffenheim",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2011-12-13",
           "time": "20:30",
           "home_team": "1. FC Köln",
-          "away_team": "1. FSV Mainz 05"
+          "away_team": "1. FSV Mainz 05",
+          "result": {
+            "full_time": "1-1"
+          }
         }
       ]
     },
@@ -776,55 +1127,82 @@
           "date": "2011-11-25",
           "time": "20:30",
           "home_team": "1. FC Köln",
-          "away_team": "Bor. Mönchengladbach"
+          "away_team": "Bor. Mönchengladbach",
+          "result": {
+            "full_time": "0-3"
+          }
         },
         {
           "date": "2011-11-26",
           "time": "15:30",
           "home_team": "Borussia Dortmund",
-          "away_team": "FC Schalke 04"
+          "away_team": "FC Schalke 04",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2011-11-26",
           "time": "15:30",
           "home_team": "1. FC Nürnberg",
-          "away_team": "1. FC Kaiserslautern"
+          "away_team": "1. FC Kaiserslautern",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2011-11-26",
           "time": "15:30",
           "home_team": "1899 Hoffenheim",
-          "away_team": "SC Freiburg"
+          "away_team": "SC Freiburg",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2011-11-26",
           "time": "15:30",
           "home_team": "FC Augsburg",
-          "away_team": "VfL Wolfsburg"
+          "away_team": "VfL Wolfsburg",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2011-11-26",
           "time": "15:30",
           "home_team": "Hertha BSC",
-          "away_team": "Bayer Leverkusen"
+          "away_team": "Bayer Leverkusen",
+          "result": {
+            "full_time": "3-3"
+          }
         },
         {
           "date": "2011-11-26",
           "time": "18:30",
           "home_team": "Hannover 96",
-          "away_team": "Hamburger SV"
+          "away_team": "Hamburger SV",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2011-11-27",
           "time": "15:30",
           "home_team": "Werder Bremen",
-          "away_team": "VfB Stuttgart"
+          "away_team": "VfB Stuttgart",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2011-11-27",
           "time": "17:30",
           "home_team": "1. FSV Mainz 05",
-          "away_team": "Bayern München"
+          "away_team": "Bayern München",
+          "result": {
+            "full_time": "3-2"
+          }
         }
       ]
     },
@@ -835,55 +1213,82 @@
           "date": "2011-12-02",
           "time": "20:30",
           "home_team": "Bayer Leverkusen",
-          "away_team": "1899 Hoffenheim"
+          "away_team": "1899 Hoffenheim",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2011-12-03",
           "time": "15:30",
           "home_team": "Bayern München",
-          "away_team": "Werder Bremen"
+          "away_team": "Werder Bremen",
+          "result": {
+            "full_time": "4-1"
+          }
         },
         {
           "date": "2011-12-03",
           "time": "15:30",
           "home_team": "SC Freiburg",
-          "away_team": "Hannover 96"
+          "away_team": "Hannover 96",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2011-12-03",
           "time": "15:30",
           "home_team": "1. FC Kaiserslautern",
-          "away_team": "Hertha BSC"
+          "away_team": "Hertha BSC",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2011-12-03",
           "time": "15:30",
           "home_team": "VfL Wolfsburg",
-          "away_team": "1. FSV Mainz 05"
+          "away_team": "1. FSV Mainz 05",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2011-12-03",
           "time": "15:30",
           "home_team": "Bor. Mönchengladbach",
-          "away_team": "Borussia Dortmund"
+          "away_team": "Borussia Dortmund",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2011-12-03",
           "time": "18:30",
           "home_team": "VfB Stuttgart",
-          "away_team": "1. FC Köln"
+          "away_team": "1. FC Köln",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2011-12-04",
           "time": "15:30",
           "home_team": "Hamburger SV",
-          "away_team": "1. FC Nürnberg"
+          "away_team": "1. FC Nürnberg",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2011-12-04",
           "time": "17:30",
           "home_team": "FC Schalke 04",
-          "away_team": "FC Augsburg"
+          "away_team": "FC Augsburg",
+          "result": {
+            "full_time": "3-1"
+          }
         }
       ]
     },
@@ -894,55 +1299,82 @@
           "date": "2011-12-09",
           "time": "20:30",
           "home_team": "Hertha BSC",
-          "away_team": "FC Schalke 04"
+          "away_team": "FC Schalke 04",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2011-12-10",
           "time": "15:30",
           "home_team": "Werder Bremen",
-          "away_team": "VfL Wolfsburg"
+          "away_team": "VfL Wolfsburg",
+          "result": {
+            "full_time": "4-1"
+          }
         },
         {
           "date": "2011-12-10",
           "time": "15:30",
           "home_team": "1. FSV Mainz 05",
-          "away_team": "Hamburger SV"
+          "away_team": "Hamburger SV",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2011-12-10",
           "time": "15:30",
           "home_team": "1. FC Nürnberg",
-          "away_team": "1899 Hoffenheim"
+          "away_team": "1899 Hoffenheim",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2011-12-10",
           "time": "15:30",
           "home_team": "1. FC Köln",
-          "away_team": "SC Freiburg"
+          "away_team": "SC Freiburg",
+          "result": {
+            "full_time": "4-0"
+          }
         },
         {
           "date": "2011-12-10",
           "time": "15:30",
           "home_team": "FC Augsburg",
-          "away_team": "Bor. Mönchengladbach"
+          "away_team": "Bor. Mönchengladbach",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2011-12-10",
           "time": "18:30",
           "home_team": "Hannover 96",
-          "away_team": "Bayer Leverkusen"
+          "away_team": "Bayer Leverkusen",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2011-12-11",
           "time": "15:30",
           "home_team": "Borussia Dortmund",
-          "away_team": "1. FC Kaiserslautern"
+          "away_team": "1. FC Kaiserslautern",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2011-12-11",
           "time": "17:30",
           "home_team": "VfB Stuttgart",
-          "away_team": "Bayern München"
+          "away_team": "Bayern München",
+          "result": {
+            "full_time": "1-2"
+          }
         }
       ]
     },
@@ -953,55 +1385,82 @@
           "date": "2011-12-16",
           "time": "20:30",
           "home_team": "Bayern München",
-          "away_team": "1. FC Köln"
+          "away_team": "1. FC Köln",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2011-12-17",
           "time": "15:30",
           "home_team": "Bayer Leverkusen",
-          "away_team": "1. FC Nürnberg"
+          "away_team": "1. FC Nürnberg",
+          "result": {
+            "full_time": "0-3"
+          }
         },
         {
           "date": "2011-12-17",
           "time": "15:30",
           "home_team": "Hamburger SV",
-          "away_team": "FC Augsburg"
+          "away_team": "FC Augsburg",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2011-12-17",
           "time": "15:30",
           "home_team": "SC Freiburg",
-          "away_team": "Borussia Dortmund"
+          "away_team": "Borussia Dortmund",
+          "result": {
+            "full_time": "1-4"
+          }
         },
         {
           "date": "2011-12-17",
           "time": "15:30",
           "home_team": "1899 Hoffenheim",
-          "away_team": "Hertha BSC"
+          "away_team": "Hertha BSC",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2011-12-17",
           "time": "15:30",
           "home_team": "VfL Wolfsburg",
-          "away_team": "VfB Stuttgart"
+          "away_team": "VfB Stuttgart",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2011-12-17",
           "time": "18:30",
           "home_team": "FC Schalke 04",
-          "away_team": "Werder Bremen"
+          "away_team": "Werder Bremen",
+          "result": {
+            "full_time": "5-0"
+          }
         },
         {
           "date": "2011-12-18",
           "time": "15:30",
           "home_team": "1. FC Kaiserslautern",
-          "away_team": "Hannover 96"
+          "away_team": "Hannover 96",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2011-12-18",
           "time": "17:30",
           "home_team": "Bor. Mönchengladbach",
-          "away_team": "1. FSV Mainz 05"
+          "away_team": "1. FSV Mainz 05",
+          "result": {
+            "full_time": "1-0"
+          }
         }
       ]
     },
@@ -1012,55 +1471,82 @@
           "date": "2012-01-20",
           "time": "20:30",
           "home_team": "Bor. Mönchengladbach",
-          "away_team": "Bayern München"
+          "away_team": "Bayern München",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2012-01-21",
           "time": "15:30",
           "home_team": "1899 Hoffenheim",
-          "away_team": "Hannover 96"
+          "away_team": "Hannover 96",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2012-01-21",
           "time": "15:30",
           "home_team": "FC Schalke 04",
-          "away_team": "VfB Stuttgart"
+          "away_team": "VfB Stuttgart",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2012-01-21",
           "time": "15:30",
           "home_team": "VfL Wolfsburg",
-          "away_team": "1. FC Köln"
+          "away_team": "1. FC Köln",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2012-01-21",
           "time": "15:30",
           "home_team": "SC Freiburg",
-          "away_team": "FC Augsburg"
+          "away_team": "FC Augsburg",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2012-01-21",
           "time": "15:30",
           "home_team": "1. FC Nürnberg",
-          "away_team": "Hertha BSC"
+          "away_team": "Hertha BSC",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2012-01-21",
           "time": "18:30",
           "home_team": "1. FC Kaiserslautern",
-          "away_team": "Werder Bremen"
+          "away_team": "Werder Bremen",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2012-01-22",
           "time": "15:30",
           "home_team": "Hamburger SV",
-          "away_team": "Borussia Dortmund"
+          "away_team": "Borussia Dortmund",
+          "result": {
+            "full_time": "1-5"
+          }
         },
         {
           "date": "2012-01-22",
           "time": "17:30",
           "home_team": "Bayer Leverkusen",
-          "away_team": "1. FSV Mainz 05"
+          "away_team": "1. FSV Mainz 05",
+          "result": {
+            "full_time": "3-2"
+          }
         }
       ]
     },
@@ -1071,55 +1557,82 @@
           "date": "2012-01-27",
           "time": "20:30",
           "home_team": "Hannover 96",
-          "away_team": "1. FC Nürnberg"
+          "away_team": "1. FC Nürnberg",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2012-01-28",
           "time": "15:30",
           "home_team": "Werder Bremen",
-          "away_team": "Bayer Leverkusen"
+          "away_team": "Bayer Leverkusen",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2012-01-28",
           "time": "15:30",
           "home_team": "Hertha BSC",
-          "away_team": "Hamburger SV"
+          "away_team": "Hamburger SV",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2012-01-28",
           "time": "15:30",
           "home_team": "FC Augsburg",
-          "away_team": "1. FC Kaiserslautern"
+          "away_team": "1. FC Kaiserslautern",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2012-01-28",
           "time": "15:30",
           "home_team": "Borussia Dortmund",
-          "away_team": "1899 Hoffenheim"
+          "away_team": "1899 Hoffenheim",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2012-01-28",
           "time": "15:30",
           "home_team": "Bayern München",
-          "away_team": "VfL Wolfsburg"
+          "away_team": "VfL Wolfsburg",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2012-01-28",
           "time": "18:30",
           "home_team": "1. FC Köln",
-          "away_team": "FC Schalke 04"
+          "away_team": "FC Schalke 04",
+          "result": {
+            "full_time": "1-4"
+          }
         },
         {
           "date": "2012-01-29",
           "time": "15:30",
           "home_team": "1. FSV Mainz 05",
-          "away_team": "SC Freiburg"
+          "away_team": "SC Freiburg",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2012-01-29",
           "time": "17:30",
           "home_team": "VfB Stuttgart",
-          "away_team": "Bor. Mönchengladbach"
+          "away_team": "Bor. Mönchengladbach",
+          "result": {
+            "full_time": "0-3"
+          }
         }
       ]
     },
@@ -1130,55 +1643,82 @@
           "date": "2012-02-03",
           "time": "20:30",
           "home_team": "1. FC Nürnberg",
-          "away_team": "Borussia Dortmund"
+          "away_team": "Borussia Dortmund",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2012-02-04",
           "time": "15:30",
           "home_team": "Hertha BSC",
-          "away_team": "Hannover 96"
+          "away_team": "Hannover 96",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2012-02-04",
           "time": "15:30",
           "home_team": "FC Schalke 04",
-          "away_team": "1. FSV Mainz 05"
+          "away_team": "1. FSV Mainz 05",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2012-02-04",
           "time": "15:30",
           "home_team": "Bayer Leverkusen",
-          "away_team": "VfB Stuttgart"
+          "away_team": "VfB Stuttgart",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2012-02-04",
           "time": "15:30",
           "home_team": "VfL Wolfsburg",
-          "away_team": "Bor. Mönchengladbach"
+          "away_team": "Bor. Mönchengladbach",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2012-02-04",
           "time": "15:30",
           "home_team": "1899 Hoffenheim",
-          "away_team": "FC Augsburg"
+          "away_team": "FC Augsburg",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2012-02-04",
           "time": "18:30",
           "home_team": "Hamburger SV",
-          "away_team": "Bayern München"
+          "away_team": "Bayern München",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2012-02-05",
           "time": "15:30",
           "home_team": "SC Freiburg",
-          "away_team": "Werder Bremen"
+          "away_team": "Werder Bremen",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2012-02-05",
           "time": "17:30",
           "home_team": "1. FC Kaiserslautern",
-          "away_team": "1. FC Köln"
+          "away_team": "1. FC Köln",
+          "result": {
+            "full_time": "0-1"
+          }
         }
       ]
     },
@@ -1189,55 +1729,82 @@
           "date": "2012-02-10",
           "time": "20:30",
           "home_team": "VfL Wolfsburg",
-          "away_team": "SC Freiburg"
+          "away_team": "SC Freiburg",
+          "result": {
+            "full_time": "3-2"
+          }
         },
         {
           "date": "2012-02-11",
           "time": "15:30",
           "home_team": "Borussia Dortmund",
-          "away_team": "Bayer Leverkusen"
+          "away_team": "Bayer Leverkusen",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2012-02-11",
           "time": "15:30",
           "home_team": "1. FSV Mainz 05",
-          "away_team": "Hannover 96"
+          "away_team": "Hannover 96",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2012-02-11",
           "time": "15:30",
           "home_team": "Bayern München",
-          "away_team": "1. FC Kaiserslautern"
+          "away_team": "1. FC Kaiserslautern",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2012-02-11",
           "time": "15:30",
           "home_team": "Werder Bremen",
-          "away_team": "1899 Hoffenheim"
+          "away_team": "1899 Hoffenheim",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2012-02-11",
           "time": "15:30",
           "home_team": "VfB Stuttgart",
-          "away_team": "Hertha BSC"
+          "away_team": "Hertha BSC",
+          "result": {
+            "full_time": "5-0"
+          }
         },
         {
           "date": "2012-02-11",
           "time": "18:30",
           "home_team": "Bor. Mönchengladbach",
-          "away_team": "FC Schalke 04"
+          "away_team": "FC Schalke 04",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2012-02-12",
           "time": "15:30",
           "home_team": "FC Augsburg",
-          "away_team": "1. FC Nürnberg"
+          "away_team": "1. FC Nürnberg",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2012-02-12",
           "time": "17:30",
           "home_team": "1. FC Köln",
-          "away_team": "Hamburger SV"
+          "away_team": "Hamburger SV",
+          "result": {
+            "full_time": "0-1"
+          }
         }
       ]
     },
@@ -1248,55 +1815,82 @@
           "date": "2012-02-17",
           "time": "20:30",
           "home_team": "1899 Hoffenheim",
-          "away_team": "1. FSV Mainz 05"
+          "away_team": "1. FSV Mainz 05",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2012-02-18",
           "time": "15:30",
           "home_team": "Hertha BSC",
-          "away_team": "Borussia Dortmund"
+          "away_team": "Borussia Dortmund",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2012-02-18",
           "time": "15:30",
           "home_team": "Hamburger SV",
-          "away_team": "Werder Bremen"
+          "away_team": "Werder Bremen",
+          "result": {
+            "full_time": "1-3"
+          }
         },
         {
           "date": "2012-02-18",
           "time": "15:30",
           "home_team": "1. FC Nürnberg",
-          "away_team": "1. FC Köln"
+          "away_team": "1. FC Köln",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2012-02-18",
           "time": "15:30",
           "home_team": "1. FC Kaiserslautern",
-          "away_team": "Bor. Mönchengladbach"
+          "away_team": "Bor. Mönchengladbach",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2012-02-18",
           "time": "15:30",
           "home_team": "Bayer Leverkusen",
-          "away_team": "FC Augsburg"
+          "away_team": "FC Augsburg",
+          "result": {
+            "full_time": "4-1"
+          }
         },
         {
           "date": "2012-02-18",
           "time": "18:30",
           "home_team": "SC Freiburg",
-          "away_team": "Bayern München"
+          "away_team": "Bayern München",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2012-02-19",
           "time": "15:30",
           "home_team": "FC Schalke 04",
-          "away_team": "VfL Wolfsburg"
+          "away_team": "VfL Wolfsburg",
+          "result": {
+            "full_time": "4-0"
+          }
         },
         {
           "date": "2012-02-19",
           "time": "17:30",
           "home_team": "Hannover 96",
-          "away_team": "VfB Stuttgart"
+          "away_team": "VfB Stuttgart",
+          "result": {
+            "full_time": "4-2"
+          }
         }
       ]
     },
@@ -1307,55 +1901,82 @@
           "date": "2012-02-24",
           "time": "20:30",
           "home_team": "Bor. Mönchengladbach",
-          "away_team": "Hamburger SV"
+          "away_team": "Hamburger SV",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2012-02-25",
           "time": "15:30",
           "home_team": "1. FC Köln",
-          "away_team": "Bayer Leverkusen"
+          "away_team": "Bayer Leverkusen",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2012-02-25",
           "time": "15:30",
           "home_team": "VfB Stuttgart",
-          "away_team": "SC Freiburg"
+          "away_team": "SC Freiburg",
+          "result": {
+            "full_time": "4-1"
+          }
         },
         {
           "date": "2012-02-25",
           "time": "15:30",
           "home_team": "1. FSV Mainz 05",
-          "away_team": "1. FC Kaiserslautern"
+          "away_team": "1. FC Kaiserslautern",
+          "result": {
+            "full_time": "4-0"
+          }
         },
         {
           "date": "2012-02-25",
           "time": "15:30",
           "home_team": "VfL Wolfsburg",
-          "away_team": "1899 Hoffenheim"
+          "away_team": "1899 Hoffenheim",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2012-02-25",
           "time": "15:30",
           "home_team": "FC Augsburg",
-          "away_team": "Hertha BSC"
+          "away_team": "Hertha BSC",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2012-02-25",
           "time": "18:30",
           "home_team": "Werder Bremen",
-          "away_team": "1. FC Nürnberg"
+          "away_team": "1. FC Nürnberg",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2012-02-26",
           "time": "15:30",
           "home_team": "Bayern München",
-          "away_team": "FC Schalke 04"
+          "away_team": "FC Schalke 04",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2012-02-26",
           "time": "17:30",
           "home_team": "Borussia Dortmund",
-          "away_team": "Hannover 96"
+          "away_team": "Hannover 96",
+          "result": {
+            "full_time": "3-1"
+          }
         }
       ]
     },
@@ -1366,55 +1987,82 @@
           "date": "2012-03-03",
           "time": "15:30",
           "home_team": "Bayer Leverkusen",
-          "away_team": "Bayern München"
+          "away_team": "Bayern München",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2012-03-03",
           "time": "15:30",
           "home_team": "SC Freiburg",
-          "away_team": "FC Schalke 04"
+          "away_team": "FC Schalke 04",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2012-03-03",
           "time": "15:30",
           "home_team": "Hertha BSC",
-          "away_team": "Werder Bremen"
+          "away_team": "Werder Bremen",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2012-03-03",
           "time": "15:30",
           "home_team": "Hamburger SV",
-          "away_team": "VfB Stuttgart"
+          "away_team": "VfB Stuttgart",
+          "result": {
+            "full_time": "0-4"
+          }
         },
         {
           "date": "2012-03-03",
           "time": "15:30",
           "home_team": "1. FC Kaiserslautern",
-          "away_team": "VfL Wolfsburg"
+          "away_team": "VfL Wolfsburg",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2012-03-03",
           "time": "15:30",
           "home_team": "Hannover 96",
-          "away_team": "FC Augsburg"
+          "away_team": "FC Augsburg",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2012-03-03",
           "time": "18:30",
           "home_team": "Borussia Dortmund",
-          "away_team": "1. FSV Mainz 05"
+          "away_team": "1. FSV Mainz 05",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2012-03-04",
           "time": "15:30",
           "home_team": "1. FC Nürnberg",
-          "away_team": "Bor. Mönchengladbach"
+          "away_team": "Bor. Mönchengladbach",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2012-03-04",
           "time": "17:30",
           "home_team": "1899 Hoffenheim",
-          "away_team": "1. FC Köln"
+          "away_team": "1. FC Köln",
+          "result": {
+            "full_time": "1-1"
+          }
         }
       ]
     },
@@ -1425,55 +2073,82 @@
           "date": "2012-03-09",
           "time": "20:30",
           "home_team": "VfB Stuttgart",
-          "away_team": "1. FC Kaiserslautern"
+          "away_team": "1. FC Kaiserslautern",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2012-03-10",
           "time": "15:30",
           "home_team": "VfL Wolfsburg",
-          "away_team": "Bayer Leverkusen"
+          "away_team": "Bayer Leverkusen",
+          "result": {
+            "full_time": "3-2"
+          }
         },
         {
           "date": "2012-03-10",
           "time": "15:30",
           "home_team": "1. FSV Mainz 05",
-          "away_team": "1. FC Nürnberg"
+          "away_team": "1. FC Nürnberg",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2012-03-10",
           "time": "15:30",
           "home_team": "Bor. Mönchengladbach",
-          "away_team": "SC Freiburg"
+          "away_team": "SC Freiburg",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2012-03-10",
           "time": "15:30",
           "home_team": "Bayern München",
-          "away_team": "1899 Hoffenheim"
+          "away_team": "1899 Hoffenheim",
+          "result": {
+            "full_time": "7-1"
+          }
         },
         {
           "date": "2012-03-10",
           "time": "15:30",
           "home_team": "1. FC Köln",
-          "away_team": "Hertha BSC"
+          "away_team": "Hertha BSC",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2012-03-10",
           "time": "18:30",
           "home_team": "FC Augsburg",
-          "away_team": "Borussia Dortmund"
+          "away_team": "Borussia Dortmund",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2012-03-11",
           "time": "15:30",
           "home_team": "Werder Bremen",
-          "away_team": "Hannover 96"
+          "away_team": "Hannover 96",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2012-03-11",
           "time": "17:30",
           "home_team": "FC Schalke 04",
-          "away_team": "Hamburger SV"
+          "away_team": "Hamburger SV",
+          "result": {
+            "full_time": "3-1"
+          }
         }
       ]
     },
@@ -1484,55 +2159,82 @@
           "date": "2012-03-16",
           "time": "20:30",
           "home_team": "1899 Hoffenheim",
-          "away_team": "VfB Stuttgart"
+          "away_team": "VfB Stuttgart",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2012-03-17",
           "time": "15:30",
           "home_team": "Borussia Dortmund",
-          "away_team": "Werder Bremen"
+          "away_team": "Werder Bremen",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2012-03-17",
           "time": "15:30",
           "home_team": "FC Augsburg",
-          "away_team": "1. FSV Mainz 05"
+          "away_team": "1. FSV Mainz 05",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2012-03-17",
           "time": "15:30",
           "home_team": "Hamburger SV",
-          "away_team": "SC Freiburg"
+          "away_team": "SC Freiburg",
+          "result": {
+            "full_time": "1-3"
+          }
         },
         {
           "date": "2012-03-17",
           "time": "15:30",
           "home_team": "1. FC Nürnberg",
-          "away_team": "VfL Wolfsburg"
+          "away_team": "VfL Wolfsburg",
+          "result": {
+            "full_time": "1-3"
+          }
         },
         {
           "date": "2012-03-17",
           "time": "15:30",
           "home_team": "Bayer Leverkusen",
-          "away_team": "Bor. Mönchengladbach"
+          "away_team": "Bor. Mönchengladbach",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2012-03-17",
           "time": "18:30",
           "home_team": "Hertha BSC",
-          "away_team": "Bayern München"
+          "away_team": "Bayern München",
+          "result": {
+            "full_time": "0-6"
+          }
         },
         {
           "date": "2012-03-18",
           "time": "15:30",
           "home_team": "1. FC Kaiserslautern",
-          "away_team": "FC Schalke 04"
+          "away_team": "FC Schalke 04",
+          "result": {
+            "full_time": "1-4"
+          }
         },
         {
           "date": "2012-03-18",
           "time": "17:30",
           "home_team": "Hannover 96",
-          "away_team": "1. FC Köln"
+          "away_team": "1. FC Köln",
+          "result": {
+            "full_time": "4-1"
+          }
         }
       ]
     },
@@ -1543,55 +2245,82 @@
           "date": "2012-03-23",
           "time": "20:30",
           "home_team": "VfL Wolfsburg",
-          "away_team": "Hamburger SV"
+          "away_team": "Hamburger SV",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2012-03-24",
           "time": "15:30",
           "home_team": "Bayern München",
-          "away_team": "Hannover 96"
+          "away_team": "Hannover 96",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2012-03-24",
           "time": "15:30",
           "home_team": "SC Freiburg",
-          "away_team": "1. FC Kaiserslautern"
+          "away_team": "1. FC Kaiserslautern",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2012-03-24",
           "time": "15:30",
           "home_team": "Bor. Mönchengladbach",
-          "away_team": "1899 Hoffenheim"
+          "away_team": "1899 Hoffenheim",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2012-03-24",
           "time": "15:30",
           "home_team": "Werder Bremen",
-          "away_team": "FC Augsburg"
+          "away_team": "FC Augsburg",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2012-03-24",
           "time": "15:30",
           "home_team": "1. FSV Mainz 05",
-          "away_team": "Hertha BSC"
+          "away_team": "Hertha BSC",
+          "result": {
+            "full_time": "1-3"
+          }
         },
         {
           "date": "2012-03-24",
           "time": "18:30",
           "home_team": "FC Schalke 04",
-          "away_team": "Bayer Leverkusen"
+          "away_team": "Bayer Leverkusen",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2012-03-25",
           "time": "15:30",
           "home_team": "VfB Stuttgart",
-          "away_team": "1. FC Nürnberg"
+          "away_team": "1. FC Nürnberg",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2012-03-25",
           "time": "17:40",
           "home_team": "1. FC Köln",
-          "away_team": "Borussia Dortmund"
+          "away_team": "Borussia Dortmund",
+          "result": {
+            "full_time": "1-6"
+          }
         }
       ]
     },
@@ -1602,55 +2331,82 @@
           "date": "2012-03-30",
           "time": "20:30",
           "home_team": "Borussia Dortmund",
-          "away_team": "VfB Stuttgart"
+          "away_team": "VfB Stuttgart",
+          "result": {
+            "full_time": "4-4"
+          }
         },
         {
           "date": "2012-03-31",
           "time": "15:30",
           "home_team": "1. FC Nürnberg",
-          "away_team": "Bayern München"
+          "away_team": "Bayern München",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2012-03-31",
           "time": "15:30",
           "home_team": "1. FC Kaiserslautern",
-          "away_team": "Hamburger SV"
+          "away_team": "Hamburger SV",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2012-03-31",
           "time": "15:30",
           "home_team": "Werder Bremen",
-          "away_team": "1. FSV Mainz 05"
+          "away_team": "1. FSV Mainz 05",
+          "result": {
+            "full_time": "0-3"
+          }
         },
         {
           "date": "2012-03-31",
           "time": "15:30",
           "home_team": "Bayer Leverkusen",
-          "away_team": "SC Freiburg"
+          "away_team": "SC Freiburg",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2012-03-31",
           "time": "15:30",
           "home_team": "FC Augsburg",
-          "away_team": "1. FC Köln"
+          "away_team": "1. FC Köln",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2012-03-31",
           "time": "18:30",
           "home_team": "Hertha BSC",
-          "away_team": "VfL Wolfsburg"
+          "away_team": "VfL Wolfsburg",
+          "result": {
+            "full_time": "1-4"
+          }
         },
         {
           "date": "2012-04-01",
           "time": "15:30",
           "home_team": "Hannover 96",
-          "away_team": "Bor. Mönchengladbach"
+          "away_team": "Bor. Mönchengladbach",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2012-04-01",
           "time": "17:30",
           "home_team": "1899 Hoffenheim",
-          "away_team": "FC Schalke 04"
+          "away_team": "FC Schalke 04",
+          "result": {
+            "full_time": "1-1"
+          }
         }
       ]
     },
@@ -1661,55 +2417,82 @@
           "date": "2012-04-07",
           "time": "15:30",
           "home_team": "VfL Wolfsburg",
-          "away_team": "Borussia Dortmund"
+          "away_team": "Borussia Dortmund",
+          "result": {
+            "full_time": "1-3"
+          }
         },
         {
           "date": "2012-04-07",
           "time": "15:30",
           "home_team": "1. FC Köln",
-          "away_team": "Werder Bremen"
+          "away_team": "Werder Bremen",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2012-04-07",
           "time": "15:30",
           "home_team": "VfB Stuttgart",
-          "away_team": "1. FSV Mainz 05"
+          "away_team": "1. FSV Mainz 05",
+          "result": {
+            "full_time": "4-1"
+          }
         },
         {
           "date": "2012-04-07",
           "time": "15:30",
           "home_team": "SC Freiburg",
-          "away_team": "1. FC Nürnberg"
+          "away_team": "1. FC Nürnberg",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2012-04-07",
           "time": "15:30",
           "home_team": "1. FC Kaiserslautern",
-          "away_team": "1899 Hoffenheim"
+          "away_team": "1899 Hoffenheim",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2012-04-07",
           "time": "15:30",
           "home_team": "Bayern München",
-          "away_team": "FC Augsburg"
+          "away_team": "FC Augsburg",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2012-04-07",
           "time": "18:30",
           "home_team": "Bor. Mönchengladbach",
-          "away_team": "Hertha BSC"
+          "away_team": "Hertha BSC",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2012-04-08",
           "time": "15:30",
           "home_team": "FC Schalke 04",
-          "away_team": "Hannover 96"
+          "away_team": "Hannover 96",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2012-04-08",
           "time": "17:30",
           "home_team": "Hamburger SV",
-          "away_team": "Bayer Leverkusen"
+          "away_team": "Bayer Leverkusen",
+          "result": {
+            "full_time": "1-1"
+          }
         }
       ]
     },
@@ -1720,55 +2503,82 @@
           "date": "2012-04-10",
           "time": "20:00",
           "home_team": "Hertha BSC",
-          "away_team": "SC Freiburg"
+          "away_team": "SC Freiburg",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2012-04-10",
           "time": "20:00",
           "home_team": "FC Augsburg",
-          "away_team": "VfB Stuttgart"
+          "away_team": "VfB Stuttgart",
+          "result": {
+            "full_time": "1-3"
+          }
         },
         {
           "date": "2012-04-10",
           "time": "20:00",
           "home_team": "1. FSV Mainz 05",
-          "away_team": "1. FC Köln"
+          "away_team": "1. FC Köln",
+          "result": {
+            "full_time": "4-0"
+          }
         },
         {
           "date": "2012-04-10",
           "time": "20:00",
           "home_team": "Werder Bremen",
-          "away_team": "Bor. Mönchengladbach"
+          "away_team": "Bor. Mönchengladbach",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2012-04-11",
           "time": "20:00",
           "home_team": "Borussia Dortmund",
-          "away_team": "Bayern München"
+          "away_team": "Bayern München",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2012-04-11",
           "time": "20:00",
           "home_team": "1. FC Nürnberg",
-          "away_team": "FC Schalke 04"
+          "away_team": "FC Schalke 04",
+          "result": {
+            "full_time": "4-1"
+          }
         },
         {
           "date": "2012-04-11",
           "time": "20:00",
           "home_team": "1899 Hoffenheim",
-          "away_team": "Hamburger SV"
+          "away_team": "Hamburger SV",
+          "result": {
+            "full_time": "4-0"
+          }
         },
         {
           "date": "2012-04-11",
           "time": "20:00",
           "home_team": "Bayer Leverkusen",
-          "away_team": "1. FC Kaiserslautern"
+          "away_team": "1. FC Kaiserslautern",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2012-04-11",
           "time": "20:00",
           "home_team": "Hannover 96",
-          "away_team": "VfL Wolfsburg"
+          "away_team": "VfL Wolfsburg",
+          "result": {
+            "full_time": "2-0"
+          }
         }
       ]
     },
@@ -1779,55 +2589,82 @@
           "date": "2012-04-13",
           "time": "20:30",
           "home_team": "VfB Stuttgart",
-          "away_team": "Werder Bremen"
+          "away_team": "Werder Bremen",
+          "result": {
+            "full_time": "4-1"
+          }
         },
         {
           "date": "2012-04-14",
           "time": "15:30",
           "home_team": "FC Schalke 04",
-          "away_team": "Borussia Dortmund"
+          "away_team": "Borussia Dortmund",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2012-04-14",
           "time": "15:30",
           "home_team": "Hamburger SV",
-          "away_team": "Hannover 96"
+          "away_team": "Hannover 96",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2012-04-14",
           "time": "15:30",
           "home_team": "1. FC Kaiserslautern",
-          "away_team": "1. FC Nürnberg"
+          "away_team": "1. FC Nürnberg",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2012-04-14",
           "time": "15:30",
           "home_team": "VfL Wolfsburg",
-          "away_team": "FC Augsburg"
+          "away_team": "FC Augsburg",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2012-04-14",
           "time": "15:30",
           "home_team": "Bayer Leverkusen",
-          "away_team": "Hertha BSC"
+          "away_team": "Hertha BSC",
+          "result": {
+            "full_time": "3-3"
+          }
         },
         {
           "date": "2012-04-14",
           "time": "18:30",
           "home_team": "Bayern München",
-          "away_team": "1. FSV Mainz 05"
+          "away_team": "1. FSV Mainz 05",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2012-04-15",
           "time": "15:30",
           "home_team": "Bor. Mönchengladbach",
-          "away_team": "1. FC Köln"
+          "away_team": "1. FC Köln",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2012-04-15",
           "time": "17:30",
           "home_team": "SC Freiburg",
-          "away_team": "1899 Hoffenheim"
+          "away_team": "1899 Hoffenheim",
+          "result": {
+            "full_time": "0-0"
+          }
         }
       ]
     },
@@ -1838,55 +2675,82 @@
           "date": "2012-04-20",
           "time": "20:30",
           "home_team": "1. FSV Mainz 05",
-          "away_team": "VfL Wolfsburg"
+          "away_team": "VfL Wolfsburg",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2012-04-21",
           "time": "15:30",
           "home_team": "1899 Hoffenheim",
-          "away_team": "Bayer Leverkusen"
+          "away_team": "Bayer Leverkusen",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2012-04-21",
           "time": "15:30",
           "home_team": "Werder Bremen",
-          "away_team": "Bayern München"
+          "away_team": "Bayern München",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2012-04-21",
           "time": "15:30",
           "home_team": "1. FC Nürnberg",
-          "away_team": "Hamburger SV"
+          "away_team": "Hamburger SV",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2012-04-21",
           "time": "15:30",
           "home_team": "Hertha BSC",
-          "away_team": "1. FC Kaiserslautern"
+          "away_team": "1. FC Kaiserslautern",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2012-04-21",
           "time": "15:30",
           "home_team": "1. FC Köln",
-          "away_team": "VfB Stuttgart"
+          "away_team": "VfB Stuttgart",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2012-04-21",
           "time": "18:30",
           "home_team": "Borussia Dortmund",
-          "away_team": "Bor. Mönchengladbach"
+          "away_team": "Bor. Mönchengladbach",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2012-04-22",
           "time": "15:30",
           "home_team": "FC Augsburg",
-          "away_team": "FC Schalke 04"
+          "away_team": "FC Schalke 04",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2012-04-22",
           "time": "17:30",
           "home_team": "Hannover 96",
-          "away_team": "SC Freiburg"
+          "away_team": "SC Freiburg",
+          "result": {
+            "full_time": "0-0"
+          }
         }
       ]
     },
@@ -1897,55 +2761,82 @@
           "date": "2012-04-28",
           "time": "15:30",
           "home_team": "1. FC Kaiserslautern",
-          "away_team": "Borussia Dortmund"
+          "away_team": "Borussia Dortmund",
+          "result": {
+            "full_time": "2-5"
+          }
         },
         {
           "date": "2012-04-28",
           "time": "15:30",
           "home_team": "VfL Wolfsburg",
-          "away_team": "Werder Bremen"
+          "away_team": "Werder Bremen",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2012-04-28",
           "time": "15:30",
           "home_team": "Bayer Leverkusen",
-          "away_team": "Hannover 96"
+          "away_team": "Hannover 96",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2012-04-28",
           "time": "15:30",
           "home_team": "Hamburger SV",
-          "away_team": "1. FSV Mainz 05"
+          "away_team": "1. FSV Mainz 05",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2012-04-28",
           "time": "15:30",
           "home_team": "1899 Hoffenheim",
-          "away_team": "1. FC Nürnberg"
+          "away_team": "1. FC Nürnberg",
+          "result": {
+            "full_time": "2-3"
+          }
         },
         {
           "date": "2012-04-28",
           "time": "15:30",
           "home_team": "Bayern München",
-          "away_team": "VfB Stuttgart"
+          "away_team": "VfB Stuttgart",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2012-04-28",
           "time": "15:30",
           "home_team": "SC Freiburg",
-          "away_team": "1. FC Köln"
+          "away_team": "1. FC Köln",
+          "result": {
+            "full_time": "4-1"
+          }
         },
         {
           "date": "2012-04-28",
           "time": "15:30",
           "home_team": "Bor. Mönchengladbach",
-          "away_team": "FC Augsburg"
+          "away_team": "FC Augsburg",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2012-04-28",
           "time": "15:30",
           "home_team": "FC Schalke 04",
-          "away_team": "Hertha BSC"
+          "away_team": "Hertha BSC",
+          "result": {
+            "full_time": "4-0"
+          }
         }
       ]
     },
@@ -1956,55 +2847,82 @@
           "date": "2012-05-05",
           "time": "15:30",
           "home_team": "1. FC Nürnberg",
-          "away_team": "Bayer Leverkusen"
+          "away_team": "Bayer Leverkusen",
+          "result": {
+            "full_time": "1-4"
+          }
         },
         {
           "date": "2012-05-05",
           "time": "15:30",
           "home_team": "1. FC Köln",
-          "away_team": "Bayern München"
+          "away_team": "Bayern München",
+          "result": {
+            "full_time": "1-4"
+          }
         },
         {
           "date": "2012-05-05",
           "time": "15:30",
           "home_team": "Werder Bremen",
-          "away_team": "FC Schalke 04"
+          "away_team": "FC Schalke 04",
+          "result": {
+            "full_time": "2-3"
+          }
         },
         {
           "date": "2012-05-05",
           "time": "15:30",
           "home_team": "FC Augsburg",
-          "away_team": "Hamburger SV"
+          "away_team": "Hamburger SV",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2012-05-05",
           "time": "15:30",
           "home_team": "Borussia Dortmund",
-          "away_team": "SC Freiburg"
+          "away_team": "SC Freiburg",
+          "result": {
+            "full_time": "4-0"
+          }
         },
         {
           "date": "2012-05-05",
           "time": "15:30",
           "home_team": "Hannover 96",
-          "away_team": "1. FC Kaiserslautern"
+          "away_team": "1. FC Kaiserslautern",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2012-05-05",
           "time": "15:30",
           "home_team": "Hertha BSC",
-          "away_team": "1899 Hoffenheim"
+          "away_team": "1899 Hoffenheim",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2012-05-05",
           "time": "15:30",
           "home_team": "VfB Stuttgart",
-          "away_team": "VfL Wolfsburg"
+          "away_team": "VfL Wolfsburg",
+          "result": {
+            "full_time": "3-2"
+          }
         },
         {
           "date": "2012-05-05",
           "time": "15:30",
           "home_team": "1. FSV Mainz 05",
-          "away_team": "Bor. Mönchengladbach"
+          "away_team": "Bor. Mönchengladbach",
+          "result": {
+            "full_time": "0-3"
+          }
         }
       ]
     }

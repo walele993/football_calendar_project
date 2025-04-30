@@ -9,56 +9,80 @@
           "date": "2024-07-26",
           "time": "19:00",
           "home_team": "FC Gütersloh",
-          "away_team": "MSV Duisburg"
+          "away_team": "MSV Duisburg",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2024-07-27",
           "time": "14:00",
           "home_team": "KFC Uerdingen 05",
-          "away_team": "Sportfreunde Lotte"
+          "away_team": "Sportfreunde Lotte",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2024-07-27",
           "time": "14:00",
           "home_team": "Fortuna Köln",
-          "away_team": "SV Rödinghausen"
+          "away_team": "SV Rödinghausen",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2024-07-27",
           "time": "14:00",
           "home_team": "Fortuna Düsseldorf II",
-          "away_team": "1. FC Bocholt"
+          "away_team": "1. FC Bocholt",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2024-07-27",
           "time": "14:00",
           "home_team": "SC Paderborn 07 II",
-          "away_team": "1. FC Düren"
+          "away_team": "1. FC Düren",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2024-07-27",
           "time": "14:00",
           "home_team": "Eintracht Hohkeppel",
-          "away_team": "1. FC Köln II"
+          "away_team": "1. FC Köln II",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2024-07-27",
           "time": "14:00",
           "home_team": "Rot-Weiß Oberhausen",
-          "away_team": "Bor. Mönchengladbach II"
+          "away_team": "Bor. Mönchengladbach II",
+          "result": {
+            "full_time": "2-4"
+          }
         },
         {
           "date": "2024-07-27",
           "time": "14:00",
           "home_team": "Türkspor Dortmund",
           "away_team": "Wuppertaler SV",
-          "cancelled": true
+          "result": "cancelled"
         },
         {
           "date": "2024-07-27",
           "time": "14:00",
           "home_team": "SC Wiedenbrück",
-          "away_team": "FC Schalke 04 II"
+          "away_team": "FC Schalke 04 II",
+          "result": {
+            "full_time": "0-2"
+          }
         }
       ]
     },
@@ -69,56 +93,80 @@
           "date": "2024-08-02",
           "time": "19:00",
           "home_team": "Sportfreunde Lotte",
-          "away_team": "FC Gütersloh"
+          "away_team": "FC Gütersloh",
+          "result": {
+            "full_time": "3-2"
+          }
         },
         {
           "date": "2024-08-03",
           "time": "12:30",
           "home_team": "FC Schalke 04 II",
-          "away_team": "KFC Uerdingen 05"
+          "away_team": "KFC Uerdingen 05",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2024-08-03",
           "time": "14:00",
           "home_team": "MSV Duisburg",
           "away_team": "Türkspor Dortmund",
-          "cancelled": true
+          "result": "cancelled"
         },
         {
           "date": "2024-08-03",
           "time": "14:00",
           "home_team": "Wuppertaler SV",
-          "away_team": "Rot-Weiß Oberhausen"
+          "away_team": "Rot-Weiß Oberhausen",
+          "result": {
+            "full_time": "0-5"
+          }
         },
         {
           "date": "2024-08-03",
           "time": "14:00",
           "home_team": "Bor. Mönchengladbach II",
-          "away_team": "Eintracht Hohkeppel"
+          "away_team": "Eintracht Hohkeppel",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2024-08-03",
           "time": "14:00",
           "home_team": "1. FC Köln II",
-          "away_team": "SC Paderborn 07 II"
+          "away_team": "SC Paderborn 07 II",
+          "result": {
+            "full_time": "5-0"
+          }
         },
         {
           "date": "2024-08-03",
           "time": "14:00",
           "home_team": "1. FC Bocholt",
-          "away_team": "Fortuna Köln"
+          "away_team": "Fortuna Köln",
+          "result": {
+            "full_time": "3-5"
+          }
         },
         {
           "date": "2024-08-03",
           "time": "14:00",
           "home_team": "SV Rödinghausen",
-          "away_team": "SC Wiedenbrück"
+          "away_team": "SC Wiedenbrück",
+          "result": {
+            "full_time": "3-2"
+          }
         },
         {
           "date": "2024-08-04",
           "time": "14:00",
           "home_team": "1. FC Düren",
-          "away_team": "Fortuna Düsseldorf II"
+          "away_team": "Fortuna Düsseldorf II",
+          "result": {
+            "full_time": "2-0"
+          }
         }
       ]
     },
@@ -129,56 +177,80 @@
           "date": "2024-08-09",
           "time": "18:00",
           "home_team": "Bor. Mönchengladbach II",
-          "away_team": "SC Paderborn 07 II"
+          "away_team": "SC Paderborn 07 II",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2024-08-09",
           "time": "18:30",
           "home_team": "FC Schalke 04 II",
-          "away_team": "SV Rödinghausen"
+          "away_team": "SV Rödinghausen",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2024-08-09",
           "time": "19:30",
           "home_team": "Fortuna Köln",
-          "away_team": "1. FC Düren"
+          "away_team": "1. FC Düren",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2024-08-10",
           "time": "14:00",
           "home_team": "KFC Uerdingen 05",
-          "away_team": "FC Gütersloh"
+          "away_team": "FC Gütersloh",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2024-08-10",
           "time": "14:00",
           "home_team": "Fortuna Düsseldorf II",
-          "away_team": "1. FC Köln II"
+          "away_team": "1. FC Köln II",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2024-08-10",
           "time": "14:00",
           "home_team": "Eintracht Hohkeppel",
-          "away_team": "Wuppertaler SV"
+          "away_team": "Wuppertaler SV",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2024-08-10",
           "time": "14:00",
           "home_team": "Rot-Weiß Oberhausen",
-          "away_team": "MSV Duisburg"
+          "away_team": "MSV Duisburg",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2024-08-10",
           "time": "14:00",
           "home_team": "Türkspor Dortmund",
           "away_team": "Sportfreunde Lotte",
-          "cancelled": true
+          "result": "cancelled"
         },
         {
           "date": "2024-08-10",
           "time": "14:00",
           "home_team": "SC Wiedenbrück",
-          "away_team": "1. FC Bocholt"
+          "away_team": "1. FC Bocholt",
+          "result": {
+            "full_time": "2-1"
+          }
         }
       ]
     },
@@ -189,56 +261,80 @@
           "date": "2024-08-16",
           "time": "19:30",
           "home_team": "MSV Duisburg",
-          "away_team": "Eintracht Hohkeppel"
+          "away_team": "Eintracht Hohkeppel",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2024-08-17",
           "time": "14:00",
           "home_team": "Bor. Mönchengladbach II",
-          "away_team": "Fortuna Düsseldorf II"
+          "away_team": "Fortuna Düsseldorf II",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2024-08-17",
           "time": "14:00",
           "home_team": "1. FC Düren",
-          "away_team": "SC Wiedenbrück"
+          "away_team": "SC Wiedenbrück",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2024-08-17",
           "time": "14:00",
           "home_team": "1. FC Bocholt",
-          "away_team": "FC Schalke 04 II"
+          "away_team": "FC Schalke 04 II",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2024-08-17",
           "time": "14:00",
           "home_team": "SV Rödinghausen",
-          "away_team": "KFC Uerdingen 05"
+          "away_team": "KFC Uerdingen 05",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2024-08-17",
           "time": "14:00",
           "home_team": "FC Gütersloh",
           "away_team": "Türkspor Dortmund",
-          "cancelled": true
+          "result": "cancelled"
         },
         {
           "date": "2024-08-18",
           "time": "14:00",
           "home_team": "Wuppertaler SV",
-          "away_team": "SC Paderborn 07 II"
+          "away_team": "SC Paderborn 07 II",
+          "result": {
+            "full_time": "1-4"
+          }
         },
         {
           "date": "2024-08-18",
           "time": "14:00",
           "home_team": "1. FC Köln II",
-          "away_team": "Fortuna Köln"
+          "away_team": "Fortuna Köln",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2024-09-07",
           "time": "14:00",
           "home_team": "Sportfreunde Lotte",
-          "away_team": "Rot-Weiß Oberhausen"
+          "away_team": "Rot-Weiß Oberhausen",
+          "result": {
+            "full_time": "1-4"
+          }
         }
       ]
     },
@@ -249,56 +345,80 @@
           "date": "2024-08-23",
           "time": "19:00",
           "home_team": "SC Paderborn 07 II",
-          "away_team": "MSV Duisburg"
+          "away_team": "MSV Duisburg",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2024-08-23",
           "time": "19:30",
           "home_team": "Fortuna Köln",
-          "away_team": "Bor. Mönchengladbach II"
+          "away_team": "Bor. Mönchengladbach II",
+          "result": {
+            "full_time": "4-2"
+          }
         },
         {
           "date": "2024-08-23",
           "time": "19:30",
           "home_team": "Rot-Weiß Oberhausen",
-          "away_team": "FC Gütersloh"
+          "away_team": "FC Gütersloh",
+          "result": {
+            "full_time": "3-2"
+          }
         },
         {
           "date": "2024-08-24",
           "time": "14:00",
           "home_team": "KFC Uerdingen 05",
           "away_team": "Türkspor Dortmund",
-          "cancelled": true
+          "result": "cancelled"
         },
         {
           "date": "2024-08-24",
           "time": "14:00",
           "home_team": "Eintracht Hohkeppel",
-          "away_team": "Sportfreunde Lotte"
+          "away_team": "Sportfreunde Lotte",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2024-08-24",
           "time": "14:00",
           "home_team": "SV Rödinghausen",
-          "away_team": "1. FC Bocholt"
+          "away_team": "1. FC Bocholt",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2024-08-24",
           "time": "14:00",
           "home_team": "FC Schalke 04 II",
-          "away_team": "1. FC Düren"
+          "away_team": "1. FC Düren",
+          "result": {
+            "full_time": "1-4"
+          }
         },
         {
           "date": "2024-08-24",
           "time": "14:00",
           "home_team": "SC Wiedenbrück",
-          "away_team": "1. FC Köln II"
+          "away_team": "1. FC Köln II",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2024-08-25",
           "time": "14:00",
           "home_team": "Fortuna Düsseldorf II",
-          "away_team": "Wuppertaler SV"
+          "away_team": "Wuppertaler SV",
+          "result": {
+            "full_time": "0-2"
+          }
         }
       ]
     },
@@ -309,56 +429,80 @@
           "date": "2024-08-30",
           "time": "19:30",
           "home_team": "MSV Duisburg",
-          "away_team": "Fortuna Düsseldorf II"
+          "away_team": "Fortuna Düsseldorf II",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2024-08-30",
           "time": "19:30",
           "home_team": "Wuppertaler SV",
-          "away_team": "Fortuna Köln"
+          "away_team": "Fortuna Köln",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2024-08-31",
           "time": "14:00",
           "home_team": "Bor. Mönchengladbach II",
-          "away_team": "SC Wiedenbrück"
+          "away_team": "SC Wiedenbrück",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2024-08-31",
           "time": "14:00",
           "home_team": "1. FC Düren",
-          "away_team": "SV Rödinghausen"
+          "away_team": "SV Rödinghausen",
+          "result": {
+            "full_time": "0-4"
+          }
         },
         {
           "date": "2024-08-31",
           "time": "14:00",
           "home_team": "1. FC Bocholt",
-          "away_team": "KFC Uerdingen 05"
+          "away_team": "KFC Uerdingen 05",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2024-08-31",
           "time": "14:00",
           "home_team": "Türkspor Dortmund",
           "away_team": "Rot-Weiß Oberhausen",
-          "cancelled": true
+          "result": "cancelled"
         },
         {
           "date": "2024-08-31",
           "time": "14:00",
           "home_team": "FC Gütersloh",
-          "away_team": "Eintracht Hohkeppel"
+          "away_team": "Eintracht Hohkeppel",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2024-09-01",
           "time": "14:00",
           "home_team": "1. FC Köln II",
-          "away_team": "FC Schalke 04 II"
+          "away_team": "FC Schalke 04 II",
+          "result": {
+            "full_time": "4-0"
+          }
         },
         {
           "date": "2024-09-01",
           "time": "14:00",
           "home_team": "Sportfreunde Lotte",
-          "away_team": "SC Paderborn 07 II"
+          "away_team": "SC Paderborn 07 II",
+          "result": {
+            "full_time": "3-2"
+          }
         }
       ]
     },
@@ -369,56 +513,80 @@
           "date": "2024-09-13",
           "time": "19:30",
           "home_team": "KFC Uerdingen 05",
-          "away_team": "Rot-Weiß Oberhausen"
+          "away_team": "Rot-Weiß Oberhausen",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2024-09-13",
           "time": "19:30",
           "home_team": "SC Paderborn 07 II",
-          "away_team": "FC Gütersloh"
+          "away_team": "FC Gütersloh",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2024-09-13",
           "time": "19:30",
           "home_team": "SC Wiedenbrück",
-          "away_team": "Wuppertaler SV"
+          "away_team": "Wuppertaler SV",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2024-09-14",
           "time": "14:00",
           "home_team": "Fortuna Köln",
-          "away_team": "MSV Duisburg"
+          "away_team": "MSV Duisburg",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2024-09-14",
           "time": "14:00",
           "home_team": "Eintracht Hohkeppel",
           "away_team": "Türkspor Dortmund",
-          "cancelled": true
+          "result": "cancelled"
         },
         {
           "date": "2024-09-14",
           "time": "14:00",
           "home_team": "1. FC Bocholt",
-          "away_team": "1. FC Düren"
+          "away_team": "1. FC Düren",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2024-09-14",
           "time": "14:00",
           "home_team": "SV Rödinghausen",
-          "away_team": "1. FC Köln II"
+          "away_team": "1. FC Köln II",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2024-09-14",
           "time": "14:00",
           "home_team": "FC Schalke 04 II",
-          "away_team": "Bor. Mönchengladbach II"
+          "away_team": "Bor. Mönchengladbach II",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2024-09-15",
           "time": "14:00",
           "home_team": "Fortuna Düsseldorf II",
-          "away_team": "Sportfreunde Lotte"
+          "away_team": "Sportfreunde Lotte",
+          "result": {
+            "full_time": "1-4"
+          }
         }
       ]
     },
@@ -429,56 +597,80 @@
           "date": "2024-09-20",
           "time": "19:30",
           "home_team": "Wuppertaler SV",
-          "away_team": "FC Schalke 04 II"
+          "away_team": "FC Schalke 04 II",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2024-09-20",
           "time": "19:30",
           "home_team": "Türkspor Dortmund",
           "away_team": "SC Paderborn 07 II",
-          "cancelled": true
+          "result": "cancelled"
         },
         {
           "date": "2024-09-21",
           "time": "14:00",
           "home_team": "MSV Duisburg",
-          "away_team": "SC Wiedenbrück"
+          "away_team": "SC Wiedenbrück",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2024-09-21",
           "time": "14:00",
           "home_team": "Bor. Mönchengladbach II",
-          "away_team": "SV Rödinghausen"
+          "away_team": "SV Rödinghausen",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2024-09-21",
           "time": "14:00",
           "home_team": "1. FC Köln II",
-          "away_team": "1. FC Bocholt"
+          "away_team": "1. FC Bocholt",
+          "result": {
+            "full_time": "4-5"
+          }
         },
         {
           "date": "2024-09-21",
           "time": "14:00",
           "home_team": "1. FC Düren",
-          "away_team": "KFC Uerdingen 05"
+          "away_team": "KFC Uerdingen 05",
+          "result": {
+            "full_time": "5-3"
+          }
         },
         {
           "date": "2024-09-21",
           "time": "14:00",
           "home_team": "Rot-Weiß Oberhausen",
-          "away_team": "Eintracht Hohkeppel"
+          "away_team": "Eintracht Hohkeppel",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2024-09-21",
           "time": "14:00",
           "home_team": "FC Gütersloh",
-          "away_team": "Fortuna Düsseldorf II"
+          "away_team": "Fortuna Düsseldorf II",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2024-09-21",
           "time": "14:00",
           "home_team": "Sportfreunde Lotte",
-          "away_team": "Fortuna Köln"
+          "away_team": "Fortuna Köln",
+          "result": {
+            "full_time": "1-1"
+          }
         }
       ]
     },
@@ -489,56 +681,80 @@
           "date": "2024-09-27",
           "time": "19:30",
           "home_team": "SC Wiedenbrück",
-          "away_team": "Sportfreunde Lotte"
+          "away_team": "Sportfreunde Lotte",
+          "result": {
+            "full_time": "2-4"
+          }
         },
         {
           "date": "2024-09-28",
           "time": "14:00",
           "home_team": "KFC Uerdingen 05",
-          "away_team": "Eintracht Hohkeppel"
+          "away_team": "Eintracht Hohkeppel",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2024-09-28",
           "time": "14:00",
           "home_team": "Fortuna Köln",
-          "away_team": "FC Gütersloh"
+          "away_team": "FC Gütersloh",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2024-09-28",
           "time": "14:00",
           "home_team": "Fortuna Düsseldorf II",
           "away_team": "Türkspor Dortmund",
-          "cancelled": true
+          "result": "cancelled"
         },
         {
           "date": "2024-09-28",
           "time": "14:00",
           "home_team": "SC Paderborn 07 II",
-          "away_team": "Rot-Weiß Oberhausen"
+          "away_team": "Rot-Weiß Oberhausen",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2024-09-28",
           "time": "14:00",
           "home_team": "1. FC Bocholt",
-          "away_team": "Bor. Mönchengladbach II"
+          "away_team": "Bor. Mönchengladbach II",
+          "result": {
+            "full_time": "2-4"
+          }
         },
         {
           "date": "2024-09-28",
           "time": "14:00",
           "home_team": "SV Rödinghausen",
-          "away_team": "Wuppertaler SV"
+          "away_team": "Wuppertaler SV",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2024-09-28",
           "time": "20:00",
           "home_team": "FC Schalke 04 II",
-          "away_team": "MSV Duisburg"
+          "away_team": "MSV Duisburg",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2024-09-29",
           "time": "14:00",
           "home_team": "1. FC Düren",
-          "away_team": "1. FC Köln II"
+          "away_team": "1. FC Köln II",
+          "result": {
+            "full_time": "2-2"
+          }
         }
       ]
     },
@@ -549,56 +765,80 @@
           "date": "2024-10-04",
           "time": "19:30",
           "home_team": "FC Gütersloh",
-          "away_team": "SC Wiedenbrück"
+          "away_team": "SC Wiedenbrück",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2024-10-05",
           "time": "19:30",
           "home_team": "Türkspor Dortmund",
           "away_team": "Fortuna Köln",
-          "cancelled": true
+          "result": "cancelled"
         },
         {
           "date": "2024-10-05",
           "time": "14:00",
           "home_team": "MSV Duisburg",
-          "away_team": "SV Rödinghausen"
+          "away_team": "SV Rödinghausen",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2024-10-05",
           "time": "14:00",
           "home_team": "Wuppertaler SV",
-          "away_team": "1. FC Bocholt"
+          "away_team": "1. FC Bocholt",
+          "result": {
+            "full_time": "1-5"
+          }
         },
         {
           "date": "2024-10-05",
           "time": "14:00",
           "home_team": "Bor. Mönchengladbach II",
-          "away_team": "1. FC Düren"
+          "away_team": "1. FC Düren",
+          "result": {
+            "full_time": "5-0"
+          }
         },
         {
           "date": "2024-10-05",
           "time": "14:00",
           "home_team": "1. FC Köln II",
-          "away_team": "KFC Uerdingen 05"
+          "away_team": "KFC Uerdingen 05",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2024-10-05",
           "time": "14:00",
           "home_team": "Eintracht Hohkeppel",
-          "away_team": "SC Paderborn 07 II"
+          "away_team": "SC Paderborn 07 II",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2024-10-05",
           "time": "14:00",
           "home_team": "Sportfreunde Lotte",
-          "away_team": "FC Schalke 04 II"
+          "away_team": "FC Schalke 04 II",
+          "result": {
+            "full_time": "4-1"
+          }
         },
         {
           "date": "2024-10-06",
           "time": "14:00",
           "home_team": "Rot-Weiß Oberhausen",
-          "away_team": "Fortuna Düsseldorf II"
+          "away_team": "Fortuna Düsseldorf II",
+          "result": {
+            "full_time": "2-1"
+          }
         }
       ]
     },
@@ -609,56 +849,80 @@
           "date": "2024-10-11",
           "time": "19:30",
           "home_team": "FC Schalke 04 II",
-          "away_team": "FC Gütersloh"
+          "away_team": "FC Gütersloh",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2024-10-11",
           "time": "19:30",
           "home_team": "SC Wiedenbrück",
           "away_team": "Türkspor Dortmund",
-          "cancelled": true
+          "result": "cancelled"
         },
         {
           "date": "2024-10-12",
           "time": "14:00",
           "home_team": "KFC Uerdingen 05",
-          "away_team": "SC Paderborn 07 II"
+          "away_team": "SC Paderborn 07 II",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2024-10-12",
           "time": "14:00",
           "home_team": "Fortuna Köln",
-          "away_team": "Rot-Weiß Oberhausen"
+          "away_team": "Rot-Weiß Oberhausen",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2024-10-12",
           "time": "14:00",
           "home_team": "Fortuna Düsseldorf II",
-          "away_team": "Eintracht Hohkeppel"
+          "away_team": "Eintracht Hohkeppel",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2024-10-12",
           "time": "14:00",
           "home_team": "1. FC Düren",
-          "away_team": "Wuppertaler SV"
+          "away_team": "Wuppertaler SV",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2024-10-12",
           "time": "14:00",
           "home_team": "SV Rödinghausen",
-          "away_team": "Sportfreunde Lotte"
+          "away_team": "Sportfreunde Lotte",
+          "result": {
+            "full_time": "2-3"
+          }
         },
         {
           "date": "2024-10-30",
           "time": "19:30",
           "home_team": "1. FC Bocholt",
-          "away_team": "MSV Duisburg"
+          "away_team": "MSV Duisburg",
+          "result": {
+            "full_time": "2-4"
+          }
         },
         {
           "date": "2024-12-04",
           "time": "12:00",
           "home_team": "1. FC Köln II",
-          "away_team": "Bor. Mönchengladbach II"
+          "away_team": "Bor. Mönchengladbach II",
+          "result": {
+            "full_time": "0-0"
+          }
         }
       ]
     },
@@ -669,56 +933,80 @@
           "date": "2024-10-18",
           "time": "19:30",
           "home_team": "Wuppertaler SV",
-          "away_team": "1. FC Köln II"
+          "away_team": "1. FC Köln II",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2024-10-19",
           "time": "14:00",
           "home_team": "MSV Duisburg",
-          "away_team": "1. FC Düren"
+          "away_team": "1. FC Düren",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2024-10-19",
           "time": "14:00",
           "home_team": "Bor. Mönchengladbach II",
-          "away_team": "KFC Uerdingen 05"
+          "away_team": "KFC Uerdingen 05",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2024-10-19",
           "time": "14:00",
           "home_team": "SC Paderborn 07 II",
-          "away_team": "Fortuna Düsseldorf II"
+          "away_team": "Fortuna Düsseldorf II",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2024-10-19",
           "time": "14:00",
           "home_team": "Eintracht Hohkeppel",
-          "away_team": "Fortuna Köln"
+          "away_team": "Fortuna Köln",
+          "result": {
+            "full_time": "1-3"
+          }
         },
         {
           "date": "2024-10-19",
           "time": "14:00",
           "home_team": "Rot-Weiß Oberhausen",
-          "away_team": "SC Wiedenbrück"
+          "away_team": "SC Wiedenbrück",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2024-10-19",
           "time": "14:00",
           "home_team": "FC Gütersloh",
-          "away_team": "SV Rödinghausen"
+          "away_team": "SV Rödinghausen",
+          "result": {
+            "full_time": "2-3"
+          }
         },
         {
           "date": "2024-10-19",
           "time": "14:00",
           "home_team": "Sportfreunde Lotte",
-          "away_team": "1. FC Bocholt"
+          "away_team": "1. FC Bocholt",
+          "result": {
+            "full_time": "4-1"
+          }
         },
         {
           "date": "2024-11-15",
           "time": "19:30",
           "home_team": "Türkspor Dortmund",
           "away_team": "FC Schalke 04 II",
-          "cancelled": true
+          "result": "cancelled"
         }
       ]
     },
@@ -729,56 +1017,80 @@
           "date": "2024-10-25",
           "time": "19:00",
           "home_team": "FC Schalke 04 II",
-          "away_team": "Rot-Weiß Oberhausen"
+          "away_team": "Rot-Weiß Oberhausen",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2024-10-25",
           "time": "19:30",
           "home_team": "Bor. Mönchengladbach II",
-          "away_team": "Wuppertaler SV"
+          "away_team": "Wuppertaler SV",
+          "result": {
+            "full_time": "4-2"
+          }
         },
         {
           "date": "2024-10-25",
           "time": "19:30",
           "home_team": "1. FC Köln II",
-          "away_team": "MSV Duisburg"
+          "away_team": "MSV Duisburg",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2024-10-26",
           "time": "14:00",
           "home_team": "Fortuna Köln",
-          "away_team": "SC Paderborn 07 II"
+          "away_team": "SC Paderborn 07 II",
+          "result": {
+            "full_time": "1-3"
+          }
         },
         {
           "date": "2024-10-26",
           "time": "14:00",
           "home_team": "1. FC Düren",
-          "away_team": "Sportfreunde Lotte"
+          "away_team": "Sportfreunde Lotte",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2024-10-26",
           "time": "14:00",
           "home_team": "1. FC Bocholt",
-          "away_team": "FC Gütersloh"
+          "away_team": "FC Gütersloh",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2024-10-26",
           "time": "14:00",
           "home_team": "SV Rödinghausen",
           "away_team": "Türkspor Dortmund",
-          "cancelled": true
+          "result": "cancelled"
         },
         {
           "date": "2024-10-26",
           "time": "14:00",
           "home_team": "SC Wiedenbrück",
-          "away_team": "Eintracht Hohkeppel"
+          "away_team": "Eintracht Hohkeppel",
+          "result": {
+            "full_time": "0-3"
+          }
         },
         {
           "date": "2024-10-28",
           "time": "19:30",
           "home_team": "KFC Uerdingen 05",
-          "away_team": "Fortuna Düsseldorf II"
+          "away_team": "Fortuna Düsseldorf II",
+          "result": {
+            "full_time": "1-1"
+          }
         }
       ]
     },
@@ -789,56 +1101,80 @@
           "date": "2024-11-02",
           "time": "14:00",
           "home_team": "Wuppertaler SV",
-          "away_team": "KFC Uerdingen 05"
+          "away_team": "KFC Uerdingen 05",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2024-11-02",
           "time": "14:00",
           "home_team": "Fortuna Düsseldorf II",
-          "away_team": "Fortuna Köln"
+          "away_team": "Fortuna Köln",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2024-11-02",
           "time": "14:00",
           "home_team": "Eintracht Hohkeppel",
-          "away_team": "FC Schalke 04 II"
+          "away_team": "FC Schalke 04 II",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2024-11-02",
           "time": "14:00",
           "home_team": "Rot-Weiß Oberhausen",
-          "away_team": "SV Rödinghausen"
+          "away_team": "SV Rödinghausen",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2024-11-02",
           "time": "14:00",
           "home_team": "Türkspor Dortmund",
           "away_team": "1. FC Bocholt",
-          "cancelled": true
+          "result": "cancelled"
         },
         {
           "date": "2024-11-02",
           "time": "14:00",
           "home_team": "FC Gütersloh",
-          "away_team": "1. FC Düren"
+          "away_team": "1. FC Düren",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2024-11-02",
           "time": "14:00",
           "home_team": "Sportfreunde Lotte",
-          "away_team": "1. FC Köln II"
+          "away_team": "1. FC Köln II",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2024-11-03",
           "time": "14:00",
           "home_team": "MSV Duisburg",
-          "away_team": "Bor. Mönchengladbach II"
+          "away_team": "Bor. Mönchengladbach II",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2024-11-04",
           "time": "19:30",
           "home_team": "SC Paderborn 07 II",
-          "away_team": "SC Wiedenbrück"
+          "away_team": "SC Wiedenbrück",
+          "result": {
+            "full_time": "1-2"
+          }
         }
       ]
     },
@@ -849,56 +1185,80 @@
           "date": "2024-11-08",
           "time": "14:00",
           "home_team": "FC Schalke 04 II",
-          "away_team": "SC Paderborn 07 II"
+          "away_team": "SC Paderborn 07 II",
+          "result": {
+            "full_time": "0-4"
+          }
         },
         {
           "date": "2024-11-09",
           "time": "14:00",
           "home_team": "KFC Uerdingen 05",
-          "away_team": "Fortuna Köln"
+          "away_team": "Fortuna Köln",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2024-11-09",
           "time": "14:00",
           "home_team": "Bor. Mönchengladbach II",
-          "away_team": "Sportfreunde Lotte"
+          "away_team": "Sportfreunde Lotte",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2024-11-09",
           "time": "14:00",
           "home_team": "1. FC Köln II",
-          "away_team": "FC Gütersloh"
+          "away_team": "FC Gütersloh",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2024-11-09",
           "time": "14:00",
           "home_team": "1. FC Düren",
           "away_team": "Türkspor Dortmund",
-          "cancelled": true
+          "result": "cancelled"
         },
         {
           "date": "2024-11-09",
           "time": "14:00",
           "home_team": "1. FC Bocholt",
-          "away_team": "Rot-Weiß Oberhausen"
+          "away_team": "Rot-Weiß Oberhausen",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2024-11-09",
           "time": "14:00",
           "home_team": "SV Rödinghausen",
-          "away_team": "Eintracht Hohkeppel"
+          "away_team": "Eintracht Hohkeppel",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2024-11-09",
           "time": "14:00",
           "home_team": "SC Wiedenbrück",
-          "away_team": "Fortuna Düsseldorf II"
+          "away_team": "Fortuna Düsseldorf II",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2024-11-10",
           "time": "14:00",
           "home_team": "Wuppertaler SV",
-          "away_team": "MSV Duisburg"
+          "away_team": "MSV Duisburg",
+          "result": {
+            "full_time": "1-2"
+          }
         }
       ]
     },
@@ -909,56 +1269,80 @@
           "date": "2024-11-22",
           "time": "19:30",
           "home_team": "Fortuna Köln",
-          "away_team": "SC Wiedenbrück"
+          "away_team": "SC Wiedenbrück",
+          "result": {
+            "full_time": "1-3"
+          }
         },
         {
           "date": "2024-11-23",
           "time": "14:00",
           "home_team": "KFC Uerdingen 05",
-          "away_team": "MSV Duisburg"
+          "away_team": "MSV Duisburg",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2024-11-23",
           "time": "14:00",
           "home_team": "Fortuna Düsseldorf II",
-          "away_team": "FC Schalke 04 II"
+          "away_team": "FC Schalke 04 II",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2024-11-23",
           "time": "14:00",
           "home_team": "Eintracht Hohkeppel",
-          "away_team": "1. FC Bocholt"
+          "away_team": "1. FC Bocholt",
+          "result": {
+            "full_time": "2-5"
+          }
         },
         {
           "date": "2024-11-23",
           "time": "14:00",
           "home_team": "Rot-Weiß Oberhausen",
-          "away_team": "1. FC Düren"
+          "away_team": "1. FC Düren",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2024-11-23",
           "time": "14:00",
           "home_team": "Türkspor Dortmund",
           "away_team": "1. FC Köln II",
-          "cancelled": true
+          "result": "cancelled"
         },
         {
           "date": "2024-11-23",
           "time": "14:00",
           "home_team": "FC Gütersloh",
-          "away_team": "Bor. Mönchengladbach II"
+          "away_team": "Bor. Mönchengladbach II",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2024-11-23",
           "time": "14:00",
           "home_team": "Sportfreunde Lotte",
-          "away_team": "Wuppertaler SV"
+          "away_team": "Wuppertaler SV",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2024-11-24",
           "time": "18:30",
           "home_team": "SC Paderborn 07 II",
-          "away_team": "SV Rödinghausen"
+          "away_team": "SV Rödinghausen",
+          "result": {
+            "full_time": "2-0"
+          }
         }
       ]
     },
@@ -969,56 +1353,80 @@
           "date": "2024-11-30",
           "time": "14:00",
           "home_team": "MSV Duisburg",
-          "away_team": "Sportfreunde Lotte"
+          "away_team": "Sportfreunde Lotte",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2024-11-30",
           "time": "14:00",
           "home_team": "Wuppertaler SV",
-          "away_team": "FC Gütersloh"
+          "away_team": "FC Gütersloh",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2024-11-30",
           "time": "14:00",
           "home_team": "Bor. Mönchengladbach II",
           "away_team": "Türkspor Dortmund",
-          "cancelled": true
+          "result": "cancelled"
         },
         {
           "date": "2024-11-30",
           "time": "14:00",
           "home_team": "1. FC Köln II",
-          "away_team": "Rot-Weiß Oberhausen"
+          "away_team": "Rot-Weiß Oberhausen",
+          "result": {
+            "full_time": "3-2"
+          }
         },
         {
           "date": "2024-11-30",
           "time": "14:00",
           "home_team": "1. FC Düren",
-          "away_team": "Eintracht Hohkeppel"
+          "away_team": "Eintracht Hohkeppel",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2024-11-30",
           "time": "14:00",
           "home_team": "1. FC Bocholt",
-          "away_team": "SC Paderborn 07 II"
+          "away_team": "SC Paderborn 07 II",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2024-11-30",
           "time": "14:00",
           "home_team": "SV Rödinghausen",
-          "away_team": "Fortuna Düsseldorf II"
+          "away_team": "Fortuna Düsseldorf II",
+          "result": {
+            "full_time": "3-2"
+          }
         },
         {
           "date": "2024-11-30",
           "time": "14:00",
           "home_team": "FC Schalke 04 II",
-          "away_team": "Fortuna Köln"
+          "away_team": "Fortuna Köln",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2024-11-30",
           "time": "14:00",
           "home_team": "SC Wiedenbrück",
-          "away_team": "KFC Uerdingen 05"
+          "away_team": "KFC Uerdingen 05",
+          "result": {
+            "full_time": "0-1"
+          }
         }
       ]
     },
@@ -1029,56 +1437,80 @@
           "date": "2024-12-07",
           "time": "14:00",
           "home_team": "Sportfreunde Lotte",
-          "away_team": "KFC Uerdingen 05"
+          "away_team": "KFC Uerdingen 05",
+          "result": {
+            "full_time": "5-1"
+          }
         },
         {
           "date": "2024-12-07",
           "time": "14:00",
           "home_team": "1. FC Bocholt",
-          "away_team": "Fortuna Düsseldorf II"
+          "away_team": "Fortuna Düsseldorf II",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2024-12-07",
           "time": "14:00",
           "home_team": "1. FC Düren",
-          "away_team": "SC Paderborn 07 II"
+          "away_team": "SC Paderborn 07 II",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2024-12-07",
           "time": "14:00",
           "home_team": "1. FC Köln II",
-          "away_team": "Eintracht Hohkeppel"
+          "away_team": "Eintracht Hohkeppel",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2024-12-07",
           "time": "14:00",
           "home_team": "Wuppertaler SV",
           "away_team": "Türkspor Dortmund",
-          "cancelled": true
+          "result": "cancelled"
         },
         {
           "date": "2024-12-07",
           "time": "14:00",
           "home_team": "MSV Duisburg",
-          "away_team": "FC Gütersloh"
+          "away_team": "FC Gütersloh",
+          "result": {
+            "full_time": "3-4"
+          }
         },
         {
           "date": "2024-12-07",
           "time": "14:00",
           "home_team": "FC Schalke 04 II",
-          "away_team": "SC Wiedenbrück"
+          "away_team": "SC Wiedenbrück",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2024-12-07",
           "time": "16:00",
           "home_team": "Bor. Mönchengladbach II",
-          "away_team": "Rot-Weiß Oberhausen"
+          "away_team": "Rot-Weiß Oberhausen",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2025-03-19",
           "time": "19:00",
           "home_team": "SV Rödinghausen",
-          "away_team": "Fortuna Köln"
+          "away_team": "Fortuna Köln",
+          "result": {
+            "full_time": "1-0"
+          }
         }
       ]
     },
@@ -1089,56 +1521,80 @@
           "date": "2025-01-24",
           "time": "19:30",
           "home_team": "Rot-Weiß Oberhausen",
-          "away_team": "Wuppertaler SV"
+          "away_team": "Wuppertaler SV",
+          "result": {
+            "full_time": "3-2"
+          }
         },
         {
           "date": "2025-01-25",
           "time": "14:00",
           "home_team": "Eintracht Hohkeppel",
-          "away_team": "Bor. Mönchengladbach II"
+          "away_team": "Bor. Mönchengladbach II",
+          "result": {
+            "full_time": "4-6"
+          }
         },
         {
           "date": "2025-01-25",
           "time": "14:00",
           "home_team": "SC Paderborn 07 II",
-          "away_team": "1. FC Köln II"
+          "away_team": "1. FC Köln II",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2025-01-25",
           "time": "14:00",
           "home_team": "Fortuna Düsseldorf II",
-          "away_team": "1. FC Düren"
+          "away_team": "1. FC Düren",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-01-25",
           "time": "14:00",
           "home_team": "Fortuna Köln",
-          "away_team": "1. FC Bocholt"
+          "away_team": "1. FC Bocholt",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-01-25",
           "time": "14:00",
           "home_team": "KFC Uerdingen 05",
-          "away_team": "FC Schalke 04 II"
+          "away_team": "FC Schalke 04 II",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2025-01-26",
           "time": "14:00",
           "home_team": "Türkspor Dortmund",
           "away_team": "MSV Duisburg",
-          "cancelled": true
+          "result": "cancelled"
         },
         {
           "date": "2025-01-26",
           "time": "14:00",
           "home_team": "SC Wiedenbrück",
-          "away_team": "SV Rödinghausen"
+          "away_team": "SV Rödinghausen",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2025-03-05",
           "time": "19:00",
           "home_team": "FC Gütersloh",
-          "away_team": "Sportfreunde Lotte"
+          "away_team": "Sportfreunde Lotte",
+          "result": {
+            "full_time": "1-0"
+          }
         }
       ]
     },
@@ -1149,56 +1605,80 @@
           "date": "2025-01-31",
           "time": "19:30",
           "home_team": "FC Gütersloh",
-          "away_team": "KFC Uerdingen 05"
+          "away_team": "KFC Uerdingen 05",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2025-01-31",
           "time": "19:30",
           "home_team": "MSV Duisburg",
-          "away_team": "Rot-Weiß Oberhausen"
+          "away_team": "Rot-Weiß Oberhausen",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2025-02-01",
           "time": "13:00",
           "home_team": "1. FC Bocholt",
-          "away_team": "SC Wiedenbrück"
+          "away_team": "SC Wiedenbrück",
+          "result": {
+            "full_time": "3-3"
+          }
         },
         {
           "date": "2025-02-01",
           "time": "14:00",
           "home_team": "1. FC Düren",
-          "away_team": "Fortuna Köln"
+          "away_team": "Fortuna Köln",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2025-02-01",
           "time": "14:00",
           "home_team": "1. FC Köln II",
-          "away_team": "Fortuna Düsseldorf II"
+          "away_team": "Fortuna Düsseldorf II",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2025-02-01",
           "time": "14:00",
           "home_team": "Wuppertaler SV",
-          "away_team": "Eintracht Hohkeppel"
+          "away_team": "Eintracht Hohkeppel",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-02-01",
           "time": "14:00",
           "home_team": "Sportfreunde Lotte",
           "away_team": "Türkspor Dortmund",
-          "cancelled": true
+          "result": "cancelled"
         },
         {
           "date": "2025-02-01",
           "time": "14:00",
           "home_team": "SV Rödinghausen",
-          "away_team": "FC Schalke 04 II"
+          "away_team": "FC Schalke 04 II",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2025-02-03",
           "time": "14:00",
           "home_team": "SC Paderborn 07 II",
-          "away_team": "Bor. Mönchengladbach II"
+          "away_team": "Bor. Mönchengladbach II",
+          "result": {
+            "full_time": "0-1"
+          }
         }
       ]
     },
@@ -1209,56 +1689,80 @@
           "date": "2025-02-08",
           "time": "14:00",
           "home_team": "Eintracht Hohkeppel",
-          "away_team": "MSV Duisburg"
+          "away_team": "MSV Duisburg",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2025-02-08",
           "time": "14:00",
           "home_team": "SC Paderborn 07 II",
-          "away_team": "Wuppertaler SV"
+          "away_team": "Wuppertaler SV",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2025-02-08",
           "time": "14:00",
           "home_team": "Fortuna Düsseldorf II",
-          "away_team": "Bor. Mönchengladbach II"
+          "away_team": "Bor. Mönchengladbach II",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2025-02-08",
           "time": "14:00",
           "home_team": "SC Wiedenbrück",
-          "away_team": "1. FC Düren"
+          "away_team": "1. FC Düren",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2025-02-08",
           "time": "14:00",
           "home_team": "FC Schalke 04 II",
-          "away_team": "1. FC Bocholt"
+          "away_team": "1. FC Bocholt",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2025-02-08",
           "time": "14:00",
           "home_team": "KFC Uerdingen 05",
-          "away_team": "SV Rödinghausen"
+          "away_team": "SV Rödinghausen",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2025-02-08",
           "time": "14:00",
           "home_team": "Türkspor Dortmund",
           "away_team": "FC Gütersloh",
-          "cancelled": true
+          "result": "cancelled"
         },
         {
           "date": "2025-02-08",
           "time": "14:00",
           "home_team": "Rot-Weiß Oberhausen",
-          "away_team": "Sportfreunde Lotte"
+          "away_team": "Sportfreunde Lotte",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-02-09",
           "time": "14:00",
           "home_team": "Fortuna Köln",
-          "away_team": "1. FC Köln II"
+          "away_team": "1. FC Köln II",
+          "result": {
+            "full_time": "3-3"
+          }
         }
       ]
     },
@@ -1269,56 +1773,80 @@
           "date": "2025-02-14",
           "time": "19:30",
           "home_team": "MSV Duisburg",
-          "away_team": "SC Paderborn 07 II"
+          "away_team": "SC Paderborn 07 II",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2025-02-15",
           "time": "14:00",
           "home_team": "Bor. Mönchengladbach II",
-          "away_team": "Fortuna Köln"
+          "away_team": "Fortuna Köln",
+          "result": {
+            "full_time": "0-3"
+          }
         },
         {
           "date": "2025-02-15",
           "time": "14:00",
           "home_team": "Sportfreunde Lotte",
-          "away_team": "Eintracht Hohkeppel"
+          "away_team": "Eintracht Hohkeppel",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2025-02-15",
           "time": "14:00",
           "home_team": "FC Gütersloh",
-          "away_team": "Rot-Weiß Oberhausen"
+          "away_team": "Rot-Weiß Oberhausen",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2025-02-15",
           "time": "14:00",
           "home_team": "1. FC Bocholt",
-          "away_team": "SV Rödinghausen"
+          "away_team": "SV Rödinghausen",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2025-02-15",
           "time": "14:00",
           "home_team": "1. FC Düren",
-          "away_team": "FC Schalke 04 II"
+          "away_team": "FC Schalke 04 II",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-02-15",
           "time": "14:00",
           "home_team": "1. FC Köln II",
-          "away_team": "SC Wiedenbrück"
+          "away_team": "SC Wiedenbrück",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2025-02-15",
           "time": "16:30",
           "home_team": "Wuppertaler SV",
-          "away_team": "Fortuna Düsseldorf II"
+          "away_team": "Fortuna Düsseldorf II",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-03-22",
           "time": "14:00",
           "home_team": "Türkspor Dortmund",
           "away_team": "KFC Uerdingen 05",
-          "cancelled": true
+          "result": "cancelled"
         }
       ]
     },
@@ -1329,56 +1857,80 @@
           "date": "2025-02-21",
           "time": "19:30",
           "home_team": "Fortuna Köln",
-          "away_team": "Wuppertaler SV"
+          "away_team": "Wuppertaler SV",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2025-02-22",
           "time": "14:00",
           "home_team": "SC Wiedenbrück",
-          "away_team": "Bor. Mönchengladbach II"
+          "away_team": "Bor. Mönchengladbach II",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2025-02-22",
           "time": "14:00",
           "home_team": "SV Rödinghausen",
-          "away_team": "1. FC Düren"
+          "away_team": "1. FC Düren",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2025-02-22",
           "time": "14:00",
           "home_team": "KFC Uerdingen 05",
-          "away_team": "1. FC Bocholt"
+          "away_team": "1. FC Bocholt",
+          "result": {
+            "full_time": "0-4"
+          }
         },
         {
           "date": "2025-02-22",
           "time": "14:00",
           "home_team": "Rot-Weiß Oberhausen",
           "away_team": "Türkspor Dortmund",
-          "cancelled": true
+          "result": "cancelled"
         },
         {
           "date": "2025-02-22",
           "time": "14:00",
           "home_team": "Eintracht Hohkeppel",
-          "away_team": "FC Gütersloh"
+          "away_team": "FC Gütersloh",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-02-22",
           "time": "16:30",
           "home_team": "SC Paderborn 07 II",
-          "away_team": "Sportfreunde Lotte"
+          "away_team": "Sportfreunde Lotte",
+          "result": {
+            "full_time": "1-3"
+          }
         },
         {
           "date": "2025-02-23",
           "time": "14:00",
           "home_team": "Fortuna Düsseldorf II",
-          "away_team": "MSV Duisburg"
+          "away_team": "MSV Duisburg",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2025-02-23",
           "time": "14:00",
           "home_team": "FC Schalke 04 II",
-          "away_team": "1. FC Köln II"
+          "away_team": "1. FC Köln II",
+          "result": {
+            "full_time": "1-0"
+          }
         }
       ]
     },
@@ -1389,56 +1941,80 @@
           "date": "2025-02-28",
           "time": "19:30",
           "home_team": "Rot-Weiß Oberhausen",
-          "away_team": "KFC Uerdingen 05"
+          "away_team": "KFC Uerdingen 05",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2025-02-28",
           "time": "19:30",
           "home_team": "Sportfreunde Lotte",
-          "away_team": "Fortuna Düsseldorf II"
+          "away_team": "Fortuna Düsseldorf II",
+          "result": {
+            "full_time": "3-3"
+          }
         },
         {
           "date": "2025-02-28",
           "time": "19:30",
           "home_team": "Bor. Mönchengladbach II",
-          "away_team": "FC Schalke 04 II"
+          "away_team": "FC Schalke 04 II",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2025-03-01",
           "time": "14:00",
           "home_team": "MSV Duisburg",
-          "away_team": "Fortuna Köln"
+          "away_team": "Fortuna Köln",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2025-03-01",
           "time": "14:00",
           "home_team": "Türkspor Dortmund",
           "away_team": "Eintracht Hohkeppel",
-          "cancelled": true
+          "result": "cancelled"
         },
         {
           "date": "2025-03-01",
           "time": "14:00",
           "home_team": "1. FC Düren",
-          "away_team": "1. FC Bocholt"
+          "away_team": "1. FC Bocholt",
+          "result": {
+            "full_time": "0-3"
+          }
         },
         {
           "date": "2025-03-01",
           "time": "14:00",
           "home_team": "Wuppertaler SV",
-          "away_team": "SC Wiedenbrück"
+          "away_team": "SC Wiedenbrück",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2025-03-02",
           "time": "14:00",
           "home_team": "FC Gütersloh",
-          "away_team": "SC Paderborn 07 II"
+          "away_team": "SC Paderborn 07 II",
+          "result": {
+            "full_time": "3-2"
+          }
         },
         {
           "date": "2025-03-02",
           "time": "14:00",
           "home_team": "1. FC Köln II",
-          "away_team": "SV Rödinghausen"
+          "away_team": "SV Rödinghausen",
+          "result": {
+            "full_time": "1-0"
+          }
         }
       ]
     },
@@ -1449,56 +2025,80 @@
           "date": "2025-03-07",
           "time": "19:30",
           "home_team": "SC Wiedenbrück",
-          "away_team": "MSV Duisburg"
+          "away_team": "MSV Duisburg",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2025-03-08",
           "time": "14:00",
           "home_team": "KFC Uerdingen 05",
-          "away_team": "1. FC Düren"
+          "away_team": "1. FC Düren",
+          "result": {
+            "full_time": "1-5"
+          }
         },
         {
           "date": "2025-03-08",
           "time": "14:00",
           "home_team": "Eintracht Hohkeppel",
-          "away_team": "Rot-Weiß Oberhausen"
+          "away_team": "Rot-Weiß Oberhausen",
+          "result": {
+            "full_time": "3-2"
+          }
         },
         {
           "date": "2025-03-08",
           "time": "14:00",
           "home_team": "Fortuna Düsseldorf II",
-          "away_team": "FC Gütersloh"
+          "away_team": "FC Gütersloh",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2025-03-08",
           "time": "14:00",
           "home_team": "Fortuna Köln",
-          "away_team": "Sportfreunde Lotte"
+          "away_team": "Sportfreunde Lotte",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-03-08",
           "time": "14:00",
           "home_team": "FC Schalke 04 II",
-          "away_team": "Wuppertaler SV"
+          "away_team": "Wuppertaler SV",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2025-03-08",
           "time": "14:00",
           "home_team": "SV Rödinghausen",
-          "away_team": "Bor. Mönchengladbach II"
+          "away_team": "Bor. Mönchengladbach II",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2025-03-08",
           "time": "14:00",
           "home_team": "1. FC Bocholt",
-          "away_team": "1. FC Köln II"
+          "away_team": "1. FC Köln II",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2025-03-09",
           "time": "14:00",
           "home_team": "SC Paderborn 07 II",
           "away_team": "Türkspor Dortmund",
-          "cancelled": true
+          "result": "cancelled"
         }
       ]
     },
@@ -1509,56 +2109,80 @@
           "date": "2025-03-14",
           "time": "19:30",
           "home_team": "MSV Duisburg",
-          "away_team": "FC Schalke 04 II"
+          "away_team": "FC Schalke 04 II",
+          "result": {
+            "full_time": "4-0"
+          }
         },
         {
           "date": "2025-03-15",
           "time": "14:00",
           "home_team": "Eintracht Hohkeppel",
-          "away_team": "KFC Uerdingen 05"
+          "away_team": "KFC Uerdingen 05",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-03-15",
           "time": "14:00",
           "home_team": "FC Gütersloh",
-          "away_team": "Fortuna Köln"
+          "away_team": "Fortuna Köln",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2025-03-15",
           "time": "14:00",
           "home_team": "Türkspor Dortmund",
           "away_team": "Fortuna Düsseldorf II",
-          "cancelled": true
+          "result": "cancelled"
         },
         {
           "date": "2025-03-15",
           "time": "14:00",
           "home_team": "Rot-Weiß Oberhausen",
-          "away_team": "SC Paderborn 07 II"
+          "away_team": "SC Paderborn 07 II",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2025-03-15",
           "time": "14:00",
           "home_team": "1. FC Köln II",
-          "away_team": "1. FC Düren"
+          "away_team": "1. FC Düren",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2025-03-15",
           "time": "14:00",
           "home_team": "Bor. Mönchengladbach II",
-          "away_team": "1. FC Bocholt"
+          "away_team": "1. FC Bocholt",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2025-03-15",
           "time": "14:00",
           "home_team": "Wuppertaler SV",
-          "away_team": "SV Rödinghausen"
+          "away_team": "SV Rödinghausen",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2025-03-15",
           "time": "14:00",
           "home_team": "Sportfreunde Lotte",
-          "away_team": "SC Wiedenbrück"
+          "away_team": "SC Wiedenbrück",
+          "result": {
+            "full_time": "0-2"
+          }
         }
       ]
     },
@@ -1569,7 +2193,10 @@
           "date": "2025-03-22",
           "time": "14:00",
           "home_team": "SC Paderborn 07 II",
-          "away_team": "Eintracht Hohkeppel"
+          "away_team": "Eintracht Hohkeppel",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2025-03-29",
@@ -1612,7 +2239,7 @@
           "time": "14:00",
           "home_team": "Fortuna Köln",
           "away_team": "Türkspor Dortmund",
-          "cancelled": true
+          "result": "cancelled"
         },
         {
           "date": "2025-03-29",
@@ -1648,7 +2275,7 @@
           "time": "19:30",
           "home_team": "Türkspor Dortmund",
           "away_team": "SC Wiedenbrück",
-          "cancelled": true
+          "result": "cancelled"
         },
         {
           "date": "2025-04-05",
@@ -1702,7 +2329,7 @@
           "time": "19:30",
           "home_team": "FC Schalke 04 II",
           "away_team": "Türkspor Dortmund",
-          "cancelled": true
+          "result": "cancelled"
         },
         {
           "date": "2025-04-12",
@@ -1750,7 +2377,7 @@
           "time": "14:00",
           "home_team": "Türkspor Dortmund",
           "away_team": "SV Rödinghausen",
-          "cancelled": true
+          "result": "cancelled"
         },
         {
           "date": "2025-04-19",
@@ -1846,7 +2473,7 @@
           "time": "14:00",
           "home_team": "1. FC Bocholt",
           "away_team": "Türkspor Dortmund",
-          "cancelled": true
+          "result": "cancelled"
         },
         {
           "date": "2025-04-26",
@@ -1894,7 +2521,7 @@
           "time": "14:00",
           "home_team": "Türkspor Dortmund",
           "away_team": "1. FC Düren",
-          "cancelled": true
+          "result": "cancelled"
         },
         {
           "date": "2025-05-03",
@@ -1966,7 +2593,7 @@
           "time": "14:00",
           "home_team": "1. FC Köln II",
           "away_team": "Türkspor Dortmund",
-          "cancelled": true
+          "result": "cancelled"
         },
         {
           "date": "2025-05-10",
@@ -2002,7 +2629,7 @@
           "time": "14:00",
           "home_team": "Türkspor Dortmund",
           "away_team": "Bor. Mönchengladbach II",
-          "cancelled": true
+          "result": "cancelled"
         },
         {
           "date": "2025-05-17",

@@ -9,31 +9,46 @@
           "date": "2023-09-16",
           "time": "20:30",
           "home_team": "UE Santa Coloma",
-          "away_team": "FC Ordino"
+          "away_team": "FC Ordino",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2023-09-17",
           "time": "11:00",
           "home_team": "Penya Encarnada",
-          "away_team": "CF Esperança d'Andorra"
+          "away_team": "CF Esperança d'Andorra",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2023-09-17",
           "time": "13:30",
           "home_team": "CE Carroi",
-          "away_team": "CF Atlètic Amèrica"
+          "away_team": "CF Atlètic Amèrica",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2023-09-17",
           "time": "16:00",
           "home_team": "Atlétic Escaldes",
-          "away_team": "FC Pas de la Casa"
+          "away_team": "FC Pas de la Casa",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2023-09-17",
           "time": "18:30",
           "home_team": "Inter Club d'Escaldes",
-          "away_team": "FC Santa Coloma"
+          "away_team": "FC Santa Coloma",
+          "result": {
+            "full_time": "2-0"
+          }
         }
       ]
     },
@@ -44,31 +59,46 @@
           "date": "2023-09-23",
           "time": "20:30",
           "home_team": "FC Santa Coloma",
-          "away_team": "Atlétic Escaldes"
+          "away_team": "Atlétic Escaldes",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2023-09-24",
           "time": "11:00",
           "home_team": "FC Pas de la Casa",
-          "away_team": "CE Carroi"
+          "away_team": "CE Carroi",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2023-09-24",
           "time": "13:30",
           "home_team": "CF Esperança d'Andorra",
-          "away_team": "UE Santa Coloma"
+          "away_team": "UE Santa Coloma",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2023-09-24",
           "time": "16:00",
           "home_team": "CF Atlètic Amèrica",
-          "away_team": "Penya Encarnada"
+          "away_team": "Penya Encarnada",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2023-09-24",
           "time": "18:30",
           "home_team": "FC Ordino",
-          "away_team": "Inter Club d'Escaldes"
+          "away_team": "Inter Club d'Escaldes",
+          "result": {
+            "full_time": "2-2"
+          }
         }
       ]
     },
@@ -79,31 +109,46 @@
           "date": "2023-09-30",
           "time": "20:30",
           "home_team": "UE Santa Coloma",
-          "away_team": "Inter Club d'Escaldes"
+          "away_team": "Inter Club d'Escaldes",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2023-10-01",
           "time": "11:00",
           "home_team": "Atlétic Escaldes",
-          "away_team": "FC Ordino"
+          "away_team": "FC Ordino",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2023-10-01",
           "time": "13:30",
           "home_team": "Penya Encarnada",
-          "away_team": "FC Pas de la Casa"
+          "away_team": "FC Pas de la Casa",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2023-10-01",
           "time": "16:00",
           "home_team": "CE Carroi",
-          "away_team": "FC Santa Coloma"
+          "away_team": "FC Santa Coloma",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2023-10-01",
           "time": "18:30",
           "home_team": "CF Esperança d'Andorra",
-          "away_team": "CF Atlètic Amèrica"
+          "away_team": "CF Atlètic Amèrica",
+          "result": {
+            "full_time": "2-0"
+          }
         }
       ]
     },
@@ -114,31 +159,46 @@
           "date": "2023-10-07",
           "time": "20:30",
           "home_team": "FC Pas de la Casa",
-          "away_team": "CF Esperança d'Andorra"
+          "away_team": "CF Esperança d'Andorra",
+          "result": {
+            "full_time": "3-2"
+          }
         },
         {
           "date": "2023-10-08",
           "time": "11:00",
           "home_team": "CF Atlètic Amèrica",
-          "away_team": "UE Santa Coloma"
+          "away_team": "UE Santa Coloma",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2023-10-08",
           "time": "13:30",
           "home_team": "Inter Club d'Escaldes",
-          "away_team": "Atlétic Escaldes"
+          "away_team": "Atlétic Escaldes",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2023-10-08",
           "time": "16:00",
           "home_team": "FC Ordino",
-          "away_team": "CE Carroi"
+          "away_team": "CE Carroi",
+          "result": {
+            "full_time": "4-0"
+          }
         },
         {
           "date": "2023-10-08",
           "time": "18:30",
           "home_team": "FC Santa Coloma",
-          "away_team": "Penya Encarnada"
+          "away_team": "Penya Encarnada",
+          "result": {
+            "full_time": "0-1"
+          }
         }
       ]
     },
@@ -149,31 +209,46 @@
           "date": "2023-10-21",
           "time": "20:30",
           "home_team": "CF Atlètic Amèrica",
-          "away_team": "FC Pas de la Casa"
+          "away_team": "FC Pas de la Casa",
+          "result": {
+            "full_time": "1-3"
+          }
         },
         {
           "date": "2023-10-22",
           "time": "11:00",
           "home_team": "CF Esperança d'Andorra",
-          "away_team": "FC Santa Coloma"
+          "away_team": "FC Santa Coloma",
+          "result": {
+            "full_time": "0-5"
+          }
         },
         {
           "date": "2023-10-22",
           "time": "13:30",
           "home_team": "Penya Encarnada",
-          "away_team": "FC Ordino"
+          "away_team": "FC Ordino",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2023-10-22",
           "time": "16:00",
           "home_team": "CE Carroi",
-          "away_team": "Inter Club d'Escaldes"
+          "away_team": "Inter Club d'Escaldes",
+          "result": {
+            "full_time": "1-6"
+          }
         },
         {
           "date": "2023-10-22",
           "time": "18:30",
           "home_team": "UE Santa Coloma",
-          "away_team": "Atlétic Escaldes"
+          "away_team": "Atlétic Escaldes",
+          "result": {
+            "full_time": "2-1"
+          }
         }
       ]
     },
@@ -184,31 +259,46 @@
           "date": "2023-10-28",
           "time": "20:30",
           "home_team": "FC Ordino",
-          "away_team": "CF Esperança d'Andorra"
+          "away_team": "CF Esperança d'Andorra",
+          "result": {
+            "full_time": "4-0"
+          }
         },
         {
           "date": "2023-10-29",
           "time": "11:00",
           "home_team": "Inter Club d'Escaldes",
-          "away_team": "Penya Encarnada"
+          "away_team": "Penya Encarnada",
+          "result": {
+            "full_time": "4-2"
+          }
         },
         {
           "date": "2023-10-29",
           "time": "13:30",
           "home_team": "FC Santa Coloma",
-          "away_team": "CF Atlètic Amèrica"
+          "away_team": "CF Atlètic Amèrica",
+          "result": {
+            "full_time": "4-0"
+          }
         },
         {
           "date": "2023-10-29",
           "time": "16:00",
           "home_team": "FC Pas de la Casa",
-          "away_team": "UE Santa Coloma"
+          "away_team": "UE Santa Coloma",
+          "result": {
+            "full_time": "1-5"
+          }
         },
         {
           "date": "2023-10-29",
           "time": "18:30",
           "home_team": "Atlétic Escaldes",
-          "away_team": "CE Carroi"
+          "away_team": "CE Carroi",
+          "result": {
+            "full_time": "8-1"
+          }
         }
       ]
     },
@@ -219,31 +309,46 @@
           "date": "2023-11-04",
           "time": "20:30",
           "home_team": "Penya Encarnada",
-          "away_team": "Atlétic Escaldes"
+          "away_team": "Atlétic Escaldes",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2023-11-05",
           "time": "11:00",
           "home_team": "FC Pas de la Casa",
-          "away_team": "FC Santa Coloma"
+          "away_team": "FC Santa Coloma",
+          "result": {
+            "full_time": "0-5"
+          }
         },
         {
           "date": "2023-11-05",
           "time": "13:30",
           "home_team": "UE Santa Coloma",
-          "away_team": "CE Carroi"
+          "away_team": "CE Carroi",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2023-11-05",
           "time": "16:00",
           "home_team": "CF Esperança d'Andorra",
-          "away_team": "Inter Club d'Escaldes"
+          "away_team": "Inter Club d'Escaldes",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2023-11-05",
           "time": "18:30",
           "home_team": "CF Atlètic Amèrica",
-          "away_team": "FC Ordino"
+          "away_team": "FC Ordino",
+          "result": {
+            "full_time": "1-2"
+          }
         }
       ]
     },
@@ -254,31 +359,46 @@
           "date": "2023-11-11",
           "time": "20:30",
           "home_team": "CE Carroi",
-          "away_team": "Penya Encarnada"
+          "away_team": "Penya Encarnada",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2023-11-12",
           "time": "11:00",
           "home_team": "Inter Club d'Escaldes",
-          "away_team": "CF Atlètic Amèrica"
+          "away_team": "CF Atlètic Amèrica",
+          "result": {
+            "full_time": "6-0"
+          }
         },
         {
           "date": "2023-11-12",
           "time": "13:30",
           "home_team": "FC Ordino",
-          "away_team": "FC Pas de la Casa"
+          "away_team": "FC Pas de la Casa",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2023-11-12",
           "time": "16:00",
           "home_team": "UE Santa Coloma",
-          "away_team": "FC Santa Coloma"
+          "away_team": "FC Santa Coloma",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2023-11-12",
           "time": "18:30",
           "home_team": "Atlétic Escaldes",
-          "away_team": "CF Esperança d'Andorra"
+          "away_team": "CF Esperança d'Andorra",
+          "result": {
+            "full_time": "3-1"
+          }
         }
       ]
     },
@@ -289,31 +409,46 @@
           "date": "2023-11-25",
           "time": "20:30",
           "home_team": "Penya Encarnada",
-          "away_team": "UE Santa Coloma"
+          "away_team": "UE Santa Coloma",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2023-11-26",
           "time": "11:00",
           "home_team": "FC Santa Coloma",
-          "away_team": "FC Ordino"
+          "away_team": "FC Ordino",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2023-11-26",
           "time": "13:30",
           "home_team": "CF Esperança d'Andorra",
-          "away_team": "CE Carroi"
+          "away_team": "CE Carroi",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2023-11-26",
           "time": "16:00",
           "home_team": "CF Atlètic Amèrica",
-          "away_team": "Atlétic Escaldes"
+          "away_team": "Atlétic Escaldes",
+          "result": {
+            "full_time": "1-4"
+          }
         },
         {
           "date": "2023-11-26",
           "time": "18:30",
           "home_team": "FC Pas de la Casa",
-          "away_team": "Inter Club d'Escaldes"
+          "away_team": "Inter Club d'Escaldes",
+          "result": {
+            "full_time": "0-3"
+          }
         }
       ]
     },
@@ -324,31 +459,46 @@
           "date": "2023-12-02",
           "time": "20:30",
           "home_team": "CF Atlètic Amèrica",
-          "away_team": "Inter Club d'Escaldes"
+          "away_team": "Inter Club d'Escaldes",
+          "result": {
+            "full_time": "0-3"
+          }
         },
         {
           "date": "2023-12-03",
           "time": "11:00",
           "home_team": "Atlétic Escaldes",
-          "away_team": "UE Santa Coloma"
+          "away_team": "UE Santa Coloma",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2023-12-03",
           "time": "13:30",
           "home_team": "FC Pas de la Casa",
-          "away_team": "FC Ordino"
+          "away_team": "FC Ordino",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2023-12-03",
           "time": "16:00",
           "home_team": "CF Esperança d'Andorra",
-          "away_team": "Penya Encarnada"
+          "away_team": "Penya Encarnada",
+          "result": {
+            "full_time": "0-3"
+          }
         },
         {
           "date": "2023-12-03",
           "time": "18:30",
           "home_team": "FC Santa Coloma",
-          "away_team": "CE Carroi"
+          "away_team": "CE Carroi",
+          "result": {
+            "full_time": "2-1"
+          }
         }
       ]
     },
@@ -359,31 +509,46 @@
           "date": "2023-12-09",
           "time": "20:30",
           "home_team": "FC Pas de la Casa",
-          "away_team": "Atlétic Escaldes"
+          "away_team": "Atlétic Escaldes",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2023-12-10",
           "time": "11:00",
           "home_team": "CF Atlètic Amèrica",
-          "away_team": "CE Carroi"
+          "away_team": "CE Carroi",
+          "result": {
+            "full_time": "1-3"
+          }
         },
         {
           "date": "2023-12-10",
           "time": "13:30",
           "home_team": "Inter Club d'Escaldes",
-          "away_team": "CF Esperança d'Andorra"
+          "away_team": "CF Esperança d'Andorra",
+          "result": {
+            "full_time": "6-0"
+          }
         },
         {
           "date": "2023-12-10",
           "time": "16:00",
           "home_team": "FC Ordino",
-          "away_team": "Penya Encarnada"
+          "away_team": "Penya Encarnada",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2023-12-10",
           "time": "18:30",
           "home_team": "FC Santa Coloma",
-          "away_team": "UE Santa Coloma"
+          "away_team": "UE Santa Coloma",
+          "result": {
+            "full_time": "1-2"
+          }
         }
       ]
     },
@@ -394,31 +559,46 @@
           "date": "2023-12-16",
           "time": "20:30",
           "home_team": "UE Santa Coloma",
-          "away_team": "CF Atlètic Amèrica"
+          "away_team": "CF Atlètic Amèrica",
+          "result": {
+            "full_time": "6-0"
+          }
         },
         {
           "date": "2023-12-17",
           "time": "11:00",
           "home_team": "CF Esperança d'Andorra",
-          "away_team": "FC Ordino"
+          "away_team": "FC Ordino",
+          "result": {
+            "full_time": "0-3"
+          }
         },
         {
           "date": "2023-12-17",
           "time": "13:30",
           "home_team": "Atlétic Escaldes",
-          "away_team": "Penya Encarnada"
+          "away_team": "Penya Encarnada",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2023-12-17",
           "time": "16:00",
           "home_team": "FC Santa Coloma",
-          "away_team": "FC Pas de la Casa"
+          "away_team": "FC Pas de la Casa",
+          "result": {
+            "full_time": "3-2"
+          }
         },
         {
           "date": "2023-12-17",
           "time": "18:30",
           "home_team": "Inter Club d'Escaldes",
-          "away_team": "CE Carroi"
+          "away_team": "CE Carroi",
+          "result": {
+            "full_time": "3-1"
+          }
         }
       ]
     },
@@ -429,31 +609,46 @@
           "date": "2024-01-20",
           "time": "20:30",
           "home_team": "CE Carroi",
-          "away_team": "CF Esperança d'Andorra"
+          "away_team": "CF Esperança d'Andorra",
+          "result": {
+            "full_time": "0-4"
+          }
         },
         {
           "date": "2024-01-21",
           "time": "11:00",
           "home_team": "UE Santa Coloma",
-          "away_team": "Inter Club d'Escaldes"
+          "away_team": "Inter Club d'Escaldes",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2024-01-21",
           "time": "13:30",
           "home_team": "Penya Encarnada",
-          "away_team": "FC Santa Coloma"
+          "away_team": "FC Santa Coloma",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2024-01-21",
           "time": "16:00",
           "home_team": "FC Ordino",
-          "away_team": "Atlétic Escaldes"
+          "away_team": "Atlétic Escaldes",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2024-01-21",
           "time": "18:30",
           "home_team": "FC Pas de la Casa",
-          "away_team": "CF Atlètic Amèrica"
+          "away_team": "CF Atlètic Amèrica",
+          "result": {
+            "full_time": "1-2"
+          }
         }
       ]
     },
@@ -464,31 +659,46 @@
           "date": "2024-01-27",
           "time": "20:30",
           "home_team": "FC Ordino",
-          "away_team": "FC Santa Coloma"
+          "away_team": "FC Santa Coloma",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2024-01-28",
           "time": "11:00",
           "home_team": "Inter Club d'Escaldes",
-          "away_team": "FC Pas de la Casa"
+          "away_team": "FC Pas de la Casa",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2024-01-28",
           "time": "13:30",
           "home_team": "CF Esperança d'Andorra",
-          "away_team": "Atlétic Escaldes"
+          "away_team": "Atlétic Escaldes",
+          "result": {
+            "full_time": "0-5"
+          }
         },
         {
           "date": "2024-01-28",
           "time": "16:00",
           "home_team": "Penya Encarnada",
-          "away_team": "CF Atlètic Amèrica"
+          "away_team": "CF Atlètic Amèrica",
+          "result": {
+            "full_time": "6-0"
+          }
         },
         {
           "date": "2024-01-28",
           "time": "18:30",
           "home_team": "CE Carroi",
-          "away_team": "UE Santa Coloma"
+          "away_team": "UE Santa Coloma",
+          "result": {
+            "full_time": "0-5"
+          }
         }
       ]
     },
@@ -499,31 +709,46 @@
           "date": "2024-02-03",
           "time": "20:30",
           "home_team": "FC Ordino",
-          "away_team": "CF Atlètic Amèrica"
+          "away_team": "CF Atlètic Amèrica",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2024-02-04",
           "time": "11:00",
           "home_team": "FC Pas de la Casa",
-          "away_team": "CE Carroi"
+          "away_team": "CE Carroi",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2024-02-04",
           "time": "13:30",
           "home_team": "Atlétic Escaldes",
-          "away_team": "FC Santa Coloma"
+          "away_team": "FC Santa Coloma",
+          "result": {
+            "full_time": "5-1"
+          }
         },
         {
           "date": "2024-02-04",
           "time": "16:00",
           "home_team": "UE Santa Coloma",
-          "away_team": "CF Esperança d'Andorra"
+          "away_team": "CF Esperança d'Andorra",
+          "result": {
+            "full_time": "6-0"
+          }
         },
         {
           "date": "2024-02-04",
           "time": "18:30",
           "home_team": "Penya Encarnada",
-          "away_team": "Inter Club d'Escaldes"
+          "away_team": "Inter Club d'Escaldes",
+          "result": {
+            "full_time": "0-2"
+          }
         }
       ]
     },
@@ -534,31 +759,46 @@
           "date": "2024-02-10",
           "time": "20:30",
           "home_team": "FC Santa Coloma",
-          "away_team": "CF Esperança d'Andorra"
+          "away_team": "CF Esperança d'Andorra",
+          "result": {
+            "full_time": "6-1"
+          }
         },
         {
           "date": "2024-02-11",
           "time": "11:00",
           "home_team": "Penya Encarnada",
-          "away_team": "CE Carroi"
+          "away_team": "CE Carroi",
+          "result": {
+            "full_time": "4-1"
+          }
         },
         {
           "date": "2024-02-11",
           "time": "13:30",
           "home_team": "Inter Club d'Escaldes",
-          "away_team": "FC Ordino"
+          "away_team": "FC Ordino",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2024-02-11",
           "time": "16:00",
           "home_team": "CF Atlètic Amèrica",
-          "away_team": "Atlétic Escaldes"
+          "away_team": "Atlétic Escaldes",
+          "result": {
+            "full_time": "1-8"
+          }
         },
         {
           "date": "2024-02-11",
           "time": "18:30",
           "home_team": "UE Santa Coloma",
-          "away_team": "FC Pas de la Casa"
+          "away_team": "FC Pas de la Casa",
+          "result": {
+            "full_time": "0-0"
+          }
         }
       ]
     },
@@ -569,31 +809,46 @@
           "date": "2024-02-17",
           "time": "20:30",
           "home_team": "Atlétic Escaldes",
-          "away_team": "Inter Club d'Escaldes"
+          "away_team": "Inter Club d'Escaldes",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2024-02-18",
           "time": "11:00",
           "home_team": "Penya Encarnada",
-          "away_team": "UE Santa Coloma"
+          "away_team": "UE Santa Coloma",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2024-02-18",
           "time": "13:30",
           "home_team": "FC Santa Coloma",
-          "away_team": "CF Atlètic Amèrica"
+          "away_team": "CF Atlètic Amèrica",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2024-02-18",
           "time": "16:00",
           "home_team": "CE Carroi",
-          "away_team": "FC Ordino"
+          "away_team": "FC Ordino",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2024-02-18",
           "time": "18:30",
           "home_team": "CF Esperança d'Andorra",
-          "away_team": "FC Pas de la Casa"
+          "away_team": "FC Pas de la Casa",
+          "result": {
+            "full_time": "0-0"
+          }
         }
       ]
     },
@@ -604,31 +859,46 @@
           "date": "2024-02-24",
           "time": "20:30",
           "home_team": "CF Atlètic Amèrica",
-          "away_team": "CF Esperança d'Andorra"
+          "away_team": "CF Esperança d'Andorra",
+          "result": {
+            "full_time": "6-3"
+          }
         },
         {
           "date": "2024-02-25",
           "time": "11:00",
           "home_team": "CE Carroi",
-          "away_team": "Atlétic Escaldes"
+          "away_team": "Atlétic Escaldes",
+          "result": {
+            "full_time": "0-4"
+          }
         },
         {
           "date": "2024-02-25",
           "time": "13:30",
           "home_team": "UE Santa Coloma",
-          "away_team": "FC Ordino"
+          "away_team": "FC Ordino",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2024-02-25",
           "time": "16:00",
           "home_team": "FC Santa Coloma",
-          "away_team": "Inter Club d'Escaldes"
+          "away_team": "Inter Club d'Escaldes",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2024-02-25",
           "time": "18:30",
           "home_team": "FC Pas de la Casa",
-          "away_team": "Penya Encarnada"
+          "away_team": "Penya Encarnada",
+          "result": {
+            "full_time": "0-1"
+          }
         }
       ]
     },
@@ -639,31 +909,46 @@
           "date": "2024-03-02",
           "time": "20:30",
           "home_team": "Inter Club d'Escaldes",
-          "away_team": "FC Santa Coloma"
+          "away_team": "FC Santa Coloma",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2024-03-03",
           "time": "11:00",
           "home_team": "CF Esperança d'Andorra",
-          "away_team": "Atlétic Escaldes"
+          "away_team": "Atlétic Escaldes",
+          "result": {
+            "full_time": "1-3"
+          }
         },
         {
           "date": "2024-03-03",
           "time": "13:30",
           "home_team": "CE Carroi",
-          "away_team": "FC Pas de la Casa"
+          "away_team": "FC Pas de la Casa",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2024-03-03",
           "time": "16:00",
           "home_team": "CF Atlètic Amèrica",
-          "away_team": "UE Santa Coloma"
+          "away_team": "UE Santa Coloma",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2024-03-03",
           "time": "18:30",
           "home_team": "Penya Encarnada",
-          "away_team": "FC Ordino"
+          "away_team": "FC Ordino",
+          "result": {
+            "full_time": "2-1"
+          }
         }
       ]
     },
@@ -674,31 +959,46 @@
           "date": "2024-03-10",
           "time": "11:00",
           "home_team": "FC Santa Coloma",
-          "away_team": "CF Atlètic Amèrica"
+          "away_team": "CF Atlètic Amèrica",
+          "result": {
+            "full_time": "4-2"
+          }
         },
         {
           "date": "2024-03-10",
           "time": "13:30",
           "home_team": "UE Santa Coloma",
-          "away_team": "CF Esperança d'Andorra"
+          "away_team": "CF Esperança d'Andorra",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2024-03-10",
           "time": "16:00",
           "home_team": "FC Ordino",
-          "away_team": "Inter Club d'Escaldes"
+          "away_team": "Inter Club d'Escaldes",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2024-03-10",
           "time": "18:30",
           "home_team": "Atlétic Escaldes",
-          "away_team": "CE Carroi"
+          "away_team": "CE Carroi",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2024-03-10",
           "time": "20:45",
           "home_team": "FC Pas de la Casa",
-          "away_team": "Penya Encarnada"
+          "away_team": "Penya Encarnada",
+          "result": {
+            "full_time": "2-2"
+          }
         }
       ]
     },
@@ -709,31 +1009,46 @@
           "date": "2024-04-06",
           "time": "20:30",
           "home_team": "CE Carroi",
-          "away_team": "UE Santa Coloma"
+          "away_team": "UE Santa Coloma",
+          "result": {
+            "full_time": "0-3"
+          }
         },
         {
           "date": "2024-04-07",
           "time": "11:00",
           "home_team": "FC Ordino",
-          "away_team": "FC Pas de la Casa"
+          "away_team": "FC Pas de la Casa",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2024-04-07",
           "time": "13:30",
           "home_team": "Inter Club d'Escaldes",
-          "away_team": "CF Atlètic Amèrica"
+          "away_team": "CF Atlètic Amèrica",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2024-04-07",
           "time": "16:00",
           "home_team": "CF Esperança d'Andorra",
-          "away_team": "FC Santa Coloma"
+          "away_team": "FC Santa Coloma",
+          "result": {
+            "full_time": "0-6"
+          }
         },
         {
           "date": "2024-04-07",
           "time": "18:30",
           "home_team": "Penya Encarnada",
-          "away_team": "Atlétic Escaldes"
+          "away_team": "Atlétic Escaldes",
+          "result": {
+            "full_time": "1-2"
+          }
         }
       ]
     },
@@ -744,31 +1059,46 @@
           "date": "2024-04-13",
           "time": "20:30",
           "home_team": "UE Santa Coloma",
-          "away_team": "Penya Encarnada"
+          "away_team": "Penya Encarnada",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2024-04-14",
           "time": "11:00",
           "home_team": "Atlétic Escaldes",
-          "away_team": "FC Ordino"
+          "away_team": "FC Ordino",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2024-04-14",
           "time": "13:30",
           "home_team": "FC Santa Coloma",
-          "away_team": "CE Carroi"
+          "away_team": "CE Carroi",
+          "result": {
+            "full_time": "4-0"
+          }
         },
         {
           "date": "2024-04-14",
           "time": "16:00",
           "home_team": "FC Pas de la Casa",
-          "away_team": "Inter Club d'Escaldes"
+          "away_team": "Inter Club d'Escaldes",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2024-04-14",
           "time": "18:30",
           "home_team": "CF Atlètic Amèrica",
-          "away_team": "CF Esperança d'Andorra"
+          "away_team": "CF Esperança d'Andorra",
+          "result": {
+            "full_time": "0-5"
+          }
         }
       ]
     },
@@ -779,31 +1109,46 @@
           "date": "2024-04-20",
           "time": "20:30",
           "home_team": "CE Carroi",
-          "away_team": "CF Atlètic Amèrica"
+          "away_team": "CF Atlètic Amèrica",
+          "result": {
+            "full_time": "2-3"
+          }
         },
         {
           "date": "2024-04-21",
           "time": "11:00",
           "home_team": "Penya Encarnada",
-          "away_team": "FC Santa Coloma"
+          "away_team": "FC Santa Coloma",
+          "result": {
+            "full_time": "2-4"
+          }
         },
         {
           "date": "2024-04-21",
           "time": "13:30",
           "home_team": "FC Pas de la Casa",
-          "away_team": "Atlétic Escaldes"
+          "away_team": "Atlétic Escaldes",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2024-04-21",
           "time": "16:00",
           "home_team": "Inter Club d'Escaldes",
-          "away_team": "CF Esperança d'Andorra"
+          "away_team": "CF Esperança d'Andorra",
+          "result": {
+            "full_time": "4-0"
+          }
         },
         {
           "date": "2024-04-21",
           "time": "18:30",
           "home_team": "FC Ordino",
-          "away_team": "UE Santa Coloma"
+          "away_team": "UE Santa Coloma",
+          "result": {
+            "full_time": "1-2"
+          }
         }
       ]
     },
@@ -814,31 +1159,46 @@
           "date": "2024-04-27",
           "time": "20:30",
           "home_team": "CF Esperança d'Andorra",
-          "away_team": "CE Carroi"
+          "away_team": "CE Carroi",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2024-04-28",
           "time": "11:00",
           "home_team": "Atlétic Escaldes",
-          "away_team": "Inter Club d'Escaldes"
+          "away_team": "Inter Club d'Escaldes",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2024-04-28",
           "time": "13:30",
           "home_team": "CF Atlètic Amèrica",
-          "away_team": "Penya Encarnada"
+          "away_team": "Penya Encarnada",
+          "result": {
+            "full_time": "1-4"
+          }
         },
         {
           "date": "2024-04-28",
           "time": "16:00",
           "home_team": "UE Santa Coloma",
-          "away_team": "FC Pas de la Casa"
+          "away_team": "FC Pas de la Casa",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2024-04-28",
           "time": "18:30",
           "home_team": "FC Santa Coloma",
-          "away_team": "FC Ordino"
+          "away_team": "FC Ordino",
+          "result": {
+            "full_time": "2-0"
+          }
         }
       ]
     },
@@ -849,31 +1209,46 @@
           "date": "2024-05-04",
           "time": "20:30",
           "home_team": "FC Pas de la Casa",
-          "away_team": "FC Santa Coloma"
+          "away_team": "FC Santa Coloma",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2024-05-05",
           "time": "11:00",
           "home_team": "FC Ordino",
-          "away_team": "CF Atlètic Amèrica"
+          "away_team": "CF Atlètic Amèrica",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2024-05-05",
           "time": "13:30",
           "home_team": "Penya Encarnada",
-          "away_team": "CF Esperança d'Andorra"
+          "away_team": "CF Esperança d'Andorra",
+          "result": {
+            "full_time": "3-2"
+          }
         },
         {
           "date": "2024-05-05",
           "time": "16:00",
           "home_team": "Atlétic Escaldes",
-          "away_team": "UE Santa Coloma"
+          "away_team": "UE Santa Coloma",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2024-05-05",
           "time": "18:30",
           "home_team": "Inter Club d'Escaldes",
-          "away_team": "CE Carroi"
+          "away_team": "CE Carroi",
+          "result": {
+            "full_time": "6-0"
+          }
         }
       ]
     },
@@ -884,31 +1259,46 @@
           "date": "2024-05-11",
           "time": "20:30",
           "home_team": "FC Santa Coloma",
-          "away_team": "Atlétic Escaldes"
+          "away_team": "Atlétic Escaldes",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2024-05-11",
           "time": "20:30",
           "home_team": "Inter Club d'Escaldes",
-          "away_team": "UE Santa Coloma"
+          "away_team": "UE Santa Coloma",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2024-05-12",
           "time": "11:00",
           "home_team": "CF Atlètic Amèrica",
-          "away_team": "FC Pas de la Casa"
+          "away_team": "FC Pas de la Casa",
+          "result": {
+            "full_time": "0-3"
+          }
         },
         {
           "date": "2024-05-12",
           "time": "11:00",
           "home_team": "CE Carroi",
-          "away_team": "Penya Encarnada"
+          "away_team": "Penya Encarnada",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2024-05-12",
           "time": "11:00",
           "home_team": "CF Esperança d'Andorra",
-          "away_team": "FC Ordino"
+          "away_team": "FC Ordino",
+          "result": {
+            "full_time": "2-4"
+          }
         }
       ]
     },
@@ -919,31 +1309,46 @@
           "date": "2024-05-19",
           "time": "16:00",
           "home_team": "Atlétic Escaldes",
-          "away_team": "CF Atlètic Amèrica"
+          "away_team": "CF Atlètic Amèrica",
+          "result": {
+            "full_time": "8-0"
+          }
         },
         {
           "date": "2024-05-19",
           "time": "17:00",
           "home_team": "FC Ordino",
-          "away_team": "CE Carroi"
+          "away_team": "CE Carroi",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2024-05-19",
           "time": "17:00",
           "home_team": "FC Pas de la Casa",
-          "away_team": "CF Esperança d'Andorra"
+          "away_team": "CF Esperança d'Andorra",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2024-05-19",
           "time": "17:00",
           "home_team": "Penya Encarnada",
-          "away_team": "Inter Club d'Escaldes"
+          "away_team": "Inter Club d'Escaldes",
+          "result": {
+            "full_time": "1-3"
+          }
         },
         {
           "date": "2024-05-19",
           "time": "17:00",
           "home_team": "UE Santa Coloma",
-          "away_team": "FC Santa Coloma"
+          "away_team": "FC Santa Coloma",
+          "result": {
+            "full_time": "0-0"
+          }
         }
       ]
     }

@@ -9,7 +9,10 @@
           "date": "2023-08-11",
           "time": "20:00",
           "home_team": "FC Triesen III",
-          "away_team": "FC Vaduz III"
+          "away_team": "FC Vaduz III",
+          "result": {
+            "full_time": "0-3"
+          }
         }
       ]
     },
@@ -20,13 +23,19 @@
           "date": "2023-08-22",
           "time": "20:00",
           "home_team": "FC Ruggell",
-          "away_team": "FC Vaduz"
+          "away_team": "FC Vaduz",
+          "result": {
+            "full_time": "1-8"
+          }
         },
         {
           "date": "2023-08-22",
           "time": "20:00",
           "home_team": "FC Schaan",
-          "away_team": "USV Eschen/Mauren"
+          "away_team": "USV Eschen/Mauren",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2023-08-22",
@@ -34,32 +43,44 @@
           "home_team": "USV Eschen/Mauren II",
           "away_team": "FC Triesen",
           "result": {
-            "extra_time": "1-2"
+            "full_time": "1-2"
           }
         },
         {
           "date": "2023-08-22",
           "time": "20:00",
           "home_team": "FC Triesen II",
-          "away_team": "FC Triesenberg"
+          "away_team": "FC Triesenberg",
+          "result": {
+            "full_time": "0-8"
+          }
         },
         {
           "date": "2023-08-23",
           "time": "20:00",
           "home_team": "FC Vaduz II",
-          "away_team": "FC Balzers"
+          "away_team": "FC Balzers",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2023-08-23",
           "time": "20:15",
           "home_team": "FC Schaan II",
-          "away_team": "FC Triesenberg II"
+          "away_team": "FC Triesenberg II",
+          "result": {
+            "full_time": "6-1"
+          }
         },
         {
           "date": "2023-08-29",
           "time": "20:00",
           "home_team": "FC Ruggell II",
-          "away_team": "FC Balzers II"
+          "away_team": "FC Balzers II",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2023-09-15",
@@ -67,7 +88,7 @@
           "home_team": "FC Vaduz III",
           "away_team": "USV Eschen/Mauren III",
           "result": {
-            "penalties": "5-4"
+            "full_time": "5-4"
           }
         }
       ]
@@ -79,19 +100,28 @@
           "date": "2023-10-24",
           "time": "20:00",
           "home_team": "FC Ruggell II",
-          "away_team": "FC Triesenberg"
+          "away_team": "FC Triesenberg",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2023-10-24",
           "time": "20:00",
           "home_team": "FC Vaduz III",
-          "away_team": "FC Balzers"
+          "away_team": "FC Balzers",
+          "result": {
+            "full_time": "1-6"
+          }
         },
         {
           "date": "2023-10-24",
           "time": "20:00",
           "home_team": "FC Schaan II",
-          "away_team": "FC Triesen"
+          "away_team": "FC Triesen",
+          "result": {
+            "full_time": "1-4"
+          }
         },
         {
           "date": "2023-10-25",
@@ -99,7 +129,7 @@
           "home_team": "USV Eschen/Mauren",
           "away_team": "FC Vaduz",
           "result": {
-            "extra_time": "1-2"
+            "full_time": "1-2"
           }
         }
       ]
@@ -111,13 +141,19 @@
           "date": "2024-04-09",
           "time": "20:00",
           "home_team": "FC Balzers",
-          "away_team": "FC Vaduz"
+          "away_team": "FC Vaduz",
+          "result": {
+            "full_time": "0-5"
+          }
         },
         {
           "date": "2024-04-09",
           "time": "20:00",
           "home_team": "FC Triesenberg",
-          "away_team": "FC Triesen"
+          "away_team": "FC Triesen",
+          "result": {
+            "full_time": "2-0"
+          }
         }
       ]
     },
@@ -128,7 +164,10 @@
           "date": "2024-05-08",
           "time": "19:00",
           "home_team": "FC Vaduz",
-          "away_team": "FC Triesenberg"
+          "away_team": "FC Triesenberg",
+          "result": {
+            "full_time": "5-0"
+          }
         }
       ]
     }

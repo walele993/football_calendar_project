@@ -9,25 +9,37 @@
           "date": "2022-08-02",
           "time": "19:45",
           "home_team": "Cambridge United",
-          "away_team": "Millwall FC"
+          "away_team": "Millwall FC",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2022-08-09",
           "time": "19:30",
           "home_team": "Shrewsbury Town",
-          "away_team": "Carlisle United"
+          "away_team": "Carlisle United",
+          "result": {
+            "full_time": "3-2"
+          }
         },
         {
           "date": "2022-08-09",
           "time": "19:45",
           "home_team": "Harrogate Town",
-          "away_team": "Stockport County"
+          "away_team": "Stockport County",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2022-08-09",
           "time": "19:45",
           "home_team": "Bolton Wanderers",
-          "away_team": "Salford City"
+          "away_team": "Salford City",
+          "result": {
+            "full_time": "5-1"
+          }
         },
         {
           "date": "2022-08-09",
@@ -35,7 +47,7 @@
           "home_team": "Morecambe FC",
           "away_team": "Stoke City",
           "result": {
-            "penalties": "5-3"
+            "full_time": "5-3"
           }
         },
         {
@@ -44,20 +56,26 @@
           "home_team": "Blackpool FC",
           "away_team": "Barrow AFC",
           "result": {
-            "penalties": "3-4"
+            "full_time": "3-4"
           }
         },
         {
           "date": "2022-08-09",
           "time": "19:45",
           "home_team": "Grimsby Town",
-          "away_team": "Crewe Alexandra"
+          "away_team": "Crewe Alexandra",
+          "result": {
+            "full_time": "4-0"
+          }
         },
         {
           "date": "2022-08-09",
           "time": "19:45",
           "home_team": "Mansfield Town",
-          "away_team": "Derby County"
+          "away_team": "Derby County",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2022-08-09",
@@ -65,39 +83,53 @@
           "home_team": "Accrington Stanley",
           "away_team": "Tranmere Rovers",
           "result": {
-            "penalties": "11-12",
-            "full_time": "4-2"
+            "full_time": "11-12"
           }
         },
         {
           "date": "2022-08-09",
           "time": "19:45",
           "home_team": "Bradford City",
-          "away_team": "Hull City"
+          "away_team": "Hull City",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2022-08-09",
           "time": "19:45",
           "home_team": "Rochdale AFC",
-          "away_team": "Burton Albion"
+          "away_team": "Burton Albion",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2022-08-09",
           "time": "19:45",
           "home_team": "Doncaster Rovers",
-          "away_team": "Lincoln City"
+          "away_team": "Lincoln City",
+          "result": {
+            "full_time": "0-3"
+          }
         },
         {
           "date": "2022-08-09",
           "time": "19:45",
           "home_team": "Huddersfield Town",
-          "away_team": "Preston North End"
+          "away_team": "Preston North End",
+          "result": {
+            "full_time": "1-4"
+          }
         },
         {
           "date": "2022-08-09",
           "time": "19:45",
           "home_team": "Fleetwood Town",
-          "away_team": "Wigan Athletic"
+          "away_team": "Wigan Athletic",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2022-08-09",
@@ -105,7 +137,6 @@
           "home_team": "Norwich City",
           "away_team": "Birmingham City",
           "result": {
-            "penalties": "4-2",
             "full_time": "4-2"
           }
         },
@@ -113,13 +144,19 @@
           "date": "2022-08-09",
           "time": "19:45",
           "home_team": "Northampton Town",
-          "away_team": "Wycombe Wanderers"
+          "away_team": "Wycombe Wanderers",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2022-08-09",
           "time": "19:45",
           "home_team": "Cardiff City",
-          "away_team": "Portsmouth FC"
+          "away_team": "Portsmouth FC",
+          "result": {
+            "full_time": "0-3"
+          }
         },
         {
           "date": "2022-08-09",
@@ -127,57 +164,80 @@
           "home_team": "Charlton Athletic",
           "away_team": "Queens Park Rangers",
           "result": {
-            "penalties": "5-3",
-            "full_time": "1-1"
+            "full_time": "5-3"
           }
         },
         {
           "date": "2022-08-09",
           "time": "19:45",
           "home_team": "Crawley Town",
-          "away_team": "Bristol Rovers"
+          "away_team": "Bristol Rovers",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2022-08-09",
           "time": "19:45",
           "home_team": "Walsall FC",
-          "away_team": "Swindon Town"
+          "away_team": "Swindon Town",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2022-08-09",
           "time": "19:45",
           "home_team": "Ipswich Town",
-          "away_team": "Colchester United"
+          "away_team": "Colchester United",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2022-08-09",
           "time": "19:45",
           "home_team": "Luton Town",
-          "away_team": "Newport County"
+          "away_team": "Newport County",
+          "result": {
+            "full_time": "2-3"
+          }
         },
         {
           "date": "2022-08-09",
           "time": "19:45",
           "home_team": "AFC Wimbledon",
-          "away_team": "Gillingham FC"
+          "away_team": "Gillingham FC",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2022-08-09",
           "time": "19:45",
           "home_team": "Cheltenham Town",
-          "away_team": "Exeter City"
+          "away_team": "Exeter City",
+          "result": {
+            "full_time": "0-7"
+          }
         },
         {
           "date": "2022-08-09",
           "time": "19:45",
           "home_team": "Milton Keynes Dons",
-          "away_team": "Sutton United"
+          "away_team": "Sutton United",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2022-08-09",
           "time": "19:45",
           "home_team": "Forest Green Rovers",
-          "away_team": "Leyton Orient"
+          "away_team": "Leyton Orient",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2022-08-09",
@@ -185,57 +245,80 @@
           "home_team": "Oxford United",
           "away_team": "Swansea City",
           "result": {
-            "penalties": "5-3",
-            "full_time": "2-4"
+            "full_time": "5-3"
           }
         },
         {
           "date": "2022-08-09",
           "time": "20:00",
           "home_team": "Reading FC",
-          "away_team": "Stevenage FC"
+          "away_team": "Stevenage FC",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2022-08-10",
           "time": "19:45",
           "home_team": "Blackburn Rovers",
-          "away_team": "Hartlepool United"
+          "away_team": "Hartlepool United",
+          "result": {
+            "full_time": "4-0"
+          }
         },
         {
           "date": "2022-08-10",
           "time": "19:45",
           "home_team": "Sheffield Wednesday",
-          "away_team": "Sunderland AFC"
+          "away_team": "Sunderland AFC",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2022-08-10",
           "time": "19:45",
           "home_team": "Middlesbrough FC",
-          "away_team": "Barnsley FC"
+          "away_team": "Barnsley FC",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2022-08-10",
           "time": "19:45",
           "home_team": "Port Vale FC",
-          "away_team": "Rotherham United"
+          "away_team": "Rotherham United",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2022-08-10",
           "time": "19:45",
           "home_team": "Coventry City",
-          "away_team": "Bristol City"
+          "away_team": "Bristol City",
+          "result": {
+            "full_time": "1-4"
+          }
         },
         {
           "date": "2022-08-10",
           "time": "19:45",
           "home_team": "Plymouth Argyle",
-          "away_team": "Peterborough United"
+          "away_team": "Peterborough United",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2022-08-11",
           "time": "20:00",
           "home_team": "West Bromwich Albion",
-          "away_team": "Sheffield United"
+          "away_team": "Sheffield United",
+          "result": {
+            "full_time": "1-0"
+          }
         }
       ]
     },
@@ -246,43 +329,64 @@
           "date": "2022-08-23",
           "time": "19:00",
           "home_team": "Walsall FC",
-          "away_team": "Charlton Athletic"
+          "away_team": "Charlton Athletic",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2022-08-23",
           "time": "19:30",
           "home_team": "Sheffield Wednesday",
-          "away_team": "Rochdale AFC"
+          "away_team": "Rochdale AFC",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2022-08-23",
           "time": "19:30",
           "home_team": "Shrewsbury Town",
-          "away_team": "Burnley FC"
+          "away_team": "Burnley FC",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2022-08-23",
           "time": "19:45",
           "home_team": "Bolton Wanderers",
-          "away_team": "Aston Villa"
+          "away_team": "Aston Villa",
+          "result": {
+            "full_time": "1-4"
+          }
         },
         {
           "date": "2022-08-23",
           "time": "19:45",
           "home_team": "Wolverhampton Wanderers",
-          "away_team": "Preston North End"
+          "away_team": "Preston North End",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2022-08-23",
           "time": "19:45",
           "home_team": "Fleetwood Town",
-          "away_team": "Everton FC"
+          "away_team": "Everton FC",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2022-08-23",
           "time": "19:45",
           "home_team": "Rotherham United",
-          "away_team": "Morecambe FC"
+          "away_team": "Morecambe FC",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2022-08-23",
@@ -290,8 +394,7 @@
           "home_team": "Barrow AFC",
           "away_team": "Lincoln City",
           "result": {
-            "penalties": "1-3",
-            "full_time": "3-3"
+            "full_time": "1-3"
           }
         },
         {
@@ -300,26 +403,35 @@
           "home_team": "Stockport County",
           "away_team": "Leicester City",
           "result": {
-            "penalties": "1-3"
+            "full_time": "1-3"
           }
         },
         {
           "date": "2022-08-23",
           "time": "19:45",
           "home_team": "Bradford City",
-          "away_team": "Blackburn Rovers"
+          "away_team": "Blackburn Rovers",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2022-08-23",
           "time": "19:45",
           "home_team": "Grimsby Town",
-          "away_team": "Nottingham Forest"
+          "away_team": "Nottingham Forest",
+          "result": {
+            "full_time": "0-3"
+          }
         },
         {
           "date": "2022-08-23",
           "time": "19:45",
           "home_team": "Stevenage FC",
-          "away_team": "Peterborough United"
+          "away_team": "Peterborough United",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2022-08-23",
@@ -327,45 +439,62 @@
           "home_team": "Norwich City",
           "away_team": "AFC Bournemouth",
           "result": {
-            "penalties": "3-5",
-            "full_time": "3-3"
+            "full_time": "3-5"
           }
         },
         {
           "date": "2022-08-23",
           "time": "19:45",
           "home_team": "Newport County",
-          "away_team": "Portsmouth FC"
+          "away_team": "Portsmouth FC",
+          "result": {
+            "full_time": "3-2"
+          }
         },
         {
           "date": "2022-08-23",
           "time": "19:45",
           "home_team": "Oxford United",
-          "away_team": "Crystal Palace"
+          "away_team": "Crystal Palace",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2022-08-23",
           "time": "19:45",
           "home_team": "Watford FC",
-          "away_team": "Milton Keynes Dons"
+          "away_team": "Milton Keynes Dons",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2022-08-23",
           "time": "19:45",
           "home_team": "Colchester United",
-          "away_team": "Brentford FC"
+          "away_team": "Brentford FC",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2022-08-23",
           "time": "19:45",
           "home_team": "Crawley Town",
-          "away_team": "Fulham FC"
+          "away_team": "Fulham FC",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2022-08-23",
           "time": "19:45",
           "home_team": "Cambridge United",
-          "away_team": "Southampton FC"
+          "away_team": "Southampton FC",
+          "result": {
+            "full_time": "0-3"
+          }
         },
         {
           "date": "2022-08-23",
@@ -373,38 +502,53 @@
           "home_team": "Gillingham FC",
           "away_team": "Exeter City",
           "result": {
-            "penalties": "6-5"
+            "full_time": "6-5"
           }
         },
         {
           "date": "2022-08-23",
           "time": "19:45",
           "home_team": "Derby County",
-          "away_team": "West Bromwich Albion"
+          "away_team": "West Bromwich Albion",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2022-08-24",
           "time": "19:45",
           "home_team": "Leeds United",
-          "away_team": "Barnsley FC"
+          "away_team": "Barnsley FC",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2022-08-24",
           "time": "19:45",
           "home_team": "Tranmere Rovers",
-          "away_team": "Newcastle United"
+          "away_team": "Newcastle United",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2022-08-24",
           "time": "19:45",
           "home_team": "Wycombe Wanderers",
-          "away_team": "Bristol City"
+          "away_team": "Bristol City",
+          "result": {
+            "full_time": "1-3"
+          }
         },
         {
           "date": "2022-08-24",
           "time": "19:45",
           "home_team": "Forest Green Rovers",
-          "away_team": "Brighton & Hove Albion"
+          "away_team": "Brighton & Hove Albion",
+          "result": {
+            "full_time": "0-3"
+          }
         }
       ]
     },
@@ -415,25 +559,37 @@
           "date": "2022-11-08",
           "time": "19:45",
           "home_team": "Leicester City",
-          "away_team": "Newport County"
+          "away_team": "Newport County",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2022-11-08",
           "time": "19:45",
           "home_team": "AFC Bournemouth",
-          "away_team": "Everton FC"
+          "away_team": "Everton FC",
+          "result": {
+            "full_time": "4-1"
+          }
         },
         {
           "date": "2022-11-08",
           "time": "19:45",
           "home_team": "Burnley FC",
-          "away_team": "Crawley Town"
+          "away_team": "Crawley Town",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2022-11-08",
           "time": "19:45",
           "home_team": "Bristol City",
-          "away_team": "Lincoln City"
+          "away_team": "Lincoln City",
+          "result": {
+            "full_time": "1-3"
+          }
         },
         {
           "date": "2022-11-08",
@@ -441,15 +597,17 @@
           "home_team": "Stevenage FC",
           "away_team": "Charlton Athletic",
           "result": {
-            "penalties": "4-5",
-            "full_time": "2-1"
+            "full_time": "4-5"
           }
         },
         {
           "date": "2022-11-08",
           "time": "19:45",
           "home_team": "Milton Keynes Dons",
-          "away_team": "Morecambe FC"
+          "away_team": "Morecambe FC",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2022-11-08",
@@ -457,8 +615,7 @@
           "home_team": "Brentford FC",
           "away_team": "Gillingham FC",
           "result": {
-            "penalties": "5-6",
-            "full_time": "2-1"
+            "full_time": "5-6"
           }
         },
         {
@@ -467,21 +624,26 @@
           "home_team": "West Ham United",
           "away_team": "Blackburn Rovers",
           "result": {
-            "penalties": "9-10",
-            "full_time": "3-3"
+            "full_time": "9-10"
           }
         },
         {
           "date": "2022-11-09",
           "time": "19:45",
           "home_team": "Wolverhampton Wanderers",
-          "away_team": "Leeds United"
+          "away_team": "Leeds United",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2022-11-09",
           "time": "19:45",
           "home_team": "Nottingham Forest",
-          "away_team": "Tottenham Hotspur"
+          "away_team": "Tottenham Hotspur",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2022-11-09",
@@ -489,7 +651,7 @@
           "home_team": "Newcastle United",
           "away_team": "Crystal Palace",
           "result": {
-            "penalties": "3-2"
+            "full_time": "3-2"
           }
         },
         {
@@ -498,15 +660,17 @@
           "home_team": "Southampton FC",
           "away_team": "Sheffield Wednesday",
           "result": {
-            "penalties": "6-5",
-            "full_time": "2-2"
+            "full_time": "6-5"
           }
         },
         {
           "date": "2022-11-09",
           "time": "19:45",
           "home_team": "Arsenal FC",
-          "away_team": "Brighton & Hove Albion"
+          "away_team": "Brighton & Hove Albion",
+          "result": {
+            "full_time": "1-3"
+          }
         },
         {
           "date": "2022-11-09",
@@ -514,20 +678,26 @@
           "home_team": "Liverpool FC",
           "away_team": "Derby County",
           "result": {
-            "penalties": "3-2"
+            "full_time": "3-2"
           }
         },
         {
           "date": "2022-11-09",
           "time": "20:00",
           "home_team": "Manchester City",
-          "away_team": "Chelsea FC"
+          "away_team": "Chelsea FC",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2022-11-10",
           "time": "20:00",
           "home_team": "Manchester United",
-          "away_team": "Aston Villa"
+          "away_team": "Aston Villa",
+          "result": {
+            "full_time": "4-2"
+          }
         }
       ]
     },
@@ -538,31 +708,46 @@
           "date": "2022-12-20",
           "time": "19:45",
           "home_team": "Wolverhampton Wanderers",
-          "away_team": "Gillingham FC"
+          "away_team": "Gillingham FC",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2022-12-20",
           "time": "19:45",
           "home_team": "Southampton FC",
-          "away_team": "Lincoln City"
+          "away_team": "Lincoln City",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2022-12-20",
           "time": "19:45",
           "home_team": "Newcastle United",
-          "away_team": "AFC Bournemouth"
+          "away_team": "AFC Bournemouth",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2022-12-20",
           "time": "19:45",
           "home_team": "Milton Keynes Dons",
-          "away_team": "Leicester City"
+          "away_team": "Leicester City",
+          "result": {
+            "full_time": "0-3"
+          }
         },
         {
           "date": "2022-12-21",
           "time": "19:45",
           "home_team": "Blackburn Rovers",
-          "away_team": "Nottingham Forest"
+          "away_team": "Nottingham Forest",
+          "result": {
+            "full_time": "1-4"
+          }
         },
         {
           "date": "2022-12-21",
@@ -570,20 +755,26 @@
           "home_team": "Charlton Athletic",
           "away_team": "Brighton & Hove Albion",
           "result": {
-            "penalties": "4-3"
+            "full_time": "4-3"
           }
         },
         {
           "date": "2022-12-21",
           "time": "20:00",
           "home_team": "Manchester United",
-          "away_team": "Burnley FC"
+          "away_team": "Burnley FC",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2022-12-22",
           "time": "20:00",
           "home_team": "Manchester City",
-          "away_team": "Liverpool FC"
+          "away_team": "Liverpool FC",
+          "result": {
+            "full_time": "3-2"
+          }
         }
       ]
     },
@@ -594,13 +785,19 @@
           "date": "2023-01-10",
           "time": "20:00",
           "home_team": "Manchester United",
-          "away_team": "Charlton Athletic"
+          "away_team": "Charlton Athletic",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2023-01-10",
           "time": "20:00",
           "home_team": "Newcastle United",
-          "away_team": "Leicester City"
+          "away_team": "Leicester City",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2023-01-11",
@@ -608,15 +805,17 @@
           "home_team": "Nottingham Forest",
           "away_team": "Wolverhampton Wanderers",
           "result": {
-            "penalties": "4-3",
-            "full_time": "2-1"
+            "full_time": "4-3"
           }
         },
         {
           "date": "2023-01-11",
           "time": "20:00",
           "home_team": "Southampton FC",
-          "away_team": "Manchester City"
+          "away_team": "Manchester City",
+          "result": {
+            "full_time": "2-0"
+          }
         }
       ]
     },
@@ -627,25 +826,37 @@
           "date": "2023-01-24",
           "time": "20:00",
           "home_team": "Southampton FC",
-          "away_team": "Newcastle United"
+          "away_team": "Newcastle United",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2023-01-25",
           "time": "20:00",
           "home_team": "Nottingham Forest",
-          "away_team": "Manchester United"
+          "away_team": "Manchester United",
+          "result": {
+            "full_time": "0-3"
+          }
         },
         {
           "date": "2023-01-31",
           "time": "20:00",
           "home_team": "Newcastle United",
-          "away_team": "Southampton FC"
+          "away_team": "Southampton FC",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2023-02-01",
           "time": "20:00",
           "home_team": "Manchester United",
-          "away_team": "Nottingham Forest"
+          "away_team": "Nottingham Forest",
+          "result": {
+            "full_time": "2-0"
+          }
         }
       ]
     },
@@ -656,7 +867,10 @@
           "date": "2023-02-26",
           "time": "16:30",
           "home_team": "Manchester United",
-          "away_team": "Newcastle United"
+          "away_team": "Newcastle United",
+          "result": {
+            "full_time": "2-0"
+          }
         }
       ]
     }

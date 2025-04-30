@@ -9,61 +9,91 @@
           "date": "2015-08-07",
           "time": "20:30",
           "home_team": "Lille OSC",
-          "away_team": "Paris Saint-Germain"
+          "away_team": "Paris Saint-Germain",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2015-08-08",
           "time": "21:00",
           "home_team": "FC Nantes",
-          "away_team": "EA Guingamp"
+          "away_team": "EA Guingamp",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2015-08-08",
           "time": "21:00",
           "home_team": "ESTAC Troyes",
-          "away_team": "Gazélec FC Ajaccio"
+          "away_team": "Gazélec FC Ajaccio",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2015-08-08",
           "time": "21:00",
           "home_team": "Montpellier HSC",
-          "away_team": "Angers SCO"
+          "away_team": "Angers SCO",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2015-08-08",
           "time": "21:00",
           "home_team": "OGC Nice",
-          "away_team": "AS Monaco"
+          "away_team": "AS Monaco",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2015-08-08",
           "time": "21:00",
           "home_team": "Olympique Marseille",
-          "away_team": "SM Caen"
+          "away_team": "SM Caen",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2015-08-08",
           "time": "21:00",
           "home_team": "SC Bastia",
-          "away_team": "Stade Rennais"
+          "away_team": "Stade Rennais",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2015-08-09",
           "time": "17:00",
           "home_team": "Girondins Bordeaux",
-          "away_team": "Stade de Reims"
+          "away_team": "Stade de Reims",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2015-08-09",
           "time": "17:00",
           "home_team": "Toulouse FC",
-          "away_team": "AS Saint-Étienne"
+          "away_team": "AS Saint-Étienne",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2015-08-09",
           "time": "21:00",
           "home_team": "Olympique Lyonnais",
-          "away_team": "FC Lorient"
+          "away_team": "FC Lorient",
+          "result": {
+            "full_time": "0-0"
+          }
         }
       ]
     },
@@ -74,61 +104,91 @@
           "date": "2015-08-14",
           "time": "20:30",
           "home_team": "AS Monaco",
-          "away_team": "Lille OSC"
+          "away_team": "Lille OSC",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2015-08-15",
           "time": "17:00",
           "home_team": "AS Saint-Étienne",
-          "away_team": "Girondins Bordeaux"
+          "away_team": "Girondins Bordeaux",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2015-08-15",
           "time": "20:00",
           "home_team": "Angers SCO",
-          "away_team": "FC Nantes"
+          "away_team": "FC Nantes",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2015-08-15",
           "time": "20:00",
           "home_team": "EA Guingamp",
-          "away_team": "Olympique Lyonnais"
+          "away_team": "Olympique Lyonnais",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2015-08-15",
           "time": "20:00",
           "home_team": "ESTAC Troyes",
-          "away_team": "OGC Nice"
+          "away_team": "OGC Nice",
+          "result": {
+            "full_time": "3-3"
+          }
         },
         {
           "date": "2015-08-15",
           "time": "20:00",
           "home_team": "SM Caen",
-          "away_team": "Toulouse FC"
+          "away_team": "Toulouse FC",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2015-08-15",
           "time": "20:00",
           "home_team": "Stade Rennais",
-          "away_team": "Montpellier HSC"
+          "away_team": "Montpellier HSC",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2015-08-16",
           "time": "14:00",
           "home_team": "Stade de Reims",
-          "away_team": "Olympique Marseille"
+          "away_team": "Olympique Marseille",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2015-08-16",
           "time": "17:00",
           "home_team": "FC Lorient",
-          "away_team": "SC Bastia"
+          "away_team": "SC Bastia",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2015-08-16",
           "time": "21:00",
           "home_team": "Paris Saint-Germain",
-          "away_team": "Gazélec FC Ajaccio"
+          "away_team": "Gazélec FC Ajaccio",
+          "result": {
+            "full_time": "2-0"
+          }
         }
       ]
     },
@@ -139,61 +199,91 @@
           "date": "2015-08-21",
           "time": "20:30",
           "home_team": "Montpellier HSC",
-          "away_team": "Paris Saint-Germain"
+          "away_team": "Paris Saint-Germain",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2015-08-22",
           "time": "17:00",
           "home_team": "Olympique Lyonnais",
-          "away_team": "Stade Rennais"
+          "away_team": "Stade Rennais",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2015-08-22",
           "time": "20:00",
           "home_team": "FC Nantes",
-          "away_team": "Stade de Reims"
+          "away_team": "Stade de Reims",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2015-08-22",
           "time": "20:00",
           "home_team": "Gazélec FC Ajaccio",
-          "away_team": "Angers SCO"
+          "away_team": "Angers SCO",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2015-08-22",
           "time": "20:00",
           "home_team": "OGC Nice",
-          "away_team": "SM Caen"
+          "away_team": "SM Caen",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2015-08-22",
           "time": "20:00",
           "home_team": "SC Bastia",
-          "away_team": "EA Guingamp"
+          "away_team": "EA Guingamp",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2015-08-22",
           "time": "20:00",
           "home_team": "Toulouse FC",
-          "away_team": "AS Monaco"
+          "away_team": "AS Monaco",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2015-08-23",
           "time": "14:00",
           "home_team": "Lille OSC",
-          "away_team": "Girondins Bordeaux"
+          "away_team": "Girondins Bordeaux",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2015-08-23",
           "time": "17:00",
           "home_team": "FC Lorient",
-          "away_team": "AS Saint-Étienne"
+          "away_team": "AS Saint-Étienne",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2015-08-23",
           "time": "21:00",
           "home_team": "Olympique Marseille",
-          "away_team": "ESTAC Troyes"
+          "away_team": "ESTAC Troyes",
+          "result": {
+            "full_time": "6-0"
+          }
         }
       ]
     },
@@ -204,61 +294,91 @@
           "date": "2015-08-28",
           "time": "20:30",
           "home_team": "EA Guingamp",
-          "away_team": "Olympique Marseille"
+          "away_team": "Olympique Marseille",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2015-08-29",
           "time": "17:00",
           "home_team": "SM Caen",
-          "away_team": "Olympique Lyonnais"
+          "away_team": "Olympique Lyonnais",
+          "result": {
+            "full_time": "0-4"
+          }
         },
         {
           "date": "2015-08-29",
           "time": "20:00",
           "home_team": "Angers SCO",
-          "away_team": "OGC Nice"
+          "away_team": "OGC Nice",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2015-08-29",
           "time": "20:00",
           "home_team": "ESTAC Troyes",
-          "away_team": "Montpellier HSC"
+          "away_team": "Montpellier HSC",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2015-08-29",
           "time": "20:00",
           "home_team": "Lille OSC",
-          "away_team": "Gazélec FC Ajaccio"
+          "away_team": "Gazélec FC Ajaccio",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2015-08-29",
           "time": "20:00",
           "home_team": "Stade de Reims",
-          "away_team": "FC Lorient"
+          "away_team": "FC Lorient",
+          "result": {
+            "full_time": "4-1"
+          }
         },
         {
           "date": "2015-08-29",
           "time": "20:00",
           "home_team": "Stade Rennais",
-          "away_team": "Toulouse FC"
+          "away_team": "Toulouse FC",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2015-08-30",
           "time": "14:00",
           "home_team": "AS Saint-Étienne",
-          "away_team": "SC Bastia"
+          "away_team": "SC Bastia",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2015-08-30",
           "time": "17:00",
           "home_team": "Girondins Bordeaux",
-          "away_team": "FC Nantes"
+          "away_team": "FC Nantes",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2015-08-30",
           "time": "21:00",
           "home_team": "AS Monaco",
-          "away_team": "Paris Saint-Germain"
+          "away_team": "Paris Saint-Germain",
+          "result": {
+            "full_time": "0-3"
+          }
         }
       ]
     },
@@ -269,61 +389,91 @@
           "date": "2015-09-11",
           "time": "20:30",
           "home_team": "Paris Saint-Germain",
-          "away_team": "Girondins Bordeaux"
+          "away_team": "Girondins Bordeaux",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2015-09-12",
           "time": "17:00",
           "home_team": "Olympique Lyonnais",
-          "away_team": "Lille OSC"
+          "away_team": "Lille OSC",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2015-09-12",
           "time": "20:00",
           "home_team": "ESTAC Troyes",
-          "away_team": "SM Caen"
+          "away_team": "SM Caen",
+          "result": {
+            "full_time": "1-3"
+          }
         },
         {
           "date": "2015-09-12",
           "time": "20:00",
           "home_team": "FC Lorient",
-          "away_team": "Angers SCO"
+          "away_team": "Angers SCO",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2015-09-12",
           "time": "20:00",
           "home_team": "Montpellier HSC",
-          "away_team": "AS Saint-Étienne"
+          "away_team": "AS Saint-Étienne",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2015-09-12",
           "time": "20:00",
           "home_team": "OGC Nice",
-          "away_team": "EA Guingamp"
+          "away_team": "EA Guingamp",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2015-09-12",
           "time": "20:00",
           "home_team": "Toulouse FC",
-          "away_team": "Stade de Reims"
+          "away_team": "Stade de Reims",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2015-09-13",
           "time": "14:00",
           "home_team": "Gazélec FC Ajaccio",
-          "away_team": "AS Monaco"
+          "away_team": "AS Monaco",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2015-09-13",
           "time": "17:00",
           "home_team": "FC Nantes",
-          "away_team": "Stade Rennais"
+          "away_team": "Stade Rennais",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2015-09-13",
           "time": "21:00",
           "home_team": "Olympique Marseille",
-          "away_team": "SC Bastia"
+          "away_team": "SC Bastia",
+          "result": {
+            "full_time": "4-1"
+          }
         }
       ]
     },
@@ -334,61 +484,91 @@
           "date": "2015-09-18",
           "time": "20:30",
           "home_team": "Stade Rennais",
-          "away_team": "Lille OSC"
+          "away_team": "Lille OSC",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2015-09-19",
           "time": "17:30",
           "home_team": "Stade de Reims",
-          "away_team": "Paris Saint-Germain"
+          "away_team": "Paris Saint-Germain",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2015-09-19",
           "time": "20:00",
           "home_team": "Angers SCO",
-          "away_team": "ESTAC Troyes"
+          "away_team": "ESTAC Troyes",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2015-09-19",
           "time": "20:00",
           "home_team": "EA Guingamp",
-          "away_team": "Gazélec FC Ajaccio"
+          "away_team": "Gazélec FC Ajaccio",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2015-09-19",
           "time": "20:00",
           "home_team": "SC Bastia",
-          "away_team": "OGC Nice"
+          "away_team": "OGC Nice",
+          "result": {
+            "full_time": "1-3"
+          }
         },
         {
           "date": "2015-09-19",
           "time": "20:00",
           "home_team": "SM Caen",
-          "away_team": "Montpellier HSC"
+          "away_team": "Montpellier HSC",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2015-09-20",
           "time": "14:00",
           "home_team": "Girondins Bordeaux",
-          "away_team": "Toulouse FC"
+          "away_team": "Toulouse FC",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2015-09-20",
           "time": "17:00",
           "home_team": "AS Monaco",
-          "away_team": "FC Lorient"
+          "away_team": "FC Lorient",
+          "result": {
+            "full_time": "2-3"
+          }
         },
         {
           "date": "2015-09-20",
           "time": "17:00",
           "home_team": "AS Saint-Étienne",
-          "away_team": "FC Nantes"
+          "away_team": "FC Nantes",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2015-09-20",
           "time": "21:00",
           "home_team": "Olympique Marseille",
-          "away_team": "Olympique Lyonnais"
+          "away_team": "Olympique Lyonnais",
+          "result": {
+            "full_time": "1-1"
+          }
         }
       ]
     },
@@ -399,61 +579,91 @@
           "date": "2015-09-22",
           "time": "19:00",
           "home_team": "Angers SCO",
-          "away_team": "Stade de Reims"
+          "away_team": "Stade de Reims",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2015-09-22",
           "time": "21:00",
           "home_team": "Paris Saint-Germain",
-          "away_team": "EA Guingamp"
+          "away_team": "EA Guingamp",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2015-09-23",
           "time": "19:00",
           "home_team": "ESTAC Troyes",
-          "away_team": "AS Saint-Étienne"
+          "away_team": "AS Saint-Étienne",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2015-09-23",
           "time": "19:00",
           "home_team": "FC Lorient",
-          "away_team": "SM Caen"
+          "away_team": "SM Caen",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2015-09-23",
           "time": "19:00",
           "home_team": "Gazélec FC Ajaccio",
-          "away_team": "Stade Rennais"
+          "away_team": "Stade Rennais",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2015-09-23",
           "time": "19:00",
           "home_team": "OGC Nice",
-          "away_team": "Girondins Bordeaux"
+          "away_team": "Girondins Bordeaux",
+          "result": {
+            "full_time": "6-1"
+          }
         },
         {
           "date": "2015-09-23",
           "time": "19:00",
           "home_team": "Olympique Lyonnais",
-          "away_team": "SC Bastia"
+          "away_team": "SC Bastia",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2015-09-23",
           "time": "21:00",
           "home_team": "Toulouse FC",
-          "away_team": "Olympique Marseille"
+          "away_team": "Olympique Marseille",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2015-09-24",
           "time": "18:55",
           "home_team": "Montpellier HSC",
-          "away_team": "AS Monaco"
+          "away_team": "AS Monaco",
+          "result": {
+            "full_time": "2-3"
+          }
         },
         {
           "date": "2015-09-29",
           "time": "18:30",
           "home_team": "Lille OSC",
-          "away_team": "FC Nantes"
+          "away_team": "FC Nantes",
+          "result": {
+            "full_time": "0-1"
+          }
         }
       ]
     },
@@ -464,61 +674,91 @@
           "date": "2015-09-25",
           "time": "20:30",
           "home_team": "Stade de Reims",
-          "away_team": "Lille OSC"
+          "away_team": "Lille OSC",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2015-09-26",
           "time": "17:30",
           "home_team": "FC Nantes",
-          "away_team": "Paris Saint-Germain"
+          "away_team": "Paris Saint-Germain",
+          "result": {
+            "full_time": "1-4"
+          }
         },
         {
           "date": "2015-09-26",
           "time": "20:00",
           "home_team": "Girondins Bordeaux",
-          "away_team": "Olympique Lyonnais"
+          "away_team": "Olympique Lyonnais",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2015-09-26",
           "time": "20:00",
           "home_team": "SC Bastia",
-          "away_team": "Toulouse FC"
+          "away_team": "Toulouse FC",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2015-09-26",
           "time": "20:00",
           "home_team": "SM Caen",
-          "away_team": "Gazélec FC Ajaccio"
+          "away_team": "Gazélec FC Ajaccio",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2015-09-26",
           "time": "20:00",
           "home_team": "Stade Rennais",
-          "away_team": "ESTAC Troyes"
+          "away_team": "ESTAC Troyes",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2015-09-27",
           "time": "14:00",
           "home_team": "Olympique Marseille",
-          "away_team": "Angers SCO"
+          "away_team": "Angers SCO",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2015-09-27",
           "time": "17:00",
           "home_team": "EA Guingamp",
-          "away_team": "AS Monaco"
+          "away_team": "AS Monaco",
+          "result": {
+            "full_time": "3-3"
+          }
         },
         {
           "date": "2015-09-27",
           "time": "17:00",
           "home_team": "Montpellier HSC",
-          "away_team": "FC Lorient"
+          "away_team": "FC Lorient",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2015-09-27",
           "time": "21:00",
           "home_team": "AS Saint-Étienne",
-          "away_team": "OGC Nice"
+          "away_team": "OGC Nice",
+          "result": {
+            "full_time": "1-4"
+          }
         }
       ]
     },
@@ -529,61 +769,91 @@
           "date": "2015-10-02",
           "time": "20:30",
           "home_team": "Lille OSC",
-          "away_team": "Montpellier HSC"
+          "away_team": "Montpellier HSC",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2015-10-03",
           "time": "17:30",
           "home_team": "Olympique Lyonnais",
-          "away_team": "Stade de Reims"
+          "away_team": "Stade de Reims",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2015-10-03",
           "time": "20:00",
           "home_team": "Angers SCO",
-          "away_team": "SC Bastia"
+          "away_team": "SC Bastia",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2015-10-03",
           "time": "20:00",
           "home_team": "ESTAC Troyes",
-          "away_team": "EA Guingamp"
+          "away_team": "EA Guingamp",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2015-10-03",
           "time": "20:00",
           "home_team": "Gazélec FC Ajaccio",
-          "away_team": "Toulouse FC"
+          "away_team": "Toulouse FC",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2015-10-04",
           "time": "14:00",
           "home_team": "AS Monaco",
-          "away_team": "Stade Rennais"
+          "away_team": "Stade Rennais",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2015-10-04",
           "time": "17:00",
           "home_team": "FC Lorient",
-          "away_team": "Girondins Bordeaux"
+          "away_team": "Girondins Bordeaux",
+          "result": {
+            "full_time": "3-2"
+          }
         },
         {
           "date": "2015-10-04",
           "time": "17:00",
           "home_team": "SM Caen",
-          "away_team": "AS Saint-Étienne"
+          "away_team": "AS Saint-Étienne",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2015-10-04",
           "time": "21:00",
           "home_team": "Paris Saint-Germain",
-          "away_team": "Olympique Marseille"
+          "away_team": "Olympique Marseille",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2015-11-04",
           "time": "18:30",
           "home_team": "OGC Nice",
-          "away_team": "FC Nantes"
+          "away_team": "FC Nantes",
+          "result": {
+            "full_time": "1-2"
+          }
         }
       ]
     },
@@ -594,61 +864,91 @@
           "date": "2015-10-16",
           "time": "20:30",
           "home_team": "AS Monaco",
-          "away_team": "Olympique Lyonnais"
+          "away_team": "Olympique Lyonnais",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2015-10-17",
           "time": "17:00",
           "home_team": "SC Bastia",
-          "away_team": "Paris Saint-Germain"
+          "away_team": "Paris Saint-Germain",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2015-10-17",
           "time": "20:00",
           "home_team": "AS Saint-Étienne",
-          "away_team": "Gazélec FC Ajaccio"
+          "away_team": "Gazélec FC Ajaccio",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2015-10-17",
           "time": "20:00",
           "home_team": "EA Guingamp",
-          "away_team": "Lille OSC"
+          "away_team": "Lille OSC",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2015-10-17",
           "time": "20:00",
           "home_team": "FC Nantes",
-          "away_team": "ESTAC Troyes"
+          "away_team": "ESTAC Troyes",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2015-10-17",
           "time": "20:00",
           "home_team": "Stade de Reims",
-          "away_team": "SM Caen"
+          "away_team": "SM Caen",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2015-10-17",
           "time": "20:00",
           "home_team": "Toulouse FC",
-          "away_team": "Angers SCO"
+          "away_team": "Angers SCO",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2015-10-18",
           "time": "14:00",
           "home_team": "Olympique Marseille",
-          "away_team": "FC Lorient"
+          "away_team": "FC Lorient",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2015-10-18",
           "time": "17:00",
           "home_team": "Girondins Bordeaux",
-          "away_team": "Montpellier HSC"
+          "away_team": "Montpellier HSC",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2015-10-18",
           "time": "21:00",
           "home_team": "Stade Rennais",
-          "away_team": "OGC Nice"
+          "away_team": "OGC Nice",
+          "result": {
+            "full_time": "1-4"
+          }
         }
       ]
     },
@@ -659,61 +959,91 @@
           "date": "2015-10-23",
           "time": "18:30",
           "home_team": "SM Caen",
-          "away_team": "FC Nantes"
+          "away_team": "FC Nantes",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2015-10-23",
           "time": "20:30",
           "home_team": "Olympique Lyonnais",
-          "away_team": "Toulouse FC"
+          "away_team": "Toulouse FC",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2015-10-24",
           "time": "17:00",
           "home_team": "FC Lorient",
-          "away_team": "Stade Rennais"
+          "away_team": "Stade Rennais",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2015-10-24",
           "time": "20:00",
           "home_team": "Angers SCO",
-          "away_team": "EA Guingamp"
+          "away_team": "EA Guingamp",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2015-10-24",
           "time": "20:00",
           "home_team": "Gazélec FC Ajaccio",
-          "away_team": "OGC Nice"
+          "away_team": "OGC Nice",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2015-10-24",
           "time": "20:00",
           "home_team": "Montpellier HSC",
-          "away_team": "SC Bastia"
+          "away_team": "SC Bastia",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2015-10-25",
           "time": "14:00",
           "home_team": "Stade de Reims",
-          "away_team": "AS Monaco"
+          "away_team": "AS Monaco",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2015-10-25",
           "time": "17:00",
           "home_team": "Girondins Bordeaux",
-          "away_team": "ESTAC Troyes"
+          "away_team": "ESTAC Troyes",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2015-10-25",
           "time": "17:00",
           "home_team": "Lille OSC",
-          "away_team": "Olympique Marseille"
+          "away_team": "Olympique Marseille",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2015-10-25",
           "time": "21:00",
           "home_team": "Paris Saint-Germain",
-          "away_team": "AS Saint-Étienne"
+          "away_team": "AS Saint-Étienne",
+          "result": {
+            "full_time": "4-1"
+          }
         }
       ]
     },
@@ -724,61 +1054,91 @@
           "date": "2015-10-30",
           "time": "20:30",
           "home_team": "Stade Rennais",
-          "away_team": "Paris Saint-Germain"
+          "away_team": "Paris Saint-Germain",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2015-10-31",
           "time": "17:00",
           "home_team": "AS Saint-Étienne",
-          "away_team": "Stade de Reims"
+          "away_team": "Stade de Reims",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2015-10-31",
           "time": "20:00",
           "home_team": "EA Guingamp",
-          "away_team": "FC Lorient"
+          "away_team": "FC Lorient",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2015-10-31",
           "time": "20:00",
           "home_team": "ESTAC Troyes",
-          "away_team": "Olympique Lyonnais"
+          "away_team": "Olympique Lyonnais",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2015-10-31",
           "time": "20:00",
           "home_team": "Gazélec FC Ajaccio",
-          "away_team": "Girondins Bordeaux"
+          "away_team": "Girondins Bordeaux",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2015-10-31",
           "time": "20:00",
           "home_team": "SC Bastia",
-          "away_team": "SM Caen"
+          "away_team": "SM Caen",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2015-10-31",
           "time": "20:00",
           "home_team": "Toulouse FC",
-          "away_team": "Montpellier HSC"
+          "away_team": "Montpellier HSC",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2015-11-01",
           "time": "14:00",
           "home_team": "OGC Nice",
-          "away_team": "Lille OSC"
+          "away_team": "Lille OSC",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2015-11-01",
           "time": "17:00",
           "home_team": "AS Monaco",
-          "away_team": "Angers SCO"
+          "away_team": "Angers SCO",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2015-11-01",
           "time": "21:00",
           "home_team": "FC Nantes",
-          "away_team": "Olympique Marseille"
+          "away_team": "Olympique Marseille",
+          "result": {
+            "full_time": "0-1"
+          }
         }
       ]
     },
@@ -789,61 +1149,91 @@
           "date": "2015-11-06",
           "time": "20:30",
           "home_team": "Angers SCO",
-          "away_team": "Stade Rennais"
+          "away_team": "Stade Rennais",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2015-11-07",
           "time": "17:00",
           "home_team": "Paris Saint-Germain",
-          "away_team": "Toulouse FC"
+          "away_team": "Toulouse FC",
+          "result": {
+            "full_time": "5-0"
+          }
         },
         {
           "date": "2015-11-07",
           "time": "20:00",
           "home_team": "FC Lorient",
-          "away_team": "ESTAC Troyes"
+          "away_team": "ESTAC Troyes",
+          "result": {
+            "full_time": "4-1"
+          }
         },
         {
           "date": "2015-11-07",
           "time": "20:00",
           "home_team": "Lille OSC",
-          "away_team": "SC Bastia"
+          "away_team": "SC Bastia",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2015-11-07",
           "time": "20:00",
           "home_team": "Montpellier HSC",
-          "away_team": "FC Nantes"
+          "away_team": "FC Nantes",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2015-11-07",
           "time": "20:00",
           "home_team": "SM Caen",
-          "away_team": "EA Guingamp"
+          "away_team": "EA Guingamp",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2015-11-07",
           "time": "20:00",
           "home_team": "Stade de Reims",
-          "away_team": "Gazélec FC Ajaccio"
+          "away_team": "Gazélec FC Ajaccio",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2015-11-08",
           "time": "17:00",
           "home_team": "Olympique Marseille",
-          "away_team": "OGC Nice"
+          "away_team": "OGC Nice",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2015-11-08",
           "time": "21:00",
           "home_team": "Girondins Bordeaux",
-          "away_team": "AS Monaco"
+          "away_team": "AS Monaco",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2015-11-08",
           "time": "21:00",
           "home_team": "Olympique Lyonnais",
-          "away_team": "AS Saint-Étienne"
+          "away_team": "AS Saint-Étienne",
+          "result": {
+            "full_time": "3-0"
+          }
         }
       ]
     },
@@ -854,61 +1244,91 @@
           "date": "2015-11-20",
           "time": "20:30",
           "home_team": "OGC Nice",
-          "away_team": "Olympique Lyonnais"
+          "away_team": "Olympique Lyonnais",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2015-11-21",
           "time": "17:00",
           "home_team": "FC Lorient",
-          "away_team": "Paris Saint-Germain"
+          "away_team": "Paris Saint-Germain",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2015-11-21",
           "time": "20:00",
           "home_team": "AS Monaco",
-          "away_team": "FC Nantes"
+          "away_team": "FC Nantes",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2015-11-21",
           "time": "20:00",
           "home_team": "EA Guingamp",
-          "away_team": "Toulouse FC"
+          "away_team": "Toulouse FC",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2015-11-21",
           "time": "20:00",
           "home_team": "ESTAC Troyes",
-          "away_team": "Lille OSC"
+          "away_team": "Lille OSC",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2015-11-21",
           "time": "20:00",
           "home_team": "Montpellier HSC",
-          "away_team": "Stade de Reims"
+          "away_team": "Stade de Reims",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2015-11-22",
           "time": "14:00",
           "home_team": "SC Bastia",
-          "away_team": "Gazélec FC Ajaccio"
+          "away_team": "Gazélec FC Ajaccio",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2015-11-22",
           "time": "14:00",
           "home_team": "SM Caen",
-          "away_team": "Angers SCO"
+          "away_team": "Angers SCO",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2015-11-22",
           "time": "17:00",
           "home_team": "Stade Rennais",
-          "away_team": "Girondins Bordeaux"
+          "away_team": "Girondins Bordeaux",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2015-11-22",
           "time": "21:00",
           "home_team": "AS Saint-Étienne",
-          "away_team": "Olympique Marseille"
+          "away_team": "Olympique Marseille",
+          "result": {
+            "full_time": "0-2"
+          }
         }
       ]
     },
@@ -919,61 +1339,91 @@
           "date": "2015-11-27",
           "time": "20:30",
           "home_team": "Olympique Lyonnais",
-          "away_team": "Montpellier HSC"
+          "away_team": "Montpellier HSC",
+          "result": {
+            "full_time": "2-4"
+          }
         },
         {
           "date": "2015-11-28",
           "time": "17:00",
           "home_team": "Paris Saint-Germain",
-          "away_team": "ESTAC Troyes"
+          "away_team": "ESTAC Troyes",
+          "result": {
+            "full_time": "4-1"
+          }
         },
         {
           "date": "2015-11-28",
           "time": "20:00",
           "home_team": "Angers SCO",
-          "away_team": "Lille OSC"
+          "away_team": "Lille OSC",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2015-11-28",
           "time": "20:00",
           "home_team": "FC Nantes",
-          "away_team": "SC Bastia"
+          "away_team": "SC Bastia",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2015-11-28",
           "time": "20:00",
           "home_team": "Gazélec FC Ajaccio",
-          "away_team": "FC Lorient"
+          "away_team": "FC Lorient",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2015-11-28",
           "time": "20:00",
           "home_team": "Stade de Reims",
-          "away_team": "Stade Rennais"
+          "away_team": "Stade Rennais",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2015-11-28",
           "time": "20:00",
           "home_team": "Toulouse FC",
-          "away_team": "OGC Nice"
+          "away_team": "OGC Nice",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2015-11-29",
           "time": "14:00",
           "home_team": "AS Saint-Étienne",
-          "away_team": "EA Guingamp"
+          "away_team": "EA Guingamp",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2015-11-29",
           "time": "17:00",
           "home_team": "Girondins Bordeaux",
-          "away_team": "SM Caen"
+          "away_team": "SM Caen",
+          "result": {
+            "full_time": "1-4"
+          }
         },
         {
           "date": "2015-11-29",
           "time": "21:00",
           "home_team": "Olympique Marseille",
-          "away_team": "AS Monaco"
+          "away_team": "AS Monaco",
+          "result": {
+            "full_time": "3-3"
+          }
         }
       ]
     },
@@ -984,61 +1434,91 @@
           "date": "2015-12-01",
           "time": "19:00",
           "home_team": "Angers SCO",
-          "away_team": "Paris Saint-Germain"
+          "away_team": "Paris Saint-Germain",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2015-12-01",
           "time": "19:00",
           "home_team": "FC Lorient",
-          "away_team": "OGC Nice"
+          "away_team": "OGC Nice",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2015-12-01",
           "time": "21:00",
           "home_team": "FC Nantes",
-          "away_team": "Olympique Lyonnais"
+          "away_team": "Olympique Lyonnais",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2015-12-02",
           "time": "19:00",
           "home_team": "AS Monaco",
-          "away_team": "SM Caen"
+          "away_team": "SM Caen",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2015-12-02",
           "time": "19:00",
           "home_team": "EA Guingamp",
-          "away_team": "Stade de Reims"
+          "away_team": "Stade de Reims",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2015-12-02",
           "time": "19:00",
           "home_team": "ESTAC Troyes",
-          "away_team": "Toulouse FC"
+          "away_team": "Toulouse FC",
+          "result": {
+            "full_time": "0-3"
+          }
         },
         {
           "date": "2015-12-02",
           "time": "19:00",
           "home_team": "Montpellier HSC",
-          "away_team": "Gazélec FC Ajaccio"
+          "away_team": "Gazélec FC Ajaccio",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2015-12-02",
           "time": "19:00",
           "home_team": "SC Bastia",
-          "away_team": "Girondins Bordeaux"
+          "away_team": "Girondins Bordeaux",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2015-12-02",
           "time": "21:00",
           "home_team": "Lille OSC",
-          "away_team": "AS Saint-Étienne"
+          "away_team": "AS Saint-Étienne",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2015-12-03",
           "time": "21:00",
           "home_team": "Stade Rennais",
-          "away_team": "Olympique Marseille"
+          "away_team": "Olympique Marseille",
+          "result": {
+            "full_time": "0-1"
+          }
         }
       ]
     },
@@ -1049,61 +1529,91 @@
           "date": "2015-12-04",
           "time": "20:30",
           "home_team": "OGC Nice",
-          "away_team": "Paris Saint-Germain"
+          "away_team": "Paris Saint-Germain",
+          "result": {
+            "full_time": "0-3"
+          }
         },
         {
           "date": "2015-12-05",
           "time": "17:00",
           "home_team": "Olympique Lyonnais",
-          "away_team": "Angers SCO"
+          "away_team": "Angers SCO",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2015-12-05",
           "time": "20:00",
           "home_team": "Gazélec FC Ajaccio",
-          "away_team": "FC Nantes"
+          "away_team": "FC Nantes",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2015-12-05",
           "time": "20:00",
           "home_team": "SC Bastia",
-          "away_team": "AS Monaco"
+          "away_team": "AS Monaco",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2015-12-05",
           "time": "20:00",
           "home_team": "SM Caen",
-          "away_team": "Lille OSC"
+          "away_team": "Lille OSC",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2015-12-05",
           "time": "20:00",
           "home_team": "Stade de Reims",
-          "away_team": "ESTAC Troyes"
+          "away_team": "ESTAC Troyes",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2015-12-05",
           "time": "20:00",
           "home_team": "Toulouse FC",
-          "away_team": "FC Lorient"
+          "away_team": "FC Lorient",
+          "result": {
+            "full_time": "2-3"
+          }
         },
         {
           "date": "2015-12-06",
           "time": "14:00",
           "home_team": "Olympique Marseille",
-          "away_team": "Montpellier HSC"
+          "away_team": "Montpellier HSC",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2015-12-06",
           "time": "17:00",
           "home_team": "Girondins Bordeaux",
-          "away_team": "EA Guingamp"
+          "away_team": "EA Guingamp",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2015-12-06",
           "time": "21:00",
           "home_team": "AS Saint-Étienne",
-          "away_team": "Stade Rennais"
+          "away_team": "Stade Rennais",
+          "result": {
+            "full_time": "1-1"
+          }
         }
       ]
     },
@@ -1114,61 +1624,91 @@
           "date": "2015-12-11",
           "time": "20:30",
           "home_team": "Stade Rennais",
-          "away_team": "SM Caen"
+          "away_team": "SM Caen",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2015-12-12",
           "time": "16:00",
           "home_team": "Stade de Reims",
-          "away_team": "OGC Nice"
+          "away_team": "OGC Nice",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2015-12-12",
           "time": "20:00",
           "home_team": "ESTAC Troyes",
-          "away_team": "SC Bastia"
+          "away_team": "SC Bastia",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2015-12-12",
           "time": "20:00",
           "home_team": "FC Nantes",
-          "away_team": "Toulouse FC"
+          "away_team": "Toulouse FC",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2015-12-12",
           "time": "20:00",
           "home_team": "Lille OSC",
-          "away_team": "FC Lorient"
+          "away_team": "FC Lorient",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2015-12-12",
           "time": "20:00",
           "home_team": "Montpellier HSC",
-          "away_team": "EA Guingamp"
+          "away_team": "EA Guingamp",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2015-12-13",
           "time": "14:00",
           "home_team": "AS Monaco",
-          "away_team": "AS Saint-Étienne"
+          "away_team": "AS Saint-Étienne",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2015-12-13",
           "time": "17:00",
           "home_team": "Angers SCO",
-          "away_team": "Girondins Bordeaux"
+          "away_team": "Girondins Bordeaux",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2015-12-13",
           "time": "17:00",
           "home_team": "Olympique Marseille",
-          "away_team": "Gazélec FC Ajaccio"
+          "away_team": "Gazélec FC Ajaccio",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2015-12-13",
           "time": "21:00",
           "home_team": "Paris Saint-Germain",
-          "away_team": "Olympique Lyonnais"
+          "away_team": "Olympique Lyonnais",
+          "result": {
+            "full_time": "5-1"
+          }
         }
       ]
     },
@@ -1179,61 +1719,91 @@
           "date": "2015-12-18",
           "time": "20:30",
           "home_team": "OGC Nice",
-          "away_team": "Montpellier HSC"
+          "away_team": "Montpellier HSC",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2015-12-19",
           "time": "17:00",
           "home_team": "SM Caen",
-          "away_team": "Paris Saint-Germain"
+          "away_team": "Paris Saint-Germain",
+          "result": {
+            "full_time": "0-3"
+          }
         },
         {
           "date": "2015-12-19",
           "time": "20:00",
           "home_team": "EA Guingamp",
-          "away_team": "Stade Rennais"
+          "away_team": "Stade Rennais",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2015-12-19",
           "time": "20:00",
           "home_team": "ESTAC Troyes",
-          "away_team": "AS Monaco"
+          "away_team": "AS Monaco",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2015-12-19",
           "time": "20:00",
           "home_team": "FC Lorient",
-          "away_team": "FC Nantes"
+          "away_team": "FC Nantes",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2015-12-19",
           "time": "20:00",
           "home_team": "SC Bastia",
-          "away_team": "Stade de Reims"
+          "away_team": "Stade de Reims",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2015-12-19",
           "time": "20:00",
           "home_team": "Toulouse FC",
-          "away_team": "Lille OSC"
+          "away_team": "Lille OSC",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2015-12-20",
           "time": "14:00",
           "home_team": "AS Saint-Étienne",
-          "away_team": "Angers SCO"
+          "away_team": "Angers SCO",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2015-12-20",
           "time": "17:00",
           "home_team": "Gazélec FC Ajaccio",
-          "away_team": "Olympique Lyonnais"
+          "away_team": "Olympique Lyonnais",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2015-12-20",
           "time": "21:00",
           "home_team": "Girondins Bordeaux",
-          "away_team": "Olympique Marseille"
+          "away_team": "Olympique Marseille",
+          "result": {
+            "full_time": "1-1"
+          }
         }
       ]
     },
@@ -1244,61 +1814,91 @@
           "date": "2016-01-08",
           "time": "20:30",
           "home_team": "Paris Saint-Germain",
-          "away_team": "SC Bastia"
+          "away_team": "SC Bastia",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2016-01-09",
           "time": "17:00",
           "home_team": "Olympique Lyonnais",
-          "away_team": "ESTAC Troyes"
+          "away_team": "ESTAC Troyes",
+          "result": {
+            "full_time": "4-1"
+          }
         },
         {
           "date": "2016-01-09",
           "time": "20:00",
           "home_team": "Angers SCO",
-          "away_team": "SM Caen"
+          "away_team": "SM Caen",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2016-01-09",
           "time": "20:00",
           "home_team": "AS Monaco",
-          "away_team": "Gazélec FC Ajaccio"
+          "away_team": "Gazélec FC Ajaccio",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2016-01-09",
           "time": "20:00",
           "home_team": "Montpellier HSC",
-          "away_team": "Girondins Bordeaux"
+          "away_team": "Girondins Bordeaux",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2016-01-09",
           "time": "20:00",
           "home_team": "Stade de Reims",
-          "away_team": "Toulouse FC"
+          "away_team": "Toulouse FC",
+          "result": {
+            "full_time": "1-3"
+          }
         },
         {
           "date": "2016-01-09",
           "time": "20:00",
           "home_team": "Stade Rennais",
-          "away_team": "FC Lorient"
+          "away_team": "FC Lorient",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2016-01-10",
           "time": "14:00",
           "home_team": "FC Nantes",
-          "away_team": "AS Saint-Étienne"
+          "away_team": "AS Saint-Étienne",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2016-01-10",
           "time": "17:00",
           "home_team": "Lille OSC",
-          "away_team": "OGC Nice"
+          "away_team": "OGC Nice",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2016-01-10",
           "time": "21:00",
           "home_team": "Olympique Marseille",
-          "away_team": "EA Guingamp"
+          "away_team": "EA Guingamp",
+          "result": {
+            "full_time": "0-0"
+          }
         }
       ]
     },
@@ -1309,61 +1909,91 @@
           "date": "2016-01-15",
           "time": "20:30",
           "home_team": "OGC Nice",
-          "away_team": "Angers SCO"
+          "away_team": "Angers SCO",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2016-01-16",
           "time": "17:00",
           "home_team": "Toulouse FC",
-          "away_team": "Paris Saint-Germain"
+          "away_team": "Paris Saint-Germain",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2016-01-16",
           "time": "20:00",
           "home_team": "EA Guingamp",
-          "away_team": "FC Nantes"
+          "away_team": "FC Nantes",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2016-01-16",
           "time": "20:00",
           "home_team": "ESTAC Troyes",
-          "away_team": "Stade Rennais"
+          "away_team": "Stade Rennais",
+          "result": {
+            "full_time": "2-4"
+          }
         },
         {
           "date": "2016-01-16",
           "time": "20:00",
           "home_team": "Girondins Bordeaux",
-          "away_team": "Lille OSC"
+          "away_team": "Lille OSC",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2016-01-16",
           "time": "20:00",
           "home_team": "Gazélec FC Ajaccio",
-          "away_team": "Stade de Reims"
+          "away_team": "Stade de Reims",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2016-01-16",
           "time": "20:00",
           "home_team": "SC Bastia",
-          "away_team": "Montpellier HSC"
+          "away_team": "Montpellier HSC",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2016-01-17",
           "time": "14:00",
           "home_team": "FC Lorient",
-          "away_team": "AS Monaco"
+          "away_team": "AS Monaco",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2016-01-17",
           "time": "17:00",
           "home_team": "SM Caen",
-          "away_team": "Olympique Marseille"
+          "away_team": "Olympique Marseille",
+          "result": {
+            "full_time": "1-3"
+          }
         },
         {
           "date": "2016-01-17",
           "time": "21:00",
           "home_team": "AS Saint-Étienne",
-          "away_team": "Olympique Lyonnais"
+          "away_team": "Olympique Lyonnais",
+          "result": {
+            "full_time": "1-0"
+          }
         }
       ]
     },
@@ -1374,61 +2004,91 @@
           "date": "2016-01-22",
           "time": "20:30",
           "home_team": "Stade Rennais",
-          "away_team": "Gazélec FC Ajaccio"
+          "away_team": "Gazélec FC Ajaccio",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2016-01-23",
           "time": "17:00",
           "home_team": "Paris Saint-Germain",
-          "away_team": "Angers SCO"
+          "away_team": "Angers SCO",
+          "result": {
+            "full_time": "5-1"
+          }
         },
         {
           "date": "2016-01-23",
           "time": "20:00",
           "home_team": "EA Guingamp",
-          "away_team": "SC Bastia"
+          "away_team": "SC Bastia",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2016-01-23",
           "time": "20:00",
           "home_team": "FC Nantes",
-          "away_team": "Girondins Bordeaux"
+          "away_team": "Girondins Bordeaux",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2016-01-23",
           "time": "20:00",
           "home_team": "Lille OSC",
-          "away_team": "ESTAC Troyes"
+          "away_team": "ESTAC Troyes",
+          "result": {
+            "full_time": "1-3"
+          }
         },
         {
           "date": "2016-01-23",
           "time": "20:00",
           "home_team": "Montpellier HSC",
-          "away_team": "SM Caen"
+          "away_team": "SM Caen",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2016-01-23",
           "time": "20:00",
           "home_team": "OGC Nice",
-          "away_team": "FC Lorient"
+          "away_team": "FC Lorient",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2016-01-24",
           "time": "14:00",
           "home_team": "AS Monaco",
-          "away_team": "Toulouse FC"
+          "away_team": "Toulouse FC",
+          "result": {
+            "full_time": "4-0"
+          }
         },
         {
           "date": "2016-01-24",
           "time": "17:00",
           "home_team": "Stade de Reims",
-          "away_team": "AS Saint-Étienne"
+          "away_team": "AS Saint-Étienne",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2016-01-24",
           "time": "21:00",
           "home_team": "Olympique Lyonnais",
-          "away_team": "Olympique Marseille"
+          "away_team": "Olympique Marseille",
+          "result": {
+            "full_time": "1-1"
+          }
         }
       ]
     },
@@ -1439,61 +2099,91 @@
           "date": "2016-01-29",
           "time": "20:30",
           "home_team": "Olympique Marseille",
-          "away_team": "Lille OSC"
+          "away_team": "Lille OSC",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2016-01-30",
           "time": "17:00",
           "home_team": "Angers SCO",
-          "away_team": "AS Monaco"
+          "away_team": "AS Monaco",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2016-01-30",
           "time": "20:00",
           "home_team": "ESTAC Troyes",
-          "away_team": "FC Nantes"
+          "away_team": "FC Nantes",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2016-01-30",
           "time": "20:00",
           "home_team": "FC Lorient",
-          "away_team": "Stade de Reims"
+          "away_team": "Stade de Reims",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2016-01-30",
           "time": "20:00",
           "home_team": "Gazélec FC Ajaccio",
-          "away_team": "Montpellier HSC"
+          "away_team": "Montpellier HSC",
+          "result": {
+            "full_time": "0-4"
+          }
         },
         {
           "date": "2016-01-30",
           "time": "20:00",
           "home_team": "SC Bastia",
-          "away_team": "Olympique Lyonnais"
+          "away_team": "Olympique Lyonnais",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2016-01-30",
           "time": "20:00",
           "home_team": "Toulouse FC",
-          "away_team": "EA Guingamp"
+          "away_team": "EA Guingamp",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2016-01-31",
           "time": "14:00",
           "home_team": "SM Caen",
-          "away_team": "OGC Nice"
+          "away_team": "OGC Nice",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2016-01-31",
           "time": "17:00",
           "home_team": "Girondins Bordeaux",
-          "away_team": "Stade Rennais"
+          "away_team": "Stade Rennais",
+          "result": {
+            "full_time": "4-0"
+          }
         },
         {
           "date": "2016-01-31",
           "time": "21:00",
           "home_team": "AS Saint-Étienne",
-          "away_team": "Paris Saint-Germain"
+          "away_team": "Paris Saint-Germain",
+          "result": {
+            "full_time": "0-2"
+          }
         }
       ]
     },
@@ -1504,61 +2194,91 @@
           "date": "2016-02-02",
           "time": "19:00",
           "home_team": "AS Monaco",
-          "away_team": "SC Bastia"
+          "away_team": "SC Bastia",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2016-02-02",
           "time": "21:00",
           "home_team": "Montpellier HSC",
-          "away_team": "Olympique Marseille"
+          "away_team": "Olympique Marseille",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2016-02-03",
           "time": "19:00",
           "home_team": "EA Guingamp",
-          "away_team": "ESTAC Troyes"
+          "away_team": "ESTAC Troyes",
+          "result": {
+            "full_time": "4-0"
+          }
         },
         {
           "date": "2016-02-03",
           "time": "19:00",
           "home_team": "FC Nantes",
-          "away_team": "Gazélec FC Ajaccio"
+          "away_team": "Gazélec FC Ajaccio",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2016-02-03",
           "time": "19:00",
           "home_team": "Lille OSC",
-          "away_team": "SM Caen"
+          "away_team": "SM Caen",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2016-02-03",
           "time": "19:00",
           "home_team": "OGC Nice",
-          "away_team": "Toulouse FC"
+          "away_team": "Toulouse FC",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2016-02-03",
           "time": "19:00",
           "home_team": "Olympique Lyonnais",
-          "away_team": "Girondins Bordeaux"
+          "away_team": "Girondins Bordeaux",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2016-02-03",
           "time": "19:00",
           "home_team": "Stade de Reims",
-          "away_team": "Angers SCO"
+          "away_team": "Angers SCO",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2016-02-03",
           "time": "21:00",
           "home_team": "Paris Saint-Germain",
-          "away_team": "FC Lorient"
+          "away_team": "FC Lorient",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2016-02-04",
           "time": "21:00",
           "home_team": "Stade Rennais",
-          "away_team": "AS Saint-Étienne"
+          "away_team": "AS Saint-Étienne",
+          "result": {
+            "full_time": "0-1"
+          }
         }
       ]
     },
@@ -1569,61 +2289,91 @@
           "date": "2016-02-06",
           "time": "14:00",
           "home_team": "AS Monaco",
-          "away_team": "OGC Nice"
+          "away_team": "OGC Nice",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2016-02-06",
           "time": "17:00",
           "home_team": "Angers SCO",
-          "away_team": "Olympique Lyonnais"
+          "away_team": "Olympique Lyonnais",
+          "result": {
+            "full_time": "0-3"
+          }
         },
         {
           "date": "2016-02-06",
           "time": "20:00",
           "home_team": "FC Lorient",
-          "away_team": "Montpellier HSC"
+          "away_team": "Montpellier HSC",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2016-02-06",
           "time": "20:00",
           "home_team": "Gazélec FC Ajaccio",
-          "away_team": "EA Guingamp"
+          "away_team": "EA Guingamp",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2016-02-06",
           "time": "20:00",
           "home_team": "SC Bastia",
-          "away_team": "ESTAC Troyes"
+          "away_team": "ESTAC Troyes",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2016-02-06",
           "time": "20:00",
           "home_team": "SM Caen",
-          "away_team": "Stade de Reims"
+          "away_team": "Stade de Reims",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2016-02-06",
           "time": "20:00",
           "home_team": "Toulouse FC",
-          "away_team": "FC Nantes"
+          "away_team": "FC Nantes",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2016-02-07",
           "time": "14:00",
           "home_team": "Lille OSC",
-          "away_team": "Stade Rennais"
+          "away_team": "Stade Rennais",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2016-02-07",
           "time": "17:00",
           "home_team": "Girondins Bordeaux",
-          "away_team": "AS Saint-Étienne"
+          "away_team": "AS Saint-Étienne",
+          "result": {
+            "full_time": "1-4"
+          }
         },
         {
           "date": "2016-02-07",
           "time": "21:00",
           "home_team": "Olympique Marseille",
-          "away_team": "Paris Saint-Germain"
+          "away_team": "Paris Saint-Germain",
+          "result": {
+            "full_time": "1-2"
+          }
         }
       ]
     },
@@ -1634,61 +2384,91 @@
           "date": "2016-02-12",
           "time": "20:30",
           "home_team": "Stade Rennais",
-          "away_team": "Angers SCO"
+          "away_team": "Angers SCO",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2016-02-13",
           "time": "17:00",
           "home_team": "Paris Saint-Germain",
-          "away_team": "Lille OSC"
+          "away_team": "Lille OSC",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2016-02-13",
           "time": "20:00",
           "home_team": "EA Guingamp",
-          "away_team": "Girondins Bordeaux"
+          "away_team": "Girondins Bordeaux",
+          "result": {
+            "full_time": "2-4"
+          }
         },
         {
           "date": "2016-02-13",
           "time": "20:00",
           "home_team": "Gazélec FC Ajaccio",
-          "away_team": "ESTAC Troyes"
+          "away_team": "ESTAC Troyes",
+          "result": {
+            "full_time": "2-3"
+          }
         },
         {
           "date": "2016-02-13",
           "time": "20:00",
           "home_team": "FC Nantes",
-          "away_team": "FC Lorient"
+          "away_team": "FC Lorient",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2016-02-13",
           "time": "20:00",
           "home_team": "Montpellier HSC",
-          "away_team": "Toulouse FC"
+          "away_team": "Toulouse FC",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2016-02-13",
           "time": "20:00",
           "home_team": "Stade de Reims",
-          "away_team": "SC Bastia"
+          "away_team": "SC Bastia",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2016-02-14",
           "time": "14:00",
           "home_team": "Olympique Lyonnais",
-          "away_team": "SM Caen"
+          "away_team": "SM Caen",
+          "result": {
+            "full_time": "4-1"
+          }
         },
         {
           "date": "2016-02-14",
           "time": "17:00",
           "home_team": "AS Saint-Étienne",
-          "away_team": "AS Monaco"
+          "away_team": "AS Monaco",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2016-02-14",
           "time": "21:00",
           "home_team": "OGC Nice",
-          "away_team": "Olympique Marseille"
+          "away_team": "Olympique Marseille",
+          "result": {
+            "full_time": "1-1"
+          }
         }
       ]
     },
@@ -1699,61 +2479,91 @@
           "date": "2016-02-19",
           "time": "20:30",
           "home_team": "Girondins Bordeaux",
-          "away_team": "OGC Nice"
+          "away_team": "OGC Nice",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2016-02-20",
           "time": "17:00",
           "home_team": "Paris Saint-Germain",
-          "away_team": "Stade de Reims"
+          "away_team": "Stade de Reims",
+          "result": {
+            "full_time": "4-1"
+          }
         },
         {
           "date": "2016-02-20",
           "time": "20:00",
           "home_team": "Angers SCO",
-          "away_team": "Montpellier HSC"
+          "away_team": "Montpellier HSC",
+          "result": {
+            "full_time": "2-3"
+          }
         },
         {
           "date": "2016-02-20",
           "time": "20:00",
           "home_team": "AS Monaco",
-          "away_team": "ESTAC Troyes"
+          "away_team": "ESTAC Troyes",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2016-02-20",
           "time": "20:00",
           "home_team": "FC Lorient",
-          "away_team": "EA Guingamp"
+          "away_team": "EA Guingamp",
+          "result": {
+            "full_time": "4-3"
+          }
         },
         {
           "date": "2016-02-20",
           "time": "20:00",
           "home_team": "Toulouse FC",
-          "away_team": "Gazélec FC Ajaccio"
+          "away_team": "Gazélec FC Ajaccio",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2016-02-21",
           "time": "14:00",
           "home_team": "Olympique Marseille",
-          "away_team": "AS Saint-Étienne"
+          "away_team": "AS Saint-Étienne",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2016-02-21",
           "time": "17:00",
           "home_team": "SM Caen",
-          "away_team": "Stade Rennais"
+          "away_team": "Stade Rennais",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2016-02-21",
           "time": "21:00",
           "home_team": "Lille OSC",
-          "away_team": "Olympique Lyonnais"
+          "away_team": "Olympique Lyonnais",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2016-03-09",
           "time": "18:30",
           "home_team": "SC Bastia",
-          "away_team": "FC Nantes"
+          "away_team": "FC Nantes",
+          "result": {
+            "full_time": "0-0"
+          }
         }
       ]
     },
@@ -1764,61 +2574,91 @@
           "date": "2016-02-26",
           "time": "20:30",
           "home_team": "OGC Nice",
-          "away_team": "SC Bastia"
+          "away_team": "SC Bastia",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2016-02-27",
           "time": "17:00",
           "home_team": "Montpellier HSC",
-          "away_team": "Lille OSC"
+          "away_team": "Lille OSC",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2016-02-27",
           "time": "20:00",
           "home_team": "EA Guingamp",
-          "away_team": "Angers SCO"
+          "away_team": "Angers SCO",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2016-02-27",
           "time": "20:00",
           "home_team": "ESTAC Troyes",
-          "away_team": "FC Lorient"
+          "away_team": "FC Lorient",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2016-02-27",
           "time": "20:00",
           "home_team": "Stade de Reims",
-          "away_team": "Girondins Bordeaux"
+          "away_team": "Girondins Bordeaux",
+          "result": {
+            "full_time": "4-1"
+          }
         },
         {
           "date": "2016-02-27",
           "time": "20:00",
           "home_team": "Toulouse FC",
-          "away_team": "Stade Rennais"
+          "away_team": "Stade Rennais",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2016-02-28",
           "time": "14:00",
           "home_team": "FC Nantes",
-          "away_team": "AS Monaco"
+          "away_team": "AS Monaco",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2016-02-28",
           "time": "17:00",
           "home_team": "AS Saint-Étienne",
-          "away_team": "SM Caen"
+          "away_team": "SM Caen",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2016-02-28",
           "time": "21:00",
           "home_team": "Olympique Lyonnais",
-          "away_team": "Paris Saint-Germain"
+          "away_team": "Paris Saint-Germain",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2016-03-09",
           "time": "18:30",
           "home_team": "Gazélec FC Ajaccio",
-          "away_team": "Olympique Marseille"
+          "away_team": "Olympique Marseille",
+          "result": {
+            "full_time": "1-1"
+          }
         }
       ]
     },
@@ -1829,61 +2669,91 @@
           "date": "2016-03-04",
           "time": "20:30",
           "home_team": "SM Caen",
-          "away_team": "AS Monaco"
+          "away_team": "AS Monaco",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2016-03-05",
           "time": "17:00",
           "home_team": "Paris Saint-Germain",
-          "away_team": "Montpellier HSC"
+          "away_team": "Montpellier HSC",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2016-03-05",
           "time": "20:00",
           "home_team": "Angers SCO",
-          "away_team": "AS Saint-Étienne"
+          "away_team": "AS Saint-Étienne",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2016-03-05",
           "time": "20:00",
           "home_team": "Girondins Bordeaux",
-          "away_team": "Gazélec FC Ajaccio"
+          "away_team": "Gazélec FC Ajaccio",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2016-03-05",
           "time": "20:00",
           "home_team": "Lille OSC",
-          "away_team": "Stade de Reims"
+          "away_team": "Stade de Reims",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2016-03-05",
           "time": "20:00",
           "home_team": "OGC Nice",
-          "away_team": "ESTAC Troyes"
+          "away_team": "ESTAC Troyes",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2016-03-05",
           "time": "20:00",
           "home_team": "SC Bastia",
-          "away_team": "FC Lorient"
+          "away_team": "FC Lorient",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2016-03-06",
           "time": "14:00",
           "home_team": "Olympique Marseille",
-          "away_team": "Toulouse FC"
+          "away_team": "Toulouse FC",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2016-03-06",
           "time": "17:00",
           "home_team": "Stade Rennais",
-          "away_team": "FC Nantes"
+          "away_team": "FC Nantes",
+          "result": {
+            "full_time": "4-1"
+          }
         },
         {
           "date": "2016-03-06",
           "time": "21:00",
           "home_team": "Olympique Lyonnais",
-          "away_team": "EA Guingamp"
+          "away_team": "EA Guingamp",
+          "result": {
+            "full_time": "5-1"
+          }
         }
       ]
     },
@@ -1894,61 +2764,91 @@
           "date": "2016-03-11",
           "time": "20:30",
           "home_team": "AS Monaco",
-          "away_team": "Stade de Reims"
+          "away_team": "Stade de Reims",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2016-03-12",
           "time": "17:00",
           "home_team": "FC Lorient",
-          "away_team": "Olympique Marseille"
+          "away_team": "Olympique Marseille",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2016-03-12",
           "time": "20:00",
           "home_team": "EA Guingamp",
-          "away_team": "AS Saint-Étienne"
+          "away_team": "AS Saint-Étienne",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2016-03-12",
           "time": "20:00",
           "home_team": "Gazélec FC Ajaccio",
-          "away_team": "SM Caen"
+          "away_team": "SM Caen",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2016-03-12",
           "time": "20:00",
           "home_team": "Montpellier HSC",
-          "away_team": "OGC Nice"
+          "away_team": "OGC Nice",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2016-03-12",
           "time": "20:00",
           "home_team": "SC Bastia",
-          "away_team": "Lille OSC"
+          "away_team": "Lille OSC",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2016-03-12",
           "time": "20:00",
           "home_team": "Toulouse FC",
-          "away_team": "Girondins Bordeaux"
+          "away_team": "Girondins Bordeaux",
+          "result": {
+            "full_time": "4-0"
+          }
         },
         {
           "date": "2016-03-13",
           "time": "14:00",
           "home_team": "ESTAC Troyes",
-          "away_team": "Paris Saint-Germain"
+          "away_team": "Paris Saint-Germain",
+          "result": {
+            "full_time": "0-9"
+          }
         },
         {
           "date": "2016-03-13",
           "time": "17:00",
           "home_team": "FC Nantes",
-          "away_team": "Angers SCO"
+          "away_team": "Angers SCO",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2016-03-13",
           "time": "21:00",
           "home_team": "Stade Rennais",
-          "away_team": "Olympique Lyonnais"
+          "away_team": "Olympique Lyonnais",
+          "result": {
+            "full_time": "2-2"
+          }
         }
       ]
     },
@@ -1959,61 +2859,91 @@
           "date": "2016-03-18",
           "time": "20:30",
           "home_team": "Olympique Marseille",
-          "away_team": "Stade Rennais"
+          "away_team": "Stade Rennais",
+          "result": {
+            "full_time": "2-5"
+          }
         },
         {
           "date": "2016-03-19",
           "time": "17:00",
           "home_team": "AS Saint-Étienne",
-          "away_team": "Montpellier HSC"
+          "away_team": "Montpellier HSC",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2016-03-19",
           "time": "20:00",
           "home_team": "Angers SCO",
-          "away_team": "FC Lorient"
+          "away_team": "FC Lorient",
+          "result": {
+            "full_time": "5-1"
+          }
         },
         {
           "date": "2016-03-19",
           "time": "20:00",
           "home_team": "Lille OSC",
-          "away_team": "Toulouse FC"
+          "away_team": "Toulouse FC",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2016-03-19",
           "time": "20:00",
           "home_team": "SM Caen",
-          "away_team": "ESTAC Troyes"
+          "away_team": "ESTAC Troyes",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2016-03-19",
           "time": "20:00",
           "home_team": "Stade de Reims",
-          "away_team": "EA Guingamp"
+          "away_team": "EA Guingamp",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2016-03-19",
           "time": "21:00",
           "home_team": "Olympique Lyonnais",
-          "away_team": "FC Nantes"
+          "away_team": "FC Nantes",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2016-03-20",
           "time": "14:00",
           "home_team": "Girondins Bordeaux",
-          "away_team": "SC Bastia"
+          "away_team": "SC Bastia",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2016-03-20",
           "time": "17:00",
           "home_team": "OGC Nice",
-          "away_team": "Gazélec FC Ajaccio"
+          "away_team": "Gazélec FC Ajaccio",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2016-03-20",
           "time": "21:00",
           "home_team": "Paris Saint-Germain",
-          "away_team": "AS Monaco"
+          "away_team": "AS Monaco",
+          "result": {
+            "full_time": "0-2"
+          }
         }
       ]
     },
@@ -2024,61 +2954,91 @@
           "date": "2016-04-01",
           "time": "20:30",
           "home_team": "AS Monaco",
-          "away_team": "Girondins Bordeaux"
+          "away_team": "Girondins Bordeaux",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2016-04-02",
           "time": "17:00",
           "home_team": "Paris Saint-Germain",
-          "away_team": "OGC Nice"
+          "away_team": "OGC Nice",
+          "result": {
+            "full_time": "4-1"
+          }
         },
         {
           "date": "2016-04-02",
           "time": "20:00",
           "home_team": "EA Guingamp",
-          "away_team": "Montpellier HSC"
+          "away_team": "Montpellier HSC",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2016-04-02",
           "time": "20:00",
           "home_team": "ESTAC Troyes",
-          "away_team": "Angers SCO"
+          "away_team": "Angers SCO",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2016-04-02",
           "time": "20:00",
           "home_team": "Gazélec FC Ajaccio",
-          "away_team": "AS Saint-Étienne"
+          "away_team": "AS Saint-Étienne",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2016-04-02",
           "time": "20:00",
           "home_team": "Stade Rennais",
-          "away_team": "Stade de Reims"
+          "away_team": "Stade de Reims",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2016-04-02",
           "time": "20:00",
           "home_team": "Toulouse FC",
-          "away_team": "SM Caen"
+          "away_team": "SM Caen",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2016-04-03",
           "time": "14:00",
           "home_team": "FC Nantes",
-          "away_team": "Lille OSC"
+          "away_team": "Lille OSC",
+          "result": {
+            "full_time": "0-3"
+          }
         },
         {
           "date": "2016-04-03",
           "time": "17:00",
           "home_team": "SC Bastia",
-          "away_team": "Olympique Marseille"
+          "away_team": "Olympique Marseille",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2016-04-03",
           "time": "21:00",
           "home_team": "FC Lorient",
-          "away_team": "Olympique Lyonnais"
+          "away_team": "Olympique Lyonnais",
+          "result": {
+            "full_time": "1-3"
+          }
         }
       ]
     },
@@ -2089,61 +3049,91 @@
           "date": "2016-04-08",
           "time": "20:30",
           "home_team": "Montpellier HSC",
-          "away_team": "Olympique Lyonnais"
+          "away_team": "Olympique Lyonnais",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2016-04-09",
           "time": "17:00",
           "home_team": "EA Guingamp",
-          "away_team": "Paris Saint-Germain"
+          "away_team": "Paris Saint-Germain",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2016-04-09",
           "time": "20:00",
           "home_team": "Angers SCO",
-          "away_team": "Gazélec FC Ajaccio"
+          "away_team": "Gazélec FC Ajaccio",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2016-04-09",
           "time": "20:00",
           "home_team": "AS Saint-Étienne",
-          "away_team": "ESTAC Troyes"
+          "away_team": "ESTAC Troyes",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2016-04-09",
           "time": "20:00",
           "home_team": "SM Caen",
-          "away_team": "FC Lorient"
+          "away_team": "FC Lorient",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2016-04-09",
           "time": "20:00",
           "home_team": "Stade de Reims",
-          "away_team": "FC Nantes"
+          "away_team": "FC Nantes",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2016-04-09",
           "time": "20:00",
           "home_team": "Toulouse FC",
-          "away_team": "SC Bastia"
+          "away_team": "SC Bastia",
+          "result": {
+            "full_time": "4-0"
+          }
         },
         {
           "date": "2016-04-10",
           "time": "14:00",
           "home_team": "Lille OSC",
-          "away_team": "AS Monaco"
+          "away_team": "AS Monaco",
+          "result": {
+            "full_time": "4-1"
+          }
         },
         {
           "date": "2016-04-10",
           "time": "17:00",
           "home_team": "OGC Nice",
-          "away_team": "Stade Rennais"
+          "away_team": "Stade Rennais",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2016-04-10",
           "time": "21:00",
           "home_team": "Olympique Marseille",
-          "away_team": "Girondins Bordeaux"
+          "away_team": "Girondins Bordeaux",
+          "result": {
+            "full_time": "0-0"
+          }
         }
       ]
     },
@@ -2154,61 +3144,91 @@
           "date": "2016-04-15",
           "time": "20:30",
           "home_team": "Olympique Lyonnais",
-          "away_team": "OGC Nice"
+          "away_team": "OGC Nice",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2016-04-16",
           "time": "17:00",
           "home_team": "Paris Saint-Germain",
-          "away_team": "SM Caen"
+          "away_team": "SM Caen",
+          "result": {
+            "full_time": "6-0"
+          }
         },
         {
           "date": "2016-04-16",
           "time": "20:00",
           "home_team": "ESTAC Troyes",
-          "away_team": "Stade de Reims"
+          "away_team": "Stade de Reims",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2016-04-16",
           "time": "20:00",
           "home_team": "Girondins Bordeaux",
-          "away_team": "Angers SCO"
+          "away_team": "Angers SCO",
+          "result": {
+            "full_time": "1-3"
+          }
         },
         {
           "date": "2016-04-16",
           "time": "20:00",
           "home_team": "FC Lorient",
-          "away_team": "Toulouse FC"
+          "away_team": "Toulouse FC",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2016-04-16",
           "time": "20:00",
           "home_team": "Gazélec FC Ajaccio",
-          "away_team": "Lille OSC"
+          "away_team": "Lille OSC",
+          "result": {
+            "full_time": "2-4"
+          }
         },
         {
           "date": "2016-04-16",
           "time": "20:00",
           "home_team": "SC Bastia",
-          "away_team": "AS Saint-Étienne"
+          "away_team": "AS Saint-Étienne",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2016-04-17",
           "time": "14:00",
           "home_team": "FC Nantes",
-          "away_team": "Montpellier HSC"
+          "away_team": "Montpellier HSC",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2016-04-17",
           "time": "17:00",
           "home_team": "Stade Rennais",
-          "away_team": "EA Guingamp"
+          "away_team": "EA Guingamp",
+          "result": {
+            "full_time": "0-3"
+          }
         },
         {
           "date": "2016-04-17",
           "time": "21:00",
           "home_team": "AS Monaco",
-          "away_team": "Olympique Marseille"
+          "away_team": "Olympique Marseille",
+          "result": {
+            "full_time": "2-1"
+          }
         }
       ]
     },
@@ -2219,61 +3239,91 @@
           "date": "2016-04-22",
           "time": "20:30",
           "home_team": "OGC Nice",
-          "away_team": "Stade de Reims"
+          "away_team": "Stade de Reims",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2016-04-23",
           "time": "17:30",
           "home_team": "Toulouse FC",
-          "away_team": "Olympique Lyonnais"
+          "away_team": "Olympique Lyonnais",
+          "result": {
+            "full_time": "2-3"
+          }
         },
         {
           "date": "2016-04-24",
           "time": "14:00",
           "home_team": "Olympique Marseille",
-          "away_team": "FC Nantes"
+          "away_team": "FC Nantes",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2016-04-24",
           "time": "17:00",
           "home_team": "AS Saint-Étienne",
-          "away_team": "FC Lorient"
+          "away_team": "FC Lorient",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2016-04-24",
           "time": "17:00",
           "home_team": "EA Guingamp",
-          "away_team": "SM Caen"
+          "away_team": "SM Caen",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2016-04-24",
           "time": "17:00",
           "home_team": "Gazélec FC Ajaccio",
-          "away_team": "SC Bastia"
+          "away_team": "SC Bastia",
+          "result": {
+            "full_time": "3-2"
+          }
         },
         {
           "date": "2016-04-24",
           "time": "17:00",
           "home_team": "Montpellier HSC",
-          "away_team": "ESTAC Troyes"
+          "away_team": "ESTAC Troyes",
+          "result": {
+            "full_time": "4-1"
+          }
         },
         {
           "date": "2016-04-24",
           "time": "21:00",
           "home_team": "Stade Rennais",
-          "away_team": "AS Monaco"
+          "away_team": "AS Monaco",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2016-04-27",
           "time": "18:30",
           "home_team": "Lille OSC",
-          "away_team": "Angers SCO"
+          "away_team": "Angers SCO",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2016-05-11",
           "time": "20:30",
           "home_team": "Girondins Bordeaux",
-          "away_team": "Paris Saint-Germain"
+          "away_team": "Paris Saint-Germain",
+          "result": {
+            "full_time": "1-1"
+          }
         }
       ]
     },
@@ -2284,61 +3334,91 @@
           "date": "2016-04-29",
           "time": "20:30",
           "home_team": "Paris Saint-Germain",
-          "away_team": "Stade Rennais"
+          "away_team": "Stade Rennais",
+          "result": {
+            "full_time": "4-0"
+          }
         },
         {
           "date": "2016-04-30",
           "time": "14:00",
           "home_team": "FC Nantes",
-          "away_team": "OGC Nice"
+          "away_team": "OGC Nice",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2016-04-30",
           "time": "17:00",
           "home_team": "AS Saint-Étienne",
-          "away_team": "Toulouse FC"
+          "away_team": "Toulouse FC",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2016-04-30",
           "time": "19:00",
           "home_team": "AS Monaco",
-          "away_team": "EA Guingamp"
+          "away_team": "EA Guingamp",
+          "result": {
+            "full_time": "3-2"
+          }
         },
         {
           "date": "2016-04-30",
           "time": "19:00",
           "home_team": "ESTAC Troyes",
-          "away_team": "Girondins Bordeaux"
+          "away_team": "Girondins Bordeaux",
+          "result": {
+            "full_time": "2-4"
+          }
         },
         {
           "date": "2016-04-30",
           "time": "19:00",
           "home_team": "FC Lorient",
-          "away_team": "Lille OSC"
+          "away_team": "Lille OSC",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2016-04-30",
           "time": "19:00",
           "home_team": "SM Caen",
-          "away_team": "SC Bastia"
+          "away_team": "SC Bastia",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2016-04-30",
           "time": "19:00",
           "home_team": "Stade de Reims",
-          "away_team": "Montpellier HSC"
+          "away_team": "Montpellier HSC",
+          "result": {
+            "full_time": "2-3"
+          }
         },
         {
           "date": "2016-04-30",
           "time": "21:00",
           "home_team": "Olympique Lyonnais",
-          "away_team": "Gazélec FC Ajaccio"
+          "away_team": "Gazélec FC Ajaccio",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2016-05-01",
           "time": "17:00",
           "home_team": "Angers SCO",
-          "away_team": "Olympique Marseille"
+          "away_team": "Olympique Marseille",
+          "result": {
+            "full_time": "0-1"
+          }
         }
       ]
     },
@@ -2349,61 +3429,91 @@
           "date": "2016-05-07",
           "time": "21:00",
           "home_team": "Girondins Bordeaux",
-          "away_team": "FC Lorient"
+          "away_team": "FC Lorient",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2016-05-07",
           "time": "21:00",
           "home_team": "FC Nantes",
-          "away_team": "SM Caen"
+          "away_team": "SM Caen",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2016-05-07",
           "time": "21:00",
           "home_team": "Gazélec FC Ajaccio",
-          "away_team": "Paris Saint-Germain"
+          "away_team": "Paris Saint-Germain",
+          "result": {
+            "full_time": "0-4"
+          }
         },
         {
           "date": "2016-05-07",
           "time": "21:00",
           "home_team": "Lille OSC",
-          "away_team": "EA Guingamp"
+          "away_team": "EA Guingamp",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2016-05-07",
           "time": "21:00",
           "home_team": "Montpellier HSC",
-          "away_team": "Stade Rennais"
+          "away_team": "Stade Rennais",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2016-05-07",
           "time": "21:00",
           "home_team": "OGC Nice",
-          "away_team": "AS Saint-Étienne"
+          "away_team": "AS Saint-Étienne",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2016-05-07",
           "time": "21:00",
           "home_team": "Olympique Marseille",
-          "away_team": "Stade de Reims"
+          "away_team": "Stade de Reims",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2016-05-07",
           "time": "21:00",
           "home_team": "Olympique Lyonnais",
-          "away_team": "AS Monaco"
+          "away_team": "AS Monaco",
+          "result": {
+            "full_time": "6-1"
+          }
         },
         {
           "date": "2016-05-07",
           "time": "21:00",
           "home_team": "SC Bastia",
-          "away_team": "Angers SCO"
+          "away_team": "Angers SCO",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2016-05-07",
           "time": "21:00",
           "home_team": "Toulouse FC",
-          "away_team": "ESTAC Troyes"
+          "away_team": "ESTAC Troyes",
+          "result": {
+            "full_time": "1-0"
+          }
         }
       ]
     },
@@ -2414,61 +3524,91 @@
           "date": "2016-05-14",
           "time": "21:00",
           "home_team": "Angers SCO",
-          "away_team": "Toulouse FC"
+          "away_team": "Toulouse FC",
+          "result": {
+            "full_time": "2-3"
+          }
         },
         {
           "date": "2016-05-14",
           "time": "21:00",
           "home_team": "AS Monaco",
-          "away_team": "Montpellier HSC"
+          "away_team": "Montpellier HSC",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2016-05-14",
           "time": "21:00",
           "home_team": "AS Saint-Étienne",
-          "away_team": "Lille OSC"
+          "away_team": "Lille OSC",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2016-05-14",
           "time": "21:00",
           "home_team": "EA Guingamp",
-          "away_team": "OGC Nice"
+          "away_team": "OGC Nice",
+          "result": {
+            "full_time": "2-3"
+          }
         },
         {
           "date": "2016-05-14",
           "time": "21:00",
           "home_team": "ESTAC Troyes",
-          "away_team": "Olympique Marseille"
+          "away_team": "Olympique Marseille",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2016-05-14",
           "time": "21:00",
           "home_team": "FC Lorient",
-          "away_team": "Gazélec FC Ajaccio"
+          "away_team": "Gazélec FC Ajaccio",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2016-05-14",
           "time": "21:00",
           "home_team": "Paris Saint-Germain",
-          "away_team": "FC Nantes"
+          "away_team": "FC Nantes",
+          "result": {
+            "full_time": "4-0"
+          }
         },
         {
           "date": "2016-05-14",
           "time": "21:00",
           "home_team": "SM Caen",
-          "away_team": "Girondins Bordeaux"
+          "away_team": "Girondins Bordeaux",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2016-05-14",
           "time": "21:00",
           "home_team": "Stade de Reims",
-          "away_team": "Olympique Lyonnais"
+          "away_team": "Olympique Lyonnais",
+          "result": {
+            "full_time": "4-1"
+          }
         },
         {
           "date": "2016-05-14",
           "time": "21:00",
           "home_team": "Stade Rennais",
-          "away_team": "SC Bastia"
+          "away_team": "SC Bastia",
+          "result": {
+            "full_time": "1-2"
+          }
         }
       ]
     }

@@ -10,62 +10,86 @@
           "time": "20:45",
           "home_team": "Giugliano",
           "away_team": "Taranto FC",
-          "cancelled": true
+          "result": "cancelled"
         },
         {
           "date": "2024-08-23",
           "time": "20:45",
           "home_team": "Juventus II",
-          "away_team": "Audace Cerignola"
+          "away_team": "Audace Cerignola",
+          "result": {
+            "full_time": "3-4"
+          }
         },
         {
           "date": "2024-08-23",
           "time": "20:45",
           "home_team": "Latina Calcio",
-          "away_team": "Casertana FC"
+          "away_team": "Casertana FC",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2024-08-24",
           "time": "18:00",
           "home_team": "Sorrento Calcio",
-          "away_team": "Calcio Catania"
+          "away_team": "Calcio Catania",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2024-08-25",
           "time": "18:00",
           "home_team": "AZ Picerno",
-          "away_team": "US Avellino"
+          "away_team": "US Avellino",
+          "result": {
+            "full_time": "4-1"
+          }
         },
         {
           "date": "2024-08-25",
           "time": "20:45",
           "home_team": "ACR Messina",
-          "away_team": "Potenza"
+          "away_team": "Potenza",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2024-08-25",
           "time": "20:45",
           "home_team": "FC Turris",
           "away_team": "SS Monopoli 1966",
-          "cancelled": true
+          "result": "cancelled"
         },
         {
           "date": "2024-08-26",
           "time": "20:30",
           "home_team": "FC Crotone",
-          "away_team": "Team Altamura"
+          "away_team": "Team Altamura",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2024-08-26",
           "time": "20:45",
           "home_team": "Benevento Calcio",
-          "away_team": "Cavese"
+          "away_team": "Cavese",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2024-08-26",
           "time": "20:45",
           "home_team": "Foggia Calcio",
-          "away_team": "Trapani Calcio"
+          "away_team": "Trapani Calcio",
+          "result": {
+            "full_time": "2-2"
+          }
         }
       ]
     },
@@ -76,63 +100,87 @@
           "date": "2024-08-30",
           "time": "20:45",
           "home_team": "Audace Cerignola",
-          "away_team": "ACR Messina"
+          "away_team": "ACR Messina",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2024-08-30",
           "time": "20:45",
           "home_team": "Casertana FC",
-          "away_team": "Juventus II"
+          "away_team": "Juventus II",
+          "result": {
+            "full_time": "2-3"
+          }
         },
         {
           "date": "2024-08-30",
           "time": "20:45",
           "home_team": "Taranto FC",
           "away_team": "Latina Calcio",
-          "cancelled": true
+          "result": "cancelled"
         },
         {
           "date": "2024-08-31",
           "time": "20:45",
           "home_team": "SS Monopoli 1966",
-          "away_team": "Sorrento Calcio"
+          "away_team": "Sorrento Calcio",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2024-09-01",
           "time": "18:00",
           "home_team": "Potenza",
           "away_team": "FC Turris",
-          "cancelled": true
+          "result": "cancelled"
         },
         {
           "date": "2024-09-01",
           "time": "20:45",
           "home_team": "Trapani Calcio",
-          "away_team": "AZ Picerno"
+          "away_team": "AZ Picerno",
+          "result": {
+            "full_time": "0-3"
+          }
         },
         {
           "date": "2024-09-02",
           "time": "20:45",
           "home_team": "US Avellino",
-          "away_team": "Giugliano"
+          "away_team": "Giugliano",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2024-09-02",
           "time": "20:45",
           "home_team": "Cavese",
-          "away_team": "FC Crotone"
+          "away_team": "FC Crotone",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2024-09-02",
           "time": "20:45",
           "home_team": "Team Altamura",
-          "away_team": "Foggia Calcio"
+          "away_team": "Foggia Calcio",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2024-09-02",
           "time": "21:15",
           "home_team": "Calcio Catania",
-          "away_team": "Benevento Calcio"
+          "away_team": "Benevento Calcio",
+          "result": {
+            "full_time": "1-0"
+          }
         }
       ]
     },
@@ -143,63 +191,87 @@
           "date": "2024-09-07",
           "time": "18:30",
           "home_team": "AZ Picerno",
-          "away_team": "Casertana FC"
+          "away_team": "Casertana FC",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2024-09-07",
           "time": "18:30",
           "home_team": "Juventus II",
-          "away_team": "Calcio Catania"
+          "away_team": "Calcio Catania",
+          "result": {
+            "full_time": "1-3"
+          }
         },
         {
           "date": "2024-09-07",
           "time": "20:45",
           "home_team": "ACR Messina",
           "away_team": "Taranto FC",
-          "cancelled": true
+          "result": "cancelled"
         },
         {
           "date": "2024-09-07",
           "time": "20:45",
           "home_team": "FC Crotone",
-          "away_team": "Trapani Calcio"
+          "away_team": "Trapani Calcio",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2024-09-07",
           "time": "20:45",
           "home_team": "FC Turris",
           "away_team": "Latina Calcio",
-          "cancelled": true
+          "result": "cancelled"
         },
         {
           "date": "2024-09-08",
           "time": "18:30",
           "home_team": "Sorrento Calcio",
-          "away_team": "Team Altamura"
+          "away_team": "Team Altamura",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2024-09-08",
           "time": "20:45",
           "home_team": "US Avellino",
-          "away_team": "Audace Cerignola"
+          "away_team": "Audace Cerignola",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2024-09-08",
           "time": "20:45",
           "home_team": "Benevento Calcio",
-          "away_team": "Potenza"
+          "away_team": "Potenza",
+          "result": {
+            "full_time": "4-1"
+          }
         },
         {
           "date": "2024-09-08",
           "time": "20:45",
           "home_team": "Foggia Calcio",
-          "away_team": "SS Monopoli 1966"
+          "away_team": "SS Monopoli 1966",
+          "result": {
+            "full_time": "1-4"
+          }
         },
         {
           "date": "2024-09-08",
           "time": "20:45",
           "home_team": "Giugliano",
-          "away_team": "Cavese"
+          "away_team": "Cavese",
+          "result": {
+            "full_time": "0-0"
+          }
         }
       ]
     },
@@ -210,63 +282,87 @@
           "date": "2024-09-13",
           "time": "20:45",
           "home_team": "Potenza",
-          "away_team": "Sorrento Calcio"
+          "away_team": "Sorrento Calcio",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2024-09-13",
           "time": "20:45",
           "home_team": "Taranto FC",
           "away_team": "Trapani Calcio",
-          "cancelled": true
+          "result": "cancelled"
         },
         {
           "date": "2024-09-14",
           "time": "18:30",
           "home_team": "FC Crotone",
-          "away_team": "ACR Messina"
+          "away_team": "ACR Messina",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2024-09-14",
           "time": "18:30",
           "home_team": "SS Monopoli 1966",
-          "away_team": "Juventus II"
+          "away_team": "Juventus II",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2024-09-14",
           "time": "20:45",
           "home_team": "Casertana FC",
           "away_team": "FC Turris",
-          "cancelled": true
+          "result": "cancelled"
         },
         {
           "date": "2024-09-14",
           "time": "20:45",
           "home_team": "Calcio Catania",
-          "away_team": "AZ Picerno"
+          "away_team": "AZ Picerno",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2024-09-15",
           "time": "20:45",
           "home_team": "Audace Cerignola",
-          "away_team": "Giugliano"
+          "away_team": "Giugliano",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2024-09-15",
           "time": "20:45",
           "home_team": "Cavese",
-          "away_team": "US Avellino"
+          "away_team": "US Avellino",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2024-09-15",
           "time": "20:45",
           "home_team": "Team Altamura",
-          "away_team": "Benevento Calcio"
+          "away_team": "Benevento Calcio",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2024-09-16",
           "time": "20:30",
           "home_team": "Latina Calcio",
-          "away_team": "Foggia Calcio"
+          "away_team": "Foggia Calcio",
+          "result": {
+            "full_time": "0-0"
+          }
         }
       ]
     },
@@ -277,63 +373,87 @@
           "date": "2024-09-20",
           "time": "20:45",
           "home_team": "ACR Messina",
-          "away_team": "Casertana FC"
+          "away_team": "Casertana FC",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2024-09-21",
           "time": "18:30",
           "home_team": "Sorrento Calcio",
           "away_team": "FC Turris",
-          "cancelled": true
+          "result": "cancelled"
         },
         {
           "date": "2024-09-21",
           "time": "20:45",
           "home_team": "US Avellino",
-          "away_team": "Latina Calcio"
+          "away_team": "Latina Calcio",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2024-09-21",
           "time": "20:45",
           "home_team": "Cavese",
-          "away_team": "SS Monopoli 1966"
+          "away_team": "SS Monopoli 1966",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2024-09-21",
           "time": "20:45",
           "home_team": "Taranto FC",
           "away_team": "Team Altamura",
-          "cancelled": true
+          "result": "cancelled"
         },
         {
           "date": "2024-09-22",
           "time": "16:15",
           "home_team": "Trapani Calcio",
-          "away_team": "Juventus II"
+          "away_team": "Juventus II",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2024-09-22",
           "time": "18:30",
           "home_team": "Giugliano",
-          "away_team": "Calcio Catania"
+          "away_team": "Calcio Catania",
+          "result": {
+            "full_time": "3-2"
+          }
         },
         {
           "date": "2024-09-22",
           "time": "20:45",
           "home_team": "Audace Cerignola",
-          "away_team": "Potenza"
+          "away_team": "Potenza",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2024-09-22",
           "time": "20:45",
           "home_team": "AZ Picerno",
-          "away_team": "FC Crotone"
+          "away_team": "FC Crotone",
+          "result": {
+            "full_time": "5-2"
+          }
         },
         {
           "date": "2024-09-22",
           "time": "20:45",
           "home_team": "Benevento Calcio",
-          "away_team": "Foggia Calcio"
+          "away_team": "Foggia Calcio",
+          "result": {
+            "full_time": "4-0"
+          }
         }
       ]
     },
@@ -345,62 +465,86 @@
           "time": "20:45",
           "home_team": "Casertana FC",
           "away_team": "Taranto FC",
-          "cancelled": true
+          "result": "cancelled"
         },
         {
           "date": "2024-09-24",
           "time": "20:45",
           "home_team": "Team Altamura",
-          "away_team": "Cavese"
+          "away_team": "Cavese",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2024-09-24",
           "time": "20:45",
           "home_team": "FC Turris",
           "away_team": "US Avellino",
-          "cancelled": true
+          "result": "cancelled"
         },
         {
           "date": "2024-09-25",
           "time": "18:30",
           "home_team": "Potenza",
-          "away_team": "Trapani Calcio"
+          "away_team": "Trapani Calcio",
+          "result": {
+            "full_time": "1-5"
+          }
         },
         {
           "date": "2024-09-25",
           "time": "20:45",
           "home_team": "Calcio Catania",
-          "away_team": "Audace Cerignola"
+          "away_team": "Audace Cerignola",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2024-09-25",
           "time": "20:45",
           "home_team": "FC Crotone",
-          "away_team": "Sorrento Calcio"
+          "away_team": "Sorrento Calcio",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2024-09-25",
           "time": "20:45",
           "home_team": "Foggia Calcio",
-          "away_team": "Giugliano"
+          "away_team": "Giugliano",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2024-09-25",
           "time": "20:45",
           "home_team": "Latina Calcio",
-          "away_team": "ACR Messina"
+          "away_team": "ACR Messina",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2024-09-26",
           "time": "18:30",
           "home_team": "Juventus II",
-          "away_team": "AZ Picerno"
+          "away_team": "AZ Picerno",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2024-09-26",
           "time": "20:45",
           "home_team": "SS Monopoli 1966",
-          "away_team": "Benevento Calcio"
+          "away_team": "Benevento Calcio",
+          "result": {
+            "full_time": "1-0"
+          }
         }
       ]
     },
@@ -412,62 +556,86 @@
           "time": "18:30",
           "home_team": "Taranto FC",
           "away_team": "Sorrento Calcio",
-          "cancelled": true
+          "result": "cancelled"
         },
         {
           "date": "2024-09-29",
           "time": "18:30",
           "home_team": "Audace Cerignola",
-          "away_team": "Casertana FC"
+          "away_team": "Casertana FC",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2024-09-29",
           "time": "18:30",
           "home_team": "Cavese",
-          "away_team": "Latina Calcio"
+          "away_team": "Latina Calcio",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2024-09-29",
           "time": "18:30",
           "home_team": "Trapani Calcio",
           "away_team": "FC Turris",
-          "cancelled": true
+          "result": "cancelled"
         },
         {
           "date": "2024-09-29",
           "time": "20:45",
           "home_team": "US Avellino",
-          "away_team": "Foggia Calcio"
+          "away_team": "Foggia Calcio",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2024-09-29",
           "time": "20:45",
           "home_team": "Calcio Catania",
-          "away_team": "SS Monopoli 1966"
+          "away_team": "SS Monopoli 1966",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2024-09-29",
           "time": "20:45",
           "home_team": "Giugliano",
-          "away_team": "Team Altamura"
+          "away_team": "Team Altamura",
+          "result": {
+            "full_time": "2-3"
+          }
         },
         {
           "date": "2024-09-29",
           "time": "20:45",
           "home_team": "Potenza",
-          "away_team": "FC Crotone"
+          "away_team": "FC Crotone",
+          "result": {
+            "full_time": "3-3"
+          }
         },
         {
           "date": "2024-09-30",
           "time": "20:30",
           "home_team": "AZ Picerno",
-          "away_team": "ACR Messina"
+          "away_team": "ACR Messina",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2024-09-30",
           "time": "20:45",
           "home_team": "Benevento Calcio",
-          "away_team": "Juventus II"
+          "away_team": "Juventus II",
+          "result": {
+            "full_time": "4-1"
+          }
         }
       ]
     },
@@ -479,62 +647,86 @@
           "time": "20:30",
           "home_team": "Foggia Calcio",
           "away_team": "Taranto FC",
-          "cancelled": true
+          "result": "cancelled"
         },
         {
           "date": "2024-10-05",
           "time": "15:00",
           "home_team": "Juventus II",
-          "away_team": "Potenza"
+          "away_team": "Potenza",
+          "result": {
+            "full_time": "2-3"
+          }
         },
         {
           "date": "2024-10-05",
           "time": "17:30",
           "home_team": "AZ Picerno",
-          "away_team": "Cavese"
+          "away_team": "Cavese",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2024-10-05",
           "time": "17:30",
           "home_team": "Team Altamura",
-          "away_team": "SS Monopoli 1966"
+          "away_team": "SS Monopoli 1966",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2024-10-06",
           "time": "12:30",
           "home_team": "Latina Calcio",
-          "away_team": "Giugliano"
+          "away_team": "Giugliano",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2024-10-06",
           "time": "15:00",
           "home_team": "ACR Messina",
-          "away_team": "Benevento Calcio"
+          "away_team": "Benevento Calcio",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2024-10-06",
           "time": "15:00",
           "home_team": "Casertana FC",
-          "away_team": "Calcio Catania"
+          "away_team": "Calcio Catania",
+          "result": {
+            "full_time": "1-3"
+          }
         },
         {
           "date": "2024-10-06",
           "time": "15:00",
           "home_team": "Sorrento Calcio",
-          "away_team": "Trapani Calcio"
+          "away_team": "Trapani Calcio",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2024-10-06",
           "time": "17:30",
           "home_team": "FC Turris",
           "away_team": "Audace Cerignola",
-          "cancelled": true
+          "result": "cancelled"
         },
         {
           "date": "2024-10-07",
           "time": "20:30",
           "home_team": "FC Crotone",
-          "away_team": "US Avellino"
+          "away_team": "US Avellino",
+          "result": {
+            "full_time": "0-4"
+          }
         }
       ]
     },
@@ -545,63 +737,87 @@
           "date": "2024-10-11",
           "time": "20:30",
           "home_team": "Audace Cerignola",
-          "away_team": "Sorrento Calcio"
+          "away_team": "Sorrento Calcio",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2024-10-11",
           "time": "20:30",
           "home_team": "Cavese",
           "away_team": "FC Turris",
-          "cancelled": true
+          "result": "cancelled"
         },
         {
           "date": "2024-10-11",
           "time": "20:30",
           "home_team": "Trapani Calcio",
-          "away_team": "ACR Messina"
+          "away_team": "ACR Messina",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2024-10-12",
           "time": "15:00",
           "home_team": "Giugliano",
-          "away_team": "Juventus II"
+          "away_team": "Juventus II",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2024-10-12",
           "time": "15:00",
           "home_team": "SS Monopoli 1966",
-          "away_team": "FC Crotone"
+          "away_team": "FC Crotone",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2024-10-12",
           "time": "17:30",
           "home_team": "Calcio Catania",
-          "away_team": "Team Altamura"
+          "away_team": "Team Altamura",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2024-10-13",
           "time": "15:00",
           "home_team": "Benevento Calcio",
-          "away_team": "Latina Calcio"
+          "away_team": "Latina Calcio",
+          "result": {
+            "full_time": "5-0"
+          }
         },
         {
           "date": "2024-10-13",
           "time": "17:30",
           "home_team": "Taranto FC",
           "away_team": "AZ Picerno",
-          "cancelled": true
+          "result": "cancelled"
         },
         {
           "date": "2024-10-13",
           "time": "19:30",
           "home_team": "US Avellino",
-          "away_team": "Casertana FC"
+          "away_team": "Casertana FC",
+          "result": {
+            "full_time": "5-0"
+          }
         },
         {
           "date": "2024-10-13",
           "time": "19:45",
           "home_team": "Potenza",
-          "away_team": "Foggia Calcio"
+          "away_team": "Foggia Calcio",
+          "result": {
+            "full_time": "1-1"
+          }
         }
       ]
     },
@@ -612,63 +828,87 @@
           "date": "2024-10-19",
           "time": "15:00",
           "home_team": "Latina Calcio",
-          "away_team": "Team Altamura"
+          "away_team": "Team Altamura",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2024-10-19",
           "time": "15:00",
           "home_team": "Sorrento Calcio",
-          "away_team": "Benevento Calcio"
+          "away_team": "Benevento Calcio",
+          "result": {
+            "full_time": "0-3"
+          }
         },
         {
           "date": "2024-10-19",
           "time": "17:30",
           "home_team": "FC Turris",
           "away_team": "Giugliano",
-          "cancelled": true
+          "result": "cancelled"
         },
         {
           "date": "2024-10-20",
           "time": "15:00",
           "home_team": "Foggia Calcio",
-          "away_team": "Calcio Catania"
+          "away_team": "Calcio Catania",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2024-10-20",
           "time": "15:00",
           "home_team": "Juventus II",
-          "away_team": "US Avellino"
+          "away_team": "US Avellino",
+          "result": {
+            "full_time": "0-3"
+          }
         },
         {
           "date": "2024-10-20",
           "time": "15:00",
           "home_team": "Trapani Calcio",
-          "away_team": "Audace Cerignola"
+          "away_team": "Audace Cerignola",
+          "result": {
+            "full_time": "5-1"
+          }
         },
         {
           "date": "2024-10-20",
           "time": "17:30",
           "home_team": "ACR Messina",
-          "away_team": "SS Monopoli 1966"
+          "away_team": "SS Monopoli 1966",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2024-10-20",
           "time": "19:30",
           "home_team": "FC Crotone",
           "away_team": "Taranto FC",
-          "cancelled": true
+          "result": "cancelled"
         },
         {
           "date": "2024-10-21",
           "time": "20:30",
           "home_team": "AZ Picerno",
-          "away_team": "Potenza"
+          "away_team": "Potenza",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2024-10-21",
           "time": "20:30",
           "home_team": "Casertana FC",
-          "away_team": "Cavese"
+          "away_team": "Cavese",
+          "result": {
+            "full_time": "1-0"
+          }
         }
       ]
     },
@@ -679,62 +919,89 @@
           "date": "2024-10-26",
           "time": "15:00",
           "home_team": "Cavese",
-          "away_team": "Potenza"
+          "away_team": "Potenza",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2024-10-26",
           "time": "15:00",
           "home_team": "SS Monopoli 1966",
-          "away_team": "Trapani Calcio"
+          "away_team": "Trapani Calcio",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2024-10-26",
           "time": "17:30",
           "home_team": "Audace Cerignola",
-          "away_team": "AZ Picerno"
+          "away_team": "AZ Picerno",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2024-10-27",
           "time": "15:00",
           "home_team": "US Avellino",
-          "away_team": "ACR Messina"
+          "away_team": "ACR Messina",
+          "result": {
+            "full_time": "6-0"
+          }
         },
         {
           "date": "2024-10-27",
           "time": "15:00",
           "home_team": "Calcio Catania",
-          "away_team": "Latina Calcio"
+          "away_team": "Latina Calcio",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2024-10-27",
           "time": "15:00",
           "home_team": "Taranto FC",
           "away_team": "FC Turris",
-          "cancelled": true
+          "result": "cancelled"
         },
         {
           "date": "2024-10-27",
           "time": "15:00",
           "home_team": "Team Altamura",
-          "away_team": "Juventus II"
+          "away_team": "Juventus II",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2024-10-27",
           "time": "15:30",
           "home_team": "Benevento Calcio",
-          "away_team": "Casertana FC"
+          "away_team": "Casertana FC",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2024-10-27",
           "time": "17:30",
           "home_team": "Giugliano",
-          "away_team": "FC Crotone"
+          "away_team": "FC Crotone",
+          "result": {
+            "full_time": "1-3"
+          }
         },
         {
           "date": "2024-10-27",
           "time": "17:30",
           "home_team": "Sorrento Calcio",
-          "away_team": "Foggia Calcio"
+          "away_team": "Foggia Calcio",
+          "result": {
+            "full_time": "2-1"
+          }
         }
       ]
     },
@@ -745,63 +1012,87 @@
           "date": "2024-10-30",
           "time": "15:00",
           "home_team": "AZ Picerno",
-          "away_team": "Giugliano"
+          "away_team": "Giugliano",
+          "result": {
+            "full_time": "1-3"
+          }
         },
         {
           "date": "2024-10-30",
           "time": "20:45",
           "home_team": "Trapani Calcio",
-          "away_team": "US Avellino"
+          "away_team": "US Avellino",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2024-10-31",
           "time": "15:00",
           "home_team": "Potenza",
           "away_team": "Taranto FC",
-          "cancelled": true
+          "result": "cancelled"
         },
         {
           "date": "2024-10-31",
           "time": "18:30",
           "home_team": "Casertana FC",
-          "away_team": "Team Altamura"
+          "away_team": "Team Altamura",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2024-10-31",
           "time": "18:30",
           "home_team": "Latina Calcio",
-          "away_team": "SS Monopoli 1966"
+          "away_team": "SS Monopoli 1966",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2024-10-31",
           "time": "20:30",
           "home_team": "Juventus II",
-          "away_team": "Sorrento Calcio"
+          "away_team": "Sorrento Calcio",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2024-10-31",
           "time": "20:45",
           "home_team": "ACR Messina",
-          "away_team": "Cavese"
+          "away_team": "Cavese",
+          "result": {
+            "full_time": "1-3"
+          }
         },
         {
           "date": "2024-10-31",
           "time": "20:45",
           "home_team": "FC Crotone",
-          "away_team": "Benevento Calcio"
+          "away_team": "Benevento Calcio",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2024-10-31",
           "time": "20:45",
           "home_team": "Foggia Calcio",
-          "away_team": "Audace Cerignola"
+          "away_team": "Audace Cerignola",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2024-10-31",
           "time": "20:45",
           "home_team": "FC Turris",
           "away_team": "Calcio Catania",
-          "cancelled": true
+          "result": "cancelled"
         }
       ]
     },
@@ -812,63 +1103,87 @@
           "date": "2024-11-03",
           "time": "15:00",
           "home_team": "Audace Cerignola",
-          "away_team": "FC Crotone"
+          "away_team": "FC Crotone",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2024-11-03",
           "time": "15:00",
           "home_team": "US Avellino",
           "away_team": "Taranto FC",
-          "cancelled": true
+          "result": "cancelled"
         },
         {
           "date": "2024-11-03",
           "time": "15:00",
           "home_team": "Giugliano",
-          "away_team": "Trapani Calcio"
+          "away_team": "Trapani Calcio",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2024-11-03",
           "time": "15:00",
           "home_team": "Juventus II",
-          "away_team": "Latina Calcio"
+          "away_team": "Latina Calcio",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2024-11-03",
           "time": "19:30",
           "home_team": "Calcio Catania",
-          "away_team": "ACR Messina"
+          "away_team": "ACR Messina",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2024-11-04",
           "time": "15:00",
           "home_team": "Sorrento Calcio",
-          "away_team": "Casertana FC"
+          "away_team": "Casertana FC",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2024-11-04",
           "time": "20:30",
           "home_team": "Benevento Calcio",
           "away_team": "FC Turris",
-          "cancelled": true
+          "result": "cancelled"
         },
         {
           "date": "2024-11-04",
           "time": "20:30",
           "home_team": "Cavese",
-          "away_team": "Foggia Calcio"
+          "away_team": "Foggia Calcio",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2024-11-04",
           "time": "20:30",
           "home_team": "SS Monopoli 1966",
-          "away_team": "AZ Picerno"
+          "away_team": "AZ Picerno",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2024-11-04",
           "time": "20:30",
           "home_team": "Team Altamura",
-          "away_team": "Potenza"
+          "away_team": "Potenza",
+          "result": {
+            "full_time": "2-2"
+          }
         }
       ]
     },
@@ -879,63 +1194,87 @@
           "date": "2024-11-09",
           "time": "15:00",
           "home_team": "Casertana FC",
-          "away_team": "SS Monopoli 1966"
+          "away_team": "SS Monopoli 1966",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2024-11-09",
           "time": "15:00",
           "home_team": "Trapani Calcio",
-          "away_team": "Cavese"
+          "away_team": "Cavese",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2024-11-09",
           "time": "17:30",
           "home_team": "AZ Picerno",
-          "away_team": "Benevento Calcio"
+          "away_team": "Benevento Calcio",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2024-11-09",
           "time": "17:30",
           "home_team": "Latina Calcio",
-          "away_team": "Sorrento Calcio"
+          "away_team": "Sorrento Calcio",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2024-11-10",
           "time": "12:30",
           "home_team": "Potenza",
-          "away_team": "US Avellino"
+          "away_team": "US Avellino",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2024-11-10",
           "time": "15:00",
           "home_team": "Foggia Calcio",
-          "away_team": "Juventus II"
+          "away_team": "Juventus II",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2024-11-10",
           "time": "17:30",
           "home_team": "ACR Messina",
-          "away_team": "Giugliano"
+          "away_team": "Giugliano",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2024-11-10",
           "time": "19:30",
           "home_team": "FC Crotone",
-          "away_team": "Calcio Catania"
+          "away_team": "Calcio Catania",
+          "result": {
+            "full_time": "3-2"
+          }
         },
         {
           "date": "2024-11-11",
           "time": "20:30",
           "home_team": "Taranto FC",
           "away_team": "Audace Cerignola",
-          "cancelled": true
+          "result": "cancelled"
         },
         {
           "date": "2024-11-11",
           "time": "20:30",
           "home_team": "FC Turris",
           "away_team": "Team Altamura",
-          "cancelled": true
+          "result": "cancelled"
         }
       ]
     },
@@ -946,63 +1285,87 @@
           "date": "2024-11-15",
           "time": "20:30",
           "home_team": "Calcio Catania",
-          "away_team": "Trapani Calcio"
+          "away_team": "Trapani Calcio",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2024-11-15",
           "time": "20:30",
           "home_team": "Foggia Calcio",
-          "away_team": "Casertana FC"
+          "away_team": "Casertana FC",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2024-11-16",
           "time": "17:30",
           "home_team": "Giugliano",
-          "away_team": "Potenza"
+          "away_team": "Potenza",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2024-11-16",
           "time": "17:30",
           "home_team": "Sorrento Calcio",
-          "away_team": "AZ Picerno"
+          "away_team": "AZ Picerno",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2024-11-17",
           "time": "15:00",
           "home_team": "Team Altamura",
-          "away_team": "ACR Messina"
+          "away_team": "ACR Messina",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2024-11-17",
           "time": "17:30",
           "home_team": "Benevento Calcio",
-          "away_team": "US Avellino"
+          "away_team": "US Avellino",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2024-11-17",
           "time": "17:30",
           "home_team": "Cavese",
           "away_team": "Taranto FC",
-          "cancelled": true
+          "result": "cancelled"
         },
         {
           "date": "2024-11-17",
           "time": "17:30",
           "home_team": "Latina Calcio",
-          "away_team": "FC Crotone"
+          "away_team": "FC Crotone",
+          "result": {
+            "full_time": "0-4"
+          }
         },
         {
           "date": "2024-11-18",
           "time": "20:30",
           "home_team": "SS Monopoli 1966",
-          "away_team": "Audace Cerignola"
+          "away_team": "Audace Cerignola",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2024-11-27",
           "time": "15:00",
           "home_team": "Juventus II",
           "away_team": "FC Turris",
-          "cancelled": true
+          "result": "cancelled"
         }
       ]
     },
@@ -1013,63 +1376,87 @@
           "date": "2024-11-22",
           "time": "16:00",
           "home_team": "AZ Picerno",
-          "away_team": "Team Altamura"
+          "away_team": "Team Altamura",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2024-11-23",
           "time": "15:00",
           "home_team": "US Avellino",
-          "away_team": "Calcio Catania"
+          "away_team": "Calcio Catania",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2024-11-23",
           "time": "15:00",
           "home_team": "Taranto FC",
           "away_team": "Benevento Calcio",
-          "cancelled": true
+          "result": "cancelled"
         },
         {
           "date": "2024-11-23",
           "time": "15:00",
           "home_team": "Trapani Calcio",
-          "away_team": "Latina Calcio"
+          "away_team": "Latina Calcio",
+          "result": {
+            "full_time": "4-0"
+          }
         },
         {
           "date": "2024-11-23",
           "time": "17:30",
           "home_team": "Casertana FC",
-          "away_team": "Giugliano"
+          "away_team": "Giugliano",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2024-11-23",
           "time": "17:30",
           "home_team": "Potenza",
-          "away_team": "SS Monopoli 1966"
+          "away_team": "SS Monopoli 1966",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2024-11-24",
           "time": "12:30",
           "home_team": "FC Crotone",
-          "away_team": "Juventus II"
+          "away_team": "Juventus II",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2024-11-24",
           "time": "15:00",
           "home_team": "ACR Messina",
-          "away_team": "Sorrento Calcio"
+          "away_team": "Sorrento Calcio",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2024-11-24",
           "time": "17:30",
           "home_team": "Audace Cerignola",
-          "away_team": "Cavese"
+          "away_team": "Cavese",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2024-11-24",
           "time": "17:30",
           "home_team": "FC Turris",
           "away_team": "Foggia Calcio",
-          "cancelled": true
+          "result": "cancelled"
         }
       ]
     },
@@ -1080,63 +1467,87 @@
           "date": "2024-11-30",
           "time": "15:00",
           "home_team": "Benevento Calcio",
-          "away_team": "Audace Cerignola"
+          "away_team": "Audace Cerignola",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2024-11-30",
           "time": "15:00",
           "home_team": "Foggia Calcio",
-          "away_team": "FC Crotone"
+          "away_team": "FC Crotone",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2024-11-30",
           "time": "15:00",
           "home_team": "Latina Calcio",
-          "away_team": "AZ Picerno"
+          "away_team": "AZ Picerno",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2024-11-30",
           "time": "15:00",
           "home_team": "Team Altamura",
-          "away_team": "Trapani Calcio"
+          "away_team": "Trapani Calcio",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2024-11-30",
           "time": "17:30",
           "home_team": "Calcio Catania",
-          "away_team": "Cavese"
+          "away_team": "Cavese",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2024-12-01",
           "time": "15:00",
           "home_team": "Casertana FC",
-          "away_team": "Potenza"
+          "away_team": "Potenza",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2024-12-01",
           "time": "17:30",
           "home_team": "Juventus II",
           "away_team": "Taranto FC",
-          "cancelled": true
+          "result": "cancelled"
         },
         {
           "date": "2024-12-01",
           "time": "17:30",
           "home_team": "FC Turris",
           "away_team": "ACR Messina",
-          "cancelled": true
+          "result": "cancelled"
         },
         {
           "date": "2024-12-02",
           "time": "20:30",
           "home_team": "SS Monopoli 1966",
-          "away_team": "US Avellino"
+          "away_team": "US Avellino",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2024-12-02",
           "time": "20:30",
           "home_team": "Sorrento Calcio",
-          "away_team": "Giugliano"
+          "away_team": "Giugliano",
+          "result": {
+            "full_time": "3-0"
+          }
         }
       ]
     },
@@ -1147,63 +1558,87 @@
           "date": "2024-12-06",
           "time": "20:30",
           "home_team": "Audace Cerignola",
-          "away_team": "Team Altamura"
+          "away_team": "Team Altamura",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2024-12-07",
           "time": "15:00",
           "home_team": "Potenza",
-          "away_team": "Latina Calcio"
+          "away_team": "Latina Calcio",
+          "result": {
+            "full_time": "5-1"
+          }
         },
         {
           "date": "2024-12-07",
           "time": "17:30",
           "home_team": "ACR Messina",
-          "away_team": "Foggia Calcio"
+          "away_team": "Foggia Calcio",
+          "result": {
+            "full_time": "0-3"
+          }
         },
         {
           "date": "2024-12-08",
           "time": "15:00",
           "home_team": "AZ Picerno",
           "away_team": "FC Turris",
-          "cancelled": true
+          "result": "cancelled"
         },
         {
           "date": "2024-12-08",
           "time": "15:00",
           "home_team": "Cavese",
-          "away_team": "Juventus II"
+          "away_team": "Juventus II",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2024-12-08",
           "time": "15:00",
           "home_team": "FC Crotone",
-          "away_team": "Casertana FC"
+          "away_team": "Casertana FC",
+          "result": {
+            "full_time": "2-3"
+          }
         },
         {
           "date": "2024-12-08",
           "time": "17:30",
           "home_team": "US Avellino",
-          "away_team": "Sorrento Calcio"
+          "away_team": "Sorrento Calcio",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2024-12-08",
           "time": "17:30",
           "home_team": "Taranto FC",
           "away_team": "Calcio Catania",
-          "cancelled": true
+          "result": "cancelled"
         },
         {
           "date": "2024-12-08",
           "time": "19:30",
           "home_team": "Trapani Calcio",
-          "away_team": "Benevento Calcio"
+          "away_team": "Benevento Calcio",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2024-12-09",
           "time": "20:30",
           "home_team": "Giugliano",
-          "away_team": "SS Monopoli 1966"
+          "away_team": "SS Monopoli 1966",
+          "result": {
+            "full_time": "1-2"
+          }
         }
       ]
     },
@@ -1214,63 +1649,87 @@
           "date": "2024-12-13",
           "time": "20:30",
           "home_team": "Team Altamura",
-          "away_team": "US Avellino"
+          "away_team": "US Avellino",
+          "result": {
+            "full_time": "1-3"
+          }
         },
         {
           "date": "2024-12-14",
           "time": "15:00",
           "home_team": "Casertana FC",
-          "away_team": "Trapani Calcio"
+          "away_team": "Trapani Calcio",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2024-12-14",
           "time": "15:00",
           "home_team": "Juventus II",
-          "away_team": "ACR Messina"
+          "away_team": "ACR Messina",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2024-12-14",
           "time": "15:00",
           "home_team": "Sorrento Calcio",
-          "away_team": "Cavese"
+          "away_team": "Cavese",
+          "result": {
+            "full_time": "1-3"
+          }
         },
         {
           "date": "2024-12-14",
           "time": "15:00",
           "home_team": "FC Turris",
           "away_team": "FC Crotone",
-          "cancelled": true
+          "result": "cancelled"
         },
         {
           "date": "2024-12-14",
           "time": "17:30",
           "home_team": "Benevento Calcio",
-          "away_team": "Giugliano"
+          "away_team": "Giugliano",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2024-12-14",
           "time": "17:30",
           "home_team": "Calcio Catania",
-          "away_team": "Potenza"
+          "away_team": "Potenza",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2024-12-15",
           "time": "15:00",
           "home_team": "SS Monopoli 1966",
           "away_team": "Taranto FC",
-          "cancelled": true
+          "result": "cancelled"
         },
         {
           "date": "2024-12-15",
           "time": "19:30",
           "home_team": "Foggia Calcio",
-          "away_team": "AZ Picerno"
+          "away_team": "AZ Picerno",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2024-12-16",
           "time": "20:30",
           "home_team": "Latina Calcio",
-          "away_team": "Audace Cerignola"
+          "away_team": "Audace Cerignola",
+          "result": {
+            "full_time": "0-1"
+          }
         }
       ]
     },
@@ -1281,63 +1740,87 @@
           "date": "2024-12-20",
           "time": "20:30",
           "home_team": "Cavese",
-          "away_team": "Benevento Calcio"
+          "away_team": "Benevento Calcio",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2024-12-20",
           "time": "20:30",
           "home_team": "SS Monopoli 1966",
           "away_team": "FC Turris",
-          "cancelled": true
+          "result": "cancelled"
         },
         {
           "date": "2024-12-21",
           "time": "17:30",
           "home_team": "Team Altamura",
-          "away_team": "FC Crotone"
+          "away_team": "FC Crotone",
+          "result": {
+            "full_time": "1-3"
+          }
         },
         {
           "date": "2024-12-21",
           "time": "17:30",
           "home_team": "Audace Cerignola",
-          "away_team": "Juventus II"
+          "away_team": "Juventus II",
+          "result": {
+            "full_time": "3-3"
+          }
         },
         {
           "date": "2024-12-21",
           "time": "17:30",
           "home_team": "Casertana FC",
-          "away_team": "Latina Calcio"
+          "away_team": "Latina Calcio",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2024-12-22",
           "time": "12:30",
           "home_team": "Potenza",
-          "away_team": "ACR Messina"
+          "away_team": "ACR Messina",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2024-12-22",
           "time": "17:30",
           "home_team": "US Avellino",
-          "away_team": "AZ Picerno"
+          "away_team": "AZ Picerno",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2024-12-22",
           "time": "17:30",
           "home_team": "Taranto FC",
           "away_team": "Giugliano",
-          "cancelled": true
+          "result": "cancelled"
         },
         {
           "date": "2024-12-22",
           "time": "17:30",
           "home_team": "Calcio Catania",
-          "away_team": "Sorrento Calcio"
+          "away_team": "Sorrento Calcio",
+          "result": {
+            "full_time": "4-0"
+          }
         },
         {
           "date": "2024-12-23",
           "time": "20:30",
           "home_team": "Trapani Calcio",
-          "away_team": "Foggia Calcio"
+          "away_team": "Foggia Calcio",
+          "result": {
+            "full_time": "0-0"
+          }
         }
       ]
     },
@@ -1348,63 +1831,87 @@
           "date": "2025-01-04",
           "time": "15:00",
           "home_team": "Juventus II",
-          "away_team": "Casertana FC"
+          "away_team": "Casertana FC",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2025-01-04",
           "time": "15:00",
           "home_team": "FC Crotone",
-          "away_team": "Cavese"
+          "away_team": "Cavese",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-01-05",
           "time": "15:00",
           "home_team": "ACR Messina",
-          "away_team": "Audace Cerignola"
+          "away_team": "Audace Cerignola",
+          "result": {
+            "full_time": "1-3"
+          }
         },
         {
           "date": "2025-01-05",
           "time": "15:00",
           "home_team": "Benevento Calcio",
-          "away_team": "Calcio Catania"
+          "away_team": "Calcio Catania",
+          "result": {
+            "full_time": "3-2"
+          }
         },
         {
           "date": "2025-01-05",
           "time": "15:00",
           "home_team": "Sorrento Calcio",
-          "away_team": "SS Monopoli 1966"
+          "away_team": "SS Monopoli 1966",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2025-01-05",
           "time": "15:00",
           "home_team": "Latina Calcio",
           "away_team": "Taranto FC",
-          "cancelled": true
+          "result": "cancelled"
         },
         {
           "date": "2025-01-05",
           "time": "17:30",
           "home_team": "Giugliano",
-          "away_team": "US Avellino"
+          "away_team": "US Avellino",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-01-05",
           "time": "17:30",
           "home_team": "FC Turris",
           "away_team": "Potenza",
-          "cancelled": true
+          "result": "cancelled"
         },
         {
           "date": "2025-01-06",
           "time": "15:00",
           "home_team": "AZ Picerno",
-          "away_team": "Trapani Calcio"
+          "away_team": "Trapani Calcio",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2025-01-06",
           "time": "17:30",
           "home_team": "Foggia Calcio",
-          "away_team": "Team Altamura"
+          "away_team": "Team Altamura",
+          "result": {
+            "full_time": "0-2"
+          }
         }
       ]
     },
@@ -1415,63 +1922,87 @@
           "date": "2025-01-10",
           "time": "20:30",
           "home_team": "Team Altamura",
-          "away_team": "Sorrento Calcio"
+          "away_team": "Sorrento Calcio",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-01-11",
           "time": "15:00",
           "home_team": "Taranto FC",
           "away_team": "ACR Messina",
-          "cancelled": true
+          "result": "cancelled"
         },
         {
           "date": "2025-01-11",
           "time": "17:30",
           "home_team": "Casertana FC",
-          "away_team": "AZ Picerno"
+          "away_team": "AZ Picerno",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2025-01-12",
           "time": "15:00",
           "home_team": "Trapani Calcio",
-          "away_team": "FC Crotone"
+          "away_team": "FC Crotone",
+          "result": {
+            "full_time": "0-3"
+          }
         },
         {
           "date": "2025-01-12",
           "time": "15:00",
           "home_team": "Calcio Catania",
-          "away_team": "Juventus II"
+          "away_team": "Juventus II",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2025-01-12",
           "time": "17:30",
           "home_team": "Latina Calcio",
           "away_team": "FC Turris",
-          "cancelled": true
+          "result": "cancelled"
         },
         {
           "date": "2025-01-13",
           "time": "20:30",
           "home_team": "Audace Cerignola",
-          "away_team": "US Avellino"
+          "away_team": "US Avellino",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-01-13",
           "time": "20:30",
           "home_team": "SS Monopoli 1966",
-          "away_team": "Foggia Calcio"
+          "away_team": "Foggia Calcio",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2025-01-13",
           "time": "20:30",
           "home_team": "Cavese",
-          "away_team": "Giugliano"
+          "away_team": "Giugliano",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2025-01-21",
           "time": "19:00",
           "home_team": "Potenza",
-          "away_team": "Benevento Calcio"
+          "away_team": "Benevento Calcio",
+          "result": {
+            "full_time": "3-0"
+          }
         }
       ]
     },
@@ -1482,63 +2013,87 @@
           "date": "2025-01-17",
           "time": "20:30",
           "home_team": "Giugliano",
-          "away_team": "Audace Cerignola"
+          "away_team": "Audace Cerignola",
+          "result": {
+            "full_time": "1-3"
+          }
         },
         {
           "date": "2025-01-18",
           "time": "17:30",
           "home_team": "US Avellino",
-          "away_team": "Cavese"
+          "away_team": "Cavese",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2025-01-18",
           "time": "17:30",
           "home_team": "Sorrento Calcio",
-          "away_team": "Potenza"
+          "away_team": "Potenza",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2025-01-18",
           "time": "17:30",
           "home_team": "Trapani Calcio",
           "away_team": "Taranto FC",
-          "cancelled": true
+          "result": "cancelled"
         },
         {
           "date": "2025-01-18",
           "time": "17:30",
           "home_team": "Benevento Calcio",
-          "away_team": "Team Altamura"
+          "away_team": "Team Altamura",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-01-19",
           "time": "15:00",
           "home_team": "Juventus II",
-          "away_team": "SS Monopoli 1966"
+          "away_team": "SS Monopoli 1966",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2025-01-19",
           "time": "17:30",
           "home_team": "AZ Picerno",
-          "away_team": "Calcio Catania"
+          "away_team": "Calcio Catania",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-01-19",
           "time": "19:30",
           "home_team": "Foggia Calcio",
-          "away_team": "Latina Calcio"
+          "away_team": "Latina Calcio",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2025-01-20",
           "time": "20:30",
           "home_team": "FC Turris",
           "away_team": "Casertana FC",
-          "cancelled": true
+          "result": "cancelled"
         },
         {
           "date": "2025-01-20",
           "time": "20:30",
           "home_team": "ACR Messina",
-          "away_team": "FC Crotone"
+          "away_team": "FC Crotone",
+          "result": {
+            "full_time": "0-2"
+          }
         }
       ]
     },
@@ -1549,63 +2104,87 @@
           "date": "2025-01-25",
           "time": "17:30",
           "home_team": "Casertana FC",
-          "away_team": "ACR Messina"
+          "away_team": "ACR Messina",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-01-25",
           "time": "17:30",
           "home_team": "Potenza",
-          "away_team": "Audace Cerignola"
+          "away_team": "Audace Cerignola",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2025-01-26",
           "time": "12:30",
           "home_team": "Calcio Catania",
-          "away_team": "Giugliano"
+          "away_team": "Giugliano",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2025-01-26",
           "time": "15:00",
           "home_team": "Latina Calcio",
-          "away_team": "US Avellino"
+          "away_team": "US Avellino",
+          "result": {
+            "full_time": "0-3"
+          }
         },
         {
           "date": "2025-01-26",
           "time": "15:00",
           "home_team": "Foggia Calcio",
-          "away_team": "Benevento Calcio"
+          "away_team": "Benevento Calcio",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2025-01-26",
           "time": "15:00",
           "home_team": "Juventus II",
-          "away_team": "Trapani Calcio"
+          "away_team": "Trapani Calcio",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2025-01-26",
           "time": "17:30",
           "home_team": "SS Monopoli 1966",
-          "away_team": "Cavese"
+          "away_team": "Cavese",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2025-01-26",
           "time": "17:30",
           "home_team": "FC Turris",
           "away_team": "Sorrento Calcio",
-          "cancelled": true
+          "result": "cancelled"
         },
         {
           "date": "2025-01-27",
           "time": "20:30",
           "home_team": "FC Crotone",
-          "away_team": "AZ Picerno"
+          "away_team": "AZ Picerno",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2025-01-27",
           "time": "20:30",
           "home_team": "Team Altamura",
           "away_team": "Taranto FC",
-          "cancelled": true
+          "result": "cancelled"
         }
       ]
     },
@@ -1616,63 +2195,87 @@
           "date": "2025-01-31",
           "time": "20:30",
           "home_team": "Giugliano",
-          "away_team": "Foggia Calcio"
+          "away_team": "Foggia Calcio",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2025-01-31",
           "time": "20:30",
           "home_team": "Cavese",
-          "away_team": "Team Altamura"
+          "away_team": "Team Altamura",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-02-01",
           "time": "15:00",
           "home_team": "ACR Messina",
-          "away_team": "Latina Calcio"
+          "away_team": "Latina Calcio",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2025-02-01",
           "time": "15:00",
           "home_team": "Trapani Calcio",
-          "away_team": "Potenza"
+          "away_team": "Potenza",
+          "result": {
+            "full_time": "4-2"
+          }
         },
         {
           "date": "2025-02-01",
           "time": "17:30",
           "home_team": "Sorrento Calcio",
-          "away_team": "FC Crotone"
+          "away_team": "FC Crotone",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2025-02-02",
           "time": "15:00",
           "home_team": "Audace Cerignola",
-          "away_team": "Calcio Catania"
+          "away_team": "Calcio Catania",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2025-02-02",
           "time": "15:00",
           "home_team": "AZ Picerno",
-          "away_team": "Juventus II"
+          "away_team": "Juventus II",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-02-02",
           "time": "15:00",
           "home_team": "US Avellino",
           "away_team": "FC Turris",
-          "cancelled": true
+          "result": "cancelled"
         },
         {
           "date": "2025-02-03",
           "time": "15:00",
           "home_team": "Taranto FC",
           "away_team": "Casertana FC",
-          "cancelled": true
+          "result": "cancelled"
         },
         {
           "date": "2025-02-03",
           "time": "20:30",
           "home_team": "Benevento Calcio",
-          "away_team": "SS Monopoli 1966"
+          "away_team": "SS Monopoli 1966",
+          "result": {
+            "full_time": "0-0"
+          }
         }
       ]
     },
@@ -1683,63 +2286,87 @@
           "date": "2025-02-07",
           "time": "20:30",
           "home_team": "Latina Calcio",
-          "away_team": "Cavese"
+          "away_team": "Cavese",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2025-02-08",
           "time": "15:00",
           "home_team": "ACR Messina",
-          "away_team": "AZ Picerno"
+          "away_team": "AZ Picerno",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2025-02-08",
           "time": "15:00",
           "home_team": "FC Turris",
           "away_team": "Trapani Calcio",
-          "cancelled": true
+          "result": "cancelled"
         },
         {
           "date": "2025-02-08",
           "time": "17:30",
           "home_team": "Foggia Calcio",
-          "away_team": "US Avellino"
+          "away_team": "US Avellino",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2025-02-08",
           "time": "17:30",
           "home_team": "Team Altamura",
-          "away_team": "Giugliano"
+          "away_team": "Giugliano",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2025-02-08",
           "time": "17:30",
           "home_team": "FC Crotone",
-          "away_team": "Potenza"
+          "away_team": "Potenza",
+          "result": {
+            "full_time": "4-1"
+          }
         },
         {
           "date": "2025-02-08",
           "time": "17:30",
           "home_team": "Sorrento Calcio",
           "away_team": "Taranto FC",
-          "cancelled": true
+          "result": "cancelled"
         },
         {
           "date": "2025-02-09",
           "time": "12:30",
           "home_team": "Juventus II",
-          "away_team": "Benevento Calcio"
+          "away_team": "Benevento Calcio",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2025-02-09",
           "time": "15:00",
           "home_team": "SS Monopoli 1966",
-          "away_team": "Calcio Catania"
+          "away_team": "Calcio Catania",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2025-02-10",
           "time": "20:30",
           "home_team": "Casertana FC",
-          "away_team": "Audace Cerignola"
+          "away_team": "Audace Cerignola",
+          "result": {
+            "full_time": "0-1"
+          }
         }
       ]
     },
@@ -1751,62 +2378,86 @@
           "time": "20:30",
           "home_team": "Taranto FC",
           "away_team": "Foggia Calcio",
-          "cancelled": true
+          "result": "cancelled"
         },
         {
           "date": "2025-02-14",
           "time": "20:30",
           "home_team": "Giugliano",
-          "away_team": "Latina Calcio"
+          "away_team": "Latina Calcio",
+          "result": {
+            "full_time": "5-2"
+          }
         },
         {
           "date": "2025-02-15",
           "time": "15:00",
           "home_team": "Benevento Calcio",
-          "away_team": "ACR Messina"
+          "away_team": "ACR Messina",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2025-02-15",
           "time": "17:30",
           "home_team": "Cavese",
-          "away_team": "AZ Picerno"
+          "away_team": "AZ Picerno",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-02-16",
           "time": "12:30",
           "home_team": "Potenza",
-          "away_team": "Juventus II"
+          "away_team": "Juventus II",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-02-16",
           "time": "15:00",
           "home_team": "US Avellino",
-          "away_team": "FC Crotone"
+          "away_team": "FC Crotone",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2025-02-16",
           "time": "15:00",
           "home_team": "Trapani Calcio",
-          "away_team": "Sorrento Calcio"
+          "away_team": "Sorrento Calcio",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2025-02-16",
           "time": "17:30",
           "home_team": "Calcio Catania",
-          "away_team": "Casertana FC"
+          "away_team": "Casertana FC",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-02-16",
           "time": "17:30",
           "home_team": "SS Monopoli 1966",
-          "away_team": "Team Altamura"
+          "away_team": "Team Altamura",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-02-16",
           "time": "17:30",
           "home_team": "Audace Cerignola",
           "away_team": "FC Turris",
-          "cancelled": true
+          "result": "cancelled"
         }
       ]
     },
@@ -1818,62 +2469,86 @@
           "time": "20:30",
           "home_team": "AZ Picerno",
           "away_team": "Taranto FC",
-          "cancelled": true
+          "result": "cancelled"
         },
         {
           "date": "2025-02-22",
           "time": "17:30",
           "home_team": "Casertana FC",
-          "away_team": "US Avellino"
+          "away_team": "US Avellino",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2025-02-22",
           "time": "17:30",
           "home_team": "Latina Calcio",
-          "away_team": "Benevento Calcio"
+          "away_team": "Benevento Calcio",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-02-22",
           "time": "17:30",
           "home_team": "FC Turris",
           "away_team": "Cavese",
-          "cancelled": true
+          "result": "cancelled"
         },
         {
           "date": "2025-02-22",
           "time": "17:30",
           "home_team": "Juventus II",
-          "away_team": "Giugliano"
+          "away_team": "Giugliano",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2025-02-23",
           "time": "15:00",
           "home_team": "Team Altamura",
-          "away_team": "Calcio Catania"
+          "away_team": "Calcio Catania",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-02-23",
           "time": "15:00",
           "home_team": "FC Crotone",
-          "away_team": "SS Monopoli 1966"
+          "away_team": "SS Monopoli 1966",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2025-02-23",
           "time": "15:00",
           "home_team": "Foggia Calcio",
-          "away_team": "Potenza"
+          "away_team": "Potenza",
+          "result": {
+            "full_time": "3-4"
+          }
         },
         {
           "date": "2025-02-23",
           "time": "17:30",
           "home_team": "Sorrento Calcio",
-          "away_team": "Audace Cerignola"
+          "away_team": "Audace Cerignola",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2025-02-24",
           "time": "20:30",
           "home_team": "ACR Messina",
-          "away_team": "Trapani Calcio"
+          "away_team": "Trapani Calcio",
+          "result": {
+            "full_time": "0-1"
+          }
         }
       ]
     },
@@ -1885,62 +2560,86 @@
           "time": "20:30",
           "home_team": "Giugliano",
           "away_team": "FC Turris",
-          "cancelled": true
+          "result": "cancelled"
         },
         {
           "date": "2025-03-01",
           "time": "20:30",
           "home_team": "Taranto FC",
           "away_team": "FC Crotone",
-          "cancelled": true
+          "result": "cancelled"
         },
         {
           "date": "2025-03-01",
           "time": "15:00",
           "home_team": "Team Altamura",
-          "away_team": "Latina Calcio"
+          "away_team": "Latina Calcio",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-03-02",
           "time": "12:30",
           "home_team": "US Avellino",
-          "away_team": "Juventus II"
+          "away_team": "Juventus II",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2025-03-02",
           "time": "15:00",
           "home_team": "SS Monopoli 1966",
-          "away_team": "ACR Messina"
+          "away_team": "ACR Messina",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2025-03-02",
           "time": "15:00",
           "home_team": "Calcio Catania",
-          "away_team": "Foggia Calcio"
+          "away_team": "Foggia Calcio",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-03-02",
           "time": "15:00",
           "home_team": "Audace Cerignola",
-          "away_team": "Trapani Calcio"
+          "away_team": "Trapani Calcio",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2025-03-02",
           "time": "17:30",
           "home_team": "Potenza",
-          "away_team": "AZ Picerno"
+          "away_team": "AZ Picerno",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2025-03-02",
           "time": "17:30",
           "home_team": "Benevento Calcio",
-          "away_team": "Sorrento Calcio"
+          "away_team": "Sorrento Calcio",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-03-03",
           "time": "20:30",
           "home_team": "Cavese",
-          "away_team": "Casertana FC"
+          "away_team": "Casertana FC",
+          "result": {
+            "full_time": "1-0"
+          }
         }
       ]
     },
@@ -1952,61 +2651,88 @@
           "time": "20:30",
           "home_team": "FC Turris",
           "away_team": "Taranto FC",
-          "cancelled": true
+          "result": "cancelled"
         },
         {
           "date": "2025-03-08",
           "time": "15:00",
           "home_team": "ACR Messina",
-          "away_team": "US Avellino"
+          "away_team": "US Avellino",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2025-03-08",
           "time": "15:00",
           "home_team": "Latina Calcio",
-          "away_team": "Calcio Catania"
+          "away_team": "Calcio Catania",
+          "result": {
+            "full_time": "1-4"
+          }
         },
         {
           "date": "2025-03-08",
           "time": "15:00",
           "home_team": "Trapani Calcio",
-          "away_team": "SS Monopoli 1966"
+          "away_team": "SS Monopoli 1966",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2025-03-08",
           "time": "17:30",
           "home_team": "Potenza",
-          "away_team": "Cavese"
+          "away_team": "Cavese",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2025-03-08",
           "time": "17:30",
           "home_team": "Juventus II",
-          "away_team": "Team Altamura"
+          "away_team": "Team Altamura",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2025-03-09",
           "time": "15:00",
           "home_team": "AZ Picerno",
-          "away_team": "Audace Cerignola"
+          "away_team": "Audace Cerignola",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2025-03-09",
           "time": "15:00",
           "home_team": "Foggia Calcio",
-          "away_team": "Sorrento Calcio"
+          "away_team": "Sorrento Calcio",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2025-03-09",
           "time": "17:30",
           "home_team": "FC Crotone",
-          "away_team": "Giugliano"
+          "away_team": "Giugliano",
+          "result": {
+            "full_time": "3-2"
+          }
         },
         {
           "date": "2025-03-09",
           "time": "19:30",
           "home_team": "Casertana FC",
-          "away_team": "Benevento Calcio"
+          "away_team": "Benevento Calcio",
+          "result": {
+            "full_time": "1-1"
+          }
         }
       ]
     },
@@ -2018,62 +2744,86 @@
           "time": "19:30",
           "home_team": "Taranto FC",
           "away_team": "Potenza",
-          "cancelled": true
+          "result": "cancelled"
         },
         {
           "date": "2025-03-12",
           "time": "19:30",
           "home_team": "Calcio Catania",
           "away_team": "FC Turris",
-          "cancelled": true
+          "result": "cancelled"
         },
         {
           "date": "2025-03-12",
           "time": "18:30",
           "home_team": "Cavese",
-          "away_team": "ACR Messina"
+          "away_team": "ACR Messina",
+          "result": {
+            "full_time": "3-3"
+          }
         },
         {
           "date": "2025-03-12",
           "time": "18:30",
           "home_team": "Giugliano",
-          "away_team": "AZ Picerno"
+          "away_team": "AZ Picerno",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2025-03-12",
           "time": "18:30",
           "home_team": "Team Altamura",
-          "away_team": "Casertana FC"
+          "away_team": "Casertana FC",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2025-03-12",
           "time": "18:30",
           "home_team": "Sorrento Calcio",
-          "away_team": "Juventus II"
+          "away_team": "Juventus II",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2025-03-12",
           "time": "18:30",
           "home_team": "SS Monopoli 1966",
-          "away_team": "Latina Calcio"
+          "away_team": "Latina Calcio",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2025-03-12",
           "time": "20:30",
           "home_team": "US Avellino",
-          "away_team": "Trapani Calcio"
+          "away_team": "Trapani Calcio",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2025-03-12",
           "time": "20:45",
           "home_team": "Benevento Calcio",
-          "away_team": "FC Crotone"
+          "away_team": "FC Crotone",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-03-12",
           "time": "20:45",
           "home_team": "Audace Cerignola",
-          "away_team": "Foggia Calcio"
+          "away_team": "Foggia Calcio",
+          "result": {
+            "full_time": "3-2"
+          }
         }
       ]
     },
@@ -2085,62 +2835,86 @@
           "time": "20:45",
           "home_team": "Taranto FC",
           "away_team": "US Avellino",
-          "cancelled": true
+          "result": "cancelled"
         },
         {
           "date": "2025-03-16",
           "time": "20:45",
           "home_team": "FC Turris",
           "away_team": "Benevento Calcio",
-          "cancelled": true
+          "result": "cancelled"
         },
         {
           "date": "2025-03-16",
           "time": "15:00",
           "home_team": "FC Crotone",
-          "away_team": "Audace Cerignola"
+          "away_team": "Audace Cerignola",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2025-03-16",
           "time": "15:00",
           "home_team": "Foggia Calcio",
-          "away_team": "Cavese"
+          "away_team": "Cavese",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2025-03-16",
           "time": "15:00",
           "home_team": "Latina Calcio",
-          "away_team": "Juventus II"
+          "away_team": "Juventus II",
+          "result": {
+            "full_time": "3-2"
+          }
         },
         {
           "date": "2025-03-16",
           "time": "15:00",
           "home_team": "AZ Picerno",
-          "away_team": "SS Monopoli 1966"
+          "away_team": "SS Monopoli 1966",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2025-03-16",
           "time": "17:30",
           "home_team": "Trapani Calcio",
-          "away_team": "Giugliano"
+          "away_team": "Giugliano",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2025-03-16",
           "time": "19:30",
           "home_team": "ACR Messina",
-          "away_team": "Calcio Catania"
+          "away_team": "Calcio Catania",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2025-03-16",
           "time": "20:30",
           "home_team": "Casertana FC",
-          "away_team": "Sorrento Calcio"
+          "away_team": "Sorrento Calcio",
+          "result": {
+            "full_time": "4-0"
+          }
         },
         {
           "date": "2025-03-17",
           "time": "20:30",
           "home_team": "Potenza",
-          "away_team": "Team Altamura"
+          "away_team": "Team Altamura",
+          "result": {
+            "full_time": "3-1"
+          }
         }
       ]
     },
@@ -2151,63 +2925,87 @@
           "date": "2025-03-22",
           "time": "15:00",
           "home_team": "Sorrento Calcio",
-          "away_team": "Latina Calcio"
+          "away_team": "Latina Calcio",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-03-22",
           "time": "15:00",
           "home_team": "Cavese",
-          "away_team": "Trapani Calcio"
+          "away_team": "Trapani Calcio",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2025-03-22",
           "time": "17:30",
           "home_team": "Juventus II",
-          "away_team": "Foggia Calcio"
+          "away_team": "Foggia Calcio",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2025-03-23",
           "time": "17:30",
           "home_team": "Audace Cerignola",
           "away_team": "Taranto FC",
-          "cancelled": true
+          "result": "cancelled"
         },
         {
           "date": "2025-03-23",
           "time": "17:30",
           "home_team": "Team Altamura",
           "away_team": "FC Turris",
-          "cancelled": true
+          "result": "cancelled"
         },
         {
           "date": "2025-03-23",
           "time": "12:30",
           "home_team": "Calcio Catania",
-          "away_team": "FC Crotone"
+          "away_team": "FC Crotone",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2025-03-23",
           "time": "15:00",
           "home_team": "Giugliano",
-          "away_team": "ACR Messina"
+          "away_team": "ACR Messina",
+          "result": {
+            "full_time": "2-3"
+          }
         },
         {
           "date": "2025-03-23",
           "time": "15:00",
           "home_team": "SS Monopoli 1966",
-          "away_team": "Casertana FC"
+          "away_team": "Casertana FC",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2025-03-24",
           "time": "20:30",
           "home_team": "Benevento Calcio",
-          "away_team": "AZ Picerno"
+          "away_team": "AZ Picerno",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2025-03-24",
           "time": "20:30",
           "home_team": "US Avellino",
-          "away_team": "Potenza"
+          "away_team": "Potenza",
+          "result": {
+            "full_time": "1-0"
+          }
         }
       ]
     },
@@ -2219,14 +3017,14 @@
           "time": "20:30",
           "home_team": "Taranto FC",
           "away_team": "Cavese",
-          "cancelled": true
+          "result": "cancelled"
         },
         {
           "date": "2025-03-29",
           "time": "20:30",
           "home_team": "FC Turris",
           "away_team": "Juventus II",
-          "cancelled": true
+          "result": "cancelled"
         },
         {
           "date": "2025-03-29",
@@ -2286,7 +3084,7 @@
           "time": "19:30",
           "home_team": "Foggia Calcio",
           "away_team": "FC Turris",
-          "cancelled": true
+          "result": "cancelled"
         },
         {
           "date": "2025-04-05",
@@ -2311,7 +3109,7 @@
           "time": "15:00",
           "home_team": "Benevento Calcio",
           "away_team": "Taranto FC",
-          "cancelled": true
+          "result": "cancelled"
         },
         {
           "date": "2025-04-06",
@@ -2371,14 +3169,14 @@
           "time": "17:30",
           "home_team": "Taranto FC",
           "away_team": "Juventus II",
-          "cancelled": true
+          "result": "cancelled"
         },
         {
           "date": "2025-04-13",
           "time": "17:30",
           "home_team": "ACR Messina",
           "away_team": "FC Turris",
-          "cancelled": true
+          "result": "cancelled"
         },
         {
           "date": "2025-04-13",
@@ -2438,7 +3236,7 @@
           "time": "20:30",
           "home_team": "FC Turris",
           "away_team": "AZ Picerno",
-          "cancelled": true
+          "result": "cancelled"
         },
         {
           "date": "2025-04-19",
@@ -2469,7 +3267,7 @@
           "time": "20:30",
           "home_team": "Calcio Catania",
           "away_team": "Taranto FC",
-          "cancelled": true
+          "result": "cancelled"
         },
         {
           "date": "2025-04-19",
@@ -2523,7 +3321,7 @@
           "time": "20:30",
           "home_team": "Taranto FC",
           "away_team": "SS Monopoli 1966",
-          "cancelled": true
+          "result": "cancelled"
         },
         {
           "date": "2025-04-27",
@@ -2542,7 +3340,7 @@
           "time": "20:30",
           "home_team": "FC Crotone",
           "away_team": "FC Turris",
-          "cancelled": true
+          "result": "cancelled"
         }
       ]
     }

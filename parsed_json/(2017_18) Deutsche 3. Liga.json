@@ -9,61 +9,91 @@
           "date": "2017-07-21",
           "time": "20:30",
           "home_team": "Karlsruher SC",
-          "away_team": "VfL Osnabrück"
+          "away_team": "VfL Osnabrück",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2017-07-22",
           "time": "14:00",
           "home_team": "Werder Bremen II",
-          "away_team": "SpVgg Unterhaching"
+          "away_team": "SpVgg Unterhaching",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2017-07-22",
           "time": "14:00",
           "home_team": "Rot-Weiß Erfurt",
-          "away_team": "Preußen Münster"
+          "away_team": "Preußen Münster",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2017-07-22",
           "time": "14:00",
           "home_team": "Sportfreunde Lotte",
-          "away_team": "Hansa Rostock"
+          "away_team": "Hansa Rostock",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2017-07-22",
           "time": "14:00",
           "home_team": "Hallescher FC",
-          "away_team": "SC Paderborn 07"
+          "away_team": "SC Paderborn 07",
+          "result": {
+            "full_time": "4-4"
+          }
         },
         {
           "date": "2017-07-22",
           "time": "14:00",
           "home_team": "Fortuna Köln",
-          "away_team": "VfR Aalen"
+          "away_team": "VfR Aalen",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2017-07-22",
           "time": "14:00",
           "home_team": "SV Wehen Wiesbaden",
-          "away_team": "FC Carl Zeiss Jena"
+          "away_team": "FC Carl Zeiss Jena",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2017-07-22",
           "time": "14:00",
           "home_team": "SV Meppen",
-          "away_team": "Würzburger Kickers"
+          "away_team": "Würzburger Kickers",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2017-07-23",
           "time": "14:00",
           "home_team": "SG Sonnenhof Großaspach",
-          "away_team": "1. FC Magdeburg"
+          "away_team": "1. FC Magdeburg",
+          "result": {
+            "full_time": "4-1"
+          }
         },
         {
           "date": "2017-07-23",
           "time": "14:00",
           "home_team": "Chemnitzer FC",
-          "away_team": "FSV Zwickau"
+          "away_team": "FSV Zwickau",
+          "result": {
+            "full_time": "1-0"
+          }
         }
       ]
     },
@@ -74,61 +104,91 @@
           "date": "2017-07-28",
           "time": "19:00",
           "home_team": "VfL Osnabrück",
-          "away_team": "SV Wehen Wiesbaden"
+          "away_team": "SV Wehen Wiesbaden",
+          "result": {
+            "full_time": "0-4"
+          }
         },
         {
           "date": "2017-07-28",
           "time": "19:00",
           "home_team": "SpVgg Unterhaching",
-          "away_team": "Karlsruher SC"
+          "away_team": "Karlsruher SC",
+          "result": {
+            "full_time": "3-2"
+          }
         },
         {
           "date": "2017-07-29",
           "time": "14:00",
           "home_team": "FC Carl Zeiss Jena",
-          "away_team": "Fortuna Köln"
+          "away_team": "Fortuna Köln",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2017-07-29",
           "time": "14:00",
           "home_team": "VfR Aalen",
-          "away_team": "Hallescher FC"
+          "away_team": "Hallescher FC",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2017-07-29",
           "time": "14:00",
           "home_team": "SC Paderborn 07",
-          "away_team": "Chemnitzer FC"
+          "away_team": "Chemnitzer FC",
+          "result": {
+            "full_time": "3-2"
+          }
         },
         {
           "date": "2017-07-29",
           "time": "14:00",
           "home_team": "FSV Zwickau",
-          "away_team": "Sportfreunde Lotte"
+          "away_team": "Sportfreunde Lotte",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2017-07-29",
           "time": "14:00",
           "home_team": "Hansa Rostock",
-          "away_team": "SG Sonnenhof Großaspach"
+          "away_team": "SG Sonnenhof Großaspach",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2017-07-29",
           "time": "14:00",
           "home_team": "1. FC Magdeburg",
-          "away_team": "Rot-Weiß Erfurt"
+          "away_team": "Rot-Weiß Erfurt",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2017-07-29",
           "time": "14:00",
           "home_team": "Preußen Münster",
-          "away_team": "SV Meppen"
+          "away_team": "SV Meppen",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2017-07-30",
           "time": "14:00",
           "home_team": "Würzburger Kickers",
-          "away_team": "Werder Bremen II"
+          "away_team": "Werder Bremen II",
+          "result": {
+            "full_time": "1-1"
+          }
         }
       ]
     },
@@ -139,61 +199,91 @@
           "date": "2017-08-01",
           "time": "19:00",
           "home_team": "Rot-Weiß Erfurt",
-          "away_team": "Hansa Rostock"
+          "away_team": "Hansa Rostock",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2017-08-01",
           "time": "19:00",
           "home_team": "SG Sonnenhof Großaspach",
-          "away_team": "FSV Zwickau"
+          "away_team": "FSV Zwickau",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2017-08-01",
           "time": "19:00",
           "home_team": "Sportfreunde Lotte",
-          "away_team": "SC Paderborn 07"
+          "away_team": "SC Paderborn 07",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2017-08-01",
           "time": "19:00",
           "home_team": "Hallescher FC",
-          "away_team": "FC Carl Zeiss Jena"
+          "away_team": "FC Carl Zeiss Jena",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2017-08-01",
           "time": "19:00",
           "home_team": "SV Wehen Wiesbaden",
-          "away_team": "SpVgg Unterhaching"
+          "away_team": "SpVgg Unterhaching",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2017-08-02",
           "time": "19:00",
           "home_team": "Werder Bremen II",
-          "away_team": "Karlsruher SC"
+          "away_team": "Karlsruher SC",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2017-08-02",
           "time": "19:00",
           "home_team": "Chemnitzer FC",
-          "away_team": "VfR Aalen"
+          "away_team": "VfR Aalen",
+          "result": {
+            "full_time": "2-4"
+          }
         },
         {
           "date": "2017-08-02",
           "time": "19:00",
           "home_team": "Fortuna Köln",
-          "away_team": "VfL Osnabrück"
+          "away_team": "VfL Osnabrück",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2017-08-02",
           "time": "19:00",
           "home_team": "Würzburger Kickers",
-          "away_team": "Preußen Münster"
+          "away_team": "Preußen Münster",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2017-08-02",
           "time": "19:00",
           "home_team": "SV Meppen",
-          "away_team": "1. FC Magdeburg"
+          "away_team": "1. FC Magdeburg",
+          "result": {
+            "full_time": "1-2"
+          }
         }
       ]
     },
@@ -204,61 +294,91 @@
           "date": "2017-08-04",
           "time": "19:00",
           "home_team": "FSV Zwickau",
-          "away_team": "Rot-Weiß Erfurt"
+          "away_team": "Rot-Weiß Erfurt",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2017-08-05",
           "time": "14:00",
           "home_team": "FC Carl Zeiss Jena",
-          "away_team": "Chemnitzer FC"
+          "away_team": "Chemnitzer FC",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2017-08-05",
           "time": "14:00",
           "home_team": "VfR Aalen",
-          "away_team": "Sportfreunde Lotte"
+          "away_team": "Sportfreunde Lotte",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2017-08-05",
           "time": "14:00",
           "home_team": "SC Paderborn 07",
-          "away_team": "SG Sonnenhof Großaspach"
+          "away_team": "SG Sonnenhof Großaspach",
+          "result": {
+            "full_time": "5-0"
+          }
         },
         {
           "date": "2017-08-05",
           "time": "14:00",
           "home_team": "Hansa Rostock",
-          "away_team": "SV Meppen"
+          "away_team": "SV Meppen",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2017-08-05",
           "time": "14:00",
           "home_team": "Preußen Münster",
-          "away_team": "Werder Bremen II"
+          "away_team": "Werder Bremen II",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2017-08-05",
           "time": "14:00",
           "home_team": "Karlsruher SC",
-          "away_team": "SV Wehen Wiesbaden"
+          "away_team": "SV Wehen Wiesbaden",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2017-08-05",
           "time": "14:00",
           "home_team": "SpVgg Unterhaching",
-          "away_team": "Fortuna Köln"
+          "away_team": "Fortuna Köln",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2017-08-06",
           "time": "14:00",
           "home_team": "VfL Osnabrück",
-          "away_team": "Hallescher FC"
+          "away_team": "Hallescher FC",
+          "result": {
+            "full_time": "3-3"
+          }
         },
         {
           "date": "2017-08-06",
           "time": "14:00",
           "home_team": "1. FC Magdeburg",
-          "away_team": "Würzburger Kickers"
+          "away_team": "Würzburger Kickers",
+          "result": {
+            "full_time": "2-1"
+          }
         }
       ]
     },
@@ -269,61 +389,91 @@
           "date": "2017-08-18",
           "time": "19:00",
           "home_team": "Fortuna Köln",
-          "away_team": "Karlsruher SC"
+          "away_team": "Karlsruher SC",
+          "result": {
+            "full_time": "4-0"
+          }
         },
         {
           "date": "2017-08-18",
           "time": "19:00",
           "home_team": "SV Meppen",
-          "away_team": "FSV Zwickau"
+          "away_team": "FSV Zwickau",
+          "result": {
+            "full_time": "4-0"
+          }
         },
         {
           "date": "2017-08-19",
           "time": "14:00",
           "home_team": "Werder Bremen II",
-          "away_team": "SV Wehen Wiesbaden"
+          "away_team": "SV Wehen Wiesbaden",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2017-08-19",
           "time": "14:00",
           "home_team": "Rot-Weiß Erfurt",
-          "away_team": "SC Paderborn 07"
+          "away_team": "SC Paderborn 07",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2017-08-19",
           "time": "14:00",
           "home_team": "SG Sonnenhof Großaspach",
-          "away_team": "VfR Aalen"
+          "away_team": "VfR Aalen",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2017-08-19",
           "time": "14:00",
           "home_team": "Chemnitzer FC",
-          "away_team": "VfL Osnabrück"
+          "away_team": "VfL Osnabrück",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2017-08-19",
           "time": "14:00",
           "home_team": "Hallescher FC",
-          "away_team": "SpVgg Unterhaching"
+          "away_team": "SpVgg Unterhaching",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2017-08-19",
           "time": "14:00",
           "home_team": "Preußen Münster",
-          "away_team": "1. FC Magdeburg"
+          "away_team": "1. FC Magdeburg",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2017-08-20",
           "time": "14:00",
           "home_team": "Sportfreunde Lotte",
-          "away_team": "FC Carl Zeiss Jena"
+          "away_team": "FC Carl Zeiss Jena",
+          "result": {
+            "full_time": "4-0"
+          }
         },
         {
           "date": "2017-08-20",
           "time": "14:00",
           "home_team": "Würzburger Kickers",
-          "away_team": "Hansa Rostock"
+          "away_team": "Hansa Rostock",
+          "result": {
+            "full_time": "0-3"
+          }
         }
       ]
     },
@@ -334,61 +484,91 @@
           "date": "2017-08-25",
           "time": "19:00",
           "home_team": "SC Paderborn 07",
-          "away_team": "SV Meppen"
+          "away_team": "SV Meppen",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2017-08-26",
           "time": "14:00",
           "home_team": "VfL Osnabrück",
-          "away_team": "Sportfreunde Lotte"
+          "away_team": "Sportfreunde Lotte",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2017-08-26",
           "time": "14:00",
           "home_team": "FC Carl Zeiss Jena",
-          "away_team": "SG Sonnenhof Großaspach"
+          "away_team": "SG Sonnenhof Großaspach",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2017-08-26",
           "time": "14:00",
           "home_team": "VfR Aalen",
-          "away_team": "Rot-Weiß Erfurt"
+          "away_team": "Rot-Weiß Erfurt",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2017-08-26",
           "time": "14:00",
           "home_team": "1. FC Magdeburg",
-          "away_team": "Werder Bremen II"
+          "away_team": "Werder Bremen II",
+          "result": {
+            "full_time": "4-1"
+          }
         },
         {
           "date": "2017-08-26",
           "time": "14:00",
           "home_team": "SV Wehen Wiesbaden",
-          "away_team": "Fortuna Köln"
+          "away_team": "Fortuna Köln",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2017-08-26",
           "time": "14:00",
           "home_team": "SpVgg Unterhaching",
-          "away_team": "Chemnitzer FC"
+          "away_team": "Chemnitzer FC",
+          "result": {
+            "full_time": "4-2"
+          }
         },
         {
           "date": "2017-08-26",
           "time": "14:05",
           "home_team": "Karlsruher SC",
-          "away_team": "Hallescher FC"
+          "away_team": "Hallescher FC",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2017-08-27",
           "time": "14:00",
           "home_team": "FSV Zwickau",
-          "away_team": "Würzburger Kickers"
+          "away_team": "Würzburger Kickers",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2017-08-27",
           "time": "14:00",
           "home_team": "Hansa Rostock",
-          "away_team": "Preußen Münster"
+          "away_team": "Preußen Münster",
+          "result": {
+            "full_time": "1-1"
+          }
         }
       ]
     },
@@ -399,61 +579,91 @@
           "date": "2017-09-08",
           "time": "19:00",
           "home_team": "Werder Bremen II",
-          "away_team": "Fortuna Köln"
+          "away_team": "Fortuna Köln",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2017-09-08",
           "time": "19:00",
           "home_team": "Preußen Münster",
-          "away_team": "FSV Zwickau"
+          "away_team": "FSV Zwickau",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2017-09-09",
           "time": "14:00",
           "home_team": "Rot-Weiß Erfurt",
-          "away_team": "FC Carl Zeiss Jena"
+          "away_team": "FC Carl Zeiss Jena",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2017-09-09",
           "time": "14:00",
           "home_team": "SG Sonnenhof Großaspach",
-          "away_team": "VfL Osnabrück"
+          "away_team": "VfL Osnabrück",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2017-09-09",
           "time": "14:00",
           "home_team": "Sportfreunde Lotte",
-          "away_team": "SpVgg Unterhaching"
+          "away_team": "SpVgg Unterhaching",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2017-09-09",
           "time": "14:00",
           "home_team": "Chemnitzer FC",
-          "away_team": "Karlsruher SC"
+          "away_team": "Karlsruher SC",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2017-09-09",
           "time": "14:00",
           "home_team": "Hallescher FC",
-          "away_team": "SV Wehen Wiesbaden"
+          "away_team": "SV Wehen Wiesbaden",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2017-09-09",
           "time": "14:00",
           "home_team": "1. FC Magdeburg",
-          "away_team": "Hansa Rostock"
+          "away_team": "Hansa Rostock",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2017-09-09",
           "time": "14:00",
           "home_team": "Würzburger Kickers",
-          "away_team": "SC Paderborn 07"
+          "away_team": "SC Paderborn 07",
+          "result": {
+            "full_time": "2-3"
+          }
         },
         {
           "date": "2017-09-10",
           "time": "14:00",
           "home_team": "SV Meppen",
-          "away_team": "VfR Aalen"
+          "away_team": "VfR Aalen",
+          "result": {
+            "full_time": "1-1"
+          }
         }
       ]
     },
@@ -464,61 +674,91 @@
           "date": "2017-09-15",
           "time": "19:00",
           "home_team": "VfL Osnabrück",
-          "away_team": "Rot-Weiß Erfurt"
+          "away_team": "Rot-Weiß Erfurt",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2017-09-15",
           "time": "19:00",
           "home_team": "FSV Zwickau",
-          "away_team": "1. FC Magdeburg"
+          "away_team": "1. FC Magdeburg",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2017-09-15",
           "time": "19:00",
           "home_team": "SV Wehen Wiesbaden",
-          "away_team": "Chemnitzer FC"
+          "away_team": "Chemnitzer FC",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2017-09-16",
           "time": "14:00",
           "home_team": "FC Carl Zeiss Jena",
-          "away_team": "SV Meppen"
+          "away_team": "SV Meppen",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2017-09-16",
           "time": "14:00",
           "home_team": "VfR Aalen",
-          "away_team": "Würzburger Kickers"
+          "away_team": "Würzburger Kickers",
+          "result": {
+            "full_time": "2-3"
+          }
         },
         {
           "date": "2017-09-16",
           "time": "14:00",
           "home_team": "SC Paderborn 07",
-          "away_team": "Preußen Münster"
+          "away_team": "Preußen Münster",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2017-09-16",
           "time": "14:00",
           "home_team": "Hansa Rostock",
-          "away_team": "Werder Bremen II"
+          "away_team": "Werder Bremen II",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2017-09-16",
           "time": "14:00",
           "home_team": "Fortuna Köln",
-          "away_team": "Hallescher FC"
+          "away_team": "Hallescher FC",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2017-09-16",
           "time": "14:00",
           "home_team": "Karlsruher SC",
-          "away_team": "Sportfreunde Lotte"
+          "away_team": "Sportfreunde Lotte",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2017-09-16",
           "time": "14:00",
           "home_team": "SpVgg Unterhaching",
-          "away_team": "SG Sonnenhof Großaspach"
+          "away_team": "SG Sonnenhof Großaspach",
+          "result": {
+            "full_time": "1-4"
+          }
         }
       ]
     },
@@ -529,61 +769,91 @@
           "date": "2017-09-19",
           "time": "19:00",
           "home_team": "Werder Bremen II",
-          "away_team": "Hallescher FC"
+          "away_team": "Hallescher FC",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2017-09-19",
           "time": "19:00",
           "home_team": "SG Sonnenhof Großaspach",
-          "away_team": "Karlsruher SC"
+          "away_team": "Karlsruher SC",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2017-09-19",
           "time": "19:00",
           "home_team": "Sportfreunde Lotte",
-          "away_team": "SV Wehen Wiesbaden"
+          "away_team": "SV Wehen Wiesbaden",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2017-09-19",
           "time": "19:00",
           "home_team": "Hansa Rostock",
-          "away_team": "FSV Zwickau"
+          "away_team": "FSV Zwickau",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2017-09-19",
           "time": "19:00",
           "home_team": "1. FC Magdeburg",
-          "away_team": "SC Paderborn 07"
+          "away_team": "SC Paderborn 07",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2017-09-20",
           "time": "18:30",
           "home_team": "SV Meppen",
-          "away_team": "VfL Osnabrück"
+          "away_team": "VfL Osnabrück",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2017-09-20",
           "time": "19:00",
           "home_team": "Rot-Weiß Erfurt",
-          "away_team": "SpVgg Unterhaching"
+          "away_team": "SpVgg Unterhaching",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2017-09-20",
           "time": "19:00",
           "home_team": "Chemnitzer FC",
-          "away_team": "Fortuna Köln"
+          "away_team": "Fortuna Köln",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2017-09-20",
           "time": "19:00",
           "home_team": "Preußen Münster",
-          "away_team": "VfR Aalen"
+          "away_team": "VfR Aalen",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2017-09-20",
           "time": "19:00",
           "home_team": "Würzburger Kickers",
-          "away_team": "FC Carl Zeiss Jena"
+          "away_team": "FC Carl Zeiss Jena",
+          "result": {
+            "full_time": "2-2"
+          }
         }
       ]
     },
@@ -594,61 +864,91 @@
           "date": "2017-09-22",
           "time": "19:00",
           "home_team": "SC Paderborn 07",
-          "away_team": "Hansa Rostock"
+          "away_team": "Hansa Rostock",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2017-09-23",
           "time": "14:00",
           "home_team": "VfL Osnabrück",
-          "away_team": "Würzburger Kickers"
+          "away_team": "Würzburger Kickers",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2017-09-23",
           "time": "14:00",
           "home_team": "FC Carl Zeiss Jena",
-          "away_team": "Preußen Münster"
+          "away_team": "Preußen Münster",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2017-09-23",
           "time": "14:00",
           "home_team": "FSV Zwickau",
-          "away_team": "Werder Bremen II"
+          "away_team": "Werder Bremen II",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2017-09-23",
           "time": "14:00",
           "home_team": "Fortuna Köln",
-          "away_team": "Sportfreunde Lotte"
+          "away_team": "Sportfreunde Lotte",
+          "result": {
+            "full_time": "0-3"
+          }
         },
         {
           "date": "2017-09-23",
           "time": "14:00",
           "home_team": "SV Wehen Wiesbaden",
-          "away_team": "SG Sonnenhof Großaspach"
+          "away_team": "SG Sonnenhof Großaspach",
+          "result": {
+            "full_time": "5-0"
+          }
         },
         {
           "date": "2017-09-23",
           "time": "14:00",
           "home_team": "SpVgg Unterhaching",
-          "away_team": "SV Meppen"
+          "away_team": "SV Meppen",
+          "result": {
+            "full_time": "4-0"
+          }
         },
         {
           "date": "2017-09-23",
           "time": "14:05",
           "home_team": "Hallescher FC",
-          "away_team": "Chemnitzer FC"
+          "away_team": "Chemnitzer FC",
+          "result": {
+            "full_time": "0-3"
+          }
         },
         {
           "date": "2017-09-24",
           "time": "14:00",
           "home_team": "VfR Aalen",
-          "away_team": "1. FC Magdeburg"
+          "away_team": "1. FC Magdeburg",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2017-09-24",
           "time": "14:00",
           "home_team": "Karlsruher SC",
-          "away_team": "Rot-Weiß Erfurt"
+          "away_team": "Rot-Weiß Erfurt",
+          "result": {
+            "full_time": "2-0"
+          }
         }
       ]
     },
@@ -659,61 +959,91 @@
           "date": "2017-09-29",
           "time": "19:00",
           "home_team": "Sportfreunde Lotte",
-          "away_team": "Hallescher FC"
+          "away_team": "Hallescher FC",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2017-09-30",
           "time": "14:00",
           "home_team": "Werder Bremen II",
-          "away_team": "Chemnitzer FC"
+          "away_team": "Chemnitzer FC",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2017-09-30",
           "time": "14:00",
           "home_team": "SG Sonnenhof Großaspach",
-          "away_team": "Fortuna Köln"
+          "away_team": "Fortuna Köln",
+          "result": {
+            "full_time": "1-3"
+          }
         },
         {
           "date": "2017-09-30",
           "time": "14:00",
           "home_team": "Hansa Rostock",
-          "away_team": "VfR Aalen"
+          "away_team": "VfR Aalen",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2017-09-30",
           "time": "14:00",
           "home_team": "Preußen Münster",
-          "away_team": "VfL Osnabrück"
+          "away_team": "VfL Osnabrück",
+          "result": {
+            "full_time": "4-1"
+          }
         },
         {
           "date": "2017-09-30",
           "time": "14:00",
           "home_team": "Würzburger Kickers",
-          "away_team": "SpVgg Unterhaching"
+          "away_team": "SpVgg Unterhaching",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2017-09-30",
           "time": "14:05",
           "home_team": "Rot-Weiß Erfurt",
-          "away_team": "SV Wehen Wiesbaden"
+          "away_team": "SV Wehen Wiesbaden",
+          "result": {
+            "full_time": "1-3"
+          }
         },
         {
           "date": "2017-10-01",
           "time": "14:00",
           "home_team": "FSV Zwickau",
-          "away_team": "SC Paderborn 07"
+          "away_team": "SC Paderborn 07",
+          "result": {
+            "full_time": "1-3"
+          }
         },
         {
           "date": "2017-10-01",
           "time": "14:00",
           "home_team": "1. FC Magdeburg",
-          "away_team": "FC Carl Zeiss Jena"
+          "away_team": "FC Carl Zeiss Jena",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2017-10-01",
           "time": "14:00",
           "home_team": "SV Meppen",
-          "away_team": "Karlsruher SC"
+          "away_team": "Karlsruher SC",
+          "result": {
+            "full_time": "2-0"
+          }
         }
       ]
     },
@@ -724,61 +1054,91 @@
           "date": "2017-10-13",
           "time": "19:00",
           "home_team": "VfL Osnabrück",
-          "away_team": "1. FC Magdeburg"
+          "away_team": "1. FC Magdeburg",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2017-10-13",
           "time": "19:00",
           "home_team": "Hallescher FC",
-          "away_team": "SG Sonnenhof Großaspach"
+          "away_team": "SG Sonnenhof Großaspach",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2017-10-13",
           "time": "19:00",
           "home_team": "Fortuna Köln",
-          "away_team": "Rot-Weiß Erfurt"
+          "away_team": "Rot-Weiß Erfurt",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2017-10-14",
           "time": "14:00",
           "home_team": "FC Carl Zeiss Jena",
-          "away_team": "Hansa Rostock"
+          "away_team": "Hansa Rostock",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2017-10-14",
           "time": "14:00",
           "home_team": "VfR Aalen",
-          "away_team": "FSV Zwickau"
+          "away_team": "FSV Zwickau",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2017-10-14",
           "time": "14:00",
           "home_team": "SC Paderborn 07",
-          "away_team": "Werder Bremen II"
+          "away_team": "Werder Bremen II",
+          "result": {
+            "full_time": "7-1"
+          }
         },
         {
           "date": "2017-10-14",
           "time": "14:00",
           "home_team": "Chemnitzer FC",
-          "away_team": "Sportfreunde Lotte"
+          "away_team": "Sportfreunde Lotte",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2017-10-14",
           "time": "14:00",
           "home_team": "SV Wehen Wiesbaden",
-          "away_team": "SV Meppen"
+          "away_team": "SV Meppen",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2017-10-14",
           "time": "14:00",
           "home_team": "Karlsruher SC",
-          "away_team": "Würzburger Kickers"
+          "away_team": "Würzburger Kickers",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2017-10-14",
           "time": "14:00",
           "home_team": "SpVgg Unterhaching",
-          "away_team": "Preußen Münster"
+          "away_team": "Preußen Münster",
+          "result": {
+            "full_time": "1-0"
+          }
         }
       ]
     },
@@ -789,61 +1149,91 @@
           "date": "2017-10-20",
           "time": "19:00",
           "home_team": "SG Sonnenhof Großaspach",
-          "away_team": "Chemnitzer FC"
+          "away_team": "Chemnitzer FC",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2017-10-20",
           "time": "19:00",
           "home_team": "Hansa Rostock",
-          "away_team": "VfL Osnabrück"
+          "away_team": "VfL Osnabrück",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2017-10-21",
           "time": "14:00",
           "home_team": "Werder Bremen II",
-          "away_team": "Sportfreunde Lotte"
+          "away_team": "Sportfreunde Lotte",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2017-10-21",
           "time": "14:00",
           "home_team": "Rot-Weiß Erfurt",
-          "away_team": "Hallescher FC"
+          "away_team": "Hallescher FC",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2017-10-21",
           "time": "14:00",
           "home_team": "SC Paderborn 07",
-          "away_team": "VfR Aalen"
+          "away_team": "VfR Aalen",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2017-10-21",
           "time": "14:00",
           "home_team": "1. FC Magdeburg",
-          "away_team": "SpVgg Unterhaching"
+          "away_team": "SpVgg Unterhaching",
+          "result": {
+            "full_time": "0-3"
+          }
         },
         {
           "date": "2017-10-21",
           "time": "14:00",
           "home_team": "Preußen Münster",
-          "away_team": "Karlsruher SC"
+          "away_team": "Karlsruher SC",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2017-10-21",
           "time": "14:00",
           "home_team": "Würzburger Kickers",
-          "away_team": "SV Wehen Wiesbaden"
+          "away_team": "SV Wehen Wiesbaden",
+          "result": {
+            "full_time": "0-5"
+          }
         },
         {
           "date": "2017-10-21",
           "time": "14:00",
           "home_team": "SV Meppen",
-          "away_team": "Fortuna Köln"
+          "away_team": "Fortuna Köln",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2017-10-22",
           "time": "14:00",
           "home_team": "FSV Zwickau",
-          "away_team": "FC Carl Zeiss Jena"
+          "away_team": "FC Carl Zeiss Jena",
+          "result": {
+            "full_time": "2-1"
+          }
         }
       ]
     },
@@ -854,61 +1244,91 @@
           "date": "2017-10-27",
           "time": "19:00",
           "home_team": "Chemnitzer FC",
-          "away_team": "Rot-Weiß Erfurt"
+          "away_team": "Rot-Weiß Erfurt",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2017-10-27",
           "time": "19:00",
           "home_team": "SpVgg Unterhaching",
-          "away_team": "Hansa Rostock"
+          "away_team": "Hansa Rostock",
+          "result": {
+            "full_time": "0-3"
+          }
         },
         {
           "date": "2017-10-28",
           "time": "14:00",
           "home_team": "VfL Osnabrück",
-          "away_team": "FSV Zwickau"
+          "away_team": "FSV Zwickau",
+          "result": {
+            "full_time": "4-0"
+          }
         },
         {
           "date": "2017-10-28",
           "time": "14:00",
           "home_team": "FC Carl Zeiss Jena",
-          "away_team": "SC Paderborn 07"
+          "away_team": "SC Paderborn 07",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2017-10-28",
           "time": "14:00",
           "home_team": "VfR Aalen",
-          "away_team": "Werder Bremen II"
+          "away_team": "Werder Bremen II",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2017-10-28",
           "time": "14:00",
           "home_team": "Sportfreunde Lotte",
-          "away_team": "SG Sonnenhof Großaspach"
+          "away_team": "SG Sonnenhof Großaspach",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2017-10-28",
           "time": "14:00",
           "home_team": "Hallescher FC",
-          "away_team": "SV Meppen"
+          "away_team": "SV Meppen",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2017-10-28",
           "time": "14:00",
           "home_team": "Fortuna Köln",
-          "away_team": "Würzburger Kickers"
+          "away_team": "Würzburger Kickers",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2017-10-29",
           "time": "14:00",
           "home_team": "SV Wehen Wiesbaden",
-          "away_team": "Preußen Münster"
+          "away_team": "Preußen Münster",
+          "result": {
+            "full_time": "6-2"
+          }
         },
         {
           "date": "2017-10-29",
           "time": "14:00",
           "home_team": "Karlsruher SC",
-          "away_team": "1. FC Magdeburg"
+          "away_team": "1. FC Magdeburg",
+          "result": {
+            "full_time": "1-0"
+          }
         }
       ]
     },
@@ -919,61 +1339,91 @@
           "date": "2017-11-03",
           "time": "19:00",
           "home_team": "Werder Bremen II",
-          "away_team": "SG Sonnenhof Großaspach"
+          "away_team": "SG Sonnenhof Großaspach",
+          "result": {
+            "full_time": "0-5"
+          }
         },
         {
           "date": "2017-11-03",
           "time": "19:00",
           "home_team": "Preußen Münster",
-          "away_team": "Fortuna Köln"
+          "away_team": "Fortuna Köln",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2017-11-04",
           "time": "14:00",
           "home_team": "VfR Aalen",
-          "away_team": "FC Carl Zeiss Jena"
+          "away_team": "FC Carl Zeiss Jena",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2017-11-04",
           "time": "14:00",
           "home_team": "SC Paderborn 07",
-          "away_team": "VfL Osnabrück"
+          "away_team": "VfL Osnabrück",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2017-11-04",
           "time": "14:00",
           "home_team": "FSV Zwickau",
-          "away_team": "SpVgg Unterhaching"
+          "away_team": "SpVgg Unterhaching",
+          "result": {
+            "full_time": "1-3"
+          }
         },
         {
           "date": "2017-11-04",
           "time": "14:00",
           "home_team": "1. FC Magdeburg",
-          "away_team": "SV Wehen Wiesbaden"
+          "away_team": "SV Wehen Wiesbaden",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2017-11-04",
           "time": "14:00",
           "home_team": "Würzburger Kickers",
-          "away_team": "Hallescher FC"
+          "away_team": "Hallescher FC",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2017-11-04",
           "time": "14:00",
           "home_team": "SV Meppen",
-          "away_team": "Chemnitzer FC"
+          "away_team": "Chemnitzer FC",
+          "result": {
+            "full_time": "3-2"
+          }
         },
         {
           "date": "2017-11-05",
           "time": "14:00",
           "home_team": "Rot-Weiß Erfurt",
-          "away_team": "Sportfreunde Lotte"
+          "away_team": "Sportfreunde Lotte",
+          "result": {
+            "full_time": "2-3"
+          }
         },
         {
           "date": "2017-11-05",
           "time": "14:00",
           "home_team": "Hansa Rostock",
-          "away_team": "Karlsruher SC"
+          "away_team": "Karlsruher SC",
+          "result": {
+            "full_time": "0-3"
+          }
         }
       ]
     },
@@ -984,61 +1434,91 @@
           "date": "2017-11-17",
           "time": "19:00",
           "home_team": "VfL Osnabrück",
-          "away_team": "VfR Aalen"
+          "away_team": "VfR Aalen",
+          "result": {
+            "full_time": "4-1"
+          }
         },
         {
           "date": "2017-11-17",
           "time": "19:00",
           "home_team": "Hallescher FC",
-          "away_team": "Preußen Münster"
+          "away_team": "Preußen Münster",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2017-11-17",
           "time": "19:00",
           "home_team": "SV Wehen Wiesbaden",
-          "away_team": "Hansa Rostock"
+          "away_team": "Hansa Rostock",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2017-11-18",
           "time": "14:00",
           "home_team": "FC Carl Zeiss Jena",
-          "away_team": "Werder Bremen II"
+          "away_team": "Werder Bremen II",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2017-11-18",
           "time": "14:00",
           "home_team": "SG Sonnenhof Großaspach",
-          "away_team": "Rot-Weiß Erfurt"
+          "away_team": "Rot-Weiß Erfurt",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2017-11-18",
           "time": "14:00",
           "home_team": "Sportfreunde Lotte",
-          "away_team": "SV Meppen"
+          "away_team": "SV Meppen",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2017-11-18",
           "time": "14:00",
           "home_team": "Chemnitzer FC",
-          "away_team": "Würzburger Kickers"
+          "away_team": "Würzburger Kickers",
+          "result": {
+            "full_time": "0-3"
+          }
         },
         {
           "date": "2017-11-18",
           "time": "14:00",
           "home_team": "Fortuna Köln",
-          "away_team": "1. FC Magdeburg"
+          "away_team": "1. FC Magdeburg",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2017-11-18",
           "time": "14:00",
           "home_team": "SpVgg Unterhaching",
-          "away_team": "SC Paderborn 07"
+          "away_team": "SC Paderborn 07",
+          "result": {
+            "full_time": "0-3"
+          }
         },
         {
           "date": "2017-11-18",
           "time": "14:30",
           "home_team": "Karlsruher SC",
-          "away_team": "FSV Zwickau"
+          "away_team": "FSV Zwickau",
+          "result": {
+            "full_time": "1-0"
+          }
         }
       ]
     },
@@ -1049,61 +1529,91 @@
           "date": "2017-11-24",
           "time": "19:00",
           "home_team": "SC Paderborn 07",
-          "away_team": "Karlsruher SC"
+          "away_team": "Karlsruher SC",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2017-11-24",
           "time": "19:00",
           "home_team": "Preußen Münster",
-          "away_team": "Chemnitzer FC"
+          "away_team": "Chemnitzer FC",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2017-11-24",
           "time": "19:00",
           "home_team": "SV Meppen",
-          "away_team": "SG Sonnenhof Großaspach"
+          "away_team": "SG Sonnenhof Großaspach",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2017-11-25",
           "time": "14:00",
           "home_team": "Werder Bremen II",
-          "away_team": "Rot-Weiß Erfurt"
+          "away_team": "Rot-Weiß Erfurt",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2017-11-25",
           "time": "14:00",
           "home_team": "FC Carl Zeiss Jena",
-          "away_team": "VfL Osnabrück"
+          "away_team": "VfL Osnabrück",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2017-11-25",
           "time": "14:00",
           "home_team": "VfR Aalen",
-          "away_team": "SpVgg Unterhaching"
+          "away_team": "SpVgg Unterhaching",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2017-11-25",
           "time": "14:00",
           "home_team": "FSV Zwickau",
-          "away_team": "SV Wehen Wiesbaden"
+          "away_team": "SV Wehen Wiesbaden",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2017-11-25",
           "time": "14:00",
           "home_team": "Hansa Rostock",
-          "away_team": "Fortuna Köln"
+          "away_team": "Fortuna Köln",
+          "result": {
+            "full_time": "5-3"
+          }
         },
         {
           "date": "2017-11-25",
           "time": "14:00",
           "home_team": "1. FC Magdeburg",
-          "away_team": "Hallescher FC"
+          "away_team": "Hallescher FC",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2017-11-25",
           "time": "14:00",
           "home_team": "Würzburger Kickers",
-          "away_team": "Sportfreunde Lotte"
+          "away_team": "Sportfreunde Lotte",
+          "result": {
+            "full_time": "2-1"
+          }
         }
       ]
     },
@@ -1114,61 +1624,91 @@
           "date": "2017-12-01",
           "time": "19:00",
           "home_team": "Hallescher FC",
-          "away_team": "Hansa Rostock"
+          "away_team": "Hansa Rostock",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2017-12-02",
           "time": "14:00",
           "home_team": "Rot-Weiß Erfurt",
-          "away_team": "SV Meppen"
+          "away_team": "SV Meppen",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2017-12-02",
           "time": "14:00",
           "home_team": "Sportfreunde Lotte",
-          "away_team": "Preußen Münster"
+          "away_team": "Preußen Münster",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2017-12-02",
           "time": "14:00",
           "home_team": "Chemnitzer FC",
-          "away_team": "1. FC Magdeburg"
+          "away_team": "1. FC Magdeburg",
+          "result": {
+            "full_time": "2-3"
+          }
         },
         {
           "date": "2017-12-02",
           "time": "14:00",
           "home_team": "Fortuna Köln",
-          "away_team": "FSV Zwickau"
+          "away_team": "FSV Zwickau",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2017-12-02",
           "time": "14:00",
           "home_team": "SV Wehen Wiesbaden",
-          "away_team": "SC Paderborn 07"
+          "away_team": "SC Paderborn 07",
+          "result": {
+            "full_time": "4-1"
+          }
         },
         {
           "date": "2017-12-02",
           "time": "14:00",
           "home_team": "Karlsruher SC",
-          "away_team": "VfR Aalen"
+          "away_team": "VfR Aalen",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2017-12-03",
           "time": "14:00",
           "home_team": "Werder Bremen II",
-          "away_team": "VfL Osnabrück"
+          "away_team": "VfL Osnabrück",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2017-12-03",
           "time": "14:00",
           "home_team": "SG Sonnenhof Großaspach",
-          "away_team": "Würzburger Kickers"
+          "away_team": "Würzburger Kickers",
+          "result": {
+            "full_time": "1-3"
+          }
         },
         {
           "date": "2017-12-03",
           "time": "14:00",
           "home_team": "SpVgg Unterhaching",
-          "away_team": "FC Carl Zeiss Jena"
+          "away_team": "FC Carl Zeiss Jena",
+          "result": {
+            "full_time": "3-2"
+          }
         }
       ]
     },
@@ -1179,61 +1719,91 @@
           "date": "2017-12-08",
           "time": "18:30",
           "home_team": "Würzburger Kickers",
-          "away_team": "Rot-Weiß Erfurt"
+          "away_team": "Rot-Weiß Erfurt",
+          "result": {
+            "full_time": "4-1"
+          }
         },
         {
           "date": "2017-12-08",
           "time": "19:00",
           "home_team": "1. FC Magdeburg",
-          "away_team": "Sportfreunde Lotte"
+          "away_team": "Sportfreunde Lotte",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2017-12-09",
           "time": "13:00",
           "home_team": "FC Carl Zeiss Jena",
-          "away_team": "Karlsruher SC"
+          "away_team": "Karlsruher SC",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2017-12-09",
           "time": "14:00",
           "home_team": "VfL Osnabrück",
-          "away_team": "SpVgg Unterhaching"
+          "away_team": "SpVgg Unterhaching",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2017-12-09",
           "time": "14:00",
           "home_team": "VfR Aalen",
-          "away_team": "SV Wehen Wiesbaden"
+          "away_team": "SV Wehen Wiesbaden",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2017-12-09",
           "time": "14:00",
           "home_team": "SC Paderborn 07",
-          "away_team": "Fortuna Köln"
+          "away_team": "Fortuna Köln",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2017-12-09",
           "time": "14:00",
           "home_team": "Preußen Münster",
-          "away_team": "SG Sonnenhof Großaspach"
+          "away_team": "SG Sonnenhof Großaspach",
+          "result": {
+            "full_time": "1-4"
+          }
         },
         {
           "date": "2017-12-09",
           "time": "14:00",
           "home_team": "SV Meppen",
-          "away_team": "Werder Bremen II"
+          "away_team": "Werder Bremen II",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2017-12-10",
           "time": "14:00",
           "home_team": "FSV Zwickau",
-          "away_team": "Hallescher FC"
+          "away_team": "Hallescher FC",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2017-12-10",
           "time": "14:00",
           "home_team": "Hansa Rostock",
-          "away_team": "Chemnitzer FC"
+          "away_team": "Chemnitzer FC",
+          "result": {
+            "full_time": "3-1"
+          }
         }
       ]
     },
@@ -1244,61 +1814,91 @@
           "date": "2017-12-15",
           "time": "19:00",
           "home_team": "SC Paderborn 07",
-          "away_team": "Hallescher FC"
+          "away_team": "Hallescher FC",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2017-12-15",
           "time": "19:00",
           "home_team": "VfR Aalen",
-          "away_team": "Fortuna Köln"
+          "away_team": "Fortuna Köln",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2017-12-16",
           "time": "13:00",
           "home_team": "FC Carl Zeiss Jena",
-          "away_team": "SV Wehen Wiesbaden"
+          "away_team": "SV Wehen Wiesbaden",
+          "result": {
+            "full_time": "4-3"
+          }
         },
         {
           "date": "2017-12-16",
           "time": "14:00",
           "home_team": "SpVgg Unterhaching",
-          "away_team": "Werder Bremen II"
+          "away_team": "Werder Bremen II",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2017-12-16",
           "time": "14:00",
           "home_team": "1. FC Magdeburg",
-          "away_team": "SG Sonnenhof Großaspach"
+          "away_team": "SG Sonnenhof Großaspach",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2017-12-16",
           "time": "14:00",
           "home_team": "Hansa Rostock",
-          "away_team": "Sportfreunde Lotte"
+          "away_team": "Sportfreunde Lotte",
+          "result": {
+            "full_time": "0-3"
+          }
         },
         {
           "date": "2017-12-16",
           "time": "14:00",
           "home_team": "FSV Zwickau",
-          "away_team": "Chemnitzer FC"
+          "away_team": "Chemnitzer FC",
+          "result": {
+            "full_time": "3-2"
+          }
         },
         {
           "date": "2017-12-16",
           "time": "14:00",
           "home_team": "Würzburger Kickers",
-          "away_team": "SV Meppen"
+          "away_team": "SV Meppen",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2018-01-30",
           "time": "19:00",
           "home_team": "Preußen Münster",
-          "away_team": "Rot-Weiß Erfurt"
+          "away_team": "Rot-Weiß Erfurt",
+          "result": {
+            "full_time": "5-0"
+          }
         },
         {
           "date": "2018-02-14",
           "time": "19:00",
           "home_team": "VfL Osnabrück",
-          "away_team": "Karlsruher SC"
+          "away_team": "Karlsruher SC",
+          "result": {
+            "full_time": "0-0"
+          }
         }
       ]
     },
@@ -1309,61 +1909,91 @@
           "date": "2018-01-20",
           "time": "14:00",
           "home_team": "Karlsruher SC",
-          "away_team": "SpVgg Unterhaching"
+          "away_team": "SpVgg Unterhaching",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2018-01-20",
           "time": "14:00",
           "home_team": "SV Wehen Wiesbaden",
-          "away_team": "VfL Osnabrück"
+          "away_team": "VfL Osnabrück",
+          "result": {
+            "full_time": "5-1"
+          }
         },
         {
           "date": "2018-01-20",
           "time": "14:00",
           "home_team": "Fortuna Köln",
-          "away_team": "FC Carl Zeiss Jena"
+          "away_team": "FC Carl Zeiss Jena",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2018-01-20",
           "time": "14:00",
           "home_team": "Hallescher FC",
-          "away_team": "VfR Aalen"
+          "away_team": "VfR Aalen",
+          "result": {
+            "full_time": "3-2"
+          }
         },
         {
           "date": "2018-01-20",
           "time": "14:00",
           "home_team": "Chemnitzer FC",
-          "away_team": "SC Paderborn 07"
+          "away_team": "SC Paderborn 07",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2018-01-20",
           "time": "14:00",
           "home_team": "Sportfreunde Lotte",
-          "away_team": "FSV Zwickau"
+          "away_team": "FSV Zwickau",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2018-01-21",
           "time": "14:00",
           "home_team": "SV Meppen",
-          "away_team": "Preußen Münster"
+          "away_team": "Preußen Münster",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2018-01-21",
           "time": "14:00",
           "home_team": "Werder Bremen II",
-          "away_team": "Würzburger Kickers"
+          "away_team": "Würzburger Kickers",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2018-01-22",
           "time": "20:30",
           "home_team": "Rot-Weiß Erfurt",
-          "away_team": "1. FC Magdeburg"
+          "away_team": "1. FC Magdeburg",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2018-03-20",
           "time": "19:00",
           "home_team": "SG Sonnenhof Großaspach",
-          "away_team": "Hansa Rostock"
+          "away_team": "Hansa Rostock",
+          "result": {
+            "full_time": "0-0"
+          }
         }
       ]
     },
@@ -1374,61 +2004,91 @@
           "date": "2018-01-26",
           "time": "19:00",
           "home_team": "FSV Zwickau",
-          "away_team": "SG Sonnenhof Großaspach"
+          "away_team": "SG Sonnenhof Großaspach",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2018-01-26",
           "time": "19:00",
           "home_team": "Preußen Münster",
-          "away_team": "Würzburger Kickers"
+          "away_team": "Würzburger Kickers",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2018-01-27",
           "time": "14:00",
           "home_team": "Karlsruher SC",
-          "away_team": "Werder Bremen II"
+          "away_team": "Werder Bremen II",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2018-01-27",
           "time": "14:00",
           "home_team": "Hansa Rostock",
-          "away_team": "Rot-Weiß Erfurt"
+          "away_team": "Rot-Weiß Erfurt",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2018-01-27",
           "time": "14:00",
           "home_team": "SC Paderborn 07",
-          "away_team": "Sportfreunde Lotte"
+          "away_team": "Sportfreunde Lotte",
+          "result": {
+            "full_time": "5-0"
+          }
         },
         {
           "date": "2018-01-27",
           "time": "14:00",
           "home_team": "VfR Aalen",
-          "away_team": "Chemnitzer FC"
+          "away_team": "Chemnitzer FC",
+          "result": {
+            "full_time": "3-2"
+          }
         },
         {
           "date": "2018-01-27",
           "time": "14:00",
           "home_team": "VfL Osnabrück",
-          "away_team": "Fortuna Köln"
+          "away_team": "Fortuna Köln",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2018-01-27",
           "time": "14:00",
           "home_team": "SpVgg Unterhaching",
-          "away_team": "SV Wehen Wiesbaden"
+          "away_team": "SV Wehen Wiesbaden",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2018-01-27",
           "time": "14:00",
           "home_team": "1. FC Magdeburg",
-          "away_team": "SV Meppen"
+          "away_team": "SV Meppen",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2018-01-28",
           "time": "14:00",
           "home_team": "FC Carl Zeiss Jena",
-          "away_team": "Hallescher FC"
+          "away_team": "Hallescher FC",
+          "result": {
+            "full_time": "2-1"
+          }
         }
       ]
     },
@@ -1439,61 +2099,91 @@
           "date": "2018-02-02",
           "time": "19:00",
           "home_team": "Sportfreunde Lotte",
-          "away_team": "VfR Aalen"
+          "away_team": "VfR Aalen",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2018-02-02",
           "time": "19:15",
           "home_team": "SV Wehen Wiesbaden",
-          "away_team": "Karlsruher SC"
+          "away_team": "Karlsruher SC",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2018-02-03",
           "time": "14:00",
           "home_team": "Hallescher FC",
-          "away_team": "VfL Osnabrück"
+          "away_team": "VfL Osnabrück",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2018-02-03",
           "time": "14:00",
           "home_team": "Chemnitzer FC",
-          "away_team": "FC Carl Zeiss Jena"
+          "away_team": "FC Carl Zeiss Jena",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2018-02-03",
           "time": "14:00",
           "home_team": "SG Sonnenhof Großaspach",
-          "away_team": "SC Paderborn 07"
+          "away_team": "SC Paderborn 07",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2018-02-03",
           "time": "14:00",
           "home_team": "SV Meppen",
-          "away_team": "Hansa Rostock"
+          "away_team": "Hansa Rostock",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2018-02-03",
           "time": "14:00",
           "home_team": "Würzburger Kickers",
-          "away_team": "1. FC Magdeburg"
+          "away_team": "1. FC Magdeburg",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2018-02-03",
           "time": "14:00",
           "home_team": "Werder Bremen II",
-          "away_team": "Preußen Münster"
+          "away_team": "Preußen Münster",
+          "result": {
+            "full_time": "2-4"
+          }
         },
         {
           "date": "2018-02-03",
           "time": "14:00",
           "home_team": "Fortuna Köln",
-          "away_team": "SpVgg Unterhaching"
+          "away_team": "SpVgg Unterhaching",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2018-02-04",
           "time": "14:00",
           "home_team": "Rot-Weiß Erfurt",
-          "away_team": "FSV Zwickau"
+          "away_team": "FSV Zwickau",
+          "result": {
+            "full_time": "0-3"
+          }
         }
       ]
     },
@@ -1504,61 +2194,91 @@
           "date": "2018-02-09",
           "time": "19:00",
           "home_team": "SC Paderborn 07",
-          "away_team": "Rot-Weiß Erfurt"
+          "away_team": "Rot-Weiß Erfurt",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2018-02-09",
           "time": "19:00",
           "home_team": "VfL Osnabrück",
-          "away_team": "Chemnitzer FC"
+          "away_team": "Chemnitzer FC",
+          "result": {
+            "full_time": "6-1"
+          }
         },
         {
           "date": "2018-02-10",
           "time": "14:00",
           "home_team": "VfR Aalen",
-          "away_team": "SG Sonnenhof Großaspach"
+          "away_team": "SG Sonnenhof Großaspach",
+          "result": {
+            "full_time": "4-1"
+          }
         },
         {
           "date": "2018-02-10",
           "time": "14:00",
           "home_team": "FC Carl Zeiss Jena",
-          "away_team": "Sportfreunde Lotte"
+          "away_team": "Sportfreunde Lotte",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2018-02-10",
           "time": "14:00",
           "home_team": "Karlsruher SC",
-          "away_team": "Fortuna Köln"
+          "away_team": "Fortuna Köln",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2018-02-10",
           "time": "14:00",
           "home_team": "1. FC Magdeburg",
-          "away_team": "Preußen Münster"
+          "away_team": "Preußen Münster",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2018-02-10",
           "time": "14:00",
           "home_team": "Hansa Rostock",
-          "away_team": "Würzburger Kickers"
+          "away_team": "Würzburger Kickers",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2018-02-10",
           "time": "14:00",
           "home_team": "FSV Zwickau",
-          "away_team": "SV Meppen"
+          "away_team": "SV Meppen",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2018-02-11",
           "time": "14:00",
           "home_team": "SV Wehen Wiesbaden",
-          "away_team": "Werder Bremen II"
+          "away_team": "Werder Bremen II",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2018-02-11",
           "time": "14:00",
           "home_team": "SpVgg Unterhaching",
-          "away_team": "Hallescher FC"
+          "away_team": "Hallescher FC",
+          "result": {
+            "full_time": "1-1"
+          }
         }
       ]
     },
@@ -1569,61 +2289,91 @@
           "date": "2018-02-16",
           "time": "19:00",
           "home_team": "Preußen Münster",
-          "away_team": "Hansa Rostock"
+          "away_team": "Hansa Rostock",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2018-02-17",
           "time": "14:00",
           "home_team": "SG Sonnenhof Großaspach",
-          "away_team": "FC Carl Zeiss Jena"
+          "away_team": "FC Carl Zeiss Jena",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2018-02-17",
           "time": "14:00",
           "home_team": "Würzburger Kickers",
-          "away_team": "FSV Zwickau"
+          "away_team": "FSV Zwickau",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2018-02-17",
           "time": "14:00",
           "home_team": "Werder Bremen II",
-          "away_team": "1. FC Magdeburg"
+          "away_team": "1. FC Magdeburg",
+          "result": {
+            "full_time": "1-3"
+          }
         },
         {
           "date": "2018-02-17",
           "time": "14:00",
           "home_team": "Fortuna Köln",
-          "away_team": "SV Wehen Wiesbaden"
+          "away_team": "SV Wehen Wiesbaden",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2018-02-17",
           "time": "14:00",
           "home_team": "Hallescher FC",
-          "away_team": "Karlsruher SC"
+          "away_team": "Karlsruher SC",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2018-02-17",
           "time": "14:00",
           "home_team": "Chemnitzer FC",
-          "away_team": "SpVgg Unterhaching"
+          "away_team": "SpVgg Unterhaching",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2018-02-18",
           "time": "14:00",
           "home_team": "Sportfreunde Lotte",
-          "away_team": "VfL Osnabrück"
+          "away_team": "VfL Osnabrück",
+          "result": {
+            "full_time": "2-3"
+          }
         },
         {
           "date": "2018-02-18",
           "time": "14:00",
           "home_team": "Rot-Weiß Erfurt",
-          "away_team": "VfR Aalen"
+          "away_team": "VfR Aalen",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2018-03-27",
           "time": "19:00",
           "home_team": "SV Meppen",
-          "away_team": "SC Paderborn 07"
+          "away_team": "SC Paderborn 07",
+          "result": {
+            "full_time": "0-0"
+          }
         }
       ]
     },
@@ -1634,61 +2384,91 @@
           "date": "2018-02-23",
           "time": "19:00",
           "home_team": "Fortuna Köln",
-          "away_team": "Werder Bremen II"
+          "away_team": "Werder Bremen II",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2018-02-24",
           "time": "14:00",
           "home_team": "VfL Osnabrück",
-          "away_team": "SG Sonnenhof Großaspach"
+          "away_team": "SG Sonnenhof Großaspach",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2018-02-24",
           "time": "14:00",
           "home_team": "SpVgg Unterhaching",
-          "away_team": "Sportfreunde Lotte"
+          "away_team": "Sportfreunde Lotte",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2018-02-24",
           "time": "14:00",
           "home_team": "SV Wehen Wiesbaden",
-          "away_team": "Hallescher FC"
+          "away_team": "Hallescher FC",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2018-02-24",
           "time": "14:00",
           "home_team": "Hansa Rostock",
-          "away_team": "1. FC Magdeburg"
+          "away_team": "1. FC Magdeburg",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2018-02-24",
           "time": "14:00",
           "home_team": "FSV Zwickau",
-          "away_team": "Preußen Münster"
+          "away_team": "Preußen Münster",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2018-02-24",
           "time": "14:00",
           "home_team": "SC Paderborn 07",
-          "away_team": "Würzburger Kickers"
+          "away_team": "Würzburger Kickers",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2018-02-24",
           "time": "14:00",
           "home_team": "VfR Aalen",
-          "away_team": "SV Meppen"
+          "away_team": "SV Meppen",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2018-02-25",
           "time": "14:00",
           "home_team": "FC Carl Zeiss Jena",
-          "away_team": "Rot-Weiß Erfurt"
+          "away_team": "Rot-Weiß Erfurt",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2018-02-25",
           "time": "14:00",
           "home_team": "Karlsruher SC",
-          "away_team": "Chemnitzer FC"
+          "away_team": "Chemnitzer FC",
+          "result": {
+            "full_time": "2-0"
+          }
         }
       ]
     },
@@ -1699,61 +2479,91 @@
           "date": "2018-03-02",
           "time": "19:00",
           "home_team": "Werder Bremen II",
-          "away_team": "Hansa Rostock"
+          "away_team": "Hansa Rostock",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2018-03-02",
           "time": "19:00",
           "home_team": "Sportfreunde Lotte",
-          "away_team": "Karlsruher SC"
+          "away_team": "Karlsruher SC",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2018-03-03",
           "time": "14:00",
           "home_team": "Würzburger Kickers",
-          "away_team": "VfR Aalen"
+          "away_team": "VfR Aalen",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2018-03-03",
           "time": "14:00",
           "home_team": "Preußen Münster",
-          "away_team": "SC Paderborn 07"
+          "away_team": "SC Paderborn 07",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2018-03-03",
           "time": "14:00",
           "home_team": "SG Sonnenhof Großaspach",
-          "away_team": "SpVgg Unterhaching"
+          "away_team": "SpVgg Unterhaching",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2018-03-04",
           "time": "14:00",
           "home_team": "Hallescher FC",
-          "away_team": "Fortuna Köln"
+          "away_team": "Fortuna Köln",
+          "result": {
+            "full_time": "0-3"
+          }
         },
         {
           "date": "2018-03-27",
           "time": "19:00",
           "home_team": "Chemnitzer FC",
-          "away_team": "SV Wehen Wiesbaden"
+          "away_team": "SV Wehen Wiesbaden",
+          "result": {
+            "full_time": "1-4"
+          }
         },
         {
           "date": "2018-03-28",
           "time": "19:00",
           "home_team": "Rot-Weiß Erfurt",
-          "away_team": "VfL Osnabrück"
+          "away_team": "VfL Osnabrück",
+          "result": {
+            "full_time": "4-4"
+          }
         },
         {
           "date": "2018-03-28",
           "time": "19:00",
           "home_team": "1. FC Magdeburg",
-          "away_team": "FSV Zwickau"
+          "away_team": "FSV Zwickau",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2018-04-04",
           "time": "19:00",
           "home_team": "SV Meppen",
-          "away_team": "FC Carl Zeiss Jena"
+          "away_team": "FC Carl Zeiss Jena",
+          "result": {
+            "full_time": "2-1"
+          }
         }
       ]
     },
@@ -1764,61 +2574,91 @@
           "date": "2018-03-06",
           "time": "19:00",
           "home_team": "SpVgg Unterhaching",
-          "away_team": "Rot-Weiß Erfurt"
+          "away_team": "Rot-Weiß Erfurt",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2018-03-06",
           "time": "19:00",
           "home_team": "SV Wehen Wiesbaden",
-          "away_team": "Sportfreunde Lotte"
+          "away_team": "Sportfreunde Lotte",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2018-03-06",
           "time": "19:00",
           "home_team": "SC Paderborn 07",
-          "away_team": "1. FC Magdeburg"
+          "away_team": "1. FC Magdeburg",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2018-03-06",
           "time": "19:00",
           "home_team": "VfL Osnabrück",
-          "away_team": "SV Meppen"
+          "away_team": "SV Meppen",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2018-03-07",
           "time": "19:00",
           "home_team": "Hallescher FC",
-          "away_team": "Werder Bremen II"
+          "away_team": "Werder Bremen II",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2018-03-07",
           "time": "19:00",
           "home_team": "Karlsruher SC",
-          "away_team": "SG Sonnenhof Großaspach"
+          "away_team": "SG Sonnenhof Großaspach",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2018-03-07",
           "time": "19:00",
           "home_team": "Fortuna Köln",
-          "away_team": "Chemnitzer FC"
+          "away_team": "Chemnitzer FC",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2018-03-07",
           "time": "19:00",
           "home_team": "FSV Zwickau",
-          "away_team": "Hansa Rostock"
+          "away_team": "Hansa Rostock",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2018-03-07",
           "time": "19:00",
           "home_team": "VfR Aalen",
-          "away_team": "Preußen Münster"
+          "away_team": "Preußen Münster",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2018-03-27",
           "time": "19:00",
           "home_team": "FC Carl Zeiss Jena",
-          "away_team": "Würzburger Kickers"
+          "away_team": "Würzburger Kickers",
+          "result": {
+            "full_time": "1-2"
+          }
         }
       ]
     },
@@ -1829,61 +2669,91 @@
           "date": "2018-03-10",
           "time": "14:00",
           "home_team": "Würzburger Kickers",
-          "away_team": "VfL Osnabrück"
+          "away_team": "VfL Osnabrück",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2018-03-10",
           "time": "14:00",
           "home_team": "Preußen Münster",
-          "away_team": "FC Carl Zeiss Jena"
+          "away_team": "FC Carl Zeiss Jena",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2018-03-10",
           "time": "14:00",
           "home_team": "Hansa Rostock",
-          "away_team": "SC Paderborn 07"
+          "away_team": "SC Paderborn 07",
+          "result": {
+            "full_time": "2-3"
+          }
         },
         {
           "date": "2018-03-10",
           "time": "14:00",
           "home_team": "Werder Bremen II",
-          "away_team": "FSV Zwickau"
+          "away_team": "FSV Zwickau",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2018-03-10",
           "time": "14:00",
           "home_team": "Sportfreunde Lotte",
-          "away_team": "Fortuna Köln"
+          "away_team": "Fortuna Köln",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2018-03-10",
           "time": "14:00",
           "home_team": "SG Sonnenhof Großaspach",
-          "away_team": "SV Wehen Wiesbaden"
+          "away_team": "SV Wehen Wiesbaden",
+          "result": {
+            "full_time": "1-3"
+          }
         },
         {
           "date": "2018-03-10",
           "time": "14:00",
           "home_team": "SV Meppen",
-          "away_team": "SpVgg Unterhaching"
+          "away_team": "SpVgg Unterhaching",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2018-03-11",
           "time": "14:00",
           "home_team": "1. FC Magdeburg",
-          "away_team": "VfR Aalen"
+          "away_team": "VfR Aalen",
+          "result": {
+            "full_time": "6-1"
+          }
         },
         {
           "date": "2018-03-11",
           "time": "14:00",
           "home_team": "Chemnitzer FC",
-          "away_team": "Hallescher FC"
+          "away_team": "Hallescher FC",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2018-03-11",
           "time": "14:00",
           "home_team": "Rot-Weiß Erfurt",
-          "away_team": "Karlsruher SC"
+          "away_team": "Karlsruher SC",
+          "result": {
+            "full_time": "1-3"
+          }
         }
       ]
     },
@@ -1894,61 +2764,91 @@
           "date": "2018-03-16",
           "time": "19:00",
           "home_team": "SV Wehen Wiesbaden",
-          "away_team": "Rot-Weiß Erfurt"
+          "away_team": "Rot-Weiß Erfurt",
+          "result": {
+            "full_time": "4-2"
+          }
         },
         {
           "date": "2018-03-16",
           "time": "19:00",
           "home_team": "Fortuna Köln",
-          "away_team": "SG Sonnenhof Großaspach"
+          "away_team": "SG Sonnenhof Großaspach",
+          "result": {
+            "full_time": "1-3"
+          }
         },
         {
           "date": "2018-03-16",
           "time": "19:00",
           "home_team": "Hallescher FC",
-          "away_team": "Sportfreunde Lotte"
+          "away_team": "Sportfreunde Lotte",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2018-03-17",
           "time": "14:00",
           "home_team": "SC Paderborn 07",
-          "away_team": "FSV Zwickau"
+          "away_team": "FSV Zwickau",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2018-03-17",
           "time": "14:00",
           "home_team": "SpVgg Unterhaching",
-          "away_team": "Würzburger Kickers"
+          "away_team": "Würzburger Kickers",
+          "result": {
+            "full_time": "3-2"
+          }
         },
         {
           "date": "2018-03-17",
           "time": "14:00",
           "home_team": "Karlsruher SC",
-          "away_team": "SV Meppen"
+          "away_team": "SV Meppen",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2018-03-17",
           "time": "14:05",
           "home_team": "VfR Aalen",
-          "away_team": "Hansa Rostock"
+          "away_team": "Hansa Rostock",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2018-03-18",
           "time": "14:00",
           "home_team": "Chemnitzer FC",
-          "away_team": "Werder Bremen II"
+          "away_team": "Werder Bremen II",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2018-03-18",
           "time": "14:00",
           "home_team": "VfL Osnabrück",
-          "away_team": "Preußen Münster"
+          "away_team": "Preußen Münster",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2018-04-17",
           "time": "19:00",
           "home_team": "FC Carl Zeiss Jena",
-          "away_team": "1. FC Magdeburg"
+          "away_team": "1. FC Magdeburg",
+          "result": {
+            "full_time": "1-5"
+          }
         }
       ]
     },
@@ -1959,61 +2859,91 @@
           "date": "2018-03-23",
           "time": "19:00",
           "home_team": "FSV Zwickau",
-          "away_team": "VfR Aalen"
+          "away_team": "VfR Aalen",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2018-03-23",
           "time": "19:00",
           "home_team": "Werder Bremen II",
-          "away_team": "SC Paderborn 07"
+          "away_team": "SC Paderborn 07",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2018-03-24",
           "time": "14:00",
           "home_team": "Hansa Rostock",
-          "away_team": "FC Carl Zeiss Jena"
+          "away_team": "FC Carl Zeiss Jena",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2018-03-24",
           "time": "14:00",
           "home_team": "Sportfreunde Lotte",
-          "away_team": "Chemnitzer FC"
+          "away_team": "Chemnitzer FC",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2018-03-24",
           "time": "14:00",
           "home_team": "SG Sonnenhof Großaspach",
-          "away_team": "Hallescher FC"
+          "away_team": "Hallescher FC",
+          "result": {
+            "full_time": "0-3"
+          }
         },
         {
           "date": "2018-03-24",
           "time": "14:00",
           "home_team": "Rot-Weiß Erfurt",
-          "away_team": "Fortuna Köln"
+          "away_team": "Fortuna Köln",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2018-03-24",
           "time": "14:00",
           "home_team": "SV Meppen",
-          "away_team": "SV Wehen Wiesbaden"
+          "away_team": "SV Wehen Wiesbaden",
+          "result": {
+            "full_time": "1-3"
+          }
         },
         {
           "date": "2018-03-24",
           "time": "14:00",
           "home_team": "Würzburger Kickers",
-          "away_team": "Karlsruher SC"
+          "away_team": "Karlsruher SC",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2018-03-24",
           "time": "14:00",
           "home_team": "Preußen Münster",
-          "away_team": "SpVgg Unterhaching"
+          "away_team": "SpVgg Unterhaching",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2018-03-25",
           "time": "14:00",
           "home_team": "1. FC Magdeburg",
-          "away_team": "VfL Osnabrück"
+          "away_team": "VfL Osnabrück",
+          "result": {
+            "full_time": "2-0"
+          }
         }
       ]
     },
@@ -2024,61 +2954,91 @@
           "date": "2018-03-31",
           "time": "14:00",
           "home_team": "Chemnitzer FC",
-          "away_team": "SG Sonnenhof Großaspach"
+          "away_team": "SG Sonnenhof Großaspach",
+          "result": {
+            "full_time": "2-3"
+          }
         },
         {
           "date": "2018-03-31",
           "time": "14:00",
           "home_team": "VfR Aalen",
-          "away_team": "SC Paderborn 07"
+          "away_team": "SC Paderborn 07",
+          "result": {
+            "full_time": "0-5"
+          }
         },
         {
           "date": "2018-03-31",
           "time": "14:00",
           "home_team": "FC Carl Zeiss Jena",
-          "away_team": "FSV Zwickau"
+          "away_team": "FSV Zwickau",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2018-03-31",
           "time": "14:00",
           "home_team": "VfL Osnabrück",
-          "away_team": "Hansa Rostock"
+          "away_team": "Hansa Rostock",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2018-03-31",
           "time": "14:00",
           "home_team": "Karlsruher SC",
-          "away_team": "Preußen Münster"
+          "away_team": "Preußen Münster",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2018-03-31",
           "time": "14:00",
           "home_team": "SV Wehen Wiesbaden",
-          "away_team": "Würzburger Kickers"
+          "away_team": "Würzburger Kickers",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2018-03-31",
           "time": "14:00",
           "home_team": "Fortuna Köln",
-          "away_team": "SV Meppen"
+          "away_team": "SV Meppen",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2018-04-01",
           "time": "14:00",
           "home_team": "Sportfreunde Lotte",
-          "away_team": "Werder Bremen II"
+          "away_team": "Werder Bremen II",
+          "result": {
+            "full_time": "3-2"
+          }
         },
         {
           "date": "2018-04-01",
           "time": "14:00",
           "home_team": "Hallescher FC",
-          "away_team": "Rot-Weiß Erfurt"
+          "away_team": "Rot-Weiß Erfurt",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2018-04-01",
           "time": "14:00",
           "home_team": "SpVgg Unterhaching",
-          "away_team": "1. FC Magdeburg"
+          "away_team": "1. FC Magdeburg",
+          "result": {
+            "full_time": "0-1"
+          }
         }
       ]
     },
@@ -2089,61 +3049,91 @@
           "date": "2018-04-06",
           "time": "19:00",
           "home_team": "Werder Bremen II",
-          "away_team": "VfR Aalen"
+          "away_team": "VfR Aalen",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2018-04-07",
           "time": "14:00",
           "home_team": "SC Paderborn 07",
-          "away_team": "FC Carl Zeiss Jena"
+          "away_team": "FC Carl Zeiss Jena",
+          "result": {
+            "full_time": "6-0"
+          }
         },
         {
           "date": "2018-04-07",
           "time": "14:00",
           "home_team": "SG Sonnenhof Großaspach",
-          "away_team": "Sportfreunde Lotte"
+          "away_team": "Sportfreunde Lotte",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2018-04-07",
           "time": "14:00",
           "home_team": "Würzburger Kickers",
-          "away_team": "Fortuna Köln"
+          "away_team": "Fortuna Köln",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2018-04-07",
           "time": "14:00",
           "home_team": "Preußen Münster",
-          "away_team": "SV Wehen Wiesbaden"
+          "away_team": "SV Wehen Wiesbaden",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2018-04-07",
           "time": "14:00",
           "home_team": "1. FC Magdeburg",
-          "away_team": "Karlsruher SC"
+          "away_team": "Karlsruher SC",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2018-04-07",
           "time": "14:00",
           "home_team": "Hansa Rostock",
-          "away_team": "SpVgg Unterhaching"
+          "away_team": "SpVgg Unterhaching",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2018-04-08",
           "time": "14:00",
           "home_team": "FSV Zwickau",
-          "away_team": "VfL Osnabrück"
+          "away_team": "VfL Osnabrück",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2018-04-08",
           "time": "14:00",
           "home_team": "Rot-Weiß Erfurt",
-          "away_team": "Chemnitzer FC"
+          "away_team": "Chemnitzer FC",
+          "result": {
+            "full_time": "0-5"
+          }
         },
         {
           "date": "2018-04-08",
           "time": "14:00",
           "home_team": "SV Meppen",
-          "away_team": "Hallescher FC"
+          "away_team": "Hallescher FC",
+          "result": {
+            "full_time": "2-2"
+          }
         }
       ]
     },
@@ -2154,61 +3144,91 @@
           "date": "2018-04-13",
           "time": "19:00",
           "home_team": "SV Wehen Wiesbaden",
-          "away_team": "1. FC Magdeburg"
+          "away_team": "1. FC Magdeburg",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2018-04-14",
           "time": "14:00",
           "home_team": "SG Sonnenhof Großaspach",
-          "away_team": "Werder Bremen II"
+          "away_team": "Werder Bremen II",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2018-04-14",
           "time": "14:00",
           "home_team": "FC Carl Zeiss Jena",
-          "away_team": "VfR Aalen"
+          "away_team": "VfR Aalen",
+          "result": {
+            "full_time": "3-2"
+          }
         },
         {
           "date": "2018-04-14",
           "time": "14:00",
           "home_team": "VfL Osnabrück",
-          "away_team": "SC Paderborn 07"
+          "away_team": "SC Paderborn 07",
+          "result": {
+            "full_time": "0-5"
+          }
         },
         {
           "date": "2018-04-14",
           "time": "14:00",
           "home_team": "Fortuna Köln",
-          "away_team": "Preußen Münster"
+          "away_team": "Preußen Münster",
+          "result": {
+            "full_time": "2-4"
+          }
         },
         {
           "date": "2018-04-14",
           "time": "14:00",
           "home_team": "Hallescher FC",
-          "away_team": "Würzburger Kickers"
+          "away_team": "Würzburger Kickers",
+          "result": {
+            "full_time": "1-3"
+          }
         },
         {
           "date": "2018-04-14",
           "time": "14:00",
           "home_team": "Chemnitzer FC",
-          "away_team": "SV Meppen"
+          "away_team": "SV Meppen",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2018-04-15",
           "time": "14:00",
           "home_team": "Sportfreunde Lotte",
-          "away_team": "Rot-Weiß Erfurt"
+          "away_team": "Rot-Weiß Erfurt",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2018-04-15",
           "time": "14:00",
           "home_team": "SpVgg Unterhaching",
-          "away_team": "FSV Zwickau"
+          "away_team": "FSV Zwickau",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2018-04-15",
           "time": "14:00",
           "home_team": "Karlsruher SC",
-          "away_team": "Hansa Rostock"
+          "away_team": "Hansa Rostock",
+          "result": {
+            "full_time": "0-0"
+          }
         }
       ]
     },
@@ -2219,61 +3239,91 @@
           "date": "2018-04-20",
           "time": "19:00",
           "home_team": "SV Meppen",
-          "away_team": "Sportfreunde Lotte"
+          "away_team": "Sportfreunde Lotte",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2018-04-21",
           "time": "14:00",
           "home_team": "Werder Bremen II",
-          "away_team": "FC Carl Zeiss Jena"
+          "away_team": "FC Carl Zeiss Jena",
+          "result": {
+            "full_time": "2-4"
+          }
         },
         {
           "date": "2018-04-21",
           "time": "14:00",
           "home_team": "Rot-Weiß Erfurt",
-          "away_team": "SG Sonnenhof Großaspach"
+          "away_team": "SG Sonnenhof Großaspach",
+          "result": {
+            "full_time": "0-6"
+          }
         },
         {
           "date": "2018-04-21",
           "time": "14:00",
           "home_team": "Würzburger Kickers",
-          "away_team": "Chemnitzer FC"
+          "away_team": "Chemnitzer FC",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2018-04-21",
           "time": "14:00",
           "home_team": "1. FC Magdeburg",
-          "away_team": "Fortuna Köln"
+          "away_team": "Fortuna Köln",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2018-04-21",
           "time": "14:00",
           "home_team": "Hansa Rostock",
-          "away_team": "SV Wehen Wiesbaden"
+          "away_team": "SV Wehen Wiesbaden",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2018-04-21",
           "time": "14:00",
           "home_team": "SC Paderborn 07",
-          "away_team": "SpVgg Unterhaching"
+          "away_team": "SpVgg Unterhaching",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2018-04-22",
           "time": "14:00",
           "home_team": "VfR Aalen",
-          "away_team": "VfL Osnabrück"
+          "away_team": "VfL Osnabrück",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2018-04-22",
           "time": "14:00",
           "home_team": "Preußen Münster",
-          "away_team": "Hallescher FC"
+          "away_team": "Hallescher FC",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2018-04-23",
           "time": "18:30",
           "home_team": "FSV Zwickau",
-          "away_team": "Karlsruher SC"
+          "away_team": "Karlsruher SC",
+          "result": {
+            "full_time": "2-4"
+          }
         }
       ]
     },
@@ -2284,61 +3334,91 @@
           "date": "2018-04-27",
           "time": "19:00",
           "home_team": "SpVgg Unterhaching",
-          "away_team": "VfR Aalen"
+          "away_team": "VfR Aalen",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2018-04-28",
           "time": "14:00",
           "home_team": "VfL Osnabrück",
-          "away_team": "FC Carl Zeiss Jena"
+          "away_team": "FC Carl Zeiss Jena",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2018-04-28",
           "time": "14:00",
           "home_team": "Karlsruher SC",
-          "away_team": "SC Paderborn 07"
+          "away_team": "SC Paderborn 07",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2018-04-28",
           "time": "14:00",
           "home_team": "SV Wehen Wiesbaden",
-          "away_team": "FSV Zwickau"
+          "away_team": "FSV Zwickau",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2018-04-28",
           "time": "14:00",
           "home_team": "Fortuna Köln",
-          "away_team": "Hansa Rostock"
+          "away_team": "Hansa Rostock",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2018-04-28",
           "time": "14:00",
           "home_team": "Hallescher FC",
-          "away_team": "1. FC Magdeburg"
+          "away_team": "1. FC Magdeburg",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2018-04-28",
           "time": "14:00",
           "home_team": "Sportfreunde Lotte",
-          "away_team": "Würzburger Kickers"
+          "away_team": "Würzburger Kickers",
+          "result": {
+            "full_time": "1-3"
+          }
         },
         {
           "date": "2018-04-29",
           "time": "14:00",
           "home_team": "Rot-Weiß Erfurt",
-          "away_team": "Werder Bremen II"
+          "away_team": "Werder Bremen II",
+          "result": {
+            "full_time": "0-3"
+          }
         },
         {
           "date": "2018-04-29",
           "time": "14:00",
           "home_team": "Chemnitzer FC",
-          "away_team": "Preußen Münster"
+          "away_team": "Preußen Münster",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2018-04-29",
           "time": "14:00",
           "home_team": "SG Sonnenhof Großaspach",
-          "away_team": "SV Meppen"
+          "away_team": "SV Meppen",
+          "result": {
+            "full_time": "2-3"
+          }
         }
       ]
     },
@@ -2349,61 +3429,91 @@
           "date": "2018-05-05",
           "time": "13:30",
           "home_team": "VfL Osnabrück",
-          "away_team": "Werder Bremen II"
+          "away_team": "Werder Bremen II",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2018-05-05",
           "time": "13:30",
           "home_team": "SV Meppen",
-          "away_team": "Rot-Weiß Erfurt"
+          "away_team": "Rot-Weiß Erfurt",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2018-05-05",
           "time": "13:30",
           "home_team": "Würzburger Kickers",
-          "away_team": "SG Sonnenhof Großaspach"
+          "away_team": "SG Sonnenhof Großaspach",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2018-05-05",
           "time": "13:30",
           "home_team": "Preußen Münster",
-          "away_team": "Sportfreunde Lotte"
+          "away_team": "Sportfreunde Lotte",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2018-05-05",
           "time": "13:30",
           "home_team": "1. FC Magdeburg",
-          "away_team": "Chemnitzer FC"
+          "away_team": "Chemnitzer FC",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2018-05-05",
           "time": "13:30",
           "home_team": "Hansa Rostock",
-          "away_team": "Hallescher FC"
+          "away_team": "Hallescher FC",
+          "result": {
+            "full_time": "4-2"
+          }
         },
         {
           "date": "2018-05-05",
           "time": "13:30",
           "home_team": "FSV Zwickau",
-          "away_team": "Fortuna Köln"
+          "away_team": "Fortuna Köln",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2018-05-05",
           "time": "13:30",
           "home_team": "SC Paderborn 07",
-          "away_team": "SV Wehen Wiesbaden"
+          "away_team": "SV Wehen Wiesbaden",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2018-05-05",
           "time": "13:30",
           "home_team": "VfR Aalen",
-          "away_team": "Karlsruher SC"
+          "away_team": "Karlsruher SC",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2018-05-05",
           "time": "13:30",
           "home_team": "FC Carl Zeiss Jena",
-          "away_team": "SpVgg Unterhaching"
+          "away_team": "SpVgg Unterhaching",
+          "result": {
+            "full_time": "2-1"
+          }
         }
       ]
     },
@@ -2414,61 +3524,91 @@
           "date": "2018-05-12",
           "time": "13:30",
           "home_team": "SpVgg Unterhaching",
-          "away_team": "VfL Osnabrück"
+          "away_team": "VfL Osnabrück",
+          "result": {
+            "full_time": "4-1"
+          }
         },
         {
           "date": "2018-05-12",
           "time": "13:30",
           "home_team": "Karlsruher SC",
-          "away_team": "FC Carl Zeiss Jena"
+          "away_team": "FC Carl Zeiss Jena",
+          "result": {
+            "full_time": "2-3"
+          }
         },
         {
           "date": "2018-05-12",
           "time": "13:30",
           "home_team": "SV Wehen Wiesbaden",
-          "away_team": "VfR Aalen"
+          "away_team": "VfR Aalen",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2018-05-12",
           "time": "13:30",
           "home_team": "Fortuna Köln",
-          "away_team": "SC Paderborn 07"
+          "away_team": "SC Paderborn 07",
+          "result": {
+            "full_time": "2-4"
+          }
         },
         {
           "date": "2018-05-12",
           "time": "13:30",
           "home_team": "Hallescher FC",
-          "away_team": "FSV Zwickau"
+          "away_team": "FSV Zwickau",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2018-05-12",
           "time": "13:30",
           "home_team": "Chemnitzer FC",
-          "away_team": "Hansa Rostock"
+          "away_team": "Hansa Rostock",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2018-05-12",
           "time": "13:30",
           "home_team": "Sportfreunde Lotte",
-          "away_team": "1. FC Magdeburg"
+          "away_team": "1. FC Magdeburg",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2018-05-12",
           "time": "13:30",
           "home_team": "SG Sonnenhof Großaspach",
-          "away_team": "Preußen Münster"
+          "away_team": "Preußen Münster",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2018-05-12",
           "time": "13:30",
           "home_team": "Rot-Weiß Erfurt",
-          "away_team": "Würzburger Kickers"
+          "away_team": "Würzburger Kickers",
+          "result": {
+            "full_time": "1-3"
+          }
         },
         {
           "date": "2018-05-12",
           "time": "13:30",
           "home_team": "Werder Bremen II",
-          "away_team": "SV Meppen"
+          "away_team": "SV Meppen",
+          "result": {
+            "full_time": "2-1"
+          }
         }
       ]
     }

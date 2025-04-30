@@ -9,61 +9,91 @@
           "date": "2023-08-05",
           "time": "15:00",
           "home_team": "AS Saint-Étienne",
-          "away_team": "Grenoble Foot 38"
+          "away_team": "Grenoble Foot 38",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2023-08-05",
           "time": "19:00",
           "home_team": "AC Ajaccio",
-          "away_team": "Rodez AF"
+          "away_team": "Rodez AF",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2023-08-05",
           "time": "19:00",
           "home_team": "Paris FC",
-          "away_team": "SM Caen"
+          "away_team": "SM Caen",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2023-08-05",
           "time": "19:00",
           "home_team": "FC Annecy",
-          "away_team": "EA Guingamp"
+          "away_team": "EA Guingamp",
+          "result": {
+            "full_time": "1-4"
+          }
         },
         {
           "date": "2023-08-05",
           "time": "19:00",
           "home_team": "Valenciennes FC",
-          "away_team": "AJ Auxerre"
+          "away_team": "AJ Auxerre",
+          "result": {
+            "full_time": "1-4"
+          }
         },
         {
           "date": "2023-08-05",
           "time": "19:00",
           "home_team": "Amiens SC",
-          "away_team": "US Quevilly-Rouen"
+          "away_team": "US Quevilly-Rouen",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2023-08-05",
           "time": "19:00",
           "home_team": "Stade Lavallois",
-          "away_team": "Angers SCO"
+          "away_team": "Angers SCO",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2023-08-05",
           "time": "19:00",
           "home_team": "US Concarneau",
-          "away_team": "SC Bastia"
+          "away_team": "SC Bastia",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2023-08-05",
           "time": "19:00",
           "home_team": "USL Dunkerque",
-          "away_team": "ESTAC Troyes"
+          "away_team": "ESTAC Troyes",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2023-08-07",
           "time": "20:45",
           "home_team": "Pau FC",
-          "away_team": "Girondins Bordeaux"
+          "away_team": "Girondins Bordeaux",
+          "result": {
+            "full_time": "3-0"
+          }
         }
       ]
     },
@@ -74,61 +104,91 @@
           "date": "2023-08-12",
           "time": "15:00",
           "home_team": "Rodez AF",
-          "away_team": "AS Saint-Étienne"
+          "away_team": "AS Saint-Étienne",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2023-08-12",
           "time": "19:00",
           "home_team": "AJ Auxerre",
-          "away_team": "Amiens SC"
+          "away_team": "Amiens SC",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2023-08-12",
           "time": "19:00",
           "home_team": "EA Guingamp",
-          "away_team": "USL Dunkerque"
+          "away_team": "USL Dunkerque",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2023-08-12",
           "time": "19:00",
           "home_team": "ESTAC Troyes",
-          "away_team": "Stade Lavallois"
+          "away_team": "Stade Lavallois",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2023-08-12",
           "time": "19:00",
           "home_team": "Grenoble Foot 38",
-          "away_team": "Paris FC"
+          "away_team": "Paris FC",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2023-08-12",
           "time": "19:00",
           "home_team": "SC Bastia",
-          "away_team": "Valenciennes FC"
+          "away_team": "Valenciennes FC",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2023-08-12",
           "time": "19:00",
           "home_team": "Angers SCO",
-          "away_team": "FC Annecy"
+          "away_team": "FC Annecy",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2023-08-12",
           "time": "19:00",
           "home_team": "SM Caen",
-          "away_team": "Pau FC"
+          "away_team": "Pau FC",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2023-08-12",
           "time": "19:00",
           "home_team": "US Quevilly-Rouen",
-          "away_team": "AC Ajaccio"
+          "away_team": "AC Ajaccio",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2023-08-14",
           "time": "20:45",
           "home_team": "Girondins Bordeaux",
-          "away_team": "US Concarneau"
+          "away_team": "US Concarneau",
+          "result": {
+            "full_time": "1-0"
+          }
         }
       ]
     },
@@ -139,61 +199,91 @@
           "date": "2023-08-19",
           "time": "15:00",
           "home_team": "Angers SCO",
-          "away_team": "AJ Auxerre"
+          "away_team": "AJ Auxerre",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2023-08-19",
           "time": "19:00",
           "home_team": "AS Saint-Étienne",
-          "away_team": "US Quevilly-Rouen"
+          "away_team": "US Quevilly-Rouen",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2023-08-19",
           "time": "19:00",
           "home_team": "Pau FC",
-          "away_team": "Paris FC"
+          "away_team": "Paris FC",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2023-08-19",
           "time": "19:00",
           "home_team": "FC Annecy",
-          "away_team": "USL Dunkerque"
+          "away_team": "USL Dunkerque",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2023-08-19",
           "time": "19:00",
           "home_team": "Valenciennes FC",
-          "away_team": "EA Guingamp"
+          "away_team": "EA Guingamp",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2023-08-19",
           "time": "19:00",
           "home_team": "Grenoble Foot 38",
-          "away_team": "ESTAC Troyes"
+          "away_team": "ESTAC Troyes",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2023-08-19",
           "time": "19:00",
           "home_team": "Amiens SC",
-          "away_team": "SC Bastia"
+          "away_team": "SC Bastia",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2023-08-19",
           "time": "19:00",
           "home_team": "Stade Lavallois",
-          "away_team": "Rodez AF"
+          "away_team": "Rodez AF",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2023-08-19",
           "time": "19:00",
           "home_team": "US Concarneau",
-          "away_team": "SM Caen"
+          "away_team": "SM Caen",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2023-08-21",
           "time": "20:45",
           "home_team": "AC Ajaccio",
-          "away_team": "Girondins Bordeaux"
+          "away_team": "Girondins Bordeaux",
+          "result": {
+            "full_time": "0-0"
+          }
         }
       ]
     },
@@ -204,61 +294,91 @@
           "date": "2023-08-26",
           "time": "15:00",
           "home_team": "Girondins Bordeaux",
-          "away_team": "Amiens SC"
+          "away_team": "Amiens SC",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2023-08-26",
           "time": "19:00",
           "home_team": "AJ Auxerre",
-          "away_team": "Grenoble Foot 38"
+          "away_team": "Grenoble Foot 38",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2023-08-26",
           "time": "19:00",
           "home_team": "EA Guingamp",
-          "away_team": "Pau FC"
+          "away_team": "Pau FC",
+          "result": {
+            "full_time": "4-0"
+          }
         },
         {
           "date": "2023-08-26",
           "time": "19:00",
           "home_team": "Paris FC",
-          "away_team": "US Concarneau"
+          "away_team": "US Concarneau",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2023-08-26",
           "time": "19:00",
           "home_team": "Rodez AF",
-          "away_team": "Valenciennes FC"
+          "away_team": "Valenciennes FC",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2023-08-26",
           "time": "19:00",
           "home_team": "SC Bastia",
-          "away_team": "ESTAC Troyes"
+          "away_team": "ESTAC Troyes",
+          "result": {
+            "full_time": "3-2"
+          }
         },
         {
           "date": "2023-08-26",
           "time": "19:00",
           "home_team": "SM Caen",
-          "away_team": "AC Ajaccio"
+          "away_team": "AC Ajaccio",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2023-08-26",
           "time": "19:00",
           "home_team": "US Quevilly-Rouen",
-          "away_team": "Stade Lavallois"
+          "away_team": "Stade Lavallois",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2023-08-26",
           "time": "19:00",
           "home_team": "USL Dunkerque",
-          "away_team": "Angers SCO"
+          "away_team": "Angers SCO",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2023-08-28",
           "time": "20:45",
           "home_team": "FC Annecy",
-          "away_team": "AS Saint-Étienne"
+          "away_team": "AS Saint-Étienne",
+          "result": {
+            "full_time": "1-1"
+          }
         }
       ]
     },
@@ -269,61 +389,91 @@
           "date": "2023-09-02",
           "time": "15:00",
           "home_team": "Girondins Bordeaux",
-          "away_team": "AJ Auxerre"
+          "away_team": "AJ Auxerre",
+          "result": {
+            "full_time": "2-4"
+          }
         },
         {
           "date": "2023-09-02",
           "time": "19:00",
           "home_team": "AC Ajaccio",
-          "away_team": "USL Dunkerque"
+          "away_team": "USL Dunkerque",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2023-09-02",
           "time": "19:00",
           "home_team": "AS Saint-Étienne",
-          "away_team": "Valenciennes FC"
+          "away_team": "Valenciennes FC",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2023-09-02",
           "time": "19:00",
           "home_team": "ESTAC Troyes",
-          "away_team": "US Quevilly-Rouen"
+          "away_team": "US Quevilly-Rouen",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2023-09-02",
           "time": "19:00",
           "home_team": "Pau FC",
-          "away_team": "Rodez AF"
+          "away_team": "Rodez AF",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2023-09-02",
           "time": "19:00",
           "home_team": "Grenoble Foot 38",
-          "away_team": "SC Bastia"
+          "away_team": "SC Bastia",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2023-09-02",
           "time": "19:00",
           "home_team": "Amiens SC",
-          "away_team": "EA Guingamp"
+          "away_team": "EA Guingamp",
+          "result": {
+            "full_time": "4-1"
+          }
         },
         {
           "date": "2023-09-02",
           "time": "19:00",
           "home_team": "Angers SCO",
-          "away_team": "Paris FC"
+          "away_team": "Paris FC",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2023-09-02",
           "time": "19:00",
           "home_team": "Stade Lavallois",
-          "away_team": "SM Caen"
+          "away_team": "SM Caen",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2023-09-02",
           "time": "19:00",
           "home_team": "US Concarneau",
-          "away_team": "FC Annecy"
+          "away_team": "FC Annecy",
+          "result": {
+            "full_time": "1-1"
+          }
         }
       ]
     },
@@ -334,61 +484,91 @@
           "date": "2023-09-16",
           "time": "15:00",
           "home_team": "SM Caen",
-          "away_team": "AS Saint-Étienne"
+          "away_team": "AS Saint-Étienne",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2023-09-16",
           "time": "19:00",
           "home_team": "AJ Auxerre",
-          "away_team": "Pau FC"
+          "away_team": "Pau FC",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2023-09-16",
           "time": "19:00",
           "home_team": "Paris FC",
-          "away_team": "Amiens SC"
+          "away_team": "Amiens SC",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2023-09-16",
           "time": "19:00",
           "home_team": "FC Annecy",
-          "away_team": "ESTAC Troyes"
+          "away_team": "ESTAC Troyes",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2023-09-16",
           "time": "19:00",
           "home_team": "Valenciennes FC",
-          "away_team": "Girondins Bordeaux"
+          "away_team": "Girondins Bordeaux",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2023-09-16",
           "time": "19:00",
           "home_team": "Rodez AF",
-          "away_team": "Angers SCO"
+          "away_team": "Angers SCO",
+          "result": {
+            "full_time": "4-1"
+          }
         },
         {
           "date": "2023-09-16",
           "time": "19:00",
           "home_team": "SC Bastia",
-          "away_team": "Stade Lavallois"
+          "away_team": "Stade Lavallois",
+          "result": {
+            "full_time": "0-3"
+          }
         },
         {
           "date": "2023-09-16",
           "time": "19:00",
           "home_team": "US Quevilly-Rouen",
-          "away_team": "US Concarneau"
+          "away_team": "US Concarneau",
+          "result": {
+            "full_time": "2-3"
+          }
         },
         {
           "date": "2023-09-16",
           "time": "19:00",
           "home_team": "USL Dunkerque",
-          "away_team": "Grenoble Foot 38"
+          "away_team": "Grenoble Foot 38",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2023-09-18",
           "time": "20:45",
           "home_team": "EA Guingamp",
-          "away_team": "AC Ajaccio"
+          "away_team": "AC Ajaccio",
+          "result": {
+            "full_time": "3-0"
+          }
         }
       ]
     },
@@ -399,61 +579,91 @@
           "date": "2023-09-23",
           "time": "15:00",
           "home_team": "ESTAC Troyes",
-          "away_team": "AJ Auxerre"
+          "away_team": "AJ Auxerre",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2023-09-23",
           "time": "19:00",
           "home_team": "AC Ajaccio",
-          "away_team": "Paris FC"
+          "away_team": "Paris FC",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2023-09-23",
           "time": "19:00",
           "home_team": "Pau FC",
-          "away_team": "FC Annecy"
+          "away_team": "FC Annecy",
+          "result": {
+            "full_time": "0-3"
+          }
         },
         {
           "date": "2023-09-23",
           "time": "19:00",
           "home_team": "Grenoble Foot 38",
-          "away_team": "US Quevilly-Rouen"
+          "away_team": "US Quevilly-Rouen",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2023-09-23",
           "time": "19:00",
           "home_team": "Amiens SC",
-          "away_team": "Valenciennes FC"
+          "away_team": "Valenciennes FC",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2023-09-23",
           "time": "19:00",
           "home_team": "Angers SCO",
-          "away_team": "SC Bastia"
+          "away_team": "SC Bastia",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2023-09-23",
           "time": "19:00",
           "home_team": "Stade Lavallois",
-          "away_team": "EA Guingamp"
+          "away_team": "EA Guingamp",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2023-09-23",
           "time": "19:00",
           "home_team": "US Concarneau",
-          "away_team": "AS Saint-Étienne"
+          "away_team": "AS Saint-Étienne",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2023-09-23",
           "time": "19:00",
           "home_team": "USL Dunkerque",
-          "away_team": "Rodez AF"
+          "away_team": "Rodez AF",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2023-10-03",
           "time": "18:45",
           "home_team": "Girondins Bordeaux",
-          "away_team": "SM Caen"
+          "away_team": "SM Caen",
+          "result": {
+            "full_time": "1-1"
+          }
         }
       ]
     },
@@ -464,61 +674,91 @@
           "date": "2023-09-26",
           "time": "20:45",
           "home_team": "AJ Auxerre",
-          "away_team": "FC Annecy"
+          "away_team": "FC Annecy",
+          "result": {
+            "full_time": "4-0"
+          }
         },
         {
           "date": "2023-09-26",
           "time": "20:45",
           "home_team": "EA Guingamp",
-          "away_team": "Girondins Bordeaux"
+          "away_team": "Girondins Bordeaux",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2023-09-26",
           "time": "20:45",
           "home_team": "Paris FC",
-          "away_team": "Stade Lavallois"
+          "away_team": "Stade Lavallois",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2023-09-26",
           "time": "20:45",
           "home_team": "Valenciennes FC",
-          "away_team": "US Concarneau"
+          "away_team": "US Concarneau",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2023-09-26",
           "time": "20:45",
           "home_team": "Rodez AF",
-          "away_team": "ESTAC Troyes"
+          "away_team": "ESTAC Troyes",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2023-09-26",
           "time": "20:45",
           "home_team": "Amiens SC",
-          "away_team": "AC Ajaccio"
+          "away_team": "AC Ajaccio",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2023-09-26",
           "time": "20:45",
           "home_team": "SC Bastia",
-          "away_team": "Pau FC"
+          "away_team": "Pau FC",
+          "result": {
+            "full_time": "1-4"
+          }
         },
         {
           "date": "2023-09-26",
           "time": "20:45",
           "home_team": "SM Caen",
-          "away_team": "Grenoble Foot 38"
+          "away_team": "Grenoble Foot 38",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2023-09-26",
           "time": "20:45",
           "home_team": "US Quevilly-Rouen",
-          "away_team": "Angers SCO"
+          "away_team": "Angers SCO",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2023-10-04",
           "time": "18:45",
           "home_team": "AS Saint-Étienne",
-          "away_team": "USL Dunkerque"
+          "away_team": "USL Dunkerque",
+          "result": {
+            "full_time": "2-0"
+          }
         }
       ]
     },
@@ -529,61 +769,91 @@
           "date": "2023-09-30",
           "time": "15:00",
           "home_team": "ESTAC Troyes",
-          "away_team": "AS Saint-Étienne"
+          "away_team": "AS Saint-Étienne",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2023-09-30",
           "time": "19:00",
           "home_team": "AJ Auxerre",
-          "away_team": "Rodez AF"
+          "away_team": "Rodez AF",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2023-09-30",
           "time": "19:00",
           "home_team": "Pau FC",
-          "away_team": "Amiens SC"
+          "away_team": "Amiens SC",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2023-09-30",
           "time": "19:00",
           "home_team": "FC Annecy",
-          "away_team": "Paris FC"
+          "away_team": "Paris FC",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2023-09-30",
           "time": "19:00",
           "home_team": "Grenoble Foot 38",
-          "away_team": "Girondins Bordeaux"
+          "away_team": "Girondins Bordeaux",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2023-09-30",
           "time": "19:00",
           "home_team": "Angers SCO",
-          "away_team": "US Concarneau"
+          "away_team": "US Concarneau",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2023-09-30",
           "time": "19:00",
           "home_team": "SM Caen",
-          "away_team": "EA Guingamp"
+          "away_team": "EA Guingamp",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2023-09-30",
           "time": "19:00",
           "home_team": "Stade Lavallois",
-          "away_team": "Valenciennes FC"
+          "away_team": "Valenciennes FC",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2023-09-30",
           "time": "19:00",
           "home_team": "USL Dunkerque",
-          "away_team": "US Quevilly-Rouen"
+          "away_team": "US Quevilly-Rouen",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2023-10-02",
           "time": "20:45",
           "home_team": "AC Ajaccio",
-          "away_team": "SC Bastia"
+          "away_team": "SC Bastia",
+          "result": {
+            "full_time": "2-0"
+          }
         }
       ]
     },
@@ -594,61 +864,91 @@
           "date": "2023-10-07",
           "time": "15:00",
           "home_team": "Girondins Bordeaux",
-          "away_team": "Stade Lavallois"
+          "away_team": "Stade Lavallois",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2023-10-07",
           "time": "19:00",
           "home_team": "AS Saint-Étienne",
-          "away_team": "AC Ajaccio"
+          "away_team": "AC Ajaccio",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2023-10-07",
           "time": "19:00",
           "home_team": "EA Guingamp",
-          "away_team": "Grenoble Foot 38"
+          "away_team": "Grenoble Foot 38",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2023-10-07",
           "time": "19:00",
           "home_team": "Paris FC",
-          "away_team": "AJ Auxerre"
+          "away_team": "AJ Auxerre",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2023-10-07",
           "time": "19:00",
           "home_team": "Valenciennes FC",
-          "away_team": "ESTAC Troyes"
+          "away_team": "ESTAC Troyes",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2023-10-07",
           "time": "19:00",
           "home_team": "Rodez AF",
-          "away_team": "SM Caen"
+          "away_team": "SM Caen",
+          "result": {
+            "full_time": "5-3"
+          }
         },
         {
           "date": "2023-10-07",
           "time": "19:00",
           "home_team": "Amiens SC",
-          "away_team": "Angers SCO"
+          "away_team": "Angers SCO",
+          "result": {
+            "full_time": "1-4"
+          }
         },
         {
           "date": "2023-10-07",
           "time": "19:00",
           "home_team": "SC Bastia",
-          "away_team": "FC Annecy"
+          "away_team": "FC Annecy",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2023-10-07",
           "time": "19:00",
           "home_team": "US Concarneau",
-          "away_team": "USL Dunkerque"
+          "away_team": "USL Dunkerque",
+          "result": {
+            "full_time": "4-3"
+          }
         },
         {
           "date": "2023-10-07",
           "time": "19:00",
           "home_team": "US Quevilly-Rouen",
-          "away_team": "Pau FC"
+          "away_team": "Pau FC",
+          "result": {
+            "full_time": "2-2"
+          }
         }
       ]
     },
@@ -659,61 +959,91 @@
           "date": "2023-10-21",
           "time": "15:00",
           "home_team": "SM Caen",
-          "away_team": "AJ Auxerre"
+          "away_team": "AJ Auxerre",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2023-10-21",
           "time": "19:00",
           "home_team": "AC Ajaccio",
-          "away_team": "Pau FC"
+          "away_team": "Pau FC",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2023-10-21",
           "time": "19:00",
           "home_team": "EA Guingamp",
-          "away_team": "US Quevilly-Rouen"
+          "away_team": "US Quevilly-Rouen",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2023-10-21",
           "time": "19:00",
           "home_team": "ESTAC Troyes",
-          "away_team": "US Concarneau"
+          "away_team": "US Concarneau",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2023-10-21",
           "time": "19:00",
           "home_team": "FC Annecy",
-          "away_team": "Amiens SC"
+          "away_team": "Amiens SC",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2023-10-21",
           "time": "19:00",
           "home_team": "Grenoble Foot 38",
-          "away_team": "Valenciennes FC"
+          "away_team": "Valenciennes FC",
+          "result": {
+            "full_time": "3-3"
+          }
         },
         {
           "date": "2023-10-21",
           "time": "19:00",
           "home_team": "Rodez AF",
-          "away_team": "SC Bastia"
+          "away_team": "SC Bastia",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2023-10-21",
           "time": "19:00",
           "home_team": "Angers SCO",
-          "away_team": "Girondins Bordeaux"
+          "away_team": "Girondins Bordeaux",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2023-10-21",
           "time": "19:00",
           "home_team": "USL Dunkerque",
-          "away_team": "Paris FC"
+          "away_team": "Paris FC",
+          "result": {
+            "full_time": "1-3"
+          }
         },
         {
           "date": "2023-10-23",
           "time": "20:45",
           "home_team": "Stade Lavallois",
-          "away_team": "AS Saint-Étienne"
+          "away_team": "AS Saint-Étienne",
+          "result": {
+            "full_time": "0-1"
+          }
         }
       ]
     },
@@ -724,61 +1054,91 @@
           "date": "2023-10-28",
           "time": "15:00",
           "home_team": "Girondins Bordeaux",
-          "away_team": "Rodez AF"
+          "away_team": "Rodez AF",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2023-10-28",
           "time": "19:00",
           "home_team": "AJ Auxerre",
-          "away_team": "USL Dunkerque"
+          "away_team": "USL Dunkerque",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2023-10-28",
           "time": "19:00",
           "home_team": "Paris FC",
-          "away_team": "ESTAC Troyes"
+          "away_team": "ESTAC Troyes",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2023-10-28",
           "time": "19:00",
           "home_team": "Pau FC",
-          "away_team": "Grenoble Foot 38"
+          "away_team": "Grenoble Foot 38",
+          "result": {
+            "full_time": "3-2"
+          }
         },
         {
           "date": "2023-10-28",
           "time": "19:00",
           "home_team": "Valenciennes FC",
-          "away_team": "SM Caen"
+          "away_team": "SM Caen",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2023-10-28",
           "time": "19:00",
           "home_team": "Amiens SC",
-          "away_team": "Stade Lavallois"
+          "away_team": "Stade Lavallois",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2023-10-28",
           "time": "19:00",
           "home_team": "SC Bastia",
-          "away_team": "EA Guingamp"
+          "away_team": "EA Guingamp",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2023-10-28",
           "time": "19:00",
           "home_team": "US Concarneau",
-          "away_team": "AC Ajaccio"
+          "away_team": "AC Ajaccio",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2023-10-28",
           "time": "19:00",
           "home_team": "US Quevilly-Rouen",
-          "away_team": "FC Annecy"
+          "away_team": "FC Annecy",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2023-10-30",
           "time": "20:45",
           "home_team": "AS Saint-Étienne",
-          "away_team": "Angers SCO"
+          "away_team": "Angers SCO",
+          "result": {
+            "full_time": "2-0"
+          }
         }
       ]
     },
@@ -789,61 +1149,91 @@
           "date": "2023-11-04",
           "time": "15:00",
           "home_team": "AS Saint-Étienne",
-          "away_team": "Paris FC"
+          "away_team": "Paris FC",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2023-11-04",
           "time": "19:00",
           "home_team": "ESTAC Troyes",
-          "away_team": "SM Caen"
+          "away_team": "SM Caen",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2023-11-04",
           "time": "19:00",
           "home_team": "FC Annecy",
-          "away_team": "Stade Lavallois"
+          "away_team": "Stade Lavallois",
+          "result": {
+            "full_time": "1-3"
+          }
         },
         {
           "date": "2023-11-04",
           "time": "19:00",
           "home_team": "Grenoble Foot 38",
-          "away_team": "AC Ajaccio"
+          "away_team": "AC Ajaccio",
+          "result": {
+            "full_time": "0-3"
+          }
         },
         {
           "date": "2023-11-04",
           "time": "19:00",
           "home_team": "SC Bastia",
-          "away_team": "Girondins Bordeaux"
+          "away_team": "Girondins Bordeaux",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2023-11-04",
           "time": "19:00",
           "home_team": "Angers SCO",
-          "away_team": "Valenciennes FC"
+          "away_team": "Valenciennes FC",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2023-11-04",
           "time": "19:00",
           "home_team": "US Quevilly-Rouen",
-          "away_team": "Rodez AF"
+          "away_team": "Rodez AF",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2023-11-04",
           "time": "19:00",
           "home_team": "USL Dunkerque",
-          "away_team": "Amiens SC"
+          "away_team": "Amiens SC",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2023-11-06",
           "time": "20:45",
           "home_team": "EA Guingamp",
-          "away_team": "AJ Auxerre"
+          "away_team": "AJ Auxerre",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2023-11-28",
           "time": "19:00",
           "home_team": "US Concarneau",
-          "away_team": "Pau FC"
+          "away_team": "Pau FC",
+          "result": {
+            "full_time": "1-2"
+          }
         }
       ]
     },
@@ -854,61 +1244,91 @@
           "date": "2023-11-11",
           "time": "15:00",
           "home_team": "Girondins Bordeaux",
-          "away_team": "FC Annecy"
+          "away_team": "FC Annecy",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2023-11-11",
           "time": "19:00",
           "home_team": "AC Ajaccio",
-          "away_team": "ESTAC Troyes"
+          "away_team": "ESTAC Troyes",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2023-11-11",
           "time": "19:00",
           "home_team": "AJ Auxerre",
-          "away_team": "AS Saint-Étienne"
+          "away_team": "AS Saint-Étienne",
+          "result": {
+            "full_time": "5-2"
+          }
         },
         {
           "date": "2023-11-11",
           "time": "19:00",
           "home_team": "Paris FC",
-          "away_team": "SC Bastia"
+          "away_team": "SC Bastia",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2023-11-11",
           "time": "19:00",
           "home_team": "Pau FC",
-          "away_team": "Angers SCO"
+          "away_team": "Angers SCO",
+          "result": {
+            "full_time": "4-4"
+          }
         },
         {
           "date": "2023-11-11",
           "time": "19:00",
           "home_team": "Valenciennes FC",
-          "away_team": "USL Dunkerque"
+          "away_team": "USL Dunkerque",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2023-11-11",
           "time": "19:00",
           "home_team": "Rodez AF",
-          "away_team": "EA Guingamp"
+          "away_team": "EA Guingamp",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2023-11-11",
           "time": "19:00",
           "home_team": "Amiens SC",
-          "away_team": "Grenoble Foot 38"
+          "away_team": "Grenoble Foot 38",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2023-11-11",
           "time": "19:00",
           "home_team": "SM Caen",
-          "away_team": "US Quevilly-Rouen"
+          "away_team": "US Quevilly-Rouen",
+          "result": {
+            "full_time": "3-3"
+          }
         },
         {
           "date": "2023-11-11",
           "time": "19:00",
           "home_team": "Stade Lavallois",
-          "away_team": "US Concarneau"
+          "away_team": "US Concarneau",
+          "result": {
+            "full_time": "0-3"
+          }
         }
       ]
     },
@@ -919,61 +1339,91 @@
           "date": "2023-11-25",
           "time": "15:00",
           "home_team": "AS Saint-Étienne",
-          "away_team": "Pau FC"
+          "away_team": "Pau FC",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2023-11-25",
           "time": "19:00",
           "home_team": "ESTAC Troyes",
-          "away_team": "EA Guingamp"
+          "away_team": "EA Guingamp",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2023-11-25",
           "time": "19:00",
           "home_team": "Paris FC",
-          "away_team": "Girondins Bordeaux"
+          "away_team": "Girondins Bordeaux",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2023-11-25",
           "time": "19:00",
           "home_team": "FC Annecy",
-          "away_team": "AC Ajaccio"
+          "away_team": "AC Ajaccio",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2023-11-25",
           "time": "19:00",
           "home_team": "Grenoble Foot 38",
-          "away_team": "Rodez AF"
+          "away_team": "Rodez AF",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2023-11-25",
           "time": "19:00",
           "home_team": "SC Bastia",
-          "away_team": "AJ Auxerre"
+          "away_team": "AJ Auxerre",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2023-11-25",
           "time": "19:00",
           "home_team": "Amiens SC",
-          "away_team": "US Concarneau"
+          "away_team": "US Concarneau",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2023-11-25",
           "time": "19:00",
           "home_team": "US Quevilly-Rouen",
-          "away_team": "Valenciennes FC"
+          "away_team": "Valenciennes FC",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2023-11-25",
           "time": "19:00",
           "home_team": "USL Dunkerque",
-          "away_team": "Stade Lavallois"
+          "away_team": "Stade Lavallois",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2023-11-27",
           "time": "20:45",
           "home_team": "Angers SCO",
-          "away_team": "SM Caen"
+          "away_team": "SM Caen",
+          "result": {
+            "full_time": "3-0"
+          }
         }
       ]
     },
@@ -984,61 +1434,91 @@
           "date": "2023-12-02",
           "time": "15:00",
           "home_team": "Girondins Bordeaux",
-          "away_team": "ESTAC Troyes"
+          "away_team": "ESTAC Troyes",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2023-12-02",
           "time": "19:00",
           "home_team": "AC Ajaccio",
-          "away_team": "Angers SCO"
+          "away_team": "Angers SCO",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2023-12-02",
           "time": "19:00",
           "home_team": "AJ Auxerre",
-          "away_team": "US Quevilly-Rouen"
+          "away_team": "US Quevilly-Rouen",
+          "result": {
+            "full_time": "3-2"
+          }
         },
         {
           "date": "2023-12-02",
           "time": "19:00",
           "home_team": "EA Guingamp",
-          "away_team": "Paris FC"
+          "away_team": "Paris FC",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2023-12-02",
           "time": "19:00",
           "home_team": "Pau FC",
-          "away_team": "USL Dunkerque"
+          "away_team": "USL Dunkerque",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2023-12-02",
           "time": "19:00",
           "home_team": "Valenciennes FC",
-          "away_team": "FC Annecy"
+          "away_team": "FC Annecy",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2023-12-02",
           "time": "19:00",
           "home_team": "Rodez AF",
-          "away_team": "US Concarneau"
+          "away_team": "US Concarneau",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2023-12-02",
           "time": "19:00",
           "home_team": "Amiens SC",
-          "away_team": "AS Saint-Étienne"
+          "away_team": "AS Saint-Étienne",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2023-12-02",
           "time": "19:00",
           "home_team": "SM Caen",
-          "away_team": "SC Bastia"
+          "away_team": "SC Bastia",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2023-12-02",
           "time": "19:00",
           "home_team": "Stade Lavallois",
-          "away_team": "Grenoble Foot 38"
+          "away_team": "Grenoble Foot 38",
+          "result": {
+            "full_time": "1-1"
+          }
         }
       ]
     },
@@ -1049,61 +1529,91 @@
           "date": "2023-12-05",
           "time": "20:45",
           "home_team": "AC Ajaccio",
-          "away_team": "Stade Lavallois"
+          "away_team": "Stade Lavallois",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2023-12-05",
           "time": "20:45",
           "home_team": "AS Saint-Étienne",
-          "away_team": "EA Guingamp"
+          "away_team": "EA Guingamp",
+          "result": {
+            "full_time": "1-3"
+          }
         },
         {
           "date": "2023-12-05",
           "time": "20:45",
           "home_team": "ESTAC Troyes",
-          "away_team": "Amiens SC"
+          "away_team": "Amiens SC",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2023-12-05",
           "time": "20:45",
           "home_team": "Paris FC",
-          "away_team": "Rodez AF"
+          "away_team": "Rodez AF",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2023-12-05",
           "time": "20:45",
           "home_team": "Pau FC",
-          "away_team": "Valenciennes FC"
+          "away_team": "Valenciennes FC",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2023-12-05",
           "time": "20:45",
           "home_team": "Angers SCO",
-          "away_team": "Grenoble Foot 38"
+          "away_team": "Grenoble Foot 38",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2023-12-05",
           "time": "20:45",
           "home_team": "US Concarneau",
-          "away_team": "AJ Auxerre"
+          "away_team": "AJ Auxerre",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2023-12-05",
           "time": "20:45",
           "home_team": "US Quevilly-Rouen",
-          "away_team": "Girondins Bordeaux"
+          "away_team": "Girondins Bordeaux",
+          "result": {
+            "full_time": "3-2"
+          }
         },
         {
           "date": "2023-12-05",
           "time": "20:45",
           "home_team": "USL Dunkerque",
-          "away_team": "SC Bastia"
+          "away_team": "SC Bastia",
+          "result": {
+            "full_time": "0-5"
+          }
         },
         {
           "date": "2023-12-06",
           "time": "19:00",
           "home_team": "FC Annecy",
-          "away_team": "SM Caen"
+          "away_team": "SM Caen",
+          "result": {
+            "full_time": "1-2"
+          }
         }
       ]
     },
@@ -1114,61 +1624,91 @@
           "date": "2023-12-16",
           "time": "15:00",
           "home_team": "AJ Auxerre",
-          "away_team": "AC Ajaccio"
+          "away_team": "AC Ajaccio",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2023-12-16",
           "time": "15:00",
           "home_team": "Girondins Bordeaux",
-          "away_team": "AS Saint-Étienne"
+          "away_team": "AS Saint-Étienne",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2023-12-16",
           "time": "19:00",
           "home_team": "EA Guingamp",
-          "away_team": "US Concarneau"
+          "away_team": "US Concarneau",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2023-12-16",
           "time": "19:00",
           "home_team": "ESTAC Troyes",
-          "away_team": "Angers SCO"
+          "away_team": "Angers SCO",
+          "result": {
+            "full_time": "1-4"
+          }
         },
         {
           "date": "2023-12-16",
           "time": "19:00",
           "home_team": "Valenciennes FC",
-          "away_team": "Paris FC"
+          "away_team": "Paris FC",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2023-12-16",
           "time": "19:00",
           "home_team": "Grenoble Foot 38",
-          "away_team": "FC Annecy"
+          "away_team": "FC Annecy",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2023-12-16",
           "time": "19:00",
           "home_team": "Rodez AF",
-          "away_team": "Amiens SC"
+          "away_team": "Amiens SC",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2023-12-16",
           "time": "19:00",
           "home_team": "SC Bastia",
-          "away_team": "US Quevilly-Rouen"
+          "away_team": "US Quevilly-Rouen",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2023-12-16",
           "time": "19:00",
           "home_team": "SM Caen",
-          "away_team": "USL Dunkerque"
+          "away_team": "USL Dunkerque",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2023-12-16",
           "time": "19:00",
           "home_team": "Stade Lavallois",
-          "away_team": "Pau FC"
+          "away_team": "Pau FC",
+          "result": {
+            "full_time": "1-1"
+          }
         }
       ]
     },
@@ -1179,61 +1719,91 @@
           "date": "2023-12-19",
           "time": "20:45",
           "home_team": "AC Ajaccio",
-          "away_team": "Valenciennes FC"
+          "away_team": "Valenciennes FC",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2023-12-19",
           "time": "20:45",
           "home_team": "AS Saint-Étienne",
-          "away_team": "SC Bastia"
+          "away_team": "SC Bastia",
+          "result": {
+            "full_time": "3-2"
+          }
         },
         {
           "date": "2023-12-19",
           "time": "20:45",
           "home_team": "Paris FC",
-          "away_team": "US Quevilly-Rouen"
+          "away_team": "US Quevilly-Rouen",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2023-12-19",
           "time": "20:45",
           "home_team": "Pau FC",
-          "away_team": "ESTAC Troyes"
+          "away_team": "ESTAC Troyes",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2023-12-19",
           "time": "20:45",
           "home_team": "FC Annecy",
-          "away_team": "Rodez AF"
+          "away_team": "Rodez AF",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2023-12-19",
           "time": "20:45",
           "home_team": "Amiens SC",
-          "away_team": "SM Caen"
+          "away_team": "SM Caen",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2023-12-19",
           "time": "20:45",
           "home_team": "Angers SCO",
-          "away_team": "EA Guingamp"
+          "away_team": "EA Guingamp",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2023-12-19",
           "time": "20:45",
           "home_team": "Stade Lavallois",
-          "away_team": "AJ Auxerre"
+          "away_team": "AJ Auxerre",
+          "result": {
+            "full_time": "1-3"
+          }
         },
         {
           "date": "2023-12-19",
           "time": "20:45",
           "home_team": "US Concarneau",
-          "away_team": "Grenoble Foot 38"
+          "away_team": "Grenoble Foot 38",
+          "result": {
+            "full_time": "0-3"
+          }
         },
         {
           "date": "2023-12-19",
           "time": "20:45",
           "home_team": "USL Dunkerque",
-          "away_team": "Girondins Bordeaux"
+          "away_team": "Girondins Bordeaux",
+          "result": {
+            "full_time": "0-2"
+          }
         }
       ]
     },
@@ -1244,61 +1814,91 @@
           "date": "2024-01-13",
           "time": "15:00",
           "home_team": "AS Saint-Étienne",
-          "away_team": "Stade Lavallois"
+          "away_team": "Stade Lavallois",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2024-01-13",
           "time": "19:00",
           "home_team": "ESTAC Troyes",
-          "away_team": "AC Ajaccio"
+          "away_team": "AC Ajaccio",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2024-01-13",
           "time": "19:00",
           "home_team": "Paris FC",
-          "away_team": "FC Annecy"
+          "away_team": "FC Annecy",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2024-01-13",
           "time": "19:00",
           "home_team": "Valenciennes FC",
-          "away_team": "Amiens SC"
+          "away_team": "Amiens SC",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2024-01-13",
           "time": "19:00",
           "home_team": "Grenoble Foot 38",
-          "away_team": "USL Dunkerque"
+          "away_team": "USL Dunkerque",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2024-01-13",
           "time": "19:00",
           "home_team": "Rodez AF",
-          "away_team": "Pau FC"
+          "away_team": "Pau FC",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2024-01-13",
           "time": "19:00",
           "home_team": "SC Bastia",
-          "away_team": "Angers SCO"
+          "away_team": "Angers SCO",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2024-01-13",
           "time": "19:00",
           "home_team": "SM Caen",
-          "away_team": "US Concarneau"
+          "away_team": "US Concarneau",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2024-01-13",
           "time": "19:00",
           "home_team": "US Quevilly-Rouen",
-          "away_team": "EA Guingamp"
+          "away_team": "EA Guingamp",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2024-01-15",
           "time": "20:45",
           "home_team": "AJ Auxerre",
-          "away_team": "Girondins Bordeaux"
+          "away_team": "Girondins Bordeaux",
+          "result": {
+            "full_time": "3-1"
+          }
         }
       ]
     },
@@ -1309,61 +1909,91 @@
           "date": "2024-01-23",
           "time": "20:45",
           "home_team": "EA Guingamp",
-          "away_team": "Rodez AF"
+          "away_team": "Rodez AF",
+          "result": {
+            "full_time": "3-3"
+          }
         },
         {
           "date": "2024-01-23",
           "time": "20:45",
           "home_team": "Pau FC",
-          "away_team": "AS Saint-Étienne"
+          "away_team": "AS Saint-Étienne",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2024-01-23",
           "time": "20:45",
           "home_team": "Girondins Bordeaux",
-          "away_team": "Valenciennes FC"
+          "away_team": "Valenciennes FC",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2024-01-23",
           "time": "20:45",
           "home_team": "Grenoble Foot 38",
-          "away_team": "AJ Auxerre"
+          "away_team": "AJ Auxerre",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2024-01-23",
           "time": "20:45",
           "home_team": "Amiens SC",
-          "away_team": "FC Annecy"
+          "away_team": "FC Annecy",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2024-01-23",
           "time": "20:45",
           "home_team": "SC Bastia",
-          "away_team": "SM Caen"
+          "away_team": "SM Caen",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2024-01-23",
           "time": "20:45",
           "home_team": "Angers SCO",
-          "away_team": "US Quevilly-Rouen"
+          "away_team": "US Quevilly-Rouen",
+          "result": {
+            "full_time": "3-2"
+          }
         },
         {
           "date": "2024-01-23",
           "time": "20:45",
           "home_team": "Stade Lavallois",
-          "away_team": "Paris FC"
+          "away_team": "Paris FC",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2024-01-23",
           "time": "20:45",
           "home_team": "US Concarneau",
-          "away_team": "ESTAC Troyes"
+          "away_team": "ESTAC Troyes",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2024-01-23",
           "time": "20:45",
           "home_team": "USL Dunkerque",
-          "away_team": "AC Ajaccio"
+          "away_team": "AC Ajaccio",
+          "result": {
+            "full_time": "2-0"
+          }
         }
       ]
     },
@@ -1374,61 +2004,91 @@
           "date": "2024-01-27",
           "time": "15:00",
           "home_team": "AS Saint-Étienne",
-          "away_team": "Amiens SC"
+          "away_team": "Amiens SC",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2024-01-27",
           "time": "19:00",
           "home_team": "AC Ajaccio",
-          "away_team": "US Concarneau"
+          "away_team": "US Concarneau",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2024-01-27",
           "time": "19:00",
           "home_team": "AJ Auxerre",
-          "away_team": "EA Guingamp"
+          "away_team": "EA Guingamp",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2024-01-27",
           "time": "19:00",
           "home_team": "Paris FC",
-          "away_team": "USL Dunkerque"
+          "away_team": "USL Dunkerque",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2024-01-27",
           "time": "19:00",
           "home_team": "FC Annecy",
-          "away_team": "Pau FC"
+          "away_team": "Pau FC",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2024-01-27",
           "time": "19:00",
           "home_team": "Valenciennes FC",
-          "away_team": "SC Bastia"
+          "away_team": "SC Bastia",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2024-01-27",
           "time": "19:00",
           "home_team": "Rodez AF",
-          "away_team": "Stade Lavallois"
+          "away_team": "Stade Lavallois",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2024-01-27",
           "time": "19:00",
           "home_team": "SM Caen",
-          "away_team": "ESTAC Troyes"
+          "away_team": "ESTAC Troyes",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2024-01-27",
           "time": "19:00",
           "home_team": "US Quevilly-Rouen",
-          "away_team": "Grenoble Foot 38"
+          "away_team": "Grenoble Foot 38",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2024-01-29",
           "time": "20:45",
           "home_team": "Girondins Bordeaux",
-          "away_team": "Angers SCO"
+          "away_team": "Angers SCO",
+          "result": {
+            "full_time": "1-0"
+          }
         }
       ]
     },
@@ -1439,61 +2099,91 @@
           "date": "2024-02-03",
           "time": "15:00",
           "home_team": "USL Dunkerque",
-          "away_team": "AS Saint-Étienne"
+          "away_team": "AS Saint-Étienne",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2024-02-03",
           "time": "19:00",
           "home_team": "EA Guingamp",
-          "away_team": "FC Annecy"
+          "away_team": "FC Annecy",
+          "result": {
+            "full_time": "1-4"
+          }
         },
         {
           "date": "2024-02-03",
           "time": "19:00",
           "home_team": "ESTAC Troyes",
-          "away_team": "Girondins Bordeaux"
+          "away_team": "Girondins Bordeaux",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2024-02-03",
           "time": "19:00",
           "home_team": "Pau FC",
-          "away_team": "AJ Auxerre"
+          "away_team": "AJ Auxerre",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2024-02-03",
           "time": "19:00",
           "home_team": "Grenoble Foot 38",
-          "away_team": "SM Caen"
+          "away_team": "SM Caen",
+          "result": {
+            "full_time": "5-1"
+          }
         },
         {
           "date": "2024-02-03",
           "time": "19:00",
           "home_team": "Amiens SC",
-          "away_team": "Paris FC"
+          "away_team": "Paris FC",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2024-02-03",
           "time": "19:00",
           "home_team": "Angers SCO",
-          "away_team": "Rodez AF"
+          "away_team": "Rodez AF",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2024-02-03",
           "time": "19:00",
           "home_team": "Stade Lavallois",
-          "away_team": "US Quevilly-Rouen"
+          "away_team": "US Quevilly-Rouen",
+          "result": {
+            "full_time": "2-4"
+          }
         },
         {
           "date": "2024-02-03",
           "time": "19:00",
           "home_team": "US Concarneau",
-          "away_team": "Valenciennes FC"
+          "away_team": "Valenciennes FC",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2024-02-05",
           "time": "20:45",
           "home_team": "SC Bastia",
-          "away_team": "AC Ajaccio"
+          "away_team": "AC Ajaccio",
+          "result": {
+            "full_time": "1-0"
+          }
         }
       ]
     },
@@ -1504,61 +2194,91 @@
           "date": "2024-02-10",
           "time": "15:00",
           "home_team": "AJ Auxerre",
-          "away_team": "Angers SCO"
+          "away_team": "Angers SCO",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2024-02-10",
           "time": "19:00",
           "home_team": "AC Ajaccio",
-          "away_team": "EA Guingamp"
+          "away_team": "EA Guingamp",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2024-02-10",
           "time": "19:00",
           "home_team": "Paris FC",
-          "away_team": "Pau FC"
+          "away_team": "Pau FC",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2024-02-10",
           "time": "19:00",
           "home_team": "FC Annecy",
-          "away_team": "US Concarneau"
+          "away_team": "US Concarneau",
+          "result": {
+            "full_time": "0-3"
+          }
         },
         {
           "date": "2024-02-10",
           "time": "19:00",
           "home_team": "Valenciennes FC",
-          "away_team": "Stade Lavallois"
+          "away_team": "Stade Lavallois",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2024-02-10",
           "time": "19:00",
           "home_team": "Girondins Bordeaux",
-          "away_team": "Grenoble Foot 38"
+          "away_team": "Grenoble Foot 38",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2024-02-10",
           "time": "19:00",
           "home_team": "Rodez AF",
-          "away_team": "USL Dunkerque"
+          "away_team": "USL Dunkerque",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2024-02-10",
           "time": "19:00",
           "home_team": "SM Caen",
-          "away_team": "Amiens SC"
+          "away_team": "Amiens SC",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2024-02-10",
           "time": "19:00",
           "home_team": "US Quevilly-Rouen",
-          "away_team": "SC Bastia"
+          "away_team": "SC Bastia",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2024-02-12",
           "time": "20:45",
           "home_team": "AS Saint-Étienne",
-          "away_team": "ESTAC Troyes"
+          "away_team": "ESTAC Troyes",
+          "result": {
+            "full_time": "5-0"
+          }
         }
       ]
     },
@@ -1569,61 +2289,91 @@
           "date": "2024-02-17",
           "time": "15:00",
           "home_team": "Angers SCO",
-          "away_team": "AS Saint-Étienne"
+          "away_team": "AS Saint-Étienne",
+          "result": {
+            "full_time": "0-3"
+          }
         },
         {
           "date": "2024-02-17",
           "time": "19:00",
           "home_team": "EA Guingamp",
-          "away_team": "SM Caen"
+          "away_team": "SM Caen",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2024-02-17",
           "time": "19:00",
           "home_team": "ESTAC Troyes",
-          "away_team": "Grenoble Foot 38"
+          "away_team": "Grenoble Foot 38",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2024-02-17",
           "time": "19:00",
           "home_team": "Pau FC",
-          "away_team": "US Quevilly-Rouen"
+          "away_team": "US Quevilly-Rouen",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2024-02-17",
           "time": "19:00",
           "home_team": "FC Annecy",
-          "away_team": "AJ Auxerre"
+          "away_team": "AJ Auxerre",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2024-02-17",
           "time": "19:00",
           "home_team": "SC Bastia",
-          "away_team": "Rodez AF"
+          "away_team": "Rodez AF",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2024-02-17",
           "time": "19:00",
           "home_team": "Stade Lavallois",
-          "away_team": "AC Ajaccio"
+          "away_team": "AC Ajaccio",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2024-02-17",
           "time": "19:00",
           "home_team": "US Concarneau",
-          "away_team": "Paris FC"
+          "away_team": "Paris FC",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2024-02-17",
           "time": "19:00",
           "home_team": "USL Dunkerque",
-          "away_team": "Valenciennes FC"
+          "away_team": "Valenciennes FC",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2024-02-19",
           "time": "20:45",
           "home_team": "Amiens SC",
-          "away_team": "Girondins Bordeaux"
+          "away_team": "Girondins Bordeaux",
+          "result": {
+            "full_time": "1-1"
+          }
         }
       ]
     },
@@ -1634,61 +2384,91 @@
           "date": "2024-02-24",
           "time": "15:00",
           "home_team": "AS Saint-Étienne",
-          "away_team": "FC Annecy"
+          "away_team": "FC Annecy",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2024-02-24",
           "time": "19:00",
           "home_team": "AC Ajaccio",
-          "away_team": "Amiens SC"
+          "away_team": "Amiens SC",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2024-02-24",
           "time": "19:00",
           "home_team": "AJ Auxerre",
-          "away_team": "SC Bastia"
+          "away_team": "SC Bastia",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2024-02-24",
           "time": "19:00",
           "home_team": "ESTAC Troyes",
-          "away_team": "USL Dunkerque"
+          "away_team": "USL Dunkerque",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2024-02-24",
           "time": "19:00",
           "home_team": "Valenciennes FC",
-          "away_team": "Rodez AF"
+          "away_team": "Rodez AF",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2024-02-24",
           "time": "19:00",
           "home_team": "Girondins Bordeaux",
-          "away_team": "EA Guingamp"
+          "away_team": "EA Guingamp",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2024-02-24",
           "time": "19:00",
           "home_team": "Grenoble Foot 38",
-          "away_team": "Pau FC"
+          "away_team": "Pau FC",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2024-02-24",
           "time": "19:00",
           "home_team": "US Concarneau",
-          "away_team": "Stade Lavallois"
+          "away_team": "Stade Lavallois",
+          "result": {
+            "full_time": "1-3"
+          }
         },
         {
           "date": "2024-02-24",
           "time": "19:00",
           "home_team": "US Quevilly-Rouen",
-          "away_team": "Paris FC"
+          "away_team": "Paris FC",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2024-02-26",
           "time": "20:45",
           "home_team": "SM Caen",
-          "away_team": "Angers SCO"
+          "away_team": "Angers SCO",
+          "result": {
+            "full_time": "2-0"
+          }
         }
       ]
     },
@@ -1699,61 +2479,91 @@
           "date": "2024-03-02",
           "time": "15:00",
           "home_team": "Paris FC",
-          "away_team": "AS Saint-Étienne"
+          "away_team": "AS Saint-Étienne",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2024-03-02",
           "time": "19:00",
           "home_team": "AJ Auxerre",
-          "away_team": "Valenciennes FC"
+          "away_team": "Valenciennes FC",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2024-03-02",
           "time": "19:00",
           "home_team": "EA Guingamp",
-          "away_team": "ESTAC Troyes"
+          "away_team": "ESTAC Troyes",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2024-03-02",
           "time": "19:00",
           "home_team": "Pau FC",
-          "away_team": "SM Caen"
+          "away_team": "SM Caen",
+          "result": {
+            "full_time": "2-3"
+          }
         },
         {
           "date": "2024-03-02",
           "time": "19:00",
           "home_team": "FC Annecy",
-          "away_team": "US Quevilly-Rouen"
+          "away_team": "US Quevilly-Rouen",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2024-03-02",
           "time": "19:00",
           "home_team": "Rodez AF",
-          "away_team": "Girondins Bordeaux"
+          "away_team": "Girondins Bordeaux",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2024-03-02",
           "time": "19:00",
           "home_team": "SC Bastia",
-          "away_team": "Grenoble Foot 38"
+          "away_team": "Grenoble Foot 38",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2024-03-02",
           "time": "19:00",
           "home_team": "Stade Lavallois",
-          "away_team": "Amiens SC"
+          "away_team": "Amiens SC",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2024-03-02",
           "time": "19:00",
           "home_team": "USL Dunkerque",
-          "away_team": "US Concarneau"
+          "away_team": "US Concarneau",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2024-03-04",
           "time": "20:45",
           "home_team": "Angers SCO",
-          "away_team": "AC Ajaccio"
+          "away_team": "AC Ajaccio",
+          "result": {
+            "full_time": "3-1"
+          }
         }
       ]
     },
@@ -1764,61 +2574,91 @@
           "date": "2024-03-09",
           "time": "15:00",
           "home_team": "AS Saint-Étienne",
-          "away_team": "AJ Auxerre"
+          "away_team": "AJ Auxerre",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2024-03-09",
           "time": "19:00",
           "home_team": "AC Ajaccio",
-          "away_team": "FC Annecy"
+          "away_team": "FC Annecy",
+          "result": {
+            "full_time": "1-3"
+          }
         },
         {
           "date": "2024-03-09",
           "time": "19:00",
           "home_team": "ESTAC Troyes",
-          "away_team": "SC Bastia"
+          "away_team": "SC Bastia",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2024-03-09",
           "time": "19:00",
           "home_team": "Valenciennes FC",
-          "away_team": "Angers SCO"
+          "away_team": "Angers SCO",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2024-03-09",
           "time": "19:00",
           "home_team": "Girondins Bordeaux",
-          "away_team": "US Quevilly-Rouen"
+          "away_team": "US Quevilly-Rouen",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2024-03-09",
           "time": "19:00",
           "home_team": "Amiens SC",
-          "away_team": "Rodez AF"
+          "away_team": "Rodez AF",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2024-03-09",
           "time": "19:00",
           "home_team": "SM Caen",
-          "away_team": "Paris FC"
+          "away_team": "Paris FC",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2024-03-09",
           "time": "19:00",
           "home_team": "US Concarneau",
-          "away_team": "EA Guingamp"
+          "away_team": "EA Guingamp",
+          "result": {
+            "full_time": "2-3"
+          }
         },
         {
           "date": "2024-03-09",
           "time": "19:00",
           "home_team": "USL Dunkerque",
-          "away_team": "Pau FC"
+          "away_team": "Pau FC",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2024-03-11",
           "time": "20:45",
           "home_team": "Grenoble Foot 38",
-          "away_team": "Stade Lavallois"
+          "away_team": "Stade Lavallois",
+          "result": {
+            "full_time": "0-2"
+          }
         }
       ]
     },
@@ -1829,61 +2669,91 @@
           "date": "2024-03-16",
           "time": "15:00",
           "home_team": "AJ Auxerre",
-          "away_team": "SM Caen"
+          "away_team": "SM Caen",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2024-03-16",
           "time": "19:00",
           "home_team": "EA Guingamp",
-          "away_team": "Valenciennes FC"
+          "away_team": "Valenciennes FC",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2024-03-16",
           "time": "19:00",
           "home_team": "Paris FC",
-          "away_team": "AC Ajaccio"
+          "away_team": "AC Ajaccio",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2024-03-16",
           "time": "19:00",
           "home_team": "Pau FC",
-          "away_team": "US Concarneau"
+          "away_team": "US Concarneau",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2024-03-16",
           "time": "19:00",
           "home_team": "FC Annecy",
-          "away_team": "Girondins Bordeaux"
+          "away_team": "Girondins Bordeaux",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2024-03-16",
           "time": "19:00",
           "home_team": "Rodez AF",
-          "away_team": "Grenoble Foot 38"
+          "away_team": "Grenoble Foot 38",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2024-03-16",
           "time": "19:00",
           "home_team": "SC Bastia",
-          "away_team": "AS Saint-Étienne"
+          "away_team": "AS Saint-Étienne",
+          "result": {
+            "full_time": "0-4"
+          }
         },
         {
           "date": "2024-03-16",
           "time": "19:00",
           "home_team": "Angers SCO",
-          "away_team": "Amiens SC"
+          "away_team": "Amiens SC",
+          "result": {
+            "full_time": "1-3"
+          }
         },
         {
           "date": "2024-03-16",
           "time": "19:00",
           "home_team": "Stade Lavallois",
-          "away_team": "USL Dunkerque"
+          "away_team": "USL Dunkerque",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2024-03-16",
           "time": "19:00",
           "home_team": "US Quevilly-Rouen",
-          "away_team": "ESTAC Troyes"
+          "away_team": "ESTAC Troyes",
+          "result": {
+            "full_time": "1-1"
+          }
         }
       ]
     },
@@ -1894,61 +2764,91 @@
           "date": "2024-03-30",
           "time": "15:00",
           "home_team": "Valenciennes FC",
-          "away_team": "AS Saint-Étienne"
+          "away_team": "AS Saint-Étienne",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2024-03-30",
           "time": "19:00",
           "home_team": "ESTAC Troyes",
-          "away_team": "Rodez AF"
+          "away_team": "Rodez AF",
+          "result": {
+            "full_time": "2-3"
+          }
         },
         {
           "date": "2024-03-30",
           "time": "19:00",
           "home_team": "Girondins Bordeaux",
-          "away_team": "Paris FC"
+          "away_team": "Paris FC",
+          "result": {
+            "full_time": "3-3"
+          }
         },
         {
           "date": "2024-03-30",
           "time": "19:00",
           "home_team": "Grenoble Foot 38",
-          "away_team": "EA Guingamp"
+          "away_team": "EA Guingamp",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2024-03-30",
           "time": "19:00",
           "home_team": "Amiens SC",
-          "away_team": "Pau FC"
+          "away_team": "Pau FC",
+          "result": {
+            "full_time": "2-3"
+          }
         },
         {
           "date": "2024-03-30",
           "time": "19:00",
           "home_team": "Stade Lavallois",
-          "away_team": "SC Bastia"
+          "away_team": "SC Bastia",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2024-03-30",
           "time": "19:00",
           "home_team": "US Concarneau",
-          "away_team": "Angers SCO"
+          "away_team": "Angers SCO",
+          "result": {
+            "full_time": "2-4"
+          }
         },
         {
           "date": "2024-03-30",
           "time": "19:00",
           "home_team": "US Quevilly-Rouen",
-          "away_team": "SM Caen"
+          "away_team": "SM Caen",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2024-03-30",
           "time": "19:00",
           "home_team": "USL Dunkerque",
-          "away_team": "FC Annecy"
+          "away_team": "FC Annecy",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2024-04-01",
           "time": "20:45",
           "home_team": "AC Ajaccio",
-          "away_team": "AJ Auxerre"
+          "away_team": "AJ Auxerre",
+          "result": {
+            "full_time": "0-1"
+          }
         }
       ]
     },
@@ -1959,61 +2859,91 @@
           "date": "2024-04-06",
           "time": "15:00",
           "home_team": "AS Saint-Étienne",
-          "away_team": "US Concarneau"
+          "away_team": "US Concarneau",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2024-04-06",
           "time": "19:00",
           "home_team": "EA Guingamp",
-          "away_team": "Amiens SC"
+          "away_team": "Amiens SC",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2024-04-06",
           "time": "19:00",
           "home_team": "Paris FC",
-          "away_team": "Grenoble Foot 38"
+          "away_team": "Grenoble Foot 38",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2024-04-06",
           "time": "19:00",
           "home_team": "Pau FC",
-          "away_team": "AC Ajaccio"
+          "away_team": "AC Ajaccio",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2024-04-06",
           "time": "19:00",
           "home_team": "FC Annecy",
-          "away_team": "Valenciennes FC"
+          "away_team": "Valenciennes FC",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2024-04-06",
           "time": "19:00",
           "home_team": "Rodez AF",
-          "away_team": "US Quevilly-Rouen"
+          "away_team": "US Quevilly-Rouen",
+          "result": {
+            "full_time": "3-3"
+          }
         },
         {
           "date": "2024-04-06",
           "time": "19:00",
           "home_team": "SC Bastia",
-          "away_team": "USL Dunkerque"
+          "away_team": "USL Dunkerque",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2024-04-06",
           "time": "19:00",
           "home_team": "Angers SCO",
-          "away_team": "Stade Lavallois"
+          "away_team": "Stade Lavallois",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2024-04-06",
           "time": "19:00",
           "home_team": "SM Caen",
-          "away_team": "Girondins Bordeaux"
+          "away_team": "Girondins Bordeaux",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2024-04-08",
           "time": "20:45",
           "home_team": "AJ Auxerre",
-          "away_team": "ESTAC Troyes"
+          "away_team": "ESTAC Troyes",
+          "result": {
+            "full_time": "2-0"
+          }
         }
       ]
     },
@@ -2024,61 +2954,91 @@
           "date": "2024-04-13",
           "time": "15:00",
           "home_team": "AC Ajaccio",
-          "away_team": "AS Saint-Étienne"
+          "away_team": "AS Saint-Étienne",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2024-04-13",
           "time": "19:00",
           "home_team": "ESTAC Troyes",
-          "away_team": "Paris FC"
+          "away_team": "Paris FC",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2024-04-13",
           "time": "19:00",
           "home_team": "Valenciennes FC",
-          "away_team": "Pau FC"
+          "away_team": "Pau FC",
+          "result": {
+            "full_time": "1-4"
+          }
         },
         {
           "date": "2024-04-13",
           "time": "19:00",
           "home_team": "Girondins Bordeaux",
-          "away_team": "SC Bastia"
+          "away_team": "SC Bastia",
+          "result": {
+            "full_time": "2-3"
+          }
         },
         {
           "date": "2024-04-13",
           "time": "19:00",
           "home_team": "US Concarneau",
-          "away_team": "Amiens SC"
+          "away_team": "Amiens SC",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2024-04-13",
           "time": "19:00",
           "home_team": "SM Caen",
-          "away_team": "Rodez AF"
+          "away_team": "Rodez AF",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2024-04-13",
           "time": "19:00",
           "home_team": "Stade Lavallois",
-          "away_team": "FC Annecy"
+          "away_team": "FC Annecy",
+          "result": {
+            "full_time": "0-3"
+          }
         },
         {
           "date": "2024-04-13",
           "time": "19:00",
           "home_team": "US Quevilly-Rouen",
-          "away_team": "AJ Auxerre"
+          "away_team": "AJ Auxerre",
+          "result": {
+            "full_time": "4-3"
+          }
         },
         {
           "date": "2024-04-13",
           "time": "19:00",
           "home_team": "USL Dunkerque",
-          "away_team": "EA Guingamp"
+          "away_team": "EA Guingamp",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2024-04-15",
           "time": "20:45",
           "home_team": "Grenoble Foot 38",
-          "away_team": "Angers SCO"
+          "away_team": "Angers SCO",
+          "result": {
+            "full_time": "0-0"
+          }
         }
       ]
     },
@@ -2089,61 +3049,91 @@
           "date": "2024-04-20",
           "time": "15:00",
           "home_team": "Rodez AF",
-          "away_team": "AJ Auxerre"
+          "away_team": "AJ Auxerre",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2024-04-20",
           "time": "19:00",
           "home_team": "AC Ajaccio",
-          "away_team": "SM Caen"
+          "away_team": "SM Caen",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2024-04-20",
           "time": "19:00",
           "home_team": "AS Saint-Étienne",
-          "away_team": "Girondins Bordeaux"
+          "away_team": "Girondins Bordeaux",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2024-04-20",
           "time": "19:00",
           "home_team": "EA Guingamp",
-          "away_team": "SC Bastia"
+          "away_team": "SC Bastia",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2024-04-20",
           "time": "19:00",
           "home_team": "Paris FC",
-          "away_team": "Valenciennes FC"
+          "away_team": "Valenciennes FC",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2024-04-20",
           "time": "19:00",
           "home_team": "Pau FC",
-          "away_team": "Stade Lavallois"
+          "away_team": "Stade Lavallois",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2024-04-20",
           "time": "19:00",
           "home_team": "FC Annecy",
-          "away_team": "Grenoble Foot 38"
+          "away_team": "Grenoble Foot 38",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2024-04-20",
           "time": "19:00",
           "home_team": "Amiens SC",
-          "away_team": "USL Dunkerque"
+          "away_team": "USL Dunkerque",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2024-04-20",
           "time": "19:00",
           "home_team": "Angers SCO",
-          "away_team": "ESTAC Troyes"
+          "away_team": "ESTAC Troyes",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2024-04-20",
           "time": "19:00",
           "home_team": "US Concarneau",
-          "away_team": "US Quevilly-Rouen"
+          "away_team": "US Quevilly-Rouen",
+          "result": {
+            "full_time": "0-0"
+          }
         }
       ]
     },
@@ -2154,61 +3144,91 @@
           "date": "2024-04-23",
           "time": "20:45",
           "home_team": "AJ Auxerre",
-          "away_team": "Stade Lavallois"
+          "away_team": "Stade Lavallois",
+          "result": {
+            "full_time": "4-0"
+          }
         },
         {
           "date": "2024-04-23",
           "time": "20:45",
           "home_team": "EA Guingamp",
-          "away_team": "Angers SCO"
+          "away_team": "Angers SCO",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2024-04-23",
           "time": "20:45",
           "home_team": "ESTAC Troyes",
-          "away_team": "Pau FC"
+          "away_team": "Pau FC",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2024-04-23",
           "time": "20:45",
           "home_team": "Valenciennes FC",
-          "away_team": "AC Ajaccio"
+          "away_team": "AC Ajaccio",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2024-04-23",
           "time": "20:45",
           "home_team": "Girondins Bordeaux",
-          "away_team": "USL Dunkerque"
+          "away_team": "USL Dunkerque",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2024-04-23",
           "time": "20:45",
           "home_team": "Grenoble Foot 38",
-          "away_team": "AS Saint-Étienne"
+          "away_team": "AS Saint-Étienne",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2024-04-23",
           "time": "20:45",
           "home_team": "Rodez AF",
-          "away_team": "Paris FC"
+          "away_team": "Paris FC",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2024-04-23",
           "time": "20:45",
           "home_team": "SC Bastia",
-          "away_team": "US Concarneau"
+          "away_team": "US Concarneau",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2024-04-23",
           "time": "20:45",
           "home_team": "SM Caen",
-          "away_team": "FC Annecy"
+          "away_team": "FC Annecy",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2024-04-23",
           "time": "20:45",
           "home_team": "US Quevilly-Rouen",
-          "away_team": "Amiens SC"
+          "away_team": "Amiens SC",
+          "result": {
+            "full_time": "3-3"
+          }
         }
       ]
     },
@@ -2219,61 +3239,91 @@
           "date": "2024-04-27",
           "time": "15:00",
           "home_team": "AS Saint-Étienne",
-          "away_team": "SM Caen"
+          "away_team": "SM Caen",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2024-04-27",
           "time": "19:00",
           "home_team": "AC Ajaccio",
-          "away_team": "US Quevilly-Rouen"
+          "away_team": "US Quevilly-Rouen",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2024-04-27",
           "time": "19:00",
           "home_team": "Paris FC",
-          "away_team": "Angers SCO"
+          "away_team": "Angers SCO",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2024-04-27",
           "time": "19:00",
           "home_team": "Pau FC",
-          "away_team": "EA Guingamp"
+          "away_team": "EA Guingamp",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2024-04-27",
           "time": "19:00",
           "home_team": "FC Annecy",
-          "away_team": "SC Bastia"
+          "away_team": "SC Bastia",
+          "result": {
+            "full_time": "3-2"
+          }
         },
         {
           "date": "2024-04-27",
           "time": "19:00",
           "home_team": "Valenciennes FC",
-          "away_team": "Grenoble Foot 38"
+          "away_team": "Grenoble Foot 38",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2024-04-27",
           "time": "19:00",
           "home_team": "Amiens SC",
-          "away_team": "ESTAC Troyes"
+          "away_team": "ESTAC Troyes",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2024-04-27",
           "time": "19:00",
           "home_team": "Stade Lavallois",
-          "away_team": "Girondins Bordeaux"
+          "away_team": "Girondins Bordeaux",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2024-04-27",
           "time": "19:00",
           "home_team": "US Concarneau",
-          "away_team": "Rodez AF"
+          "away_team": "Rodez AF",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2024-04-29",
           "time": "20:45",
           "home_team": "USL Dunkerque",
-          "away_team": "AJ Auxerre"
+          "away_team": "AJ Auxerre",
+          "result": {
+            "full_time": "1-3"
+          }
         }
       ]
     },
@@ -2284,61 +3334,91 @@
           "date": "2024-05-03",
           "time": "20:00",
           "home_team": "ESTAC Troyes",
-          "away_team": "Valenciennes FC"
+          "away_team": "Valenciennes FC",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2024-05-03",
           "time": "20:00",
           "home_team": "Girondins Bordeaux",
-          "away_team": "AC Ajaccio"
+          "away_team": "AC Ajaccio",
+          "result": {
+            "full_time": "4-0"
+          }
         },
         {
           "date": "2024-05-03",
           "time": "20:00",
           "home_team": "Grenoble Foot 38",
-          "away_team": "US Concarneau"
+          "away_team": "US Concarneau",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2024-05-03",
           "time": "20:00",
           "home_team": "Rodez AF",
-          "away_team": "FC Annecy"
+          "away_team": "FC Annecy",
+          "result": {
+            "full_time": "1-3"
+          }
         },
         {
           "date": "2024-05-03",
           "time": "20:00",
           "home_team": "SC Bastia",
-          "away_team": "Amiens SC"
+          "away_team": "Amiens SC",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2024-05-03",
           "time": "20:00",
           "home_team": "Angers SCO",
-          "away_team": "Pau FC"
+          "away_team": "Pau FC",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2024-05-03",
           "time": "20:00",
           "home_team": "SM Caen",
-          "away_team": "Stade Lavallois"
+          "away_team": "Stade Lavallois",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2024-05-03",
           "time": "20:00",
           "home_team": "US Quevilly-Rouen",
-          "away_team": "USL Dunkerque"
+          "away_team": "USL Dunkerque",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2024-05-04",
           "time": "15:00",
           "home_team": "AJ Auxerre",
-          "away_team": "Paris FC"
+          "away_team": "Paris FC",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2024-05-04",
           "time": "19:00",
           "home_team": "EA Guingamp",
-          "away_team": "AS Saint-Étienne"
+          "away_team": "AS Saint-Étienne",
+          "result": {
+            "full_time": "2-2"
+          }
         }
       ]
     },
@@ -2349,61 +3429,91 @@
           "date": "2024-05-10",
           "time": "20:45",
           "home_team": "AC Ajaccio",
-          "away_team": "Grenoble Foot 38"
+          "away_team": "Grenoble Foot 38",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2024-05-10",
           "time": "20:45",
           "home_team": "AS Saint-Étienne",
-          "away_team": "Rodez AF"
+          "away_team": "Rodez AF",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2024-05-10",
           "time": "20:45",
           "home_team": "Paris FC",
-          "away_team": "EA Guingamp"
+          "away_team": "EA Guingamp",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2024-05-10",
           "time": "20:45",
           "home_team": "Pau FC",
-          "away_team": "SC Bastia"
+          "away_team": "SC Bastia",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2024-05-10",
           "time": "20:45",
           "home_team": "FC Annecy",
-          "away_team": "Angers SCO"
+          "away_team": "Angers SCO",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2024-05-10",
           "time": "20:45",
           "home_team": "Valenciennes FC",
-          "away_team": "US Quevilly-Rouen"
+          "away_team": "US Quevilly-Rouen",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2024-05-10",
           "time": "20:45",
           "home_team": "Amiens SC",
-          "away_team": "AJ Auxerre"
+          "away_team": "AJ Auxerre",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2024-05-10",
           "time": "20:45",
           "home_team": "Stade Lavallois",
-          "away_team": "ESTAC Troyes"
+          "away_team": "ESTAC Troyes",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2024-05-10",
           "time": "20:45",
           "home_team": "US Concarneau",
-          "away_team": "Girondins Bordeaux"
+          "away_team": "Girondins Bordeaux",
+          "result": {
+            "full_time": "4-2"
+          }
         },
         {
           "date": "2024-05-10",
           "time": "20:45",
           "home_team": "USL Dunkerque",
-          "away_team": "SM Caen"
+          "away_team": "SM Caen",
+          "result": {
+            "full_time": "2-2"
+          }
         }
       ]
     },
@@ -2414,61 +3524,91 @@
           "date": "2024-05-17",
           "time": "20:45",
           "home_team": "AJ Auxerre",
-          "away_team": "US Concarneau"
+          "away_team": "US Concarneau",
+          "result": {
+            "full_time": "4-1"
+          }
         },
         {
           "date": "2024-05-17",
           "time": "20:45",
           "home_team": "EA Guingamp",
-          "away_team": "Stade Lavallois"
+          "away_team": "Stade Lavallois",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2024-05-17",
           "time": "20:45",
           "home_team": "ESTAC Troyes",
-          "away_team": "FC Annecy"
+          "away_team": "FC Annecy",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2024-05-17",
           "time": "20:45",
           "home_team": "Girondins Bordeaux",
-          "away_team": "Pau FC"
+          "away_team": "Pau FC",
+          "result": {
+            "full_time": "3-2"
+          }
         },
         {
           "date": "2024-05-17",
           "time": "20:45",
           "home_team": "Grenoble Foot 38",
-          "away_team": "Amiens SC"
+          "away_team": "Amiens SC",
+          "result": {
+            "full_time": "1-3"
+          }
         },
         {
           "date": "2024-05-17",
           "time": "20:45",
           "home_team": "Rodez AF",
-          "away_team": "AC Ajaccio"
+          "away_team": "AC Ajaccio",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2024-05-17",
           "time": "20:45",
           "home_team": "SC Bastia",
-          "away_team": "Paris FC"
+          "away_team": "Paris FC",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2024-05-17",
           "time": "20:45",
           "home_team": "Angers SCO",
-          "away_team": "USL Dunkerque"
+          "away_team": "USL Dunkerque",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2024-05-17",
           "time": "20:45",
           "home_team": "SM Caen",
-          "away_team": "Valenciennes FC"
+          "away_team": "Valenciennes FC",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2024-05-17",
           "time": "20:45",
           "home_team": "US Quevilly-Rouen",
-          "away_team": "AS Saint-Étienne"
+          "away_team": "AS Saint-Étienne",
+          "result": {
+            "full_time": "2-1"
+          }
         }
       ]
     }
