@@ -29,7 +29,10 @@ def parse_football_txt(content):
                 start_year = int(season_match.group(1))
                 yy = int(season_match.group(2))
                 century = start_year // 100
-                end_year = ((century + 1) * 100 + yy) if yy <= (start_year % 100) else (century * 100 + yy)
+                if yy <= (start_year % 100):
+                    end_year = (century + 1) * 100 + yy
+                else:
+                    end_year = century * 100 + yy
                 season_start_year = start_year
                 season_end_year = end_year
                 cross_year = True
@@ -44,7 +47,10 @@ def parse_football_txt(content):
         if line.startswith('»') or re.match(r'(Matchday \d+|[A-Za-z ]+Round \d+|Finals?)', line):
             if current_matchday:
                 matchdays.append(current_matchday)
-            current_matchday = {"matchday": line.lstrip('» ').strip(), "matches": []}
+            current_matchday = {
+                "matchday": line.lstrip('» ').strip(),
+                "matches": []
+            }
             continue
 
         # Date line
@@ -75,37 +81,60 @@ def parse_football_txt(content):
 
         # Match line
         if ' v ' in line and current_date:
-            home, away_part = re.split(r"\s+v\s+", line)
+            home_away = re.split(r"\s+v\s+", line)
+            if len(home_away) != 2:
+                continue
+            home, away_part = home_away
             cancelled = '[cancelled]' in away_part
             if cancelled:
                 away_part = away_part.replace('[cancelled]', '').strip()
 
-            result = {}
-            # handle cases with a.e.t. and penalties
-            if re.search(r"a\.?e\.?t\.?") and 'pen' in away_part:
-                paren = re.search(r"\((\d+-\d+),", away_part)
-                if paren:
-                    result['full_time'] = paren.group(1)
-                aet = re.search(r"a\.?e\.?t\.?\s*(\d+-\d+)", away_part)
-                if aet:
-                    result['after_extra_time'] = aet.group(1)
-                pen = re.search(r"(\d+-\d+)\s*pen", away_part)
-                if pen:
-                    result['penalties'] = pen.group(1)
-                away = re.split(r"\s*\d+-\d+", away_part)[0].strip()
+            # Split away_part into away_team and result_part
+            score_match = re.search(r'\d+-\d+', away_part)
+            if score_match:
+                start = score_match.start()
+                away_team = away_part[:start].strip()
+                result_part = away_part[start:].strip()
             else:
-                res_match = re.search(r"(\d+-\d+)", away_part)
-                if res_match:
-                    result['full_time'] = res_match.group(1)
-                    away = away_part[:res_match.start()].strip()
-                else:
-                    away = away_part
+                away_team = away_part.strip()
+                result_part = None
+
+            result = {}
+            if result_part:
+                # Extract breakdown
+                breakdown_match = re.search(r'\(([^)]+)\)', result_part)
+                if breakdown_match:
+                    breakdown = breakdown_match.group(1)
+                    breakdown_list = [b.strip() for b in breakdown.split(',')]
+                    result['breakdown'] = breakdown_list
+                    result['full_time'] = breakdown_list[-1] if breakdown_list else None
+                    result_part = re.sub(r'\([^)]+\)', '', result_part).strip()
+
+                # Extract penalties
+                pen_match = re.search(r'pen\.\s*(\d+-\d+)', result_part)
+                if pen_match:
+                    result['penalties'] = pen_match.group(1)
+                    result_part = re.sub(r'pen\.\s*\d+-\d+', '', result_part).strip()
+
+                # Extract extra time
+                et_match = re.search(r'a\.e\.t\.\s*(\d+-\d+)', result_part)
+                if et_match:
+                    result['extra_time'] = et_match.group(1)
+                    result_part = re.sub(r'a\.e\.t\.\s*\d+-\d+', '', result_part).strip()
+
+                # Extract remaining scores
+                remaining_scores = re.findall(r'\d+-\d+', result_part)
+                if remaining_scores and 'full_time' not in result:
+                    result['full_time'] = remaining_scores[0]
+
+            if cancelled:
+                result = 'cancelled'
 
             match = {
                 "date": current_date,
                 "time": current_time,
                 "home_team": home.strip(),
-                "away_team": away.strip()
+                "away_team": away_team.strip()
             }
             if result:
                 match["result"] = result
@@ -115,4 +144,8 @@ def parse_football_txt(content):
     if current_matchday:
         matchdays.append(current_matchday)
 
-    return {"league": league, "season": season, "matchdays": matchdays}
+    return {
+        "league": league,
+        "season": season,
+        "matchdays": matchdays
+    }
