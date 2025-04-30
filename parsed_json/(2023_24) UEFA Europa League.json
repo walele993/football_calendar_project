@@ -11,7 +11,10 @@
           "home_team": "Olympiakos Piraeus (GRE)",
           "away_team": "SC Freiburg (GER)",
           "result": {
-            "full_time": "2-3"
+            "breakdown": [
+              "1-2"
+            ],
+            "full_time": "1-2"
           }
         },
         {
@@ -20,7 +23,10 @@
           "home_team": "West Ham United (ENG)",
           "away_team": "TSC Bačka Topola (SRB)",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -29,79 +35,106 @@
           "home_team": "SC Freiburg (GER)",
           "away_team": "West Ham United (ENG)",
           "result": {
-            "full_time": "1-2"
-          }
-        },
-        {
-          "date": "2023-10-05",
-          "time": "18:45",
-          "home_team": "TSC Bačka Topola (SRB)",
-          "away_team": "Olympiakos Piraeus (GRE)",
-          "result": {
-            "full_time": "2-2"
-          }
-        },
-        {
-          "date": "2023-10-26",
-          "time": "18:45",
-          "home_team": "Olympiakos Piraeus (GRE)",
-          "away_team": "West Ham United (ENG)",
-          "result": {
-            "full_time": "2-1"
-          }
-        },
-        {
-          "date": "2023-10-26",
-          "time": "18:45",
-          "home_team": "TSC Bačka Topola (SRB)",
-          "away_team": "SC Freiburg (GER)",
-          "result": {
-            "full_time": "1-3"
-          }
-        },
-        {
-          "date": "2023-11-09",
-          "time": "21:00",
-          "home_team": "SC Freiburg (GER)",
-          "away_team": "TSC Bačka Topola (SRB)",
-          "result": {
-            "full_time": "5-0"
-          }
-        },
-        {
-          "date": "2023-11-09",
-          "time": "21:00",
-          "home_team": "West Ham United (ENG)",
-          "away_team": "Olympiakos Piraeus (GRE)",
-          "result": {
-            "full_time": "1-0"
-          }
-        },
-        {
-          "date": "2023-11-30",
-          "time": "18:45",
-          "home_team": "SC Freiburg (GER)",
-          "away_team": "Olympiakos Piraeus (GRE)",
-          "result": {
-            "full_time": "5-0"
-          }
-        },
-        {
-          "date": "2023-11-30",
-          "time": "18:45",
-          "home_team": "TSC Bačka Topola (SRB)",
-          "away_team": "West Ham United (ENG)",
-          "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
         {
+          "date": "2023-10-05",
+          "time": "18:45",
+          "home_team": "TSC Bačka Topola (SRB)",
+          "away_team": "Olympiakos Piraeus (GRE)",
+          "result": {
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2023-10-26",
+          "time": "18:45",
+          "home_team": "Olympiakos Piraeus (GRE)",
+          "away_team": "West Ham United (ENG)",
+          "result": {
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2023-10-26",
+          "time": "18:45",
+          "home_team": "TSC Bačka Topola (SRB)",
+          "away_team": "SC Freiburg (GER)",
+          "result": {
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2023-11-09",
+          "time": "21:00",
+          "home_team": "SC Freiburg (GER)",
+          "away_team": "TSC Bačka Topola (SRB)",
+          "result": {
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2023-11-09",
+          "time": "21:00",
+          "home_team": "West Ham United (ENG)",
+          "away_team": "Olympiakos Piraeus (GRE)",
+          "result": {
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2023-11-30",
+          "time": "18:45",
+          "home_team": "SC Freiburg (GER)",
+          "away_team": "Olympiakos Piraeus (GRE)",
+          "result": {
+            "breakdown": [
+              "4-0"
+            ],
+            "full_time": "4-0"
+          }
+        },
+        {
+          "date": "2023-11-30",
+          "time": "18:45",
+          "home_team": "TSC Bačka Topola (SRB)",
+          "away_team": "West Ham United (ENG)",
+          "result": {
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
+          }
+        },
+        {
           "date": "2023-12-14",
           "time": "21:00",
           "home_team": "Olympiakos Piraeus (GRE)",
           "away_team": "TSC Bačka Topola (SRB)",
           "result": {
-            "full_time": "5-2"
+            "breakdown": [
+              "3-0"
+            ],
+            "full_time": "3-0"
           }
         },
         {
@@ -110,6 +143,9 @@
           "home_team": "West Ham United (ENG)",
           "away_team": "SC Freiburg (GER)",
           "result": {
+            "breakdown": [
+              "2-0"
+            ],
             "full_time": "2-0"
           }
         }
@@ -124,7 +160,10 @@
           "home_team": "AFC Ajax (NED)",
           "away_team": "Olympique Marseille (FRA)",
           "result": {
-            "full_time": "3-3"
+            "breakdown": [
+              "2-2"
+            ],
+            "full_time": "2-2"
           }
         },
         {
@@ -133,7 +172,10 @@
           "home_team": "Brighton & Hove Albion (ENG)",
           "away_team": "AEK Athen (GRE)",
           "result": {
-            "full_time": "2-3"
+            "breakdown": [
+              "1-2"
+            ],
+            "full_time": "1-2"
           }
         },
         {
@@ -142,7 +184,10 @@
           "home_team": "AEK Athen (GRE)",
           "away_team": "AFC Ajax (NED)",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -151,7 +196,10 @@
           "home_team": "Olympique Marseille (FRA)",
           "away_team": "Brighton & Hove Albion (ENG)",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -160,7 +208,10 @@
           "home_team": "Olympique Marseille (FRA)",
           "away_team": "AEK Athen (GRE)",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -169,7 +220,10 @@
           "home_team": "Brighton & Hove Albion (ENG)",
           "away_team": "AFC Ajax (NED)",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -178,7 +232,10 @@
           "home_team": "AFC Ajax (NED)",
           "away_team": "Brighton & Hove Albion (ENG)",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -187,25 +244,34 @@
           "home_team": "AEK Athen (GRE)",
           "away_team": "Olympique Marseille (FRA)",
           "result": {
-            "full_time": "0-2"
-          }
-        },
-        {
-          "date": "2023-11-30",
-          "time": "18:45",
-          "home_team": "AEK Athen (GRE)",
-          "away_team": "Brighton & Hove Albion (ENG)",
-          "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
         {
           "date": "2023-11-30",
+          "time": "18:45",
+          "home_team": "AEK Athen (GRE)",
+          "away_team": "Brighton & Hove Albion (ENG)",
+          "result": {
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2023-11-30",
           "time": "21:00",
           "home_team": "Olympique Marseille (FRA)",
           "away_team": "AFC Ajax (NED)",
           "result": {
-            "full_time": "4-3"
+            "breakdown": [
+              "2-2"
+            ],
+            "full_time": "2-2"
           }
         },
         {
@@ -214,7 +280,10 @@
           "home_team": "AFC Ajax (NED)",
           "away_team": "AEK Athen (GRE)",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "2-1"
+            ],
+            "full_time": "2-1"
           }
         },
         {
@@ -223,7 +292,10 @@
           "home_team": "Brighton & Hove Albion (ENG)",
           "away_team": "Olympique Marseille (FRA)",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -237,7 +309,10 @@
           "home_team": "AC Sparta Praha (CZE)",
           "away_team": "Aris Limassol (CYP)",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "2-1"
+            ],
+            "full_time": "2-1"
           }
         },
         {
@@ -246,7 +321,10 @@
           "home_team": "Rangers FC (SCO)",
           "away_team": "Real Betis (ESP)",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -255,7 +333,10 @@
           "home_team": "Aris Limassol (CYP)",
           "away_team": "Rangers FC (SCO)",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -264,7 +345,10 @@
           "home_team": "Real Betis (ESP)",
           "away_team": "AC Sparta Praha (CZE)",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -282,7 +366,10 @@
           "home_team": "Aris Limassol (CYP)",
           "away_team": "Real Betis (ESP)",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -291,7 +378,10 @@
           "home_team": "Rangers FC (SCO)",
           "away_team": "AC Sparta Praha (CZE)",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -300,7 +390,10 @@
           "home_team": "Real Betis (ESP)",
           "away_team": "Aris Limassol (CYP)",
           "result": {
-            "full_time": "4-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -309,7 +402,10 @@
           "home_team": "AC Sparta Praha (CZE)",
           "away_team": "Real Betis (ESP)",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -318,7 +414,10 @@
           "home_team": "Rangers FC (SCO)",
           "away_team": "Aris Limassol (CYP)",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -327,7 +426,10 @@
           "home_team": "Aris Limassol (CYP)",
           "away_team": "AC Sparta Praha (CZE)",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "0-3"
+            ],
+            "full_time": "0-3"
           }
         },
         {
@@ -336,7 +438,10 @@
           "home_team": "Real Betis (ESP)",
           "away_team": "Rangers FC (SCO)",
           "result": {
-            "full_time": "2-3"
+            "breakdown": [
+              "2-2"
+            ],
+            "full_time": "2-2"
           }
         }
       ]
@@ -350,7 +455,10 @@
           "home_team": "Atalanta (ITA)",
           "away_team": "Raków Częstochowa (POL)",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -359,7 +467,10 @@
           "home_team": "Sturm Graz (AUT)",
           "away_team": "Sporting CP (POR)",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -368,6 +479,9 @@
           "home_team": "Raków Częstochowa (POL)",
           "away_team": "Sturm Graz (AUT)",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -377,7 +491,10 @@
           "home_team": "Sporting CP (POR)",
           "away_team": "Atalanta (ITA)",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -386,7 +503,10 @@
           "home_team": "Raków Częstochowa (POL)",
           "away_team": "Sporting CP (POR)",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -395,7 +515,10 @@
           "home_team": "Sturm Graz (AUT)",
           "away_team": "Atalanta (ITA)",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-2"
+            ],
+            "full_time": "1-2"
           }
         },
         {
@@ -404,25 +527,34 @@
           "home_team": "Atalanta (ITA)",
           "away_team": "Sturm Graz (AUT)",
           "result": {
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2023-11-09",
+          "time": "21:00",
+          "home_team": "Sporting CP (POR)",
+          "away_team": "Raków Częstochowa (POL)",
+          "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
         {
-          "date": "2023-11-09",
-          "time": "21:00",
-          "home_team": "Sporting CP (POR)",
-          "away_team": "Raków Częstochowa (POL)",
-          "result": {
-            "full_time": "2-1"
-          }
-        },
-        {
           "date": "2023-11-30",
           "time": "18:45",
           "home_team": "Atalanta (ITA)",
           "away_team": "Sporting CP (POR)",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -431,7 +563,10 @@
           "home_team": "Sturm Graz (AUT)",
           "away_team": "Raków Częstochowa (POL)",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -440,7 +575,10 @@
           "home_team": "Raków Częstochowa (POL)",
           "away_team": "Atalanta (ITA)",
           "result": {
-            "full_time": "0-4"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -449,7 +587,10 @@
           "home_team": "Sporting CP (POR)",
           "away_team": "Sturm Graz (AUT)",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         }
       ]
@@ -463,7 +604,10 @@
           "home_team": "Union Saint-Gilloise (BEL)",
           "away_team": "Toulouse FC (FRA)",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -472,7 +616,10 @@
           "home_team": "LASK (AUT)",
           "away_team": "Liverpool FC (ENG)",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -481,7 +628,10 @@
           "home_team": "Liverpool FC (ENG)",
           "away_team": "Union Saint-Gilloise (BEL)",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -490,6 +640,9 @@
           "home_team": "Toulouse FC (FRA)",
           "away_team": "LASK (AUT)",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -499,7 +652,10 @@
           "home_team": "Liverpool FC (ENG)",
           "away_team": "Toulouse FC (FRA)",
           "result": {
-            "full_time": "5-1"
+            "breakdown": [
+              "3-1"
+            ],
+            "full_time": "3-1"
           }
         },
         {
@@ -508,7 +664,10 @@
           "home_team": "Union Saint-Gilloise (BEL)",
           "away_team": "LASK (AUT)",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -517,7 +676,10 @@
           "home_team": "Toulouse FC (FRA)",
           "away_team": "Liverpool FC (ENG)",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -526,7 +688,10 @@
           "home_team": "LASK (AUT)",
           "away_team": "Union Saint-Gilloise (BEL)",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -535,7 +700,10 @@
           "home_team": "Liverpool FC (ENG)",
           "away_team": "LASK (AUT)",
           "result": {
-            "full_time": "4-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -553,6 +721,9 @@
           "home_team": "Union Saint-Gilloise (BEL)",
           "away_team": "Liverpool FC (ENG)",
           "result": {
+            "breakdown": [
+              "2-1"
+            ],
             "full_time": "2-1"
           }
         },
@@ -562,7 +733,10 @@
           "home_team": "LASK (AUT)",
           "away_team": "Toulouse FC (FRA)",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -576,7 +750,10 @@
           "home_team": "Stade Rennais (FRA)",
           "away_team": "Maccabi Haifa (ISR)",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -585,7 +762,10 @@
           "home_team": "Panathinaikos (GRE)",
           "away_team": "Villarreal CF (ESP)",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -594,6 +774,9 @@
           "home_team": "Villarreal CF (ESP)",
           "away_team": "Stade Rennais (FRA)",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -612,7 +795,10 @@
           "home_team": "Panathinaikos (GRE)",
           "away_team": "Stade Rennais (FRA)",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -621,7 +807,10 @@
           "home_team": "Stade Rennais (FRA)",
           "away_team": "Panathinaikos (GRE)",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -630,7 +819,10 @@
           "home_team": "Maccabi Haifa (ISR)",
           "away_team": "Villarreal CF (ESP)",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -639,7 +831,10 @@
           "home_team": "Maccabi Haifa (ISR)",
           "away_team": "Stade Rennais (FRA)",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -648,7 +843,10 @@
           "home_team": "Villarreal CF (ESP)",
           "away_team": "Panathinaikos (GRE)",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -666,7 +864,10 @@
           "home_team": "Stade Rennais (FRA)",
           "away_team": "Villarreal CF (ESP)",
           "result": {
-            "full_time": "2-3"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -675,7 +876,10 @@
           "home_team": "Panathinaikos (GRE)",
           "away_team": "Maccabi Haifa (ISR)",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         }
       ]
@@ -689,7 +893,10 @@
           "home_team": "FC Sheriff (MDA)",
           "away_team": "AS Roma (ITA)",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -698,7 +905,10 @@
           "home_team": "Servette FC (SUI)",
           "away_team": "Slavia Praha (CZE)",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -707,7 +917,10 @@
           "home_team": "AS Roma (ITA)",
           "away_team": "Servette FC (SUI)",
           "result": {
-            "full_time": "4-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -716,78 +929,105 @@
           "home_team": "Slavia Praha (CZE)",
           "away_team": "FC Sheriff (MDA)",
           "result": {
-            "full_time": "6-0"
-          }
-        },
-        {
-          "date": "2023-10-26",
-          "time": "21:00",
-          "home_team": "AS Roma (ITA)",
-          "away_team": "Slavia Praha (CZE)",
-          "result": {
-            "full_time": "2-0"
-          }
-        },
-        {
-          "date": "2023-10-26",
-          "time": "21:00",
-          "home_team": "FC Sheriff (MDA)",
-          "away_team": "Servette FC (SUI)",
-          "result": {
-            "full_time": "1-1"
-          }
-        },
-        {
-          "date": "2023-11-09",
-          "time": "18:45",
-          "home_team": "Slavia Praha (CZE)",
-          "away_team": "AS Roma (ITA)",
-          "result": {
-            "full_time": "2-0"
-          }
-        },
-        {
-          "date": "2023-11-09",
-          "time": "18:45",
-          "home_team": "Servette FC (SUI)",
-          "away_team": "FC Sheriff (MDA)",
-          "result": {
-            "full_time": "2-1"
-          }
-        },
-        {
-          "date": "2023-11-30",
-          "time": "21:00",
-          "home_team": "Servette FC (SUI)",
-          "away_team": "AS Roma (ITA)",
-          "result": {
-            "full_time": "1-1"
-          }
-        },
-        {
-          "date": "2023-11-30",
-          "time": "21:00",
-          "home_team": "FC Sheriff (MDA)",
-          "away_team": "Slavia Praha (CZE)",
-          "result": {
-            "full_time": "2-3"
-          }
-        },
-        {
-          "date": "2023-12-14",
-          "time": "18:45",
-          "home_team": "AS Roma (ITA)",
-          "away_team": "FC Sheriff (MDA)",
-          "result": {
+            "breakdown": [
+              "3-0"
+            ],
             "full_time": "3-0"
           }
         },
         {
+          "date": "2023-10-26",
+          "time": "21:00",
+          "home_team": "AS Roma (ITA)",
+          "away_team": "Slavia Praha (CZE)",
+          "result": {
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2023-10-26",
+          "time": "21:00",
+          "home_team": "FC Sheriff (MDA)",
+          "away_team": "Servette FC (SUI)",
+          "result": {
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2023-11-09",
+          "time": "18:45",
+          "home_team": "Slavia Praha (CZE)",
+          "away_team": "AS Roma (ITA)",
+          "result": {
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2023-11-09",
+          "time": "18:45",
+          "home_team": "Servette FC (SUI)",
+          "away_team": "FC Sheriff (MDA)",
+          "result": {
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2023-11-30",
+          "time": "21:00",
+          "home_team": "Servette FC (SUI)",
+          "away_team": "AS Roma (ITA)",
+          "result": {
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2023-11-30",
+          "time": "21:00",
+          "home_team": "FC Sheriff (MDA)",
+          "away_team": "Slavia Praha (CZE)",
+          "result": {
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2023-12-14",
+          "time": "18:45",
+          "home_team": "AS Roma (ITA)",
+          "away_team": "FC Sheriff (MDA)",
+          "result": {
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
+          }
+        },
+        {
           "date": "2023-12-14",
           "time": "18:45",
           "home_team": "Slavia Praha (CZE)",
           "away_team": "Servette FC (SUI)",
           "result": {
+            "breakdown": [
+              "4-0"
+            ],
             "full_time": "4-0"
           }
         }
@@ -802,7 +1042,10 @@
           "home_team": "Bayer Leverkusen (GER)",
           "away_team": "BK Häcken (SWE)",
           "result": {
-            "full_time": "4-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -811,7 +1054,10 @@
           "home_team": "Qarabağ FK (AZE)",
           "away_team": "Molde FK (NOR)",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -820,7 +1066,10 @@
           "home_team": "Molde FK (NOR)",
           "away_team": "Bayer Leverkusen (GER)",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -829,7 +1078,10 @@
           "home_team": "BK Häcken (SWE)",
           "away_team": "Qarabağ FK (AZE)",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -838,7 +1090,10 @@
           "home_team": "Molde FK (NOR)",
           "away_team": "BK Häcken (SWE)",
           "result": {
-            "full_time": "5-1"
+            "breakdown": [
+              "3-1"
+            ],
+            "full_time": "3-1"
           }
         },
         {
@@ -847,7 +1102,10 @@
           "home_team": "Bayer Leverkusen (GER)",
           "away_team": "Qarabağ FK (AZE)",
           "result": {
-            "full_time": "5-1"
+            "breakdown": [
+              "3-1"
+            ],
+            "full_time": "3-1"
           }
         },
         {
@@ -856,7 +1114,10 @@
           "home_team": "Qarabağ FK (AZE)",
           "away_team": "Bayer Leverkusen (GER)",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -865,25 +1126,34 @@
           "home_team": "BK Häcken (SWE)",
           "away_team": "Molde FK (NOR)",
           "result": {
-            "full_time": "1-3"
-          }
-        },
-        {
-          "date": "2023-11-30",
-          "time": "21:00",
-          "home_team": "BK Häcken (SWE)",
-          "away_team": "Bayer Leverkusen (GER)",
-          "result": {
+            "breakdown": [
+              "0-2"
+            ],
             "full_time": "0-2"
           }
         },
         {
           "date": "2023-11-30",
           "time": "21:00",
+          "home_team": "BK Häcken (SWE)",
+          "away_team": "Bayer Leverkusen (GER)",
+          "result": {
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2023-11-30",
+          "time": "21:00",
           "home_team": "Molde FK (NOR)",
           "away_team": "Qarabağ FK (AZE)",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -892,7 +1162,10 @@
           "home_team": "Bayer Leverkusen (GER)",
           "away_team": "Molde FK (NOR)",
           "result": {
-            "full_time": "5-1"
+            "breakdown": [
+              "3-0"
+            ],
+            "full_time": "3-0"
           }
         },
         {
@@ -901,7 +1174,10 @@
           "home_team": "Qarabağ FK (AZE)",
           "away_team": "BK Häcken (SWE)",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         }
       ]
@@ -915,7 +1191,10 @@
           "home_team": "Feyenoord (NED)",
           "away_team": "AS Roma (ITA)",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -924,7 +1203,10 @@
           "home_team": "BSC Young Boys (SUI)",
           "away_team": "Sporting CP (POR)",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "1-2"
+            ],
+            "full_time": "1-2"
           }
         },
         {
@@ -933,7 +1215,10 @@
           "home_team": "Galatasaray (TUR)",
           "away_team": "AC Sparta Praha (CZE)",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -942,7 +1227,10 @@
           "home_team": "Shakhtar Donetsk (UKR)",
           "away_team": "Olympique Marseille (FRA)",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -951,7 +1239,10 @@
           "home_team": "AC Milan (ITA)",
           "away_team": "Stade Rennais (FRA)",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -969,7 +1260,10 @@
           "home_team": "SL Benfica (POR)",
           "away_team": "Toulouse FC (FRA)",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -978,7 +1272,10 @@
           "home_team": "Sporting Braga (POR)",
           "away_team": "Qarabağ FK (AZE)",
           "result": {
-            "full_time": "2-4"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -987,7 +1284,10 @@
           "home_team": "Stade Rennais (FRA)",
           "away_team": "AC Milan (ITA)",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -996,7 +1296,11 @@
           "home_team": "SC Freiburg (GER)",
           "away_team": "RC Lens (FRA)",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "2-2",
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -1014,7 +1318,11 @@
           "home_team": "Qarabağ FK (AZE)",
           "away_team": "Sporting Braga (POR)",
           "result": {
-            "full_time": "2-3"
+            "breakdown": [
+              "0-2",
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1023,7 +1331,12 @@
           "home_team": "AS Roma (ITA)",
           "away_team": "Feyenoord (NED)",
           "result": {
-            "full_time": "4-2"
+            "breakdown": [
+              "1-1",
+              "1-1"
+            ],
+            "full_time": "1-1",
+            "penalties": "1-1"
           }
         },
         {
@@ -1032,7 +1345,10 @@
           "home_team": "Sporting CP (POR)",
           "away_team": "BSC Young Boys (SUI)",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1041,7 +1357,10 @@
           "home_team": "AC Sparta Praha (CZE)",
           "away_team": "Galatasaray (TUR)",
           "result": {
-            "full_time": "4-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -1050,7 +1369,10 @@
           "home_team": "Olympique Marseille (FRA)",
           "away_team": "Shakhtar Donetsk (UKR)",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         }
       ]
@@ -1064,6 +1386,9 @@
           "home_team": "Sporting CP (POR)",
           "away_team": "Atalanta (ITA)",
           "result": {
+            "breakdown": [
+              "1-1"
+            ],
             "full_time": "1-1"
           }
         },
@@ -1073,7 +1398,10 @@
           "home_team": "AC Sparta Praha (CZE)",
           "away_team": "Liverpool FC (ENG)",
           "result": {
-            "full_time": "1-5"
+            "breakdown": [
+              "0-3"
+            ],
+            "full_time": "0-3"
           }
         },
         {
@@ -1082,7 +1410,10 @@
           "home_team": "AS Roma (ITA)",
           "away_team": "Brighton & Hove Albion (ENG)",
           "result": {
-            "full_time": "4-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -1091,7 +1422,10 @@
           "home_team": "Qarabağ FK (AZE)",
           "away_team": "Bayer Leverkusen (GER)",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -1100,7 +1434,10 @@
           "home_team": "Olympique Marseille (FRA)",
           "away_team": "Villarreal CF (ESP)",
           "result": {
-            "full_time": "4-0"
+            "breakdown": [
+              "3-0"
+            ],
+            "full_time": "3-0"
           }
         },
         {
@@ -1109,7 +1446,10 @@
           "home_team": "SL Benfica (POR)",
           "away_team": "Rangers FC (SCO)",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-2"
+            ],
+            "full_time": "1-2"
           }
         },
         {
@@ -1118,7 +1458,10 @@
           "home_team": "SC Freiburg (GER)",
           "away_team": "West Ham United (ENG)",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1127,7 +1470,10 @@
           "home_team": "AC Milan (ITA)",
           "away_team": "Slavia Praha (CZE)",
           "result": {
-            "full_time": "4-2"
+            "breakdown": [
+              "3-1"
+            ],
+            "full_time": "3-1"
           }
         },
         {
@@ -1136,7 +1482,10 @@
           "home_team": "Villarreal CF (ESP)",
           "away_team": "Olympique Marseille (FRA)",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1145,7 +1494,10 @@
           "home_team": "Rangers FC (SCO)",
           "away_team": "SL Benfica (POR)",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1154,7 +1506,10 @@
           "home_team": "West Ham United (ENG)",
           "away_team": "SC Freiburg (GER)",
           "result": {
-            "full_time": "5-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -1163,7 +1518,10 @@
           "home_team": "Slavia Praha (CZE)",
           "away_team": "AC Milan (ITA)",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "0-3"
+            ],
+            "full_time": "0-3"
           }
         },
         {
@@ -1172,7 +1530,10 @@
           "home_team": "Liverpool FC (ENG)",
           "away_team": "AC Sparta Praha (CZE)",
           "result": {
-            "full_time": "6-1"
+            "breakdown": [
+              "4-1"
+            ],
+            "full_time": "4-1"
           }
         },
         {
@@ -1181,6 +1542,9 @@
           "home_team": "Brighton & Hove Albion (ENG)",
           "away_team": "AS Roma (ITA)",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -1190,7 +1554,10 @@
           "home_team": "Atalanta (ITA)",
           "away_team": "Sporting CP (POR)",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1199,7 +1566,10 @@
           "home_team": "Bayer Leverkusen (GER)",
           "away_team": "Qarabağ FK (AZE)",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -1213,6 +1583,9 @@
           "home_team": "AC Milan (ITA)",
           "away_team": "AS Roma (ITA)",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -1222,7 +1595,10 @@
           "home_team": "Liverpool FC (ENG)",
           "away_team": "Atalanta (ITA)",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1231,7 +1607,10 @@
           "home_team": "Bayer Leverkusen (GER)",
           "away_team": "West Ham United (ENG)",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1240,7 +1619,10 @@
           "home_team": "SL Benfica (POR)",
           "away_team": "Olympique Marseille (FRA)",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1249,7 +1631,10 @@
           "home_team": "AS Roma (ITA)",
           "away_team": "AC Milan (ITA)",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -1258,6 +1643,9 @@
           "home_team": "Atalanta (ITA)",
           "away_team": "Liverpool FC (ENG)",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -1267,7 +1655,10 @@
           "home_team": "West Ham United (ENG)",
           "away_team": "Bayer Leverkusen (GER)",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1276,7 +1667,12 @@
           "home_team": "Olympique Marseille (FRA)",
           "away_team": "SL Benfica (POR)",
           "result": {
-            "full_time": "4-2"
+            "breakdown": [
+              "1-0",
+              "0-0"
+            ],
+            "full_time": "0-0",
+            "penalties": "1-0"
           }
         }
       ]
@@ -1290,6 +1686,9 @@
           "home_team": "Olympique Marseille (FRA)",
           "away_team": "Atalanta (ITA)",
           "result": {
+            "breakdown": [
+              "1-1"
+            ],
             "full_time": "1-1"
           }
         },
@@ -1299,7 +1698,10 @@
           "home_team": "AS Roma (ITA)",
           "away_team": "Bayer Leverkusen (GER)",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1308,7 +1710,10 @@
           "home_team": "Atalanta (ITA)",
           "away_team": "Olympique Marseille (FRA)",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1317,7 +1722,10 @@
           "home_team": "Bayer Leverkusen (GER)",
           "away_team": "AS Roma (ITA)",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         }
       ]
@@ -1331,7 +1739,10 @@
           "home_team": "Atalanta (ITA)",
           "away_team": "Bayer Leverkusen (GER)",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         }
       ]

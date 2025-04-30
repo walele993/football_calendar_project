@@ -11,7 +11,10 @@
           "home_team": "Preston North End",
           "away_team": "Mansfield Town",
           "result": {
-            "full_time": "4-0"
+            "breakdown": [
+              "3-0"
+            ],
+            "full_time": "3-0"
           }
         },
         {
@@ -20,7 +23,10 @@
           "home_team": "Blackburn Rovers",
           "away_team": "Doncaster Rovers",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -29,7 +35,10 @@
           "home_team": "Stoke City",
           "away_team": "Blackpool FC",
           "result": {
-            "full_time": "5-4"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -38,7 +47,11 @@
           "home_team": "Stevenage FC",
           "away_team": "Portsmouth FC",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "3-3",
+              "3-2"
+            ],
+            "full_time": "3-2"
           }
         },
         {
@@ -47,7 +60,10 @@
           "home_team": "Middlesbrough FC",
           "away_team": "Shrewsbury Town",
           "result": {
-            "full_time": "4-3"
+            "breakdown": [
+              "2-1"
+            ],
+            "full_time": "2-1"
           }
         },
         {
@@ -56,7 +72,11 @@
           "home_team": "Burton Albion",
           "away_team": "Accrington Stanley",
           "result": {
-            "full_time": "4-2"
+            "breakdown": [
+              "1-1",
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -65,7 +85,10 @@
           "home_team": "Derby County",
           "away_team": "Barrow AFC",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -74,7 +97,10 @@
           "home_team": "Plymouth Argyle",
           "away_team": "Queens Park Rangers",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -83,7 +109,10 @@
           "home_team": "Crawley Town",
           "away_team": "Millwall FC",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "1-2"
+            ],
+            "full_time": "1-2"
           }
         },
         {
@@ -92,6 +121,9 @@
           "home_team": "Gillingham FC",
           "away_team": "Southend United",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -101,7 +133,10 @@
           "home_team": "Bristol City",
           "away_team": "Exeter City",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -110,7 +145,10 @@
           "home_team": "Walsall FC",
           "away_team": "Sheffield Wednesday",
           "result": {
-            "full_time": "2-4"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -119,7 +157,11 @@
           "home_team": "Tranmere Rovers",
           "away_team": "Harrogate Town",
           "result": {
-            "full_time": "7-8"
+            "breakdown": [
+              "1-1",
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -128,7 +170,10 @@
           "home_team": "Crewe Alexandra",
           "away_team": "Lincoln City",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -137,7 +182,10 @@
           "home_team": "Huddersfield Town",
           "away_team": "Rochdale AFC",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -146,7 +194,10 @@
           "home_team": "Bolton Wanderers",
           "away_team": "Bradford City",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -155,7 +206,10 @@
           "home_team": "Fleetwood Town",
           "away_team": "Wigan Athletic",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "1-2"
+            ],
+            "full_time": "1-2"
           }
         },
         {
@@ -164,7 +218,11 @@
           "home_team": "Grimsby Town",
           "away_team": "Morecambe FC",
           "result": {
-            "full_time": "3-4"
+            "breakdown": [
+              "1-1",
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -173,7 +231,10 @@
           "home_team": "Scunthorpe United",
           "away_team": "Port Vale FC",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -182,7 +243,10 @@
           "home_team": "Sunderland AFC",
           "away_team": "Hull City",
           "result": {
-            "full_time": "4-5"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -191,7 +255,11 @@
           "home_team": "Salford City",
           "away_team": "Rotherham United",
           "result": {
-            "full_time": "4-2"
+            "breakdown": [
+              "1-1",
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -200,7 +268,10 @@
           "home_team": "Barnsley FC",
           "away_team": "Nottingham Forest",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -209,7 +280,10 @@
           "home_team": "Oldham Athletic",
           "away_team": "Carlisle United",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -218,7 +292,10 @@
           "home_team": "Swindon Town",
           "away_team": "Charlton Athletic",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -227,7 +304,10 @@
           "home_team": "Forest Green Rovers",
           "away_team": "Leyton Orient",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -236,7 +316,10 @@
           "home_team": "Milton Keynes Dons",
           "away_team": "Coventry City",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -245,7 +328,10 @@
           "home_team": "Peterborough United",
           "away_team": "Cheltenham Town",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -254,7 +340,10 @@
           "home_team": "Northampton Town",
           "away_team": "Cardiff City",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -263,7 +352,10 @@
           "home_team": "Luton Town",
           "away_team": "Norwich City",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -272,6 +364,9 @@
           "home_team": "Birmingham City",
           "away_team": "Cambridge United",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -281,6 +376,9 @@
           "home_team": "Newport County",
           "away_team": "Swansea City",
           "result": {
+            "breakdown": [
+              "2-0"
+            ],
             "full_time": "2-0"
           }
         },
@@ -290,7 +388,11 @@
           "home_team": "Oxford United",
           "away_team": "AFC Wimbledon",
           "result": {
-            "full_time": "4-3"
+            "breakdown": [
+              "1-1",
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -299,7 +401,10 @@
           "home_team": "Reading FC",
           "away_team": "Colchester United",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -308,7 +413,10 @@
           "home_team": "Ipswich Town",
           "away_team": "Bristol Rovers",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -317,7 +425,11 @@
           "home_team": "Brentford FC",
           "away_team": "Wycombe Wanderers",
           "result": {
-            "full_time": "4-2"
+            "breakdown": [
+              "1-1",
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         }
       ]
@@ -331,6 +443,9 @@
           "home_team": "Middlesbrough FC",
           "away_team": "Barnsley FC",
           "result": {
+            "breakdown": [
+              "0-2"
+            ],
             "full_time": "0-2"
           }
         },
@@ -340,6 +455,9 @@
           "home_team": "Reading FC",
           "away_team": "Luton Town",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -349,7 +467,10 @@
           "home_team": "Millwall FC",
           "away_team": "Cheltenham Town",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -358,7 +479,11 @@
           "home_team": "Gillingham FC",
           "away_team": "Coventry City",
           "result": {
-            "full_time": "5-4"
+            "breakdown": [
+              "1-1",
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -367,7 +492,10 @@
           "home_team": "Derby County",
           "away_team": "Preston North End",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -376,7 +504,10 @@
           "home_team": "Bradford City",
           "away_team": "Lincoln City",
           "result": {
-            "full_time": "0-5"
+            "breakdown": [
+              "0-4"
+            ],
+            "full_time": "0-4"
           }
         },
         {
@@ -385,7 +516,10 @@
           "home_team": "Fleetwood Town",
           "away_team": "Port Vale FC",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -394,7 +528,10 @@
           "home_team": "Newport County",
           "away_team": "Cambridge United",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -403,7 +540,11 @@
           "home_team": "Oxford United",
           "away_team": "Watford FC",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "1-1",
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -412,7 +553,10 @@
           "home_team": "West Ham United",
           "away_team": "Charlton Athletic",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -421,6 +565,9 @@
           "home_team": "Newcastle United",
           "away_team": "Blackburn Rovers",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -430,7 +577,10 @@
           "home_team": "Burton Albion",
           "away_team": "Aston Villa",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -439,7 +589,10 @@
           "home_team": "Rochdale AFC",
           "away_team": "Sheffield Wednesday",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -448,6 +601,9 @@
           "home_team": "Morecambe FC",
           "away_team": "Oldham Athletic",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -457,7 +613,10 @@
           "home_team": "Leyton Orient",
           "away_team": "Plymouth Argyle",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -466,7 +625,10 @@
           "home_team": "AFC Bournemouth",
           "away_team": "Crystal Palace",
           "result": {
-            "full_time": "11-10"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -475,7 +637,10 @@
           "home_team": "West Bromwich Albion",
           "away_team": "Harrogate Town",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -484,6 +649,9 @@
           "home_team": "Ipswich Town",
           "away_team": "Fulham FC",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -493,7 +661,10 @@
           "home_team": "Bristol City",
           "away_team": "Northampton Town",
           "result": {
-            "full_time": "4-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -502,6 +673,9 @@
           "home_team": "Southampton FC",
           "away_team": "Brentford FC",
           "result": {
+            "breakdown": [
+              "0-2"
+            ],
             "full_time": "0-2"
           }
         },
@@ -511,7 +685,11 @@
           "home_team": "Leeds United",
           "away_team": "Hull City",
           "result": {
-            "full_time": "8-9"
+            "breakdown": [
+              "1-1",
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -520,6 +698,9 @@
           "home_team": "Everton FC",
           "away_team": "Salford City",
           "result": {
+            "breakdown": [
+              "3-0"
+            ],
             "full_time": "3-0"
           }
         },
@@ -529,7 +710,11 @@
           "home_team": "Burnley FC",
           "away_team": "Sheffield United",
           "result": {
-            "full_time": "5-4"
+            "breakdown": [
+              "1-1",
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -538,7 +723,10 @@
           "home_team": "Wolverhampton Wanderers",
           "away_team": "Stoke City",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -547,7 +735,10 @@
           "home_team": "Brighton & Hove Albion",
           "away_team": "Portsmouth FC",
           "result": {
-            "full_time": "4-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         }
       ]
@@ -567,7 +758,10 @@
           "home_team": "Newport County",
           "away_team": "Watford FC",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -576,7 +770,11 @@
           "home_team": "West Bromwich Albion",
           "away_team": "Brentford FC",
           "result": {
-            "full_time": "4-5"
+            "breakdown": [
+              "2-2",
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -585,7 +783,10 @@
           "home_team": "West Ham United",
           "away_team": "Hull City",
           "result": {
-            "full_time": "5-1"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -594,7 +795,10 @@
           "home_team": "Luton Town",
           "away_team": "Manchester United",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -603,7 +807,10 @@
           "home_team": "Preston North End",
           "away_team": "Brighton & Hove Albion",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -612,7 +819,10 @@
           "home_team": "Fulham FC",
           "away_team": "Sheffield Wednesday",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -621,7 +831,10 @@
           "home_team": "Millwall FC",
           "away_team": "Burnley FC",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -630,6 +843,9 @@
           "home_team": "Stoke City",
           "away_team": "Gillingham FC",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -639,7 +855,10 @@
           "home_team": "Chelsea FC",
           "away_team": "Barnsley FC",
           "result": {
-            "full_time": "6-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -648,7 +867,10 @@
           "home_team": "Fleetwood Town",
           "away_team": "Everton FC",
           "result": {
-            "full_time": "2-5"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -657,7 +879,10 @@
           "home_team": "Leicester City",
           "away_team": "Arsenal FC",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -666,7 +891,10 @@
           "home_team": "Morecambe FC",
           "away_team": "Newcastle United",
           "result": {
-            "full_time": "0-7"
+            "breakdown": [
+              "0-5"
+            ],
+            "full_time": "0-5"
           }
         },
         {
@@ -675,7 +903,10 @@
           "home_team": "Bristol City",
           "away_team": "Aston Villa",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -684,7 +915,10 @@
           "home_team": "Lincoln City",
           "away_team": "Liverpool FC",
           "result": {
-            "full_time": "2-7"
+            "breakdown": [
+              "0-4"
+            ],
+            "full_time": "0-4"
           }
         },
         {
@@ -693,7 +927,10 @@
           "home_team": "Manchester City",
           "away_team": "AFC Bournemouth",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         }
       ]
@@ -707,7 +944,11 @@
           "home_team": "Tottenham Hotspur",
           "away_team": "Chelsea FC",
           "result": {
-            "full_time": "5-4"
+            "breakdown": [
+              "1-1",
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -716,7 +957,11 @@
           "home_team": "Newport County",
           "away_team": "Newcastle United",
           "result": {
-            "full_time": "4-5"
+            "breakdown": [
+              "1-1",
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -725,7 +970,10 @@
           "home_team": "Burnley FC",
           "away_team": "Manchester City",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -734,7 +982,10 @@
           "home_team": "Everton FC",
           "away_team": "West Ham United",
           "result": {
-            "full_time": "4-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -743,7 +994,10 @@
           "home_team": "Brighton & Hove Albion",
           "away_team": "Manchester United",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -752,7 +1006,10 @@
           "home_team": "Brentford FC",
           "away_team": "Fulham FC",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -761,6 +1018,9 @@
           "home_team": "Aston Villa",
           "away_team": "Stoke City",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -770,7 +1030,10 @@
           "home_team": "Liverpool FC",
           "away_team": "Arsenal FC",
           "result": {
-            "full_time": "4-5"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -784,7 +1047,10 @@
           "home_team": "Brentford FC",
           "away_team": "Newcastle United",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -793,7 +1059,10 @@
           "home_team": "Arsenal FC",
           "away_team": "Manchester City",
           "result": {
-            "full_time": "1-4"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -802,7 +1071,10 @@
           "home_team": "Stoke City",
           "away_team": "Tottenham Hotspur",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -811,7 +1083,10 @@
           "home_team": "Everton FC",
           "away_team": "Manchester United",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -825,7 +1100,10 @@
           "home_team": "Tottenham Hotspur",
           "away_team": "Brentford FC",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -834,7 +1112,10 @@
           "home_team": "Manchester United",
           "away_team": "Manchester City",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -848,7 +1129,10 @@
           "home_team": "Tottenham Hotspur",
           "away_team": "Manchester City",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]

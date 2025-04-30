@@ -47,6 +47,9 @@
           "home_team": "US Orléans",
           "away_team": "Havre AC",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -65,7 +68,10 @@
           "home_team": "ESTAC Troyes",
           "away_team": "FC Sochaux",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -74,7 +80,10 @@
           "home_team": "Valenciennes FC",
           "away_team": "Clermont Foot 63",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -92,7 +101,10 @@
           "home_team": "Amiens SC",
           "away_team": "Stade de Reims",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -106,6 +118,9 @@
           "home_team": "AC Ajaccio",
           "away_team": "ESTAC Troyes",
           "result": {
+            "breakdown": [
+              "2-1"
+            ],
             "full_time": "2-1"
           }
         },
@@ -115,7 +130,10 @@
           "home_team": "AJ Auxerre",
           "away_team": "Gazélec FC Ajaccio",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -124,7 +142,10 @@
           "home_team": "Stade Brestois 29",
           "away_team": "US Orléans",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -142,7 +163,10 @@
           "home_team": "Stade Lavallois",
           "away_team": "Chamois Niortais",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -151,6 +175,9 @@
           "home_team": "Havre AC",
           "away_team": "Nîmes Olympique",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -160,7 +187,10 @@
           "home_team": "RC Lens",
           "away_team": "Tours FC",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -169,6 +199,9 @@
           "home_team": "Stade de Reims",
           "away_team": "FC Bourg-Péronnas",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -187,6 +220,9 @@
           "home_team": "RC Strasbourg",
           "away_team": "Amiens SC",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         }
@@ -201,7 +237,10 @@
           "home_team": "Amiens SC",
           "away_team": "Chamois Niortais",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -210,7 +249,10 @@
           "home_team": "FC Bourg-Péronnas",
           "away_team": "AJ Auxerre",
           "result": {
-            "full_time": "2-4"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -219,7 +261,10 @@
           "home_team": "Clermont Foot 63",
           "away_team": "FC Sochaux",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -228,7 +273,10 @@
           "home_team": "Gazélec FC Ajaccio",
           "away_team": "Havre AC",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -237,7 +285,10 @@
           "home_team": "US Orléans",
           "away_team": "AC Ajaccio",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -246,7 +297,10 @@
           "home_team": "Red Star FC",
           "away_team": "Stade Brestois 29",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -255,7 +309,10 @@
           "home_team": "Tours FC",
           "away_team": "RC Strasbourg",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -264,6 +321,9 @@
           "home_team": "ESTAC Troyes",
           "away_team": "Stade Lavallois",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -282,7 +342,10 @@
           "home_team": "Nîmes Olympique",
           "away_team": "RC Lens",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         }
       ]
@@ -296,7 +359,10 @@
           "home_team": "AC Ajaccio",
           "away_team": "FC Bourg-Péronnas",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -305,7 +371,10 @@
           "home_team": "AJ Auxerre",
           "away_team": "Clermont Foot 63",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -314,7 +383,10 @@
           "home_team": "Stade Brestois 29",
           "away_team": "Valenciennes FC",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -323,7 +395,10 @@
           "home_team": "Stade Lavallois",
           "away_team": "Gazélec FC Ajaccio",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -332,7 +407,10 @@
           "home_team": "Havre AC",
           "away_team": "ESTAC Troyes",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "1-2"
+            ],
+            "full_time": "1-2"
           }
         },
         {
@@ -341,6 +419,9 @@
           "home_team": "Chamois Niortais",
           "away_team": "Tours FC",
           "result": {
+            "breakdown": [
+              "1-4"
+            ],
             "full_time": "1-4"
           }
         },
@@ -359,7 +440,10 @@
           "home_team": "RC Strasbourg",
           "away_team": "Nîmes Olympique",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -368,6 +452,9 @@
           "home_team": "RC Lens",
           "away_team": "Amiens SC",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -377,7 +464,10 @@
           "home_team": "Stade de Reims",
           "away_team": "Red Star FC",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         }
       ]
@@ -391,7 +481,10 @@
           "home_team": "FC Bourg-Péronnas",
           "away_team": "Chamois Niortais",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -400,7 +493,10 @@
           "home_team": "Clermont Foot 63",
           "away_team": "AC Ajaccio",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -409,7 +505,10 @@
           "home_team": "Gazélec FC Ajaccio",
           "away_team": "RC Strasbourg",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -418,7 +517,10 @@
           "home_team": "Nîmes Olympique",
           "away_team": "Amiens SC",
           "result": {
-            "full_time": "2-3"
+            "breakdown": [
+              "2-1"
+            ],
+            "full_time": "2-1"
           }
         },
         {
@@ -436,7 +538,10 @@
           "home_team": "Tours FC",
           "away_team": "Stade de Reims",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -445,7 +550,10 @@
           "home_team": "ESTAC Troyes",
           "away_team": "RC Lens",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -454,7 +562,10 @@
           "home_team": "Valenciennes FC",
           "away_team": "Stade Lavallois",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -472,7 +583,10 @@
           "home_team": "FC Sochaux",
           "away_team": "Stade Brestois 29",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         }
       ]
@@ -486,7 +600,10 @@
           "home_team": "AC Ajaccio",
           "away_team": "Red Star FC",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -495,7 +612,10 @@
           "home_team": "Amiens SC",
           "away_team": "Tours FC",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -513,7 +633,10 @@
           "home_team": "Stade Brestois 29",
           "away_team": "Clermont Foot 63",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -522,7 +645,10 @@
           "home_team": "Stade Lavallois",
           "away_team": "US Orléans",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -531,7 +657,10 @@
           "home_team": "RC Lens",
           "away_team": "FC Bourg-Péronnas",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -540,7 +669,10 @@
           "home_team": "Chamois Niortais",
           "away_team": "Nîmes Olympique",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -549,7 +681,10 @@
           "home_team": "Stade de Reims",
           "away_team": "Gazélec FC Ajaccio",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -558,7 +693,10 @@
           "home_team": "Havre AC",
           "away_team": "Valenciennes FC",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-2"
+            ],
+            "full_time": "1-2"
           }
         },
         {
@@ -567,7 +705,10 @@
           "home_team": "RC Strasbourg",
           "away_team": "ESTAC Troyes",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         }
       ]
@@ -581,7 +722,10 @@
           "home_team": "FC Bourg-Péronnas",
           "away_team": "Havre AC",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -590,7 +734,10 @@
           "home_team": "Clermont Foot 63",
           "away_team": "RC Lens",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -599,7 +746,10 @@
           "home_team": "US Orléans",
           "away_team": "RC Strasbourg",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -608,7 +758,10 @@
           "home_team": "Red Star FC",
           "away_team": "Stade Lavallois",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -617,7 +770,10 @@
           "home_team": "FC Sochaux",
           "away_team": "Stade de Reims",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -626,7 +782,10 @@
           "home_team": "Tours FC",
           "away_team": "Nîmes Olympique",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "1-2"
+            ],
+            "full_time": "1-2"
           }
         },
         {
@@ -635,7 +794,10 @@
           "home_team": "ESTAC Troyes",
           "away_team": "Chamois Niortais",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -644,7 +806,10 @@
           "home_team": "Valenciennes FC",
           "away_team": "AC Ajaccio",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -653,7 +818,10 @@
           "home_team": "Stade Brestois 29",
           "away_team": "AJ Auxerre",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -662,7 +830,10 @@
           "home_team": "Gazélec FC Ajaccio",
           "away_team": "Amiens SC",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -685,7 +856,10 @@
           "home_team": "AC Ajaccio",
           "away_team": "AJ Auxerre",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -703,7 +877,10 @@
           "home_team": "Stade Lavallois",
           "away_team": "FC Sochaux",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -712,7 +889,10 @@
           "home_team": "Havre AC",
           "away_team": "Stade Brestois 29",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -721,7 +901,10 @@
           "home_team": "RC Lens",
           "away_team": "US Orléans",
           "result": {
-            "full_time": "4-2"
+            "breakdown": [
+              "1-2"
+            ],
+            "full_time": "1-2"
           }
         },
         {
@@ -730,7 +913,10 @@
           "home_team": "Nîmes Olympique",
           "away_team": "ESTAC Troyes",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -748,7 +934,10 @@
           "home_team": "Stade de Reims",
           "away_team": "Clermont Foot 63",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -757,7 +946,10 @@
           "home_team": "Tours FC",
           "away_team": "FC Bourg-Péronnas",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -771,7 +963,10 @@
           "home_team": "AJ Auxerre",
           "away_team": "Havre AC",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -798,6 +993,9 @@
           "home_team": "Gazélec FC Ajaccio",
           "away_team": "Nîmes Olympique",
           "result": {
+            "breakdown": [
+              "0-2"
+            ],
             "full_time": "0-2"
           }
         },
@@ -807,7 +1005,10 @@
           "home_team": "US Orléans",
           "away_team": "Amiens SC",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -816,7 +1017,10 @@
           "home_team": "Red Star FC",
           "away_team": "Chamois Niortais",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -825,7 +1029,10 @@
           "home_team": "ESTAC Troyes",
           "away_team": "Tours FC",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "2-1"
+            ],
+            "full_time": "2-1"
           }
         },
         {
@@ -834,6 +1041,9 @@
           "home_team": "FC Sochaux",
           "away_team": "AC Ajaccio",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -843,7 +1053,10 @@
           "home_team": "Valenciennes FC",
           "away_team": "RC Lens",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -852,7 +1065,10 @@
           "home_team": "Stade Brestois 29",
           "away_team": "Stade de Reims",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -866,7 +1082,10 @@
           "home_team": "AC Ajaccio",
           "away_team": "Stade Brestois 29",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -875,7 +1094,10 @@
           "home_team": "Amiens SC",
           "away_team": "ESTAC Troyes",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -884,7 +1106,10 @@
           "home_team": "Stade Lavallois",
           "away_team": "Clermont Foot 63",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -893,7 +1118,10 @@
           "home_team": "RC Lens",
           "away_team": "Red Star FC",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -911,6 +1139,9 @@
           "home_team": "Chamois Niortais",
           "away_team": "US Orléans",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -920,7 +1151,10 @@
           "home_team": "Stade de Reims",
           "away_team": "AJ Auxerre",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -929,7 +1163,10 @@
           "home_team": "Tours FC",
           "away_team": "Gazélec FC Ajaccio",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -938,7 +1175,10 @@
           "home_team": "RC Strasbourg",
           "away_team": "Valenciennes FC",
           "result": {
-            "full_time": "2-4"
+            "breakdown": [
+              "1-2"
+            ],
+            "full_time": "1-2"
           }
         },
         {
@@ -947,7 +1187,10 @@
           "home_team": "Havre AC",
           "away_team": "FC Sochaux",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -961,6 +1204,9 @@
           "home_team": "AC Ajaccio",
           "away_team": "Stade de Reims",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -970,7 +1216,10 @@
           "home_team": "AJ Auxerre",
           "away_team": "Stade Lavallois",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -979,7 +1228,10 @@
           "home_team": "FC Bourg-Péronnas",
           "away_team": "Amiens SC",
           "result": {
-            "full_time": "2-4"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -988,7 +1240,10 @@
           "home_team": "Clermont Foot 63",
           "away_team": "Havre AC",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1006,7 +1261,10 @@
           "home_team": "Red Star FC",
           "away_team": "Nîmes Olympique",
           "result": {
-            "full_time": "3-3"
+            "breakdown": [
+              "2-2"
+            ],
+            "full_time": "2-2"
           }
         },
         {
@@ -1015,6 +1273,9 @@
           "home_team": "ESTAC Troyes",
           "away_team": "Gazélec FC Ajaccio",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -1024,7 +1285,10 @@
           "home_team": "Valenciennes FC",
           "away_team": "Chamois Niortais",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1033,7 +1297,10 @@
           "home_team": "Stade Brestois 29",
           "away_team": "RC Strasbourg",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -1042,6 +1309,9 @@
           "home_team": "FC Sochaux",
           "away_team": "RC Lens",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         }
@@ -1056,7 +1326,10 @@
           "home_team": "Gazélec FC Ajaccio",
           "away_team": "US Orléans",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1065,7 +1338,10 @@
           "home_team": "Stade Lavallois",
           "away_team": "Stade Brestois 29",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1074,7 +1350,10 @@
           "home_team": "Havre AC",
           "away_team": "AC Ajaccio",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1092,7 +1371,10 @@
           "home_team": "Chamois Niortais",
           "away_team": "Clermont Foot 63",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -1101,7 +1383,10 @@
           "home_team": "RC Strasbourg",
           "away_team": "AJ Auxerre",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1110,7 +1395,10 @@
           "home_team": "Tours FC",
           "away_team": "Valenciennes FC",
           "result": {
-            "full_time": "4-1"
+            "breakdown": [
+              "3-1"
+            ],
+            "full_time": "3-1"
           }
         },
         {
@@ -1119,7 +1407,10 @@
           "home_team": "ESTAC Troyes",
           "away_team": "FC Bourg-Péronnas",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1128,7 +1419,10 @@
           "home_team": "RC Lens",
           "away_team": "Stade de Reims",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1151,7 +1445,10 @@
           "home_team": "AC Ajaccio",
           "away_team": "Stade Lavallois",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -1160,6 +1457,9 @@
           "home_team": "FC Bourg-Péronnas",
           "away_team": "Gazélec FC Ajaccio",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -1169,7 +1469,10 @@
           "home_team": "US Orléans",
           "away_team": "ESTAC Troyes",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1178,7 +1481,10 @@
           "home_team": "Red Star FC",
           "away_team": "Tours FC",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "3-0"
+            ],
+            "full_time": "3-0"
           }
         },
         {
@@ -1187,6 +1493,9 @@
           "home_team": "Stade de Reims",
           "away_team": "Havre AC",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -1196,7 +1505,10 @@
           "home_team": "Valenciennes FC",
           "away_team": "Nîmes Olympique",
           "result": {
-            "full_time": "2-3"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1205,7 +1517,10 @@
           "home_team": "AJ Auxerre",
           "away_team": "Chamois Niortais",
           "result": {
-            "full_time": "0-4"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1214,7 +1529,10 @@
           "home_team": "Clermont Foot 63",
           "away_team": "Amiens SC",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1223,7 +1541,10 @@
           "home_team": "FC Sochaux",
           "away_team": "RC Strasbourg",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1232,7 +1553,10 @@
           "home_team": "Stade Brestois 29",
           "away_team": "RC Lens",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         }
       ]
@@ -1264,7 +1588,10 @@
           "home_team": "Gazélec FC Ajaccio",
           "away_team": "Red Star FC",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1273,7 +1600,10 @@
           "home_team": "Stade Lavallois",
           "away_team": "Havre AC",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1282,7 +1612,10 @@
           "home_team": "Nîmes Olympique",
           "away_team": "Clermont Foot 63",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1291,6 +1624,9 @@
           "home_team": "Chamois Niortais",
           "away_team": "FC Sochaux",
           "result": {
+            "breakdown": [
+              "2-0"
+            ],
             "full_time": "2-0"
           }
         },
@@ -1300,6 +1636,9 @@
           "home_team": "Tours FC",
           "away_team": "Stade Brestois 29",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -1309,7 +1648,10 @@
           "home_team": "ESTAC Troyes",
           "away_team": "Valenciennes FC",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1318,7 +1660,10 @@
           "home_team": "RC Strasbourg",
           "away_team": "Stade de Reims",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1327,7 +1672,10 @@
           "home_team": "RC Lens",
           "away_team": "AC Ajaccio",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -1341,7 +1689,10 @@
           "home_team": "AC Ajaccio",
           "away_team": "RC Strasbourg",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1350,7 +1701,10 @@
           "home_team": "AJ Auxerre",
           "away_team": "RC Lens",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1359,7 +1713,10 @@
           "home_team": "Clermont Foot 63",
           "away_team": "Gazélec FC Ajaccio",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -1368,7 +1725,10 @@
           "home_team": "US Orléans",
           "away_team": "Nîmes Olympique",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1377,7 +1737,10 @@
           "home_team": "Red Star FC",
           "away_team": "ESTAC Troyes",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1386,7 +1749,10 @@
           "home_team": "Stade de Reims",
           "away_team": "Stade Lavallois",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1395,7 +1761,10 @@
           "home_team": "FC Sochaux",
           "away_team": "Tours FC",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1404,7 +1773,10 @@
           "home_team": "Valenciennes FC",
           "away_team": "FC Bourg-Péronnas",
           "result": {
-            "full_time": "3-3"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -1422,7 +1794,10 @@
           "home_team": "Stade Brestois 29",
           "away_team": "Chamois Niortais",
           "result": {
-            "full_time": "2-3"
+            "breakdown": [
+              "1-3"
+            ],
+            "full_time": "1-3"
           }
         }
       ]
@@ -1436,7 +1811,10 @@
           "home_team": "FC Bourg-Péronnas",
           "away_team": "Red Star FC",
           "result": {
-            "full_time": "4-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1445,7 +1823,10 @@
           "home_team": "Gazélec FC Ajaccio",
           "away_team": "FC Sochaux",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1454,7 +1835,10 @@
           "home_team": "RC Lens",
           "away_team": "Havre AC",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1463,7 +1847,10 @@
           "home_team": "Nîmes Olympique",
           "away_team": "Stade de Reims",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -1472,7 +1859,10 @@
           "home_team": "Chamois Niortais",
           "away_team": "AC Ajaccio",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1481,7 +1871,10 @@
           "home_team": "US Orléans",
           "away_team": "Valenciennes FC",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1490,7 +1883,10 @@
           "home_team": "RC Strasbourg",
           "away_team": "Stade Lavallois",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1499,6 +1895,9 @@
           "home_team": "ESTAC Troyes",
           "away_team": "Clermont Foot 63",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -1508,7 +1907,10 @@
           "home_team": "Tours FC",
           "away_team": "AJ Auxerre",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1517,7 +1919,10 @@
           "home_team": "Amiens SC",
           "away_team": "Stade Brestois 29",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         }
       ]
@@ -1531,7 +1936,10 @@
           "home_team": "Stade de Reims",
           "away_team": "Chamois Niortais",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1540,7 +1948,10 @@
           "home_team": "AC Ajaccio",
           "away_team": "Amiens SC",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1549,7 +1960,10 @@
           "home_team": "AJ Auxerre",
           "away_team": "Nîmes Olympique",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1558,7 +1972,10 @@
           "home_team": "Stade Brestois 29",
           "away_team": "ESTAC Troyes",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -1576,6 +1993,9 @@
           "home_team": "Stade Lavallois",
           "away_team": "RC Lens",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -1585,7 +2005,10 @@
           "home_team": "Havre AC",
           "away_team": "RC Strasbourg",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1594,6 +2017,9 @@
           "home_team": "Red Star FC",
           "away_team": "US Orléans",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -1603,7 +2029,10 @@
           "home_team": "FC Sochaux",
           "away_team": "FC Bourg-Péronnas",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1626,6 +2055,9 @@
           "home_team": "Amiens SC",
           "away_team": "FC Sochaux",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -1635,7 +2067,10 @@
           "home_team": "FC Bourg-Péronnas",
           "away_team": "Clermont Foot 63",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1644,7 +2079,10 @@
           "home_team": "Gazélec FC Ajaccio",
           "away_team": "AC Ajaccio",
           "result": {
-            "full_time": "4-1"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -1653,6 +2091,9 @@
           "home_team": "Nîmes Olympique",
           "away_team": "Stade Brestois 29",
           "result": {
+            "breakdown": [
+              "1-2"
+            ],
             "full_time": "1-2"
           }
         },
@@ -1662,6 +2103,9 @@
           "home_team": "Chamois Niortais",
           "away_team": "Havre AC",
           "result": {
+            "breakdown": [
+              "1-1"
+            ],
             "full_time": "1-1"
           }
         },
@@ -1671,7 +2115,10 @@
           "home_team": "Red Star FC",
           "away_team": "Valenciennes FC",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -1680,7 +2127,10 @@
           "home_team": "Tours FC",
           "away_team": "Stade Lavallois",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1689,7 +2139,10 @@
           "home_team": "ESTAC Troyes",
           "away_team": "AJ Auxerre",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1698,7 +2151,10 @@
           "home_team": "RC Strasbourg",
           "away_team": "RC Lens",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -1707,7 +2163,10 @@
           "home_team": "US Orléans",
           "away_team": "Stade de Reims",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -1721,7 +2180,10 @@
           "home_team": "AC Ajaccio",
           "away_team": "Nîmes Olympique",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1730,7 +2192,10 @@
           "home_team": "AJ Auxerre",
           "away_team": "Valenciennes FC",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1748,7 +2213,10 @@
           "home_team": "Clermont Foot 63",
           "away_team": "US Orléans",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1757,7 +2225,10 @@
           "home_team": "Stade Lavallois",
           "away_team": "Amiens SC",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1766,6 +2237,9 @@
           "home_team": "Havre AC",
           "away_team": "Tours FC",
           "result": {
+            "breakdown": [
+              "0-2"
+            ],
             "full_time": "0-2"
           }
         },
@@ -1775,7 +2249,10 @@
           "home_team": "FC Sochaux",
           "away_team": "Red Star FC",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1784,7 +2261,10 @@
           "home_team": "RC Strasbourg",
           "away_team": "Chamois Niortais",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1793,7 +2273,10 @@
           "home_team": "RC Lens",
           "away_team": "Gazélec FC Ajaccio",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -1802,6 +2285,9 @@
           "home_team": "Stade de Reims",
           "away_team": "ESTAC Troyes",
           "result": {
+            "breakdown": [
+              "2-0"
+            ],
             "full_time": "2-0"
           }
         }
@@ -1816,7 +2302,10 @@
           "home_team": "FC Bourg-Péronnas",
           "away_team": "Stade de Reims",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1825,7 +2314,10 @@
           "home_team": "Gazélec FC Ajaccio",
           "away_team": "AJ Auxerre",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1843,7 +2335,10 @@
           "home_team": "Chamois Niortais",
           "away_team": "Stade Lavallois",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-2"
+            ],
+            "full_time": "1-2"
           }
         },
         {
@@ -1852,7 +2347,10 @@
           "home_team": "US Orléans",
           "away_team": "Stade Brestois 29",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1861,7 +2359,10 @@
           "home_team": "Red Star FC",
           "away_team": "Clermont Foot 63",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "1-2"
+            ],
+            "full_time": "1-2"
           }
         },
         {
@@ -1870,7 +2371,10 @@
           "home_team": "Tours FC",
           "away_team": "RC Lens",
           "result": {
-            "full_time": "2-3"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -1879,7 +2383,10 @@
           "home_team": "ESTAC Troyes",
           "away_team": "AC Ajaccio",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -1888,7 +2395,10 @@
           "home_team": "Amiens SC",
           "away_team": "RC Strasbourg",
           "result": {
-            "full_time": "4-3"
+            "breakdown": [
+              "3-3"
+            ],
+            "full_time": "3-3"
           }
         },
         {
@@ -1897,7 +2407,10 @@
           "home_team": "Valenciennes FC",
           "away_team": "FC Sochaux",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -1911,7 +2424,10 @@
           "home_team": "AC Ajaccio",
           "away_team": "US Orléans",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1920,6 +2436,9 @@
           "home_team": "AJ Auxerre",
           "away_team": "FC Bourg-Péronnas",
           "result": {
+            "breakdown": [
+              "0-2"
+            ],
             "full_time": "0-2"
           }
         },
@@ -1929,7 +2448,10 @@
           "home_team": "Stade Lavallois",
           "away_team": "ESTAC Troyes",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1938,7 +2460,10 @@
           "home_team": "Havre AC",
           "away_team": "Gazélec FC Ajaccio",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1947,7 +2472,10 @@
           "home_team": "Chamois Niortais",
           "away_team": "Amiens SC",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -1965,7 +2493,10 @@
           "home_team": "FC Sochaux",
           "away_team": "Clermont Foot 63",
           "result": {
-            "full_time": "3-3"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -1974,7 +2505,10 @@
           "home_team": "RC Lens",
           "away_team": "Nîmes Olympique",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -1983,7 +2517,10 @@
           "home_team": "Stade Brestois 29",
           "away_team": "Red Star FC",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1992,7 +2529,10 @@
           "home_team": "RC Strasbourg",
           "away_team": "Tours FC",
           "result": {
-            "full_time": "4-2"
+            "breakdown": [
+              "1-2"
+            ],
+            "full_time": "1-2"
           }
         }
       ]
@@ -2006,7 +2546,10 @@
           "home_team": "FC Bourg-Péronnas",
           "away_team": "AC Ajaccio",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2015,7 +2558,10 @@
           "home_team": "Clermont Foot 63",
           "away_team": "AJ Auxerre",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2024,7 +2570,10 @@
           "home_team": "Gazélec FC Ajaccio",
           "away_team": "Stade Lavallois",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2033,7 +2582,10 @@
           "home_team": "Nîmes Olympique",
           "away_team": "RC Strasbourg",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2042,6 +2594,9 @@
           "home_team": "US Orléans",
           "away_team": "FC Sochaux",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -2060,7 +2615,10 @@
           "home_team": "ESTAC Troyes",
           "away_team": "Havre AC",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -2069,7 +2627,10 @@
           "home_team": "Valenciennes FC",
           "away_team": "Stade Brestois 29",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2078,7 +2639,10 @@
           "home_team": "Amiens SC",
           "away_team": "RC Lens",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -2087,6 +2651,9 @@
           "home_team": "Red Star FC",
           "away_team": "Stade de Reims",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         }
@@ -2101,7 +2668,10 @@
           "home_team": "AC Ajaccio",
           "away_team": "Clermont Foot 63",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2110,7 +2680,10 @@
           "home_team": "Amiens SC",
           "away_team": "Nîmes Olympique",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -2128,7 +2701,10 @@
           "home_team": "Havre AC",
           "away_team": "Red Star FC",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2146,7 +2722,10 @@
           "home_team": "Chamois Niortais",
           "away_team": "FC Bourg-Péronnas",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -2155,7 +2734,10 @@
           "home_team": "Stade de Reims",
           "away_team": "Tours FC",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2164,7 +2746,10 @@
           "home_team": "RC Strasbourg",
           "away_team": "Gazélec FC Ajaccio",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2173,7 +2758,10 @@
           "home_team": "AJ Auxerre",
           "away_team": "US Orléans",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2182,7 +2770,10 @@
           "home_team": "Stade Brestois 29",
           "away_team": "FC Sochaux",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         }
       ]
@@ -2196,7 +2787,10 @@
           "home_team": "Red Star FC",
           "away_team": "AC Ajaccio",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2223,7 +2817,10 @@
           "home_team": "Clermont Foot 63",
           "away_team": "Stade Brestois 29",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2232,7 +2829,10 @@
           "home_team": "Gazélec FC Ajaccio",
           "away_team": "Stade de Reims",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -2241,7 +2841,10 @@
           "home_team": "Nîmes Olympique",
           "away_team": "Chamois Niortais",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2250,7 +2853,10 @@
           "home_team": "US Orléans",
           "away_team": "Stade Lavallois",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2259,6 +2865,9 @@
           "home_team": "FC Sochaux",
           "away_team": "AJ Auxerre",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -2268,7 +2877,10 @@
           "home_team": "Tours FC",
           "away_team": "Amiens SC",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -2277,7 +2889,10 @@
           "home_team": "ESTAC Troyes",
           "away_team": "RC Strasbourg",
           "result": {
-            "full_time": "4-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -2291,7 +2906,10 @@
           "home_team": "AC Ajaccio",
           "away_team": "Valenciennes FC",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -2300,7 +2918,10 @@
           "home_team": "Amiens SC",
           "away_team": "Gazélec FC Ajaccio",
           "result": {
-            "full_time": "4-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2309,7 +2930,10 @@
           "home_team": "AJ Auxerre",
           "away_team": "Stade Brestois 29",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2318,7 +2942,10 @@
           "home_team": "Stade Lavallois",
           "away_team": "Red Star FC",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2327,6 +2954,9 @@
           "home_team": "Havre AC",
           "away_team": "FC Bourg-Péronnas",
           "result": {
+            "breakdown": [
+              "3-0"
+            ],
             "full_time": "3-0"
           }
         },
@@ -2336,7 +2966,10 @@
           "home_team": "Nîmes Olympique",
           "away_team": "Tours FC",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2345,7 +2978,10 @@
           "home_team": "Chamois Niortais",
           "away_team": "ESTAC Troyes",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -2354,6 +2990,9 @@
           "home_team": "Stade de Reims",
           "away_team": "FC Sochaux",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -2363,7 +3002,10 @@
           "home_team": "RC Strasbourg",
           "away_team": "US Orléans",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -2372,7 +3014,10 @@
           "home_team": "RC Lens",
           "away_team": "Clermont Foot 63",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -2386,6 +3031,9 @@
           "home_team": "AJ Auxerre",
           "away_team": "AC Ajaccio",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -2395,7 +3043,10 @@
           "home_team": "FC Bourg-Péronnas",
           "away_team": "Tours FC",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "1-2"
+            ],
+            "full_time": "1-2"
           }
         },
         {
@@ -2404,7 +3055,10 @@
           "home_team": "Clermont Foot 63",
           "away_team": "Stade de Reims",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2413,6 +3067,9 @@
           "home_team": "Gazélec FC Ajaccio",
           "away_team": "Chamois Niortais",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -2422,7 +3079,10 @@
           "home_team": "Red Star FC",
           "away_team": "RC Strasbourg",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2431,7 +3091,10 @@
           "home_team": "FC Sochaux",
           "away_team": "Stade Lavallois",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -2449,7 +3112,10 @@
           "home_team": "Valenciennes FC",
           "away_team": "Amiens SC",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2458,7 +3124,10 @@
           "home_team": "Stade Brestois 29",
           "away_team": "Havre AC",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2467,7 +3136,10 @@
           "home_team": "US Orléans",
           "away_team": "RC Lens",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -2490,7 +3162,10 @@
           "home_team": "Amiens SC",
           "away_team": "US Orléans",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -2499,7 +3174,10 @@
           "home_team": "Stade Lavallois",
           "away_team": "FC Bourg-Péronnas",
           "result": {
-            "full_time": "2-4"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2508,7 +3186,10 @@
           "home_team": "Havre AC",
           "away_team": "AJ Auxerre",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2517,7 +3198,10 @@
           "home_team": "Nîmes Olympique",
           "away_team": "Gazélec FC Ajaccio",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -2526,7 +3210,10 @@
           "home_team": "Chamois Niortais",
           "away_team": "Red Star FC",
           "result": {
-            "full_time": "2-3"
+            "breakdown": [
+              "1-2"
+            ],
+            "full_time": "1-2"
           }
         },
         {
@@ -2535,7 +3222,10 @@
           "home_team": "RC Strasbourg",
           "away_team": "Clermont Foot 63",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -2553,7 +3243,10 @@
           "home_team": "RC Lens",
           "away_team": "Valenciennes FC",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2562,7 +3255,10 @@
           "home_team": "Stade de Reims",
           "away_team": "Stade Brestois 29",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         }
       ]
@@ -2576,7 +3272,10 @@
           "home_team": "AJ Auxerre",
           "away_team": "Stade de Reims",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2585,7 +3284,10 @@
           "home_team": "FC Bourg-Péronnas",
           "away_team": "Nîmes Olympique",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2594,7 +3296,10 @@
           "home_team": "Stade Brestois 29",
           "away_team": "AC Ajaccio",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -2603,7 +3308,10 @@
           "home_team": "Clermont Foot 63",
           "away_team": "Stade Lavallois",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -2612,7 +3320,10 @@
           "home_team": "Gazélec FC Ajaccio",
           "away_team": "Tours FC",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-2"
+            ],
+            "full_time": "1-2"
           }
         },
         {
@@ -2621,7 +3332,10 @@
           "home_team": "Red Star FC",
           "away_team": "RC Lens",
           "result": {
-            "full_time": "2-3"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2630,6 +3344,9 @@
           "home_team": "FC Sochaux",
           "away_team": "Havre AC",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -2639,6 +3356,9 @@
           "home_team": "US Orléans",
           "away_team": "Chamois Niortais",
           "result": {
+            "breakdown": [
+              "1-1"
+            ],
             "full_time": "1-1"
           }
         },
@@ -2648,7 +3368,10 @@
           "home_team": "ESTAC Troyes",
           "away_team": "Amiens SC",
           "result": {
-            "full_time": "4-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -2657,7 +3380,10 @@
           "home_team": "Valenciennes FC",
           "away_team": "RC Strasbourg",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -2671,7 +3397,10 @@
           "home_team": "Amiens SC",
           "away_team": "FC Bourg-Péronnas",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -2680,7 +3409,10 @@
           "home_team": "Gazélec FC Ajaccio",
           "away_team": "ESTAC Troyes",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "3-0"
+            ],
+            "full_time": "3-0"
           }
         },
         {
@@ -2698,7 +3430,10 @@
           "home_team": "Havre AC",
           "away_team": "Clermont Foot 63",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2707,7 +3442,10 @@
           "home_team": "Nîmes Olympique",
           "away_team": "Red Star FC",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2716,7 +3454,10 @@
           "home_team": "Chamois Niortais",
           "away_team": "Valenciennes FC",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -2725,7 +3466,10 @@
           "home_team": "Stade de Reims",
           "away_team": "AC Ajaccio",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2734,7 +3478,10 @@
           "home_team": "Tours FC",
           "away_team": "US Orléans",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2743,7 +3490,10 @@
           "home_team": "RC Strasbourg",
           "away_team": "Stade Brestois 29",
           "result": {
-            "full_time": "4-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2752,7 +3502,10 @@
           "home_team": "RC Lens",
           "away_team": "FC Sochaux",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -2775,7 +3528,10 @@
           "home_team": "FC Bourg-Péronnas",
           "away_team": "ESTAC Troyes",
           "result": {
-            "full_time": "2-4"
+            "breakdown": [
+              "1-3"
+            ],
+            "full_time": "1-3"
           }
         },
         {
@@ -2784,7 +3540,10 @@
           "home_team": "Stade Brestois 29",
           "away_team": "Stade Lavallois",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -2793,7 +3552,10 @@
           "home_team": "Clermont Foot 63",
           "away_team": "Chamois Niortais",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2802,6 +3564,9 @@
           "home_team": "US Orléans",
           "away_team": "Gazélec FC Ajaccio",
           "result": {
+            "breakdown": [
+              "1-1"
+            ],
             "full_time": "1-1"
           }
         },
@@ -2811,7 +3576,10 @@
           "home_team": "Red Star FC",
           "away_team": "Amiens SC",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2820,7 +3588,10 @@
           "home_team": "FC Sochaux",
           "away_team": "Nîmes Olympique",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2829,7 +3600,10 @@
           "home_team": "Valenciennes FC",
           "away_team": "Tours FC",
           "result": {
-            "full_time": "0-4"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -2838,7 +3612,10 @@
           "home_team": "Stade de Reims",
           "away_team": "RC Lens",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2847,7 +3624,10 @@
           "home_team": "AJ Auxerre",
           "away_team": "RC Strasbourg",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -2861,7 +3641,10 @@
           "home_team": "Amiens SC",
           "away_team": "Clermont Foot 63",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2870,7 +3653,10 @@
           "home_team": "Gazélec FC Ajaccio",
           "away_team": "FC Bourg-Péronnas",
           "result": {
-            "full_time": "2-3"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2879,6 +3665,9 @@
           "home_team": "Stade Lavallois",
           "away_team": "AC Ajaccio",
           "result": {
+            "breakdown": [
+              "1-1"
+            ],
             "full_time": "1-1"
           }
         },
@@ -2888,7 +3677,10 @@
           "home_team": "Havre AC",
           "away_team": "Stade de Reims",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2897,6 +3689,9 @@
           "home_team": "Nîmes Olympique",
           "away_team": "Valenciennes FC",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -2906,7 +3701,10 @@
           "home_team": "Chamois Niortais",
           "away_team": "AJ Auxerre",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2915,7 +3713,10 @@
           "home_team": "Tours FC",
           "away_team": "Red Star FC",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "2-1"
+            ],
+            "full_time": "2-1"
           }
         },
         {
@@ -2924,7 +3725,10 @@
           "home_team": "ESTAC Troyes",
           "away_team": "US Orléans",
           "result": {
-            "full_time": "4-2"
+            "breakdown": [
+              "4-0"
+            ],
+            "full_time": "4-0"
           }
         },
         {
@@ -2933,7 +3737,10 @@
           "home_team": "RC Lens",
           "away_team": "Stade Brestois 29",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -2942,6 +3749,9 @@
           "home_team": "RC Strasbourg",
           "away_team": "FC Sochaux",
           "result": {
+            "breakdown": [
+              "2-0"
+            ],
             "full_time": "2-0"
           }
         }
@@ -2956,6 +3766,9 @@
           "home_team": "AJ Auxerre",
           "away_team": "Amiens SC",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -2965,6 +3778,9 @@
           "home_team": "Stade Brestois 29",
           "away_team": "Tours FC",
           "result": {
+            "breakdown": [
+              "1-1"
+            ],
             "full_time": "1-1"
           }
         },
@@ -2974,7 +3790,10 @@
           "home_team": "Clermont Foot 63",
           "away_team": "Nîmes Olympique",
           "result": {
-            "full_time": "2-3"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -2983,7 +3802,10 @@
           "home_team": "Havre AC",
           "away_team": "Stade Lavallois",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2992,7 +3814,10 @@
           "home_team": "US Orléans",
           "away_team": "FC Bourg-Péronnas",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -3001,7 +3826,10 @@
           "home_team": "FC Sochaux",
           "away_team": "Chamois Niortais",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -3010,7 +3838,10 @@
           "home_team": "Valenciennes FC",
           "away_team": "ESTAC Troyes",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -3019,7 +3850,10 @@
           "home_team": "Red Star FC",
           "away_team": "Gazélec FC Ajaccio",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -3028,6 +3862,9 @@
           "home_team": "Stade de Reims",
           "away_team": "RC Strasbourg",
           "result": {
+            "breakdown": [
+              "1-1"
+            ],
             "full_time": "1-1"
           }
         },
@@ -3037,7 +3874,10 @@
           "home_team": "AC Ajaccio",
           "away_team": "RC Lens",
           "result": {
-            "full_time": "3-6"
+            "breakdown": [
+              "3-5"
+            ],
+            "full_time": "3-5"
           }
         }
       ]
@@ -3051,7 +3891,10 @@
           "home_team": "Amiens SC",
           "away_team": "Havre AC",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -3060,7 +3903,10 @@
           "home_team": "FC Bourg-Péronnas",
           "away_team": "Valenciennes FC",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -3069,7 +3915,10 @@
           "home_team": "Gazélec FC Ajaccio",
           "away_team": "Clermont Foot 63",
           "result": {
-            "full_time": "4-4"
+            "breakdown": [
+              "3-1"
+            ],
+            "full_time": "3-1"
           }
         },
         {
@@ -3078,7 +3927,10 @@
           "home_team": "Stade Lavallois",
           "away_team": "Stade de Reims",
           "result": {
-            "full_time": "5-2"
+            "breakdown": [
+              "1-2"
+            ],
+            "full_time": "1-2"
           }
         },
         {
@@ -3087,7 +3939,10 @@
           "home_team": "Nîmes Olympique",
           "away_team": "US Orléans",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -3096,7 +3951,10 @@
           "home_team": "Chamois Niortais",
           "away_team": "Stade Brestois 29",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -3105,7 +3963,10 @@
           "home_team": "Tours FC",
           "away_team": "FC Sochaux",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "2-1"
+            ],
+            "full_time": "2-1"
           }
         },
         {
@@ -3114,7 +3975,10 @@
           "home_team": "ESTAC Troyes",
           "away_team": "Red Star FC",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -3123,6 +3987,9 @@
           "home_team": "RC Lens",
           "away_team": "AJ Auxerre",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -3132,7 +3999,10 @@
           "home_team": "RC Strasbourg",
           "away_team": "AC Ajaccio",
           "result": {
-            "full_time": "4-2"
+            "breakdown": [
+              "2-1"
+            ],
+            "full_time": "2-1"
           }
         }
       ]
@@ -3146,6 +4016,9 @@
           "home_team": "AC Ajaccio",
           "away_team": "Chamois Niortais",
           "result": {
+            "breakdown": [
+              "3-1"
+            ],
             "full_time": "3-1"
           }
         },
@@ -3155,6 +4028,9 @@
           "home_team": "AJ Auxerre",
           "away_team": "Tours FC",
           "result": {
+            "breakdown": [
+              "1-1"
+            ],
             "full_time": "1-1"
           }
         },
@@ -3164,7 +4040,10 @@
           "home_team": "Clermont Foot 63",
           "away_team": "ESTAC Troyes",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -3173,7 +4052,10 @@
           "home_team": "Stade Lavallois",
           "away_team": "RC Strasbourg",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -3182,7 +4064,10 @@
           "home_team": "Red Star FC",
           "away_team": "FC Bourg-Péronnas",
           "result": {
-            "full_time": "4-1"
+            "breakdown": [
+              "2-1"
+            ],
+            "full_time": "2-1"
           }
         },
         {
@@ -3191,7 +4076,10 @@
           "home_team": "Stade de Reims",
           "away_team": "Nîmes Olympique",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -3200,7 +4088,10 @@
           "home_team": "FC Sochaux",
           "away_team": "Gazélec FC Ajaccio",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -3209,7 +4100,10 @@
           "home_team": "Valenciennes FC",
           "away_team": "US Orléans",
           "result": {
-            "full_time": "4-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -3218,7 +4112,10 @@
           "home_team": "Stade Brestois 29",
           "away_team": "Amiens SC",
           "result": {
-            "full_time": "2-3"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -3227,6 +4124,9 @@
           "home_team": "Havre AC",
           "away_team": "RC Lens",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         }
@@ -3241,7 +4141,10 @@
           "home_team": "Amiens SC",
           "away_team": "AC Ajaccio",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -3250,6 +4153,9 @@
           "home_team": "FC Bourg-Péronnas",
           "away_team": "FC Sochaux",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -3259,6 +4165,9 @@
           "home_team": "Gazélec FC Ajaccio",
           "away_team": "Valenciennes FC",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -3268,7 +4177,10 @@
           "home_team": "Nîmes Olympique",
           "away_team": "AJ Auxerre",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -3277,7 +4189,10 @@
           "home_team": "Chamois Niortais",
           "away_team": "Stade de Reims",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -3286,7 +4201,10 @@
           "home_team": "US Orléans",
           "away_team": "Red Star FC",
           "result": {
-            "full_time": "4-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -3295,7 +4213,10 @@
           "home_team": "RC Strasbourg",
           "away_team": "Havre AC",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -3304,7 +4225,10 @@
           "home_team": "Tours FC",
           "away_team": "Clermont Foot 63",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -3313,6 +4237,9 @@
           "home_team": "ESTAC Troyes",
           "away_team": "Stade Brestois 29",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -3322,7 +4249,10 @@
           "home_team": "RC Lens",
           "away_team": "Stade Lavallois",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -3336,7 +4266,10 @@
           "home_team": "AJ Auxerre",
           "away_team": "ESTAC Troyes",
           "result": {
-            "full_time": "2-3"
+            "breakdown": [
+              "2-1"
+            ],
+            "full_time": "2-1"
           }
         },
         {
@@ -3345,7 +4278,10 @@
           "home_team": "Clermont Foot 63",
           "away_team": "FC Bourg-Péronnas",
           "result": {
-            "full_time": "2-3"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -3354,7 +4290,10 @@
           "home_team": "Stade Lavallois",
           "away_team": "Tours FC",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -3372,7 +4311,10 @@
           "home_team": "Stade de Reims",
           "away_team": "US Orléans",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -3381,7 +4323,10 @@
           "home_team": "FC Sochaux",
           "away_team": "Amiens SC",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -3399,7 +4344,10 @@
           "home_team": "Stade Brestois 29",
           "away_team": "Nîmes Olympique",
           "result": {
-            "full_time": "2-3"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -3408,7 +4356,10 @@
           "home_team": "AC Ajaccio",
           "away_team": "Gazélec FC Ajaccio",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -3417,7 +4368,10 @@
           "home_team": "RC Lens",
           "away_team": "RC Strasbourg",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -3431,7 +4385,10 @@
           "home_team": "Amiens SC",
           "away_team": "Stade Lavallois",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -3440,7 +4397,10 @@
           "home_team": "FC Bourg-Péronnas",
           "away_team": "Stade Brestois 29",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -3449,7 +4409,10 @@
           "home_team": "Gazélec FC Ajaccio",
           "away_team": "RC Lens",
           "result": {
-            "full_time": "0-4"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -3458,7 +4421,10 @@
           "home_team": "Nîmes Olympique",
           "away_team": "AC Ajaccio",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -3467,7 +4433,10 @@
           "home_team": "Chamois Niortais",
           "away_team": "RC Strasbourg",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -3476,6 +4445,9 @@
           "home_team": "US Orléans",
           "away_team": "Clermont Foot 63",
           "result": {
+            "breakdown": [
+              "2-2"
+            ],
             "full_time": "2-2"
           }
         },
@@ -3485,7 +4457,10 @@
           "home_team": "Red Star FC",
           "away_team": "FC Sochaux",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -3494,7 +4469,10 @@
           "home_team": "Tours FC",
           "away_team": "Havre AC",
           "result": {
-            "full_time": "0-4"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -3503,6 +4481,9 @@
           "home_team": "ESTAC Troyes",
           "away_team": "Stade de Reims",
           "result": {
+            "breakdown": [
+              "2-0"
+            ],
             "full_time": "2-0"
           }
         },
@@ -3526,7 +4507,10 @@
           "home_team": "AC Ajaccio",
           "away_team": "Tours FC",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -3535,7 +4519,10 @@
           "home_team": "AJ Auxerre",
           "away_team": "Red Star FC",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -3544,7 +4531,10 @@
           "home_team": "Stade Brestois 29",
           "away_team": "Gazélec FC Ajaccio",
           "result": {
-            "full_time": "6-2"
+            "breakdown": [
+              "3-0"
+            ],
+            "full_time": "3-0"
           }
         },
         {
@@ -3553,7 +4543,10 @@
           "home_team": "Clermont Foot 63",
           "away_team": "Valenciennes FC",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -3562,7 +4555,10 @@
           "home_team": "Stade Lavallois",
           "away_team": "Nîmes Olympique",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -3571,7 +4567,10 @@
           "home_team": "Havre AC",
           "away_team": "US Orléans",
           "result": {
-            "full_time": "4-1"
+            "breakdown": [
+              "2-1"
+            ],
+            "full_time": "2-1"
           }
         },
         {
@@ -3580,7 +4579,10 @@
           "home_team": "RC Lens",
           "away_team": "Chamois Niortais",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -3589,7 +4591,10 @@
           "home_team": "Stade de Reims",
           "away_team": "Amiens SC",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -3598,7 +4603,10 @@
           "home_team": "FC Sochaux",
           "away_team": "ESTAC Troyes",
           "result": {
-            "full_time": "2-3"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -3607,7 +4615,10 @@
           "home_team": "RC Strasbourg",
           "away_team": "FC Bourg-Péronnas",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         }
       ]

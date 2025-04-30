@@ -11,7 +11,10 @@
           "home_team": "MSV Duisburg",
           "away_team": "1. FC Kaiserslautern",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "0-3"
+            ],
+            "full_time": "0-3"
           }
         },
         {
@@ -20,7 +23,10 @@
           "home_team": "SpVgg Greuther Fürth",
           "away_team": "Karlsruher SC",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -38,7 +44,10 @@
           "home_team": "FSV Frankfurt",
           "away_team": "RB Leipzig",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -47,7 +56,10 @@
           "home_team": "SC Paderborn 07",
           "away_team": "VfL Bochum",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -56,7 +68,10 @@
           "home_team": "Eintracht Braunschweig",
           "away_team": "SV Sandhausen",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "1-2"
+            ],
+            "full_time": "1-2"
           }
         },
         {
@@ -65,7 +80,10 @@
           "home_team": "1. FC Union Berlin",
           "away_team": "Fortuna Düsseldorf",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -74,7 +92,10 @@
           "home_team": "1. FC Heidenheim 1846",
           "away_team": "TSV 1860 München",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -83,7 +104,10 @@
           "home_team": "SC Freiburg",
           "away_team": "1. FC Nürnberg",
           "result": {
-            "full_time": "6-3"
+            "breakdown": [
+              "4-1"
+            ],
+            "full_time": "4-1"
           }
         }
       ]
@@ -97,7 +121,10 @@
           "home_team": "1. FC Nürnberg",
           "away_team": "1. FC Heidenheim 1846",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "2-1"
+            ],
+            "full_time": "2-1"
           }
         },
         {
@@ -124,7 +151,10 @@
           "home_team": "VfL Bochum",
           "away_team": "MSV Duisburg",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -133,7 +163,10 @@
           "home_team": "TSV 1860 München",
           "away_team": "SC Freiburg",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -142,7 +175,10 @@
           "home_team": "Fortuna Düsseldorf",
           "away_team": "SC Paderborn 07",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -151,6 +187,9 @@
           "home_team": "Karlsruher SC",
           "away_team": "FC St. Pauli",
           "result": {
+            "breakdown": [
+              "1-2"
+            ],
             "full_time": "1-2"
           }
         },
@@ -160,7 +199,10 @@
           "home_team": "SV Sandhausen",
           "away_team": "1. FC Union Berlin",
           "result": {
-            "full_time": "4-3"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -169,7 +211,10 @@
           "home_team": "RB Leipzig",
           "away_team": "SpVgg Greuther Fürth",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-2"
+            ],
+            "full_time": "1-2"
           }
         }
       ]
@@ -183,7 +228,10 @@
           "home_team": "SC Paderborn 07",
           "away_team": "SV Sandhausen",
           "result": {
-            "full_time": "0-6"
+            "breakdown": [
+              "0-3"
+            ],
+            "full_time": "0-3"
           }
         },
         {
@@ -192,7 +240,10 @@
           "home_team": "1. FC Heidenheim 1846",
           "away_team": "Fortuna Düsseldorf",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -201,7 +252,10 @@
           "home_team": "FSV Frankfurt",
           "away_team": "Karlsruher SC",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -210,7 +264,10 @@
           "home_team": "SC Freiburg",
           "away_team": "VfL Bochum",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -219,7 +276,10 @@
           "home_team": "Eintracht Braunschweig",
           "away_team": "RB Leipzig",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -228,7 +288,10 @@
           "home_team": "1. FC Union Berlin",
           "away_team": "1. FC Kaiserslautern",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -237,7 +300,10 @@
           "home_team": "FC St. Pauli",
           "away_team": "SpVgg Greuther Fürth",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "2-1"
+            ],
+            "full_time": "2-1"
           }
         },
         {
@@ -246,7 +312,10 @@
           "home_team": "MSV Duisburg",
           "away_team": "Arminia Bielefeld",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -255,7 +324,10 @@
           "home_team": "1. FC Nürnberg",
           "away_team": "TSV 1860 München",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         }
       ]
@@ -269,7 +341,10 @@
           "home_team": "SpVgg Greuther Fürth",
           "away_team": "FSV Frankfurt",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -287,7 +362,10 @@
           "home_team": "Arminia Bielefeld",
           "away_team": "Eintracht Braunschweig",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -296,7 +374,10 @@
           "home_team": "Karlsruher SC",
           "away_team": "MSV Duisburg",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -305,6 +386,9 @@
           "home_team": "Fortuna Düsseldorf",
           "away_team": "SC Freiburg",
           "result": {
+            "breakdown": [
+              "1-2"
+            ],
             "full_time": "1-2"
           }
         },
@@ -314,6 +398,9 @@
           "home_team": "RB Leipzig",
           "away_team": "FC St. Pauli",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -323,7 +410,10 @@
           "home_team": "VfL Bochum",
           "away_team": "1. FC Nürnberg",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -341,6 +431,9 @@
           "home_team": "1. FC Kaiserslautern",
           "away_team": "SC Paderborn 07",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         }
@@ -355,7 +448,10 @@
           "home_team": "SC Freiburg",
           "away_team": "SV Sandhausen",
           "result": {
-            "full_time": "4-1"
+            "breakdown": [
+              "3-0"
+            ],
+            "full_time": "3-0"
           }
         },
         {
@@ -364,7 +460,10 @@
           "home_team": "1. FC Union Berlin",
           "away_team": "RB Leipzig",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -373,7 +472,10 @@
           "home_team": "1. FC Heidenheim 1846",
           "away_team": "1. FC Kaiserslautern",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -382,7 +484,10 @@
           "home_team": "SC Paderborn 07",
           "away_team": "Arminia Bielefeld",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -391,7 +496,10 @@
           "home_team": "MSV Duisburg",
           "away_team": "SpVgg Greuther Fürth",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -400,7 +508,10 @@
           "home_team": "Eintracht Braunschweig",
           "away_team": "Karlsruher SC",
           "result": {
-            "full_time": "6-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -409,7 +520,10 @@
           "home_team": "1. FC Nürnberg",
           "away_team": "Fortuna Düsseldorf",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -418,7 +532,10 @@
           "home_team": "FSV Frankfurt",
           "away_team": "FC St. Pauli",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -427,7 +544,10 @@
           "home_team": "VfL Bochum",
           "away_team": "TSV 1860 München",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -441,7 +561,10 @@
           "home_team": "1. FC Kaiserslautern",
           "away_team": "SC Freiburg",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -450,6 +573,9 @@
           "home_team": "RB Leipzig",
           "away_team": "SC Paderborn 07",
           "result": {
+            "breakdown": [
+              "2-0"
+            ],
             "full_time": "2-0"
           }
         },
@@ -459,6 +585,9 @@
           "home_team": "SV Sandhausen",
           "away_team": "VfL Bochum",
           "result": {
+            "breakdown": [
+              "1-1"
+            ],
             "full_time": "1-1"
           }
         },
@@ -468,7 +597,10 @@
           "home_team": "Karlsruher SC",
           "away_team": "1. FC Union Berlin",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -486,7 +618,10 @@
           "home_team": "Fortuna Düsseldorf",
           "away_team": "TSV 1860 München",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -495,7 +630,10 @@
           "home_team": "SpVgg Greuther Fürth",
           "away_team": "1. FC Nürnberg",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -504,7 +642,10 @@
           "home_team": "FSV Frankfurt",
           "away_team": "Eintracht Braunschweig",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -513,7 +654,10 @@
           "home_team": "FC St. Pauli",
           "away_team": "MSV Duisburg",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -527,7 +671,10 @@
           "home_team": "SC Freiburg",
           "away_team": "Arminia Bielefeld",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -536,7 +683,10 @@
           "home_team": "VfL Bochum",
           "away_team": "Fortuna Düsseldorf",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -545,7 +695,10 @@
           "home_team": "1. FC Heidenheim 1846",
           "away_team": "RB Leipzig",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -554,7 +707,10 @@
           "home_team": "SC Paderborn 07",
           "away_team": "Karlsruher SC",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -563,7 +719,10 @@
           "home_team": "1. FC Nürnberg",
           "away_team": "SV Sandhausen",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -572,7 +731,10 @@
           "home_team": "TSV 1860 München",
           "away_team": "1. FC Kaiserslautern",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -590,7 +752,10 @@
           "home_team": "1. FC Union Berlin",
           "away_team": "SpVgg Greuther Fürth",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -599,6 +764,9 @@
           "home_team": "MSV Duisburg",
           "away_team": "FSV Frankfurt",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         }
@@ -613,7 +781,10 @@
           "home_team": "Karlsruher SC",
           "away_team": "Fortuna Düsseldorf",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -622,7 +793,10 @@
           "home_team": "1. FC Kaiserslautern",
           "away_team": "1. FC Nürnberg",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -631,6 +805,9 @@
           "home_team": "SV Sandhausen",
           "away_team": "TSV 1860 München",
           "result": {
+            "breakdown": [
+              "1-1"
+            ],
             "full_time": "1-1"
           }
         },
@@ -640,7 +817,10 @@
           "home_team": "Arminia Bielefeld",
           "away_team": "VfL Bochum",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -649,7 +829,10 @@
           "home_team": "SpVgg Greuther Fürth",
           "away_team": "SC Paderborn 07",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -658,6 +841,9 @@
           "home_team": "FC St. Pauli",
           "away_team": "1. FC Heidenheim 1846",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -667,7 +853,10 @@
           "home_team": "FSV Frankfurt",
           "away_team": "1. FC Union Berlin",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -676,7 +865,10 @@
           "home_team": "MSV Duisburg",
           "away_team": "Eintracht Braunschweig",
           "result": {
-            "full_time": "0-5"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -685,7 +877,10 @@
           "home_team": "RB Leipzig",
           "away_team": "SC Freiburg",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         }
       ]
@@ -699,7 +894,10 @@
           "home_team": "1. FC Nürnberg",
           "away_team": "Arminia Bielefeld",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -708,7 +906,10 @@
           "home_team": "Fortuna Düsseldorf",
           "away_team": "SV Sandhausen",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -717,7 +918,10 @@
           "home_team": "VfL Bochum",
           "away_team": "1. FC Kaiserslautern",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -735,7 +939,10 @@
           "home_team": "1. FC Union Berlin",
           "away_team": "MSV Duisburg",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "3-0"
+            ],
+            "full_time": "3-0"
           }
         },
         {
@@ -744,7 +951,10 @@
           "home_team": "SC Freiburg",
           "away_team": "FSV Frankfurt",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -753,7 +963,10 @@
           "home_team": "TSV 1860 München",
           "away_team": "RB Leipzig",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -762,7 +975,10 @@
           "home_team": "1. FC Heidenheim 1846",
           "away_team": "Karlsruher SC",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -771,6 +987,9 @@
           "home_team": "Eintracht Braunschweig",
           "away_team": "SpVgg Greuther Fürth",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         }
@@ -785,7 +1004,10 @@
           "home_team": "1. FC Kaiserslautern",
           "away_team": "Fortuna Düsseldorf",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -794,7 +1016,10 @@
           "home_team": "FSV Frankfurt",
           "away_team": "1. FC Heidenheim 1846",
           "result": {
-            "full_time": "0-4"
+            "breakdown": [
+              "0-3"
+            ],
+            "full_time": "0-3"
           }
         },
         {
@@ -803,6 +1028,9 @@
           "home_team": "Arminia Bielefeld",
           "away_team": "TSV 1860 München",
           "result": {
+            "breakdown": [
+              "1-1"
+            ],
             "full_time": "1-1"
           }
         },
@@ -812,7 +1040,10 @@
           "home_team": "SpVgg Greuther Fürth",
           "away_team": "VfL Bochum",
           "result": {
-            "full_time": "0-5"
+            "breakdown": [
+              "0-3"
+            ],
+            "full_time": "0-3"
           }
         },
         {
@@ -821,7 +1052,10 @@
           "home_team": "FC St. Pauli",
           "away_team": "SV Sandhausen",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -830,7 +1064,10 @@
           "home_team": "Karlsruher SC",
           "away_team": "SC Freiburg",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -839,7 +1076,10 @@
           "home_team": "RB Leipzig",
           "away_team": "1. FC Nürnberg",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "3-0"
+            ],
+            "full_time": "3-0"
           }
         },
         {
@@ -848,7 +1088,10 @@
           "home_team": "Eintracht Braunschweig",
           "away_team": "1. FC Union Berlin",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -857,7 +1100,10 @@
           "home_team": "MSV Duisburg",
           "away_team": "SC Paderborn 07",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -871,7 +1117,10 @@
           "home_team": "SC Paderborn 07",
           "away_team": "Eintracht Braunschweig",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -880,6 +1129,9 @@
           "home_team": "Fortuna Düsseldorf",
           "away_team": "Arminia Bielefeld",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -889,6 +1141,9 @@
           "home_team": "SV Sandhausen",
           "away_team": "1. FC Kaiserslautern",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -898,7 +1153,10 @@
           "home_team": "1. FC Nürnberg",
           "away_team": "FSV Frankfurt",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -907,7 +1165,10 @@
           "home_team": "1. FC Union Berlin",
           "away_team": "FC St. Pauli",
           "result": {
-            "full_time": "3-3"
+            "breakdown": [
+              "2-1"
+            ],
+            "full_time": "2-1"
           }
         },
         {
@@ -916,7 +1177,10 @@
           "home_team": "SC Freiburg",
           "away_team": "SpVgg Greuther Fürth",
           "result": {
-            "full_time": "5-2"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -925,7 +1189,10 @@
           "home_team": "VfL Bochum",
           "away_team": "RB Leipzig",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -934,7 +1201,10 @@
           "home_team": "1. FC Heidenheim 1846",
           "away_team": "MSV Duisburg",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -943,6 +1213,9 @@
           "home_team": "TSV 1860 München",
           "away_team": "Karlsruher SC",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         }
@@ -957,7 +1230,10 @@
           "home_team": "RB Leipzig",
           "away_team": "Fortuna Düsseldorf",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -966,7 +1242,10 @@
           "home_team": "SpVgg Greuther Fürth",
           "away_team": "TSV 1860 München",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -975,7 +1254,10 @@
           "home_team": "FSV Frankfurt",
           "away_team": "VfL Bochum",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -984,7 +1266,10 @@
           "home_team": "Karlsruher SC",
           "away_team": "1. FC Kaiserslautern",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -993,6 +1278,9 @@
           "home_team": "1. FC Union Berlin",
           "away_team": "SC Paderborn 07",
           "result": {
+            "breakdown": [
+              "0-2"
+            ],
             "full_time": "0-2"
           }
         },
@@ -1011,7 +1299,10 @@
           "home_team": "Eintracht Braunschweig",
           "away_team": "1. FC Heidenheim 1846",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1020,7 +1311,10 @@
           "home_team": "FC St. Pauli",
           "away_team": "SC Freiburg",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1043,7 +1337,10 @@
           "home_team": "1. FC Kaiserslautern",
           "away_team": "Arminia Bielefeld",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1052,7 +1349,10 @@
           "home_team": "Fortuna Düsseldorf",
           "away_team": "SpVgg Greuther Fürth",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1061,6 +1361,9 @@
           "home_team": "VfL Bochum",
           "away_team": "FC St. Pauli",
           "result": {
+            "breakdown": [
+              "1-1"
+            ],
             "full_time": "1-1"
           }
         },
@@ -1070,7 +1373,10 @@
           "home_team": "SC Paderborn 07",
           "away_team": "FSV Frankfurt",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1079,7 +1385,10 @@
           "home_team": "1. FC Heidenheim 1846",
           "away_team": "1. FC Union Berlin",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1088,7 +1397,10 @@
           "home_team": "SC Freiburg",
           "away_team": "Eintracht Braunschweig",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -1097,7 +1409,10 @@
           "home_team": "TSV 1860 München",
           "away_team": "MSV Duisburg",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1106,7 +1421,10 @@
           "home_team": "SV Sandhausen",
           "away_team": "RB Leipzig",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -1129,7 +1447,10 @@
           "home_team": "Karlsruher SC",
           "away_team": "VfL Bochum",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1147,7 +1468,10 @@
           "home_team": "FSV Frankfurt",
           "away_team": "SV Sandhausen",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1156,7 +1480,10 @@
           "home_team": "1. FC Union Berlin",
           "away_team": "1. FC Nürnberg",
           "result": {
-            "full_time": "3-3"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -1165,7 +1492,10 @@
           "home_team": "MSV Duisburg",
           "away_team": "SC Freiburg",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1174,7 +1504,10 @@
           "home_team": "SC Paderborn 07",
           "away_team": "1. FC Heidenheim 1846",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1183,7 +1516,10 @@
           "home_team": "RB Leipzig",
           "away_team": "1. FC Kaiserslautern",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1201,7 +1537,10 @@
           "home_team": "FC St. Pauli",
           "away_team": "Fortuna Düsseldorf",
           "result": {
-            "full_time": "4-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         }
       ]
@@ -1215,7 +1554,10 @@
           "home_team": "Fortuna Düsseldorf",
           "away_team": "MSV Duisburg",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1224,6 +1566,9 @@
           "home_team": "VfL Bochum",
           "away_team": "1. FC Union Berlin",
           "result": {
+            "breakdown": [
+              "1-1"
+            ],
             "full_time": "1-1"
           }
         },
@@ -1233,7 +1578,10 @@
           "home_team": "SV Sandhausen",
           "away_team": "Karlsruher SC",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -1242,7 +1590,10 @@
           "home_team": "TSV 1860 München",
           "away_team": "FC St. Pauli",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1251,6 +1602,9 @@
           "home_team": "Arminia Bielefeld",
           "away_team": "RB Leipzig",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -1260,7 +1614,10 @@
           "home_team": "SC Freiburg",
           "away_team": "SC Paderborn 07",
           "result": {
-            "full_time": "4-1"
+            "breakdown": [
+              "3-0"
+            ],
+            "full_time": "3-0"
           }
         },
         {
@@ -1269,7 +1626,10 @@
           "home_team": "1. FC Kaiserslautern",
           "away_team": "FSV Frankfurt",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1278,7 +1638,10 @@
           "home_team": "1. FC Heidenheim 1846",
           "away_team": "SpVgg Greuther Fürth",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1287,7 +1650,10 @@
           "home_team": "1. FC Nürnberg",
           "away_team": "Eintracht Braunschweig",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         }
       ]
@@ -1301,7 +1667,10 @@
           "home_team": "SpVgg Greuther Fürth",
           "away_team": "1. FC Kaiserslautern",
           "result": {
-            "full_time": "2-4"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -1310,7 +1679,10 @@
           "home_team": "1. FC Heidenheim 1846",
           "away_team": "SC Freiburg",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -1319,6 +1691,9 @@
           "home_team": "Eintracht Braunschweig",
           "away_team": "VfL Bochum",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -1328,7 +1703,10 @@
           "home_team": "SC Paderborn 07",
           "away_team": "TSV 1860 München",
           "result": {
-            "full_time": "4-4"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1337,7 +1715,10 @@
           "home_team": "1. FC Union Berlin",
           "away_team": "Arminia Bielefeld",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1346,7 +1727,10 @@
           "home_team": "FC St. Pauli",
           "away_team": "1. FC Nürnberg",
           "result": {
-            "full_time": "0-4"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -1355,7 +1739,10 @@
           "home_team": "FSV Frankfurt",
           "away_team": "Fortuna Düsseldorf",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -1364,7 +1751,10 @@
           "home_team": "MSV Duisburg",
           "away_team": "SV Sandhausen",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1373,7 +1763,10 @@
           "home_team": "Karlsruher SC",
           "away_team": "RB Leipzig",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -1387,7 +1780,10 @@
           "home_team": "1. FC Nürnberg",
           "away_team": "SC Paderborn 07",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1396,6 +1792,9 @@
           "home_team": "TSV 1860 München",
           "away_team": "FSV Frankfurt",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -1405,7 +1804,10 @@
           "home_team": "SV Sandhausen",
           "away_team": "SpVgg Greuther Fürth",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1414,7 +1816,10 @@
           "home_team": "SC Freiburg",
           "away_team": "1. FC Union Berlin",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -1423,7 +1828,10 @@
           "home_team": "Arminia Bielefeld",
           "away_team": "Karlsruher SC",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1432,7 +1840,10 @@
           "home_team": "1. FC Kaiserslautern",
           "away_team": "FC St. Pauli",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1441,7 +1852,10 @@
           "home_team": "RB Leipzig",
           "away_team": "MSV Duisburg",
           "result": {
-            "full_time": "4-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -1450,7 +1864,10 @@
           "home_team": "VfL Bochum",
           "away_team": "1. FC Heidenheim 1846",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1459,6 +1876,9 @@
           "home_team": "Fortuna Düsseldorf",
           "away_team": "Eintracht Braunschweig",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         }
@@ -1473,7 +1893,10 @@
           "home_team": "VfL Bochum",
           "away_team": "SC Paderborn 07",
           "result": {
-            "full_time": "4-0"
+            "breakdown": [
+              "3-0"
+            ],
+            "full_time": "3-0"
           }
         },
         {
@@ -1482,7 +1905,10 @@
           "home_team": "SV Sandhausen",
           "away_team": "Eintracht Braunschweig",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1491,7 +1917,10 @@
           "home_team": "TSV 1860 München",
           "away_team": "1. FC Heidenheim 1846",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -1500,7 +1929,10 @@
           "home_team": "Fortuna Düsseldorf",
           "away_team": "1. FC Union Berlin",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1509,7 +1941,10 @@
           "home_team": "Karlsruher SC",
           "away_team": "SpVgg Greuther Fürth",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1518,7 +1953,10 @@
           "home_team": "1. FC Kaiserslautern",
           "away_team": "MSV Duisburg",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1527,7 +1965,10 @@
           "home_team": "1. FC Nürnberg",
           "away_team": "SC Freiburg",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1536,7 +1977,10 @@
           "home_team": "RB Leipzig",
           "away_team": "FSV Frankfurt",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1559,7 +2003,10 @@
           "home_team": "FC St. Pauli",
           "away_team": "Karlsruher SC",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -1568,7 +2015,10 @@
           "home_team": "1. FC Union Berlin",
           "away_team": "SV Sandhausen",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1577,7 +2027,10 @@
           "home_team": "FSV Frankfurt",
           "away_team": "Arminia Bielefeld",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1586,7 +2039,10 @@
           "home_team": "SpVgg Greuther Fürth",
           "away_team": "RB Leipzig",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1595,7 +2051,10 @@
           "home_team": "1. FC Heidenheim 1846",
           "away_team": "1. FC Nürnberg",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1604,7 +2063,10 @@
           "home_team": "Eintracht Braunschweig",
           "away_team": "1. FC Kaiserslautern",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1622,7 +2084,10 @@
           "home_team": "SC Freiburg",
           "away_team": "TSV 1860 München",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -1645,7 +2110,10 @@
           "home_team": "VfL Bochum",
           "away_team": "SC Freiburg",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1654,7 +2122,10 @@
           "home_team": "SV Sandhausen",
           "away_team": "SC Paderborn 07",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1663,7 +2134,10 @@
           "home_team": "1. FC Kaiserslautern",
           "away_team": "1. FC Union Berlin",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -1672,6 +2146,9 @@
           "home_team": "TSV 1860 München",
           "away_team": "1. FC Nürnberg",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -1681,7 +2158,10 @@
           "home_team": "Fortuna Düsseldorf",
           "away_team": "1. FC Heidenheim 1846",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1690,6 +2170,9 @@
           "home_team": "RB Leipzig",
           "away_team": "Eintracht Braunschweig",
           "result": {
+            "breakdown": [
+              "2-0"
+            ],
             "full_time": "2-0"
           }
         },
@@ -1699,7 +2182,10 @@
           "home_team": "SpVgg Greuther Fürth",
           "away_team": "FC St. Pauli",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1708,7 +2194,10 @@
           "home_team": "Karlsruher SC",
           "away_team": "FSV Frankfurt",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1717,6 +2206,9 @@
           "home_team": "Arminia Bielefeld",
           "away_team": "MSV Duisburg",
           "result": {
+            "breakdown": [
+              "2-1"
+            ],
             "full_time": "2-1"
           }
         }
@@ -1731,7 +2223,10 @@
           "home_team": "SC Paderborn 07",
           "away_team": "1. FC Kaiserslautern",
           "result": {
-            "full_time": "0-4"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -1740,6 +2235,9 @@
           "home_team": "FC St. Pauli",
           "away_team": "RB Leipzig",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -1749,7 +2247,10 @@
           "home_team": "FSV Frankfurt",
           "away_team": "SpVgg Greuther Fürth",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -1758,6 +2259,9 @@
           "home_team": "MSV Duisburg",
           "away_team": "Karlsruher SC",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -1767,7 +2271,10 @@
           "home_team": "1. FC Heidenheim 1846",
           "away_team": "SV Sandhausen",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1776,7 +2283,10 @@
           "home_team": "SC Freiburg",
           "away_team": "Fortuna Düsseldorf",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -1785,7 +2295,10 @@
           "home_team": "1. FC Union Berlin",
           "away_team": "TSV 1860 München",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1794,6 +2307,9 @@
           "home_team": "Eintracht Braunschweig",
           "away_team": "Arminia Bielefeld",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -1803,7 +2319,10 @@
           "home_team": "1. FC Nürnberg",
           "away_team": "VfL Bochum",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -1817,7 +2336,10 @@
           "home_team": "RB Leipzig",
           "away_team": "1. FC Union Berlin",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -1826,7 +2348,10 @@
           "home_team": "FC St. Pauli",
           "away_team": "FSV Frankfurt",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "1-2"
+            ],
+            "full_time": "1-2"
           }
         },
         {
@@ -1835,7 +2360,10 @@
           "home_team": "SpVgg Greuther Fürth",
           "away_team": "MSV Duisburg",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1844,7 +2372,10 @@
           "home_team": "Karlsruher SC",
           "away_team": "Eintracht Braunschweig",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -1853,7 +2384,10 @@
           "home_team": "1. FC Kaiserslautern",
           "away_team": "1. FC Heidenheim 1846",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1862,7 +2396,10 @@
           "home_team": "SV Sandhausen",
           "away_team": "SC Freiburg",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1871,7 +2408,10 @@
           "home_team": "Arminia Bielefeld",
           "away_team": "SC Paderborn 07",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1880,6 +2420,9 @@
           "home_team": "TSV 1860 München",
           "away_team": "VfL Bochum",
           "result": {
+            "breakdown": [
+              "1-1"
+            ],
             "full_time": "1-1"
           }
         },
@@ -1889,7 +2432,10 @@
           "home_team": "Fortuna Düsseldorf",
           "away_team": "1. FC Nürnberg",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         }
       ]
@@ -1903,7 +2449,10 @@
           "home_team": "1. FC Union Berlin",
           "away_team": "Karlsruher SC",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -1912,7 +2461,10 @@
           "home_team": "SC Paderborn 07",
           "away_team": "RB Leipzig",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1921,7 +2473,10 @@
           "home_team": "1. FC Nürnberg",
           "away_team": "SpVgg Greuther Fürth",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -1930,7 +2485,10 @@
           "home_team": "SC Freiburg",
           "away_team": "1. FC Kaiserslautern",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1939,7 +2497,10 @@
           "home_team": "TSV 1860 München",
           "away_team": "Fortuna Düsseldorf",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1948,7 +2509,10 @@
           "home_team": "VfL Bochum",
           "away_team": "SV Sandhausen",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -1957,7 +2521,10 @@
           "home_team": "MSV Duisburg",
           "away_team": "FC St. Pauli",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1975,7 +2542,10 @@
           "home_team": "1. FC Heidenheim 1846",
           "away_team": "Arminia Bielefeld",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -1998,7 +2568,10 @@
           "home_team": "SV Sandhausen",
           "away_team": "1. FC Nürnberg",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -2007,7 +2580,10 @@
           "home_team": "SpVgg Greuther Fürth",
           "away_team": "1. FC Union Berlin",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2016,7 +2592,10 @@
           "home_team": "Fortuna Düsseldorf",
           "away_team": "VfL Bochum",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2025,6 +2604,9 @@
           "home_team": "1. FC Kaiserslautern",
           "away_team": "TSV 1860 München",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -2034,7 +2616,10 @@
           "home_team": "Arminia Bielefeld",
           "away_team": "SC Freiburg",
           "result": {
-            "full_time": "1-4"
+            "breakdown": [
+              "1-3"
+            ],
+            "full_time": "1-3"
           }
         },
         {
@@ -2043,7 +2628,10 @@
           "home_team": "RB Leipzig",
           "away_team": "1. FC Heidenheim 1846",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -2052,7 +2640,10 @@
           "home_team": "FSV Frankfurt",
           "away_team": "MSV Duisburg",
           "result": {
-            "full_time": "3-3"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2061,7 +2652,10 @@
           "home_team": "FC St. Pauli",
           "away_team": "Eintracht Braunschweig",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -2075,7 +2669,10 @@
           "home_team": "Fortuna Düsseldorf",
           "away_team": "Karlsruher SC",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2084,7 +2681,10 @@
           "home_team": "TSV 1860 München",
           "away_team": "SV Sandhausen",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "2-1"
+            ],
+            "full_time": "2-1"
           }
         },
         {
@@ -2093,7 +2693,10 @@
           "home_team": "1. FC Nürnberg",
           "away_team": "1. FC Kaiserslautern",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -2102,7 +2705,10 @@
           "home_team": "SC Paderborn 07",
           "away_team": "SpVgg Greuther Fürth",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2111,7 +2717,10 @@
           "home_team": "1. FC Union Berlin",
           "away_team": "FSV Frankfurt",
           "result": {
-            "full_time": "4-0"
+            "breakdown": [
+              "3-0"
+            ],
+            "full_time": "3-0"
           }
         },
         {
@@ -2120,7 +2729,10 @@
           "home_team": "1. FC Heidenheim 1846",
           "away_team": "FC St. Pauli",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2129,7 +2741,10 @@
           "home_team": "VfL Bochum",
           "away_team": "Arminia Bielefeld",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2138,7 +2753,10 @@
           "home_team": "Eintracht Braunschweig",
           "away_team": "MSV Duisburg",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2147,7 +2765,10 @@
           "home_team": "SC Freiburg",
           "away_team": "RB Leipzig",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         }
       ]
@@ -2161,7 +2782,10 @@
           "home_team": "FC St. Pauli",
           "away_team": "SC Paderborn 07",
           "result": {
-            "full_time": "3-4"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -2170,7 +2794,10 @@
           "home_team": "SpVgg Greuther Fürth",
           "away_team": "Eintracht Braunschweig",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2179,7 +2806,10 @@
           "home_team": "Arminia Bielefeld",
           "away_team": "1. FC Nürnberg",
           "result": {
-            "full_time": "0-4"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2188,7 +2818,10 @@
           "home_team": "SV Sandhausen",
           "away_team": "Fortuna Düsseldorf",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2197,7 +2830,10 @@
           "home_team": "MSV Duisburg",
           "away_team": "1. FC Union Berlin",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2206,7 +2842,10 @@
           "home_team": "FSV Frankfurt",
           "away_team": "SC Freiburg",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -2215,7 +2854,10 @@
           "home_team": "RB Leipzig",
           "away_team": "TSV 1860 München",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2233,7 +2875,10 @@
           "home_team": "1. FC Kaiserslautern",
           "away_team": "VfL Bochum",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -2247,7 +2892,10 @@
           "home_team": "1. FC Union Berlin",
           "away_team": "Eintracht Braunschweig",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2256,7 +2904,10 @@
           "home_team": "1. FC Heidenheim 1846",
           "away_team": "FSV Frankfurt",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -2274,7 +2925,10 @@
           "home_team": "Fortuna Düsseldorf",
           "away_team": "1. FC Kaiserslautern",
           "result": {
-            "full_time": "4-3"
+            "breakdown": [
+              "3-1"
+            ],
+            "full_time": "3-1"
           }
         },
         {
@@ -2283,6 +2937,9 @@
           "home_team": "SV Sandhausen",
           "away_team": "FC St. Pauli",
           "result": {
+            "breakdown": [
+              "0-2"
+            ],
             "full_time": "0-2"
           }
         },
@@ -2292,7 +2949,10 @@
           "home_team": "1. FC Nürnberg",
           "away_team": "RB Leipzig",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2301,7 +2961,10 @@
           "home_team": "VfL Bochum",
           "away_team": "SpVgg Greuther Fürth",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -2310,7 +2973,10 @@
           "home_team": "TSV 1860 München",
           "away_team": "Arminia Bielefeld",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2319,7 +2985,10 @@
           "home_team": "SC Freiburg",
           "away_team": "Karlsruher SC",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -2333,6 +3002,9 @@
           "home_team": "Eintracht Braunschweig",
           "away_team": "SC Paderborn 07",
           "result": {
+            "breakdown": [
+              "2-1"
+            ],
             "full_time": "2-1"
           }
         },
@@ -2351,7 +3023,10 @@
           "home_team": "MSV Duisburg",
           "away_team": "1. FC Heidenheim 1846",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -2369,7 +3044,10 @@
           "home_team": "RB Leipzig",
           "away_team": "VfL Bochum",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2378,7 +3056,10 @@
           "home_team": "FSV Frankfurt",
           "away_team": "1. FC Nürnberg",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2387,6 +3068,9 @@
           "home_team": "Karlsruher SC",
           "away_team": "TSV 1860 München",
           "result": {
+            "breakdown": [
+              "3-1"
+            ],
             "full_time": "3-1"
           }
         },
@@ -2396,7 +3080,10 @@
           "home_team": "1. FC Kaiserslautern",
           "away_team": "SV Sandhausen",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2405,7 +3092,10 @@
           "home_team": "SpVgg Greuther Fürth",
           "away_team": "SC Freiburg",
           "result": {
-            "full_time": "2-3"
+            "breakdown": [
+              "1-2"
+            ],
+            "full_time": "1-2"
           }
         }
       ]
@@ -2419,7 +3109,10 @@
           "home_team": "1. FC Heidenheim 1846",
           "away_team": "Eintracht Braunschweig",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -2428,6 +3121,9 @@
           "home_team": "SC Paderborn 07",
           "away_team": "1. FC Union Berlin",
           "result": {
+            "breakdown": [
+              "0-4"
+            ],
             "full_time": "0-4"
           }
         },
@@ -2437,6 +3133,9 @@
           "home_team": "TSV 1860 München",
           "away_team": "SpVgg Greuther Fürth",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -2446,7 +3145,10 @@
           "home_team": "VfL Bochum",
           "away_team": "FSV Frankfurt",
           "result": {
-            "full_time": "4-1"
+            "breakdown": [
+              "2-1"
+            ],
+            "full_time": "2-1"
           }
         },
         {
@@ -2455,7 +3157,10 @@
           "home_team": "SV Sandhausen",
           "away_team": "Arminia Bielefeld",
           "result": {
-            "full_time": "1-4"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -2473,7 +3178,10 @@
           "home_team": "SC Freiburg",
           "away_team": "FC St. Pauli",
           "result": {
-            "full_time": "4-3"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -2482,7 +3190,10 @@
           "home_team": "1. FC Nürnberg",
           "away_team": "MSV Duisburg",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -2491,7 +3202,10 @@
           "home_team": "Fortuna Düsseldorf",
           "away_team": "RB Leipzig",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         }
       ]
@@ -2505,7 +3219,10 @@
           "home_team": "FSV Frankfurt",
           "away_team": "SC Paderborn 07",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2514,7 +3231,10 @@
           "home_team": "MSV Duisburg",
           "away_team": "TSV 1860 München",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2523,7 +3243,10 @@
           "home_team": "RB Leipzig",
           "away_team": "SV Sandhausen",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2532,7 +3255,10 @@
           "home_team": "Karlsruher SC",
           "away_team": "1. FC Nürnberg",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -2541,7 +3267,10 @@
           "home_team": "FC St. Pauli",
           "away_team": "VfL Bochum",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2550,7 +3279,10 @@
           "home_team": "Arminia Bielefeld",
           "away_team": "1. FC Kaiserslautern",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2559,6 +3291,9 @@
           "home_team": "SpVgg Greuther Fürth",
           "away_team": "Fortuna Düsseldorf",
           "result": {
+            "breakdown": [
+              "3-1"
+            ],
             "full_time": "3-1"
           }
         },
@@ -2568,6 +3303,9 @@
           "home_team": "1. FC Union Berlin",
           "away_team": "1. FC Heidenheim 1846",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -2577,7 +3315,10 @@
           "home_team": "Eintracht Braunschweig",
           "away_team": "SC Freiburg",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -2591,7 +3332,10 @@
           "home_team": "VfL Bochum",
           "away_team": "Karlsruher SC",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2600,7 +3344,10 @@
           "home_team": "Fortuna Düsseldorf",
           "away_team": "FC St. Pauli",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2609,7 +3356,10 @@
           "home_team": "SC Freiburg",
           "away_team": "MSV Duisburg",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -2618,6 +3368,9 @@
           "home_team": "1. FC Heidenheim 1846",
           "away_team": "SC Paderborn 07",
           "result": {
+            "breakdown": [
+              "1-1"
+            ],
             "full_time": "1-1"
           }
         },
@@ -2627,7 +3380,10 @@
           "home_team": "1. FC Nürnberg",
           "away_team": "1. FC Union Berlin",
           "result": {
-            "full_time": "6-2"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -2636,7 +3392,10 @@
           "home_team": "TSV 1860 München",
           "away_team": "Eintracht Braunschweig",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2645,7 +3404,10 @@
           "home_team": "Arminia Bielefeld",
           "away_team": "SpVgg Greuther Fürth",
           "result": {
-            "full_time": "4-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -2654,7 +3416,10 @@
           "home_team": "SV Sandhausen",
           "away_team": "FSV Frankfurt",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2663,7 +3428,10 @@
           "home_team": "1. FC Kaiserslautern",
           "away_team": "RB Leipzig",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -2677,7 +3445,10 @@
           "home_team": "SC Paderborn 07",
           "away_team": "SC Freiburg",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2686,7 +3457,10 @@
           "home_team": "FSV Frankfurt",
           "away_team": "1. FC Kaiserslautern",
           "result": {
-            "full_time": "1-4"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -2695,7 +3469,10 @@
           "home_team": "MSV Duisburg",
           "away_team": "Fortuna Düsseldorf",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2704,7 +3481,10 @@
           "home_team": "1. FC Union Berlin",
           "away_team": "VfL Bochum",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2713,7 +3493,10 @@
           "home_team": "FC St. Pauli",
           "away_team": "TSV 1860 München",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -2722,7 +3505,10 @@
           "home_team": "RB Leipzig",
           "away_team": "Arminia Bielefeld",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2731,7 +3517,10 @@
           "home_team": "Eintracht Braunschweig",
           "away_team": "1. FC Nürnberg",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2740,7 +3529,10 @@
           "home_team": "SpVgg Greuther Fürth",
           "away_team": "1. FC Heidenheim 1846",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -2749,7 +3541,10 @@
           "home_team": "Karlsruher SC",
           "away_team": "SV Sandhausen",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -2763,7 +3558,10 @@
           "home_team": "TSV 1860 München",
           "away_team": "SC Paderborn 07",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2772,7 +3570,10 @@
           "home_team": "RB Leipzig",
           "away_team": "Karlsruher SC",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2781,7 +3582,10 @@
           "home_team": "VfL Bochum",
           "away_team": "Eintracht Braunschweig",
           "result": {
-            "full_time": "2-3"
+            "breakdown": [
+              "2-1"
+            ],
+            "full_time": "2-1"
           }
         },
         {
@@ -2790,7 +3594,10 @@
           "home_team": "Arminia Bielefeld",
           "away_team": "1. FC Union Berlin",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2799,7 +3606,10 @@
           "home_team": "1. FC Kaiserslautern",
           "away_team": "SpVgg Greuther Fürth",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "2-1"
+            ],
+            "full_time": "2-1"
           }
         },
         {
@@ -2808,6 +3618,9 @@
           "home_team": "1. FC Nürnberg",
           "away_team": "FC St. Pauli",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -2817,7 +3630,10 @@
           "home_team": "SC Freiburg",
           "away_team": "1. FC Heidenheim 1846",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2826,7 +3642,10 @@
           "home_team": "Fortuna Düsseldorf",
           "away_team": "FSV Frankfurt",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2835,7 +3654,10 @@
           "home_team": "SV Sandhausen",
           "away_team": "MSV Duisburg",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -2849,7 +3671,10 @@
           "home_team": "1. FC Union Berlin",
           "away_team": "SC Freiburg",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2858,7 +3683,10 @@
           "home_team": "FC St. Pauli",
           "away_team": "1. FC Kaiserslautern",
           "result": {
-            "full_time": "5-2"
+            "breakdown": [
+              "2-1"
+            ],
+            "full_time": "2-1"
           }
         },
         {
@@ -2867,7 +3695,10 @@
           "home_team": "MSV Duisburg",
           "away_team": "RB Leipzig",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2876,7 +3707,10 @@
           "home_team": "SC Paderborn 07",
           "away_team": "1. FC Nürnberg",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2885,7 +3719,10 @@
           "home_team": "Eintracht Braunschweig",
           "away_team": "Fortuna Düsseldorf",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2894,7 +3731,10 @@
           "home_team": "1. FC Heidenheim 1846",
           "away_team": "VfL Bochum",
           "result": {
-            "full_time": "2-4"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -2903,7 +3743,10 @@
           "home_team": "FSV Frankfurt",
           "away_team": "TSV 1860 München",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2912,7 +3755,10 @@
           "home_team": "SpVgg Greuther Fürth",
           "away_team": "SV Sandhausen",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "2-1"
+            ],
+            "full_time": "2-1"
           }
         },
         {
@@ -2921,7 +3767,10 @@
           "home_team": "Karlsruher SC",
           "away_team": "Arminia Bielefeld",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]

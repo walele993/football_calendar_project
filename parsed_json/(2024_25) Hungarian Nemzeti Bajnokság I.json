@@ -11,7 +11,10 @@
           "home_team": "Zalaegerszegi TE",
           "away_team": "MTK Budapest",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -20,7 +23,10 @@
           "home_team": "Nyíregyháza Spartacus",
           "away_team": "Győri ETO FC",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -29,7 +35,10 @@
           "home_team": "Diósgyöri VTK",
           "away_team": "Paksi SE",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -47,7 +56,10 @@
           "home_team": "Újpest FC",
           "away_team": "Puskás FC",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -56,7 +68,10 @@
           "home_team": "Debreceni VSC",
           "away_team": "Ferencvárosi TC",
           "result": {
-            "full_time": "5-4"
+            "breakdown": [
+              "3-3"
+            ],
+            "full_time": "3-3"
           }
         }
       ]
@@ -70,7 +85,10 @@
           "home_team": "Győri ETO FC",
           "away_team": "Debreceni VSC",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -79,7 +97,10 @@
           "home_team": "Fehérvár FC",
           "away_team": "Diósgyöri VTK",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -88,6 +109,9 @@
           "home_team": "Ferencvárosi TC",
           "away_team": "Kecskeméti TE",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -97,7 +121,10 @@
           "home_team": "MTK Budapest",
           "away_team": "Nyíregyháza Spartacus",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -106,7 +133,10 @@
           "home_team": "Paksi SE",
           "away_team": "Újpest FC",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -115,7 +145,10 @@
           "home_team": "Puskás FC",
           "away_team": "Zalaegerszegi TE",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         }
       ]
@@ -129,6 +162,9 @@
           "home_team": "Kecskeméti TE",
           "away_team": "Debreceni VSC",
           "result": {
+            "breakdown": [
+              "1-1"
+            ],
             "full_time": "1-1"
           }
         },
@@ -138,7 +174,10 @@
           "home_team": "Diósgyöri VTK",
           "away_team": "Ferencvárosi TC",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -147,7 +186,10 @@
           "home_team": "Zalaegerszegi TE",
           "away_team": "Paksi SE",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -156,7 +198,10 @@
           "home_team": "Győri ETO FC",
           "away_team": "MTK Budapest",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -165,7 +210,10 @@
           "home_team": "Újpest FC",
           "away_team": "Fehérvár FC",
           "result": {
-            "full_time": "4-1"
+            "breakdown": [
+              "3-0"
+            ],
+            "full_time": "3-0"
           }
         },
         {
@@ -174,7 +222,10 @@
           "home_team": "Puskás FC",
           "away_team": "Nyíregyháza Spartacus",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         }
       ]
@@ -188,7 +239,10 @@
           "home_team": "Kecskeméti TE",
           "away_team": "Győri ETO FC",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -197,6 +251,9 @@
           "home_team": "Debreceni VSC",
           "away_team": "Diósgyöri VTK",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -206,7 +263,10 @@
           "home_team": "Ferencvárosi TC",
           "away_team": "Újpest FC",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -215,7 +275,10 @@
           "home_team": "Fehérvár FC",
           "away_team": "Zalaegerszegi TE",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -224,6 +287,9 @@
           "home_team": "Paksi SE",
           "away_team": "Nyíregyháza Spartacus",
           "result": {
+            "breakdown": [
+              "2-1"
+            ],
             "full_time": "2-1"
           }
         },
@@ -233,7 +299,10 @@
           "home_team": "Puskás FC",
           "away_team": "MTK Budapest",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -247,7 +316,10 @@
           "home_team": "Újpest FC",
           "away_team": "Debreceni VSC",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -256,7 +328,10 @@
           "home_team": "Diósgyöri VTK",
           "away_team": "Kecskeméti TE",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -265,7 +340,10 @@
           "home_team": "Nyíregyháza Spartacus",
           "away_team": "Fehérvár FC",
           "result": {
-            "full_time": "3-3"
+            "breakdown": [
+              "2-1"
+            ],
+            "full_time": "2-1"
           }
         },
         {
@@ -274,7 +352,10 @@
           "home_team": "MTK Budapest",
           "away_team": "Paksi SE",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -283,7 +364,10 @@
           "home_team": "Győri ETO FC",
           "away_team": "Puskás FC",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -292,6 +376,9 @@
           "home_team": "Zalaegerszegi TE",
           "away_team": "Ferencvárosi TC",
           "result": {
+            "breakdown": [
+              "2-2"
+            ],
             "full_time": "2-2"
           }
         }
@@ -306,6 +393,9 @@
           "home_team": "Fehérvár FC",
           "away_team": "MTK Budapest",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -315,7 +405,10 @@
           "home_team": "Debreceni VSC",
           "away_team": "Zalaegerszegi TE",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -333,7 +426,10 @@
           "home_team": "Kecskeméti TE",
           "away_team": "Újpest FC",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -342,7 +438,10 @@
           "home_team": "Paksi SE",
           "away_team": "Puskás FC",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -351,7 +450,10 @@
           "home_team": "Ferencvárosi TC",
           "away_team": "Nyíregyháza Spartacus",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         }
       ]
@@ -365,7 +467,10 @@
           "home_team": "MTK Budapest",
           "away_team": "Ferencvárosi TC",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "1-2"
+            ],
+            "full_time": "1-2"
           }
         },
         {
@@ -374,7 +479,10 @@
           "home_team": "Zalaegerszegi TE",
           "away_team": "Kecskeméti TE",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -392,7 +500,10 @@
           "home_team": "Nyíregyháza Spartacus",
           "away_team": "Debreceni VSC",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "2-1"
+            ],
+            "full_time": "2-1"
           }
         },
         {
@@ -401,7 +512,10 @@
           "home_team": "Puskás FC",
           "away_team": "Fehérvár FC",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -410,6 +524,9 @@
           "home_team": "Győri ETO FC",
           "away_team": "Paksi SE",
           "result": {
+            "breakdown": [
+              "2-1"
+            ],
             "full_time": "2-1"
           }
         }
@@ -433,7 +550,10 @@
           "home_team": "Diósgyöri VTK",
           "away_team": "Zalaegerszegi TE",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -442,6 +562,9 @@
           "home_team": "Kecskeméti TE",
           "away_team": "Nyíregyháza Spartacus",
           "result": {
+            "breakdown": [
+              "0-2"
+            ],
             "full_time": "0-2"
           }
         },
@@ -451,7 +574,10 @@
           "home_team": "Debreceni VSC",
           "away_team": "MTK Budapest",
           "result": {
-            "full_time": "2-3"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -460,7 +586,10 @@
           "home_team": "Fehérvár FC",
           "away_team": "Paksi SE",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -469,7 +598,10 @@
           "home_team": "Ferencvárosi TC",
           "away_team": "Puskás FC",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -483,7 +615,10 @@
           "home_team": "Puskás FC",
           "away_team": "Debreceni VSC",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -492,7 +627,10 @@
           "home_team": "Győri ETO FC",
           "away_team": "Fehérvár FC",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "2-1"
+            ],
+            "full_time": "2-1"
           }
         },
         {
@@ -501,7 +639,10 @@
           "home_team": "MTK Budapest",
           "away_team": "Kecskeméti TE",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "2-1"
+            ],
+            "full_time": "2-1"
           }
         },
         {
@@ -510,7 +651,10 @@
           "home_team": "Nyíregyháza Spartacus",
           "away_team": "Diósgyöri VTK",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -519,6 +663,9 @@
           "home_team": "Zalaegerszegi TE",
           "away_team": "Újpest FC",
           "result": {
+            "breakdown": [
+              "0-2"
+            ],
             "full_time": "0-2"
           }
         },
@@ -528,7 +675,10 @@
           "home_team": "Paksi SE",
           "away_team": "Ferencvárosi TC",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         }
       ]
@@ -542,7 +692,10 @@
           "home_team": "Debreceni VSC",
           "away_team": "Paksi SE",
           "result": {
-            "full_time": "0-5"
+            "breakdown": [
+              "0-3"
+            ],
+            "full_time": "0-3"
           }
         },
         {
@@ -551,6 +704,9 @@
           "home_team": "Diósgyöri VTK",
           "away_team": "MTK Budapest",
           "result": {
+            "breakdown": [
+              "0-2"
+            ],
             "full_time": "0-2"
           }
         },
@@ -560,7 +716,10 @@
           "home_team": "Újpest FC",
           "away_team": "Nyíregyháza Spartacus",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -569,7 +728,10 @@
           "home_team": "Kecskeméti TE",
           "away_team": "Puskás FC",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -578,7 +740,10 @@
           "home_team": "Zalaegerszegi TE",
           "away_team": "Győri ETO FC",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -587,7 +752,10 @@
           "home_team": "Ferencvárosi TC",
           "away_team": "Fehérvár FC",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         }
       ]
@@ -601,7 +769,10 @@
           "home_team": "Puskás FC",
           "away_team": "Diósgyöri VTK",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -610,7 +781,10 @@
           "home_team": "Fehérvár FC",
           "away_team": "Debreceni VSC",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -619,7 +793,10 @@
           "home_team": "MTK Budapest",
           "away_team": "Újpest FC",
           "result": {
-            "full_time": "4-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -628,7 +805,10 @@
           "home_team": "Nyíregyháza Spartacus",
           "away_team": "Zalaegerszegi TE",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -637,6 +817,9 @@
           "home_team": "Paksi SE",
           "away_team": "Kecskeméti TE",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -646,7 +829,10 @@
           "home_team": "Győri ETO FC",
           "away_team": "Ferencvárosi TC",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         }
       ]
@@ -660,7 +846,10 @@
           "home_team": "MTK Budapest",
           "away_team": "Zalaegerszegi TE",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -669,6 +858,9 @@
           "home_team": "Puskás FC",
           "away_team": "Újpest FC",
           "result": {
+            "breakdown": [
+              "1-1"
+            ],
             "full_time": "1-1"
           }
         },
@@ -678,7 +870,10 @@
           "home_team": "Győri ETO FC",
           "away_team": "Nyíregyháza Spartacus",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -687,7 +882,10 @@
           "home_team": "Paksi SE",
           "away_team": "Diósgyöri VTK",
           "result": {
-            "full_time": "3-4"
+            "breakdown": [
+              "2-3"
+            ],
+            "full_time": "2-3"
           }
         },
         {
@@ -696,7 +894,10 @@
           "home_team": "Ferencvárosi TC",
           "away_team": "Debreceni VSC",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -705,7 +906,10 @@
           "home_team": "Fehérvár FC",
           "away_team": "Kecskeméti TE",
           "result": {
-            "full_time": "6-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         }
       ]
@@ -719,6 +923,9 @@
           "home_team": "Nyíregyháza Spartacus",
           "away_team": "MTK Budapest",
           "result": {
+            "breakdown": [
+              "2-0"
+            ],
             "full_time": "2-0"
           }
         },
@@ -728,7 +935,10 @@
           "home_team": "Zalaegerszegi TE",
           "away_team": "Puskás FC",
           "result": {
-            "full_time": "4-2"
+            "breakdown": [
+              "3-1"
+            ],
+            "full_time": "3-1"
           }
         },
         {
@@ -737,7 +947,10 @@
           "home_team": "Debreceni VSC",
           "away_team": "Győri ETO FC",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -755,6 +968,9 @@
           "home_team": "Diósgyöri VTK",
           "away_team": "Fehérvár FC",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -764,7 +980,10 @@
           "home_team": "Kecskeméti TE",
           "away_team": "Ferencvárosi TC",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -778,7 +997,10 @@
           "home_team": "Nyíregyháza Spartacus",
           "away_team": "Puskás FC",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -787,7 +1009,10 @@
           "home_team": "MTK Budapest",
           "away_team": "Győri ETO FC",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -796,7 +1021,10 @@
           "home_team": "Fehérvár FC",
           "away_team": "Újpest FC",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -805,7 +1033,10 @@
           "home_team": "Paksi SE",
           "away_team": "Zalaegerszegi TE",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -814,7 +1045,10 @@
           "home_team": "Ferencvárosi TC",
           "away_team": "Diósgyöri VTK",
           "result": {
-            "full_time": "3-3"
+            "breakdown": [
+              "1-3"
+            ],
+            "full_time": "1-3"
           }
         },
         {
@@ -823,7 +1057,10 @@
           "home_team": "Debreceni VSC",
           "away_team": "Kecskeméti TE",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         }
       ]
@@ -837,7 +1074,10 @@
           "home_team": "Nyíregyháza Spartacus",
           "away_team": "Paksi SE",
           "result": {
-            "full_time": "4-2"
+            "breakdown": [
+              "3-1"
+            ],
+            "full_time": "3-1"
           }
         },
         {
@@ -846,7 +1086,10 @@
           "home_team": "MTK Budapest",
           "away_team": "Puskás FC",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -855,7 +1098,10 @@
           "home_team": "Győri ETO FC",
           "away_team": "Kecskeméti TE",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -864,7 +1110,10 @@
           "home_team": "Diósgyöri VTK",
           "away_team": "Debreceni VSC",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -873,7 +1122,10 @@
           "home_team": "Zalaegerszegi TE",
           "away_team": "Fehérvár FC",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -905,7 +1157,10 @@
           "home_team": "Puskás FC",
           "away_team": "Győri ETO FC",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -914,7 +1169,10 @@
           "home_team": "Paksi SE",
           "away_team": "MTK Budapest",
           "result": {
-            "full_time": "4-2"
+            "breakdown": [
+              "1-2"
+            ],
+            "full_time": "1-2"
           }
         },
         {
@@ -923,7 +1181,10 @@
           "home_team": "Fehérvár FC",
           "away_team": "Nyíregyháza Spartacus",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -932,7 +1193,10 @@
           "home_team": "Debreceni VSC",
           "away_team": "Újpest FC",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -941,6 +1205,9 @@
           "home_team": "Ferencvárosi TC",
           "away_team": "Zalaegerszegi TE",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         }
@@ -955,7 +1222,10 @@
           "home_team": "MTK Budapest",
           "away_team": "Fehérvár FC",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -964,7 +1234,10 @@
           "home_team": "Zalaegerszegi TE",
           "away_team": "Debreceni VSC",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -973,7 +1246,10 @@
           "home_team": "Győri ETO FC",
           "away_team": "Diósgyöri VTK",
           "result": {
-            "full_time": "3-4"
+            "breakdown": [
+              "0-3"
+            ],
+            "full_time": "0-3"
           }
         },
         {
@@ -982,7 +1258,10 @@
           "home_team": "Puskás FC",
           "away_team": "Paksi SE",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -991,7 +1270,10 @@
           "home_team": "Újpest FC",
           "away_team": "Kecskeméti TE",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1000,7 +1282,10 @@
           "home_team": "Nyíregyháza Spartacus",
           "away_team": "Ferencvárosi TC",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -1014,7 +1299,10 @@
           "home_team": "Paksi SE",
           "away_team": "Győri ETO FC",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1023,6 +1311,9 @@
           "home_team": "Fehérvár FC",
           "away_team": "Puskás FC",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -1032,7 +1323,10 @@
           "home_team": "Diósgyöri VTK",
           "away_team": "Újpest FC",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1041,7 +1335,10 @@
           "home_team": "Debreceni VSC",
           "away_team": "Nyíregyháza Spartacus",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -1050,7 +1347,10 @@
           "home_team": "Kecskeméti TE",
           "away_team": "Zalaegerszegi TE",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1073,7 +1373,10 @@
           "home_team": "MTK Budapest",
           "away_team": "Debreceni VSC",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1091,7 +1394,10 @@
           "home_team": "Paksi SE",
           "away_team": "Fehérvár FC",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1100,7 +1406,10 @@
           "home_team": "Győri ETO FC",
           "away_team": "Újpest FC",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -1109,7 +1418,10 @@
           "home_team": "Zalaegerszegi TE",
           "away_team": "Diósgyöri VTK",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1118,6 +1430,9 @@
           "home_team": "Puskás FC",
           "away_team": "Ferencvárosi TC",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         }
@@ -1132,7 +1447,10 @@
           "home_team": "Fehérvár FC",
           "away_team": "Győri ETO FC",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1141,7 +1459,10 @@
           "home_team": "Kecskeméti TE",
           "away_team": "MTK Budapest",
           "result": {
-            "full_time": "5-0"
+            "breakdown": [
+              "3-0"
+            ],
+            "full_time": "3-0"
           }
         },
         {
@@ -1150,7 +1471,10 @@
           "home_team": "Diósgyöri VTK",
           "away_team": "Nyíregyháza Spartacus",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1159,7 +1483,10 @@
           "home_team": "Debreceni VSC",
           "away_team": "Puskás FC",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1168,7 +1495,10 @@
           "home_team": "Újpest FC",
           "away_team": "Zalaegerszegi TE",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1177,7 +1507,10 @@
           "home_team": "Ferencvárosi TC",
           "away_team": "Paksi SE",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -1191,7 +1524,10 @@
           "home_team": "MTK Budapest",
           "away_team": "Diósgyöri VTK",
           "result": {
-            "full_time": "4-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -1200,7 +1536,10 @@
           "home_team": "Puskás FC",
           "away_team": "Kecskeméti TE",
           "result": {
-            "full_time": "4-2"
+            "breakdown": [
+              "3-0"
+            ],
+            "full_time": "3-0"
           }
         },
         {
@@ -1209,7 +1548,10 @@
           "home_team": "Paksi SE",
           "away_team": "Debreceni VSC",
           "result": {
-            "full_time": "4-3"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -1227,7 +1569,10 @@
           "home_team": "Győri ETO FC",
           "away_team": "Zalaegerszegi TE",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1236,7 +1581,10 @@
           "home_team": "Fehérvár FC",
           "away_team": "Ferencvárosi TC",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         }
       ]
@@ -1259,7 +1607,10 @@
           "home_team": "Diósgyöri VTK",
           "away_team": "Puskás FC",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -1268,7 +1619,10 @@
           "home_team": "Újpest FC",
           "away_team": "MTK Budapest",
           "result": {
-            "full_time": "1-5"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1277,7 +1631,10 @@
           "home_team": "Debreceni VSC",
           "away_team": "Fehérvár FC",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1286,7 +1643,10 @@
           "home_team": "Kecskeméti TE",
           "away_team": "Paksi SE",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -1295,7 +1655,10 @@
           "home_team": "Ferencvárosi TC",
           "away_team": "Győri ETO FC",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         }
       ]
@@ -1309,7 +1672,10 @@
           "home_team": "Kecskeméti TE",
           "away_team": "Fehérvár FC",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -1318,7 +1684,10 @@
           "home_team": "Nyíregyháza Spartacus",
           "away_team": "Győri ETO FC",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1327,7 +1696,10 @@
           "home_team": "Zalaegerszegi TE",
           "away_team": "MTK Budapest",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1336,7 +1708,10 @@
           "home_team": "Diósgyöri VTK",
           "away_team": "Paksi SE",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1345,7 +1720,10 @@
           "home_team": "Újpest FC",
           "away_team": "Puskás FC",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1354,6 +1732,9 @@
           "home_team": "Debreceni VSC",
           "away_team": "Ferencvárosi TC",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         }
@@ -1377,7 +1758,10 @@
           "home_team": "Paksi SE",
           "away_team": "Újpest FC",
           "result": {
-            "full_time": "6-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -1395,7 +1779,10 @@
           "home_team": "Ferencvárosi TC",
           "away_team": "Kecskeméti TE",
           "result": {
-            "full_time": "4-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -1404,7 +1791,10 @@
           "home_team": "MTK Budapest",
           "away_team": "Nyíregyháza Spartacus",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1413,7 +1803,10 @@
           "home_team": "Puskás FC",
           "away_team": "Zalaegerszegi TE",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         }
       ]

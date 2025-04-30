@@ -11,7 +11,10 @@
           "home_team": "Manchester City (ENG)",
           "away_team": "SSC Napoli (ITA)",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -20,7 +23,10 @@
           "home_team": "Villarreal CF (ESP)",
           "away_team": "Bayern München (GER)",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -29,6 +35,9 @@
           "home_team": "Bayern München (GER)",
           "away_team": "Manchester City (ENG)",
           "result": {
+            "breakdown": [
+              "2-0"
+            ],
             "full_time": "2-0"
           }
         },
@@ -38,6 +47,9 @@
           "home_team": "SSC Napoli (ITA)",
           "away_team": "Villarreal CF (ESP)",
           "result": {
+            "breakdown": [
+              "2-0"
+            ],
             "full_time": "2-0"
           }
         },
@@ -47,7 +59,10 @@
           "home_team": "Manchester City (ENG)",
           "away_team": "Villarreal CF (ESP)",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -56,6 +71,9 @@
           "home_team": "SSC Napoli (ITA)",
           "away_team": "Bayern München (GER)",
           "result": {
+            "breakdown": [
+              "1-1"
+            ],
             "full_time": "1-1"
           }
         },
@@ -65,7 +83,10 @@
           "home_team": "Bayern München (GER)",
           "away_team": "SSC Napoli (ITA)",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "3-1"
+            ],
+            "full_time": "3-1"
           }
         },
         {
@@ -74,7 +95,10 @@
           "home_team": "Villarreal CF (ESP)",
           "away_team": "Manchester City (ENG)",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -83,7 +107,10 @@
           "home_team": "Bayern München (GER)",
           "away_team": "Villarreal CF (ESP)",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -92,7 +119,10 @@
           "home_team": "SSC Napoli (ITA)",
           "away_team": "Manchester City (ENG)",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -101,7 +131,10 @@
           "home_team": "Manchester City (ENG)",
           "away_team": "Bayern München (GER)",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -110,7 +143,10 @@
           "home_team": "Villarreal CF (ESP)",
           "away_team": "SSC Napoli (ITA)",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -124,7 +160,10 @@
           "home_team": "Lille OSC (FRA)",
           "away_team": "CSKA Moskva (RUS)",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -133,7 +172,10 @@
           "home_team": "Inter (ITA)",
           "away_team": "Trabzonspor (TUR)",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -142,7 +184,10 @@
           "home_team": "CSKA Moskva (RUS)",
           "away_team": "Inter (ITA)",
           "result": {
-            "full_time": "2-3"
+            "breakdown": [
+              "1-2"
+            ],
+            "full_time": "1-2"
           }
         },
         {
@@ -151,7 +196,10 @@
           "home_team": "Trabzonspor (TUR)",
           "away_team": "Lille OSC (FRA)",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -160,7 +208,10 @@
           "home_team": "CSKA Moskva (RUS)",
           "away_team": "Trabzonspor (TUR)",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -169,6 +220,9 @@
           "home_team": "Lille OSC (FRA)",
           "away_team": "Inter (ITA)",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -187,7 +241,10 @@
           "home_team": "Inter (ITA)",
           "away_team": "Lille OSC (FRA)",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -196,7 +253,10 @@
           "home_team": "CSKA Moskva (RUS)",
           "away_team": "Lille OSC (FRA)",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -205,6 +265,9 @@
           "home_team": "Trabzonspor (TUR)",
           "away_team": "Inter (ITA)",
           "result": {
+            "breakdown": [
+              "1-1"
+            ],
             "full_time": "1-1"
           }
         },
@@ -214,7 +277,10 @@
           "home_team": "Inter (ITA)",
           "away_team": "CSKA Moskva (RUS)",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -237,7 +303,10 @@
           "home_team": "FC Basel 1893 (SUI)",
           "away_team": "Oţelul Galaţi (ROU)",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -246,6 +315,9 @@
           "home_team": "SL Benfica (POR)",
           "away_team": "Manchester United (ENG)",
           "result": {
+            "breakdown": [
+              "1-1"
+            ],
             "full_time": "1-1"
           }
         },
@@ -255,7 +327,10 @@
           "home_team": "Manchester United (ENG)",
           "away_team": "FC Basel 1893 (SUI)",
           "result": {
-            "full_time": "3-3"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -264,6 +339,9 @@
           "home_team": "Oţelul Galaţi (ROU)",
           "away_team": "SL Benfica (POR)",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -273,7 +351,10 @@
           "home_team": "FC Basel 1893 (SUI)",
           "away_team": "SL Benfica (POR)",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -282,7 +363,10 @@
           "home_team": "Oţelul Galaţi (ROU)",
           "away_team": "Manchester United (ENG)",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -291,7 +375,10 @@
           "home_team": "Manchester United (ENG)",
           "away_team": "Oţelul Galaţi (ROU)",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -300,7 +387,10 @@
           "home_team": "SL Benfica (POR)",
           "away_team": "FC Basel 1893 (SUI)",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -309,7 +399,10 @@
           "home_team": "Manchester United (ENG)",
           "away_team": "SL Benfica (POR)",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -318,7 +411,10 @@
           "home_team": "Oţelul Galaţi (ROU)",
           "away_team": "FC Basel 1893 (SUI)",
           "result": {
-            "full_time": "2-3"
+            "breakdown": [
+              "0-3"
+            ],
+            "full_time": "0-3"
           }
         },
         {
@@ -327,7 +423,10 @@
           "home_team": "FC Basel 1893 (SUI)",
           "away_team": "Manchester United (ENG)",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -336,6 +435,9 @@
           "home_team": "SL Benfica (POR)",
           "away_team": "Oţelul Galaţi (ROU)",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         }
@@ -359,7 +461,10 @@
           "home_team": "Dinamo Zagreb (CRO)",
           "away_team": "Real Madrid (ESP)",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -368,6 +473,9 @@
           "home_team": "Olympique Lyonnais (FRA)",
           "away_team": "Dinamo Zagreb (CRO)",
           "result": {
+            "breakdown": [
+              "2-0"
+            ],
             "full_time": "2-0"
           }
         },
@@ -377,7 +485,10 @@
           "home_team": "Real Madrid (ESP)",
           "away_team": "AFC Ajax (NED)",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -386,7 +497,10 @@
           "home_team": "Dinamo Zagreb (CRO)",
           "away_team": "AFC Ajax (NED)",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -395,7 +509,10 @@
           "home_team": "Real Madrid (ESP)",
           "away_team": "Olympique Lyonnais (FRA)",
           "result": {
-            "full_time": "4-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -404,7 +521,10 @@
           "home_team": "AFC Ajax (NED)",
           "away_team": "Dinamo Zagreb (CRO)",
           "result": {
-            "full_time": "4-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -413,7 +533,10 @@
           "home_team": "Olympique Lyonnais (FRA)",
           "away_team": "Real Madrid (ESP)",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -431,7 +554,10 @@
           "home_team": "Real Madrid (ESP)",
           "away_team": "Dinamo Zagreb (CRO)",
           "result": {
-            "full_time": "6-2"
+            "breakdown": [
+              "4-0"
+            ],
+            "full_time": "4-0"
           }
         },
         {
@@ -440,7 +566,10 @@
           "home_team": "AFC Ajax (NED)",
           "away_team": "Real Madrid (ESP)",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -449,7 +578,10 @@
           "home_team": "Dinamo Zagreb (CRO)",
           "away_team": "Olympique Lyonnais (FRA)",
           "result": {
-            "full_time": "1-7"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         }
       ]
@@ -463,7 +595,10 @@
           "home_team": "Chelsea FC (ENG)",
           "away_team": "Bayer Leverkusen (GER)",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -481,7 +616,10 @@
           "home_team": "Bayer Leverkusen (GER)",
           "away_team": "KRC Genk (BEL)",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -490,7 +628,10 @@
           "home_team": "Valencia CF (ESP)",
           "away_team": "Chelsea FC (ENG)",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -499,7 +640,10 @@
           "home_team": "Bayer Leverkusen (GER)",
           "away_team": "Valencia CF (ESP)",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -508,7 +652,10 @@
           "home_team": "Chelsea FC (ENG)",
           "away_team": "KRC Genk (BEL)",
           "result": {
-            "full_time": "5-0"
+            "breakdown": [
+              "4-0"
+            ],
+            "full_time": "4-0"
           }
         },
         {
@@ -517,7 +664,10 @@
           "home_team": "KRC Genk (BEL)",
           "away_team": "Chelsea FC (ENG)",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -526,7 +676,10 @@
           "home_team": "Valencia CF (ESP)",
           "away_team": "Bayer Leverkusen (GER)",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -535,7 +688,10 @@
           "home_team": "Bayer Leverkusen (GER)",
           "away_team": "Chelsea FC (ENG)",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -544,7 +700,10 @@
           "home_team": "Valencia CF (ESP)",
           "away_team": "KRC Genk (BEL)",
           "result": {
-            "full_time": "7-0"
+            "breakdown": [
+              "4-0"
+            ],
+            "full_time": "4-0"
           }
         },
         {
@@ -553,7 +712,10 @@
           "home_team": "Chelsea FC (ENG)",
           "away_team": "Valencia CF (ESP)",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -562,7 +724,10 @@
           "home_team": "KRC Genk (BEL)",
           "away_team": "Bayer Leverkusen (GER)",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         }
       ]
@@ -576,7 +741,10 @@
           "home_team": "Borussia Dortmund (GER)",
           "away_team": "Arsenal FC (ENG)",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -585,7 +753,10 @@
           "home_team": "Olympiakos Piraeus (GRE)",
           "away_team": "Olympique Marseille (FRA)",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -594,6 +765,9 @@
           "home_team": "Arsenal FC (ENG)",
           "away_team": "Olympiakos Piraeus (GRE)",
           "result": {
+            "breakdown": [
+              "2-1"
+            ],
             "full_time": "2-1"
           }
         },
@@ -603,7 +777,10 @@
           "home_team": "Olympique Marseille (FRA)",
           "away_team": "Borussia Dortmund (GER)",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -612,7 +789,10 @@
           "home_team": "Olympiakos Piraeus (GRE)",
           "away_team": "Borussia Dortmund (GER)",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "2-1"
+            ],
+            "full_time": "2-1"
           }
         },
         {
@@ -621,7 +801,10 @@
           "home_team": "Olympique Marseille (FRA)",
           "away_team": "Arsenal FC (ENG)",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -639,6 +822,9 @@
           "home_team": "Borussia Dortmund (GER)",
           "away_team": "Olympiakos Piraeus (GRE)",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -648,7 +834,10 @@
           "home_team": "Arsenal FC (ENG)",
           "away_team": "Borussia Dortmund (GER)",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -657,7 +846,10 @@
           "home_team": "Olympique Marseille (FRA)",
           "away_team": "Olympiakos Piraeus (GRE)",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -666,7 +858,10 @@
           "home_team": "Borussia Dortmund (GER)",
           "away_team": "Olympique Marseille (FRA)",
           "result": {
-            "full_time": "2-3"
+            "breakdown": [
+              "2-1"
+            ],
+            "full_time": "2-1"
           }
         },
         {
@@ -675,7 +870,10 @@
           "home_team": "Olympiakos Piraeus (GRE)",
           "away_team": "Arsenal FC (ENG)",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         }
       ]
@@ -689,7 +887,10 @@
           "home_team": "APOEL Nikosia (CYP)",
           "away_team": "Zenit St. Petersburg (RUS)",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -698,7 +899,10 @@
           "home_team": "FC Porto (POR)",
           "away_team": "Shakhtar Donetsk (UKR)",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -707,7 +911,10 @@
           "home_team": "Zenit St. Petersburg (RUS)",
           "away_team": "FC Porto (POR)",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -716,7 +923,10 @@
           "home_team": "Shakhtar Donetsk (UKR)",
           "away_team": "APOEL Nikosia (CYP)",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -725,6 +935,9 @@
           "home_team": "FC Porto (POR)",
           "away_team": "APOEL Nikosia (CYP)",
           "result": {
+            "breakdown": [
+              "1-1"
+            ],
             "full_time": "1-1"
           }
         },
@@ -734,7 +947,10 @@
           "home_team": "Shakhtar Donetsk (UKR)",
           "away_team": "Zenit St. Petersburg (RUS)",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "2-1"
+            ],
+            "full_time": "2-1"
           }
         },
         {
@@ -743,6 +959,9 @@
           "home_team": "Zenit St. Petersburg (RUS)",
           "away_team": "Shakhtar Donetsk (UKR)",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -752,7 +971,10 @@
           "home_team": "APOEL Nikosia (CYP)",
           "away_team": "FC Porto (POR)",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -770,7 +992,10 @@
           "home_team": "Shakhtar Donetsk (UKR)",
           "away_team": "FC Porto (POR)",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -779,7 +1004,10 @@
           "home_team": "APOEL Nikosia (CYP)",
           "away_team": "Shakhtar Donetsk (UKR)",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -802,7 +1030,10 @@
           "home_team": "FC Barcelona (ESP)",
           "away_team": "AC Milan (ITA)",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -811,7 +1042,10 @@
           "home_team": "Viktoria Plzeň (CZE)",
           "away_team": "BATE Borisov (BLR)",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -820,7 +1054,10 @@
           "home_team": "AC Milan (ITA)",
           "away_team": "Viktoria Plzeň (CZE)",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -829,7 +1066,10 @@
           "home_team": "BATE Borisov (BLR)",
           "away_team": "FC Barcelona (ESP)",
           "result": {
-            "full_time": "0-5"
+            "breakdown": [
+              "0-3"
+            ],
+            "full_time": "0-3"
           }
         },
         {
@@ -838,7 +1078,10 @@
           "home_team": "AC Milan (ITA)",
           "away_team": "BATE Borisov (BLR)",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -847,7 +1090,10 @@
           "home_team": "FC Barcelona (ESP)",
           "away_team": "Viktoria Plzeň (CZE)",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -856,7 +1102,10 @@
           "home_team": "BATE Borisov (BLR)",
           "away_team": "AC Milan (ITA)",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -865,7 +1114,10 @@
           "home_team": "Viktoria Plzeň (CZE)",
           "away_team": "FC Barcelona (ESP)",
           "result": {
-            "full_time": "0-4"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -874,6 +1126,9 @@
           "home_team": "BATE Borisov (BLR)",
           "away_team": "Viktoria Plzeň (CZE)",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -883,7 +1138,10 @@
           "home_team": "AC Milan (ITA)",
           "away_team": "FC Barcelona (ESP)",
           "result": {
-            "full_time": "2-3"
+            "breakdown": [
+              "1-2"
+            ],
+            "full_time": "1-2"
           }
         },
         {
@@ -892,7 +1150,10 @@
           "home_team": "FC Barcelona (ESP)",
           "away_team": "BATE Borisov (BLR)",
           "result": {
-            "full_time": "4-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -901,7 +1162,10 @@
           "home_team": "Viktoria Plzeň (CZE)",
           "away_team": "AC Milan (ITA)",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -915,7 +1179,10 @@
           "home_team": "Olympique Lyonnais (FRA)",
           "away_team": "APOEL Nikosia (CYP)",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -924,7 +1191,10 @@
           "home_team": "Bayer Leverkusen (GER)",
           "away_team": "FC Barcelona (ESP)",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -933,7 +1203,10 @@
           "home_team": "Zenit St. Petersburg (RUS)",
           "away_team": "SL Benfica (POR)",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -942,7 +1215,10 @@
           "home_team": "AC Milan (ITA)",
           "away_team": "Arsenal FC (ENG)",
           "result": {
-            "full_time": "4-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -951,7 +1227,10 @@
           "home_team": "CSKA Moskva (RUS)",
           "away_team": "Real Madrid (ESP)",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -960,7 +1239,10 @@
           "home_team": "SSC Napoli (ITA)",
           "away_team": "Chelsea FC (ENG)",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "2-1"
+            ],
+            "full_time": "2-1"
           }
         },
         {
@@ -969,7 +1251,10 @@
           "home_team": "FC Basel 1893 (SUI)",
           "away_team": "Bayern München (GER)",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -978,7 +1263,10 @@
           "home_team": "Olympique Marseille (FRA)",
           "away_team": "Inter (ITA)",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -987,6 +1275,9 @@
           "home_team": "Arsenal FC (ENG)",
           "away_team": "AC Milan (ITA)",
           "result": {
+            "breakdown": [
+              "3-0"
+            ],
             "full_time": "3-0"
           }
         },
@@ -996,7 +1287,10 @@
           "home_team": "SL Benfica (POR)",
           "away_team": "Zenit St. Petersburg (RUS)",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1005,7 +1299,12 @@
           "home_team": "APOEL Nikosia (CYP)",
           "away_team": "Olympique Lyonnais (FRA)",
           "result": {
-            "full_time": "4-3"
+            "breakdown": [
+              "1-0",
+              "1-0"
+            ],
+            "full_time": "1-0",
+            "penalties": "1-0"
           }
         },
         {
@@ -1014,7 +1313,10 @@
           "home_team": "FC Barcelona (ESP)",
           "away_team": "Bayer Leverkusen (GER)",
           "result": {
-            "full_time": "7-1"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -1023,7 +1325,10 @@
           "home_team": "Bayern München (GER)",
           "away_team": "FC Basel 1893 (SUI)",
           "result": {
-            "full_time": "7-0"
+            "breakdown": [
+              "3-0"
+            ],
+            "full_time": "3-0"
           }
         },
         {
@@ -1032,7 +1337,10 @@
           "home_team": "Inter (ITA)",
           "away_team": "Olympique Marseille (FRA)",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1041,7 +1349,11 @@
           "home_team": "Chelsea FC (ENG)",
           "away_team": "SSC Napoli (ITA)",
           "result": {
-            "full_time": "4-1"
+            "breakdown": [
+              "3-1",
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1050,7 +1362,10 @@
           "home_team": "Real Madrid (ESP)",
           "away_team": "CSKA Moskva (RUS)",
           "result": {
-            "full_time": "4-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         }
       ]
@@ -1064,7 +1379,10 @@
           "home_team": "APOEL Nikosia (CYP)",
           "away_team": "Real Madrid (ESP)",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1073,7 +1391,10 @@
           "home_team": "SL Benfica (POR)",
           "away_team": "Chelsea FC (ENG)",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1082,7 +1403,10 @@
           "home_team": "Olympique Marseille (FRA)",
           "away_team": "Bayern München (GER)",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1100,6 +1424,9 @@
           "home_team": "Bayern München (GER)",
           "away_team": "Olympique Marseille (FRA)",
           "result": {
+            "breakdown": [
+              "2-0"
+            ],
             "full_time": "2-0"
           }
         },
@@ -1109,7 +1436,10 @@
           "home_team": "FC Barcelona (ESP)",
           "away_team": "AC Milan (ITA)",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "2-1"
+            ],
+            "full_time": "2-1"
           }
         },
         {
@@ -1118,7 +1448,10 @@
           "home_team": "Real Madrid (ESP)",
           "away_team": "APOEL Nikosia (CYP)",
           "result": {
-            "full_time": "5-2"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -1127,7 +1460,10 @@
           "home_team": "Chelsea FC (ENG)",
           "away_team": "SL Benfica (POR)",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         }
       ]
@@ -1141,7 +1477,10 @@
           "home_team": "Bayern München (GER)",
           "away_team": "Real Madrid (ESP)",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1150,6 +1489,9 @@
           "home_team": "Chelsea FC (ENG)",
           "away_team": "FC Barcelona (ESP)",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -1159,7 +1501,10 @@
           "home_team": "FC Barcelona (ESP)",
           "away_team": "Chelsea FC (ENG)",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "2-1"
+            ],
+            "full_time": "2-1"
           }
         },
         {
@@ -1168,7 +1513,12 @@
           "home_team": "Real Madrid (ESP)",
           "away_team": "Bayern München (GER)",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "2-1",
+              "2-1"
+            ],
+            "full_time": "2-1",
+            "penalties": "2-1"
           }
         }
       ]
@@ -1182,7 +1532,12 @@
           "home_team": "Bayern München (GER)",
           "away_team": "Chelsea FC (ENG)",
           "result": {
-            "full_time": "3-4"
+            "breakdown": [
+              "1-1",
+              "0-0"
+            ],
+            "full_time": "0-0",
+            "penalties": "1-1"
           }
         }
       ]

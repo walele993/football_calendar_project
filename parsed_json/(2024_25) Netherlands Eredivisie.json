@@ -11,7 +11,10 @@
           "home_team": "FC Groningen",
           "away_team": "NAC Breda",
           "result": {
-            "full_time": "4-1"
+            "breakdown": [
+              "3-0"
+            ],
+            "full_time": "3-0"
           }
         },
         {
@@ -20,7 +23,10 @@
           "home_team": "Feyenoord Rotterdam",
           "away_team": "Willem II Tilburg",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -29,7 +35,10 @@
           "home_team": "NEC",
           "away_team": "FC Twente '65",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -38,6 +47,9 @@
           "home_team": "Almere City FC",
           "away_team": "AZ",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -47,7 +59,10 @@
           "home_team": "PSV",
           "away_team": "RKC Waalwijk",
           "result": {
-            "full_time": "5-1"
+            "breakdown": [
+              "3-0"
+            ],
+            "full_time": "3-0"
           }
         },
         {
@@ -65,6 +80,9 @@
           "home_team": "FC Utrecht",
           "away_team": "PEC Zwolle",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -74,7 +92,10 @@
           "home_team": "Go Ahead Eagles",
           "away_team": "Fortuna Sittard",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -83,6 +104,9 @@
           "home_team": "AFC Ajax",
           "away_team": "SC Heerenveen",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         }
@@ -97,7 +121,10 @@
           "home_team": "Fortuna Sittard",
           "away_team": "Almere City FC",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -106,7 +133,10 @@
           "home_team": "SC Heerenveen",
           "away_team": "FC Utrecht",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -115,7 +145,10 @@
           "home_team": "FC Twente '65",
           "away_team": "Sparta Rotterdam",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -124,6 +157,9 @@
           "home_team": "AZ",
           "away_team": "NEC",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -133,7 +169,10 @@
           "home_team": "RKC Waalwijk",
           "away_team": "FC Groningen",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -142,7 +181,10 @@
           "home_team": "Heracles Almelo",
           "away_team": "PSV",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -151,7 +193,10 @@
           "home_team": "PEC Zwolle",
           "away_team": "Feyenoord Rotterdam",
           "result": {
-            "full_time": "1-5"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -160,6 +205,9 @@
           "home_team": "Willem II Tilburg",
           "away_team": "Go Ahead Eagles",
           "result": {
+            "breakdown": [
+              "2-0"
+            ],
             "full_time": "2-0"
           }
         },
@@ -169,7 +217,10 @@
           "home_team": "NAC Breda",
           "away_team": "AFC Ajax",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -183,7 +234,10 @@
           "home_team": "NEC",
           "away_team": "PEC Zwolle",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -192,7 +246,10 @@
           "home_team": "Almere City FC",
           "away_team": "PSV",
           "result": {
-            "full_time": "1-7"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -201,7 +258,10 @@
           "home_team": "NAC Breda",
           "away_team": "FC Utrecht",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -219,6 +279,9 @@
           "home_team": "Heracles Almelo",
           "away_team": "Willem II Tilburg",
           "result": {
+            "breakdown": [
+              "1-1"
+            ],
             "full_time": "1-1"
           }
         },
@@ -228,7 +291,10 @@
           "home_team": "Sparta Rotterdam",
           "away_team": "Feyenoord Rotterdam",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -237,7 +303,10 @@
           "home_team": "Go Ahead Eagles",
           "away_team": "RKC Waalwijk",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         }
       ]
@@ -251,7 +320,10 @@
           "home_team": "RKC Waalwijk",
           "away_team": "AZ",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -260,7 +332,10 @@
           "home_team": "Almere City FC",
           "away_team": "FC Groningen",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -269,7 +344,10 @@
           "home_team": "Fortuna Sittard",
           "away_team": "NEC",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -278,7 +356,10 @@
           "home_team": "SC Heerenveen",
           "away_team": "NAC Breda",
           "result": {
-            "full_time": "4-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -287,7 +368,10 @@
           "home_team": "Willem II Tilburg",
           "away_team": "Sparta Rotterdam",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -296,7 +380,10 @@
           "home_team": "FC Utrecht",
           "away_team": "FC Twente '65",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -305,7 +392,10 @@
           "home_team": "PEC Zwolle",
           "away_team": "Heracles Almelo",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -314,7 +404,10 @@
           "home_team": "PSV",
           "away_team": "Go Ahead Eagles",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         }
       ]
@@ -328,7 +421,10 @@
           "home_team": "FC Twente '65",
           "away_team": "PEC Zwolle",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -337,6 +433,9 @@
           "home_team": "PSV",
           "away_team": "NEC",
           "result": {
+            "breakdown": [
+              "2-0"
+            ],
             "full_time": "2-0"
           }
         },
@@ -346,7 +445,10 @@
           "home_team": "FC Groningen",
           "away_team": "Feyenoord Rotterdam",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -355,7 +457,10 @@
           "home_team": "NAC Breda",
           "away_team": "Fortuna Sittard",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -364,7 +469,10 @@
           "home_team": "AZ",
           "away_team": "SC Heerenveen",
           "result": {
-            "full_time": "9-1"
+            "breakdown": [
+              "2-1"
+            ],
+            "full_time": "2-1"
           }
         },
         {
@@ -373,7 +481,10 @@
           "home_team": "Sparta Rotterdam",
           "away_team": "Go Ahead Eagles",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -382,7 +493,10 @@
           "home_team": "Willem II Tilburg",
           "away_team": "RKC Waalwijk",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -405,6 +519,9 @@
           "home_team": "FC Twente '65",
           "away_team": "SC Heerenveen",
           "result": {
+            "breakdown": [
+              "2-0"
+            ],
             "full_time": "2-0"
           }
         },
@@ -414,7 +531,10 @@
           "home_team": "AFC Ajax",
           "away_team": "Fortuna Sittard",
           "result": {
-            "full_time": "5-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         }
       ]
@@ -428,7 +548,10 @@
           "home_team": "PEC Zwolle",
           "away_team": "AZ",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -437,7 +560,10 @@
           "home_team": "FC Utrecht",
           "away_team": "Willem II Tilburg",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "2-2"
+            ],
+            "full_time": "2-2"
           }
         },
         {
@@ -446,7 +572,10 @@
           "home_team": "RKC Waalwijk",
           "away_team": "Sparta Rotterdam",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -455,7 +584,10 @@
           "home_team": "Go Ahead Eagles",
           "away_team": "AFC Ajax",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -464,6 +596,9 @@
           "home_team": "NEC",
           "away_team": "Heracles Almelo",
           "result": {
+            "breakdown": [
+              "1-2"
+            ],
             "full_time": "1-2"
           }
         },
@@ -473,7 +608,10 @@
           "home_team": "SC Heerenveen",
           "away_team": "FC Groningen",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -482,7 +620,10 @@
           "home_team": "Almere City FC",
           "away_team": "FC Twente '65",
           "result": {
-            "full_time": "0-5"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -491,7 +632,10 @@
           "home_team": "Feyenoord Rotterdam",
           "away_team": "NAC Breda",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -500,7 +644,10 @@
           "home_team": "Fortuna Sittard",
           "away_team": "PSV",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         }
       ]
@@ -514,7 +661,10 @@
           "home_team": "Heracles Almelo",
           "away_team": "SC Heerenveen",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -523,7 +673,10 @@
           "home_team": "Willem II Tilburg",
           "away_team": "PSV",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -532,7 +685,10 @@
           "home_team": "NEC",
           "away_team": "Feyenoord Rotterdam",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -541,6 +697,9 @@
           "home_team": "Sparta Rotterdam",
           "away_team": "Fortuna Sittard",
           "result": {
+            "breakdown": [
+              "1-1"
+            ],
             "full_time": "1-1"
           }
         },
@@ -550,7 +709,10 @@
           "home_team": "PEC Zwolle",
           "away_team": "Almere City FC",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -559,7 +721,10 @@
           "home_team": "FC Twente '65",
           "away_team": "NAC Breda",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -568,7 +733,10 @@
           "home_team": "FC Groningen",
           "away_team": "Go Ahead Eagles",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -577,7 +745,10 @@
           "home_team": "RKC Waalwijk",
           "away_team": "AFC Ajax",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -586,7 +757,10 @@
           "home_team": "AZ",
           "away_team": "FC Utrecht",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         }
       ]
@@ -600,7 +774,10 @@
           "home_team": "Almere City FC",
           "away_team": "Willem II Tilburg",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -609,7 +786,10 @@
           "home_team": "NAC Breda",
           "away_team": "NEC",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -618,6 +798,9 @@
           "home_team": "PSV",
           "away_team": "Sparta Rotterdam",
           "result": {
+            "breakdown": [
+              "2-1"
+            ],
             "full_time": "2-1"
           }
         },
@@ -627,7 +810,10 @@
           "home_team": "FC Utrecht",
           "away_team": "RKC Waalwijk",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -636,7 +822,10 @@
           "home_team": "Go Ahead Eagles",
           "away_team": "Heracles Almelo",
           "result": {
-            "full_time": "4-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -645,6 +834,9 @@
           "home_team": "SC Heerenveen",
           "away_team": "PEC Zwolle",
           "result": {
+            "breakdown": [
+              "1-1"
+            ],
             "full_time": "1-1"
           }
         },
@@ -654,7 +846,10 @@
           "home_team": "Feyenoord Rotterdam",
           "away_team": "FC Twente '65",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -663,7 +858,10 @@
           "home_team": "AFC Ajax",
           "away_team": "FC Groningen",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -672,7 +870,10 @@
           "home_team": "Fortuna Sittard",
           "away_team": "AZ",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -686,7 +887,10 @@
           "home_team": "Sparta Rotterdam",
           "away_team": "Almere City FC",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -695,7 +899,10 @@
           "home_team": "AZ",
           "away_team": "PSV",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -704,7 +911,10 @@
           "home_team": "NEC",
           "away_team": "SC Heerenveen",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -713,7 +923,10 @@
           "home_team": "RKC Waalwijk",
           "away_team": "FC Twente '65",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -722,7 +935,10 @@
           "home_team": "Go Ahead Eagles",
           "away_team": "Feyenoord Rotterdam",
           "result": {
-            "full_time": "1-5"
+            "breakdown": [
+              "0-3"
+            ],
+            "full_time": "0-3"
           }
         },
         {
@@ -740,6 +956,9 @@
           "home_team": "FC Groningen",
           "away_team": "FC Utrecht",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -749,7 +968,10 @@
           "home_team": "Heracles Almelo",
           "away_team": "AFC Ajax",
           "result": {
-            "full_time": "3-4"
+            "breakdown": [
+              "2-2"
+            ],
+            "full_time": "2-2"
           }
         },
         {
@@ -758,7 +980,10 @@
           "home_team": "PEC Zwolle",
           "away_team": "NAC Breda",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -772,7 +997,10 @@
           "home_team": "Almere City FC",
           "away_team": "NEC",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -781,7 +1009,10 @@
           "home_team": "Fortuna Sittard",
           "away_team": "FC Groningen",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -790,7 +1021,10 @@
           "home_team": "PSV",
           "away_team": "PEC Zwolle",
           "result": {
-            "full_time": "6-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -799,7 +1033,10 @@
           "home_team": "NAC Breda",
           "away_team": "RKC Waalwijk",
           "result": {
-            "full_time": "4-1"
+            "breakdown": [
+              "2-1"
+            ],
+            "full_time": "2-1"
           }
         },
         {
@@ -808,7 +1045,10 @@
           "home_team": "SC Heerenveen",
           "away_team": "Sparta Rotterdam",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -817,7 +1057,10 @@
           "home_team": "FC Utrecht",
           "away_team": "Feyenoord Rotterdam",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -826,7 +1069,10 @@
           "home_team": "FC Twente '65",
           "away_team": "Heracles Almelo",
           "result": {
-            "full_time": "5-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -835,6 +1081,9 @@
           "home_team": "AFC Ajax",
           "away_team": "Willem II Tilburg",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -844,7 +1093,10 @@
           "home_team": "AZ",
           "away_team": "Go Ahead Eagles",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         }
       ]
@@ -858,6 +1110,9 @@
           "home_team": "Feyenoord Rotterdam",
           "away_team": "AFC Ajax",
           "result": {
+            "breakdown": [
+              "0-2"
+            ],
             "full_time": "0-2"
           }
         }
@@ -872,7 +1127,10 @@
           "home_team": "Willem II Tilburg",
           "away_team": "FC Twente '65",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -881,7 +1139,10 @@
           "home_team": "Heracles Almelo",
           "away_team": "NAC Breda",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -890,7 +1151,10 @@
           "home_team": "AFC Ajax",
           "away_team": "PSV",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -899,7 +1163,10 @@
           "home_team": "Feyenoord Rotterdam",
           "away_team": "AZ",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -908,7 +1175,10 @@
           "home_team": "Fortuna Sittard",
           "away_team": "SC Heerenveen",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -917,7 +1187,10 @@
           "home_team": "Go Ahead Eagles",
           "away_team": "PEC Zwolle",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -926,7 +1199,10 @@
           "home_team": "NEC",
           "away_team": "FC Groningen",
           "result": {
-            "full_time": "6-0"
+            "breakdown": [
+              "3-0"
+            ],
+            "full_time": "3-0"
           }
         },
         {
@@ -935,7 +1211,10 @@
           "home_team": "Sparta Rotterdam",
           "away_team": "FC Utrecht",
           "result": {
-            "full_time": "1-4"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -944,7 +1223,10 @@
           "home_team": "RKC Waalwijk",
           "away_team": "Almere City FC",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         }
       ]
@@ -958,7 +1240,10 @@
           "home_team": "FC Utrecht",
           "away_team": "Heracles Almelo",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -967,6 +1252,9 @@
           "home_team": "FC Groningen",
           "away_team": "Sparta Rotterdam",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -976,7 +1264,10 @@
           "home_team": "PEC Zwolle",
           "away_team": "Fortuna Sittard",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -985,7 +1276,10 @@
           "home_team": "NAC Breda",
           "away_team": "PSV",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -994,7 +1288,10 @@
           "home_team": "RKC Waalwijk",
           "away_team": "NEC",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1003,7 +1300,10 @@
           "home_team": "Almere City FC",
           "away_team": "Feyenoord Rotterdam",
           "result": {
-            "full_time": "1-4"
+            "breakdown": [
+              "1-2"
+            ],
+            "full_time": "1-2"
           }
         },
         {
@@ -1012,6 +1312,9 @@
           "home_team": "SC Heerenveen",
           "away_team": "Go Ahead Eagles",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -1021,7 +1324,10 @@
           "home_team": "FC Twente '65",
           "away_team": "AFC Ajax",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1030,7 +1336,10 @@
           "home_team": "AZ",
           "away_team": "Willem II Tilburg",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         }
       ]
@@ -1044,7 +1353,10 @@
           "home_team": "Go Ahead Eagles",
           "away_team": "Almere City FC",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -1053,7 +1365,10 @@
           "home_team": "Feyenoord Rotterdam",
           "away_team": "SC Heerenveen",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -1062,7 +1377,10 @@
           "home_team": "Heracles Almelo",
           "away_team": "RKC Waalwijk",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1071,7 +1389,10 @@
           "home_team": "PSV",
           "away_team": "FC Groningen",
           "result": {
-            "full_time": "5-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -1080,7 +1401,10 @@
           "home_team": "Fortuna Sittard",
           "away_team": "FC Twente '65",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1089,7 +1413,10 @@
           "home_team": "NEC",
           "away_team": "FC Utrecht",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1098,7 +1425,10 @@
           "home_team": "Sparta Rotterdam",
           "away_team": "AZ",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -1107,7 +1437,10 @@
           "home_team": "Willem II Tilburg",
           "away_team": "NAC Breda",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1116,7 +1449,10 @@
           "home_team": "AFC Ajax",
           "away_team": "PEC Zwolle",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         }
       ]
@@ -1130,7 +1466,10 @@
           "home_team": "SC Heerenveen",
           "away_team": "RKC Waalwijk",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1139,6 +1478,9 @@
           "home_team": "NAC Breda",
           "away_team": "Almere City FC",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -1148,7 +1490,10 @@
           "home_team": "FC Groningen",
           "away_team": "Willem II Tilburg",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1157,7 +1502,10 @@
           "home_team": "Feyenoord Rotterdam",
           "away_team": "Fortuna Sittard",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1166,7 +1514,10 @@
           "home_team": "PEC Zwolle",
           "away_team": "Sparta Rotterdam",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1175,7 +1526,10 @@
           "home_team": "FC Utrecht",
           "away_team": "PSV",
           "result": {
-            "full_time": "2-5"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -1184,7 +1538,10 @@
           "home_team": "AZ",
           "away_team": "Heracles Almelo",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1193,7 +1550,10 @@
           "home_team": "FC Twente '65",
           "away_team": "Go Ahead Eagles",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "1-2"
+            ],
+            "full_time": "1-2"
           }
         },
         {
@@ -1202,7 +1562,10 @@
           "home_team": "NEC",
           "away_team": "AFC Ajax",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         }
       ]
@@ -1216,7 +1579,10 @@
           "home_team": "AFC Ajax",
           "away_team": "FC Utrecht",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "2-1"
+            ],
+            "full_time": "2-1"
           }
         }
       ]
@@ -1230,7 +1596,10 @@
           "home_team": "PSV",
           "away_team": "FC Twente '65",
           "result": {
-            "full_time": "6-1"
+            "breakdown": [
+              "3-1"
+            ],
+            "full_time": "3-1"
           }
         },
         {
@@ -1239,7 +1608,10 @@
           "home_team": "Go Ahead Eagles",
           "away_team": "NEC",
           "result": {
-            "full_time": "5-0"
+            "breakdown": [
+              "4-0"
+            ],
+            "full_time": "4-0"
           }
         },
         {
@@ -1248,7 +1620,10 @@
           "home_team": "Sparta Rotterdam",
           "away_team": "NAC Breda",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1257,7 +1632,10 @@
           "home_team": "RKC Waalwijk",
           "away_team": "Feyenoord Rotterdam",
           "result": {
-            "full_time": "2-3"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -1266,7 +1644,10 @@
           "home_team": "Heracles Almelo",
           "away_team": "Fortuna Sittard",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-2"
+            ],
+            "full_time": "1-2"
           }
         },
         {
@@ -1284,7 +1665,10 @@
           "home_team": "AZ",
           "away_team": "AFC Ajax",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1293,7 +1677,10 @@
           "home_team": "Willem II Tilburg",
           "away_team": "SC Heerenveen",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1302,7 +1689,10 @@
           "home_team": "Almere City FC",
           "away_team": "FC Utrecht",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         }
       ]
@@ -1316,6 +1706,9 @@
           "home_team": "PEC Zwolle",
           "away_team": "Willem II Tilburg",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -1325,7 +1718,10 @@
           "home_team": "SC Heerenveen",
           "away_team": "PSV",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1334,7 +1730,10 @@
           "home_team": "Fortuna Sittard",
           "away_team": "RKC Waalwijk",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "3-1"
+            ],
+            "full_time": "3-1"
           }
         },
         {
@@ -1343,7 +1742,10 @@
           "home_team": "Feyenoord Rotterdam",
           "away_team": "Heracles Almelo",
           "result": {
-            "full_time": "5-2"
+            "breakdown": [
+              "3-1"
+            ],
+            "full_time": "3-1"
           }
         },
         {
@@ -1352,7 +1754,10 @@
           "home_team": "FC Utrecht",
           "away_team": "Go Ahead Eagles",
           "result": {
-            "full_time": "3-3"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -1361,7 +1766,10 @@
           "home_team": "NEC",
           "away_team": "Sparta Rotterdam",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1370,7 +1778,10 @@
           "home_team": "FC Twente '65",
           "away_team": "FC Groningen",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1379,7 +1790,10 @@
           "home_team": "AFC Ajax",
           "away_team": "Almere City FC",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -1388,7 +1802,10 @@
           "home_team": "NAC Breda",
           "away_team": "AZ",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         }
       ]
@@ -1402,6 +1819,9 @@
           "home_team": "RKC Waalwijk",
           "away_team": "PEC Zwolle",
           "result": {
+            "breakdown": [
+              "1-1"
+            ],
             "full_time": "1-1"
           }
         },
@@ -1411,7 +1831,10 @@
           "home_team": "Go Ahead Eagles",
           "away_team": "NAC Breda",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1420,7 +1843,10 @@
           "home_team": "Almere City FC",
           "away_team": "SC Heerenveen",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1429,7 +1855,10 @@
           "home_team": "AZ",
           "away_team": "FC Twente '65",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1438,7 +1867,10 @@
           "home_team": "Sparta Rotterdam",
           "away_team": "AFC Ajax",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1447,7 +1879,10 @@
           "home_team": "FC Utrecht",
           "away_team": "Fortuna Sittard",
           "result": {
-            "full_time": "2-5"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1456,7 +1891,10 @@
           "home_team": "PSV",
           "away_team": "Feyenoord Rotterdam",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -1465,7 +1903,10 @@
           "home_team": "Willem II Tilburg",
           "away_team": "NEC",
           "result": {
-            "full_time": "4-1"
+            "breakdown": [
+              "2-1"
+            ],
+            "full_time": "2-1"
           }
         }
       ]
@@ -1479,7 +1920,10 @@
           "home_team": "Fortuna Sittard",
           "away_team": "Go Ahead Eagles",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1488,7 +1932,10 @@
           "home_team": "Heracles Almelo",
           "away_team": "Sparta Rotterdam",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1497,7 +1944,10 @@
           "home_team": "AFC Ajax",
           "away_team": "RKC Waalwijk",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -1506,6 +1956,9 @@
           "home_team": "PEC Zwolle",
           "away_team": "NEC",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -1515,7 +1968,10 @@
           "home_team": "PSV",
           "away_team": "AZ",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1524,7 +1980,10 @@
           "home_team": "FC Twente '65",
           "away_team": "Willem II Tilburg",
           "result": {
-            "full_time": "6-2"
+            "breakdown": [
+              "2-2"
+            ],
+            "full_time": "2-2"
           }
         },
         {
@@ -1542,7 +2001,10 @@
           "home_team": "Feyenoord Rotterdam",
           "away_team": "FC Utrecht",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1551,7 +2013,10 @@
           "home_team": "NAC Breda",
           "away_team": "SC Heerenveen",
           "result": {
-            "full_time": "2-4"
+            "breakdown": [
+              "1-3"
+            ],
+            "full_time": "1-3"
           }
         }
       ]
@@ -1565,7 +2030,10 @@
           "home_team": "PEC Zwolle",
           "away_team": "PSV",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "2-1"
+            ],
+            "full_time": "2-1"
           }
         },
         {
@@ -1583,7 +2051,10 @@
           "home_team": "Willem II Tilburg",
           "away_team": "Feyenoord Rotterdam",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1592,7 +2063,10 @@
           "home_team": "Go Ahead Eagles",
           "away_team": "FC Groningen",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -1601,7 +2075,10 @@
           "home_team": "NAC Breda",
           "away_team": "FC Twente '65",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -1610,7 +2087,10 @@
           "home_team": "Almere City FC",
           "away_team": "Heracles Almelo",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1619,7 +2099,10 @@
           "home_team": "SC Heerenveen",
           "away_team": "AFC Ajax",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1628,7 +2111,10 @@
           "home_team": "NEC",
           "away_team": "Fortuna Sittard",
           "result": {
-            "full_time": "4-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -1637,6 +2123,9 @@
           "home_team": "Sparta Rotterdam",
           "away_team": "RKC Waalwijk",
           "result": {
+            "breakdown": [
+              "1-1"
+            ],
             "full_time": "1-1"
           }
         }
@@ -1651,7 +2140,10 @@
           "home_team": "Heracles Almelo",
           "away_team": "FC Utrecht",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1660,7 +2152,10 @@
           "home_team": "PSV",
           "away_team": "NAC Breda",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "2-1"
+            ],
+            "full_time": "2-1"
           }
         },
         {
@@ -1669,7 +2164,10 @@
           "home_team": "FC Groningen",
           "away_team": "SC Heerenveen",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1678,7 +2176,10 @@
           "home_team": "Fortuna Sittard",
           "away_team": "PEC Zwolle",
           "result": {
-            "full_time": "1-4"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -1687,7 +2188,10 @@
           "home_team": "RKC Waalwijk",
           "away_team": "Willem II Tilburg",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1696,7 +2200,10 @@
           "home_team": "AZ",
           "away_team": "Sparta Rotterdam",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -1710,7 +2217,10 @@
           "home_team": "Heracles Almelo",
           "away_team": "FC Groningen",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         }
       ]
@@ -1724,7 +2234,10 @@
           "home_team": "NAC Breda",
           "away_team": "Heracles Almelo",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1733,7 +2246,10 @@
           "home_team": "PEC Zwolle",
           "away_team": "FC Utrecht",
           "result": {
-            "full_time": "3-3"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -1742,7 +2258,10 @@
           "home_team": "SC Heerenveen",
           "away_team": "Fortuna Sittard",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -1751,7 +2270,10 @@
           "home_team": "NEC",
           "away_team": "PSV",
           "result": {
-            "full_time": "3-3"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1760,7 +2282,10 @@
           "home_team": "Almere City FC",
           "away_team": "RKC Waalwijk",
           "result": {
-            "full_time": "1-4"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1769,7 +2294,10 @@
           "home_team": "AFC Ajax",
           "away_team": "Feyenoord Rotterdam",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1778,7 +2306,10 @@
           "home_team": "Go Ahead Eagles",
           "away_team": "FC Twente '65",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1787,7 +2318,10 @@
           "home_team": "Sparta Rotterdam",
           "away_team": "FC Groningen",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1796,6 +2330,9 @@
           "home_team": "Willem II Tilburg",
           "away_team": "AZ",
           "result": {
+            "breakdown": [
+              "0-2"
+            ],
             "full_time": "0-2"
           }
         }
@@ -1810,7 +2347,10 @@
           "home_team": "Heracles Almelo",
           "away_team": "Go Ahead Eagles",
           "result": {
-            "full_time": "4-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -1819,7 +2359,10 @@
           "home_team": "PSV",
           "away_team": "Willem II Tilburg",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1828,7 +2371,10 @@
           "home_team": "FC Groningen",
           "away_team": "NEC",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -1837,7 +2383,10 @@
           "home_team": "Feyenoord Rotterdam",
           "away_team": "Sparta Rotterdam",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1846,6 +2395,9 @@
           "home_team": "FC Utrecht",
           "away_team": "Almere City FC",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -1855,7 +2407,10 @@
           "home_team": "Fortuna Sittard",
           "away_team": "AFC Ajax",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1864,7 +2419,10 @@
           "home_team": "RKC Waalwijk",
           "away_team": "NAC Breda",
           "result": {
-            "full_time": "5-0"
+            "breakdown": [
+              "3-0"
+            ],
+            "full_time": "3-0"
           }
         },
         {
@@ -1873,7 +2431,10 @@
           "home_team": "AZ",
           "away_team": "PEC Zwolle",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1882,7 +2443,10 @@
           "home_team": "SC Heerenveen",
           "away_team": "FC Twente '65",
           "result": {
-            "full_time": "3-3"
+            "breakdown": [
+              "1-2"
+            ],
+            "full_time": "1-2"
           }
         }
       ]
@@ -1896,6 +2460,9 @@
           "home_team": "Go Ahead Eagles",
           "away_team": "Sparta Rotterdam",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -1905,7 +2472,10 @@
           "home_team": "PSV",
           "away_team": "FC Utrecht",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -1923,7 +2493,10 @@
           "home_team": "Willem II Tilburg",
           "away_team": "FC Groningen",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "0-3"
+            ],
+            "full_time": "0-3"
           }
         },
         {
@@ -1932,7 +2505,10 @@
           "home_team": "NEC",
           "away_team": "Almere City FC",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -1941,7 +2517,10 @@
           "home_team": "PEC Zwolle",
           "away_team": "SC Heerenveen",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1950,7 +2529,10 @@
           "home_team": "FC Twente '65",
           "away_team": "RKC Waalwijk",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1959,7 +2541,10 @@
           "home_team": "AFC Ajax",
           "away_team": "Heracles Almelo",
           "result": {
-            "full_time": "4-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         }
       ]
@@ -1973,7 +2558,10 @@
           "home_team": "Feyenoord Rotterdam",
           "away_team": "Almere City FC",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -1982,7 +2570,10 @@
           "home_team": "AFC Ajax",
           "away_team": "Go Ahead Eagles",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1991,7 +2582,10 @@
           "home_team": "FC Twente '65",
           "away_team": "NEC",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         }
       ]
@@ -2005,7 +2599,10 @@
           "home_team": "AZ",
           "away_team": "Fortuna Sittard",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -2019,7 +2616,10 @@
           "home_team": "RKC Waalwijk",
           "away_team": "Fortuna Sittard",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -2028,7 +2628,10 @@
           "home_team": "FC Utrecht",
           "away_team": "NAC Breda",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2037,7 +2640,10 @@
           "home_team": "Go Ahead Eagles",
           "away_team": "PSV",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "1-2"
+            ],
+            "full_time": "1-2"
           }
         },
         {
@@ -2046,6 +2652,9 @@
           "home_team": "FC Groningen",
           "away_team": "FC Twente '65",
           "result": {
+            "breakdown": [
+              "1-1"
+            ],
             "full_time": "1-1"
           }
         },
@@ -2064,7 +2673,10 @@
           "home_team": "SC Heerenveen",
           "away_team": "AZ",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2073,6 +2685,9 @@
           "home_team": "Almere City FC",
           "away_team": "AFC Ajax",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -2082,7 +2697,10 @@
           "home_team": "Heracles Almelo",
           "away_team": "PEC Zwolle",
           "result": {
-            "full_time": "4-2"
+            "breakdown": [
+              "2-2"
+            ],
+            "full_time": "2-2"
           }
         },
         {
@@ -2091,7 +2709,10 @@
           "home_team": "Sparta Rotterdam",
           "away_team": "Willem II Tilburg",
           "result": {
-            "full_time": "4-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         }
       ]
@@ -2105,7 +2726,10 @@
           "home_team": "NAC Breda",
           "away_team": "Sparta Rotterdam",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -2114,7 +2738,10 @@
           "home_team": "Fortuna Sittard",
           "away_team": "Heracles Almelo",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2123,7 +2750,10 @@
           "home_team": "PSV",
           "away_team": "SC Heerenveen",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2132,7 +2762,10 @@
           "home_team": "Willem II Tilburg",
           "away_team": "FC Utrecht",
           "result": {
-            "full_time": "2-3"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2141,7 +2774,10 @@
           "home_team": "NEC",
           "away_team": "Go Ahead Eagles",
           "result": {
-            "full_time": "2-3"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -2150,7 +2786,10 @@
           "home_team": "PEC Zwolle",
           "away_team": "AFC Ajax",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2159,6 +2798,9 @@
           "home_team": "FC Twente '65",
           "away_team": "Almere City FC",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         }
@@ -2173,6 +2815,9 @@
           "home_team": "Almere City FC",
           "away_team": "NAC Breda",
           "result": {
+            "breakdown": [
+              "1-1"
+            ],
             "full_time": "1-1"
           }
         },
@@ -2182,7 +2827,10 @@
           "home_team": "FC Utrecht",
           "away_team": "NEC",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2191,7 +2839,10 @@
           "home_team": "Sparta Rotterdam",
           "away_team": "PEC Zwolle",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2200,7 +2851,10 @@
           "home_team": "RKC Waalwijk",
           "away_team": "PSV",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -2209,6 +2863,9 @@
           "home_team": "SC Heerenveen",
           "away_team": "Heracles Almelo",
           "result": {
+            "breakdown": [
+              "1-1"
+            ],
             "full_time": "1-1"
           }
         },
@@ -2218,7 +2875,10 @@
           "home_team": "Go Ahead Eagles",
           "away_team": "Willem II Tilburg",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2227,7 +2887,10 @@
           "home_team": "FC Groningen",
           "away_team": "Fortuna Sittard",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2236,7 +2899,10 @@
           "home_team": "FC Twente '65",
           "away_team": "Feyenoord Rotterdam",
           "result": {
-            "full_time": "2-6"
+            "breakdown": [
+              "1-3"
+            ],
+            "full_time": "1-3"
           }
         },
         {
@@ -2245,7 +2911,10 @@
           "home_team": "AFC Ajax",
           "away_team": "AZ",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -2259,7 +2928,10 @@
           "home_team": "NAC Breda",
           "away_team": "FC Groningen",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2268,7 +2940,10 @@
           "home_team": "Fortuna Sittard",
           "away_team": "Sparta Rotterdam",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -2277,7 +2952,10 @@
           "home_team": "Willem II Tilburg",
           "away_team": "Almere City FC",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -2286,7 +2964,10 @@
           "home_team": "NEC",
           "away_team": "AZ",
           "result": {
-            "full_time": "3-3"
+            "breakdown": [
+              "1-2"
+            ],
+            "full_time": "1-2"
           }
         },
         {
@@ -2295,7 +2976,10 @@
           "home_team": "PEC Zwolle",
           "away_team": "RKC Waalwijk",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2304,7 +2988,10 @@
           "home_team": "FC Utrecht",
           "away_team": "SC Heerenveen",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2313,7 +3000,10 @@
           "home_team": "Heracles Almelo",
           "away_team": "FC Twente '65",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2322,7 +3012,10 @@
           "home_team": "PSV",
           "away_team": "AFC Ajax",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -2331,7 +3024,10 @@
           "home_team": "Feyenoord Rotterdam",
           "away_team": "Go Ahead Eagles",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         }
       ]
@@ -2345,7 +3041,10 @@
           "home_team": "AZ",
           "away_team": "RKC Waalwijk",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2354,7 +3053,10 @@
           "home_team": "Feyenoord Rotterdam",
           "away_team": "FC Groningen",
           "result": {
-            "full_time": "4-1"
+            "breakdown": [
+              "2-1"
+            ],
+            "full_time": "2-1"
           }
         }
       ]
@@ -2368,7 +3070,10 @@
           "home_team": "SC Heerenveen",
           "away_team": "Willem II Tilburg",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -2377,6 +3082,9 @@
           "home_team": "AZ",
           "away_team": "Feyenoord Rotterdam",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -2386,7 +3094,10 @@
           "home_team": "FC Twente '65",
           "away_team": "Fortuna Sittard",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2395,7 +3106,10 @@
           "home_team": "FC Groningen",
           "away_team": "PSV",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "1-2"
+            ],
+            "full_time": "1-2"
           }
         },
         {
@@ -2404,7 +3118,10 @@
           "home_team": "Almere City FC",
           "away_team": "PEC Zwolle",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -2422,6 +3139,9 @@
           "home_team": "Go Ahead Eagles",
           "away_team": "FC Utrecht",
           "result": {
+            "breakdown": [
+              "2-2"
+            ],
             "full_time": "2-2"
           }
         },
@@ -2431,7 +3151,10 @@
           "home_team": "Sparta Rotterdam",
           "away_team": "NEC",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2440,7 +3163,10 @@
           "home_team": "AFC Ajax",
           "away_team": "NAC Breda",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "2-1"
+            ],
+            "full_time": "2-1"
           }
         }
       ]
@@ -2454,7 +3180,10 @@
           "home_team": "NEC",
           "away_team": "RKC Waalwijk",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2463,7 +3192,10 @@
           "home_team": "Fortuna Sittard",
           "away_team": "Feyenoord Rotterdam",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2472,7 +3204,10 @@
           "home_team": "Sparta Rotterdam",
           "away_team": "SC Heerenveen",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2481,7 +3216,10 @@
           "home_team": "PSV",
           "away_team": "Almere City FC",
           "result": {
-            "full_time": "5-0"
+            "breakdown": [
+              "4-0"
+            ],
+            "full_time": "4-0"
           }
         },
         {
@@ -2490,7 +3228,10 @@
           "home_team": "NAC Breda",
           "away_team": "Go Ahead Eagles",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -2499,6 +3240,9 @@
           "home_team": "FC Utrecht",
           "away_team": "FC Groningen",
           "result": {
+            "breakdown": [
+              "3-1"
+            ],
             "full_time": "3-1"
           }
         },
@@ -2508,7 +3252,10 @@
           "home_team": "Heracles Almelo",
           "away_team": "AZ",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2517,7 +3264,10 @@
           "home_team": "PEC Zwolle",
           "away_team": "FC Twente '65",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2526,7 +3276,10 @@
           "home_team": "Willem II Tilburg",
           "away_team": "AFC Ajax",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         }
       ]
@@ -2540,6 +3293,9 @@
           "home_team": "SC Heerenveen",
           "away_team": "Almere City FC",
           "result": {
+            "breakdown": [
+              "2-1"
+            ],
             "full_time": "2-1"
           }
         },
@@ -2549,7 +3305,10 @@
           "home_team": "FC Utrecht",
           "away_team": "AFC Ajax",
           "result": {
-            "full_time": "4-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         }
       ]
@@ -2563,7 +3322,10 @@
           "home_team": "FC Groningen",
           "away_team": "Heracles Almelo",
           "result": {
-            "full_time": "4-1"
+            "breakdown": [
+              "2-1"
+            ],
+            "full_time": "2-1"
           }
         },
         {
@@ -2572,7 +3334,10 @@
           "home_team": "AZ",
           "away_team": "NAC Breda",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2581,7 +3346,10 @@
           "home_team": "FC Twente '65",
           "away_team": "PSV",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -2590,7 +3358,10 @@
           "home_team": "RKC Waalwijk",
           "away_team": "FC Utrecht",
           "result": {
-            "full_time": "0-4"
+            "breakdown": [
+              "0-3"
+            ],
+            "full_time": "0-3"
           }
         },
         {
@@ -2599,7 +3370,10 @@
           "home_team": "Feyenoord Rotterdam",
           "away_team": "PEC Zwolle",
           "result": {
-            "full_time": "4-0"
+            "breakdown": [
+              "3-0"
+            ],
+            "full_time": "3-0"
           }
         },
         {
@@ -2608,7 +3382,10 @@
           "home_team": "Fortuna Sittard",
           "away_team": "Willem II Tilburg",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2617,7 +3394,10 @@
           "home_team": "AFC Ajax",
           "away_team": "Sparta Rotterdam",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2626,7 +3406,10 @@
           "home_team": "SC Heerenveen",
           "away_team": "NEC",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {

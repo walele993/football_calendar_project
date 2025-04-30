@@ -11,7 +11,10 @@
           "home_team": "AC Ajaccio",
           "away_team": "Rodez AF",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -20,7 +23,10 @@
           "home_team": "Clermont Foot 63",
           "away_team": "Pau FC",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-2"
+            ],
+            "full_time": "1-2"
           }
         },
         {
@@ -29,7 +35,10 @@
           "home_team": "EA Guingamp",
           "away_team": "ESTAC Troyes",
           "result": {
-            "full_time": "4-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -38,7 +47,10 @@
           "home_team": "Grenoble Foot 38",
           "away_team": "Stade Lavallois",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -47,7 +59,10 @@
           "home_team": "Amiens SC",
           "away_team": "Red Star FC",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -56,7 +71,10 @@
           "home_team": "USL Dunkerque",
           "away_team": "FC Annecy",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -65,7 +83,10 @@
           "home_team": "SM Caen",
           "away_team": "Paris FC",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -74,7 +95,10 @@
           "home_team": "FC Martigues",
           "away_team": "FC Lorient",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -83,7 +107,10 @@
           "home_team": "FC Metz",
           "away_team": "SC Bastia",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         }
       ]
@@ -97,7 +124,10 @@
           "home_team": "FC Annecy",
           "away_team": "FC Martigues",
           "result": {
-            "full_time": "2-4"
+            "breakdown": [
+              "1-2"
+            ],
+            "full_time": "1-2"
           }
         },
         {
@@ -106,7 +136,10 @@
           "home_team": "Paris FC",
           "away_team": "USL Dunkerque",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -115,6 +148,9 @@
           "home_team": "Pau FC",
           "away_team": "SM Caen",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -124,6 +160,9 @@
           "home_team": "ESTAC Troyes",
           "away_team": "Clermont Foot 63",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -133,7 +172,10 @@
           "home_team": "Rodez AF",
           "away_team": "FC Metz",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "0-3"
+            ],
+            "full_time": "0-3"
           }
         },
         {
@@ -142,7 +184,10 @@
           "home_team": "SC Bastia",
           "away_team": "Amiens SC",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -151,6 +196,9 @@
           "home_team": "Stade Lavallois",
           "away_team": "EA Guingamp",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -160,7 +208,10 @@
           "home_team": "FC Lorient",
           "away_team": "Grenoble Foot 38",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -169,6 +220,9 @@
           "home_team": "Red Star FC",
           "away_team": "AC Ajaccio",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         }
@@ -183,7 +237,10 @@
           "home_team": "AC Ajaccio",
           "away_team": "ESTAC Troyes",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -192,6 +249,9 @@
           "home_team": "Clermont Foot 63",
           "away_team": "Paris FC",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -201,7 +261,10 @@
           "home_team": "EA Guingamp",
           "away_team": "Red Star FC",
           "result": {
-            "full_time": "3-4"
+            "breakdown": [
+              "2-2"
+            ],
+            "full_time": "2-2"
           }
         },
         {
@@ -210,7 +273,10 @@
           "home_team": "FC Martigues",
           "away_team": "SC Bastia",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -219,7 +285,10 @@
           "home_team": "Grenoble Foot 38",
           "away_team": "Pau FC",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -228,7 +297,10 @@
           "home_team": "SM Caen",
           "away_team": "FC Annecy",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -237,6 +309,9 @@
           "home_team": "USL Dunkerque",
           "away_team": "Rodez AF",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -246,7 +321,10 @@
           "home_team": "FC Metz",
           "away_team": "Stade Lavallois",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -255,6 +333,9 @@
           "home_team": "Amiens SC",
           "away_team": "FC Lorient",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         }
@@ -269,7 +350,10 @@
           "home_team": "Clermont Foot 63",
           "away_team": "USL Dunkerque",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -278,7 +362,10 @@
           "home_team": "FC Annecy",
           "away_team": "Amiens SC",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -287,7 +374,10 @@
           "home_team": "FC Lorient",
           "away_team": "Red Star FC",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -296,7 +386,10 @@
           "home_team": "Pau FC",
           "away_team": "FC Martigues",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -305,7 +398,10 @@
           "home_team": "Rodez AF",
           "away_team": "EA Guingamp",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -323,6 +419,9 @@
           "home_team": "Stade Lavallois",
           "away_team": "AC Ajaccio",
           "result": {
+            "breakdown": [
+              "1-1"
+            ],
             "full_time": "1-1"
           }
         },
@@ -332,6 +431,9 @@
           "home_team": "Paris FC",
           "away_team": "FC Metz",
           "result": {
+            "breakdown": [
+              "1-2"
+            ],
             "full_time": "1-2"
           }
         },
@@ -341,7 +443,10 @@
           "home_team": "Grenoble Foot 38",
           "away_team": "SM Caen",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "2-1"
+            ],
+            "full_time": "2-1"
           }
         }
       ]
@@ -355,7 +460,10 @@
           "home_team": "EA Guingamp",
           "away_team": "FC Annecy",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -364,7 +472,10 @@
           "home_team": "FC Martigues",
           "away_team": "Grenoble Foot 38",
           "result": {
-            "full_time": "0-4"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -373,7 +484,10 @@
           "home_team": "Red Star FC",
           "away_team": "Stade Lavallois",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -382,7 +496,10 @@
           "home_team": "ESTAC Troyes",
           "away_team": "Rodez AF",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -391,6 +508,9 @@
           "home_team": "Amiens SC",
           "away_team": "Clermont Foot 63",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -400,6 +520,9 @@
           "home_team": "SC Bastia",
           "away_team": "Paris FC",
           "result": {
+            "breakdown": [
+              "2-1"
+            ],
             "full_time": "2-1"
           }
         },
@@ -409,7 +532,10 @@
           "home_team": "SM Caen",
           "away_team": "AC Ajaccio",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -418,7 +544,10 @@
           "home_team": "USL Dunkerque",
           "away_team": "Pau FC",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "2-1"
+            ],
+            "full_time": "2-1"
           }
         },
         {
@@ -427,7 +556,10 @@
           "home_team": "FC Metz",
           "away_team": "FC Lorient",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         }
       ]
@@ -441,7 +573,10 @@
           "home_team": "AC Ajaccio",
           "away_team": "Grenoble Foot 38",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -450,7 +585,10 @@
           "home_team": "Clermont Foot 63",
           "away_team": "Red Star FC",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -459,6 +597,9 @@
           "home_team": "FC Annecy",
           "away_team": "ESTAC Troyes",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -468,7 +609,10 @@
           "home_team": "FC Metz",
           "away_team": "FC Martigues",
           "result": {
-            "full_time": "6-0"
+            "breakdown": [
+              "3-0"
+            ],
+            "full_time": "3-0"
           }
         },
         {
@@ -477,7 +621,10 @@
           "home_team": "Paris FC",
           "away_team": "EA Guingamp",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -486,6 +633,9 @@
           "home_team": "Pau FC",
           "away_team": "FC Lorient",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -495,7 +645,10 @@
           "home_team": "Rodez AF",
           "away_team": "Stade Lavallois",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -504,7 +657,10 @@
           "home_team": "SM Caen",
           "away_team": "Amiens SC",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -513,7 +669,10 @@
           "home_team": "USL Dunkerque",
           "away_team": "SC Bastia",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         }
       ]
@@ -527,7 +686,10 @@
           "home_team": "FC Lorient",
           "away_team": "AC Ajaccio",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -536,7 +698,10 @@
           "home_team": "FC Martigues",
           "away_team": "USL Dunkerque",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -545,7 +710,10 @@
           "home_team": "Grenoble Foot 38",
           "away_team": "Clermont Foot 63",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -554,7 +722,10 @@
           "home_team": "Amiens SC",
           "away_team": "Rodez AF",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -563,7 +734,10 @@
           "home_team": "SC Bastia",
           "away_team": "FC Annecy",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -572,7 +746,10 @@
           "home_team": "Stade Lavallois",
           "away_team": "Pau FC",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -581,7 +758,10 @@
           "home_team": "Red Star FC",
           "away_team": "Paris FC",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "1-2"
+            ],
+            "full_time": "1-2"
           }
         },
         {
@@ -590,7 +770,10 @@
           "home_team": "ESTAC Troyes",
           "away_team": "FC Metz",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -599,7 +782,10 @@
           "home_team": "EA Guingamp",
           "away_team": "SM Caen",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         }
       ]
@@ -613,7 +799,10 @@
           "home_team": "FC Annecy",
           "away_team": "Red Star FC",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -622,7 +811,10 @@
           "home_team": "Paris FC",
           "away_team": "Stade Lavallois",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -631,7 +823,10 @@
           "home_team": "Rodez AF",
           "away_team": "Grenoble Foot 38",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -640,7 +835,10 @@
           "home_team": "USL Dunkerque",
           "away_team": "ESTAC Troyes",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -649,6 +847,9 @@
           "home_team": "AC Ajaccio",
           "away_team": "FC Martigues",
           "result": {
+            "breakdown": [
+              "1-1"
+            ],
             "full_time": "1-1"
           }
         },
@@ -658,7 +859,10 @@
           "home_team": "Clermont Foot 63",
           "away_team": "EA Guingamp",
           "result": {
-            "full_time": "4-1"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -667,7 +871,10 @@
           "home_team": "SM Caen",
           "away_team": "FC Lorient",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -676,7 +883,10 @@
           "home_team": "FC Metz",
           "away_team": "Amiens SC",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "3-1"
+            ],
+            "full_time": "3-1"
           }
         },
         {
@@ -685,7 +895,10 @@
           "home_team": "Pau FC",
           "away_team": "SC Bastia",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         }
       ]
@@ -699,7 +912,10 @@
           "home_team": "EA Guingamp",
           "away_team": "Pau FC",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -708,6 +924,9 @@
           "home_team": "FC Martigues",
           "away_team": "Rodez AF",
           "result": {
+            "breakdown": [
+              "0-2"
+            ],
             "full_time": "0-2"
           }
         },
@@ -717,7 +936,10 @@
           "home_team": "Red Star FC",
           "away_team": "SM Caen",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -726,7 +948,10 @@
           "home_team": "Grenoble Foot 38",
           "away_team": "FC Metz",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -744,7 +969,10 @@
           "home_team": "Stade Lavallois",
           "away_team": "USL Dunkerque",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "3-0"
+            ],
+            "full_time": "3-0"
           }
         },
         {
@@ -753,7 +981,10 @@
           "home_team": "Amiens SC",
           "away_team": "AC Ajaccio",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "2-1"
+            ],
+            "full_time": "2-1"
           }
         },
         {
@@ -762,7 +993,10 @@
           "home_team": "FC Lorient",
           "away_team": "FC Annecy",
           "result": {
-            "full_time": "4-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -771,7 +1005,10 @@
           "home_team": "ESTAC Troyes",
           "away_team": "Paris FC",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         }
       ]
@@ -785,6 +1022,9 @@
           "home_team": "Clermont Foot 63",
           "away_team": "FC Martigues",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -794,7 +1034,10 @@
           "home_team": "FC Annecy",
           "away_team": "Stade Lavallois",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -803,7 +1046,10 @@
           "home_team": "FC Metz",
           "away_team": "EA Guingamp",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -812,6 +1058,9 @@
           "home_team": "Pau FC",
           "away_team": "Amiens SC",
           "result": {
+            "breakdown": [
+              "0-2"
+            ],
             "full_time": "0-2"
           }
         },
@@ -821,7 +1070,10 @@
           "home_team": "Rodez AF",
           "away_team": "FC Lorient",
           "result": {
-            "full_time": "3-3"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -830,7 +1082,10 @@
           "home_team": "USL Dunkerque",
           "away_team": "Red Star FC",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -839,7 +1094,10 @@
           "home_team": "Paris FC",
           "away_team": "Grenoble Foot 38",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -848,6 +1106,9 @@
           "home_team": "SM Caen",
           "away_team": "ESTAC Troyes",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -871,7 +1132,10 @@
           "home_team": "EA Guingamp",
           "away_team": "AC Ajaccio",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -880,7 +1144,10 @@
           "home_team": "FC Lorient",
           "away_team": "USL Dunkerque",
           "result": {
-            "full_time": "4-2"
+            "breakdown": [
+              "1-2"
+            ],
+            "full_time": "1-2"
           }
         },
         {
@@ -889,7 +1156,10 @@
           "home_team": "FC Martigues",
           "away_team": "SM Caen",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -898,7 +1168,10 @@
           "home_team": "Red Star FC",
           "away_team": "FC Metz",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -907,7 +1180,10 @@
           "home_team": "ESTAC Troyes",
           "away_team": "Pau FC",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -934,7 +1210,10 @@
           "home_team": "SC Bastia",
           "away_team": "Rodez AF",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-2"
+            ],
+            "full_time": "1-2"
           }
         },
         {
@@ -943,7 +1222,10 @@
           "home_team": "Stade Lavallois",
           "away_team": "Clermont Foot 63",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         }
       ]
@@ -957,7 +1239,10 @@
           "home_team": "Clermont Foot 63",
           "away_team": "FC Lorient",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -966,7 +1251,10 @@
           "home_team": "FC Annecy",
           "away_team": "Pau FC",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -975,7 +1263,10 @@
           "home_team": "FC Martigues",
           "away_team": "Red Star FC",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -984,7 +1275,10 @@
           "home_team": "Paris FC",
           "away_team": "Rodez AF",
           "result": {
-            "full_time": "3-3"
+            "breakdown": [
+              "1-2"
+            ],
+            "full_time": "1-2"
           }
         },
         {
@@ -1002,7 +1296,10 @@
           "home_team": "USL Dunkerque",
           "away_team": "Amiens SC",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -1011,7 +1308,10 @@
           "home_team": "SM Caen",
           "away_team": "SC Bastia",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1020,7 +1320,10 @@
           "home_team": "EA Guingamp",
           "away_team": "Grenoble Foot 38",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1029,6 +1332,9 @@
           "home_team": "AC Ajaccio",
           "away_team": "FC Metz",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         }
@@ -1043,7 +1349,10 @@
           "home_team": "AC Ajaccio",
           "away_team": "Clermont Foot 63",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1052,7 +1361,10 @@
           "home_team": "Red Star FC",
           "away_team": "ESTAC Troyes",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1061,7 +1373,10 @@
           "home_team": "Grenoble Foot 38",
           "away_team": "USL Dunkerque",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1070,7 +1385,10 @@
           "home_team": "Rodez AF",
           "away_team": "FC Annecy",
           "result": {
-            "full_time": "5-1"
+            "breakdown": [
+              "2-1"
+            ],
+            "full_time": "2-1"
           }
         },
         {
@@ -1079,7 +1397,10 @@
           "home_team": "Amiens SC",
           "away_team": "FC Martigues",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1088,7 +1409,10 @@
           "home_team": "Stade Lavallois",
           "away_team": "SC Bastia",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -1097,7 +1421,10 @@
           "home_team": "FC Lorient",
           "away_team": "EA Guingamp",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -1115,6 +1442,9 @@
           "home_team": "FC Metz",
           "away_team": "SM Caen",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         }
@@ -1129,6 +1459,9 @@
           "home_team": "Clermont Foot 63",
           "away_team": "FC Metz",
           "result": {
+            "breakdown": [
+              "1-1"
+            ],
             "full_time": "1-1"
           }
         },
@@ -1138,7 +1471,10 @@
           "home_team": "EA Guingamp",
           "away_team": "Amiens SC",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -1147,7 +1483,10 @@
           "home_team": "FC Martigues",
           "away_team": "Stade Lavallois",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1156,7 +1495,10 @@
           "home_team": "Pau FC",
           "away_team": "Red Star FC",
           "result": {
-            "full_time": "4-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -1174,7 +1516,10 @@
           "home_team": "SM Caen",
           "away_team": "Rodez AF",
           "result": {
-            "full_time": "3-3"
+            "breakdown": [
+              "1-2"
+            ],
+            "full_time": "1-2"
           }
         },
         {
@@ -1201,6 +1546,9 @@
           "home_team": "USL Dunkerque",
           "away_team": "AC Ajaccio",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         }
@@ -1215,7 +1563,10 @@
           "home_team": "FC Annecy",
           "away_team": "Clermont Foot 63",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1224,7 +1575,10 @@
           "home_team": "FC Lorient",
           "away_team": "ESTAC Troyes",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1233,7 +1587,10 @@
           "home_team": "FC Martigues",
           "away_team": "EA Guingamp",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1251,7 +1608,10 @@
           "home_team": "Rodez AF",
           "away_team": "Pau FC",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1260,6 +1620,9 @@
           "home_team": "Stade Lavallois",
           "away_team": "SM Caen",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -1269,7 +1632,10 @@
           "home_team": "Grenoble Foot 38",
           "away_team": "Amiens SC",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1278,7 +1644,10 @@
           "home_team": "AC Ajaccio",
           "away_team": "Paris FC",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1287,7 +1656,10 @@
           "home_team": "FC Metz",
           "away_team": "USL Dunkerque",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -1301,7 +1673,10 @@
           "home_team": "Clermont Foot 63",
           "away_team": "Rodez AF",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1310,6 +1685,9 @@
           "home_team": "Pau FC",
           "away_team": "AC Ajaccio",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -1319,7 +1697,10 @@
           "home_team": "ESTAC Troyes",
           "away_team": "FC Martigues",
           "result": {
-            "full_time": "4-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1328,7 +1709,10 @@
           "home_team": "Amiens SC",
           "away_team": "Stade Lavallois",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1337,7 +1721,10 @@
           "home_team": "SC Bastia",
           "away_team": "EA Guingamp",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1346,7 +1733,10 @@
           "home_team": "FC Lorient",
           "away_team": "Paris FC",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1355,7 +1745,10 @@
           "home_team": "Red Star FC",
           "away_team": "Grenoble Foot 38",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "3-0"
+            ],
+            "full_time": "3-0"
           }
         },
         {
@@ -1373,7 +1766,10 @@
           "home_team": "USL Dunkerque",
           "away_team": "SM Caen",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -1387,7 +1783,10 @@
           "home_team": "AC Ajaccio",
           "away_team": "FC Annecy",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -1396,7 +1795,10 @@
           "home_team": "Paris FC",
           "away_team": "FC Martigues",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1405,7 +1807,10 @@
           "home_team": "Grenoble Foot 38",
           "away_team": "SC Bastia",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -1414,7 +1819,10 @@
           "home_team": "Rodez AF",
           "away_team": "Red Star FC",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1423,7 +1831,10 @@
           "home_team": "Amiens SC",
           "away_team": "ESTAC Troyes",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -1432,7 +1843,10 @@
           "home_team": "SM Caen",
           "away_team": "Clermont Foot 63",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1441,7 +1855,10 @@
           "home_team": "EA Guingamp",
           "away_team": "USL Dunkerque",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1459,7 +1876,10 @@
           "home_team": "Stade Lavallois",
           "away_team": "FC Lorient",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -1473,7 +1893,10 @@
           "home_team": "FC Annecy",
           "away_team": "EA Guingamp",
           "result": {
-            "full_time": "1-4"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1482,7 +1905,10 @@
           "home_team": "FC Martigues",
           "away_team": "Clermont Foot 63",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1491,7 +1917,10 @@
           "home_team": "Pau FC",
           "away_team": "USL Dunkerque",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1500,7 +1929,10 @@
           "home_team": "Rodez AF",
           "away_team": "ESTAC Troyes",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1509,6 +1941,9 @@
           "home_team": "Stade Lavallois",
           "away_team": "Red Star FC",
           "result": {
+            "breakdown": [
+              "1-1"
+            ],
             "full_time": "1-1"
           }
         },
@@ -1518,7 +1953,10 @@
           "home_team": "Paris FC",
           "away_team": "Amiens SC",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1527,7 +1965,10 @@
           "home_team": "SC Bastia",
           "away_team": "AC Ajaccio",
           "result": {
-            "full_time": "4-0"
+            "breakdown": [
+              "3-0"
+            ],
+            "full_time": "3-0"
           }
         },
         {
@@ -1536,6 +1977,9 @@
           "home_team": "SM Caen",
           "away_team": "Grenoble Foot 38",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -1559,7 +2003,10 @@
           "home_team": "AC Ajaccio",
           "away_team": "SM Caen",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1568,7 +2015,10 @@
           "home_team": "EA Guingamp",
           "away_team": "Rodez AF",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1577,7 +2027,10 @@
           "home_team": "Red Star FC",
           "away_team": "Pau FC",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -1586,7 +2039,10 @@
           "home_team": "Grenoble Foot 38",
           "away_team": "FC Martigues",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1595,7 +2051,10 @@
           "home_team": "Amiens SC",
           "away_team": "SC Bastia",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1604,7 +2063,10 @@
           "home_team": "Clermont Foot 63",
           "away_team": "Stade Lavallois",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1613,7 +2075,10 @@
           "home_team": "FC Metz",
           "away_team": "Paris FC",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -1622,6 +2087,9 @@
           "home_team": "USL Dunkerque",
           "away_team": "FC Lorient",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -1631,6 +2099,9 @@
           "home_team": "ESTAC Troyes",
           "away_team": "FC Annecy",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         }
@@ -1645,6 +2116,9 @@
           "home_team": "FC Martigues",
           "away_team": "Amiens SC",
           "result": {
+            "breakdown": [
+              "3-0"
+            ],
             "full_time": "3-0"
           }
         },
@@ -1654,7 +2128,10 @@
           "home_team": "FC Metz",
           "away_team": "Grenoble Foot 38",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1663,7 +2140,10 @@
           "home_team": "Rodez AF",
           "away_team": "AC Ajaccio",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -1672,7 +2152,10 @@
           "home_team": "SC Bastia",
           "away_team": "Pau FC",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1681,6 +2164,9 @@
           "home_team": "SM Caen",
           "away_team": "EA Guingamp",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -1690,7 +2176,10 @@
           "home_team": "Stade Lavallois",
           "away_team": "ESTAC Troyes",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1699,7 +2188,10 @@
           "home_team": "Paris FC",
           "away_team": "Red Star FC",
           "result": {
-            "full_time": "4-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1708,7 +2200,10 @@
           "home_team": "FC Lorient",
           "away_team": "Clermont Foot 63",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "2-1"
+            ],
+            "full_time": "2-1"
           }
         },
         {
@@ -1717,7 +2212,10 @@
           "home_team": "FC Annecy",
           "away_team": "USL Dunkerque",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         }
       ]
@@ -1731,7 +2229,10 @@
           "home_team": "Clermont Foot 63",
           "away_team": "AC Ajaccio",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1740,7 +2241,10 @@
           "home_team": "Pau FC",
           "away_team": "Stade Lavallois",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1749,7 +2253,10 @@
           "home_team": "Grenoble Foot 38",
           "away_team": "Rodez AF",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -1758,6 +2265,9 @@
           "home_team": "Amiens SC",
           "away_team": "FC Annecy",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -1767,7 +2277,10 @@
           "home_team": "SC Bastia",
           "away_team": "FC Metz",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1776,7 +2289,10 @@
           "home_team": "USL Dunkerque",
           "away_team": "FC Martigues",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1785,7 +2301,10 @@
           "home_team": "Red Star FC",
           "away_team": "FC Lorient",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1794,7 +2313,10 @@
           "home_team": "ESTAC Troyes",
           "away_team": "SM Caen",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1803,6 +2325,9 @@
           "home_team": "EA Guingamp",
           "away_team": "Paris FC",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         }
@@ -1817,7 +2342,10 @@
           "home_team": "FC Martigues",
           "away_team": "ESTAC Troyes",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -1826,7 +2354,10 @@
           "home_team": "Paris FC",
           "away_team": "Pau FC",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -1844,7 +2375,10 @@
           "home_team": "Rodez AF",
           "away_team": "SC Bastia",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1853,7 +2387,10 @@
           "home_team": "Stade Lavallois",
           "away_team": "FC Annecy",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1862,7 +2399,10 @@
           "home_team": "AC Ajaccio",
           "away_team": "EA Guingamp",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -1871,7 +2411,10 @@
           "home_team": "FC Lorient",
           "away_team": "Amiens SC",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -1880,7 +2423,10 @@
           "home_team": "FC Metz",
           "away_team": "Clermont Foot 63",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -1889,7 +2435,10 @@
           "home_team": "SM Caen",
           "away_team": "USL Dunkerque",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         }
       ]
@@ -1903,7 +2452,10 @@
           "home_team": "AC Ajaccio",
           "away_team": "Stade Lavallois",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -1912,7 +2464,10 @@
           "home_team": "Clermont Foot 63",
           "away_team": "SC Bastia",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1921,7 +2476,10 @@
           "home_team": "Pau FC",
           "away_team": "Rodez AF",
           "result": {
-            "full_time": "0-5"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -1930,7 +2488,10 @@
           "home_team": "Red Star FC",
           "away_team": "FC Martigues",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1939,7 +2500,10 @@
           "home_team": "ESTAC Troyes",
           "away_team": "FC Lorient",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1948,7 +2512,10 @@
           "home_team": "Amiens SC",
           "away_team": "Grenoble Foot 38",
           "result": {
-            "full_time": "1-4"
+            "breakdown": [
+              "1-3"
+            ],
+            "full_time": "1-3"
           }
         },
         {
@@ -1957,7 +2524,10 @@
           "home_team": "USL Dunkerque",
           "away_team": "Paris FC",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1966,7 +2536,10 @@
           "home_team": "EA Guingamp",
           "away_team": "FC Metz",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1975,6 +2548,9 @@
           "home_team": "FC Annecy",
           "away_team": "SM Caen",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         }
@@ -1989,7 +2565,10 @@
           "home_team": "FC Martigues",
           "away_team": "FC Annecy",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1998,7 +2577,10 @@
           "home_team": "Paris FC",
           "away_team": "ESTAC Troyes",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2007,7 +2589,10 @@
           "home_team": "Grenoble Foot 38",
           "away_team": "EA Guingamp",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2016,7 +2601,10 @@
           "home_team": "Rodez AF",
           "away_team": "Amiens SC",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2025,7 +2613,10 @@
           "home_team": "SC Bastia",
           "away_team": "Red Star FC",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2034,7 +2625,10 @@
           "home_team": "USL Dunkerque",
           "away_team": "Clermont Foot 63",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -2043,7 +2637,10 @@
           "home_team": "FC Lorient",
           "away_team": "Stade Lavallois",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2052,7 +2649,10 @@
           "home_team": "SM Caen",
           "away_team": "Pau FC",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -2061,7 +2661,10 @@
           "home_team": "FC Metz",
           "away_team": "AC Ajaccio",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -2075,7 +2678,10 @@
           "home_team": "Clermont Foot 63",
           "away_team": "SM Caen",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2084,7 +2690,10 @@
           "home_team": "FC Annecy",
           "away_team": "Paris FC",
           "result": {
-            "full_time": "2-3"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -2093,7 +2702,10 @@
           "home_team": "Pau FC",
           "away_team": "Grenoble Foot 38",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2102,7 +2714,10 @@
           "home_team": "ESTAC Troyes",
           "away_team": "SC Bastia",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2111,7 +2726,10 @@
           "home_team": "Stade Lavallois",
           "away_team": "FC Martigues",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2120,7 +2738,10 @@
           "home_team": "Red Star FC",
           "away_team": "EA Guingamp",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -2129,7 +2750,10 @@
           "home_team": "Amiens SC",
           "away_team": "FC Metz",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2138,7 +2762,10 @@
           "home_team": "FC Lorient",
           "away_team": "Rodez AF",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -2147,7 +2774,10 @@
           "home_team": "AC Ajaccio",
           "away_team": "USL Dunkerque",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         }
       ]
@@ -2161,7 +2791,10 @@
           "home_team": "EA Guingamp",
           "away_team": "Clermont Foot 63",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -2170,7 +2803,10 @@
           "home_team": "Pau FC",
           "away_team": "ESTAC Troyes",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2179,7 +2815,10 @@
           "home_team": "Red Star FC",
           "away_team": "Amiens SC",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2188,7 +2827,10 @@
           "home_team": "Grenoble Foot 38",
           "away_team": "AC Ajaccio",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -2197,6 +2839,9 @@
           "home_team": "SC Bastia",
           "away_team": "FC Martigues",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -2206,6 +2851,9 @@
           "home_team": "SM Caen",
           "away_team": "Stade Lavallois",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -2215,7 +2863,10 @@
           "home_team": "Paris FC",
           "away_team": "FC Lorient",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "3-1"
+            ],
+            "full_time": "3-1"
           }
         },
         {
@@ -2224,7 +2875,10 @@
           "home_team": "FC Metz",
           "away_team": "FC Annecy",
           "result": {
-            "full_time": "5-1"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -2233,7 +2887,10 @@
           "home_team": "Rodez AF",
           "away_team": "USL Dunkerque",
           "result": {
-            "full_time": "5-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         }
       ]
@@ -2247,7 +2904,10 @@
           "home_team": "AC Ajaccio",
           "away_team": "Red Star FC",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -2265,7 +2925,10 @@
           "home_team": "FC Annecy",
           "away_team": "Rodez AF",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2274,7 +2937,10 @@
           "home_team": "FC Martigues",
           "away_team": "Pau FC",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2283,7 +2949,10 @@
           "home_team": "ESTAC Troyes",
           "away_team": "EA Guingamp",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2292,7 +2961,10 @@
           "home_team": "Amiens SC",
           "away_team": "SM Caen",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2301,7 +2973,10 @@
           "home_team": "Stade Lavallois",
           "away_team": "Paris FC",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2310,7 +2985,10 @@
           "home_team": "USL Dunkerque",
           "away_team": "FC Metz",
           "result": {
-            "full_time": "2-3"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -2319,7 +2997,10 @@
           "home_team": "FC Lorient",
           "away_team": "SC Bastia",
           "result": {
-            "full_time": "4-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         }
       ]
@@ -2333,7 +3014,10 @@
           "home_team": "Clermont Foot 63",
           "away_team": "Amiens SC",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2342,6 +3026,9 @@
           "home_team": "FC Martigues",
           "away_team": "AC Ajaccio",
           "result": {
+            "breakdown": [
+              "2-0"
+            ],
             "full_time": "2-0"
           }
         },
@@ -2351,7 +3038,10 @@
           "home_team": "FC Metz",
           "away_team": "ESTAC Troyes",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2360,7 +3050,10 @@
           "home_team": "Pau FC",
           "away_team": "FC Annecy",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2369,6 +3062,9 @@
           "home_team": "Red Star FC",
           "away_team": "Rodez AF",
           "result": {
+            "breakdown": [
+              "1-1"
+            ],
             "full_time": "1-1"
           }
         },
@@ -2378,7 +3074,10 @@
           "home_team": "SC Bastia",
           "away_team": "USL Dunkerque",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2387,6 +3086,9 @@
           "home_team": "Grenoble Foot 38",
           "away_team": "FC Lorient",
           "result": {
+            "breakdown": [
+              "1-2"
+            ],
             "full_time": "1-2"
           }
         },
@@ -2396,6 +3098,9 @@
           "home_team": "EA Guingamp",
           "away_team": "Stade Lavallois",
           "result": {
+            "breakdown": [
+              "2-0"
+            ],
             "full_time": "2-0"
           }
         },
@@ -2405,7 +3110,10 @@
           "home_team": "Paris FC",
           "away_team": "SM Caen",
           "result": {
-            "full_time": "4-2"
+            "breakdown": [
+              "3-0"
+            ],
+            "full_time": "3-0"
           }
         }
       ]
@@ -2419,7 +3127,10 @@
           "home_team": "AC Ajaccio",
           "away_team": "Amiens SC",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -2428,7 +3139,10 @@
           "home_team": "FC Annecy",
           "away_team": "SC Bastia",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2437,7 +3151,10 @@
           "home_team": "Paris FC",
           "away_team": "Clermont Foot 63",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2446,7 +3163,10 @@
           "home_team": "Rodez AF",
           "away_team": "FC Martigues",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2455,6 +3175,9 @@
           "home_team": "Stade Lavallois",
           "away_team": "Grenoble Foot 38",
           "result": {
+            "breakdown": [
+              "1-2"
+            ],
             "full_time": "1-2"
           }
         },
@@ -2464,7 +3187,10 @@
           "home_team": "SM Caen",
           "away_team": "FC Metz",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -2473,7 +3199,10 @@
           "home_team": "FC Lorient",
           "away_team": "Pau FC",
           "result": {
-            "full_time": "5-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2482,6 +3211,9 @@
           "home_team": "ESTAC Troyes",
           "away_team": "Red Star FC",
           "result": {
+            "breakdown": [
+              "2-2"
+            ],
             "full_time": "2-2"
           }
         },
@@ -2491,7 +3223,10 @@
           "home_team": "USL Dunkerque",
           "away_team": "EA Guingamp",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -2505,7 +3240,10 @@
           "home_team": "FC Martigues",
           "away_team": "FC Metz",
           "result": {
-            "full_time": "1-4"
+            "breakdown": [
+              "1-3"
+            ],
+            "full_time": "1-3"
           }
         },
         {
@@ -2514,7 +3252,10 @@
           "home_team": "Pau FC",
           "away_team": "Clermont Foot 63",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -2523,6 +3264,9 @@
           "home_team": "Red Star FC",
           "away_team": "FC Annecy",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -2541,7 +3285,10 @@
           "home_team": "Rodez AF",
           "away_team": "SM Caen",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2550,7 +3297,10 @@
           "home_team": "Amiens SC",
           "away_team": "USL Dunkerque",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2559,7 +3309,10 @@
           "home_team": "EA Guingamp",
           "away_team": "FC Lorient",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2568,7 +3321,10 @@
           "home_team": "Grenoble Foot 38",
           "away_team": "Paris FC",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -2577,7 +3333,10 @@
           "home_team": "SC Bastia",
           "away_team": "Stade Lavallois",
           "result": {
-            "full_time": "5-2"
+            "breakdown": [
+              "2-1"
+            ],
+            "full_time": "2-1"
           }
         }
       ]
@@ -2591,7 +3350,10 @@
           "home_team": "AC Ajaccio",
           "away_team": "Pau FC",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -2600,7 +3362,10 @@
           "home_team": "Clermont Foot 63",
           "away_team": "ESTAC Troyes",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -2609,7 +3374,10 @@
           "home_team": "Amiens SC",
           "away_team": "EA Guingamp",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "2-1"
+            ],
+            "full_time": "2-1"
           }
         },
         {
@@ -2618,7 +3386,10 @@
           "home_team": "SM Caen",
           "away_team": "FC Martigues",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -2627,7 +3398,10 @@
           "home_team": "Stade Lavallois",
           "away_team": "Rodez AF",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2636,7 +3410,10 @@
           "home_team": "USL Dunkerque",
           "away_team": "Grenoble Foot 38",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2645,6 +3422,9 @@
           "home_team": "Paris FC",
           "away_team": "SC Bastia",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -2654,7 +3434,10 @@
           "home_team": "FC Metz",
           "away_team": "Red Star FC",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -2677,7 +3460,10 @@
           "home_team": "EA Guingamp",
           "away_team": "FC Martigues",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2686,7 +3472,10 @@
           "home_team": "FC Annecy",
           "away_team": "AC Ajaccio",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2695,7 +3484,10 @@
           "home_team": "Red Star FC",
           "away_team": "Clermont Foot 63",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2704,6 +3496,9 @@
           "home_team": "ESTAC Troyes",
           "away_team": "USL Dunkerque",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -2713,7 +3508,10 @@
           "home_team": "SC Bastia",
           "away_team": "Grenoble Foot 38",
           "result": {
-            "full_time": "2-3"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -2722,7 +3520,10 @@
           "home_team": "Stade Lavallois",
           "away_team": "Amiens SC",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2731,7 +3532,10 @@
           "home_team": "Rodez AF",
           "away_team": "Paris FC",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -2740,7 +3544,10 @@
           "home_team": "FC Lorient",
           "away_team": "SM Caen",
           "result": {
-            "full_time": "4-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -2749,7 +3556,10 @@
           "home_team": "Pau FC",
           "away_team": "FC Metz",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]

@@ -11,7 +11,10 @@
           "home_team": "Viktoria Plzeň",
           "away_team": "SFC Opava",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -20,7 +23,10 @@
           "home_team": "FC Fastav Zlín",
           "away_team": "1. FC Slovácko",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -29,7 +35,10 @@
           "home_team": "1. FK Příbram",
           "away_team": "FK Teplice",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -38,6 +47,9 @@
           "home_team": "Sigma Olomouc",
           "away_team": "Slovan Liberec",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -47,7 +59,10 @@
           "home_team": "Zbrojovka Brno",
           "away_team": "AC Sparta Praha",
           "result": {
-            "full_time": "1-4"
+            "breakdown": [
+              "0-4"
+            ],
+            "full_time": "0-4"
           }
         },
         {
@@ -56,7 +71,10 @@
           "home_team": "Dynamo České Budějovice",
           "away_team": "Slavia Praha",
           "result": {
-            "full_time": "0-6"
+            "breakdown": [
+              "0-3"
+            ],
+            "full_time": "0-3"
           }
         },
         {
@@ -65,7 +83,10 @@
           "home_team": "FK Jablonec",
           "away_team": "FK Pardubice",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -83,7 +104,10 @@
           "home_team": "Bohemians Praha 1905",
           "away_team": "FK Mladá Boleslav",
           "result": {
-            "full_time": "4-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         }
       ]
@@ -97,7 +121,10 @@
           "home_team": "Baník Ostrava",
           "away_team": "Dynamo České Budějovice",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-2"
+            ],
+            "full_time": "1-2"
           }
         },
         {
@@ -106,7 +133,10 @@
           "home_team": "1. FC Slovácko",
           "away_team": "FK Jablonec",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -115,7 +145,10 @@
           "home_team": "FK Mladá Boleslav",
           "away_team": "FC Fastav Zlín",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -124,7 +157,10 @@
           "home_team": "SFC Opava",
           "away_team": "MFK Karviná",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -133,7 +169,10 @@
           "home_team": "Slavia Praha",
           "away_team": "1. FK Příbram",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -151,7 +190,10 @@
           "home_team": "FK Pardubice",
           "away_team": "FK Teplice",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -160,7 +202,10 @@
           "home_team": "Slovan Liberec",
           "away_team": "Viktoria Plzeň",
           "result": {
-            "full_time": "4-1"
+            "breakdown": [
+              "3-1"
+            ],
+            "full_time": "3-1"
           }
         },
         {
@@ -169,7 +214,10 @@
           "home_team": "AC Sparta Praha",
           "away_team": "Sigma Olomouc",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         }
       ]
@@ -183,7 +231,10 @@
           "home_team": "Sigma Olomouc",
           "away_team": "Bohemians Praha 1905",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -192,7 +243,10 @@
           "home_team": "Dynamo České Budějovice",
           "away_team": "Slovan Liberec",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -201,7 +255,10 @@
           "home_team": "FK Jablonec",
           "away_team": "Baník Ostrava",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -210,7 +267,10 @@
           "home_team": "1. FK Příbram",
           "away_team": "SFC Opava",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -219,7 +279,10 @@
           "home_team": "FK Teplice",
           "away_team": "1. FC Slovácko",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -228,7 +291,10 @@
           "home_team": "FK Pardubice",
           "away_team": "Slavia Praha",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -237,7 +303,10 @@
           "home_team": "FC Fastav Zlín",
           "away_team": "Zbrojovka Brno",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -246,7 +315,10 @@
           "home_team": "MFK Karviná",
           "away_team": "AC Sparta Praha",
           "result": {
-            "full_time": "2-5"
+            "breakdown": [
+              "2-2"
+            ],
+            "full_time": "2-2"
           }
         },
         {
@@ -255,7 +327,10 @@
           "home_team": "Viktoria Plzeň",
           "away_team": "FK Mladá Boleslav",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         }
       ]
@@ -269,7 +344,10 @@
           "home_team": "Slavia Praha",
           "away_team": "FK Teplice",
           "result": {
-            "full_time": "5-1"
+            "breakdown": [
+              "3-0"
+            ],
+            "full_time": "3-0"
           }
         },
         {
@@ -278,7 +356,10 @@
           "home_team": "Baník Ostrava",
           "away_team": "FK Pardubice",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -296,7 +377,10 @@
           "home_team": "Bohemians Praha 1905",
           "away_team": "Viktoria Plzeň",
           "result": {
-            "full_time": "1-4"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -305,7 +389,10 @@
           "home_team": "Zbrojovka Brno",
           "away_team": "Sigma Olomouc",
           "result": {
-            "full_time": "2-4"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -314,7 +401,10 @@
           "home_team": "Slovan Liberec",
           "away_team": "MFK Karviná",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -323,7 +413,10 @@
           "home_team": "AC Sparta Praha",
           "away_team": "FC Fastav Zlín",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -332,7 +425,10 @@
           "home_team": "FK Mladá Boleslav",
           "away_team": "FK Jablonec",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -341,7 +437,10 @@
           "home_team": "1. FC Slovácko",
           "away_team": "1. FK Příbram",
           "result": {
-            "full_time": "5-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         }
       ]
@@ -355,7 +454,10 @@
           "home_team": "FC Fastav Zlín",
           "away_team": "Sigma Olomouc",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -364,7 +466,10 @@
           "home_team": "FK Teplice",
           "away_team": "Baník Ostrava",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -382,7 +487,10 @@
           "home_team": "Slavia Praha",
           "away_team": "1. FC Slovácko",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -391,7 +499,10 @@
           "home_team": "FK Jablonec",
           "away_team": "SFC Opava",
           "result": {
-            "full_time": "4-1"
+            "breakdown": [
+              "2-1"
+            ],
+            "full_time": "2-1"
           }
         },
         {
@@ -400,7 +511,10 @@
           "home_team": "FK Pardubice",
           "away_team": "Slovan Liberec",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -409,7 +523,10 @@
           "home_team": "Viktoria Plzeň",
           "away_team": "Zbrojovka Brno",
           "result": {
-            "full_time": "4-1"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -418,7 +535,10 @@
           "home_team": "1. FK Příbram",
           "away_team": "AC Sparta Praha",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "1-2"
+            ],
+            "full_time": "1-2"
           }
         },
         {
@@ -427,7 +547,10 @@
           "home_team": "Dynamo České Budějovice",
           "away_team": "Bohemians Praha 1905",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         }
       ]
@@ -441,7 +564,10 @@
           "home_team": "1. FC Slovácko",
           "away_team": "FK Pardubice",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -450,7 +576,10 @@
           "home_team": "Zbrojovka Brno",
           "away_team": "MFK Karviná",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -459,7 +588,10 @@
           "home_team": "FK Mladá Boleslav",
           "away_team": "Dynamo České Budějovice",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "2-1"
+            ],
+            "full_time": "2-1"
           }
         },
         {
@@ -468,7 +600,10 @@
           "home_team": "SFC Opava",
           "away_team": "FK Teplice",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -477,7 +612,10 @@
           "home_team": "AC Sparta Praha",
           "away_team": "FK Jablonec",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -486,7 +624,10 @@
           "home_team": "Bohemians Praha 1905",
           "away_team": "FC Fastav Zlín",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -495,7 +636,10 @@
           "home_team": "Sigma Olomouc",
           "away_team": "Viktoria Plzeň",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -504,7 +648,10 @@
           "home_team": "Slovan Liberec",
           "away_team": "1. FK Příbram",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -513,7 +660,10 @@
           "home_team": "Baník Ostrava",
           "away_team": "Slavia Praha",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -527,7 +677,10 @@
           "home_team": "FK Jablonec",
           "away_team": "Zbrojovka Brno",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -536,7 +689,10 @@
           "home_team": "FK Pardubice",
           "away_team": "SFC Opava",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -554,7 +710,10 @@
           "home_team": "Dynamo České Budějovice",
           "away_team": "FC Fastav Zlín",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -563,7 +722,10 @@
           "home_team": "1. FK Příbram",
           "away_team": "Baník Ostrava",
           "result": {
-            "full_time": "0-4"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -572,6 +734,9 @@
           "home_team": "FK Teplice",
           "away_team": "Slovan Liberec",
           "result": {
+            "breakdown": [
+              "1-2"
+            ],
             "full_time": "1-2"
           }
         },
@@ -581,7 +746,10 @@
           "home_team": "MFK Karviná",
           "away_team": "Bohemians Praha 1905",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -590,6 +758,9 @@
           "home_team": "Slavia Praha",
           "away_team": "FK Mladá Boleslav",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -599,7 +770,10 @@
           "home_team": "Viktoria Plzeň",
           "away_team": "AC Sparta Praha",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "3-0"
+            ],
+            "full_time": "3-0"
           }
         }
       ]
@@ -613,7 +787,10 @@
           "home_team": "Slovan Liberec",
           "away_team": "FK Jablonec",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -622,7 +799,10 @@
           "home_team": "FK Mladá Boleslav",
           "away_team": "FK Pardubice",
           "result": {
-            "full_time": "4-1"
+            "breakdown": [
+              "3-0"
+            ],
+            "full_time": "3-0"
           }
         },
         {
@@ -631,7 +811,10 @@
           "home_team": "Bohemians Praha 1905",
           "away_team": "FK Teplice",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -640,7 +823,10 @@
           "home_team": "Sigma Olomouc",
           "away_team": "MFK Karviná",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -649,7 +835,10 @@
           "home_team": "SFC Opava",
           "away_team": "Slavia Praha",
           "result": {
-            "full_time": "0-6"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -658,7 +847,10 @@
           "home_team": "Zbrojovka Brno",
           "away_team": "1. FK Příbram",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -667,6 +859,9 @@
           "home_team": "FC Fastav Zlín",
           "away_team": "Viktoria Plzeň",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -676,7 +871,10 @@
           "home_team": "AC Sparta Praha",
           "away_team": "Dynamo České Budějovice",
           "result": {
-            "full_time": "2-4"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -685,7 +883,10 @@
           "home_team": "Baník Ostrava",
           "away_team": "1. FC Slovácko",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -699,7 +900,10 @@
           "home_team": "FK Pardubice",
           "away_team": "Sigma Olomouc",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -708,7 +912,10 @@
           "home_team": "1. FK Příbram",
           "away_team": "FK Mladá Boleslav",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -717,6 +924,9 @@
           "home_team": "1. FC Slovácko",
           "away_team": "SFC Opava",
           "result": {
+            "breakdown": [
+              "3-1"
+            ],
             "full_time": "3-1"
           }
         },
@@ -726,6 +936,9 @@
           "home_team": "MFK Karviná",
           "away_team": "FC Fastav Zlín",
           "result": {
+            "breakdown": [
+              "0-2"
+            ],
             "full_time": "0-2"
           }
         },
@@ -744,7 +957,10 @@
           "home_team": "FK Teplice",
           "away_team": "AC Sparta Praha",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -753,7 +969,10 @@
           "home_team": "Slavia Praha",
           "away_team": "Zbrojovka Brno",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -762,7 +981,10 @@
           "home_team": "FK Jablonec",
           "away_team": "Bohemians Praha 1905",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -771,6 +993,9 @@
           "home_team": "Baník Ostrava",
           "away_team": "Slovan Liberec",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         }
@@ -785,7 +1010,10 @@
           "home_team": "FC Fastav Zlín",
           "away_team": "FK Jablonec",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -794,7 +1022,10 @@
           "home_team": "Bohemians Praha 1905",
           "away_team": "FK Pardubice",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -803,7 +1034,10 @@
           "home_team": "SFC Opava",
           "away_team": "Baník Ostrava",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -812,7 +1046,10 @@
           "home_team": "Sigma Olomouc",
           "away_team": "1. FK Příbram",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -821,6 +1058,9 @@
           "home_team": "Viktoria Plzeň",
           "away_team": "MFK Karviná",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -830,7 +1070,10 @@
           "home_team": "Zbrojovka Brno",
           "away_team": "Dynamo České Budějovice",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -839,7 +1082,10 @@
           "home_team": "FK Mladá Boleslav",
           "away_team": "FK Teplice",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -848,7 +1094,10 @@
           "home_team": "AC Sparta Praha",
           "away_team": "Slavia Praha",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -857,7 +1106,10 @@
           "home_team": "Slovan Liberec",
           "away_team": "1. FC Slovácko",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         }
       ]
@@ -871,6 +1123,9 @@
           "home_team": "Baník Ostrava",
           "away_team": "Bohemians Praha 1905",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -880,7 +1135,10 @@
           "home_team": "Dynamo České Budějovice",
           "away_team": "MFK Karviná",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -889,7 +1147,10 @@
           "home_team": "1. FK Příbram",
           "away_team": "FC Fastav Zlín",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -898,7 +1159,10 @@
           "home_team": "SFC Opava",
           "away_team": "FK Mladá Boleslav",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "2-1"
+            ],
+            "full_time": "2-1"
           }
         },
         {
@@ -907,7 +1171,10 @@
           "home_team": "FK Pardubice",
           "away_team": "Zbrojovka Brno",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -916,7 +1183,10 @@
           "home_team": "FK Teplice",
           "away_team": "Sigma Olomouc",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -925,7 +1195,10 @@
           "home_team": "FK Jablonec",
           "away_team": "Viktoria Plzeň",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -934,7 +1207,10 @@
           "home_team": "1. FC Slovácko",
           "away_team": "AC Sparta Praha",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -943,7 +1219,10 @@
           "home_team": "Slavia Praha",
           "away_team": "Slovan Liberec",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         }
       ]
@@ -957,7 +1236,10 @@
           "home_team": "FK Mladá Boleslav",
           "away_team": "Baník Ostrava",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -966,7 +1248,10 @@
           "home_team": "MFK Karviná",
           "away_team": "FK Jablonec",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -975,7 +1260,10 @@
           "home_team": "Bohemians Praha 1905",
           "away_team": "1. FK Příbram",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -984,7 +1272,10 @@
           "home_team": "Sigma Olomouc",
           "away_team": "Dynamo České Budějovice",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -993,7 +1284,10 @@
           "home_team": "Viktoria Plzeň",
           "away_team": "FK Teplice",
           "result": {
-            "full_time": "7-0"
+            "breakdown": [
+              "3-0"
+            ],
+            "full_time": "3-0"
           }
         },
         {
@@ -1002,7 +1296,10 @@
           "home_team": "Zbrojovka Brno",
           "away_team": "1. FC Slovácko",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1011,6 +1308,9 @@
           "home_team": "Slovan Liberec",
           "away_team": "SFC Opava",
           "result": {
+            "breakdown": [
+              "2-0"
+            ],
             "full_time": "2-0"
           }
         },
@@ -1020,7 +1320,10 @@
           "home_team": "AC Sparta Praha",
           "away_team": "FK Pardubice",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1029,7 +1332,10 @@
           "home_team": "FC Fastav Zlín",
           "away_team": "Slavia Praha",
           "result": {
-            "full_time": "2-6"
+            "breakdown": [
+              "0-5"
+            ],
+            "full_time": "0-5"
           }
         }
       ]
@@ -1043,7 +1349,10 @@
           "home_team": "Baník Ostrava",
           "away_team": "Sigma Olomouc",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1052,7 +1361,10 @@
           "home_team": "FK Jablonec",
           "away_team": "Dynamo České Budějovice",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1061,6 +1373,9 @@
           "home_team": "1. FK Příbram",
           "away_team": "MFK Karviná",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -1070,7 +1385,10 @@
           "home_team": "Slovan Liberec",
           "away_team": "FK Mladá Boleslav",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -1088,7 +1406,10 @@
           "home_team": "FK Teplice",
           "away_team": "Zbrojovka Brno",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1097,7 +1418,10 @@
           "home_team": "1. FC Slovácko",
           "away_team": "Viktoria Plzeň",
           "result": {
-            "full_time": "4-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1106,7 +1430,10 @@
           "home_team": "Slavia Praha",
           "away_team": "Bohemians Praha 1905",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1115,7 +1442,10 @@
           "home_team": "SFC Opava",
           "away_team": "AC Sparta Praha",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         }
       ]
@@ -1129,7 +1459,10 @@
           "home_team": "Sigma Olomouc",
           "away_team": "FK Jablonec",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -1138,7 +1471,10 @@
           "home_team": "AC Sparta Praha",
           "away_team": "Slovan Liberec",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1147,6 +1483,9 @@
           "home_team": "Zbrojovka Brno",
           "away_team": "Baník Ostrava",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -1156,7 +1495,10 @@
           "home_team": "FC Fastav Zlín",
           "away_team": "FK Teplice",
           "result": {
-            "full_time": "2-3"
+            "breakdown": [
+              "1-2"
+            ],
+            "full_time": "1-2"
           }
         },
         {
@@ -1165,7 +1507,10 @@
           "home_team": "FK Mladá Boleslav",
           "away_team": "1. FC Slovácko",
           "result": {
-            "full_time": "2-3"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -1174,7 +1519,10 @@
           "home_team": "MFK Karviná",
           "away_team": "FK Pardubice",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1183,6 +1531,9 @@
           "home_team": "Viktoria Plzeň",
           "away_team": "Slavia Praha",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -1192,7 +1543,10 @@
           "home_team": "Dynamo České Budějovice",
           "away_team": "1. FK Příbram",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1215,7 +1569,10 @@
           "home_team": "FK Teplice",
           "away_team": "FK Jablonec",
           "result": {
-            "full_time": "0-5"
+            "breakdown": [
+              "0-3"
+            ],
+            "full_time": "0-3"
           }
         },
         {
@@ -1224,7 +1581,10 @@
           "home_team": "FK Mladá Boleslav",
           "away_team": "Zbrojovka Brno",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1242,7 +1602,10 @@
           "home_team": "1. FC Slovácko",
           "away_team": "MFK Karviná",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1251,7 +1614,10 @@
           "home_team": "Slovan Liberec",
           "away_team": "Bohemians Praha 1905",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1260,7 +1626,10 @@
           "home_team": "Slavia Praha",
           "away_team": "Sigma Olomouc",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "2-1"
+            ],
+            "full_time": "2-1"
           }
         },
         {
@@ -1269,7 +1638,10 @@
           "home_team": "FK Pardubice",
           "away_team": "Dynamo České Budějovice",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1301,7 +1673,10 @@
           "home_team": "Zbrojovka Brno",
           "away_team": "Slovan Liberec",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -1310,7 +1685,10 @@
           "home_team": "Sigma Olomouc",
           "away_team": "SFC Opava",
           "result": {
-            "full_time": "4-1"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -1319,7 +1697,10 @@
           "home_team": "Bohemians Praha 1905",
           "away_team": "1. FC Slovácko",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "0-3"
+            ],
+            "full_time": "0-3"
           }
         },
         {
@@ -1328,6 +1709,9 @@
           "home_team": "FC Fastav Zlín",
           "away_team": "Baník Ostrava",
           "result": {
+            "breakdown": [
+              "1-1"
+            ],
             "full_time": "1-1"
           }
         },
@@ -1337,7 +1721,10 @@
           "home_team": "MFK Karviná",
           "away_team": "Slavia Praha",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1346,7 +1733,10 @@
           "home_team": "Dynamo České Budějovice",
           "away_team": "FK Teplice",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1355,7 +1745,10 @@
           "home_team": "FK Jablonec",
           "away_team": "1. FK Příbram",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1364,7 +1757,10 @@
           "home_team": "Viktoria Plzeň",
           "away_team": "FK Pardubice",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1373,7 +1769,10 @@
           "home_team": "AC Sparta Praha",
           "away_team": "FK Mladá Boleslav",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -1387,7 +1786,10 @@
           "home_team": "FK Teplice",
           "away_team": "MFK Karviná",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -1405,7 +1807,10 @@
           "home_team": "FK Pardubice",
           "away_team": "1. FK Příbram",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1414,6 +1819,9 @@
           "home_team": "AC Sparta Praha",
           "away_team": "Bohemians Praha 1905",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -1423,7 +1831,10 @@
           "home_team": "SFC Opava",
           "away_team": "Zbrojovka Brno",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1432,7 +1843,10 @@
           "home_team": "Baník Ostrava",
           "away_team": "Viktoria Plzeň",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1441,7 +1855,10 @@
           "home_team": "Slavia Praha",
           "away_team": "FK Jablonec",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -1450,7 +1867,10 @@
           "home_team": "FK Mladá Boleslav",
           "away_team": "Sigma Olomouc",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1459,7 +1879,10 @@
           "home_team": "Slovan Liberec",
           "away_team": "FC Fastav Zlín",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -1473,7 +1896,10 @@
           "home_team": "Dynamo České Budějovice",
           "away_team": "Baník Ostrava",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1482,6 +1908,9 @@
           "home_team": "Bohemians Praha 1905",
           "away_team": "Zbrojovka Brno",
           "result": {
+            "breakdown": [
+              "2-1"
+            ],
             "full_time": "2-1"
           }
         },
@@ -1491,7 +1920,10 @@
           "home_team": "MFK Karviná",
           "away_team": "SFC Opava",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1500,7 +1932,10 @@
           "home_team": "Viktoria Plzeň",
           "away_team": "Slovan Liberec",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1509,7 +1944,10 @@
           "home_team": "FK Teplice",
           "away_team": "FK Pardubice",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1518,7 +1956,10 @@
           "home_team": "1. FK Příbram",
           "away_team": "Slavia Praha",
           "result": {
-            "full_time": "3-3"
+            "breakdown": [
+              "2-1"
+            ],
+            "full_time": "2-1"
           }
         },
         {
@@ -1527,7 +1968,10 @@
           "home_team": "Sigma Olomouc",
           "away_team": "AC Sparta Praha",
           "result": {
-            "full_time": "2-3"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1536,7 +1980,10 @@
           "home_team": "FK Jablonec",
           "away_team": "1. FC Slovácko",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1545,7 +1992,10 @@
           "home_team": "FC Fastav Zlín",
           "away_team": "FK Mladá Boleslav",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -1559,7 +2009,10 @@
           "home_team": "1. FC Slovácko",
           "away_team": "FK Teplice",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1586,7 +2039,10 @@
           "home_team": "Slavia Praha",
           "away_team": "FK Pardubice",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -1595,6 +2051,9 @@
           "home_team": "Baník Ostrava",
           "away_team": "FK Jablonec",
           "result": {
+            "breakdown": [
+              "2-1"
+            ],
             "full_time": "2-1"
           }
         },
@@ -1613,7 +2072,10 @@
           "home_team": "FK Mladá Boleslav",
           "away_team": "Viktoria Plzeň",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -1631,7 +2093,10 @@
           "home_team": "AC Sparta Praha",
           "away_team": "MFK Karviná",
           "result": {
-            "full_time": "4-3"
+            "breakdown": [
+              "3-2"
+            ],
+            "full_time": "3-2"
           }
         }
       ]
@@ -1645,6 +2110,9 @@
           "home_team": "FK Jablonec",
           "away_team": "FK Mladá Boleslav",
           "result": {
+            "breakdown": [
+              "1-1"
+            ],
             "full_time": "1-1"
           }
         },
@@ -1654,7 +2122,10 @@
           "home_team": "FK Pardubice",
           "away_team": "Baník Ostrava",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1663,7 +2134,10 @@
           "home_team": "1. FK Příbram",
           "away_team": "1. FC Slovácko",
           "result": {
-            "full_time": "1-4"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -1672,7 +2146,10 @@
           "home_team": "Sigma Olomouc",
           "away_team": "Zbrojovka Brno",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1681,7 +2158,10 @@
           "home_team": "FC Fastav Zlín",
           "away_team": "AC Sparta Praha",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -1690,7 +2170,10 @@
           "home_team": "Dynamo České Budějovice",
           "away_team": "SFC Opava",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1699,7 +2182,10 @@
           "home_team": "MFK Karviná",
           "away_team": "Slovan Liberec",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1708,7 +2194,10 @@
           "home_team": "Viktoria Plzeň",
           "away_team": "Bohemians Praha 1905",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1717,7 +2206,10 @@
           "home_team": "FK Teplice",
           "away_team": "Slavia Praha",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         }
       ]
@@ -1731,7 +2223,10 @@
           "home_team": "Slovan Liberec",
           "away_team": "FK Pardubice",
           "result": {
-            "full_time": "4-1"
+            "breakdown": [
+              "4-0"
+            ],
+            "full_time": "4-0"
           }
         },
         {
@@ -1740,7 +2235,10 @@
           "home_team": "SFC Opava",
           "away_team": "FK Jablonec",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1749,7 +2247,10 @@
           "home_team": "Baník Ostrava",
           "away_team": "FK Teplice",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1758,7 +2259,10 @@
           "home_team": "Bohemians Praha 1905",
           "away_team": "Dynamo České Budějovice",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1767,7 +2271,10 @@
           "home_team": "Zbrojovka Brno",
           "away_team": "Viktoria Plzeň",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1776,6 +2283,9 @@
           "home_team": "FK Mladá Boleslav",
           "away_team": "MFK Karviná",
           "result": {
+            "breakdown": [
+              "2-0"
+            ],
             "full_time": "2-0"
           }
         },
@@ -1785,6 +2295,9 @@
           "home_team": "Sigma Olomouc",
           "away_team": "FC Fastav Zlín",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -1794,7 +2307,10 @@
           "home_team": "1. FC Slovácko",
           "away_team": "Slavia Praha",
           "result": {
-            "full_time": "2-3"
+            "breakdown": [
+              "2-1"
+            ],
+            "full_time": "2-1"
           }
         },
         {
@@ -1803,7 +2319,10 @@
           "home_team": "AC Sparta Praha",
           "away_team": "1. FK Příbram",
           "result": {
-            "full_time": "4-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         }
       ]
@@ -1817,7 +2336,10 @@
           "home_team": "1. FK Příbram",
           "away_team": "Slovan Liberec",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1835,7 +2357,10 @@
           "home_team": "FK Teplice",
           "away_team": "SFC Opava",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -1844,7 +2369,10 @@
           "home_team": "Viktoria Plzeň",
           "away_team": "Sigma Olomouc",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1853,7 +2381,10 @@
           "home_team": "Dynamo České Budějovice",
           "away_team": "FK Mladá Boleslav",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1862,7 +2393,10 @@
           "home_team": "MFK Karviná",
           "away_team": "Zbrojovka Brno",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1871,7 +2405,10 @@
           "home_team": "Slavia Praha",
           "away_team": "Baník Ostrava",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -1880,7 +2417,10 @@
           "home_team": "FK Pardubice",
           "away_team": "1. FC Slovácko",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "2-1"
+            ],
+            "full_time": "2-1"
           }
         },
         {
@@ -1889,7 +2429,10 @@
           "home_team": "FK Jablonec",
           "away_team": "AC Sparta Praha",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -1903,7 +2446,10 @@
           "home_team": "Slovan Liberec",
           "away_team": "FK Teplice",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1912,6 +2458,9 @@
           "home_team": "SFC Opava",
           "away_team": "FK Pardubice",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -1921,7 +2470,10 @@
           "home_team": "Baník Ostrava",
           "away_team": "1. FK Příbram",
           "result": {
-            "full_time": "5-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -1930,7 +2482,10 @@
           "home_team": "FC Fastav Zlín",
           "away_team": "Dynamo České Budějovice",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1939,7 +2494,10 @@
           "home_team": "Bohemians Praha 1905",
           "away_team": "MFK Karviná",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1948,7 +2506,10 @@
           "home_team": "Zbrojovka Brno",
           "away_team": "FK Jablonec",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1957,7 +2518,10 @@
           "home_team": "FK Mladá Boleslav",
           "away_team": "Slavia Praha",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -1975,7 +2539,10 @@
           "home_team": "AC Sparta Praha",
           "away_team": "Viktoria Plzeň",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         }
       ]
@@ -1989,7 +2556,10 @@
           "home_team": "FK Pardubice",
           "away_team": "FK Mladá Boleslav",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1998,7 +2568,10 @@
           "home_team": "1. FK Příbram",
           "away_team": "Zbrojovka Brno",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -2007,7 +2580,10 @@
           "home_team": "MFK Karviná",
           "away_team": "Sigma Olomouc",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2016,7 +2592,10 @@
           "home_team": "FK Jablonec",
           "away_team": "Slovan Liberec",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2025,7 +2604,10 @@
           "home_team": "1. FC Slovácko",
           "away_team": "Baník Ostrava",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -2034,7 +2616,10 @@
           "home_team": "FK Teplice",
           "away_team": "Bohemians Praha 1905",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2052,7 +2637,10 @@
           "home_team": "Slavia Praha",
           "away_team": "SFC Opava",
           "result": {
-            "full_time": "4-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2061,7 +2649,10 @@
           "home_team": "Viktoria Plzeň",
           "away_team": "FC Fastav Zlín",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         }
       ]
@@ -2084,7 +2675,10 @@
           "home_team": "Sigma Olomouc",
           "away_team": "FK Pardubice",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2093,7 +2687,10 @@
           "home_team": "SFC Opava",
           "away_team": "1. FC Slovácko",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2111,7 +2708,10 @@
           "home_team": "AC Sparta Praha",
           "away_team": "FK Teplice",
           "result": {
-            "full_time": "7-2"
+            "breakdown": [
+              "4-1"
+            ],
+            "full_time": "4-1"
           }
         },
         {
@@ -2120,7 +2720,10 @@
           "home_team": "FC Fastav Zlín",
           "away_team": "MFK Karviná",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -2138,7 +2741,10 @@
           "home_team": "Viktoria Plzeň",
           "away_team": "Dynamo České Budějovice",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -2161,7 +2767,10 @@
           "home_team": "FK Pardubice",
           "away_team": "Bohemians Praha 1905",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -2170,7 +2779,10 @@
           "home_team": "FK Jablonec",
           "away_team": "FC Fastav Zlín",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2179,7 +2791,10 @@
           "home_team": "1. FK Příbram",
           "away_team": "Sigma Olomouc",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2188,7 +2803,10 @@
           "home_team": "MFK Karviná",
           "away_team": "Viktoria Plzeň",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2197,7 +2815,10 @@
           "home_team": "Baník Ostrava",
           "away_team": "SFC Opava",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -2206,7 +2827,10 @@
           "home_team": "1. FC Slovácko",
           "away_team": "Slovan Liberec",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2215,7 +2839,10 @@
           "home_team": "Dynamo České Budějovice",
           "away_team": "Zbrojovka Brno",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2224,7 +2851,10 @@
           "home_team": "FK Teplice",
           "away_team": "FK Mladá Boleslav",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -2233,7 +2863,10 @@
           "home_team": "Slavia Praha",
           "away_team": "AC Sparta Praha",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         }
       ]
@@ -2247,7 +2880,10 @@
           "home_team": "Bohemians Praha 1905",
           "away_team": "Baník Ostrava",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2256,7 +2892,10 @@
           "home_team": "FK Mladá Boleslav",
           "away_team": "SFC Opava",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2265,7 +2904,10 @@
           "home_team": "MFK Karviná",
           "away_team": "Dynamo České Budějovice",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -2274,7 +2916,10 @@
           "home_team": "Sigma Olomouc",
           "away_team": "FK Teplice",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2283,7 +2928,10 @@
           "home_team": "Viktoria Plzeň",
           "away_team": "FK Jablonec",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2292,7 +2940,10 @@
           "home_team": "Zbrojovka Brno",
           "away_team": "FK Pardubice",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -2301,7 +2952,10 @@
           "home_team": "FC Fastav Zlín",
           "away_team": "1. FK Příbram",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2310,7 +2964,10 @@
           "home_team": "Slovan Liberec",
           "away_team": "Slavia Praha",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2319,7 +2976,10 @@
           "home_team": "AC Sparta Praha",
           "away_team": "1. FC Slovácko",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -2333,7 +2993,10 @@
           "home_team": "Baník Ostrava",
           "away_team": "FK Mladá Boleslav",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -2342,7 +3005,10 @@
           "home_team": "Dynamo České Budějovice",
           "away_team": "Sigma Olomouc",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -2351,6 +3017,9 @@
           "home_team": "FK Jablonec",
           "away_team": "MFK Karviná",
           "result": {
+            "breakdown": [
+              "3-0"
+            ],
             "full_time": "3-0"
           }
         },
@@ -2360,7 +3029,10 @@
           "home_team": "1. FC Slovácko",
           "away_team": "Zbrojovka Brno",
           "result": {
-            "full_time": "4-2"
+            "breakdown": [
+              "2-1"
+            ],
+            "full_time": "2-1"
           }
         },
         {
@@ -2369,7 +3041,10 @@
           "home_team": "1. FK Příbram",
           "away_team": "Bohemians Praha 1905",
           "result": {
-            "full_time": "1-4"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2378,7 +3053,10 @@
           "home_team": "FK Teplice",
           "away_team": "Viktoria Plzeň",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2387,6 +3065,9 @@
           "home_team": "SFC Opava",
           "away_team": "Slovan Liberec",
           "result": {
+            "breakdown": [
+              "0-2"
+            ],
             "full_time": "0-2"
           }
         },
@@ -2396,7 +3077,10 @@
           "home_team": "FK Pardubice",
           "away_team": "AC Sparta Praha",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -2405,7 +3089,10 @@
           "home_team": "Slavia Praha",
           "away_team": "FC Fastav Zlín",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         }
       ]
@@ -2419,6 +3106,9 @@
           "home_team": "Dynamo České Budějovice",
           "away_team": "FK Jablonec",
           "result": {
+            "breakdown": [
+              "0-2"
+            ],
             "full_time": "0-2"
           }
         },
@@ -2428,7 +3118,10 @@
           "home_team": "Sigma Olomouc",
           "away_team": "Baník Ostrava",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -2437,6 +3130,9 @@
           "home_team": "FK Mladá Boleslav",
           "away_team": "Slovan Liberec",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -2446,7 +3142,10 @@
           "home_team": "Viktoria Plzeň",
           "away_team": "1. FC Slovácko",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -2464,7 +3163,10 @@
           "home_team": "FC Fastav Zlín",
           "away_team": "FK Pardubice",
           "result": {
-            "full_time": "0-4"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -2473,6 +3175,9 @@
           "home_team": "MFK Karviná",
           "away_team": "1. FK Příbram",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -2482,7 +3187,10 @@
           "home_team": "AC Sparta Praha",
           "away_team": "SFC Opava",
           "result": {
-            "full_time": "4-2"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -2505,6 +3213,9 @@
           "home_team": "1. FK Příbram",
           "away_team": "Dynamo České Budějovice",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -2514,7 +3225,10 @@
           "home_team": "SFC Opava",
           "away_team": "Bohemians Praha 1905",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2523,6 +3237,9 @@
           "home_team": "1. FC Slovácko",
           "away_team": "FK Mladá Boleslav",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -2532,7 +3249,10 @@
           "home_team": "Baník Ostrava",
           "away_team": "Zbrojovka Brno",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2541,7 +3261,10 @@
           "home_team": "FK Jablonec",
           "away_team": "Sigma Olomouc",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -2550,7 +3273,10 @@
           "home_team": "FK Pardubice",
           "away_team": "MFK Karviná",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -2568,7 +3294,10 @@
           "home_team": "Slovan Liberec",
           "away_team": "AC Sparta Praha",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2577,7 +3306,10 @@
           "home_team": "Slavia Praha",
           "away_team": "Viktoria Plzeň",
           "result": {
-            "full_time": "5-1"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         }
       ]
@@ -2591,7 +3323,10 @@
           "home_team": "FK Jablonec",
           "away_team": "FK Teplice",
           "result": {
-            "full_time": "4-1"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -2600,7 +3335,10 @@
           "home_team": "FC Fastav Zlín",
           "away_team": "SFC Opava",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -2609,7 +3347,10 @@
           "home_team": "Zbrojovka Brno",
           "away_team": "FK Mladá Boleslav",
           "result": {
-            "full_time": "2-3"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -2618,7 +3359,10 @@
           "home_team": "Viktoria Plzeň",
           "away_team": "1. FK Příbram",
           "result": {
-            "full_time": "3-3"
+            "breakdown": [
+              "1-2"
+            ],
+            "full_time": "1-2"
           }
         },
         {
@@ -2627,7 +3371,10 @@
           "home_team": "Bohemians Praha 1905",
           "away_team": "Slovan Liberec",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2636,7 +3383,10 @@
           "home_team": "Dynamo České Budějovice",
           "away_team": "FK Pardubice",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2645,7 +3395,10 @@
           "home_team": "MFK Karviná",
           "away_team": "1. FC Slovácko",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -2654,7 +3407,10 @@
           "home_team": "Sigma Olomouc",
           "away_team": "Slavia Praha",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2663,7 +3419,10 @@
           "home_team": "AC Sparta Praha",
           "away_team": "Baník Ostrava",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         }
       ]
@@ -2677,7 +3436,10 @@
           "home_team": "Slovan Liberec",
           "away_team": "Zbrojovka Brno",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2686,7 +3448,10 @@
           "home_team": "SFC Opava",
           "away_team": "Sigma Olomouc",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -2695,7 +3460,10 @@
           "home_team": "Baník Ostrava",
           "away_team": "FC Fastav Zlín",
           "result": {
-            "full_time": "4-2"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -2704,7 +3472,10 @@
           "home_team": "1. FK Příbram",
           "away_team": "FK Jablonec",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2713,6 +3484,9 @@
           "home_team": "1. FC Slovácko",
           "away_team": "Bohemians Praha 1905",
           "result": {
+            "breakdown": [
+              "1-1"
+            ],
             "full_time": "1-1"
           }
         },
@@ -2722,7 +3496,10 @@
           "home_team": "FK Pardubice",
           "away_team": "Viktoria Plzeň",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2731,7 +3508,10 @@
           "home_team": "FK Teplice",
           "away_team": "Dynamo České Budějovice",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2740,7 +3520,10 @@
           "home_team": "FK Mladá Boleslav",
           "away_team": "AC Sparta Praha",
           "result": {
-            "full_time": "4-5"
+            "breakdown": [
+              "2-2"
+            ],
+            "full_time": "2-2"
           }
         },
         {
@@ -2749,7 +3532,10 @@
           "home_team": "Slavia Praha",
           "away_team": "MFK Karviná",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         }
       ]
@@ -2763,7 +3549,10 @@
           "home_team": "Zbrojovka Brno",
           "away_team": "SFC Opava",
           "result": {
-            "full_time": "4-1"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -2772,7 +3561,10 @@
           "home_team": "Bohemians Praha 1905",
           "away_team": "AC Sparta Praha",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -2781,6 +3573,9 @@
           "home_team": "Dynamo České Budějovice",
           "away_team": "1. FC Slovácko",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -2799,6 +3594,9 @@
           "home_team": "FK Jablonec",
           "away_team": "Slavia Praha",
           "result": {
+            "breakdown": [
+              "1-1"
+            ],
             "full_time": "1-1"
           }
         },
@@ -2808,6 +3606,9 @@
           "home_team": "1. FK Příbram",
           "away_team": "FK Pardubice",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -2817,7 +3618,10 @@
           "home_team": "MFK Karviná",
           "away_team": "FK Teplice",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2826,7 +3630,10 @@
           "home_team": "Sigma Olomouc",
           "away_team": "FK Mladá Boleslav",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -2835,7 +3642,10 @@
           "home_team": "Viktoria Plzeň",
           "away_team": "Baník Ostrava",
           "result": {
-            "full_time": "4-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         }
       ]
@@ -2849,7 +3659,10 @@
           "home_team": "1. FC Slovácko",
           "away_team": "FC Fastav Zlín",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2858,7 +3671,10 @@
           "home_team": "Baník Ostrava",
           "away_team": "MFK Karviná",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2867,7 +3683,10 @@
           "home_team": "FK Mladá Boleslav",
           "away_team": "Bohemians Praha 1905",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2876,7 +3695,10 @@
           "home_team": "FK Pardubice",
           "away_team": "FK Jablonec",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2885,7 +3707,10 @@
           "home_team": "FK Teplice",
           "away_team": "1. FK Příbram",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -2894,7 +3719,10 @@
           "home_team": "Slavia Praha",
           "away_team": "Dynamo České Budějovice",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -2903,6 +3731,9 @@
           "home_team": "SFC Opava",
           "away_team": "Viktoria Plzeň",
           "result": {
+            "breakdown": [
+              "1-3"
+            ],
             "full_time": "1-3"
           }
         },
@@ -2912,7 +3743,10 @@
           "home_team": "Slovan Liberec",
           "away_team": "Sigma Olomouc",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -2921,6 +3755,9 @@
           "home_team": "AC Sparta Praha",
           "away_team": "Zbrojovka Brno",
           "result": {
+            "breakdown": [
+              "6-1"
+            ],
             "full_time": "6-1"
           }
         }

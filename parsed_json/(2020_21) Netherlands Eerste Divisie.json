@@ -11,7 +11,10 @@
           "home_team": "FC Utrecht J",
           "away_team": "FC Eindhoven",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -20,7 +23,10 @@
           "home_team": "SC Cambuur",
           "away_team": "NEC Nijmegen",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -29,7 +35,10 @@
           "home_team": "Jong PSV",
           "away_team": "SBV Excelsior",
           "result": {
-            "full_time": "1-6"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -38,7 +47,10 @@
           "home_team": "TOP Oss",
           "away_team": "Helmond Sport",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -47,7 +59,10 @@
           "home_team": "NAC Breda",
           "away_team": "AZ Alkmaar J",
           "result": {
-            "full_time": "6-1"
+            "breakdown": [
+              "3-0"
+            ],
+            "full_time": "3-0"
           }
         },
         {
@@ -56,7 +71,10 @@
           "home_team": "Telstar",
           "away_team": "FC Volendam",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "2-1"
+            ],
+            "full_time": "2-1"
           }
         },
         {
@@ -65,7 +83,10 @@
           "home_team": "Jong Ajax",
           "away_team": "Roda JC Kerkrade",
           "result": {
-            "full_time": "0-4"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -92,7 +113,10 @@
           "home_team": "De Graafschap",
           "away_team": "FC Den Bosch",
           "result": {
-            "full_time": "4-2"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         }
       ]
@@ -106,7 +130,10 @@
           "home_team": "FC Eindhoven",
           "away_team": "Telstar",
           "result": {
-            "full_time": "2-3"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -115,7 +142,10 @@
           "home_team": "MVV",
           "away_team": "SC Cambuur",
           "result": {
-            "full_time": "1-7"
+            "breakdown": [
+              "1-4"
+            ],
+            "full_time": "1-4"
           }
         },
         {
@@ -124,6 +154,9 @@
           "home_team": "Roda JC Kerkrade",
           "away_team": "TOP Oss",
           "result": {
+            "breakdown": [
+              "3-0"
+            ],
             "full_time": "3-0"
           }
         },
@@ -133,7 +166,10 @@
           "home_team": "SBV Excelsior",
           "away_team": "Almere City FC",
           "result": {
-            "full_time": "4-6"
+            "breakdown": [
+              "3-4"
+            ],
+            "full_time": "3-4"
           }
         },
         {
@@ -142,7 +178,10 @@
           "home_team": "FC Den Bosch",
           "away_team": "FC Dordrecht",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -151,7 +190,10 @@
           "home_team": "Helmond Sport",
           "away_team": "NAC Breda",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -160,6 +202,9 @@
           "home_team": "Jong Ajax",
           "away_team": "Jong PSV",
           "result": {
+            "breakdown": [
+              "1-2"
+            ],
             "full_time": "1-2"
           }
         },
@@ -169,7 +214,10 @@
           "home_team": "FC Utrecht J",
           "away_team": "AZ Alkmaar J",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -178,7 +226,10 @@
           "home_team": "FC Volendam",
           "away_team": "NEC Nijmegen",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -201,7 +252,10 @@
           "home_team": "FC Dordrecht",
           "away_team": "SBV Excelsior",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "1-2"
+            ],
+            "full_time": "1-2"
           }
         },
         {
@@ -210,7 +264,10 @@
           "home_team": "FC Volendam",
           "away_team": "FC Utrecht J",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -228,7 +285,10 @@
           "home_team": "AZ Alkmaar J",
           "away_team": "Jong PSV",
           "result": {
-            "full_time": "1-4"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -237,7 +297,10 @@
           "home_team": "NEC Nijmegen",
           "away_team": "Jong Ajax",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -246,7 +309,10 @@
           "home_team": "SC Cambuur",
           "away_team": "Go Ahead Eagles",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -255,7 +321,10 @@
           "home_team": "De Graafschap",
           "away_team": "Roda JC Kerkrade",
           "result": {
-            "full_time": "4-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -264,7 +333,10 @@
           "home_team": "Telstar",
           "away_team": "MVV",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -273,7 +345,10 @@
           "home_team": "NAC Breda",
           "away_team": "FC Den Bosch",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -282,7 +357,10 @@
           "home_team": "Almere City FC",
           "away_team": "TOP Oss",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         }
       ]
@@ -296,7 +374,10 @@
           "home_team": "Jong PSV",
           "away_team": "FC Eindhoven",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -305,7 +386,10 @@
           "home_team": "Helmond Sport",
           "away_team": "FC Volendam",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -314,7 +398,10 @@
           "home_team": "Go Ahead Eagles",
           "away_team": "Jong Ajax",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -323,7 +410,10 @@
           "home_team": "Roda JC Kerkrade",
           "away_team": "FC Dordrecht",
           "result": {
-            "full_time": "4-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -332,7 +422,10 @@
           "home_team": "TOP Oss",
           "away_team": "SC Cambuur",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-2"
+            ],
+            "full_time": "1-2"
           }
         },
         {
@@ -341,7 +434,10 @@
           "home_team": "NEC Nijmegen",
           "away_team": "Almere City FC",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -350,7 +446,10 @@
           "home_team": "AZ Alkmaar J",
           "away_team": "De Graafschap",
           "result": {
-            "full_time": "7-3"
+            "breakdown": [
+              "5-1"
+            ],
+            "full_time": "5-1"
           }
         },
         {
@@ -359,7 +458,10 @@
           "home_team": "FC Utrecht J",
           "away_team": "NAC Breda",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -368,7 +470,10 @@
           "home_team": "SBV Excelsior",
           "away_team": "Telstar",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -377,7 +482,10 @@
           "home_team": "FC Den Bosch",
           "away_team": "MVV",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -391,7 +499,10 @@
           "home_team": "Almere City FC",
           "away_team": "Helmond Sport",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -400,7 +511,10 @@
           "home_team": "FC Dordrecht",
           "away_team": "AZ Alkmaar J",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -409,7 +523,10 @@
           "home_team": "MVV",
           "away_team": "TOP Oss",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -418,7 +535,10 @@
           "home_team": "SC Cambuur",
           "away_team": "FC Utrecht J",
           "result": {
-            "full_time": "5-2"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -427,7 +547,10 @@
           "home_team": "NAC Breda",
           "away_team": "Jong PSV",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -436,7 +559,10 @@
           "home_team": "De Graafschap",
           "away_team": "NEC Nijmegen",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -454,7 +580,10 @@
           "home_team": "Jong Ajax",
           "away_team": "SBV Excelsior",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -463,7 +592,10 @@
           "home_team": "Telstar",
           "away_team": "FC Den Bosch",
           "result": {
-            "full_time": "6-1"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -472,7 +604,10 @@
           "home_team": "FC Eindhoven",
           "away_team": "Roda JC Kerkrade",
           "result": {
-            "full_time": "3-3"
+            "breakdown": [
+              "2-3"
+            ],
+            "full_time": "2-3"
           }
         }
       ]
@@ -486,7 +621,10 @@
           "home_team": "Go Ahead Eagles",
           "away_team": "FC Utrecht J",
           "result": {
-            "full_time": "2-3"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -495,7 +633,10 @@
           "home_team": "Jong PSV",
           "away_team": "Telstar",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -504,7 +645,10 @@
           "home_team": "AZ Alkmaar J",
           "away_team": "MVV",
           "result": {
-            "full_time": "3-3"
+            "breakdown": [
+              "2-1"
+            ],
+            "full_time": "2-1"
           }
         },
         {
@@ -513,7 +657,10 @@
           "home_team": "NAC Breda",
           "away_team": "Jong Ajax",
           "result": {
-            "full_time": "4-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -522,7 +669,10 @@
           "home_team": "NEC Nijmegen",
           "away_team": "FC Eindhoven",
           "result": {
-            "full_time": "6-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -531,7 +681,10 @@
           "home_team": "Roda JC Kerkrade",
           "away_team": "FC Volendam",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -540,7 +693,10 @@
           "home_team": "SBV Excelsior",
           "away_team": "De Graafschap",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -549,7 +705,10 @@
           "home_team": "TOP Oss",
           "away_team": "FC Dordrecht",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -558,7 +717,10 @@
           "home_team": "Helmond Sport",
           "away_team": "SC Cambuur",
           "result": {
-            "full_time": "1-5"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -567,7 +729,10 @@
           "home_team": "FC Den Bosch",
           "away_team": "Almere City FC",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         }
       ]
@@ -581,7 +746,10 @@
           "home_team": "FC Eindhoven",
           "away_team": "SBV Excelsior",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -590,6 +758,9 @@
           "home_team": "MVV",
           "away_team": "Go Ahead Eagles",
           "result": {
+            "breakdown": [
+              "0-2"
+            ],
             "full_time": "0-2"
           }
         },
@@ -599,6 +770,9 @@
           "home_team": "Almere City FC",
           "away_team": "Roda JC Kerkrade",
           "result": {
+            "breakdown": [
+              "2-1"
+            ],
             "full_time": "2-1"
           }
         },
@@ -608,7 +782,10 @@
           "home_team": "Telstar",
           "away_team": "TOP Oss",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -617,7 +794,10 @@
           "home_team": "SC Cambuur",
           "away_team": "FC Dordrecht",
           "result": {
-            "full_time": "5-0"
+            "breakdown": [
+              "3-0"
+            ],
+            "full_time": "3-0"
           }
         },
         {
@@ -626,7 +806,10 @@
           "home_team": "FC Den Bosch",
           "away_team": "Helmond Sport",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -635,7 +818,10 @@
           "home_team": "Jong Ajax",
           "away_team": "FC Utrecht J",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -644,7 +830,10 @@
           "home_team": "AZ Alkmaar J",
           "away_team": "FC Volendam",
           "result": {
-            "full_time": "2-6"
+            "breakdown": [
+              "1-4"
+            ],
+            "full_time": "1-4"
           }
         },
         {
@@ -653,7 +842,10 @@
           "home_team": "Jong PSV",
           "away_team": "NEC Nijmegen",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -662,6 +854,9 @@
           "home_team": "De Graafschap",
           "away_team": "NAC Breda",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         }
@@ -676,7 +871,10 @@
           "home_team": "Jong Ajax",
           "away_team": "AZ Alkmaar J",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "2-1"
+            ],
+            "full_time": "2-1"
           }
         },
         {
@@ -685,7 +883,10 @@
           "home_team": "FC Utrecht J",
           "away_team": "NEC Nijmegen",
           "result": {
-            "full_time": "1-4"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -694,7 +895,10 @@
           "home_team": "SBV Excelsior",
           "away_team": "MVV",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -703,7 +907,10 @@
           "home_team": "FC Volendam",
           "away_team": "Jong PSV",
           "result": {
-            "full_time": "5-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -712,7 +919,10 @@
           "home_team": "Go Ahead Eagles",
           "away_team": "FC Eindhoven",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -721,7 +931,10 @@
           "home_team": "FC Dordrecht",
           "away_team": "Almere City FC",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "2-1"
+            ],
+            "full_time": "2-1"
           }
         },
         {
@@ -730,7 +943,10 @@
           "home_team": "Helmond Sport",
           "away_team": "De Graafschap",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -739,7 +955,10 @@
           "home_team": "Roda JC Kerkrade",
           "away_team": "Telstar",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -748,7 +967,10 @@
           "home_team": "NAC Breda",
           "away_team": "SC Cambuur",
           "result": {
-            "full_time": "0-4"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -757,7 +979,10 @@
           "home_team": "TOP Oss",
           "away_team": "FC Den Bosch",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         }
       ]
@@ -771,7 +996,10 @@
           "home_team": "FC Volendam",
           "away_team": "FC Dordrecht",
           "result": {
-            "full_time": "7-1"
+            "breakdown": [
+              "4-0"
+            ],
+            "full_time": "4-0"
           }
         },
         {
@@ -780,7 +1008,10 @@
           "home_team": "MVV",
           "away_team": "Jong Ajax",
           "result": {
-            "full_time": "1-5"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -789,7 +1020,10 @@
           "home_team": "NEC Nijmegen",
           "away_team": "Go Ahead Eagles",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -798,7 +1032,10 @@
           "home_team": "Telstar",
           "away_team": "Helmond Sport",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -807,7 +1044,10 @@
           "home_team": "Almere City FC",
           "away_team": "NAC Breda",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -816,7 +1056,10 @@
           "home_team": "De Graafschap",
           "away_team": "Jong PSV",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -825,7 +1068,10 @@
           "home_team": "FC Den Bosch",
           "away_team": "SBV Excelsior",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -834,7 +1080,10 @@
           "home_team": "FC Eindhoven",
           "away_team": "AZ Alkmaar J",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -843,7 +1092,10 @@
           "home_team": "SC Cambuur",
           "away_team": "Roda JC Kerkrade",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -852,6 +1104,9 @@
           "home_team": "FC Utrecht J",
           "away_team": "TOP Oss",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         }
@@ -866,7 +1121,10 @@
           "home_team": "Helmond Sport",
           "away_team": "MVV",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -875,7 +1133,10 @@
           "home_team": "Jong Ajax",
           "away_team": "Almere City FC",
           "result": {
-            "full_time": "1-4"
+            "breakdown": [
+              "0-3"
+            ],
+            "full_time": "0-3"
           }
         },
         {
@@ -884,7 +1145,10 @@
           "home_team": "TOP Oss",
           "away_team": "De Graafschap",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -893,6 +1157,9 @@
           "home_team": "NAC Breda",
           "away_team": "NEC Nijmegen",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -920,6 +1187,9 @@
           "home_team": "FC Volendam",
           "away_team": "FC Eindhoven",
           "result": {
+            "breakdown": [
+              "2-0"
+            ],
             "full_time": "2-0"
           }
         },
@@ -929,6 +1199,9 @@
           "home_team": "AZ Alkmaar J",
           "away_team": "Telstar",
           "result": {
+            "breakdown": [
+              "1-1"
+            ],
             "full_time": "1-1"
           }
         },
@@ -938,7 +1211,10 @@
           "home_team": "FC Dordrecht",
           "away_team": "FC Utrecht J",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -947,7 +1223,10 @@
           "home_team": "Jong PSV",
           "away_team": "SC Cambuur",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -961,7 +1240,10 @@
           "home_team": "FC Den Bosch",
           "away_team": "Jong PSV",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -970,7 +1252,10 @@
           "home_team": "MVV",
           "away_team": "NAC Breda",
           "result": {
-            "full_time": "1-4"
+            "breakdown": [
+              "1-2"
+            ],
+            "full_time": "1-2"
           }
         },
         {
@@ -979,7 +1264,10 @@
           "home_team": "Almere City FC",
           "away_team": "AZ Alkmaar J",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -988,7 +1276,10 @@
           "home_team": "NEC Nijmegen",
           "away_team": "Helmond Sport",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -997,7 +1288,10 @@
           "home_team": "De Graafschap",
           "away_team": "FC Volendam",
           "result": {
-            "full_time": "2-5"
+            "breakdown": [
+              "2-2"
+            ],
+            "full_time": "2-2"
           }
         },
         {
@@ -1006,7 +1300,10 @@
           "home_team": "SC Cambuur",
           "away_team": "Jong Ajax",
           "result": {
-            "full_time": "2-3"
+            "breakdown": [
+              "2-1"
+            ],
+            "full_time": "2-1"
           }
         },
         {
@@ -1015,7 +1312,10 @@
           "home_team": "FC Eindhoven",
           "away_team": "FC Dordrecht",
           "result": {
-            "full_time": "5-1"
+            "breakdown": [
+              "3-0"
+            ],
+            "full_time": "3-0"
           }
         },
         {
@@ -1024,7 +1324,10 @@
           "home_team": "FC Utrecht J",
           "away_team": "Roda JC Kerkrade",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1033,7 +1336,10 @@
           "home_team": "SBV Excelsior",
           "away_team": "TOP Oss",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1042,7 +1348,10 @@
           "home_team": "Telstar",
           "away_team": "Go Ahead Eagles",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -1056,7 +1365,10 @@
           "home_team": "Helmond Sport",
           "away_team": "SBV Excelsior",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1065,7 +1377,10 @@
           "home_team": "TOP Oss",
           "away_team": "FC Eindhoven",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1074,7 +1389,10 @@
           "home_team": "FC Dordrecht",
           "away_team": "De Graafschap",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1083,7 +1401,10 @@
           "home_team": "NAC Breda",
           "away_team": "Telstar",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1092,7 +1413,10 @@
           "home_team": "Roda JC Kerkrade",
           "away_team": "MVV",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1101,6 +1425,9 @@
           "home_team": "Go Ahead Eagles",
           "away_team": "FC Den Bosch",
           "result": {
+            "breakdown": [
+              "3-0"
+            ],
             "full_time": "3-0"
           }
         },
@@ -1110,7 +1437,10 @@
           "home_team": "SC Cambuur",
           "away_team": "Almere City FC",
           "result": {
-            "full_time": "7-2"
+            "breakdown": [
+              "4-1"
+            ],
+            "full_time": "4-1"
           }
         },
         {
@@ -1119,7 +1449,10 @@
           "home_team": "AZ Alkmaar J",
           "away_team": "NEC Nijmegen",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -1128,6 +1461,9 @@
           "home_team": "Jong Ajax",
           "away_team": "FC Volendam",
           "result": {
+            "breakdown": [
+              "1-1"
+            ],
             "full_time": "1-1"
           }
         },
@@ -1137,7 +1473,10 @@
           "home_team": "Jong PSV",
           "away_team": "FC Utrecht J",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         }
       ]
@@ -1151,7 +1490,10 @@
           "home_team": "Telstar",
           "away_team": "FC Dordrecht",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1160,7 +1502,10 @@
           "home_team": "De Graafschap",
           "away_team": "SC Cambuur",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1169,7 +1514,10 @@
           "home_team": "SBV Excelsior",
           "away_team": "AZ Alkmaar J",
           "result": {
-            "full_time": "4-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1178,7 +1526,10 @@
           "home_team": "FC Volendam",
           "away_team": "TOP Oss",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1187,7 +1538,10 @@
           "home_team": "NEC Nijmegen",
           "away_team": "Roda JC Kerkrade",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1196,7 +1550,10 @@
           "home_team": "FC Den Bosch",
           "away_team": "Jong Ajax",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -1205,7 +1562,10 @@
           "home_team": "FC Utrecht J",
           "away_team": "Helmond Sport",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -1214,7 +1574,10 @@
           "home_team": "MVV",
           "away_team": "Jong PSV",
           "result": {
-            "full_time": "3-3"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -1223,7 +1586,10 @@
           "home_team": "FC Eindhoven",
           "away_team": "NAC Breda",
           "result": {
-            "full_time": "2-4"
+            "breakdown": [
+              "1-2"
+            ],
+            "full_time": "1-2"
           }
         },
         {
@@ -1232,7 +1598,10 @@
           "home_team": "Almere City FC",
           "away_team": "Go Ahead Eagles",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         }
       ]
@@ -1255,7 +1624,10 @@
           "home_team": "SC Cambuur",
           "away_team": "FC Den Bosch",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -1264,7 +1636,10 @@
           "home_team": "FC Volendam",
           "away_team": "Almere City FC",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -1273,6 +1648,9 @@
           "home_team": "Helmond Sport",
           "away_team": "Jong PSV",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -1282,7 +1660,10 @@
           "home_team": "Roda JC Kerkrade",
           "away_team": "SBV Excelsior",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -1291,7 +1672,10 @@
           "home_team": "FC Dordrecht",
           "away_team": "Jong Ajax",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "2-1"
+            ],
+            "full_time": "2-1"
           }
         },
         {
@@ -1300,7 +1684,10 @@
           "home_team": "FC Eindhoven",
           "away_team": "De Graafschap",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -1309,7 +1696,10 @@
           "home_team": "FC Utrecht J",
           "away_team": "Telstar",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -1318,7 +1708,10 @@
           "home_team": "NEC Nijmegen",
           "away_team": "MVV",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -1327,7 +1720,10 @@
           "home_team": "Go Ahead Eagles",
           "away_team": "AZ Alkmaar J",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -1341,7 +1737,10 @@
           "home_team": "MVV",
           "away_team": "De Graafschap",
           "result": {
-            "full_time": "2-3"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -1350,7 +1749,10 @@
           "home_team": "Telstar",
           "away_team": "SC Cambuur",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1359,7 +1761,10 @@
           "home_team": "Almere City FC",
           "away_team": "FC Utrecht J",
           "result": {
-            "full_time": "4-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1368,6 +1773,9 @@
           "home_team": "Helmond Sport",
           "away_team": "Go Ahead Eagles",
           "result": {
+            "breakdown": [
+              "0-2"
+            ],
             "full_time": "0-2"
           }
         },
@@ -1377,6 +1785,9 @@
           "home_team": "AZ Alkmaar J",
           "away_team": "TOP Oss",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -1386,6 +1797,9 @@
           "home_team": "Jong PSV",
           "away_team": "Roda JC Kerkrade",
           "result": {
+            "breakdown": [
+              "1-1"
+            ],
             "full_time": "1-1"
           }
         },
@@ -1395,6 +1809,9 @@
           "home_team": "FC Den Bosch",
           "away_team": "NEC Nijmegen",
           "result": {
+            "breakdown": [
+              "2-2"
+            ],
             "full_time": "2-2"
           }
         },
@@ -1404,7 +1821,10 @@
           "home_team": "NAC Breda",
           "away_team": "FC Dordrecht",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1413,7 +1833,10 @@
           "home_team": "Jong Ajax",
           "away_team": "FC Eindhoven",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1422,7 +1845,10 @@
           "home_team": "SBV Excelsior",
           "away_team": "FC Volendam",
           "result": {
-            "full_time": "2-3"
+            "breakdown": [
+              "2-2"
+            ],
+            "full_time": "2-2"
           }
         }
       ]
@@ -1436,7 +1862,10 @@
           "home_team": "TOP Oss",
           "away_team": "Jong PSV",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -1445,7 +1874,10 @@
           "home_team": "FC Volendam",
           "away_team": "FC Den Bosch",
           "result": {
-            "full_time": "6-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -1454,7 +1886,10 @@
           "home_team": "FC Utrecht J",
           "away_team": "SBV Excelsior",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -1463,7 +1898,10 @@
           "home_team": "De Graafschap",
           "away_team": "Jong Ajax",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "2-1"
+            ],
+            "full_time": "2-1"
           }
         },
         {
@@ -1481,7 +1919,10 @@
           "home_team": "Telstar",
           "away_team": "Almere City FC",
           "result": {
-            "full_time": "2-3"
+            "breakdown": [
+              "1-3"
+            ],
+            "full_time": "1-3"
           }
         },
         {
@@ -1490,7 +1931,10 @@
           "home_team": "FC Dordrecht",
           "away_team": "NEC Nijmegen",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -1499,7 +1943,10 @@
           "home_team": "SC Cambuur",
           "away_team": "AZ Alkmaar J",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1508,7 +1955,10 @@
           "home_team": "FC Eindhoven",
           "away_team": "MVV",
           "result": {
-            "full_time": "4-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1517,7 +1967,10 @@
           "home_team": "Roda JC Kerkrade",
           "away_team": "Helmond Sport",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         }
       ]
@@ -1531,7 +1984,10 @@
           "home_team": "FC Den Bosch",
           "away_team": "FC Eindhoven",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1540,7 +1996,10 @@
           "home_team": "NAC Breda",
           "away_team": "FC Volendam",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1549,7 +2008,10 @@
           "home_team": "MVV",
           "away_team": "FC Dordrecht",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1558,7 +2020,10 @@
           "home_team": "AZ Alkmaar J",
           "away_team": "Helmond Sport",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -1567,7 +2032,10 @@
           "home_team": "De Graafschap",
           "away_team": "FC Utrecht J",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -1576,6 +2044,9 @@
           "home_team": "NEC Nijmegen",
           "away_team": "TOP Oss",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -1585,6 +2056,9 @@
           "home_team": "SBV Excelsior",
           "away_team": "SC Cambuur",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -1594,7 +2068,10 @@
           "home_team": "Roda JC Kerkrade",
           "away_team": "Go Ahead Eagles",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -1603,7 +2080,10 @@
           "home_team": "Jong PSV",
           "away_team": "Almere City FC",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1612,7 +2092,10 @@
           "home_team": "Jong Ajax",
           "away_team": "Telstar",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         }
       ]
@@ -1626,7 +2109,10 @@
           "home_team": "Helmond Sport",
           "away_team": "FC Dordrecht",
           "result": {
-            "full_time": "5-2"
+            "breakdown": [
+              "1-2"
+            ],
+            "full_time": "1-2"
           }
         },
         {
@@ -1635,7 +2121,10 @@
           "home_team": "Almere City FC",
           "away_team": "De Graafschap",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1644,7 +2133,10 @@
           "home_team": "SBV Excelsior",
           "away_team": "NAC Breda",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -1653,7 +2145,10 @@
           "home_team": "FC Eindhoven",
           "away_team": "SC Cambuur",
           "result": {
-            "full_time": "2-5"
+            "breakdown": [
+              "1-5"
+            ],
+            "full_time": "1-5"
           }
         },
         {
@@ -1662,7 +2157,10 @@
           "home_team": "Telstar",
           "away_team": "NEC Nijmegen",
           "result": {
-            "full_time": "5-2"
+            "breakdown": [
+              "3-0"
+            ],
+            "full_time": "3-0"
           }
         },
         {
@@ -1671,6 +2169,9 @@
           "home_team": "FC Volendam",
           "away_team": "MVV",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -1680,7 +2181,10 @@
           "home_team": "AZ Alkmaar J",
           "away_team": "Roda JC Kerkrade",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1689,7 +2193,10 @@
           "home_team": "FC Utrecht J",
           "away_team": "FC Den Bosch",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -1698,7 +2205,10 @@
           "home_team": "Jong PSV",
           "away_team": "Go Ahead Eagles",
           "result": {
-            "full_time": "2-3"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -1707,6 +2217,9 @@
           "home_team": "TOP Oss",
           "away_team": "Jong Ajax",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         }
@@ -1721,6 +2234,9 @@
           "home_team": "De Graafschap",
           "away_team": "Telstar",
           "result": {
+            "breakdown": [
+              "2-0"
+            ],
             "full_time": "2-0"
           }
         },
@@ -1730,7 +2246,10 @@
           "home_team": "MVV",
           "away_team": "FC Utrecht J",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1739,7 +2258,10 @@
           "home_team": "NEC Nijmegen",
           "away_team": "SBV Excelsior",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -1757,7 +2279,10 @@
           "home_team": "NAC Breda",
           "away_team": "Roda JC Kerkrade",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1766,7 +2291,10 @@
           "home_team": "SC Cambuur",
           "away_team": "FC Volendam",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1775,6 +2303,9 @@
           "home_team": "Jong Ajax",
           "away_team": "Helmond Sport",
           "result": {
+            "breakdown": [
+              "2-2"
+            ],
             "full_time": "2-2"
           }
         },
@@ -1784,7 +2315,10 @@
           "home_team": "Go Ahead Eagles",
           "away_team": "TOP Oss",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1793,7 +2327,10 @@
           "home_team": "FC Den Bosch",
           "away_team": "AZ Alkmaar J",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -1802,7 +2339,10 @@
           "home_team": "FC Dordrecht",
           "away_team": "Jong PSV",
           "result": {
-            "full_time": "2-3"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         }
       ]
@@ -1825,6 +2365,9 @@
           "home_team": "SBV Excelsior",
           "away_team": "FC Eindhoven",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -1834,7 +2377,10 @@
           "home_team": "Roda JC Kerkrade",
           "away_team": "De Graafschap",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "0-3"
+            ],
+            "full_time": "0-3"
           }
         },
         {
@@ -1843,7 +2389,10 @@
           "home_team": "Go Ahead Eagles",
           "away_team": "MVV",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -1852,7 +2401,10 @@
           "home_team": "Helmond Sport",
           "away_team": "FC Den Bosch",
           "result": {
-            "full_time": "4-0"
+            "breakdown": [
+              "3-0"
+            ],
+            "full_time": "3-0"
           }
         },
         {
@@ -1861,7 +2413,10 @@
           "home_team": "AZ Alkmaar J",
           "away_team": "Almere City FC",
           "result": {
-            "full_time": "2-5"
+            "breakdown": [
+              "1-4"
+            ],
+            "full_time": "1-4"
           }
         },
         {
@@ -1870,7 +2425,10 @@
           "home_team": "TOP Oss",
           "away_team": "Telstar",
           "result": {
-            "full_time": "1-4"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -1888,7 +2446,10 @@
           "home_team": "FC Utrecht J",
           "away_team": "Jong Ajax",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -1897,7 +2458,10 @@
           "home_team": "Jong PSV",
           "away_team": "NAC Breda",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         }
       ]
@@ -1911,7 +2475,10 @@
           "home_team": "MVV",
           "away_team": "Helmond Sport",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1920,7 +2487,10 @@
           "home_team": "SC Cambuur",
           "away_team": "Jong PSV",
           "result": {
-            "full_time": "5-1"
+            "breakdown": [
+              "3-1"
+            ],
+            "full_time": "3-1"
           }
         },
         {
@@ -1929,7 +2499,10 @@
           "home_team": "Almere City FC",
           "away_team": "FC Dordrecht",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1938,7 +2511,10 @@
           "home_team": "Telstar",
           "away_team": "AZ Alkmaar J",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -1947,7 +2523,10 @@
           "home_team": "FC Den Bosch",
           "away_team": "NAC Breda",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1956,7 +2535,10 @@
           "home_team": "TOP Oss",
           "away_team": "SBV Excelsior",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1965,7 +2547,10 @@
           "home_team": "FC Volendam",
           "away_team": "De Graafschap",
           "result": {
-            "full_time": "1-4"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1974,7 +2559,10 @@
           "home_team": "Roda JC Kerkrade",
           "away_team": "FC Utrecht J",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -1983,7 +2571,10 @@
           "home_team": "Jong Ajax",
           "away_team": "Go Ahead Eagles",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1992,6 +2583,9 @@
           "home_team": "FC Eindhoven",
           "away_team": "NEC Nijmegen",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         }
@@ -2006,7 +2600,10 @@
           "home_team": "Helmond Sport",
           "away_team": "Telstar",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2015,7 +2612,10 @@
           "home_team": "Jong PSV",
           "away_team": "Jong Ajax",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -2024,7 +2624,10 @@
           "home_team": "De Graafschap",
           "away_team": "TOP Oss",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2033,7 +2636,10 @@
           "home_team": "NEC Nijmegen",
           "away_team": "FC Utrecht J",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2042,7 +2648,10 @@
           "home_team": "SBV Excelsior",
           "away_team": "FC Den Bosch",
           "result": {
-            "full_time": "4-4"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -2051,7 +2660,10 @@
           "home_team": "FC Dordrecht",
           "away_team": "Roda JC Kerkrade",
           "result": {
-            "full_time": "0-5"
+            "breakdown": [
+              "0-3"
+            ],
+            "full_time": "0-3"
           }
         },
         {
@@ -2060,7 +2672,10 @@
           "home_team": "SC Cambuur",
           "away_team": "MVV",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2069,7 +2684,10 @@
           "home_team": "AZ Alkmaar J",
           "away_team": "FC Eindhoven",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -2078,7 +2696,10 @@
           "home_team": "NAC Breda",
           "away_team": "Almere City FC",
           "result": {
-            "full_time": "4-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -2087,7 +2708,10 @@
           "home_team": "Go Ahead Eagles",
           "away_team": "FC Volendam",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         }
       ]
@@ -2101,7 +2725,10 @@
           "home_team": "FC Eindhoven",
           "away_team": "Go Ahead Eagles",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -2110,7 +2737,10 @@
           "home_team": "TOP Oss",
           "away_team": "AZ Alkmaar J",
           "result": {
-            "full_time": "6-0"
+            "breakdown": [
+              "3-0"
+            ],
+            "full_time": "3-0"
           }
         },
         {
@@ -2119,7 +2749,10 @@
           "home_team": "FC Volendam",
           "away_team": "SBV Excelsior",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2128,7 +2761,10 @@
           "home_team": "Roda JC Kerkrade",
           "away_team": "Jong PSV",
           "result": {
-            "full_time": "5-1"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -2137,7 +2773,10 @@
           "home_team": "FC Den Bosch",
           "away_team": "De Graafschap",
           "result": {
-            "full_time": "2-3"
+            "breakdown": [
+              "1-2"
+            ],
+            "full_time": "1-2"
           }
         },
         {
@@ -2146,7 +2785,10 @@
           "home_team": "MVV",
           "away_team": "NEC Nijmegen",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2155,7 +2797,10 @@
           "home_team": "Helmond Sport",
           "away_team": "Almere City FC",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2164,7 +2809,10 @@
           "home_team": "Telstar",
           "away_team": "NAC Breda",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2173,7 +2821,10 @@
           "home_team": "Jong Ajax",
           "away_team": "SC Cambuur",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2182,7 +2833,10 @@
           "home_team": "FC Utrecht J",
           "away_team": "FC Dordrecht",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         }
       ]
@@ -2196,6 +2850,9 @@
           "home_team": "NAC Breda",
           "away_team": "FC Eindhoven",
           "result": {
+            "breakdown": [
+              "2-1"
+            ],
             "full_time": "2-1"
           }
         },
@@ -2205,7 +2862,10 @@
           "home_team": "AZ Alkmaar J",
           "away_team": "FC Utrecht J",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "2-1"
+            ],
+            "full_time": "2-1"
           }
         },
         {
@@ -2214,6 +2874,9 @@
           "home_team": "Go Ahead Eagles",
           "away_team": "Telstar",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -2223,6 +2886,9 @@
           "home_team": "De Graafschap",
           "away_team": "MVV",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -2232,7 +2898,10 @@
           "home_team": "Jong Ajax",
           "away_team": "FC Dordrecht",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2241,7 +2910,10 @@
           "home_team": "SBV Excelsior",
           "away_team": "Roda JC Kerkrade",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -2250,7 +2922,10 @@
           "home_team": "SC Cambuur",
           "away_team": "TOP Oss",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2259,7 +2934,10 @@
           "home_team": "Jong PSV",
           "away_team": "Helmond Sport",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2268,7 +2946,10 @@
           "home_team": "NEC Nijmegen",
           "away_team": "FC Den Bosch",
           "result": {
-            "full_time": "4-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2277,6 +2958,9 @@
           "home_team": "Almere City FC",
           "away_team": "FC Volendam",
           "result": {
+            "breakdown": [
+              "1-2"
+            ],
             "full_time": "1-2"
           }
         }
@@ -2291,7 +2975,10 @@
           "home_team": "FC Dordrecht",
           "away_team": "NAC Breda",
           "result": {
-            "full_time": "2-3"
+            "breakdown": [
+              "1-2"
+            ],
+            "full_time": "1-2"
           }
         },
         {
@@ -2300,6 +2987,9 @@
           "home_team": "Jong PSV",
           "away_team": "FC Den Bosch",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -2309,7 +2999,10 @@
           "home_team": "Helmond Sport",
           "away_team": "Roda JC Kerkrade",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -2318,7 +3011,10 @@
           "home_team": "Telstar",
           "away_team": "FC Eindhoven",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2327,7 +3023,10 @@
           "home_team": "TOP Oss",
           "away_team": "Almere City FC",
           "result": {
-            "full_time": "2-4"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -2336,7 +3035,10 @@
           "home_team": "MVV",
           "away_team": "SBV Excelsior",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2345,7 +3047,10 @@
           "home_team": "NEC Nijmegen",
           "away_team": "De Graafschap",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2354,7 +3059,10 @@
           "home_team": "AZ Alkmaar J",
           "away_team": "Go Ahead Eagles",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -2363,7 +3071,10 @@
           "home_team": "FC Utrecht J",
           "away_team": "SC Cambuur",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -2372,7 +3083,10 @@
           "home_team": "FC Volendam",
           "away_team": "Jong Ajax",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -2386,6 +3100,9 @@
           "home_team": "Go Ahead Eagles",
           "away_team": "Jong PSV",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -2395,7 +3112,10 @@
           "home_team": "MVV",
           "away_team": "Telstar",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2404,7 +3124,10 @@
           "home_team": "De Graafschap",
           "away_team": "AZ Alkmaar J",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2413,7 +3136,10 @@
           "home_team": "FC Den Bosch",
           "away_team": "FC Utrecht J",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2422,7 +3148,10 @@
           "home_team": "Roda JC Kerkrade",
           "away_team": "NEC Nijmegen",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -2431,7 +3160,10 @@
           "home_team": "FC Eindhoven",
           "away_team": "FC Volendam",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -2440,7 +3172,10 @@
           "home_team": "FC Dordrecht",
           "away_team": "Helmond Sport",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2449,7 +3184,10 @@
           "home_team": "Almere City FC",
           "away_team": "SC Cambuur",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -2458,7 +3196,10 @@
           "home_team": "SBV Excelsior",
           "away_team": "Jong Ajax",
           "result": {
-            "full_time": "5-1"
+            "breakdown": [
+              "3-0"
+            ],
+            "full_time": "3-0"
           }
         },
         {
@@ -2467,7 +3208,10 @@
           "home_team": "NAC Breda",
           "away_team": "TOP Oss",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         }
       ]
@@ -2481,7 +3225,10 @@
           "home_team": "Helmond Sport",
           "away_team": "NEC Nijmegen",
           "result": {
-            "full_time": "0-7"
+            "breakdown": [
+              "0-3"
+            ],
+            "full_time": "0-3"
           }
         },
         {
@@ -2490,6 +3237,9 @@
           "home_team": "FC Utrecht J",
           "away_team": "MVV",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -2499,7 +3249,10 @@
           "home_team": "TOP Oss",
           "away_team": "Go Ahead Eagles",
           "result": {
-            "full_time": "0-4"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -2508,7 +3261,10 @@
           "home_team": "SC Cambuur",
           "away_team": "Telstar",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "2-1"
+            ],
+            "full_time": "2-1"
           }
         },
         {
@@ -2517,7 +3273,10 @@
           "home_team": "Almere City FC",
           "away_team": "SBV Excelsior",
           "result": {
-            "full_time": "4-1"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -2526,7 +3285,10 @@
           "home_team": "FC Volendam",
           "away_team": "Roda JC Kerkrade",
           "result": {
-            "full_time": "3-4"
+            "breakdown": [
+              "2-1"
+            ],
+            "full_time": "2-1"
           }
         },
         {
@@ -2535,7 +3297,10 @@
           "home_team": "De Graafschap",
           "away_team": "FC Eindhoven",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2544,7 +3309,10 @@
           "home_team": "Jong Ajax",
           "away_team": "FC Den Bosch",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -2553,7 +3321,10 @@
           "home_team": "AZ Alkmaar J",
           "away_team": "NAC Breda",
           "result": {
-            "full_time": "2-3"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -2562,6 +3333,9 @@
           "home_team": "Jong PSV",
           "away_team": "FC Dordrecht",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         }
@@ -2576,7 +3350,10 @@
           "home_team": "MVV",
           "away_team": "AZ Alkmaar J",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -2585,6 +3362,9 @@
           "home_team": "FC Eindhoven",
           "away_team": "Almere City FC",
           "result": {
+            "breakdown": [
+              "1-3"
+            ],
             "full_time": "1-3"
           }
         },
@@ -2594,7 +3374,10 @@
           "home_team": "FC Den Bosch",
           "away_team": "FC Volendam",
           "result": {
-            "full_time": "1-5"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -2603,7 +3386,10 @@
           "home_team": "FC Dordrecht",
           "away_team": "TOP Oss",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -2612,7 +3398,10 @@
           "home_team": "SBV Excelsior",
           "away_team": "FC Utrecht J",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2621,7 +3410,10 @@
           "home_team": "NEC Nijmegen",
           "away_team": "Jong PSV",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2639,7 +3431,10 @@
           "home_team": "NAC Breda",
           "away_team": "Helmond Sport",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -2648,7 +3443,10 @@
           "home_team": "Roda JC Kerkrade",
           "away_team": "Jong Ajax",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2657,7 +3455,10 @@
           "home_team": "Telstar",
           "away_team": "De Graafschap",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         }
       ]
@@ -2671,7 +3472,10 @@
           "home_team": "Almere City FC",
           "away_team": "FC Den Bosch",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2680,6 +3484,9 @@
           "home_team": "De Graafschap",
           "away_team": "SBV Excelsior",
           "result": {
+            "breakdown": [
+              "1-1"
+            ],
             "full_time": "1-1"
           }
         },
@@ -2689,7 +3496,10 @@
           "home_team": "TOP Oss",
           "away_team": "NEC Nijmegen",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -2698,7 +3508,10 @@
           "home_team": "FC Volendam",
           "away_team": "NAC Breda",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2707,7 +3520,10 @@
           "home_team": "Go Ahead Eagles",
           "away_team": "FC Dordrecht",
           "result": {
-            "full_time": "5-1"
+            "breakdown": [
+              "3-0"
+            ],
+            "full_time": "3-0"
           }
         },
         {
@@ -2716,7 +3532,10 @@
           "home_team": "Helmond Sport",
           "away_team": "FC Utrecht J",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2725,7 +3544,10 @@
           "home_team": "Jong Ajax",
           "away_team": "MVV",
           "result": {
-            "full_time": "4-3"
+            "breakdown": [
+              "2-1"
+            ],
+            "full_time": "2-1"
           }
         },
         {
@@ -2734,7 +3556,10 @@
           "home_team": "Jong PSV",
           "away_team": "AZ Alkmaar J",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -2743,7 +3568,10 @@
           "home_team": "Telstar",
           "away_team": "Roda JC Kerkrade",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -2752,7 +3580,10 @@
           "home_team": "SC Cambuur",
           "away_team": "FC Eindhoven",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -2766,7 +3597,10 @@
           "home_team": "AZ Alkmaar J",
           "away_team": "Jong Ajax",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -2775,7 +3609,10 @@
           "home_team": "FC Utrecht J",
           "away_team": "Jong PSV",
           "result": {
-            "full_time": "1-6"
+            "breakdown": [
+              "0-3"
+            ],
+            "full_time": "0-3"
           }
         },
         {
@@ -2784,6 +3621,9 @@
           "home_team": "NEC Nijmegen",
           "away_team": "FC Volendam",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -2793,7 +3633,10 @@
           "home_team": "MVV",
           "away_team": "Almere City FC",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2811,7 +3654,10 @@
           "home_team": "SBV Excelsior",
           "away_team": "Helmond Sport",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2820,7 +3666,10 @@
           "home_team": "Roda JC Kerkrade",
           "away_team": "SC Cambuur",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2829,7 +3678,10 @@
           "home_team": "NAC Breda",
           "away_team": "De Graafschap",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -2838,7 +3690,10 @@
           "home_team": "FC Dordrecht",
           "away_team": "Telstar",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2847,7 +3702,10 @@
           "home_team": "FC Den Bosch",
           "away_team": "Go Ahead Eagles",
           "result": {
-            "full_time": "3-3"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         }
       ]
@@ -2870,7 +3728,10 @@
           "home_team": "Almere City FC",
           "away_team": "NEC Nijmegen",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2879,7 +3740,10 @@
           "home_team": "De Graafschap",
           "away_team": "FC Dordrecht",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -2888,7 +3752,10 @@
           "home_team": "FC Den Bosch",
           "away_team": "TOP Oss",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2906,7 +3773,10 @@
           "home_team": "FC Volendam",
           "away_team": "SC Cambuur",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -2915,7 +3785,10 @@
           "home_team": "Helmond Sport",
           "away_team": "AZ Alkmaar J",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2924,7 +3797,10 @@
           "home_team": "Jong Ajax",
           "away_team": "NAC Breda",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2933,7 +3809,10 @@
           "home_team": "MVV",
           "away_team": "FC Eindhoven",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2942,7 +3821,10 @@
           "home_team": "Telstar",
           "away_team": "FC Utrecht J",
           "result": {
-            "full_time": "2-3"
+            "breakdown": [
+              "1-2"
+            ],
+            "full_time": "1-2"
           }
         }
       ]
@@ -2956,7 +3838,10 @@
           "home_team": "NEC Nijmegen",
           "away_team": "Telstar",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2965,7 +3850,10 @@
           "home_team": "FC Dordrecht",
           "away_team": "FC Eindhoven",
           "result": {
-            "full_time": "1-5"
+            "breakdown": [
+              "1-2"
+            ],
+            "full_time": "1-2"
           }
         },
         {
@@ -2974,7 +3862,10 @@
           "home_team": "TOP Oss",
           "away_team": "FC Volendam",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2983,7 +3874,10 @@
           "home_team": "Helmond Sport",
           "away_team": "Jong Ajax",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2992,7 +3886,10 @@
           "home_team": "AZ Alkmaar J",
           "away_team": "FC Den Bosch",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -3001,6 +3898,9 @@
           "home_team": "FC Utrecht J",
           "away_team": "De Graafschap",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -3010,7 +3910,10 @@
           "home_team": "Jong PSV",
           "away_team": "MVV",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -3019,6 +3922,9 @@
           "home_team": "NAC Breda",
           "away_team": "Go Ahead Eagles",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -3028,7 +3934,10 @@
           "home_team": "SC Cambuur",
           "away_team": "SBV Excelsior",
           "result": {
-            "full_time": "7-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -3051,7 +3960,10 @@
           "home_team": "NAC Breda",
           "away_team": "FC Utrecht J",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -3060,7 +3972,10 @@
           "home_team": "FC Den Bosch",
           "away_team": "SC Cambuur",
           "result": {
-            "full_time": "3-5"
+            "breakdown": [
+              "2-2"
+            ],
+            "full_time": "2-2"
           }
         },
         {
@@ -3069,7 +3984,10 @@
           "home_team": "FC Eindhoven",
           "away_team": "Jong PSV",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -3078,7 +3996,10 @@
           "home_team": "SBV Excelsior",
           "away_team": "NEC Nijmegen",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -3087,7 +4008,10 @@
           "home_team": "FC Volendam",
           "away_team": "Helmond Sport",
           "result": {
-            "full_time": "5-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -3096,7 +4020,10 @@
           "home_team": "Jong Ajax",
           "away_team": "TOP Oss",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -3105,7 +4032,10 @@
           "home_team": "De Graafschap",
           "away_team": "Go Ahead Eagles",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -3114,7 +4044,10 @@
           "home_team": "Almere City FC",
           "away_team": "Telstar",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -3123,7 +4056,10 @@
           "home_team": "MVV",
           "away_team": "Roda JC Kerkrade",
           "result": {
-            "full_time": "2-4"
+            "breakdown": [
+              "2-3"
+            ],
+            "full_time": "2-3"
           }
         },
         {
@@ -3132,7 +4068,10 @@
           "home_team": "AZ Alkmaar J",
           "away_team": "FC Dordrecht",
           "result": {
-            "full_time": "4-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         }
       ]
@@ -3146,7 +4085,10 @@
           "home_team": "NEC Nijmegen",
           "away_team": "AZ Alkmaar J",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -3155,7 +4097,10 @@
           "home_team": "FC Dordrecht",
           "away_team": "FC Den Bosch",
           "result": {
-            "full_time": "2-6"
+            "breakdown": [
+              "0-3"
+            ],
+            "full_time": "0-3"
           }
         },
         {
@@ -3164,7 +4109,10 @@
           "home_team": "FC Eindhoven",
           "away_team": "Jong Ajax",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -3173,7 +4121,10 @@
           "home_team": "TOP Oss",
           "away_team": "MVV",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -3182,7 +4133,10 @@
           "home_team": "FC Utrecht J",
           "away_team": "FC Volendam",
           "result": {
-            "full_time": "2-3"
+            "breakdown": [
+              "2-2"
+            ],
+            "full_time": "2-2"
           }
         },
         {
@@ -3191,7 +4145,10 @@
           "home_team": "Roda JC Kerkrade",
           "away_team": "NAC Breda",
           "result": {
-            "full_time": "3-3"
+            "breakdown": [
+              "2-2"
+            ],
+            "full_time": "2-2"
           }
         },
         {
@@ -3200,7 +4157,10 @@
           "home_team": "SC Cambuur",
           "away_team": "Helmond Sport",
           "result": {
-            "full_time": "4-1"
+            "breakdown": [
+              "2-1"
+            ],
+            "full_time": "2-1"
           }
         },
         {
@@ -3209,7 +4169,10 @@
           "home_team": "Telstar",
           "away_team": "SBV Excelsior",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -3218,7 +4181,10 @@
           "home_team": "Go Ahead Eagles",
           "away_team": "Almere City FC",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -3227,6 +4193,9 @@
           "home_team": "Jong PSV",
           "away_team": "De Graafschap",
           "result": {
+            "breakdown": [
+              "0-2"
+            ],
             "full_time": "0-2"
           }
         }
@@ -3241,7 +4210,10 @@
           "home_team": "Helmond Sport",
           "away_team": "FC Eindhoven",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -3250,7 +4222,10 @@
           "home_team": "NAC Breda",
           "away_team": "SBV Excelsior",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -3259,7 +4234,10 @@
           "home_team": "De Graafschap",
           "away_team": "Almere City FC",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -3268,7 +4246,10 @@
           "home_team": "FC Den Bosch",
           "away_team": "Roda JC Kerkrade",
           "result": {
-            "full_time": "7-0"
+            "breakdown": [
+              "4-0"
+            ],
+            "full_time": "4-0"
           }
         },
         {
@@ -3277,7 +4258,10 @@
           "home_team": "FC Dordrecht",
           "away_team": "MVV",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -3286,6 +4270,9 @@
           "home_team": "Jong Ajax",
           "away_team": "NEC Nijmegen",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -3295,7 +4282,10 @@
           "home_team": "AZ Alkmaar J",
           "away_team": "SC Cambuur",
           "result": {
-            "full_time": "2-4"
+            "breakdown": [
+              "0-4"
+            ],
+            "full_time": "0-4"
           }
         },
         {
@@ -3304,6 +4294,9 @@
           "home_team": "FC Utrecht J",
           "away_team": "Go Ahead Eagles",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -3313,7 +4306,10 @@
           "home_team": "FC Volendam",
           "away_team": "Telstar",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -3336,7 +4332,10 @@
           "home_team": "Almere City FC",
           "away_team": "Jong Ajax",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -3345,7 +4344,10 @@
           "home_team": "FC Eindhoven",
           "away_team": "FC Den Bosch",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -3354,7 +4356,10 @@
           "home_team": "SBV Excelsior",
           "away_team": "FC Dordrecht",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -3363,7 +4368,10 @@
           "home_team": "TOP Oss",
           "away_team": "FC Utrecht J",
           "result": {
-            "full_time": "0-4"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -3372,7 +4380,10 @@
           "home_team": "MVV",
           "away_team": "FC Volendam",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -3381,7 +4392,10 @@
           "home_team": "Roda JC Kerkrade",
           "away_team": "AZ Alkmaar J",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -3390,7 +4404,10 @@
           "home_team": "SC Cambuur",
           "away_team": "De Graafschap",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -3399,7 +4416,10 @@
           "home_team": "Telstar",
           "away_team": "Jong PSV",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -3408,7 +4428,10 @@
           "home_team": "Go Ahead Eagles",
           "away_team": "Helmond Sport",
           "result": {
-            "full_time": "5-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -3417,6 +4440,9 @@
           "home_team": "NEC Nijmegen",
           "away_team": "NAC Breda",
           "result": {
+            "breakdown": [
+              "0-2"
+            ],
             "full_time": "0-2"
           }
         }
@@ -3431,7 +4457,10 @@
           "home_team": "FC Den Bosch",
           "away_team": "Telstar",
           "result": {
-            "full_time": "4-1"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -3440,6 +4469,9 @@
           "home_team": "FC Dordrecht",
           "away_team": "SC Cambuur",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -3449,6 +4481,9 @@
           "home_team": "Go Ahead Eagles",
           "away_team": "NEC Nijmegen",
           "result": {
+            "breakdown": [
+              "2-1"
+            ],
             "full_time": "2-1"
           }
         },
@@ -3458,7 +4493,10 @@
           "home_team": "Helmond Sport",
           "away_team": "TOP Oss",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -3467,7 +4505,10 @@
           "home_team": "Jong Ajax",
           "away_team": "De Graafschap",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -3476,6 +4517,9 @@
           "home_team": "AZ Alkmaar J",
           "away_team": "SBV Excelsior",
           "result": {
+            "breakdown": [
+              "2-1"
+            ],
             "full_time": "2-1"
           }
         },
@@ -3485,7 +4529,10 @@
           "home_team": "FC Utrecht J",
           "away_team": "Almere City FC",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -3494,7 +4541,10 @@
           "home_team": "Jong PSV",
           "away_team": "FC Volendam",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -3503,7 +4553,10 @@
           "home_team": "NAC Breda",
           "away_team": "MVV",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -3512,7 +4565,10 @@
           "home_team": "Roda JC Kerkrade",
           "away_team": "FC Eindhoven",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         }
       ]
@@ -3526,7 +4582,10 @@
           "home_team": "Almere City FC",
           "away_team": "Jong PSV",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -3544,7 +4603,10 @@
           "home_team": "FC Eindhoven",
           "away_team": "FC Utrecht J",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "2-1"
+            ],
+            "full_time": "2-1"
           }
         },
         {
@@ -3553,7 +4615,10 @@
           "home_team": "SBV Excelsior",
           "away_team": "Go Ahead Eagles",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -3562,7 +4627,10 @@
           "home_team": "TOP Oss",
           "away_team": "Roda JC Kerkrade",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -3571,7 +4639,10 @@
           "home_team": "FC Volendam",
           "away_team": "AZ Alkmaar J",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -3580,7 +4651,10 @@
           "home_team": "MVV",
           "away_team": "FC Den Bosch",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -3589,7 +4663,10 @@
           "home_team": "NEC Nijmegen",
           "away_team": "FC Dordrecht",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -3598,7 +4675,10 @@
           "home_team": "SC Cambuur",
           "away_team": "NAC Breda",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -3607,7 +4687,10 @@
           "home_team": "Telstar",
           "away_team": "Jong Ajax",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         }
       ]

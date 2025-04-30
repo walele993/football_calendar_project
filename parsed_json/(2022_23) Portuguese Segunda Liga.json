@@ -11,7 +11,10 @@
           "home_team": "SC Farense",
           "away_team": "União Torreense",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -20,6 +23,9 @@
           "home_team": "CD Nacional",
           "away_team": "CD Tondela",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -29,7 +35,10 @@
           "home_team": "UD Oliveirense",
           "away_team": "CD Mafra",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -38,7 +47,10 @@
           "home_team": "CD Trofense",
           "away_team": "B-SAD",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -47,7 +59,10 @@
           "home_team": "SL Benfica B",
           "away_team": "Académico de Viseu",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -56,7 +71,10 @@
           "home_team": "CD Feirense",
           "away_team": "Estrela Amadora",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -65,6 +83,9 @@
           "home_team": "Moreirense FC",
           "away_team": "UD Vilafranquense",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -74,6 +95,9 @@
           "home_team": "FC Porto B",
           "away_team": "Sporting Covilhã",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -97,6 +121,9 @@
           "home_team": "CD Tondela",
           "away_team": "SL Benfica B",
           "result": {
+            "breakdown": [
+              "1-1"
+            ],
             "full_time": "1-1"
           }
         },
@@ -106,6 +133,9 @@
           "home_team": "Sporting Covilhã",
           "away_team": "CD Feirense",
           "result": {
+            "breakdown": [
+              "0-2"
+            ],
             "full_time": "0-2"
           }
         },
@@ -115,7 +145,10 @@
           "home_team": "Estrela Amadora",
           "away_team": "SC Farense",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -124,7 +157,10 @@
           "home_team": "União Torreense",
           "away_team": "CD Nacional",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -133,7 +169,10 @@
           "home_team": "Académico de Viseu",
           "away_team": "Moreirense FC",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -142,7 +181,10 @@
           "home_team": "B-SAD",
           "away_team": "FC Porto B",
           "result": {
-            "full_time": "2-3"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -151,7 +193,10 @@
           "home_team": "UD Vilafranquense",
           "away_team": "UD Oliveirense",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -160,7 +205,10 @@
           "home_team": "CD Mafra",
           "away_team": "FC Penafiel",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -169,7 +217,10 @@
           "home_team": "Leixões SC",
           "away_team": "CD Trofense",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -183,7 +234,10 @@
           "home_team": "SL Benfica B",
           "away_team": "Estrela Amadora",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -192,7 +246,10 @@
           "home_team": "CD Tondela",
           "away_team": "Sporting Covilhã",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -201,7 +258,10 @@
           "home_team": "SC Farense",
           "away_team": "Académico de Viseu",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-2"
+            ],
+            "full_time": "1-2"
           }
         },
         {
@@ -210,7 +270,10 @@
           "home_team": "Moreirense FC",
           "away_team": "União Torreense",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -219,7 +282,10 @@
           "home_team": "CD Trofense",
           "away_team": "UD Vilafranquense",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -228,7 +294,10 @@
           "home_team": "CD Feirense",
           "away_team": "Leixões SC",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -237,7 +306,10 @@
           "home_team": "CD Nacional",
           "away_team": "CD Mafra",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -246,6 +318,9 @@
           "home_team": "FC Porto B",
           "away_team": "UD Oliveirense",
           "result": {
+            "breakdown": [
+              "2-0"
+            ],
             "full_time": "2-0"
           }
         },
@@ -255,7 +330,10 @@
           "home_team": "FC Penafiel",
           "away_team": "B-SAD",
           "result": {
-            "full_time": "3-3"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         }
       ]
@@ -269,7 +347,10 @@
           "home_team": "UD Vilafranquense",
           "away_team": "CD Feirense",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -278,7 +359,10 @@
           "home_team": "Académico de Viseu",
           "away_team": "CD Tondela",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -287,7 +371,10 @@
           "home_team": "B-SAD",
           "away_team": "Moreirense FC",
           "result": {
-            "full_time": "2-3"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -296,7 +383,10 @@
           "home_team": "Sporting Covilhã",
           "away_team": "FC Penafiel",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -305,7 +395,10 @@
           "home_team": "Leixões SC",
           "away_team": "CD Nacional",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -323,7 +416,10 @@
           "home_team": "Estrela Amadora",
           "away_team": "FC Porto B",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -332,7 +428,10 @@
           "home_team": "UD Oliveirense",
           "away_team": "CD Trofense",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -341,7 +440,10 @@
           "home_team": "CD Mafra",
           "away_team": "SC Farense",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         }
       ]
@@ -355,7 +457,10 @@
           "home_team": "Académico de Viseu",
           "away_team": "União Torreense",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -364,7 +469,10 @@
           "home_team": "SL Benfica B",
           "away_team": "Leixões SC",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -373,7 +481,10 @@
           "home_team": "Moreirense FC",
           "away_team": "UD Oliveirense",
           "result": {
-            "full_time": "4-1"
+            "breakdown": [
+              "3-1"
+            ],
+            "full_time": "3-1"
           }
         },
         {
@@ -382,7 +493,10 @@
           "home_team": "FC Porto B",
           "away_team": "UD Vilafranquense",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -391,7 +505,10 @@
           "home_team": "FC Penafiel",
           "away_team": "CD Trofense",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -409,7 +526,10 @@
           "home_team": "CD Nacional",
           "away_team": "B-SAD",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -418,7 +538,10 @@
           "home_team": "SC Farense",
           "away_team": "Sporting Covilhã",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -427,7 +550,10 @@
           "home_team": "CD Tondela",
           "away_team": "Estrela Amadora",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -441,6 +567,9 @@
           "home_team": "UD Oliveirense",
           "away_team": "FC Penafiel",
           "result": {
+            "breakdown": [
+              "1-1"
+            ],
             "full_time": "1-1"
           }
         },
@@ -450,7 +579,10 @@
           "home_team": "UD Vilafranquense",
           "away_team": "SL Benfica B",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "2-2"
+            ],
+            "full_time": "2-2"
           }
         },
         {
@@ -459,6 +591,9 @@
           "home_team": "CD Mafra",
           "away_team": "FC Porto B",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -468,7 +603,10 @@
           "home_team": "B-SAD",
           "away_team": "CD Feirense",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -477,7 +615,10 @@
           "home_team": "Sporting Covilhã",
           "away_team": "CD Nacional",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -486,7 +627,10 @@
           "home_team": "Leixões SC",
           "away_team": "SC Farense",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -495,6 +639,9 @@
           "home_team": "União Torreense",
           "away_team": "CD Tondela",
           "result": {
+            "breakdown": [
+              "0-3"
+            ],
             "full_time": "0-3"
           }
         },
@@ -504,7 +651,10 @@
           "home_team": "CD Trofense",
           "away_team": "Moreirense FC",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -513,6 +663,9 @@
           "home_team": "Estrela Amadora",
           "away_team": "Académico de Viseu",
           "result": {
+            "breakdown": [
+              "2-1"
+            ],
             "full_time": "2-1"
           }
         }
@@ -527,7 +680,10 @@
           "home_team": "CD Tondela",
           "away_team": "B-SAD",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -536,7 +692,10 @@
           "home_team": "Académico de Viseu",
           "away_team": "CD Mafra",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -545,7 +704,10 @@
           "home_team": "FC Penafiel",
           "away_team": "Moreirense FC",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -554,7 +716,10 @@
           "home_team": "FC Porto B",
           "away_team": "União Torreense",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -563,7 +728,10 @@
           "home_team": "SL Benfica B",
           "away_team": "Sporting Covilhã",
           "result": {
-            "full_time": "4-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -572,7 +740,10 @@
           "home_team": "SC Farense",
           "away_team": "UD Vilafranquense",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -581,6 +752,9 @@
           "home_team": "CD Nacional",
           "away_team": "CD Trofense",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -590,7 +764,10 @@
           "home_team": "Estrela Amadora",
           "away_team": "Leixões SC",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -599,7 +776,10 @@
           "home_team": "CD Feirense",
           "away_team": "UD Oliveirense",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         }
       ]
@@ -613,7 +793,10 @@
           "home_team": "B-SAD",
           "away_team": "SC Farense",
           "result": {
-            "full_time": "2-3"
+            "breakdown": [
+              "2-1"
+            ],
+            "full_time": "2-1"
           }
         },
         {
@@ -631,7 +814,10 @@
           "home_team": "UD Oliveirense",
           "away_team": "SL Benfica B",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -640,7 +826,10 @@
           "home_team": "UD Vilafranquense",
           "away_team": "FC Penafiel",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -649,7 +838,10 @@
           "home_team": "União Torreense",
           "away_team": "Estrela Amadora",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -658,7 +850,10 @@
           "home_team": "Sporting Covilhã",
           "away_team": "Académico de Viseu",
           "result": {
-            "full_time": "2-3"
+            "breakdown": [
+              "1-2"
+            ],
+            "full_time": "1-2"
           }
         },
         {
@@ -667,6 +862,9 @@
           "home_team": "Moreirense FC",
           "away_team": "CD Nacional",
           "result": {
+            "breakdown": [
+              "3-1"
+            ],
             "full_time": "3-1"
           }
         },
@@ -676,6 +874,9 @@
           "home_team": "CD Mafra",
           "away_team": "CD Tondela",
           "result": {
+            "breakdown": [
+              "1-1"
+            ],
             "full_time": "1-1"
           }
         },
@@ -685,7 +886,10 @@
           "home_team": "CD Trofense",
           "away_team": "CD Feirense",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         }
       ]
@@ -699,7 +903,10 @@
           "home_team": "Estrela Amadora",
           "away_team": "Sporting Covilhã",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -708,7 +915,10 @@
           "home_team": "SL Benfica B",
           "away_team": "CD Mafra",
           "result": {
-            "full_time": "5-1"
+            "breakdown": [
+              "4-1"
+            ],
+            "full_time": "4-1"
           }
         },
         {
@@ -717,6 +927,9 @@
           "home_team": "União Torreense",
           "away_team": "B-SAD",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -726,7 +939,10 @@
           "home_team": "CD Feirense",
           "away_team": "Moreirense FC",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -735,7 +951,10 @@
           "home_team": "Académico de Viseu",
           "away_team": "Leixões SC",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -753,7 +972,10 @@
           "home_team": "CD Nacional",
           "away_team": "UD Vilafranquense",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -762,7 +984,10 @@
           "home_team": "CD Tondela",
           "away_team": "UD Oliveirense",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "1-2"
+            ],
+            "full_time": "1-2"
           }
         },
         {
@@ -771,7 +996,10 @@
           "home_team": "SC Farense",
           "away_team": "CD Trofense",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         }
       ]
@@ -785,7 +1013,10 @@
           "home_team": "Sporting Covilhã",
           "away_team": "União Torreense",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -794,7 +1025,10 @@
           "home_team": "B-SAD",
           "away_team": "SL Benfica B",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -803,7 +1037,10 @@
           "home_team": "CD Trofense",
           "away_team": "FC Porto B",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -821,7 +1058,10 @@
           "home_team": "FC Penafiel",
           "away_team": "CD Feirense",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -830,7 +1070,10 @@
           "home_team": "Moreirense FC",
           "away_team": "SC Farense",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -839,7 +1082,10 @@
           "home_team": "CD Mafra",
           "away_team": "Estrela Amadora",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -848,7 +1094,10 @@
           "home_team": "UD Vilafranquense",
           "away_team": "Académico de Viseu",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "1-2"
+            ],
+            "full_time": "1-2"
           }
         },
         {
@@ -857,7 +1106,10 @@
           "home_team": "Leixões SC",
           "away_team": "CD Tondela",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -871,7 +1123,10 @@
           "home_team": "União Torreense",
           "away_team": "CD Mafra",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -889,7 +1144,10 @@
           "home_team": "CD Nacional",
           "away_team": "FC Penafiel",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -898,6 +1156,9 @@
           "home_team": "SL Benfica B",
           "away_team": "Moreirense FC",
           "result": {
+            "breakdown": [
+              "2-1"
+            ],
             "full_time": "2-1"
           }
         },
@@ -907,7 +1168,10 @@
           "home_team": "Académico de Viseu",
           "away_team": "B-SAD",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -916,7 +1180,10 @@
           "home_team": "SC Farense",
           "away_team": "UD Oliveirense",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -925,7 +1192,10 @@
           "home_team": "Sporting Covilhã",
           "away_team": "Leixões SC",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -943,7 +1213,10 @@
           "home_team": "Estrela Amadora",
           "away_team": "UD Vilafranquense",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         }
       ]
@@ -957,7 +1230,10 @@
           "home_team": "CD Mafra",
           "away_team": "Sporting Covilhã",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "1-2"
+            ],
+            "full_time": "1-2"
           }
         },
         {
@@ -966,7 +1242,10 @@
           "home_team": "Moreirense FC",
           "away_team": "FC Porto B",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -975,6 +1254,9 @@
           "home_team": "Leixões SC",
           "away_team": "União Torreense",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -984,7 +1266,10 @@
           "home_team": "UD Vilafranquense",
           "away_team": "CD Tondela",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -993,7 +1278,10 @@
           "home_team": "FC Penafiel",
           "away_team": "SC Farense",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1002,7 +1290,10 @@
           "home_team": "UD Oliveirense",
           "away_team": "Académico de Viseu",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1011,7 +1302,10 @@
           "home_team": "CD Feirense",
           "away_team": "CD Nacional",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1020,7 +1314,10 @@
           "home_team": "B-SAD",
           "away_team": "Estrela Amadora",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1029,7 +1326,10 @@
           "home_team": "CD Trofense",
           "away_team": "SL Benfica B",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         }
       ]
@@ -1043,7 +1343,10 @@
           "home_team": "União Torreense",
           "away_team": "UD Vilafranquense",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1052,7 +1355,10 @@
           "home_team": "Estrela Amadora",
           "away_team": "UD Oliveirense",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1070,7 +1376,10 @@
           "home_team": "SL Benfica B",
           "away_team": "FC Penafiel",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1079,7 +1388,10 @@
           "home_team": "CD Nacional",
           "away_team": "FC Porto B",
           "result": {
-            "full_time": "4-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -1088,7 +1400,10 @@
           "home_team": "Académico de Viseu",
           "away_team": "CD Trofense",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -1097,7 +1412,10 @@
           "home_team": "Sporting Covilhã",
           "away_team": "B-SAD",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1106,7 +1424,10 @@
           "home_team": "CD Tondela",
           "away_team": "Moreirense FC",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1115,7 +1436,10 @@
           "home_team": "CD Mafra",
           "away_team": "Leixões SC",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         }
       ]
@@ -1129,7 +1453,10 @@
           "home_team": "UD Vilafranquense",
           "away_team": "CD Mafra",
           "result": {
-            "full_time": "3-3"
+            "breakdown": [
+              "2-2"
+            ],
+            "full_time": "2-2"
           }
         },
         {
@@ -1138,7 +1465,10 @@
           "home_team": "CD Feirense",
           "away_team": "CD Tondela",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1147,7 +1477,10 @@
           "home_team": "FC Porto B",
           "away_team": "SC Farense",
           "result": {
-            "full_time": "4-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1156,7 +1489,10 @@
           "home_team": "B-SAD",
           "away_team": "Leixões SC",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1165,6 +1501,9 @@
           "home_team": "CD Nacional",
           "away_team": "SL Benfica B",
           "result": {
+            "breakdown": [
+              "2-0"
+            ],
             "full_time": "2-0"
           }
         },
@@ -1174,6 +1513,9 @@
           "home_team": "UD Oliveirense",
           "away_team": "Sporting Covilhã",
           "result": {
+            "breakdown": [
+              "2-0"
+            ],
             "full_time": "2-0"
           }
         },
@@ -1183,6 +1525,9 @@
           "home_team": "CD Trofense",
           "away_team": "União Torreense",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -1192,7 +1537,10 @@
           "home_team": "FC Penafiel",
           "away_team": "Académico de Viseu",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1215,7 +1563,10 @@
           "home_team": "Leixões SC",
           "away_team": "Moreirense FC",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1224,7 +1575,10 @@
           "home_team": "Académico de Viseu",
           "away_team": "FC Porto B",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1233,6 +1587,9 @@
           "home_team": "SC Farense",
           "away_team": "CD Nacional",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -1242,6 +1599,9 @@
           "home_team": "CD Mafra",
           "away_team": "B-SAD",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -1251,7 +1611,10 @@
           "home_team": "União Torreense",
           "away_team": "UD Oliveirense",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1269,7 +1632,10 @@
           "home_team": "SL Benfica B",
           "away_team": "CD Feirense",
           "result": {
-            "full_time": "3-6"
+            "breakdown": [
+              "3-1"
+            ],
+            "full_time": "3-1"
           }
         },
         {
@@ -1278,7 +1644,10 @@
           "home_team": "Estrela Amadora",
           "away_team": "CD Trofense",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1287,6 +1656,9 @@
           "home_team": "CD Tondela",
           "away_team": "FC Penafiel",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         }
@@ -1301,7 +1673,10 @@
           "home_team": "Moreirense FC",
           "away_team": "CD Mafra",
           "result": {
-            "full_time": "4-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1319,6 +1694,9 @@
           "home_team": "CD Trofense",
           "away_team": "Sporting Covilhã",
           "result": {
+            "breakdown": [
+              "2-0"
+            ],
             "full_time": "2-0"
           }
         },
@@ -1328,7 +1706,10 @@
           "home_team": "UD Vilafranquense",
           "away_team": "Leixões SC",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1337,7 +1718,10 @@
           "home_team": "CD Feirense",
           "away_team": "Académico de Viseu",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1346,6 +1730,9 @@
           "home_team": "CD Nacional",
           "away_team": "Estrela Amadora",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -1355,7 +1742,10 @@
           "home_team": "FC Porto B",
           "away_team": "CD Tondela",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1364,7 +1754,10 @@
           "home_team": "SC Farense",
           "away_team": "SL Benfica B",
           "result": {
-            "full_time": "5-2"
+            "breakdown": [
+              "3-2"
+            ],
+            "full_time": "3-2"
           }
         },
         {
@@ -1373,7 +1766,10 @@
           "home_team": "UD Oliveirense",
           "away_team": "B-SAD",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -1387,6 +1783,9 @@
           "home_team": "Académico de Viseu",
           "away_team": "CD Nacional",
           "result": {
+            "breakdown": [
+              "1-1"
+            ],
             "full_time": "1-1"
           }
         },
@@ -1396,7 +1795,10 @@
           "home_team": "B-SAD",
           "away_team": "UD Vilafranquense",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -1405,6 +1807,9 @@
           "home_team": "Leixões SC",
           "away_team": "UD Oliveirense",
           "result": {
+            "breakdown": [
+              "1-2"
+            ],
             "full_time": "1-2"
           }
         },
@@ -1414,7 +1819,10 @@
           "home_team": "CD Mafra",
           "away_team": "CD Trofense",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1432,7 +1840,10 @@
           "home_team": "SL Benfica B",
           "away_team": "FC Porto B",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1441,6 +1852,9 @@
           "home_team": "CD Tondela",
           "away_team": "SC Farense",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -1450,7 +1864,10 @@
           "home_team": "Estrela Amadora",
           "away_team": "FC Penafiel",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -1459,7 +1876,10 @@
           "home_team": "União Torreense",
           "away_team": "CD Feirense",
           "result": {
-            "full_time": "4-2"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         }
       ]
@@ -1473,7 +1893,10 @@
           "home_team": "União Torreense",
           "away_team": "SC Farense",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1482,7 +1905,10 @@
           "home_team": "Sporting Covilhã",
           "away_team": "FC Porto B",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -1491,7 +1917,10 @@
           "home_team": "CD Tondela",
           "away_team": "CD Nacional",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1500,7 +1929,10 @@
           "home_team": "UD Vilafranquense",
           "away_team": "Moreirense FC",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -1509,7 +1941,10 @@
           "home_team": "Estrela Amadora",
           "away_team": "CD Feirense",
           "result": {
-            "full_time": "4-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1518,7 +1953,10 @@
           "home_team": "CD Mafra",
           "away_team": "UD Oliveirense",
           "result": {
-            "full_time": "2-3"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -1527,7 +1965,10 @@
           "home_team": "Leixões SC",
           "away_team": "FC Penafiel",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1536,7 +1977,10 @@
           "home_team": "B-SAD",
           "away_team": "CD Trofense",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1545,7 +1989,10 @@
           "home_team": "Académico de Viseu",
           "away_team": "SL Benfica B",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -1559,7 +2006,10 @@
           "home_team": "SC Farense",
           "away_team": "Estrela Amadora",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -1568,7 +2018,10 @@
           "home_team": "UD Oliveirense",
           "away_team": "UD Vilafranquense",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -1577,6 +2030,9 @@
           "home_team": "Moreirense FC",
           "away_team": "Académico de Viseu",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -1586,7 +2042,10 @@
           "home_team": "FC Porto B",
           "away_team": "B-SAD",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -1595,7 +2054,10 @@
           "home_team": "CD Nacional",
           "away_team": "União Torreense",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -1604,7 +2066,10 @@
           "home_team": "FC Penafiel",
           "away_team": "CD Mafra",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1613,7 +2078,10 @@
           "home_team": "SL Benfica B",
           "away_team": "CD Tondela",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1622,7 +2090,10 @@
           "home_team": "CD Trofense",
           "away_team": "Leixões SC",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1631,7 +2102,10 @@
           "home_team": "CD Feirense",
           "away_team": "Sporting Covilhã",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         }
       ]
@@ -1645,7 +2119,10 @@
           "home_team": "União Torreense",
           "away_team": "Moreirense FC",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1654,6 +2131,9 @@
           "home_team": "Leixões SC",
           "away_team": "CD Feirense",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -1663,7 +2143,10 @@
           "home_team": "Estrela Amadora",
           "away_team": "SL Benfica B",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1672,7 +2155,10 @@
           "home_team": "Sporting Covilhã",
           "away_team": "CD Tondela",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1681,7 +2167,10 @@
           "home_team": "UD Vilafranquense",
           "away_team": "CD Trofense",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1690,7 +2179,10 @@
           "home_team": "UD Oliveirense",
           "away_team": "FC Porto B",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1699,7 +2191,10 @@
           "home_team": "Académico de Viseu",
           "away_team": "SC Farense",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1708,7 +2203,10 @@
           "home_team": "B-SAD",
           "away_team": "FC Penafiel",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -1717,7 +2215,10 @@
           "home_team": "CD Mafra",
           "away_team": "CD Nacional",
           "result": {
-            "full_time": "3-3"
+            "breakdown": [
+              "1-2"
+            ],
+            "full_time": "1-2"
           }
         }
       ]
@@ -1731,6 +2232,9 @@
           "home_team": "CD Tondela",
           "away_team": "Académico de Viseu",
           "result": {
+            "breakdown": [
+              "1-1"
+            ],
             "full_time": "1-1"
           }
         },
@@ -1740,7 +2244,10 @@
           "home_team": "FC Penafiel",
           "away_team": "Sporting Covilhã",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1749,7 +2256,10 @@
           "home_team": "CD Trofense",
           "away_team": "UD Oliveirense",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -1758,7 +2268,10 @@
           "home_team": "CD Feirense",
           "away_team": "UD Vilafranquense",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1767,7 +2280,10 @@
           "home_team": "FC Porto B",
           "away_team": "Estrela Amadora",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1776,7 +2292,10 @@
           "home_team": "CD Nacional",
           "away_team": "Leixões SC",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1785,7 +2304,10 @@
           "home_team": "Moreirense FC",
           "away_team": "B-SAD",
           "result": {
-            "full_time": "4-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -1794,7 +2316,10 @@
           "home_team": "SL Benfica B",
           "away_team": "União Torreense",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1803,7 +2328,10 @@
           "home_team": "SC Farense",
           "away_team": "CD Mafra",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -1817,7 +2345,10 @@
           "home_team": "CD Trofense",
           "away_team": "FC Penafiel",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1826,7 +2357,10 @@
           "home_team": "União Torreense",
           "away_team": "Académico de Viseu",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -1835,6 +2369,9 @@
           "home_team": "Leixões SC",
           "away_team": "SL Benfica B",
           "result": {
+            "breakdown": [
+              "1-1"
+            ],
             "full_time": "1-1"
           }
         },
@@ -1844,7 +2381,10 @@
           "home_team": "UD Oliveirense",
           "away_team": "Moreirense FC",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-2"
+            ],
+            "full_time": "1-2"
           }
         },
         {
@@ -1853,6 +2393,9 @@
           "home_team": "CD Mafra",
           "away_team": "CD Feirense",
           "result": {
+            "breakdown": [
+              "1-1"
+            ],
             "full_time": "1-1"
           }
         },
@@ -1862,7 +2405,10 @@
           "home_team": "UD Vilafranquense",
           "away_team": "FC Porto B",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -1871,7 +2417,10 @@
           "home_team": "B-SAD",
           "away_team": "CD Nacional",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1880,6 +2429,9 @@
           "home_team": "Sporting Covilhã",
           "away_team": "SC Farense",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -1903,7 +2455,10 @@
           "home_team": "SL Benfica B",
           "away_team": "UD Vilafranquense",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1912,7 +2467,10 @@
           "home_team": "FC Penafiel",
           "away_team": "UD Oliveirense",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1921,6 +2479,9 @@
           "home_team": "Moreirense FC",
           "away_team": "CD Trofense",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -1930,7 +2491,10 @@
           "home_team": "CD Tondela",
           "away_team": "União Torreense",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1939,7 +2503,10 @@
           "home_team": "SC Farense",
           "away_team": "Leixões SC",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1948,7 +2515,10 @@
           "home_team": "Académico de Viseu",
           "away_team": "Estrela Amadora",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1957,7 +2527,10 @@
           "home_team": "CD Nacional",
           "away_team": "Sporting Covilhã",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1966,7 +2539,10 @@
           "home_team": "CD Feirense",
           "away_team": "B-SAD",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1975,7 +2551,10 @@
           "home_team": "FC Porto B",
           "away_team": "CD Mafra",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         }
       ]
@@ -1989,7 +2568,10 @@
           "home_team": "Moreirense FC",
           "away_team": "FC Penafiel",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -1998,7 +2580,10 @@
           "home_team": "UD Vilafranquense",
           "away_team": "SC Farense",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2007,7 +2592,10 @@
           "home_team": "União Torreense",
           "away_team": "FC Porto B",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2016,7 +2604,10 @@
           "home_team": "CD Trofense",
           "away_team": "CD Nacional",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "2-1"
+            ],
+            "full_time": "2-1"
           }
         },
         {
@@ -2025,7 +2616,10 @@
           "home_team": "UD Oliveirense",
           "away_team": "CD Feirense",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2034,7 +2628,10 @@
           "home_team": "Sporting Covilhã",
           "away_team": "SL Benfica B",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2043,7 +2640,10 @@
           "home_team": "CD Mafra",
           "away_team": "Académico de Viseu",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2052,7 +2652,10 @@
           "home_team": "B-SAD",
           "away_team": "CD Tondela",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -2061,6 +2664,9 @@
           "home_team": "Leixões SC",
           "away_team": "Estrela Amadora",
           "result": {
+            "breakdown": [
+              "1-1"
+            ],
             "full_time": "1-1"
           }
         }
@@ -2075,6 +2681,9 @@
           "home_team": "Estrela Amadora",
           "away_team": "União Torreense",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -2084,6 +2693,9 @@
           "home_team": "CD Feirense",
           "away_team": "CD Trofense",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -2093,7 +2705,10 @@
           "home_team": "CD Nacional",
           "away_team": "Moreirense FC",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -2102,7 +2717,10 @@
           "home_team": "SL Benfica B",
           "away_team": "UD Oliveirense",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2111,7 +2729,10 @@
           "home_team": "CD Tondela",
           "away_team": "CD Mafra",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -2120,6 +2741,9 @@
           "home_team": "Académico de Viseu",
           "away_team": "Sporting Covilhã",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -2129,7 +2753,10 @@
           "home_team": "FC Penafiel",
           "away_team": "UD Vilafranquense",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2138,7 +2765,10 @@
           "home_team": "FC Porto B",
           "away_team": "Leixões SC",
           "result": {
-            "full_time": "4-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -2147,7 +2777,10 @@
           "home_team": "SC Farense",
           "away_team": "B-SAD",
           "result": {
-            "full_time": "4-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         }
       ]
@@ -2161,7 +2794,10 @@
           "home_team": "CD Trofense",
           "away_team": "SC Farense",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2170,6 +2806,9 @@
           "home_team": "CD Mafra",
           "away_team": "SL Benfica B",
           "result": {
+            "breakdown": [
+              "1-1"
+            ],
             "full_time": "1-1"
           }
         },
@@ -2197,7 +2836,10 @@
           "home_team": "B-SAD",
           "away_team": "União Torreense",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -2206,7 +2848,10 @@
           "home_team": "Leixões SC",
           "away_team": "Académico de Viseu",
           "result": {
-            "full_time": "2-3"
+            "breakdown": [
+              "1-3"
+            ],
+            "full_time": "1-3"
           }
         },
         {
@@ -2215,6 +2860,9 @@
           "home_team": "Sporting Covilhã",
           "away_team": "Estrela Amadora",
           "result": {
+            "breakdown": [
+              "0-2"
+            ],
             "full_time": "0-2"
           }
         },
@@ -2224,7 +2872,10 @@
           "home_team": "UD Vilafranquense",
           "away_team": "CD Nacional",
           "result": {
-            "full_time": "4-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2233,7 +2884,10 @@
           "home_team": "FC Penafiel",
           "away_team": "FC Porto B",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         }
       ]
@@ -2247,7 +2901,10 @@
           "home_team": "CD Nacional",
           "away_team": "UD Oliveirense",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -2256,7 +2913,10 @@
           "home_team": "SC Farense",
           "away_team": "Moreirense FC",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -2265,7 +2925,10 @@
           "home_team": "Estrela Amadora",
           "away_team": "CD Mafra",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -2274,6 +2937,9 @@
           "home_team": "Académico de Viseu",
           "away_team": "UD Vilafranquense",
           "result": {
+            "breakdown": [
+              "2-0"
+            ],
             "full_time": "2-0"
           }
         },
@@ -2283,7 +2949,10 @@
           "home_team": "SL Benfica B",
           "away_team": "B-SAD",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2292,7 +2961,10 @@
           "home_team": "CD Tondela",
           "away_team": "Leixões SC",
           "result": {
-            "full_time": "2-3"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -2301,7 +2973,10 @@
           "home_team": "CD Feirense",
           "away_team": "FC Penafiel",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2310,7 +2985,10 @@
           "home_team": "FC Porto B",
           "away_team": "CD Trofense",
           "result": {
-            "full_time": "4-2"
+            "breakdown": [
+              "2-1"
+            ],
+            "full_time": "2-1"
           }
         },
         {
@@ -2319,7 +2997,10 @@
           "home_team": "União Torreense",
           "away_team": "Sporting Covilhã",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         }
       ]
@@ -2333,7 +3014,10 @@
           "home_team": "UD Oliveirense",
           "away_team": "SC Farense",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -2342,6 +3026,9 @@
           "home_team": "B-SAD",
           "away_team": "Académico de Viseu",
           "result": {
+            "breakdown": [
+              "1-1"
+            ],
             "full_time": "1-1"
           }
         },
@@ -2351,7 +3038,10 @@
           "home_team": "CD Trofense",
           "away_team": "CD Tondela",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2360,7 +3050,10 @@
           "home_team": "Leixões SC",
           "away_team": "Sporting Covilhã",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -2369,7 +3062,10 @@
           "home_team": "CD Mafra",
           "away_team": "União Torreense",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2378,7 +3074,10 @@
           "home_team": "Moreirense FC",
           "away_team": "SL Benfica B",
           "result": {
-            "full_time": "7-4"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -2387,7 +3086,10 @@
           "home_team": "CD Feirense",
           "away_team": "FC Porto B",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -2396,7 +3098,10 @@
           "home_team": "FC Penafiel",
           "away_team": "CD Nacional",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2405,7 +3110,10 @@
           "home_team": "UD Vilafranquense",
           "away_team": "Estrela Amadora",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -2428,7 +3136,10 @@
           "home_team": "Académico de Viseu",
           "away_team": "UD Oliveirense",
           "result": {
-            "full_time": "1-4"
+            "breakdown": [
+              "0-3"
+            ],
+            "full_time": "0-3"
           }
         },
         {
@@ -2437,7 +3148,10 @@
           "home_team": "União Torreense",
           "away_team": "Leixões SC",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2446,7 +3160,10 @@
           "home_team": "SC Farense",
           "away_team": "FC Penafiel",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2455,7 +3172,10 @@
           "home_team": "CD Tondela",
           "away_team": "UD Vilafranquense",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2464,6 +3184,9 @@
           "home_team": "Estrela Amadora",
           "away_team": "B-SAD",
           "result": {
+            "breakdown": [
+              "2-0"
+            ],
             "full_time": "2-0"
           }
         },
@@ -2491,7 +3214,10 @@
           "home_team": "Sporting Covilhã",
           "away_team": "CD Mafra",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         }
       ]
@@ -2505,7 +3231,10 @@
           "home_team": "UD Oliveirense",
           "away_team": "Estrela Amadora",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2514,7 +3243,10 @@
           "home_team": "CD Feirense",
           "away_team": "SC Farense",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -2523,6 +3255,9 @@
           "home_team": "UD Vilafranquense",
           "away_team": "União Torreense",
           "result": {
+            "breakdown": [
+              "2-0"
+            ],
             "full_time": "2-0"
           }
         },
@@ -2532,7 +3267,10 @@
           "home_team": "Moreirense FC",
           "away_team": "CD Tondela",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -2541,7 +3279,10 @@
           "home_team": "B-SAD",
           "away_team": "Sporting Covilhã",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2550,7 +3291,10 @@
           "home_team": "Leixões SC",
           "away_team": "CD Mafra",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -2559,7 +3303,10 @@
           "home_team": "FC Porto B",
           "away_team": "CD Nacional",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2568,7 +3315,10 @@
           "home_team": "FC Penafiel",
           "away_team": "SL Benfica B",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -2577,7 +3327,10 @@
           "home_team": "CD Trofense",
           "away_team": "Académico de Viseu",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -2591,7 +3344,10 @@
           "home_team": "Leixões SC",
           "away_team": "B-SAD",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2600,7 +3356,10 @@
           "home_team": "CD Mafra",
           "away_team": "UD Vilafranquense",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -2609,7 +3368,10 @@
           "home_team": "Sporting Covilhã",
           "away_team": "UD Oliveirense",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -2618,7 +3380,10 @@
           "home_team": "CD Tondela",
           "away_team": "CD Feirense",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2627,7 +3392,10 @@
           "home_team": "Estrela Amadora",
           "away_team": "Moreirense FC",
           "result": {
-            "full_time": "2-4"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2636,7 +3404,10 @@
           "home_team": "SL Benfica B",
           "away_team": "CD Nacional",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -2663,7 +3434,10 @@
           "home_team": "SC Farense",
           "away_team": "FC Porto B",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -2677,7 +3451,10 @@
           "home_team": "CD Trofense",
           "away_team": "Estrela Amadora",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -2686,7 +3463,10 @@
           "home_team": "B-SAD",
           "away_team": "CD Mafra",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -2695,6 +3475,9 @@
           "home_team": "CD Feirense",
           "away_team": "SL Benfica B",
           "result": {
+            "breakdown": [
+              "1-2"
+            ],
             "full_time": "1-2"
           }
         },
@@ -2704,7 +3487,10 @@
           "home_team": "CD Nacional",
           "away_team": "SC Farense",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2713,7 +3499,10 @@
           "home_team": "FC Penafiel",
           "away_team": "CD Tondela",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2722,7 +3511,10 @@
           "home_team": "Moreirense FC",
           "away_team": "Leixões SC",
           "result": {
-            "full_time": "4-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2731,7 +3523,10 @@
           "home_team": "FC Porto B",
           "away_team": "Académico de Viseu",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "2-1"
+            ],
+            "full_time": "2-1"
           }
         },
         {
@@ -2749,7 +3544,10 @@
           "home_team": "UD Oliveirense",
           "away_team": "União Torreense",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -2763,7 +3561,10 @@
           "home_team": "SL Benfica B",
           "away_team": "SC Farense",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2772,7 +3573,10 @@
           "home_team": "Leixões SC",
           "away_team": "UD Vilafranquense",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2781,7 +3585,10 @@
           "home_team": "Sporting Covilhã",
           "away_team": "CD Trofense",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -2790,7 +3597,10 @@
           "home_team": "Académico de Viseu",
           "away_team": "CD Feirense",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -2799,6 +3609,9 @@
           "home_team": "B-SAD",
           "away_team": "UD Oliveirense",
           "result": {
+            "breakdown": [
+              "2-1"
+            ],
             "full_time": "2-1"
           }
         },
@@ -2808,7 +3621,10 @@
           "home_team": "Estrela Amadora",
           "away_team": "CD Nacional",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2817,7 +3633,10 @@
           "home_team": "CD Mafra",
           "away_team": "Moreirense FC",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2826,7 +3645,10 @@
           "home_team": "União Torreense",
           "away_team": "FC Penafiel",
           "result": {
-            "full_time": "5-1"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -2835,7 +3657,10 @@
           "home_team": "CD Tondela",
           "away_team": "FC Porto B",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -2849,7 +3674,10 @@
           "home_team": "Moreirense FC",
           "away_team": "Sporting Covilhã",
           "result": {
-            "full_time": "6-4"
+            "breakdown": [
+              "4-3"
+            ],
+            "full_time": "4-3"
           }
         },
         {
@@ -2858,7 +3686,10 @@
           "home_team": "CD Feirense",
           "away_team": "União Torreense",
           "result": {
-            "full_time": "4-1"
+            "breakdown": [
+              "3-1"
+            ],
+            "full_time": "3-1"
           }
         },
         {
@@ -2867,7 +3698,10 @@
           "home_team": "FC Penafiel",
           "away_team": "Estrela Amadora",
           "result": {
-            "full_time": "2-4"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -2876,7 +3710,10 @@
           "home_team": "FC Porto B",
           "away_team": "SL Benfica B",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2885,7 +3722,10 @@
           "home_team": "UD Oliveirense",
           "away_team": "Leixões SC",
           "result": {
-            "full_time": "4-3"
+            "breakdown": [
+              "4-1"
+            ],
+            "full_time": "4-1"
           }
         },
         {
@@ -2894,7 +3734,10 @@
           "home_team": "CD Nacional",
           "away_team": "Académico de Viseu",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -2903,7 +3746,10 @@
           "home_team": "CD Trofense",
           "away_team": "CD Mafra",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -2912,7 +3758,10 @@
           "home_team": "UD Vilafranquense",
           "away_team": "B-SAD",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -2921,6 +3770,9 @@
           "home_team": "SC Farense",
           "away_team": "CD Tondela",
           "result": {
+            "breakdown": [
+              "3-1"
+            ],
             "full_time": "3-1"
           }
         }

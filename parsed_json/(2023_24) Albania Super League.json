@@ -11,7 +11,10 @@
           "home_team": "Egnatia Rrogozhine",
           "away_team": "KF Skënderbeu",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -20,7 +23,10 @@
           "home_team": "FK Vllaznia",
           "away_team": "FK Kukësi",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "2-1"
+            ],
+            "full_time": "2-1"
           }
         },
         {
@@ -29,7 +35,10 @@
           "home_team": "KF Laçi",
           "away_team": "Erzeni Shijak",
           "result": {
-            "full_time": "3-3"
+            "breakdown": [
+              "2-1"
+            ],
+            "full_time": "2-1"
           }
         },
         {
@@ -38,7 +47,10 @@
           "home_team": "FC Dinamo City",
           "away_team": "KF Tiranë",
           "result": {
-            "full_time": "2-3"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -47,7 +59,10 @@
           "home_team": "FK Partizani",
           "away_team": "KF Teuta Durrës",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         }
       ]
@@ -61,7 +76,10 @@
           "home_team": "Erzeni Shijak",
           "away_team": "FK Vllaznia",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -70,7 +88,10 @@
           "home_team": "KF Skënderbeu",
           "away_team": "FC Dinamo City",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -79,7 +100,10 @@
           "home_team": "KF Teuta Durrës",
           "away_team": "KF Tiranë",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "2-1"
+            ],
+            "full_time": "2-1"
           }
         },
         {
@@ -88,7 +112,10 @@
           "home_team": "FK Kukësi",
           "away_team": "Egnatia Rrogozhine",
           "result": {
-            "full_time": "0-4"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -97,7 +124,10 @@
           "home_team": "FK Partizani",
           "away_team": "KF Laçi",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -111,7 +141,10 @@
           "home_team": "Egnatia Rrogozhine",
           "away_team": "Erzeni Shijak",
           "result": {
-            "full_time": "4-3"
+            "breakdown": [
+              "4-1"
+            ],
+            "full_time": "4-1"
           }
         },
         {
@@ -120,7 +153,10 @@
           "home_team": "FC Dinamo City",
           "away_team": "FK Kukësi",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -129,7 +165,10 @@
           "home_team": "KF Tiranë",
           "away_team": "KF Skënderbeu",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -147,7 +186,10 @@
           "home_team": "KF Laçi",
           "away_team": "KF Teuta Durrës",
           "result": {
-            "full_time": "6-1"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         }
       ]
@@ -161,7 +203,10 @@
           "home_team": "Erzeni Shijak",
           "away_team": "FC Dinamo City",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -170,7 +215,10 @@
           "home_team": "FK Kukësi",
           "away_team": "KF Tiranë",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -179,6 +227,9 @@
           "home_team": "FK Partizani",
           "away_team": "Egnatia Rrogozhine",
           "result": {
+            "breakdown": [
+              "1-1"
+            ],
             "full_time": "1-1"
           }
         },
@@ -188,7 +239,10 @@
           "home_team": "KF Laçi",
           "away_team": "FK Vllaznia",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -197,6 +251,9 @@
           "home_team": "KF Teuta Durrës",
           "away_team": "KF Skënderbeu",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         }
@@ -211,6 +268,9 @@
           "home_team": "KF Tiranë",
           "away_team": "Erzeni Shijak",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -220,7 +280,10 @@
           "home_team": "FC Dinamo City",
           "away_team": "FK Partizani",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -229,7 +292,10 @@
           "home_team": "Egnatia Rrogozhine",
           "away_team": "KF Laçi",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -238,6 +304,9 @@
           "home_team": "KF Skënderbeu",
           "away_team": "FK Kukësi",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -247,6 +316,9 @@
           "home_team": "FK Vllaznia",
           "away_team": "KF Teuta Durrës",
           "result": {
+            "breakdown": [
+              "2-0"
+            ],
             "full_time": "2-0"
           }
         }
@@ -261,7 +333,10 @@
           "home_team": "Erzeni Shijak",
           "away_team": "KF Skënderbeu",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -270,7 +345,10 @@
           "home_team": "FK Vllaznia",
           "away_team": "Egnatia Rrogozhine",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -288,6 +366,9 @@
           "home_team": "KF Laçi",
           "away_team": "FC Dinamo City",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -297,7 +378,10 @@
           "home_team": "FK Partizani",
           "away_team": "KF Tiranë",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -311,7 +395,10 @@
           "home_team": "Egnatia Rrogozhine",
           "away_team": "KF Teuta Durrës",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -320,7 +407,10 @@
           "home_team": "KF Skënderbeu",
           "away_team": "FK Partizani",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -329,7 +419,10 @@
           "home_team": "FK Kukësi",
           "away_team": "Erzeni Shijak",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -338,7 +431,10 @@
           "home_team": "FC Dinamo City",
           "away_team": "FK Vllaznia",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -347,7 +443,10 @@
           "home_team": "KF Tiranë",
           "away_team": "KF Laçi",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         }
       ]
@@ -361,7 +460,10 @@
           "home_team": "Egnatia Rrogozhine",
           "away_team": "FC Dinamo City",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -370,7 +472,10 @@
           "home_team": "FK Vllaznia",
           "away_team": "KF Tiranë",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -379,7 +484,10 @@
           "home_team": "KF Laçi",
           "away_team": "KF Skënderbeu",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -388,7 +496,10 @@
           "home_team": "FK Partizani",
           "away_team": "FK Kukësi",
           "result": {
-            "full_time": "4-3"
+            "breakdown": [
+              "3-1"
+            ],
+            "full_time": "3-1"
           }
         },
         {
@@ -397,7 +508,10 @@
           "home_team": "KF Teuta Durrës",
           "away_team": "Erzeni Shijak",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -411,7 +525,10 @@
           "home_team": "KF Skënderbeu",
           "away_team": "FK Vllaznia",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -420,7 +537,10 @@
           "home_team": "FK Kukësi",
           "away_team": "KF Laçi",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -429,7 +549,10 @@
           "home_team": "FC Dinamo City",
           "away_team": "KF Teuta Durrës",
           "result": {
-            "full_time": "2-3"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -438,7 +561,10 @@
           "home_team": "KF Tiranë",
           "away_team": "Egnatia Rrogozhine",
           "result": {
-            "full_time": "2-3"
+            "breakdown": [
+              "2-1"
+            ],
+            "full_time": "2-1"
           }
         },
         {
@@ -447,7 +573,10 @@
           "home_team": "Erzeni Shijak",
           "away_team": "FK Partizani",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         }
       ]
@@ -461,7 +590,10 @@
           "home_team": "FK Kukësi",
           "away_team": "FK Vllaznia",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -479,7 +611,10 @@
           "home_team": "KF Tiranë",
           "away_team": "FC Dinamo City",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -488,7 +623,10 @@
           "home_team": "KF Teuta Durrës",
           "away_team": "FK Partizani",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -497,7 +635,10 @@
           "home_team": "KF Skënderbeu",
           "away_team": "Egnatia Rrogozhine",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         }
       ]
@@ -511,7 +652,10 @@
           "home_team": "Egnatia Rrogozhine",
           "away_team": "FK Kukësi",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -520,6 +664,9 @@
           "home_team": "FC Dinamo City",
           "away_team": "KF Skënderbeu",
           "result": {
+            "breakdown": [
+              "2-1"
+            ],
             "full_time": "2-1"
           }
         },
@@ -529,7 +676,10 @@
           "home_team": "KF Laçi",
           "away_team": "FK Partizani",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -538,7 +688,10 @@
           "home_team": "KF Tiranë",
           "away_team": "KF Teuta Durrës",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -547,7 +700,10 @@
           "home_team": "FK Vllaznia",
           "away_team": "Erzeni Shijak",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         }
       ]
@@ -561,7 +717,10 @@
           "home_team": "Erzeni Shijak",
           "away_team": "Egnatia Rrogozhine",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -579,7 +738,10 @@
           "home_team": "KF Teuta Durrës",
           "away_team": "KF Laçi",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -588,6 +750,9 @@
           "home_team": "KF Skënderbeu",
           "away_team": "KF Tiranë",
           "result": {
+            "breakdown": [
+              "1-1"
+            ],
             "full_time": "1-1"
           }
         },
@@ -597,7 +762,10 @@
           "home_team": "FK Partizani",
           "away_team": "FK Vllaznia",
           "result": {
-            "full_time": "4-1"
+            "breakdown": [
+              "3-1"
+            ],
+            "full_time": "3-1"
           }
         }
       ]
@@ -611,6 +779,9 @@
           "home_team": "Egnatia Rrogozhine",
           "away_team": "FK Partizani",
           "result": {
+            "breakdown": [
+              "1-1"
+            ],
             "full_time": "1-1"
           }
         },
@@ -620,7 +791,10 @@
           "home_team": "FC Dinamo City",
           "away_team": "Erzeni Shijak",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -629,7 +803,10 @@
           "home_team": "KF Tiranë",
           "away_team": "FK Kukësi",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -647,7 +824,10 @@
           "home_team": "KF Skënderbeu",
           "away_team": "KF Teuta Durrës",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         }
       ]
@@ -661,6 +841,9 @@
           "home_team": "Erzeni Shijak",
           "away_team": "KF Tiranë",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -679,7 +862,10 @@
           "home_team": "KF Laçi",
           "away_team": "Egnatia Rrogozhine",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -688,7 +874,10 @@
           "home_team": "FK Kukësi",
           "away_team": "KF Skënderbeu",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -697,6 +886,9 @@
           "home_team": "KF Teuta Durrës",
           "away_team": "FK Vllaznia",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         }
@@ -711,6 +903,9 @@
           "home_team": "Egnatia Rrogozhine",
           "away_team": "FK Vllaznia",
           "result": {
+            "breakdown": [
+              "3-0"
+            ],
             "full_time": "3-0"
           }
         },
@@ -720,6 +915,9 @@
           "home_team": "KF Skënderbeu",
           "away_team": "Erzeni Shijak",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -738,7 +936,10 @@
           "home_team": "FC Dinamo City",
           "away_team": "KF Laçi",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -747,7 +948,10 @@
           "home_team": "KF Tiranë",
           "away_team": "FK Partizani",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         }
       ]
@@ -761,7 +965,10 @@
           "home_team": "KF Laçi",
           "away_team": "KF Tiranë",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -779,7 +986,10 @@
           "home_team": "FK Vllaznia",
           "away_team": "FC Dinamo City",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "2-1"
+            ],
+            "full_time": "2-1"
           }
         },
         {
@@ -788,7 +998,10 @@
           "home_team": "KF Teuta Durrës",
           "away_team": "Egnatia Rrogozhine",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -797,7 +1010,10 @@
           "home_team": "FK Partizani",
           "away_team": "KF Skënderbeu",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         }
       ]
@@ -811,7 +1027,10 @@
           "home_team": "FK Kukësi",
           "away_team": "FK Partizani",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -820,7 +1039,10 @@
           "home_team": "FC Dinamo City",
           "away_team": "Egnatia Rrogozhine",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -829,6 +1051,9 @@
           "home_team": "KF Tiranë",
           "away_team": "FK Vllaznia",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -847,6 +1072,9 @@
           "home_team": "KF Skënderbeu",
           "away_team": "KF Laçi",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         }
@@ -861,6 +1089,9 @@
           "home_team": "KF Teuta Durrës",
           "away_team": "FC Dinamo City",
           "result": {
+            "breakdown": [
+              "1-2"
+            ],
             "full_time": "1-2"
           }
         },
@@ -870,7 +1101,10 @@
           "home_team": "FK Vllaznia",
           "away_team": "KF Skënderbeu",
           "result": {
-            "full_time": "5-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -879,7 +1113,10 @@
           "home_team": "KF Laçi",
           "away_team": "FK Kukësi",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -888,7 +1125,10 @@
           "home_team": "Egnatia Rrogozhine",
           "away_team": "KF Tiranë",
           "result": {
-            "full_time": "0-5"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -897,7 +1137,10 @@
           "home_team": "FK Partizani",
           "away_team": "Erzeni Shijak",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         }
       ]
@@ -911,7 +1154,10 @@
           "home_team": "FC Dinamo City",
           "away_team": "KF Tiranë",
           "result": {
-            "full_time": "2-3"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -920,7 +1166,10 @@
           "home_team": "Egnatia Rrogozhine",
           "away_team": "KF Skënderbeu",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -929,6 +1178,9 @@
           "home_team": "FK Partizani",
           "away_team": "KF Teuta Durrës",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -947,6 +1199,9 @@
           "home_team": "FK Vllaznia",
           "away_team": "FK Kukësi",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         }
@@ -961,7 +1216,10 @@
           "home_team": "FK Kukësi",
           "away_team": "Egnatia Rrogozhine",
           "result": {
-            "full_time": "1-4"
+            "breakdown": [
+              "0-3"
+            ],
+            "full_time": "0-3"
           }
         },
         {
@@ -970,7 +1228,10 @@
           "home_team": "KF Teuta Durrës",
           "away_team": "KF Tiranë",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -979,7 +1240,10 @@
           "home_team": "Erzeni Shijak",
           "away_team": "FK Vllaznia",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -988,7 +1252,10 @@
           "home_team": "FK Partizani",
           "away_team": "KF Laçi",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -997,7 +1264,10 @@
           "home_team": "KF Skënderbeu",
           "away_team": "FC Dinamo City",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -1011,7 +1281,10 @@
           "home_team": "KF Laçi",
           "away_team": "KF Teuta Durrës",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1020,6 +1293,9 @@
           "home_team": "FK Vllaznia",
           "away_team": "FK Partizani",
           "result": {
+            "breakdown": [
+              "1-1"
+            ],
             "full_time": "1-1"
           }
         },
@@ -1029,7 +1305,10 @@
           "home_team": "KF Tiranë",
           "away_team": "KF Skënderbeu",
           "result": {
-            "full_time": "3-4"
+            "breakdown": [
+              "2-3"
+            ],
+            "full_time": "2-3"
           }
         },
         {
@@ -1038,7 +1317,10 @@
           "home_team": "Egnatia Rrogozhine",
           "away_team": "Erzeni Shijak",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1047,7 +1329,10 @@
           "home_team": "FC Dinamo City",
           "away_team": "FK Kukësi",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         }
       ]
@@ -1061,7 +1346,10 @@
           "home_team": "FK Kukësi",
           "away_team": "KF Tiranë",
           "result": {
-            "full_time": "2-3"
+            "breakdown": [
+              "2-1"
+            ],
+            "full_time": "2-1"
           }
         },
         {
@@ -1070,7 +1358,10 @@
           "home_team": "FK Partizani",
           "away_team": "Egnatia Rrogozhine",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1079,6 +1370,9 @@
           "home_team": "KF Teuta Durrës",
           "away_team": "KF Skënderbeu",
           "result": {
+            "breakdown": [
+              "3-0"
+            ],
             "full_time": "3-0"
           }
         },
@@ -1088,7 +1382,10 @@
           "home_team": "KF Laçi",
           "away_team": "FK Vllaznia",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1097,7 +1394,10 @@
           "home_team": "Erzeni Shijak",
           "away_team": "FC Dinamo City",
           "result": {
-            "full_time": "0-4"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         }
       ]
@@ -1120,7 +1420,10 @@
           "home_team": "FK Vllaznia",
           "away_team": "KF Teuta Durrës",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1129,7 +1432,10 @@
           "home_team": "FC Dinamo City",
           "away_team": "FK Partizani",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1138,7 +1444,10 @@
           "home_team": "KF Tiranë",
           "away_team": "Erzeni Shijak",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1147,6 +1456,9 @@
           "home_team": "KF Skënderbeu",
           "away_team": "FK Kukësi",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         }
@@ -1161,7 +1473,10 @@
           "home_team": "KF Teuta Durrës",
           "away_team": "FK Kukësi",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1170,6 +1485,9 @@
           "home_team": "FK Partizani",
           "away_team": "KF Tiranë",
           "result": {
+            "breakdown": [
+              "2-1"
+            ],
             "full_time": "2-1"
           }
         },
@@ -1179,7 +1497,10 @@
           "home_team": "KF Laçi",
           "away_team": "FC Dinamo City",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1188,7 +1509,10 @@
           "home_team": "Erzeni Shijak",
           "away_team": "KF Skënderbeu",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -1197,7 +1521,10 @@
           "home_team": "FK Vllaznia",
           "away_team": "Egnatia Rrogozhine",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         }
       ]
@@ -1220,7 +1547,10 @@
           "home_team": "FK Kukësi",
           "away_team": "Erzeni Shijak",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1229,6 +1559,9 @@
           "home_team": "KF Skënderbeu",
           "away_team": "FK Partizani",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -1238,6 +1571,9 @@
           "home_team": "FC Dinamo City",
           "away_team": "FK Vllaznia",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -1247,7 +1583,10 @@
           "home_team": "KF Tiranë",
           "away_team": "KF Laçi",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -1261,7 +1600,10 @@
           "home_team": "KF Laçi",
           "away_team": "KF Skënderbeu",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1270,7 +1612,10 @@
           "home_team": "Egnatia Rrogozhine",
           "away_team": "FC Dinamo City",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1279,7 +1624,10 @@
           "home_team": "FK Partizani",
           "away_team": "FK Kukësi",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1288,7 +1636,10 @@
           "home_team": "FK Vllaznia",
           "away_team": "KF Tiranë",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -1297,7 +1648,10 @@
           "home_team": "KF Teuta Durrës",
           "away_team": "Erzeni Shijak",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         }
       ]
@@ -1311,7 +1665,10 @@
           "home_team": "Erzeni Shijak",
           "away_team": "FK Partizani",
           "result": {
-            "full_time": "0-4"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -1320,7 +1677,10 @@
           "home_team": "KF Tiranë",
           "away_team": "Egnatia Rrogozhine",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1329,7 +1689,10 @@
           "home_team": "FK Kukësi",
           "away_team": "KF Laçi",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1338,7 +1701,10 @@
           "home_team": "KF Skënderbeu",
           "away_team": "FK Vllaznia",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1347,7 +1713,10 @@
           "home_team": "FC Dinamo City",
           "away_team": "KF Teuta Durrës",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -1370,7 +1739,10 @@
           "home_team": "KF Teuta Durrës",
           "away_team": "FK Partizani",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1379,6 +1751,9 @@
           "home_team": "KF Skënderbeu",
           "away_team": "Egnatia Rrogozhine",
           "result": {
+            "breakdown": [
+              "2-0"
+            ],
             "full_time": "2-0"
           }
         },
@@ -1388,7 +1763,10 @@
           "home_team": "FK Kukësi",
           "away_team": "FK Vllaznia",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1397,7 +1775,10 @@
           "home_team": "KF Tiranë",
           "away_team": "FC Dinamo City",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         }
       ]
@@ -1411,6 +1792,9 @@
           "home_team": "Egnatia Rrogozhine",
           "away_team": "FK Kukësi",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -1420,6 +1804,9 @@
           "home_team": "FK Vllaznia",
           "away_team": "Erzeni Shijak",
           "result": {
+            "breakdown": [
+              "1-1"
+            ],
             "full_time": "1-1"
           }
         },
@@ -1429,7 +1816,10 @@
           "home_team": "KF Tiranë",
           "away_team": "KF Teuta Durrës",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1438,7 +1828,10 @@
           "home_team": "KF Laçi",
           "away_team": "FK Partizani",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1447,7 +1840,10 @@
           "home_team": "FC Dinamo City",
           "away_team": "KF Skënderbeu",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         }
       ]
@@ -1461,7 +1857,10 @@
           "home_team": "FK Kukësi",
           "away_team": "FC Dinamo City",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1470,7 +1869,10 @@
           "home_team": "KF Teuta Durrës",
           "away_team": "KF Laçi",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1488,7 +1890,10 @@
           "home_team": "Erzeni Shijak",
           "away_team": "Egnatia Rrogozhine",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1511,7 +1916,10 @@
           "home_team": "KF Tiranë",
           "away_team": "FK Kukësi",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1520,7 +1928,10 @@
           "home_team": "FK Vllaznia",
           "away_team": "KF Laçi",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1529,7 +1940,10 @@
           "home_team": "KF Skënderbeu",
           "away_team": "KF Teuta Durrës",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1538,7 +1952,10 @@
           "home_team": "Egnatia Rrogozhine",
           "away_team": "FK Partizani",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -1547,7 +1964,10 @@
           "home_team": "FC Dinamo City",
           "away_team": "Erzeni Shijak",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         }
       ]
@@ -1561,7 +1981,10 @@
           "home_team": "Erzeni Shijak",
           "away_team": "KF Tiranë",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1570,7 +1993,10 @@
           "home_team": "FK Kukësi",
           "away_team": "KF Skënderbeu",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1579,7 +2005,10 @@
           "home_team": "KF Laçi",
           "away_team": "Egnatia Rrogozhine",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1597,7 +2026,10 @@
           "home_team": "FK Partizani",
           "away_team": "FC Dinamo City",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         }
       ]
@@ -1620,6 +2052,9 @@
           "home_team": "KF Skënderbeu",
           "away_team": "Erzeni Shijak",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -1629,6 +2064,9 @@
           "home_team": "Egnatia Rrogozhine",
           "away_team": "FK Vllaznia",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -1638,7 +2076,10 @@
           "home_team": "FK Kukësi",
           "away_team": "KF Teuta Durrës",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1647,7 +2088,10 @@
           "home_team": "KF Tiranë",
           "away_team": "FK Partizani",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         }
       ]
@@ -1661,6 +2105,9 @@
           "home_team": "KF Teuta Durrës",
           "away_team": "Egnatia Rrogozhine",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -1670,7 +2117,10 @@
           "home_team": "FK Vllaznia",
           "away_team": "FC Dinamo City",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1679,7 +2129,10 @@
           "home_team": "KF Laçi",
           "away_team": "KF Tiranë",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1688,7 +2141,10 @@
           "home_team": "FK Partizani",
           "away_team": "KF Skënderbeu",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1697,7 +2153,10 @@
           "home_team": "Erzeni Shijak",
           "away_team": "FK Kukësi",
           "result": {
-            "full_time": "3-3"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         }
       ]
@@ -1711,6 +2170,9 @@
           "home_team": "FK Kukësi",
           "away_team": "FK Partizani",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -1720,7 +2182,10 @@
           "home_team": "KF Skënderbeu",
           "away_team": "KF Laçi",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1738,6 +2203,9 @@
           "home_team": "FC Dinamo City",
           "away_team": "Egnatia Rrogozhine",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -1747,7 +2215,10 @@
           "home_team": "Erzeni Shijak",
           "away_team": "KF Teuta Durrës",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         }
       ]
@@ -1761,7 +2232,10 @@
           "home_team": "KF Teuta Durrës",
           "away_team": "FC Dinamo City",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1770,7 +2244,10 @@
           "home_team": "Egnatia Rrogozhine",
           "away_team": "KF Tiranë",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -1779,7 +2256,10 @@
           "home_team": "FK Vllaznia",
           "away_team": "KF Skënderbeu",
           "result": {
-            "full_time": "1-5"
+            "breakdown": [
+              "1-2"
+            ],
+            "full_time": "1-2"
           }
         },
         {
@@ -1788,7 +2268,10 @@
           "home_team": "KF Laçi",
           "away_team": "FK Kukësi",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1797,6 +2280,9 @@
           "home_team": "FK Partizani",
           "away_team": "Erzeni Shijak",
           "result": {
+            "breakdown": [
+              "4-0"
+            ],
             "full_time": "4-0"
           }
         }
@@ -1811,7 +2297,10 @@
           "home_team": "FK Partizani",
           "away_team": "KF Skënderbeu",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1834,7 +2323,10 @@
           "home_team": "KF Skënderbeu",
           "away_team": "FK Vllaznia",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "3-1"
+            ],
+            "full_time": "3-1"
           }
         }
       ]
@@ -1848,6 +2340,9 @@
           "home_team": "FK Partizani",
           "away_team": "Egnatia Rrogozhine",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         }

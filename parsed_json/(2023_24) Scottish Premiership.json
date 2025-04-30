@@ -11,7 +11,10 @@
           "home_team": "Celtic FC",
           "away_team": "Ross County FC",
           "result": {
-            "full_time": "4-2"
+            "breakdown": [
+              "3-0"
+            ],
+            "full_time": "3-0"
           }
         },
         {
@@ -20,7 +23,10 @@
           "home_team": "Dundee FC",
           "away_team": "Motherwell FC",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -38,7 +44,10 @@
           "home_team": "St. Johnstone FC",
           "away_team": "Heart of Midlothian",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -47,7 +56,10 @@
           "home_team": "Kilmarnock FC",
           "away_team": "Rangers FC",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -56,7 +68,10 @@
           "home_team": "Hibernian FC",
           "away_team": "St. Mirren FC",
           "result": {
-            "full_time": "2-3"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         }
       ]
@@ -70,7 +85,10 @@
           "home_team": "Rangers FC",
           "away_team": "Livingston FC",
           "result": {
-            "full_time": "4-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -79,7 +97,10 @@
           "home_team": "Ross County FC",
           "away_team": "St. Johnstone FC",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -88,7 +109,10 @@
           "home_team": "St. Mirren FC",
           "away_team": "Dundee FC",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -97,7 +121,10 @@
           "home_team": "Aberdeen FC",
           "away_team": "Celtic FC",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "1-2"
+            ],
+            "full_time": "1-2"
           }
         },
         {
@@ -115,7 +142,10 @@
           "home_team": "Motherwell FC",
           "away_team": "Hibernian FC",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -129,6 +159,9 @@
           "home_team": "Ross County FC",
           "away_team": "Rangers FC",
           "result": {
+            "breakdown": [
+              "0-2"
+            ],
             "full_time": "0-2"
           }
         },
@@ -147,7 +180,10 @@
           "home_team": "Hibernian FC",
           "away_team": "Livingston FC",
           "result": {
-            "full_time": "2-3"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -156,7 +192,10 @@
           "home_team": "Motherwell FC",
           "away_team": "Kilmarnock FC",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -165,7 +204,10 @@
           "home_team": "Dundee FC",
           "away_team": "Heart of Midlothian",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -174,7 +216,10 @@
           "home_team": "St. Mirren FC",
           "away_team": "Aberdeen FC",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         }
       ]
@@ -188,7 +233,10 @@
           "home_team": "Kilmarnock FC",
           "away_team": "Ross County FC",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -197,7 +245,10 @@
           "home_team": "Livingston FC",
           "away_team": "St. Mirren FC",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -206,7 +257,10 @@
           "home_team": "St. Johnstone FC",
           "away_team": "Dundee FC",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -215,6 +269,9 @@
           "home_team": "Rangers FC",
           "away_team": "Celtic FC",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -224,7 +281,10 @@
           "home_team": "Aberdeen FC",
           "away_team": "Hibernian FC",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -233,6 +293,9 @@
           "home_team": "Heart of Midlothian",
           "away_team": "Motherwell FC",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         }
@@ -247,7 +310,10 @@
           "home_team": "St. Johnstone FC",
           "away_team": "Rangers FC",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -256,7 +322,10 @@
           "home_team": "Celtic FC",
           "away_team": "Dundee FC",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -265,7 +334,10 @@
           "home_team": "Kilmarnock FC",
           "away_team": "Hibernian FC",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -274,7 +346,10 @@
           "home_team": "Heart of Midlothian",
           "away_team": "Aberdeen FC",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -283,7 +358,10 @@
           "home_team": "Motherwell FC",
           "away_team": "St. Mirren FC",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -292,7 +370,10 @@
           "home_team": "Ross County FC",
           "away_team": "Livingston FC",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -306,7 +387,10 @@
           "home_team": "Livingston FC",
           "away_team": "Celtic FC",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -315,7 +399,10 @@
           "home_team": "Dundee FC",
           "away_team": "Kilmarnock FC",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -324,7 +411,10 @@
           "home_team": "Hibernian FC",
           "away_team": "St. Johnstone FC",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -333,6 +423,9 @@
           "home_team": "St. Mirren FC",
           "away_team": "Heart of Midlothian",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -342,7 +435,10 @@
           "home_team": "Aberdeen FC",
           "away_team": "Ross County FC",
           "result": {
-            "full_time": "4-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -351,6 +447,9 @@
           "home_team": "Rangers FC",
           "away_team": "Motherwell FC",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         }
@@ -365,7 +464,10 @@
           "home_team": "Motherwell FC",
           "away_team": "Celtic FC",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -374,6 +476,9 @@
           "home_team": "Kilmarnock FC",
           "away_team": "St. Mirren FC",
           "result": {
+            "breakdown": [
+              "1-1"
+            ],
             "full_time": "1-1"
           }
         },
@@ -383,7 +488,10 @@
           "home_team": "Rangers FC",
           "away_team": "Aberdeen FC",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -401,7 +509,10 @@
           "home_team": "Ross County FC",
           "away_team": "Heart of Midlothian",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -410,7 +521,10 @@
           "home_team": "St. Johnstone FC",
           "away_team": "Livingston FC",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         }
       ]
@@ -424,7 +538,10 @@
           "home_team": "Celtic FC",
           "away_team": "Kilmarnock FC",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -433,7 +550,10 @@
           "home_team": "Heart of Midlothian",
           "away_team": "Hibernian FC",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -442,7 +562,10 @@
           "home_team": "Livingston FC",
           "away_team": "Motherwell FC",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -451,7 +574,10 @@
           "home_team": "St. Mirren FC",
           "away_team": "Rangers FC",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -483,7 +609,10 @@
           "home_team": "Kilmarnock FC",
           "away_team": "Livingston FC",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "2-1"
+            ],
+            "full_time": "2-1"
           }
         },
         {
@@ -492,7 +621,10 @@
           "home_team": "Rangers FC",
           "away_team": "Hibernian FC",
           "result": {
-            "full_time": "4-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -501,7 +633,10 @@
           "home_team": "Heart of Midlothian",
           "away_team": "Celtic FC",
           "result": {
-            "full_time": "1-4"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -510,7 +645,10 @@
           "home_team": "St. Johnstone FC",
           "away_team": "Motherwell FC",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -519,7 +657,10 @@
           "home_team": "Ross County FC",
           "away_team": "St. Mirren FC",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -528,7 +669,10 @@
           "home_team": "Aberdeen FC",
           "away_team": "Dundee FC",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         }
       ]
@@ -551,7 +695,10 @@
           "home_team": "Livingston FC",
           "away_team": "Dundee FC",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -560,7 +707,10 @@
           "home_team": "Motherwell FC",
           "away_team": "Ross County FC",
           "result": {
-            "full_time": "3-3"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -569,7 +719,10 @@
           "home_team": "St. Mirren FC",
           "away_team": "St. Johnstone FC",
           "result": {
-            "full_time": "4-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -578,7 +731,10 @@
           "home_team": "Kilmarnock FC",
           "away_team": "Aberdeen FC",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -587,7 +743,10 @@
           "home_team": "Rangers FC",
           "away_team": "Heart of Midlothian",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         }
       ]
@@ -601,7 +760,10 @@
           "home_team": "Hibernian FC",
           "away_team": "Ross County FC",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -610,7 +772,10 @@
           "home_team": "Celtic FC",
           "away_team": "St. Mirren FC",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -619,7 +784,10 @@
           "home_team": "Heart of Midlothian",
           "away_team": "Livingston FC",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -628,7 +796,10 @@
           "home_team": "Motherwell FC",
           "away_team": "Aberdeen FC",
           "result": {
-            "full_time": "2-4"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -637,7 +808,10 @@
           "home_team": "St. Johnstone FC",
           "away_team": "Kilmarnock FC",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -646,7 +820,10 @@
           "home_team": "Dundee FC",
           "away_team": "Rangers FC",
           "result": {
-            "full_time": "0-5"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         }
       ]
@@ -660,7 +837,10 @@
           "home_team": "Ross County FC",
           "away_team": "Celtic FC",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -669,7 +849,10 @@
           "home_team": "Kilmarnock FC",
           "away_team": "Motherwell FC",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -678,7 +861,10 @@
           "home_team": "St. Mirren FC",
           "away_team": "Hibernian FC",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -687,7 +873,10 @@
           "home_team": "Aberdeen FC",
           "away_team": "Livingston FC",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -696,7 +885,10 @@
           "home_team": "Rangers FC",
           "away_team": "St. Johnstone FC",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -705,7 +897,10 @@
           "home_team": "Heart of Midlothian",
           "away_team": "Dundee FC",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         }
       ]
@@ -719,7 +914,10 @@
           "home_team": "Dundee FC",
           "away_team": "St. Mirren FC",
           "result": {
-            "full_time": "4-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -728,6 +926,9 @@
           "home_team": "Hibernian FC",
           "away_team": "Kilmarnock FC",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -737,7 +938,10 @@
           "home_team": "Motherwell FC",
           "away_team": "Heart of Midlothian",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -746,7 +950,10 @@
           "home_team": "St. Johnstone FC",
           "away_team": "Ross County FC",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -755,7 +962,10 @@
           "home_team": "Livingston FC",
           "away_team": "Rangers FC",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -764,7 +974,10 @@
           "home_team": "Celtic FC",
           "away_team": "Aberdeen FC",
           "result": {
-            "full_time": "6-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         }
       ]
@@ -778,7 +991,10 @@
           "home_team": "Celtic FC",
           "away_team": "Motherwell FC",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -787,7 +1003,10 @@
           "home_team": "Dundee FC",
           "away_team": "Hibernian FC",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -796,7 +1015,10 @@
           "home_team": "Heart of Midlothian",
           "away_team": "St. Johnstone FC",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -814,6 +1036,9 @@
           "home_team": "St. Mirren FC",
           "away_team": "Livingston FC",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -823,7 +1048,10 @@
           "home_team": "Aberdeen FC",
           "away_team": "Rangers FC",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         }
       ]
@@ -837,6 +1065,9 @@
           "home_team": "Kilmarnock FC",
           "away_team": "Heart of Midlothian",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -846,7 +1077,10 @@
           "home_team": "Motherwell FC",
           "away_team": "Dundee FC",
           "result": {
-            "full_time": "3-3"
+            "breakdown": [
+              "1-2"
+            ],
+            "full_time": "1-2"
           }
         },
         {
@@ -855,7 +1089,10 @@
           "home_team": "St. Johnstone FC",
           "away_team": "Celtic FC",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -864,7 +1101,10 @@
           "home_team": "Rangers FC",
           "away_team": "St. Mirren FC",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -873,7 +1113,10 @@
           "home_team": "Hibernian FC",
           "away_team": "Aberdeen FC",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -882,7 +1125,10 @@
           "home_team": "Livingston FC",
           "away_team": "Ross County FC",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         }
       ]
@@ -896,7 +1142,10 @@
           "home_team": "Dundee FC",
           "away_team": "Livingston FC",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -905,7 +1154,10 @@
           "home_team": "Ross County FC",
           "away_team": "Motherwell FC",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -914,7 +1166,10 @@
           "home_team": "Celtic FC",
           "away_team": "Hibernian FC",
           "result": {
-            "full_time": "4-1"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -923,7 +1178,10 @@
           "home_team": "Aberdeen FC",
           "away_team": "Kilmarnock FC",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -932,7 +1190,10 @@
           "home_team": "St. Johnstone FC",
           "away_team": "St. Mirren FC",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -941,6 +1202,9 @@
           "home_team": "Heart of Midlothian",
           "away_team": "Rangers FC",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         }
@@ -955,7 +1219,10 @@
           "home_team": "Aberdeen FC",
           "away_team": "Heart of Midlothian",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -964,6 +1231,9 @@
           "home_team": "Rangers FC",
           "away_team": "Dundee FC",
           "result": {
+            "breakdown": [
+              "3-1"
+            ],
             "full_time": "3-1"
           }
         },
@@ -973,6 +1243,9 @@
           "home_team": "Livingston FC",
           "away_team": "Hibernian FC",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -982,7 +1255,10 @@
           "home_team": "Motherwell FC",
           "away_team": "St. Johnstone FC",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -991,7 +1267,10 @@
           "home_team": "St. Mirren FC",
           "away_team": "Ross County FC",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1000,7 +1279,10 @@
           "home_team": "Kilmarnock FC",
           "away_team": "Celtic FC",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         }
       ]
@@ -1014,6 +1296,9 @@
           "home_team": "Celtic FC",
           "away_team": "Heart of Midlothian",
           "result": {
+            "breakdown": [
+              "0-2"
+            ],
             "full_time": "0-2"
           }
         },
@@ -1032,7 +1317,10 @@
           "home_team": "Ross County FC",
           "away_team": "Dundee FC",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1050,7 +1338,10 @@
           "home_team": "Hibernian FC",
           "away_team": "Rangers FC",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -1059,7 +1350,10 @@
           "home_team": "St. Johnstone FC",
           "away_team": "Aberdeen FC",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -1073,7 +1367,10 @@
           "home_team": "Celtic FC",
           "away_team": "Livingston FC",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1082,7 +1379,10 @@
           "home_team": "Kilmarnock FC",
           "away_team": "St. Johnstone FC",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -1091,7 +1391,10 @@
           "home_team": "Heart of Midlothian",
           "away_team": "St. Mirren FC",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1100,6 +1403,9 @@
           "home_team": "Motherwell FC",
           "away_team": "Rangers FC",
           "result": {
+            "breakdown": [
+              "0-2"
+            ],
             "full_time": "0-2"
           }
         },
@@ -1109,7 +1415,10 @@
           "home_team": "Dundee FC",
           "away_team": "Aberdeen FC",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1118,7 +1427,10 @@
           "home_team": "Ross County FC",
           "away_team": "Hibernian FC",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         }
       ]
@@ -1132,7 +1444,10 @@
           "home_team": "Dundee FC",
           "away_team": "Celtic FC",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1150,6 +1465,9 @@
           "home_team": "St. Mirren FC",
           "away_team": "Kilmarnock FC",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -1159,7 +1477,10 @@
           "home_team": "Hibernian FC",
           "away_team": "Heart of Midlothian",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1168,7 +1489,10 @@
           "home_team": "Aberdeen FC",
           "away_team": "Motherwell FC",
           "result": {
-            "full_time": "3-3"
+            "breakdown": [
+              "2-3"
+            ],
+            "full_time": "2-3"
           }
         },
         {
@@ -1177,7 +1501,10 @@
           "home_team": "Rangers FC",
           "away_team": "Ross County FC",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "2-1"
+            ],
+            "full_time": "2-1"
           }
         }
       ]
@@ -1191,7 +1518,10 @@
           "home_team": "St. Johnstone FC",
           "away_team": "Hibernian FC",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1200,7 +1530,10 @@
           "home_team": "Celtic FC",
           "away_team": "Rangers FC",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1209,7 +1542,10 @@
           "home_team": "Aberdeen FC",
           "away_team": "St. Mirren FC",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1218,7 +1554,10 @@
           "home_team": "Kilmarnock FC",
           "away_team": "Dundee FC",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1227,7 +1566,10 @@
           "home_team": "Heart of Midlothian",
           "away_team": "Ross County FC",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1236,6 +1578,9 @@
           "home_team": "Motherwell FC",
           "away_team": "Livingston FC",
           "result": {
+            "breakdown": [
+              "3-1"
+            ],
             "full_time": "3-1"
           }
         }
@@ -1250,7 +1595,10 @@
           "home_team": "Rangers FC",
           "away_team": "Kilmarnock FC",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -1259,7 +1607,10 @@
           "home_team": "Hibernian FC",
           "away_team": "Motherwell FC",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -1268,7 +1619,10 @@
           "home_team": "Livingston FC",
           "away_team": "Heart of Midlothian",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1277,7 +1631,10 @@
           "home_team": "Ross County FC",
           "away_team": "Aberdeen FC",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -1286,7 +1643,10 @@
           "home_team": "St. Mirren FC",
           "away_team": "Celtic FC",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -1295,7 +1655,10 @@
           "home_team": "Dundee FC",
           "away_team": "St. Johnstone FC",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         }
       ]
@@ -1309,6 +1672,9 @@
           "home_team": "St. Mirren FC",
           "away_team": "Rangers FC",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -1318,6 +1684,9 @@
           "home_team": "Celtic FC",
           "away_team": "Ross County FC",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -1327,7 +1696,10 @@
           "home_team": "Kilmarnock FC",
           "away_team": "Hibernian FC",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1336,7 +1708,10 @@
           "home_team": "Heart of Midlothian",
           "away_team": "Aberdeen FC",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1345,7 +1720,10 @@
           "home_team": "Livingston FC",
           "away_team": "Dundee FC",
           "result": {
-            "full_time": "1-4"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1354,6 +1732,9 @@
           "home_team": "St. Johnstone FC",
           "away_team": "Motherwell FC",
           "result": {
+            "breakdown": [
+              "1-1"
+            ],
             "full_time": "1-1"
           }
         }
@@ -1368,7 +1749,10 @@
           "home_team": "Aberdeen FC",
           "away_team": "Celtic FC",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1377,7 +1761,10 @@
           "home_team": "Dundee FC",
           "away_team": "Heart of Midlothian",
           "result": {
-            "full_time": "2-3"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1386,7 +1773,10 @@
           "home_team": "Rangers FC",
           "away_team": "Livingston FC",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -1395,6 +1785,9 @@
           "home_team": "Hibernian FC",
           "away_team": "St. Mirren FC",
           "result": {
+            "breakdown": [
+              "0-3"
+            ],
             "full_time": "0-3"
           }
         },
@@ -1404,6 +1797,9 @@
           "home_team": "Motherwell FC",
           "away_team": "Kilmarnock FC",
           "result": {
+            "breakdown": [
+              "1-1"
+            ],
             "full_time": "1-1"
           }
         },
@@ -1413,6 +1809,9 @@
           "home_team": "Ross County FC",
           "away_team": "St. Johnstone FC",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         }
@@ -1427,7 +1826,10 @@
           "home_team": "Motherwell FC",
           "away_team": "Ross County FC",
           "result": {
-            "full_time": "5-0"
+            "breakdown": [
+              "3-0"
+            ],
+            "full_time": "3-0"
           }
         },
         {
@@ -1436,7 +1838,10 @@
           "home_team": "Rangers FC",
           "away_team": "Aberdeen FC",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -1445,7 +1850,10 @@
           "home_team": "Kilmarnock FC",
           "away_team": "Livingston FC",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1454,7 +1862,10 @@
           "home_team": "St. Johnstone FC",
           "away_team": "Heart of Midlothian",
           "result": {
-            "full_time": "0-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1463,7 +1874,10 @@
           "home_team": "St. Mirren FC",
           "away_team": "Dundee FC",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1472,7 +1886,10 @@
           "home_team": "Hibernian FC",
           "away_team": "Celtic FC",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         }
       ]
@@ -1486,7 +1903,10 @@
           "home_team": "Celtic FC",
           "away_team": "Kilmarnock FC",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1495,7 +1915,10 @@
           "home_team": "Dundee FC",
           "away_team": "Ross County FC",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1504,7 +1927,10 @@
           "home_team": "Aberdeen FC",
           "away_team": "Hibernian FC",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -1513,7 +1939,10 @@
           "home_team": "Heart of Midlothian",
           "away_team": "Motherwell FC",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1522,6 +1951,9 @@
           "home_team": "Livingston FC",
           "away_team": "St. Mirren FC",
           "result": {
+            "breakdown": [
+              "1-0"
+            ],
             "full_time": "1-0"
           }
         },
@@ -1531,7 +1963,10 @@
           "home_team": "St. Johnstone FC",
           "away_team": "Rangers FC",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         }
       ]
@@ -1545,7 +1980,10 @@
           "home_team": "Kilmarnock FC",
           "away_team": "Aberdeen FC",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1554,7 +1992,10 @@
           "home_team": "Rangers FC",
           "away_team": "Heart of Midlothian",
           "result": {
-            "full_time": "5-0"
+            "breakdown": [
+              "3-0"
+            ],
+            "full_time": "3-0"
           }
         },
         {
@@ -1563,7 +2004,10 @@
           "home_team": "Hibernian FC",
           "away_team": "Dundee FC",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1572,7 +2016,10 @@
           "home_team": "Ross County FC",
           "away_team": "Livingston FC",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -1581,7 +2028,10 @@
           "home_team": "St. Mirren FC",
           "away_team": "St. Johnstone FC",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1590,7 +2040,10 @@
           "home_team": "Motherwell FC",
           "away_team": "Celtic FC",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         }
       ]
@@ -1604,7 +2057,10 @@
           "home_team": "Ross County FC",
           "away_team": "St. Mirren FC",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1613,7 +2069,10 @@
           "home_team": "Celtic FC",
           "away_team": "Dundee FC",
           "result": {
-            "full_time": "7-1"
+            "breakdown": [
+              "6-0"
+            ],
+            "full_time": "6-0"
           }
         },
         {
@@ -1622,7 +2081,10 @@
           "home_team": "Aberdeen FC",
           "away_team": "St. Johnstone FC",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1631,7 +2093,10 @@
           "home_team": "Kilmarnock FC",
           "away_team": "Rangers FC",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1640,6 +2105,9 @@
           "home_team": "Heart of Midlothian",
           "away_team": "Hibernian FC",
           "result": {
+            "breakdown": [
+              "1-1"
+            ],
             "full_time": "1-1"
           }
         },
@@ -1649,7 +2117,10 @@
           "home_team": "Livingston FC",
           "away_team": "Motherwell FC",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         }
       ]
@@ -1663,7 +2134,10 @@
           "home_team": "Dundee FC",
           "away_team": "Kilmarnock FC",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -1672,7 +2146,10 @@
           "home_team": "Rangers FC",
           "away_team": "Motherwell FC",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1681,7 +2158,10 @@
           "home_team": "Hibernian FC",
           "away_team": "Ross County FC",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1690,7 +2170,10 @@
           "home_team": "St. Johnstone FC",
           "away_team": "Livingston FC",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1699,7 +2182,10 @@
           "home_team": "St. Mirren FC",
           "away_team": "Aberdeen FC",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1708,7 +2194,10 @@
           "home_team": "Heart of Midlothian",
           "away_team": "Celtic FC",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         }
       ]
@@ -1722,7 +2211,10 @@
           "home_team": "Celtic FC",
           "away_team": "St. Johnstone FC",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1731,7 +2223,10 @@
           "home_team": "Kilmarnock FC",
           "away_team": "St. Mirren FC",
           "result": {
-            "full_time": "5-2"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -1740,6 +2235,9 @@
           "home_team": "Hibernian FC",
           "away_team": "Livingston FC",
           "result": {
+            "breakdown": [
+              "3-0"
+            ],
             "full_time": "3-0"
           }
         },
@@ -1749,6 +2247,9 @@
           "home_team": "Motherwell FC",
           "away_team": "Aberdeen FC",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         },
@@ -1758,7 +2259,10 @@
           "home_team": "Ross County FC",
           "away_team": "Heart of Midlothian",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1781,7 +2285,10 @@
           "home_team": "Aberdeen FC",
           "away_team": "Ross County FC",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -1790,7 +2297,10 @@
           "home_team": "Rangers FC",
           "away_team": "Hibernian FC",
           "result": {
-            "full_time": "3-1"
+            "breakdown": [
+              "2-1"
+            ],
+            "full_time": "2-1"
           }
         },
         {
@@ -1799,7 +2309,10 @@
           "home_team": "Heart of Midlothian",
           "away_team": "Kilmarnock FC",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1808,7 +2321,10 @@
           "home_team": "Motherwell FC",
           "away_team": "St. Mirren FC",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1817,7 +2333,10 @@
           "home_team": "St. Johnstone FC",
           "away_team": "Dundee FC",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1826,7 +2345,10 @@
           "home_team": "Livingston FC",
           "away_team": "Celtic FC",
           "result": {
-            "full_time": "0-3"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         }
       ]
@@ -1840,7 +2362,10 @@
           "home_team": "Dundee FC",
           "away_team": "Motherwell FC",
           "result": {
-            "full_time": "2-3"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -1849,7 +2374,10 @@
           "home_team": "Kilmarnock FC",
           "away_team": "Ross County FC",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1858,7 +2386,10 @@
           "home_team": "Hibernian FC",
           "away_team": "St. Johnstone FC",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1876,7 +2407,10 @@
           "home_team": "St. Mirren FC",
           "away_team": "Heart of Midlothian",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1885,7 +2419,10 @@
           "home_team": "Rangers FC",
           "away_team": "Celtic FC",
           "result": {
-            "full_time": "3-3"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         }
       ]
@@ -1899,7 +2436,10 @@
           "home_team": "Celtic FC",
           "away_team": "St. Mirren FC",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1917,6 +2457,9 @@
           "home_team": "Heart of Midlothian",
           "away_team": "Livingston FC",
           "result": {
+            "breakdown": [
+              "4-2"
+            ],
             "full_time": "4-2"
           }
         },
@@ -1926,7 +2469,10 @@
           "home_team": "Motherwell FC",
           "away_team": "Hibernian FC",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -1935,7 +2481,10 @@
           "home_team": "St. Johnstone FC",
           "away_team": "Kilmarnock FC",
           "result": {
-            "full_time": "0-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -1944,7 +2493,10 @@
           "home_team": "Ross County FC",
           "away_team": "Rangers FC",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         }
       ]
@@ -1967,7 +2519,10 @@
           "home_team": "St. Mirren FC",
           "away_team": "Rangers FC",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         },
         {
@@ -1976,7 +2531,10 @@
           "home_team": "Dundee FC",
           "away_team": "Celtic FC",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         }
       ]
@@ -1990,7 +2548,10 @@
           "home_team": "Celtic FC",
           "away_team": "Heart of Midlothian",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -1999,7 +2560,10 @@
           "home_team": "Dundee FC",
           "away_team": "St. Mirren FC",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -2008,7 +2572,10 @@
           "home_team": "Rangers FC",
           "away_team": "Kilmarnock FC",
           "result": {
-            "full_time": "4-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         }
       ]
@@ -2022,6 +2589,9 @@
           "home_team": "Celtic FC",
           "away_team": "Rangers FC",
           "result": {
+            "breakdown": [
+              "2-1"
+            ],
             "full_time": "2-1"
           }
         },
@@ -2031,7 +2601,10 @@
           "home_team": "Heart of Midlothian",
           "away_team": "Dundee FC",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2040,6 +2613,9 @@
           "home_team": "St. Mirren FC",
           "away_team": "Kilmarnock FC",
           "result": {
+            "breakdown": [
+              "0-1"
+            ],
             "full_time": "0-1"
           }
         }
@@ -2054,7 +2630,10 @@
           "home_team": "Rangers FC",
           "away_team": "Dundee FC",
           "result": {
-            "full_time": "5-2"
+            "breakdown": [
+              "1-2"
+            ],
+            "full_time": "1-2"
           }
         },
         {
@@ -2063,7 +2642,10 @@
           "home_team": "Kilmarnock FC",
           "away_team": "Celtic FC",
           "result": {
-            "full_time": "0-5"
+            "breakdown": [
+              "0-3"
+            ],
+            "full_time": "0-3"
           }
         },
         {
@@ -2072,7 +2654,10 @@
           "home_team": "St. Mirren FC",
           "away_team": "Heart of Midlothian",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         }
       ]
@@ -2086,7 +2671,10 @@
           "home_team": "Celtic FC",
           "away_team": "St. Mirren FC",
           "result": {
-            "full_time": "3-2"
+            "breakdown": [
+              "2-2"
+            ],
+            "full_time": "2-2"
           }
         },
         {
@@ -2095,6 +2683,9 @@
           "home_team": "Dundee FC",
           "away_team": "Kilmarnock FC",
           "result": {
+            "breakdown": [
+              "1-1"
+            ],
             "full_time": "1-1"
           }
         },
@@ -2104,7 +2695,10 @@
           "home_team": "Heart of Midlothian",
           "away_team": "Rangers FC",
           "result": {
-            "full_time": "3-3"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         }
       ]
@@ -2118,7 +2712,10 @@
           "home_team": "Aberdeen FC",
           "away_team": "Motherwell FC",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2127,7 +2724,10 @@
           "home_team": "Livingston FC",
           "away_team": "Ross County FC",
           "result": {
-            "full_time": "2-0"
+            "breakdown": [
+              "1-0"
+            ],
+            "full_time": "1-0"
           }
         },
         {
@@ -2136,7 +2736,10 @@
           "home_team": "St. Johnstone FC",
           "away_team": "Hibernian FC",
           "result": {
-            "full_time": "1-3"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         }
       ]
@@ -2150,7 +2753,10 @@
           "home_team": "Aberdeen FC",
           "away_team": "St. Johnstone FC",
           "result": {
-            "full_time": "1-0"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2159,7 +2765,10 @@
           "home_team": "Motherwell FC",
           "away_team": "Livingston FC",
           "result": {
-            "full_time": "4-1"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -2168,7 +2777,10 @@
           "home_team": "Ross County FC",
           "away_team": "Hibernian FC",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         }
       ]
@@ -2182,7 +2794,10 @@
           "home_team": "Livingston FC",
           "away_team": "St. Johnstone FC",
           "result": {
-            "full_time": "2-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         },
         {
@@ -2191,7 +2806,10 @@
           "home_team": "Ross County FC",
           "away_team": "Motherwell FC",
           "result": {
-            "full_time": "1-5"
+            "breakdown": [
+              "1-2"
+            ],
+            "full_time": "1-2"
           }
         },
         {
@@ -2200,7 +2818,10 @@
           "home_team": "Hibernian FC",
           "away_team": "Aberdeen FC",
           "result": {
-            "full_time": "0-4"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         }
       ]
@@ -2214,7 +2835,10 @@
           "home_team": "Aberdeen FC",
           "away_team": "Livingston FC",
           "result": {
-            "full_time": "5-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2223,7 +2847,10 @@
           "home_team": "Hibernian FC",
           "away_team": "Motherwell FC",
           "result": {
-            "full_time": "3-0"
+            "breakdown": [
+              "2-0"
+            ],
+            "full_time": "2-0"
           }
         },
         {
@@ -2232,7 +2859,10 @@
           "home_team": "St. Johnstone FC",
           "away_team": "Ross County FC",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-1"
+            ],
+            "full_time": "0-1"
           }
         }
       ]
@@ -2246,7 +2876,10 @@
           "home_team": "Livingston FC",
           "away_team": "Hibernian FC",
           "result": {
-            "full_time": "1-1"
+            "breakdown": [
+              "0-0"
+            ],
+            "full_time": "0-0"
           }
         },
         {
@@ -2255,7 +2888,10 @@
           "home_team": "Motherwell FC",
           "away_team": "St. Johnstone FC",
           "result": {
-            "full_time": "1-2"
+            "breakdown": [
+              "0-2"
+            ],
+            "full_time": "0-2"
           }
         },
         {
@@ -2264,7 +2900,10 @@
           "home_team": "Ross County FC",
           "away_team": "Aberdeen FC",
           "result": {
-            "full_time": "2-2"
+            "breakdown": [
+              "1-1"
+            ],
+            "full_time": "1-1"
           }
         }
       ]
