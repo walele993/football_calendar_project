@@ -2876,7 +2876,10 @@
           "date": "2025-04-07",
           "time": "21:00",
           "home_team": "CD Leganés",
-          "away_team": "CA Osasuna"
+          "away_team": "CA Osasuna",
+          "result": {
+            "full_time": "1-1"
+          }
         }
       ]
     },
@@ -2887,61 +2890,91 @@
           "date": "2025-04-11",
           "time": "21:00",
           "home_team": "Valencia CF",
-          "away_team": "Sevilla FC"
+          "away_team": "Sevilla FC",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2025-04-12",
           "time": "14:00",
           "home_team": "Real Sociedad de Fútbol",
-          "away_team": "RCD Mallorca"
+          "away_team": "RCD Mallorca",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2025-04-12",
           "time": "16:15",
           "home_team": "Getafe CF",
-          "away_team": "UD Las Palmas"
+          "away_team": "UD Las Palmas",
+          "result": {
+            "full_time": "1-3"
+          }
         },
         {
           "date": "2025-04-12",
           "time": "18:30",
           "home_team": "RC Celta de Vigo",
-          "away_team": "RCD Espanyol de Barcelona"
+          "away_team": "RCD Espanyol de Barcelona",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2025-04-12",
           "time": "21:00",
           "home_team": "CD Leganés",
-          "away_team": "FC Barcelona"
+          "away_team": "FC Barcelona",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2025-04-13",
           "time": "14:00",
           "home_team": "CA Osasuna",
-          "away_team": "Girona FC"
+          "away_team": "Girona FC",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2025-04-13",
           "time": "16:15",
           "home_team": "Deportivo Alavés",
-          "away_team": "Real Madrid CF"
+          "away_team": "Real Madrid CF",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2025-04-13",
           "time": "18:30",
           "home_team": "Real Betis Balompié",
-          "away_team": "Villarreal CF"
+          "away_team": "Villarreal CF",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2025-04-13",
           "time": "21:00",
           "home_team": "Athletic Club",
-          "away_team": "Rayo Vallecano de Madrid"
+          "away_team": "Rayo Vallecano de Madrid",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2025-04-14",
           "time": "21:00",
           "home_team": "Club Atlético de Madrid",
-          "away_team": "Real Valladolid CF"
+          "away_team": "Real Valladolid CF",
+          "result": {
+            "full_time": "4-2"
+          }
         }
       ]
     },
@@ -2952,37 +2985,55 @@
           "date": "2025-04-18",
           "time": "21:00",
           "home_team": "RCD Espanyol de Barcelona",
-          "away_team": "Getafe CF"
+          "away_team": "Getafe CF",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2025-04-19",
           "time": "14:00",
           "home_team": "Rayo Vallecano de Madrid",
-          "away_team": "Valencia CF"
+          "away_team": "Valencia CF",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-04-19",
           "time": "16:15",
           "home_team": "FC Barcelona",
-          "away_team": "RC Celta de Vigo"
+          "away_team": "RC Celta de Vigo",
+          "result": {
+            "full_time": "4-3"
+          }
         },
         {
           "date": "2025-04-19",
           "time": "18:30",
           "home_team": "RCD Mallorca",
-          "away_team": "CD Leganés"
+          "away_team": "CD Leganés",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2025-04-19",
           "time": "21:00",
           "home_team": "UD Las Palmas",
-          "away_team": "Club Atlético de Madrid"
+          "away_team": "Club Atlético de Madrid",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2025-04-20",
           "time": "14:00",
           "home_team": "Real Valladolid CF",
-          "away_team": "CA Osasuna"
+          "away_team": "CA Osasuna",
+          "result": {
+            "full_time": "2-3"
+          }
         },
         {
           "date": "2025-04-20",
@@ -3033,12 +3084,6 @@
           "result": {
             "full_time": "1-1"
           }
-        },
-        {
-          "date": "2025-04-22",
-          "time": "21:30",
-          "home_team": "Club Atlético de Madrid",
-          "away_team": "Rayo Vallecano de Madrid"
         },
         {
           "date": "2025-04-22",
@@ -3106,8 +3151,6 @@
         {
           "date": "2025-04-24",
           "time": "21:30",
-<<<<<<< HEAD
-=======
           "home_team": "Club Atlético de Madrid",
           "away_team": "Rayo Vallecano de Madrid",
           "result": {
@@ -3117,7 +3160,6 @@
         {
           "date": "2025-04-24",
           "time": "21:30",
->>>>>>> 8f498ebdc8459e17bfeb41bd1cb646346d58538b
           "home_team": "Real Betis Balompié",
           "away_team": "Real Valladolid CF",
           "result": {
@@ -3144,12 +3186,6 @@
       "matchday": "Matchday 34",
       "matches": [
         {
-<<<<<<< HEAD
-          "date": "2025-05-04",
-          "time": "16:15",
-          "home_team": "Girona FC",
-          "away_team": "RCD Mallorca"
-=======
           "date": "2025-05-02",
           "time": "21:00",
           "home_team": "Rayo Vallecano de Madrid",
@@ -3184,7 +3220,6 @@
           "time": "14:00",
           "home_team": "Real Madrid CF",
           "away_team": "RC Celta de Vigo"
->>>>>>> 8f498ebdc8459e17bfeb41bd1cb646346d58538b
         },
         {
           "date": "2025-05-04",
@@ -3194,51 +3229,21 @@
         },
         {
           "date": "2025-05-04",
-          "time": "16:15",
-          "home_team": "Villarreal CF",
-          "away_team": "CA Osasuna"
-        },
-        {
-          "date": "2025-05-04",
-          "time": "16:15",
-          "home_team": "Rayo Vallecano de Madrid",
-          "away_team": "Getafe CF"
-        },
-        {
-          "date": "2025-05-04",
-          "time": "16:15",
-          "home_team": "Real Madrid CF",
-          "away_team": "RC Celta de Vigo"
-        },
-        {
-          "date": "2025-05-04",
-          "time": "16:15",
-          "home_team": "Real Sociedad de Fútbol",
-          "away_team": "Athletic Club"
-        },
-        {
-          "date": "2025-05-04",
-          "time": "16:15",
-          "home_team": "Real Valladolid CF",
-          "away_team": "FC Barcelona"
-        },
-        {
-          "date": "2025-05-04",
-          "time": "16:15",
-          "home_team": "UD Las Palmas",
-          "away_team": "Valencia CF"
-        },
-        {
-          "date": "2025-05-04",
-          "time": "16:15",
+          "time": "18:30",
           "home_team": "RCD Espanyol de Barcelona",
           "away_team": "Real Betis Balompié"
         },
         {
           "date": "2025-05-04",
-          "time": "16:15",
-          "home_team": "Deportivo Alavés",
-          "away_team": "Club Atlético de Madrid"
+          "time": "21:00",
+          "home_team": "Real Sociedad de Fútbol",
+          "away_team": "Athletic Club"
+        },
+        {
+          "date": "2025-05-05",
+          "time": "21:00",
+          "home_team": "Girona FC",
+          "away_team": "RCD Mallorca"
         }
       ]
     },
@@ -3246,16 +3251,6 @@
       "matchday": "Matchday 35",
       "matches": [
         {
-<<<<<<< HEAD
-          "date": "2025-05-11",
-          "time": "16:15",
-          "home_team": "Athletic Club",
-          "away_team": "Deportivo Alavés"
-        },
-        {
-          "date": "2025-05-11",
-          "time": "16:15",
-=======
           "date": "2025-05-09",
           "time": "21:00",
           "home_team": "UD Las Palmas",
@@ -3288,68 +3283,23 @@
         {
           "date": "2025-05-10",
           "time": "21:00",
->>>>>>> 8f498ebdc8459e17bfeb41bd1cb646346d58538b
           "home_team": "Club Atlético de Madrid",
           "away_team": "Real Sociedad de Fútbol"
         },
         {
           "date": "2025-05-11",
-<<<<<<< HEAD
-          "time": "16:15",
-          "home_team": "Real Betis Balompié",
-          "away_team": "CA Osasuna"
-=======
           "time": "14:00",
           "home_team": "CD Leganés",
           "away_team": "RCD Espanyol de Barcelona"
->>>>>>> 8f498ebdc8459e17bfeb41bd1cb646346d58538b
         },
         {
           "date": "2025-05-11",
           "time": "16:15",
-<<<<<<< HEAD
-          "home_team": "RC Celta de Vigo",
-          "away_team": "Sevilla FC"
-        },
-        {
-          "date": "2025-05-11",
-          "time": "16:15",
-=======
->>>>>>> 8f498ebdc8459e17bfeb41bd1cb646346d58538b
           "home_team": "FC Barcelona",
           "away_team": "Real Madrid CF"
         },
         {
           "date": "2025-05-11",
-<<<<<<< HEAD
-          "time": "16:15",
-          "home_team": "Girona FC",
-          "away_team": "Villarreal CF"
-        },
-        {
-          "date": "2025-05-11",
-          "time": "16:15",
-          "home_team": "Valencia CF",
-          "away_team": "Getafe CF"
-        },
-        {
-          "date": "2025-05-11",
-          "time": "16:15",
-          "home_team": "RCD Mallorca",
-          "away_team": "Real Valladolid CF"
-        },
-        {
-          "date": "2025-05-11",
-          "time": "16:15",
-          "home_team": "UD Las Palmas",
-          "away_team": "Rayo Vallecano de Madrid"
-        },
-        {
-          "date": "2025-05-11",
-          "time": "16:15",
-          "home_team": "CD Leganés",
-          "away_team": "RCD Espanyol de Barcelona"
-=======
           "time": "18:30",
           "home_team": "Athletic Club",
           "away_team": "Deportivo Alavés"
@@ -3359,7 +3309,6 @@
           "time": "21:00",
           "home_team": "Real Betis Balompié",
           "away_team": "CA Osasuna"
->>>>>>> 8f498ebdc8459e17bfeb41bd1cb646346d58538b
         }
       ]
     },
@@ -3367,28 +3316,6 @@
       "matchday": "Matchday 36",
       "matches": [
         {
-<<<<<<< HEAD
-          "date": "2025-05-14",
-          "time": "16:15",
-          "home_team": "CA Osasuna",
-          "away_team": "Club Atlético de Madrid"
-        },
-        {
-          "date": "2025-05-14",
-          "time": "16:15",
-          "home_team": "Deportivo Alavés",
-          "away_team": "Valencia CF"
-        },
-        {
-          "date": "2025-05-14",
-          "time": "16:15",
-          "home_team": "Getafe CF",
-          "away_team": "Athletic Club"
-        },
-        {
-          "date": "2025-05-14",
-          "time": "16:15",
-=======
           "date": "2025-05-13",
           "time": "19:00",
           "home_team": "Real Valladolid CF",
@@ -3403,15 +3330,11 @@
         {
           "date": "2025-05-13",
           "time": "21:30",
->>>>>>> 8f498ebdc8459e17bfeb41bd1cb646346d58538b
           "home_team": "Sevilla FC",
           "away_team": "UD Las Palmas"
         },
         {
           "date": "2025-05-14",
-<<<<<<< HEAD
-          "time": "16:15",
-=======
           "time": "19:00",
           "home_team": "Deportivo Alavés",
           "away_team": "Valencia CF"
@@ -3419,43 +3342,16 @@
         {
           "date": "2025-05-14",
           "time": "19:00",
->>>>>>> 8f498ebdc8459e17bfeb41bd1cb646346d58538b
           "home_team": "Villarreal CF",
           "away_team": "CD Leganés"
         },
         {
           "date": "2025-05-14",
-<<<<<<< HEAD
-          "time": "16:15",
-          "home_team": "Rayo Vallecano de Madrid",
-          "away_team": "Real Betis Balompié"
-        },
-        {
-          "date": "2025-05-14",
-          "time": "16:15",
-=======
           "time": "21:30",
->>>>>>> 8f498ebdc8459e17bfeb41bd1cb646346d58538b
           "home_team": "Real Madrid CF",
           "away_team": "RCD Mallorca"
         },
         {
-<<<<<<< HEAD
-          "date": "2025-05-14",
-          "time": "16:15",
-          "home_team": "Real Sociedad de Fútbol",
-          "away_team": "RC Celta de Vigo"
-        },
-        {
-          "date": "2025-05-14",
-          "time": "16:15",
-          "home_team": "Real Valladolid CF",
-          "away_team": "Girona FC"
-        },
-        {
-          "date": "2025-05-14",
-          "time": "16:15",
-=======
           "date": "2025-05-15",
           "time": "19:00",
           "home_team": "CA Osasuna",
@@ -3476,7 +3372,6 @@
         {
           "date": "2025-05-15",
           "time": "21:30",
->>>>>>> 8f498ebdc8459e17bfeb41bd1cb646346d58538b
           "home_team": "RCD Espanyol de Barcelona",
           "away_team": "FC Barcelona"
         }
@@ -3487,101 +3382,61 @@
       "matches": [
         {
           "date": "2025-05-18",
-<<<<<<< HEAD
-          "time": "16:15",
-=======
           "time": "21:30",
->>>>>>> 8f498ebdc8459e17bfeb41bd1cb646346d58538b
           "home_team": "Club Atlético de Madrid",
           "away_team": "Real Betis Balompié"
         },
         {
           "date": "2025-05-18",
-<<<<<<< HEAD
-          "time": "16:15",
-=======
           "time": "21:30",
->>>>>>> 8f498ebdc8459e17bfeb41bd1cb646346d58538b
           "home_team": "RC Celta de Vigo",
           "away_team": "Rayo Vallecano de Madrid"
         },
         {
           "date": "2025-05-18",
-<<<<<<< HEAD
-          "time": "16:15",
-=======
           "time": "21:30",
->>>>>>> 8f498ebdc8459e17bfeb41bd1cb646346d58538b
           "home_team": "FC Barcelona",
           "away_team": "Villarreal CF"
         },
         {
           "date": "2025-05-18",
-<<<<<<< HEAD
-          "time": "16:15",
-=======
           "time": "21:30",
->>>>>>> 8f498ebdc8459e17bfeb41bd1cb646346d58538b
           "home_team": "Sevilla FC",
           "away_team": "Real Madrid CF"
         },
         {
           "date": "2025-05-18",
-<<<<<<< HEAD
-          "time": "16:15",
-=======
           "time": "21:30",
->>>>>>> 8f498ebdc8459e17bfeb41bd1cb646346d58538b
           "home_team": "Valencia CF",
           "away_team": "Athletic Club"
         },
         {
           "date": "2025-05-18",
-<<<<<<< HEAD
-          "time": "16:15",
-=======
           "time": "21:30",
->>>>>>> 8f498ebdc8459e17bfeb41bd1cb646346d58538b
           "home_team": "RCD Mallorca",
           "away_team": "Getafe CF"
         },
         {
           "date": "2025-05-18",
-<<<<<<< HEAD
-          "time": "16:15",
-=======
           "time": "21:30",
->>>>>>> 8f498ebdc8459e17bfeb41bd1cb646346d58538b
           "home_team": "Real Sociedad de Fútbol",
           "away_team": "Girona FC"
         },
         {
           "date": "2025-05-18",
-<<<<<<< HEAD
-          "time": "16:15",
-=======
           "time": "21:30",
->>>>>>> 8f498ebdc8459e17bfeb41bd1cb646346d58538b
           "home_team": "Real Valladolid CF",
           "away_team": "Deportivo Alavés"
         },
         {
           "date": "2025-05-18",
-<<<<<<< HEAD
-          "time": "16:15",
-=======
           "time": "21:30",
->>>>>>> 8f498ebdc8459e17bfeb41bd1cb646346d58538b
           "home_team": "UD Las Palmas",
           "away_team": "CD Leganés"
         },
         {
           "date": "2025-05-18",
-<<<<<<< HEAD
-          "time": "16:15",
-=======
           "time": "21:30",
->>>>>>> 8f498ebdc8459e17bfeb41bd1cb646346d58538b
           "home_team": "CA Osasuna",
           "away_team": "RCD Espanyol de Barcelona"
         }
@@ -3592,101 +3447,61 @@
       "matches": [
         {
           "date": "2025-05-25",
-<<<<<<< HEAD
-          "time": "16:15",
-=======
           "time": "21:30",
->>>>>>> 8f498ebdc8459e17bfeb41bd1cb646346d58538b
           "home_team": "Athletic Club",
           "away_team": "FC Barcelona"
         },
         {
           "date": "2025-05-25",
-<<<<<<< HEAD
-          "time": "16:15",
-=======
           "time": "21:30",
->>>>>>> 8f498ebdc8459e17bfeb41bd1cb646346d58538b
           "home_team": "Real Betis Balompié",
           "away_team": "Valencia CF"
         },
         {
           "date": "2025-05-25",
-<<<<<<< HEAD
-          "time": "16:15",
-=======
           "time": "21:30",
->>>>>>> 8f498ebdc8459e17bfeb41bd1cb646346d58538b
           "home_team": "CD Leganés",
           "away_team": "Real Valladolid CF"
         },
         {
           "date": "2025-05-25",
-<<<<<<< HEAD
-          "time": "16:15",
-=======
           "time": "21:30",
->>>>>>> 8f498ebdc8459e17bfeb41bd1cb646346d58538b
           "home_team": "Deportivo Alavés",
           "away_team": "CA Osasuna"
         },
         {
           "date": "2025-05-25",
-<<<<<<< HEAD
-          "time": "16:15",
-=======
           "time": "21:30",
->>>>>>> 8f498ebdc8459e17bfeb41bd1cb646346d58538b
           "home_team": "Getafe CF",
           "away_team": "RC Celta de Vigo"
         },
         {
           "date": "2025-05-25",
-<<<<<<< HEAD
-          "time": "16:15",
-=======
           "time": "21:30",
->>>>>>> 8f498ebdc8459e17bfeb41bd1cb646346d58538b
           "home_team": "Girona FC",
           "away_team": "Club Atlético de Madrid"
         },
         {
           "date": "2025-05-25",
-<<<<<<< HEAD
-          "time": "16:15",
-=======
           "time": "21:30",
->>>>>>> 8f498ebdc8459e17bfeb41bd1cb646346d58538b
           "home_team": "Villarreal CF",
           "away_team": "Sevilla FC"
         },
         {
           "date": "2025-05-25",
-<<<<<<< HEAD
-          "time": "16:15",
-=======
           "time": "21:30",
->>>>>>> 8f498ebdc8459e17bfeb41bd1cb646346d58538b
           "home_team": "Rayo Vallecano de Madrid",
           "away_team": "RCD Mallorca"
         },
         {
           "date": "2025-05-25",
-<<<<<<< HEAD
-          "time": "16:15",
-=======
           "time": "21:30",
->>>>>>> 8f498ebdc8459e17bfeb41bd1cb646346d58538b
           "home_team": "Real Madrid CF",
           "away_team": "Real Sociedad de Fútbol"
         },
         {
           "date": "2025-05-25",
-<<<<<<< HEAD
-          "time": "16:15",
-=======
           "time": "21:30",
->>>>>>> 8f498ebdc8459e17bfeb41bd1cb646346d58538b
           "home_team": "RCD Espanyol de Barcelona",
           "away_team": "UD Las Palmas"
         }

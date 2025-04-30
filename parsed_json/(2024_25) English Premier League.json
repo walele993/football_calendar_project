@@ -2941,7 +2941,10 @@
           "date": "2025-04-07",
           "time": "20:00",
           "home_team": "Leicester City FC",
-          "away_team": "Newcastle United FC"
+          "away_team": "Newcastle United FC",
+          "result": {
+            "full_time": "0-3"
+          }
         }
       ]
     },
@@ -2952,61 +2955,91 @@
           "date": "2025-04-12",
           "time": "12:30",
           "home_team": "Manchester City FC",
-          "away_team": "Crystal Palace FC"
+          "away_team": "Crystal Palace FC",
+          "result": {
+            "full_time": "5-2"
+          }
         },
         {
           "date": "2025-04-12",
           "time": "15:00",
           "home_team": "Brighton & Hove Albion FC",
-          "away_team": "Leicester City FC"
+          "away_team": "Leicester City FC",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2025-04-12",
           "time": "15:00",
           "home_team": "Nottingham Forest FC",
-          "away_team": "Everton FC"
+          "away_team": "Everton FC",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2025-04-12",
           "time": "15:00",
           "home_team": "Southampton FC",
-          "away_team": "Aston Villa FC"
+          "away_team": "Aston Villa FC",
+          "result": {
+            "full_time": "0-3"
+          }
         },
         {
           "date": "2025-04-12",
           "time": "17:30",
           "home_team": "Arsenal FC",
-          "away_team": "Brentford FC"
+          "away_team": "Brentford FC",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-04-13",
           "time": "14:00",
           "home_team": "Chelsea FC",
-          "away_team": "Ipswich Town FC"
+          "away_team": "Ipswich Town FC",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2025-04-13",
           "time": "14:00",
           "home_team": "Liverpool FC",
-          "away_team": "West Ham United FC"
+          "away_team": "West Ham United FC",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2025-04-13",
           "time": "14:00",
           "home_team": "Wolverhampton Wanderers FC",
-          "away_team": "Tottenham Hotspur FC"
+          "away_team": "Tottenham Hotspur FC",
+          "result": {
+            "full_time": "4-2"
+          }
         },
         {
           "date": "2025-04-13",
           "time": "16:30",
           "home_team": "Newcastle United FC",
-          "away_team": "Manchester United FC"
+          "away_team": "Manchester United FC",
+          "result": {
+            "full_time": "4-1"
+          }
         },
         {
           "date": "2025-04-14",
           "time": "20:00",
           "home_team": "AFC Bournemouth",
-          "away_team": "Fulham FC"
+          "away_team": "Fulham FC",
+          "result": {
+            "full_time": "1-0"
+          }
         }
       ]
     },
@@ -3017,7 +3050,10 @@
           "date": "2025-04-16",
           "time": "19:30",
           "home_team": "Newcastle United FC",
-          "away_team": "Crystal Palace FC"
+          "away_team": "Crystal Palace FC",
+          "result": {
+            "full_time": "5-0"
+          }
         }
       ]
     },
@@ -3028,49 +3064,73 @@
           "date": "2025-04-19",
           "time": "15:00",
           "home_team": "Brentford FC",
-          "away_team": "Brighton & Hove Albion FC"
+          "away_team": "Brighton & Hove Albion FC",
+          "result": {
+            "full_time": "4-2"
+          }
         },
         {
           "date": "2025-04-19",
           "time": "15:00",
           "home_team": "Crystal Palace FC",
-          "away_team": "AFC Bournemouth"
+          "away_team": "AFC Bournemouth",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2025-04-19",
           "time": "15:00",
           "home_team": "Everton FC",
-          "away_team": "Manchester City FC"
+          "away_team": "Manchester City FC",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2025-04-19",
           "time": "15:00",
           "home_team": "West Ham United FC",
-          "away_team": "Southampton FC"
+          "away_team": "Southampton FC",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-04-19",
           "time": "17:30",
           "home_team": "Aston Villa FC",
-          "away_team": "Newcastle United FC"
+          "away_team": "Newcastle United FC",
+          "result": {
+            "full_time": "4-1"
+          }
         },
         {
           "date": "2025-04-20",
           "time": "14:00",
           "home_team": "Fulham FC",
-          "away_team": "Chelsea FC"
+          "away_team": "Chelsea FC",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2025-04-20",
           "time": "14:00",
           "home_team": "Ipswich Town FC",
-          "away_team": "Arsenal FC"
+          "away_team": "Arsenal FC",
+          "result": {
+            "full_time": "0-4"
+          }
         },
         {
           "date": "2025-04-20",
           "time": "14:00",
           "home_team": "Manchester United FC",
-          "away_team": "Wolverhampton Wanderers FC"
+          "away_team": "Wolverhampton Wanderers FC",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2025-04-20",
@@ -3096,8 +3156,6 @@
       "matchday": "Matchday 34",
       "matches": [
         {
-<<<<<<< HEAD
-=======
           "date": "2025-04-22",
           "time": "20:00",
           "home_team": "Manchester City FC",
@@ -3116,7 +3174,6 @@
           }
         },
         {
->>>>>>> 8f498ebdc8459e17bfeb41bd1cb646346d58538b
           "date": "2025-04-26",
           "time": "12:30",
           "home_team": "Chelsea FC",
@@ -3146,12 +3203,6 @@
         {
           "date": "2025-04-26",
           "time": "15:00",
-          "home_team": "Nottingham Forest FC",
-          "away_team": "Brentford FC"
-        },
-        {
-          "date": "2025-04-26",
-          "time": "15:00",
           "home_team": "Southampton FC",
           "away_team": "Fulham FC",
           "result": {
@@ -3166,12 +3217,6 @@
           "result": {
             "full_time": "3-0"
           }
-        },
-        {
-          "date": "2025-04-26",
-          "time": "17:30",
-          "home_team": "Arsenal FC",
-          "away_team": "Crystal Palace FC"
         },
         {
           "date": "2025-04-27",
@@ -3192,10 +3237,10 @@
           }
         },
         {
-          "date": "2025-04-28",
-          "time": "20:00",
-          "home_team": "Manchester City FC",
-          "away_team": "Aston Villa FC"
+          "date": "2025-05-01",
+          "time": "19:30",
+          "home_team": "Nottingham Forest FC",
+          "away_team": "Brentford FC"
         }
       ]
     },
@@ -3213,12 +3258,6 @@
           "time": "12:30",
           "home_team": "Aston Villa FC",
           "away_team": "Fulham FC"
-        },
-        {
-          "date": "2025-05-03",
-          "time": "15:00",
-          "home_team": "Brentford FC",
-          "away_team": "Manchester United FC"
         },
         {
           "date": "2025-05-03",
@@ -3241,14 +3280,17 @@
         {
           "date": "2025-05-04",
           "time": "14:00",
+          "home_team": "Brentford FC",
+          "away_team": "Manchester United FC"
+        },
+        {
+          "date": "2025-05-04",
+          "time": "14:00",
           "home_team": "Brighton & Hove Albion FC",
           "away_team": "Newcastle United FC"
         },
         {
           "date": "2025-05-04",
-<<<<<<< HEAD
-          "time": "16:00",
-=======
           "time": "14:00",
           "home_team": "West Ham United FC",
           "away_team": "Tottenham Hotspur FC"
@@ -3256,7 +3298,6 @@
         {
           "date": "2025-05-04",
           "time": "16:30",
->>>>>>> 8f498ebdc8459e17bfeb41bd1cb646346d58538b
           "home_team": "Chelsea FC",
           "away_team": "Liverpool FC"
         },
@@ -3273,73 +3314,24 @@
       "matches": [
         {
           "date": "2025-05-10",
-<<<<<<< HEAD
-          "time": "20:00",
-          "home_team": "AFC Bournemouth",
-          "away_team": "Aston Villa FC"
-        },
-        {
-          "date": "2025-05-10",
-          "time": "20:00",
-=======
           "time": "15:00",
->>>>>>> 8f498ebdc8459e17bfeb41bd1cb646346d58538b
           "home_team": "Fulham FC",
           "away_team": "Everton FC"
         },
         {
           "date": "2025-05-10",
-          "time": "20:00",
+          "time": "15:00",
           "home_team": "Ipswich Town FC",
           "away_team": "Brentford FC"
         },
         {
           "date": "2025-05-10",
-<<<<<<< HEAD
-          "time": "20:00",
-          "home_team": "Liverpool FC",
-          "away_team": "Arsenal FC"
-        },
-        {
-          "date": "2025-05-10",
-          "time": "20:00",
-          "home_team": "Manchester United FC",
-          "away_team": "West Ham United FC"
-        },
-        {
-          "date": "2025-05-10",
-          "time": "20:00",
-          "home_team": "Newcastle United FC",
-          "away_team": "Chelsea FC"
-        },
-        {
-          "date": "2025-05-10",
-          "time": "20:00",
-          "home_team": "Nottingham Forest FC",
-          "away_team": "Leicester City FC"
-        },
-        {
-          "date": "2025-05-10",
-          "time": "20:00",
-=======
           "time": "15:00",
->>>>>>> 8f498ebdc8459e17bfeb41bd1cb646346d58538b
           "home_team": "Southampton FC",
           "away_team": "Manchester City FC"
         },
         {
           "date": "2025-05-10",
-<<<<<<< HEAD
-          "time": "20:00",
-          "home_team": "Tottenham Hotspur FC",
-          "away_team": "Crystal Palace FC"
-        },
-        {
-          "date": "2025-05-10",
-          "time": "20:00",
-          "home_team": "Wolverhampton Wanderers FC",
-          "away_team": "Brighton & Hove Albion FC"
-=======
           "time": "15:00",
           "home_team": "Wolverhampton Wanderers FC",
           "away_team": "Brighton & Hove Albion FC"
@@ -3379,7 +3371,6 @@
           "time": "16:30",
           "home_team": "Liverpool FC",
           "away_team": "Arsenal FC"
->>>>>>> 8f498ebdc8459e17bfeb41bd1cb646346d58538b
         }
       ]
     },
@@ -3387,64 +3378,64 @@
       "matchday": "Matchday 37",
       "matches": [
         {
-          "date": "2025-05-18",
-          "time": "20:00",
-          "home_team": "Arsenal FC",
-          "away_team": "Newcastle United FC"
-        },
-        {
-          "date": "2025-05-18",
-          "time": "20:00",
-          "home_team": "Aston Villa FC",
-          "away_team": "Tottenham Hotspur FC"
-        },
-        {
-          "date": "2025-05-18",
-          "time": "20:00",
-          "home_team": "Brentford FC",
-          "away_team": "Fulham FC"
-        },
-        {
-          "date": "2025-05-18",
-          "time": "20:00",
-          "home_team": "Brighton & Hove Albion FC",
-          "away_team": "Liverpool FC"
-        },
-        {
-          "date": "2025-05-18",
+          "date": "2025-05-16",
           "time": "20:00",
           "home_team": "Chelsea FC",
           "away_team": "Manchester United FC"
         },
         {
           "date": "2025-05-18",
-          "time": "20:00",
-          "home_team": "Crystal Palace FC",
-          "away_team": "Wolverhampton Wanderers FC"
-        },
-        {
-          "date": "2025-05-18",
-          "time": "20:00",
+          "time": "12:00",
           "home_team": "Everton FC",
           "away_team": "Southampton FC"
         },
         {
           "date": "2025-05-18",
-          "time": "20:00",
+          "time": "14:15",
+          "home_team": "Aston Villa FC",
+          "away_team": "Tottenham Hotspur FC"
+        },
+        {
+          "date": "2025-05-18",
+          "time": "14:15",
+          "home_team": "West Ham United FC",
+          "away_team": "Nottingham Forest FC"
+        },
+        {
+          "date": "2025-05-18",
+          "time": "15:00",
+          "home_team": "Brentford FC",
+          "away_team": "Fulham FC"
+        },
+        {
+          "date": "2025-05-18",
+          "time": "15:00",
+          "home_team": "Crystal Palace FC",
+          "away_team": "Wolverhampton Wanderers FC"
+        },
+        {
+          "date": "2025-05-18",
+          "time": "15:00",
           "home_team": "Leicester City FC",
           "away_team": "Ipswich Town FC"
         },
         {
           "date": "2025-05-18",
-          "time": "20:00",
+          "time": "16:30",
+          "home_team": "Arsenal FC",
+          "away_team": "Newcastle United FC"
+        },
+        {
+          "date": "2025-05-18",
+          "time": "19:00",
           "home_team": "Manchester City FC",
           "away_team": "AFC Bournemouth"
         },
         {
-          "date": "2025-05-18",
+          "date": "2025-05-19",
           "time": "20:00",
-          "home_team": "West Ham United FC",
-          "away_team": "Nottingham Forest FC"
+          "home_team": "Brighton & Hove Albion FC",
+          "away_team": "Liverpool FC"
         }
       ]
     },
