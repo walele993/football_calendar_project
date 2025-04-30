@@ -9,37 +9,25 @@
           "date": "2024-08-03",
           "time": "18:00",
           "home_team": "Carrarese Calcio",
-          "away_team": "Calcio Catania",
-          "result": {
-            "full_time": "2-1"
-          }
+          "away_team": "Calcio Catania"
         },
         {
           "date": "2024-08-03",
           "time": "20:30",
           "home_team": "SEF Torres 1903",
-          "away_team": "Mantova 1911 SSD",
-          "result": {
-            "full_time": "1-2"
-          }
+          "away_team": "Mantova 1911 SSD"
         },
         {
           "date": "2024-08-04",
           "time": "20:30",
           "home_team": "Cesena FC",
-          "away_team": "Calcio Padova",
-          "result": {
-            "full_time": "3-1"
-          }
+          "away_team": "Calcio Padova"
         },
         {
           "date": "2024-08-04",
           "time": "20:45",
           "home_team": "US Avellino",
-          "away_team": "Juve Stabia",
-          "result": {
-            "full_time": "3-1"
-          }
+          "away_team": "Juve Stabia"
         }
       ]
     },
@@ -50,28 +38,19 @@
           "date": "2024-08-09",
           "time": "18:00",
           "home_team": "Sassuolo Calcio",
-          "away_team": "AS Cittadella",
-          "result": {
-            "full_time": "2-1"
-          }
+          "away_team": "AS Cittadella"
         },
         {
           "date": "2024-08-09",
           "time": "18:30",
           "home_team": "Udinese Calcio",
-          "away_team": "US Avellino",
-          "result": {
-            "full_time": "4-0"
-          }
+          "away_team": "US Avellino"
         },
         {
           "date": "2024-08-09",
           "time": "20:45",
           "home_team": "Genoa CFC",
-          "away_team": "AC Reggiana 1919",
-          "result": {
-            "full_time": "1-0"
-          }
+          "away_team": "AC Reggiana 1919"
         },
         {
           "date": "2024-08-09",
@@ -79,7 +58,7 @@
           "home_team": "AC Monza",
           "away_team": "FC Südtirol",
           "result": {
-            "full_time": "9-8"
+            "penalties": "9-8"
           }
         },
         {
@@ -88,26 +67,21 @@
           "home_team": "US Cremonese",
           "away_team": "SSC Bari",
           "result": {
-            "full_time": "5-4"
+            "penalties": "5-4",
+            "full_time": "1-1"
           }
         },
         {
           "date": "2024-08-10",
           "time": "18:30",
           "home_team": "Hellas Verona",
-          "away_team": "Cesena FC",
-          "result": {
-            "full_time": "1-2"
-          }
+          "away_team": "Cesena FC"
         },
         {
           "date": "2024-08-10",
           "time": "20:45",
           "home_team": "Empoli FC",
-          "away_team": "US Catanzaro",
-          "result": {
-            "full_time": "4-1"
-          }
+          "away_team": "US Catanzaro"
         },
         {
           "date": "2024-08-10",
@@ -115,26 +89,20 @@
           "home_team": "SSC Napoli",
           "away_team": "Modena FC",
           "result": {
-            "full_time": "4-3"
+            "penalties": "4-3"
           }
         },
         {
           "date": "2024-08-11",
           "time": "18:00",
           "home_team": "Brescia Calcio",
-          "away_team": "Venezia FC",
-          "result": {
-            "full_time": "3-1"
-          }
+          "away_team": "Venezia FC"
         },
         {
           "date": "2024-08-11",
           "time": "18:30",
           "home_team": "Parma Calcio 1913",
-          "away_team": "Palermo FC",
-          "result": {
-            "full_time": "0-1"
-          }
+          "away_team": "Palermo FC"
         },
         {
           "date": "2024-08-11",
@@ -142,35 +110,27 @@
           "home_team": "Sampdoria",
           "away_team": "Como 1907",
           "result": {
-            "full_time": "4-3"
+            "penalties": "4-3",
+            "full_time": "2-2"
           }
         },
         {
           "date": "2024-08-11",
           "time": "21:15",
           "home_team": "Torino FC",
-          "away_team": "Cosenza Calcio",
-          "result": {
-            "full_time": "2-0"
-          }
+          "away_team": "Cosenza Calcio"
         },
         {
           "date": "2024-08-12",
           "time": "18:00",
           "home_team": "Frosinone Calcio",
-          "away_team": "Pisa SC",
-          "result": {
-            "full_time": "0-3"
-          }
+          "away_team": "Pisa SC"
         },
         {
           "date": "2024-08-12",
           "time": "18:30",
           "home_team": "US Lecce",
-          "away_team": "Mantova 1911 SSD",
-          "result": {
-            "full_time": "2-1"
-          }
+          "away_team": "Mantova 1911 SSD"
         },
         {
           "date": "2024-08-12",
@@ -178,17 +138,15 @@
           "home_team": "US Salernitana 1919",
           "away_team": "Spezia Calcio",
           "result": {
-            "full_time": "5-4"
+            "penalties": "5-4",
+            "full_time": "3-5"
           }
         },
         {
           "date": "2024-08-12",
           "time": "21:15",
           "home_team": "Cagliari Calcio",
-          "away_team": "Carrarese Calcio",
-          "result": {
-            "full_time": "3-1"
-          }
+          "away_team": "Carrarese Calcio"
         }
       ]
     },
@@ -199,46 +157,31 @@
           "date": "2024-09-24",
           "time": "16:00",
           "home_team": "US Lecce",
-          "away_team": "Sassuolo Calcio",
-          "result": {
-            "full_time": "0-2"
-          }
+          "away_team": "Sassuolo Calcio"
         },
         {
           "date": "2024-09-24",
           "time": "18:30",
           "home_team": "Cagliari Calcio",
-          "away_team": "US Cremonese",
-          "result": {
-            "full_time": "1-0"
-          }
+          "away_team": "US Cremonese"
         },
         {
           "date": "2024-09-24",
           "time": "21:00",
           "home_team": "Torino FC",
-          "away_team": "Empoli FC",
-          "result": {
-            "full_time": "1-2"
-          }
+          "away_team": "Empoli FC"
         },
         {
           "date": "2024-09-25",
           "time": "16:00",
           "home_team": "Pisa SC",
-          "away_team": "Cesena FC",
-          "result": {
-            "full_time": "0-1"
-          }
+          "away_team": "Cesena FC"
         },
         {
           "date": "2024-09-25",
           "time": "18:30",
           "home_team": "Udinese Calcio",
-          "away_team": "US Salernitana 1919",
-          "result": {
-            "full_time": "3-1"
-          }
+          "away_team": "US Salernitana 1919"
         },
         {
           "date": "2024-09-25",
@@ -246,26 +189,21 @@
           "home_team": "Genoa CFC",
           "away_team": "Sampdoria",
           "result": {
-            "full_time": "5-6"
+            "penalties": "5-6",
+            "full_time": "2-1"
           }
         },
         {
           "date": "2024-09-26",
           "time": "18:30",
           "home_team": "AC Monza",
-          "away_team": "Brescia Calcio",
-          "result": {
-            "full_time": "3-1"
-          }
+          "away_team": "Brescia Calcio"
         },
         {
           "date": "2024-09-26",
           "time": "21:00",
           "home_team": "SSC Napoli",
-          "away_team": "Palermo FC",
-          "result": {
-            "full_time": "5-0"
-          }
+          "away_team": "Palermo FC"
         }
       ]
     },
@@ -276,19 +214,13 @@
           "date": "2024-12-03",
           "time": "18:30",
           "home_team": "Bologna FC",
-          "away_team": "AC Monza",
-          "result": {
-            "full_time": "4-0"
-          }
+          "away_team": "AC Monza"
         },
         {
           "date": "2024-12-03",
           "time": "21:00",
           "home_team": "AC Milan",
-          "away_team": "Sassuolo Calcio",
-          "result": {
-            "full_time": "6-1"
-          }
+          "away_team": "Sassuolo Calcio"
         },
         {
           "date": "2024-12-04",
@@ -296,53 +228,39 @@
           "home_team": "ACF Fiorentina",
           "away_team": "Empoli FC",
           "result": {
-            "full_time": "3-4"
+            "penalties": "3-4",
+            "full_time": "2-3"
           }
         },
         {
           "date": "2024-12-05",
           "time": "21:00",
           "home_team": "Lazio Roma",
-          "away_team": "SSC Napoli",
-          "result": {
-            "full_time": "3-1"
-          }
+          "away_team": "SSC Napoli"
         },
         {
           "date": "2024-12-17",
           "time": "21:00",
           "home_team": "Juventus",
-          "away_team": "Cagliari Calcio",
-          "result": {
-            "full_time": "4-0"
-          }
+          "away_team": "Cagliari Calcio"
         },
         {
           "date": "2024-12-18",
           "time": "18:30",
           "home_team": "Atalanta",
-          "away_team": "Cesena FC",
-          "result": {
-            "full_time": "6-1"
-          }
+          "away_team": "Cesena FC"
         },
         {
           "date": "2024-12-18",
           "time": "21:00",
           "home_team": "AS Roma",
-          "away_team": "Sampdoria",
-          "result": {
-            "full_time": "4-1"
-          }
+          "away_team": "Sampdoria"
         },
         {
           "date": "2024-12-19",
           "time": "21:00",
           "home_team": "Inter",
-          "away_team": "Udinese Calcio",
-          "result": {
-            "full_time": "2-0"
-          }
+          "away_team": "Udinese Calcio"
         }
       ]
     },
@@ -353,28 +271,19 @@
           "date": "2025-02-04",
           "time": "21:00",
           "home_team": "Atalanta",
-          "away_team": "Bologna FC",
-          "result": {
-            "full_time": "0-1"
-          }
+          "away_team": "Bologna FC"
         },
         {
           "date": "2025-02-05",
           "time": "21:00",
           "home_team": "AC Milan",
-          "away_team": "AS Roma",
-          "result": {
-            "full_time": "3-1"
-          }
+          "away_team": "AS Roma"
         },
         {
           "date": "2025-02-25",
           "time": "21:00",
           "home_team": "Inter",
-          "away_team": "Lazio Roma",
-          "result": {
-            "full_time": "2-0"
-          }
+          "away_team": "Lazio Roma"
         },
         {
           "date": "2025-02-26",
@@ -382,7 +291,8 @@
           "home_team": "Juventus",
           "away_team": "Empoli FC",
           "result": {
-            "full_time": "2-4"
+            "penalties": "2-4",
+            "full_time": "1-2"
           }
         }
       ]
@@ -394,37 +304,25 @@
           "date": "2025-04-01",
           "time": "21:00",
           "home_team": "Empoli FC",
-          "away_team": "Bologna FC",
-          "result": {
-            "full_time": "0-3"
-          }
+          "away_team": "Bologna FC"
         },
         {
           "date": "2025-04-02",
           "time": "21:00",
           "home_team": "AC Milan",
-          "away_team": "Inter",
-          "result": {
-            "full_time": "1-1"
-          }
+          "away_team": "Inter"
         },
         {
           "date": "2025-04-23",
           "time": "21:00",
           "home_team": "Inter",
-          "away_team": "AC Milan",
-          "result": {
-            "full_time": "0-3"
-          }
+          "away_team": "AC Milan"
         },
         {
           "date": "2025-04-24",
           "time": "21:00",
           "home_team": "Bologna FC",
-          "away_team": "Empoli FC",
-          "result": {
-            "full_time": "2-1"
-          }
+          "away_team": "Empoli FC"
         }
       ]
     },

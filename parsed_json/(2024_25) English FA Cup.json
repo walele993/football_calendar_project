@@ -9,55 +9,37 @@
           "date": "2024-11-01",
           "time": "19:45",
           "home_team": "Tamworth FC",
-          "away_team": "Huddersfield Town",
-          "result": {
-            "full_time": "1-0"
-          }
+          "away_team": "Huddersfield Town"
         },
         {
           "date": "2024-11-01",
           "time": "19:45",
           "home_team": "Notts County",
-          "away_team": "Alfreton Town",
-          "result": {
-            "full_time": "5-1"
-          }
+          "away_team": "Alfreton Town"
         },
         {
           "date": "2024-11-02",
           "time": "15:00",
           "home_team": "Rotherham United",
-          "away_team": "Cheltenham Town",
-          "result": {
-            "full_time": "1-3"
-          }
+          "away_team": "Cheltenham Town"
         },
         {
           "date": "2024-11-02",
           "time": "15:00",
           "home_team": "Barrow AFC",
-          "away_team": "Doncaster Rovers",
-          "result": {
-            "full_time": "0-1"
-          }
+          "away_team": "Doncaster Rovers"
         },
         {
           "date": "2024-11-02",
           "time": "15:00",
           "home_team": "Worthing FC",
-          "away_team": "Morecambe FC",
-          "result": {
-            "full_time": "0-2"
-          }
+          "away_team": "Morecambe FC"
         },
         {
           "date": "2024-11-02",
           "time": "15:00",
           "home_team": "Exeter City",
-          "away_team": "Barnet FC",
-          "result": {
-            "full_time": "5-3"
-          }
+          "away_team": "Barnet FC"
         },
         {
           "date": "2024-11-02",
@@ -65,7 +47,7 @@
           "home_team": "Carlisle United",
           "away_team": "Wigan Athletic",
           "result": {
-            "full_time": "0-2"
+            "extra_time": "0-2"
           }
         },
         {
@@ -74,26 +56,21 @@
           "home_team": "Brackley Town",
           "away_team": "Braintree Town",
           "result": {
-            "full_time": "5-4"
+            "penalties": "5-4",
+            "extra_time": "0-0"
           }
         },
         {
           "date": "2024-11-02",
           "time": "15:00",
           "home_team": "Wycombe Wanderers",
-          "away_team": "York City",
-          "result": {
-            "full_time": "3-2"
-          }
+          "away_team": "York City"
         },
         {
           "date": "2024-11-02",
           "time": "15:00",
           "home_team": "Bradford City",
-          "away_team": "Aldershot Town",
-          "result": {
-            "full_time": "3-1"
-          }
+          "away_team": "Aldershot Town"
         },
         {
           "date": "2024-11-02",
@@ -101,53 +78,40 @@
           "home_team": "Hednesford Town",
           "away_team": "Gainsborough Trinity",
           "result": {
-            "full_time": "4-5"
+            "penalties": "4-5",
+            "extra_time": "4-4",
+            "full_time": "5-3"
           }
         },
         {
           "date": "2024-11-02",
           "time": "15:00",
           "home_team": "Burton Albion",
-          "away_team": "Scarborough Athletic FC",
-          "result": {
-            "full_time": "1-0"
-          }
+          "away_team": "Scarborough Athletic FC"
         },
         {
           "date": "2024-11-02",
           "time": "15:00",
           "home_team": "Tranmere Rovers",
-          "away_team": "Oldham Athletic",
-          "result": {
-            "full_time": "1-2"
-          }
+          "away_team": "Oldham Athletic"
         },
         {
           "date": "2024-11-02",
           "time": "15:00",
           "home_team": "Rochdale AFC",
-          "away_team": "Bromley FC",
-          "result": {
-            "full_time": "3-4"
-          }
+          "away_team": "Bromley FC"
         },
         {
           "date": "2024-11-02",
           "time": "15:00",
           "home_team": "Walsall FC",
-          "away_team": "Bolton Wanderers",
-          "result": {
-            "full_time": "2-1"
-          }
+          "away_team": "Bolton Wanderers"
         },
         {
           "date": "2024-11-02",
           "time": "15:00",
           "home_team": "Grimsby Town",
-          "away_team": "Wealdstone FC",
-          "result": {
-            "full_time": "0-1"
-          }
+          "away_team": "Wealdstone FC"
         },
         {
           "date": "2024-11-02",
@@ -155,17 +119,15 @@
           "home_team": "Bristol Rovers",
           "away_team": "Weston-super-Mare AFC",
           "result": {
-            "full_time": "3-1"
+            "extra_time": "3-1",
+            "full_time": "2-1"
           }
         },
         {
           "date": "2024-11-02",
           "time": "15:00",
           "home_team": "Solihull Moors",
-          "away_team": "Maidstone United",
-          "result": {
-            "full_time": "3-0"
-          }
+          "away_team": "Maidstone United"
         },
         {
           "date": "2024-11-02",
@@ -173,17 +135,15 @@
           "home_team": "Stockport County",
           "away_team": "Forest Green Rovers",
           "result": {
-            "full_time": "2-1"
+            "extra_time": "2-1",
+            "full_time": "1-1"
           }
         },
         {
           "date": "2024-11-02",
           "time": "15:00",
           "home_team": "Reading FC",
-          "away_team": "Fleetwood Town",
-          "result": {
-            "full_time": "2-0"
-          }
+          "away_team": "Fleetwood Town"
         },
         {
           "date": "2024-11-02",
@@ -191,17 +151,16 @@
           "home_team": "Stevenage FC",
           "away_team": "Guiseley AFC",
           "result": {
-            "full_time": "5-4"
+            "penalties": "5-4",
+            "extra_time": "1-1",
+            "full_time": "1-1"
           }
         },
         {
           "date": "2024-11-02",
           "time": "15:00",
           "home_team": "Rushall Olympic",
-          "away_team": "Accrington Stanley",
-          "result": {
-            "full_time": "0-2"
-          }
+          "away_team": "Accrington Stanley"
         },
         {
           "date": "2024-11-02",
@@ -209,44 +168,33 @@
           "home_team": "Swindon Town",
           "away_team": "Colchester United",
           "result": {
-            "full_time": "2-1"
+            "extra_time": "2-1",
+            "full_time": "1-1"
           }
         },
         {
           "date": "2024-11-02",
           "time": "15:00",
           "home_team": "Salford City",
-          "away_team": "Shrewsbury Town",
-          "result": {
-            "full_time": "2-1"
-          }
+          "away_team": "Shrewsbury Town"
         },
         {
           "date": "2024-11-02",
           "time": "15:00",
           "home_team": "Crewe Alexandra",
-          "away_team": "Dagenham & Redbridge",
-          "result": {
-            "full_time": "0-1"
-          }
+          "away_team": "Dagenham & Redbridge"
         },
         {
           "date": "2024-11-02",
           "time": "15:00",
           "home_team": "Port Vale FC",
-          "away_team": "Barnsley FC",
-          "result": {
-            "full_time": "1-3"
-          }
+          "away_team": "Barnsley FC"
         },
         {
           "date": "2024-11-02",
           "time": "15:00",
           "home_team": "Chesterfield FC",
-          "away_team": "Horsham FC",
-          "result": {
-            "full_time": "3-1"
-          }
+          "away_team": "Horsham FC"
         },
         {
           "date": "2024-11-02",
@@ -254,7 +202,8 @@
           "home_team": "Southend United",
           "away_team": "Charlton Athletic",
           "result": {
-            "full_time": "3-4"
+            "extra_time": "3-4",
+            "full_time": "4-5"
           }
         },
         {
@@ -263,44 +212,33 @@
           "home_team": "Maidenhead United",
           "away_team": "Crawley Town",
           "result": {
-            "full_time": "1-2"
+            "extra_time": "1-2",
+            "full_time": "1-1"
           }
         },
         {
           "date": "2024-11-02",
           "time": "15:00",
           "home_team": "Woking FC",
-          "away_team": "Cambridge United",
-          "result": {
-            "full_time": "0-1"
-          }
+          "away_team": "Cambridge United"
         },
         {
           "date": "2024-11-02",
           "time": "15:00",
           "home_team": "Gillingham FC",
-          "away_team": "Blackpool FC",
-          "result": {
-            "full_time": "0-2"
-          }
+          "away_team": "Blackpool FC"
         },
         {
           "date": "2024-11-02",
           "time": "15:00",
           "home_team": "Tonbridge Angels",
-          "away_team": "Harborough Town",
-          "result": {
-            "full_time": "1-4"
-          }
+          "away_team": "Harborough Town"
         },
         {
           "date": "2024-11-02",
           "time": "15:00",
           "home_team": "Newport County",
-          "away_team": "Peterborough United",
-          "result": {
-            "full_time": "2-4"
-          }
+          "away_team": "Peterborough United"
         },
         {
           "date": "2024-11-02",
@@ -308,26 +246,21 @@
           "home_team": "Northampton Town",
           "away_team": "Kettering Town",
           "result": {
-            "full_time": "1-2"
+            "extra_time": "1-2",
+            "full_time": "2-1"
           }
         },
         {
           "date": "2024-11-03",
           "time": "12:30",
           "home_team": "Milton Keynes Dons",
-          "away_team": "AFC Wimbledon",
-          "result": {
-            "full_time": "0-2"
-          }
+          "away_team": "AFC Wimbledon"
         },
         {
           "date": "2024-11-03",
           "time": "12:30",
           "home_team": "Sutton United",
-          "away_team": "Birmingham City",
-          "result": {
-            "full_time": "0-1"
-          }
+          "away_team": "Birmingham City"
         },
         {
           "date": "2024-11-03",
@@ -335,35 +268,28 @@
           "home_team": "Boreham Wood",
           "away_team": "Leyton Orient",
           "result": {
-            "full_time": "1-3"
+            "penalties": "1-3",
+            "extra_time": "2-2",
+            "full_time": "2-3"
           }
         },
         {
           "date": "2024-11-03",
           "time": "14:00",
           "home_team": "Curzon Ashton",
-          "away_team": "Mansfield Town",
-          "result": {
-            "full_time": "0-4"
-          }
+          "away_team": "Mansfield Town"
         },
         {
           "date": "2024-11-03",
           "time": "15:30",
           "home_team": "Harrogate Town",
-          "away_team": "Wrexham AFC",
-          "result": {
-            "full_time": "1-0"
-          }
+          "away_team": "Wrexham AFC"
         },
         {
           "date": "2024-11-04",
           "time": "19:15",
           "home_team": "Chesham United",
-          "away_team": "Lincoln City",
-          "result": {
-            "full_time": "0-4"
-          }
+          "away_team": "Lincoln City"
         }
       ]
     },
@@ -374,46 +300,31 @@
           "date": "2024-11-29",
           "time": "19:45",
           "home_team": "Harrogate Town",
-          "away_team": "Gainsborough Trinity",
-          "result": {
-            "full_time": "1-0"
-          }
+          "away_team": "Gainsborough Trinity"
         },
         {
           "date": "2024-11-30",
           "time": "11:30",
           "home_team": "Wealdstone FC",
-          "away_team": "Wycombe Wanderers",
-          "result": {
-            "full_time": "0-2"
-          }
+          "away_team": "Wycombe Wanderers"
         },
         {
           "date": "2024-11-30",
           "time": "15:00",
           "home_team": "Salford City",
-          "away_team": "Cheltenham Town",
-          "result": {
-            "full_time": "2-0"
-          }
+          "away_team": "Cheltenham Town"
         },
         {
           "date": "2024-11-30",
           "time": "15:00",
           "home_team": "Walsall FC",
-          "away_team": "Charlton Athletic",
-          "result": {
-            "full_time": "0-4"
-          }
+          "away_team": "Charlton Athletic"
         },
         {
           "date": "2024-11-30",
           "time": "15:00",
           "home_team": "Exeter City",
-          "away_team": "Chesterfield FC",
-          "result": {
-            "full_time": "2-0"
-          }
+          "away_team": "Chesterfield FC"
         },
         {
           "date": "2024-11-30",
@@ -421,7 +332,8 @@
           "home_team": "Leyton Orient",
           "away_team": "Oldham Athletic",
           "result": {
-            "full_time": "2-1"
+            "extra_time": "2-1",
+            "full_time": "1-1"
           }
         },
         {
@@ -430,7 +342,8 @@
           "home_team": "Barnsley FC",
           "away_team": "Bristol Rovers",
           "result": {
-            "full_time": "3-4"
+            "penalties": "3-4",
+            "extra_time": "0-0"
           }
         },
         {
@@ -439,53 +352,40 @@
           "home_team": "Accrington Stanley",
           "away_team": "Swindon Town",
           "result": {
-            "full_time": "4-1"
+            "penalties": "4-1",
+            "extra_time": "2-2",
+            "full_time": "3-3"
           }
         },
         {
           "date": "2024-11-30",
           "time": "15:00",
           "home_team": "Crawley Town",
-          "away_team": "Lincoln City",
-          "result": {
-            "full_time": "3-4"
-          }
+          "away_team": "Lincoln City"
         },
         {
           "date": "2024-11-30",
           "time": "15:00",
           "home_team": "Stevenage FC",
-          "away_team": "Mansfield Town",
-          "result": {
-            "full_time": "0-1"
-          }
+          "away_team": "Mansfield Town"
         },
         {
           "date": "2024-11-30",
           "time": "15:00",
           "home_team": "Peterborough United",
-          "away_team": "Notts County",
-          "result": {
-            "full_time": "4-3"
-          }
+          "away_team": "Notts County"
         },
         {
           "date": "2024-11-30",
           "time": "15:00",
           "home_team": "Stockport County",
-          "away_team": "Brackley Town",
-          "result": {
-            "full_time": "3-1"
-          }
+          "away_team": "Brackley Town"
         },
         {
           "date": "2024-11-30",
           "time": "15:00",
           "home_team": "Morecambe FC",
-          "away_team": "Bradford City",
-          "result": {
-            "full_time": "1-0"
-          }
+          "away_team": "Bradford City"
         },
         {
           "date": "2024-11-30",
@@ -493,17 +393,15 @@
           "home_team": "Cambridge United",
           "away_team": "Wigan Athletic",
           "result": {
-            "full_time": "1-2"
+            "extra_time": "1-2",
+            "full_time": "1-1"
           }
         },
         {
           "date": "2024-11-30",
           "time": "19:15",
           "home_team": "AFC Wimbledon",
-          "away_team": "Dagenham & Redbridge",
-          "result": {
-            "full_time": "1-2"
-          }
+          "away_team": "Dagenham & Redbridge"
         },
         {
           "date": "2024-12-01",
@@ -511,17 +409,15 @@
           "home_team": "Kettering Town",
           "away_team": "Doncaster Rovers",
           "result": {
-            "full_time": "1-2"
+            "extra_time": "1-2",
+            "full_time": "2-1"
           }
         },
         {
           "date": "2024-12-01",
           "time": "13:00",
           "home_team": "Blackpool FC",
-          "away_team": "Birmingham City",
-          "result": {
-            "full_time": "1-2"
-          }
+          "away_team": "Birmingham City"
         },
         {
           "date": "2024-12-01",
@@ -529,7 +425,8 @@
           "home_team": "Burton Albion",
           "away_team": "Tamworth FC",
           "result": {
-            "full_time": "3-4"
+            "penalties": "3-4",
+            "extra_time": "1-1"
           }
         },
         {
@@ -538,17 +435,15 @@
           "home_team": "Reading FC",
           "away_team": "Harborough Town",
           "result": {
-            "full_time": "5-3"
+            "extra_time": "5-3",
+            "full_time": "4-5"
           }
         },
         {
           "date": "2024-12-01",
           "time": "15:15",
           "home_team": "Solihull Moors",
-          "away_team": "Bromley FC",
-          "result": {
-            "full_time": "1-2"
-          }
+          "away_team": "Bromley FC"
         }
       ]
     },
@@ -559,100 +454,67 @@
           "date": "2025-01-09",
           "time": "19:00",
           "home_team": "Sheffield United",
-          "away_team": "Cardiff City",
-          "result": {
-            "full_time": "0-1"
-          }
+          "away_team": "Cardiff City"
         },
         {
           "date": "2025-01-09",
           "time": "19:45",
           "home_team": "Everton FC",
-          "away_team": "Peterborough United",
-          "result": {
-            "full_time": "2-0"
-          }
+          "away_team": "Peterborough United"
         },
         {
           "date": "2025-01-09",
           "time": "19:45",
           "home_team": "Fulham FC",
-          "away_team": "Watford FC",
-          "result": {
-            "full_time": "4-1"
-          }
+          "away_team": "Watford FC"
         },
         {
           "date": "2025-01-10",
           "time": "19:45",
           "home_team": "Wycombe Wanderers",
-          "away_team": "Portsmouth FC",
-          "result": {
-            "full_time": "2-0"
-          }
+          "away_team": "Portsmouth FC"
         },
         {
           "date": "2025-01-10",
           "time": "20:00",
           "home_team": "Aston Villa",
-          "away_team": "West Ham United",
-          "result": {
-            "full_time": "2-1"
-          }
+          "away_team": "West Ham United"
         },
         {
           "date": "2025-01-11",
           "time": "12:00",
           "home_team": "Bristol City",
-          "away_team": "Wolverhampton Wanderers",
-          "result": {
-            "full_time": "1-2"
-          }
+          "away_team": "Wolverhampton Wanderers"
         },
         {
           "date": "2025-01-11",
           "time": "12:00",
           "home_team": "Middlesbrough FC",
-          "away_team": "Blackburn Rovers",
-          "result": {
-            "full_time": "0-1"
-          }
+          "away_team": "Blackburn Rovers"
         },
         {
           "date": "2025-01-11",
           "time": "12:00",
           "home_team": "Birmingham City",
-          "away_team": "Lincoln City",
-          "result": {
-            "full_time": "2-1"
-          }
+          "away_team": "Lincoln City"
         },
         {
           "date": "2025-01-11",
           "time": "12:15",
           "home_team": "Liverpool FC",
-          "away_team": "Accrington Stanley",
-          "result": {
-            "full_time": "4-0"
-          }
+          "away_team": "Accrington Stanley"
         },
         {
           "date": "2025-01-11",
           "time": "14:00",
           "home_team": "Leicester City",
-          "away_team": "Queens Park Rangers",
-          "result": {
-            "full_time": "6-2"
-          }
+          "away_team": "Queens Park Rangers"
         },
         {
           "date": "2025-01-11",
           "time": "15:00",
           "home_team": "Exeter City",
-          "away_team": "Oxford United",
-          "result": {
-            "full_time": "3-1"
-          }
+          "away_team": "Oxford United"
         },
         {
           "date": "2025-01-11",
@@ -660,35 +522,27 @@
           "home_team": "Reading FC",
           "away_team": "Burnley FC",
           "result": {
-            "full_time": "1-3"
+            "extra_time": "1-3",
+            "full_time": "1-1"
           }
         },
         {
           "date": "2025-01-11",
           "time": "15:00",
           "home_team": "Norwich City",
-          "away_team": "Brighton & Hove Albion",
-          "result": {
-            "full_time": "0-4"
-          }
+          "away_team": "Brighton & Hove Albion"
         },
         {
           "date": "2025-01-11",
           "time": "15:00",
           "home_team": "Chelsea FC",
-          "away_team": "Morecambe FC",
-          "result": {
-            "full_time": "5-0"
-          }
+          "away_team": "Morecambe FC"
         },
         {
           "date": "2025-01-11",
           "time": "15:00",
           "home_team": "AFC Bournemouth",
-          "away_team": "West Bromwich Albion",
-          "result": {
-            "full_time": "5-1"
-          }
+          "away_team": "West Bromwich Albion"
         },
         {
           "date": "2025-01-11",
@@ -696,6 +550,7 @@
           "home_team": "Sunderland AFC",
           "away_team": "Stoke City",
           "result": {
+            "extra_time": "1-2",
             "full_time": "1-2"
           }
         },
@@ -703,37 +558,25 @@
           "date": "2025-01-11",
           "time": "15:00",
           "home_team": "Brentford FC",
-          "away_team": "Plymouth Argyle",
-          "result": {
-            "full_time": "0-1"
-          }
+          "away_team": "Plymouth Argyle"
         },
         {
           "date": "2025-01-11",
           "time": "15:00",
           "home_team": "Nottingham Forest",
-          "away_team": "Luton Town",
-          "result": {
-            "full_time": "2-0"
-          }
+          "away_team": "Luton Town"
         },
         {
           "date": "2025-01-11",
           "time": "17:45",
           "home_team": "Manchester City",
-          "away_team": "Salford City",
-          "result": {
-            "full_time": "8-0"
-          }
+          "away_team": "Salford City"
         },
         {
           "date": "2025-01-11",
           "time": "17:45",
           "home_team": "Leeds United",
-          "away_team": "Harrogate Town",
-          "result": {
-            "full_time": "1-0"
-          }
+          "away_team": "Harrogate Town"
         },
         {
           "date": "2025-01-11",
@@ -741,7 +584,9 @@
           "home_team": "Coventry City",
           "away_team": "Sheffield Wednesday",
           "result": {
-            "full_time": "4-3"
+            "penalties": "4-3",
+            "extra_time": "1-1",
+            "full_time": "2-1"
           }
         },
         {
@@ -750,7 +595,9 @@
           "home_team": "Hull City",
           "away_team": "Doncaster Rovers",
           "result": {
-            "full_time": "4-5"
+            "penalties": "4-5",
+            "extra_time": "1-1",
+            "full_time": "1-1"
           }
         },
         {
@@ -759,7 +606,7 @@
           "home_team": "Tamworth FC",
           "away_team": "Tottenham Hotspur",
           "result": {
-            "full_time": "0-3"
+            "extra_time": "0-3"
           }
         },
         {
@@ -768,53 +615,40 @@
           "home_team": "Arsenal FC",
           "away_team": "Manchester United",
           "result": {
-            "full_time": "3-5"
+            "penalties": "3-5",
+            "extra_time": "1-1",
+            "full_time": "1-1"
           }
         },
         {
           "date": "2025-01-12",
           "time": "15:00",
           "home_team": "Newcastle United",
-          "away_team": "Bromley FC",
-          "result": {
-            "full_time": "3-1"
-          }
+          "away_team": "Bromley FC"
         },
         {
           "date": "2025-01-12",
           "time": "15:00",
           "home_team": "Ipswich Town",
-          "away_team": "Bristol Rovers",
-          "result": {
-            "full_time": "3-0"
-          }
+          "away_team": "Bristol Rovers"
         },
         {
           "date": "2025-01-12",
           "time": "15:00",
           "home_team": "Crystal Palace",
-          "away_team": "Stockport County",
-          "result": {
-            "full_time": "1-0"
-          }
+          "away_team": "Stockport County"
         },
         {
           "date": "2025-01-12",
           "time": "16:30",
           "home_team": "Southampton FC",
-          "away_team": "Swansea City",
-          "result": {
-            "full_time": "3-0"
-          }
+          "away_team": "Swansea City"
         },
         {
           "date": "2025-01-13",
           "time": "19:30",
           "home_team": "Millwall FC",
-          "away_team": "Dagenham & Redbridge",
-          "result": {
-            "full_time": "3-0"
-          }
+          "away_team": "Dagenham & Redbridge"
         },
         {
           "date": "2025-01-14",
@@ -822,26 +656,22 @@
           "home_team": "Leyton Orient",
           "away_team": "Derby County",
           "result": {
-            "full_time": "6-5"
+            "penalties": "6-5",
+            "extra_time": "1-1",
+            "full_time": "2-2"
           }
         },
         {
           "date": "2025-01-14",
           "time": "19:45",
           "home_team": "Preston North End",
-          "away_team": "Charlton Athletic",
-          "result": {
-            "full_time": "2-1"
-          }
+          "away_team": "Charlton Athletic"
         },
         {
           "date": "2025-01-14",
           "time": "19:45",
           "home_team": "Mansfield Town",
-          "away_team": "Wigan Athletic",
-          "result": {
-            "full_time": "0-2"
-          }
+          "away_team": "Wigan Athletic"
         }
       ]
     },
@@ -852,28 +682,19 @@
           "date": "2025-02-07",
           "time": "20:00",
           "home_team": "Manchester United",
-          "away_team": "Leicester City",
-          "result": {
-            "full_time": "2-1"
-          }
+          "away_team": "Leicester City"
         },
         {
           "date": "2025-02-08",
           "time": "12:15",
           "home_team": "Leyton Orient",
-          "away_team": "Manchester City",
-          "result": {
-            "full_time": "1-2"
-          }
+          "away_team": "Manchester City"
         },
         {
           "date": "2025-02-08",
           "time": "12:15",
           "home_team": "Leeds United",
-          "away_team": "Millwall FC",
-          "result": {
-            "full_time": "0-2"
-          }
+          "away_team": "Millwall FC"
         },
         {
           "date": "2025-02-08",
@@ -881,35 +702,27 @@
           "home_team": "Preston North End",
           "away_team": "Wycombe Wanderers",
           "result": {
-            "full_time": "4-2"
+            "penalties": "4-2",
+            "extra_time": "0-0"
           }
         },
         {
           "date": "2025-02-08",
           "time": "15:00",
           "home_team": "Wigan Athletic",
-          "away_team": "Fulham FC",
-          "result": {
-            "full_time": "1-2"
-          }
+          "away_team": "Fulham FC"
         },
         {
           "date": "2025-02-08",
           "time": "15:00",
           "home_team": "Everton FC",
-          "away_team": "AFC Bournemouth",
-          "result": {
-            "full_time": "0-2"
-          }
+          "away_team": "AFC Bournemouth"
         },
         {
           "date": "2025-02-08",
           "time": "15:00",
           "home_team": "Southampton FC",
-          "away_team": "Burnley FC",
-          "result": {
-            "full_time": "0-1"
-          }
+          "away_team": "Burnley FC"
         },
         {
           "date": "2025-02-08",
@@ -917,71 +730,52 @@
           "home_team": "Stoke City",
           "away_team": "Cardiff City",
           "result": {
-            "full_time": "2-4"
+            "penalties": "2-4",
+            "extra_time": "3-3",
+            "full_time": "4-5"
           }
         },
         {
           "date": "2025-02-08",
           "time": "15:10",
           "home_team": "Coventry City",
-          "away_team": "Ipswich Town",
-          "result": {
-            "full_time": "1-4"
-          }
+          "away_team": "Ipswich Town"
         },
         {
           "date": "2025-02-08",
           "time": "17:45",
           "home_team": "Birmingham City",
-          "away_team": "Newcastle United",
-          "result": {
-            "full_time": "2-3"
-          }
+          "away_team": "Newcastle United"
         },
         {
           "date": "2025-02-08",
           "time": "20:00",
           "home_team": "Brighton & Hove Albion",
-          "away_team": "Chelsea FC",
-          "result": {
-            "full_time": "2-1"
-          }
+          "away_team": "Chelsea FC"
         },
         {
           "date": "2025-02-09",
           "time": "12:30",
           "home_team": "Blackburn Rovers",
-          "away_team": "Wolverhampton Wanderers",
-          "result": {
-            "full_time": "0-2"
-          }
+          "away_team": "Wolverhampton Wanderers"
         },
         {
           "date": "2025-02-09",
           "time": "15:00",
           "home_team": "Plymouth Argyle",
-          "away_team": "Liverpool FC",
-          "result": {
-            "full_time": "1-0"
-          }
+          "away_team": "Liverpool FC"
         },
         {
           "date": "2025-02-09",
           "time": "17:35",
           "home_team": "Aston Villa",
-          "away_team": "Tottenham Hotspur",
-          "result": {
-            "full_time": "2-1"
-          }
+          "away_team": "Tottenham Hotspur"
         },
         {
           "date": "2025-02-10",
           "time": "19:45",
           "home_team": "Doncaster Rovers",
-          "away_team": "Crystal Palace",
-          "result": {
-            "full_time": "0-2"
-          }
+          "away_team": "Crystal Palace"
         },
         {
           "date": "2025-02-11",
@@ -989,7 +783,9 @@
           "home_team": "Exeter City",
           "away_team": "Nottingham Forest",
           "result": {
-            "full_time": "2-4"
+            "penalties": "2-4",
+            "extra_time": "2-2",
+            "full_time": "3-4"
           }
         }
       ]
@@ -1001,28 +797,19 @@
           "date": "2025-02-28",
           "time": "20:00",
           "home_team": "Aston Villa",
-          "away_team": "Cardiff City",
-          "result": {
-            "full_time": "2-0"
-          }
+          "away_team": "Cardiff City"
         },
         {
           "date": "2025-03-01",
           "time": "12:15",
           "home_team": "Preston North End",
-          "away_team": "Burnley FC",
-          "result": {
-            "full_time": "3-0"
-          }
+          "away_team": "Burnley FC"
         },
         {
           "date": "2025-03-01",
           "time": "12:15",
           "home_team": "Crystal Palace",
-          "away_team": "Millwall FC",
-          "result": {
-            "full_time": "3-1"
-          }
+          "away_team": "Millwall FC"
         },
         {
           "date": "2025-03-01",
@@ -1030,17 +817,16 @@
           "home_team": "AFC Bournemouth",
           "away_team": "Wolverhampton Wanderers",
           "result": {
-            "full_time": "5-4"
+            "penalties": "5-4",
+            "extra_time": "1-1",
+            "full_time": "2-1"
           }
         },
         {
           "date": "2025-03-01",
           "time": "17:45",
           "home_team": "Manchester City",
-          "away_team": "Plymouth Argyle",
-          "result": {
-            "full_time": "3-1"
-          }
+          "away_team": "Plymouth Argyle"
         },
         {
           "date": "2025-03-02",
@@ -1048,7 +834,8 @@
           "home_team": "Newcastle United",
           "away_team": "Brighton & Hove Albion",
           "result": {
-            "full_time": "1-2"
+            "extra_time": "1-2",
+            "full_time": "2-2"
           }
         },
         {
@@ -1057,7 +844,9 @@
           "home_team": "Manchester United",
           "away_team": "Fulham FC",
           "result": {
-            "full_time": "3-4"
+            "penalties": "3-4",
+            "extra_time": "1-1",
+            "full_time": "1-2"
           }
         },
         {
@@ -1066,7 +855,9 @@
           "home_team": "Nottingham Forest",
           "away_team": "Ipswich Town",
           "result": {
-            "full_time": "5-4"
+            "penalties": "5-4",
+            "extra_time": "1-1",
+            "full_time": "1-1"
           }
         }
       ]
@@ -1078,10 +869,7 @@
           "date": "2025-03-29",
           "time": "12:15",
           "home_team": "Fulham FC",
-          "away_team": "Crystal Palace",
-          "result": {
-            "full_time": "0-3"
-          }
+          "away_team": "Crystal Palace"
         },
         {
           "date": "2025-03-29",
@@ -1089,26 +877,21 @@
           "home_team": "Brighton & Hove Albion",
           "away_team": "Nottingham Forest",
           "result": {
-            "full_time": "3-4"
+            "penalties": "3-4",
+            "extra_time": "0-0"
           }
         },
         {
           "date": "2025-03-30",
           "time": "13:30",
           "home_team": "Preston North End",
-          "away_team": "Aston Villa",
-          "result": {
-            "full_time": "0-3"
-          }
+          "away_team": "Aston Villa"
         },
         {
           "date": "2025-03-30",
           "time": "16:30",
           "home_team": "AFC Bournemouth",
-          "away_team": "Manchester City",
-          "result": {
-            "full_time": "1-2"
-          }
+          "away_team": "Manchester City"
         }
       ]
     },
@@ -1119,19 +902,13 @@
           "date": "2025-04-26",
           "time": "17:15",
           "home_team": "Crystal Palace",
-          "away_team": "Aston Villa",
-          "result": {
-            "full_time": "3-0"
-          }
+          "away_team": "Aston Villa"
         },
         {
           "date": "2025-04-27",
           "time": "16:30",
           "home_team": "Nottingham Forest",
-          "away_team": "Manchester City",
-          "result": {
-            "full_time": "0-2"
-          }
+          "away_team": "Manchester City"
         }
       ]
     },

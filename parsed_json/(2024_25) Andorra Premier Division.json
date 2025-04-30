@@ -9,44 +9,32 @@
           "date": "2024-09-14",
           "time": "20:30",
           "home_team": "FC Pas de la Casa",
-          "away_team": "FC Ordino",
-          "result": {
-            "full_time": "1-2"
-          }
+          "away_team": "FC Ordino"
         },
         {
           "date": "2024-09-15",
           "time": "20:30",
           "home_team": "Penya Encarnada",
           "away_team": "Atlétic Escaldes",
-          "result": "cancelled"
+          "cancelled": true
         },
         {
           "date": "2024-09-15",
           "time": "11:00",
           "home_team": "UE Santa Coloma",
-          "away_team": "FC Santa Coloma",
-          "result": {
-            "full_time": "0-1"
-          }
+          "away_team": "FC Santa Coloma"
         },
         {
           "date": "2024-09-15",
           "time": "13:30",
           "home_team": "Inter Club d'Escaldes",
-          "away_team": "FS La Massana",
-          "result": {
-            "full_time": "6-1"
-          }
+          "away_team": "FS La Massana"
         },
         {
           "date": "2024-09-15",
           "time": "16:00",
           "home_team": "FC Rànger's",
-          "away_team": "CF Esperança d'Andorra",
-          "result": {
-            "full_time": "4-0"
-          }
+          "away_team": "CF Esperança d'Andorra"
         }
       ]
     },
@@ -57,46 +45,31 @@
           "date": "2024-09-21",
           "time": "20:30",
           "home_team": "FC Santa Coloma",
-          "away_team": "FC Rànger's",
-          "result": {
-            "full_time": "1-1"
-          }
+          "away_team": "FC Rànger's"
         },
         {
           "date": "2024-09-22",
           "time": "11:00",
           "home_team": "CF Esperança d'Andorra",
-          "away_team": "Inter Club d'Escaldes",
-          "result": {
-            "full_time": "0-3"
-          }
+          "away_team": "Inter Club d'Escaldes"
         },
         {
           "date": "2024-09-22",
           "time": "13:30",
           "home_team": "Atlétic Escaldes",
-          "away_team": "FC Pas de la Casa",
-          "result": {
-            "full_time": "3-2"
-          }
+          "away_team": "FC Pas de la Casa"
         },
         {
           "date": "2024-09-22",
           "time": "16:00",
           "home_team": "FS La Massana",
-          "away_team": "Penya Encarnada",
-          "result": {
-            "full_time": "1-3"
-          }
+          "away_team": "Penya Encarnada"
         },
         {
           "date": "2024-09-22",
           "time": "18:30",
           "home_team": "FC Ordino",
-          "away_team": "UE Santa Coloma",
-          "result": {
-            "full_time": "0-2"
-          }
+          "away_team": "UE Santa Coloma"
         }
       ]
     },
@@ -107,46 +80,31 @@
           "date": "2024-09-28",
           "time": "20:30",
           "home_team": "FC Pas de la Casa",
-          "away_team": "UE Santa Coloma",
-          "result": {
-            "full_time": "2-2"
-          }
+          "away_team": "UE Santa Coloma"
         },
         {
           "date": "2024-09-29",
           "time": "11:00",
           "home_team": "FC Rànger's",
-          "away_team": "FC Ordino",
-          "result": {
-            "full_time": "3-0"
-          }
+          "away_team": "FC Ordino"
         },
         {
           "date": "2024-09-29",
           "time": "13:30",
           "home_team": "Penya Encarnada",
-          "away_team": "CF Esperança d'Andorra",
-          "result": {
-            "full_time": "4-1"
-          }
+          "away_team": "CF Esperança d'Andorra"
         },
         {
           "date": "2024-09-29",
           "time": "16:00",
           "home_team": "Inter Club d'Escaldes",
-          "away_team": "FC Santa Coloma",
-          "result": {
-            "full_time": "2-0"
-          }
+          "away_team": "FC Santa Coloma"
         },
         {
           "date": "2024-09-29",
           "time": "18:30",
           "home_team": "Atlétic Escaldes",
-          "away_team": "FS La Massana",
-          "result": {
-            "full_time": "3-1"
-          }
+          "away_team": "FS La Massana"
         }
       ]
     },
@@ -157,46 +115,31 @@
           "date": "2024-10-05",
           "time": "20:30",
           "home_team": "CF Esperança d'Andorra",
-          "away_team": "Atlétic Escaldes",
-          "result": {
-            "full_time": "0-5"
-          }
+          "away_team": "Atlétic Escaldes"
         },
         {
           "date": "2024-10-06",
           "time": "11:00",
           "home_team": "FS La Massana",
-          "away_team": "FC Pas de la Casa",
-          "result": {
-            "full_time": "0-4"
-          }
+          "away_team": "FC Pas de la Casa"
         },
         {
           "date": "2024-10-06",
           "time": "13:30",
           "home_team": "UE Santa Coloma",
-          "away_team": "FC Rànger's",
-          "result": {
-            "full_time": "0-1"
-          }
+          "away_team": "FC Rànger's"
         },
         {
           "date": "2024-10-06",
           "time": "16:00",
           "home_team": "FC Ordino",
-          "away_team": "Inter Club d'Escaldes",
-          "result": {
-            "full_time": "0-4"
-          }
+          "away_team": "Inter Club d'Escaldes"
         },
         {
           "date": "2024-10-06",
           "time": "18:30",
           "home_team": "FC Santa Coloma",
-          "away_team": "Penya Encarnada",
-          "result": {
-            "full_time": "2-1"
-          }
+          "away_team": "Penya Encarnada"
         }
       ]
     },
@@ -207,46 +150,31 @@
           "date": "2024-10-19",
           "time": "20:30",
           "home_team": "FS La Massana",
-          "away_team": "CF Esperança d'Andorra",
-          "result": {
-            "full_time": "1-1"
-          }
+          "away_team": "CF Esperança d'Andorra"
         },
         {
           "date": "2024-10-20",
           "time": "11:00",
           "home_team": "Atlétic Escaldes",
-          "away_team": "FC Santa Coloma",
-          "result": {
-            "full_time": "4-2"
-          }
+          "away_team": "FC Santa Coloma"
         },
         {
           "date": "2024-10-20",
           "time": "13:30",
           "home_team": "Penya Encarnada",
-          "away_team": "FC Ordino",
-          "result": {
-            "full_time": "0-0"
-          }
+          "away_team": "FC Ordino"
         },
         {
           "date": "2024-10-20",
           "time": "16:00",
           "home_team": "Inter Club d'Escaldes",
-          "away_team": "UE Santa Coloma",
-          "result": {
-            "full_time": "3-2"
-          }
+          "away_team": "UE Santa Coloma"
         },
         {
           "date": "2024-10-20",
           "time": "18:30",
           "home_team": "FC Pas de la Casa",
-          "away_team": "FC Rànger's",
-          "result": {
-            "full_time": "0-0"
-          }
+          "away_team": "FC Rànger's"
         }
       ]
     },
@@ -257,46 +185,31 @@
           "date": "2024-10-26",
           "time": "20:30",
           "home_team": "FC Ordino",
-          "away_team": "Atlétic Escaldes",
-          "result": {
-            "full_time": "2-2"
-          }
+          "away_team": "Atlétic Escaldes"
         },
         {
           "date": "2024-10-27",
           "time": "11:00",
           "home_team": "UE Santa Coloma",
-          "away_team": "Penya Encarnada",
-          "result": {
-            "full_time": "2-1"
-          }
+          "away_team": "Penya Encarnada"
         },
         {
           "date": "2024-10-27",
           "time": "13:30",
           "home_team": "FC Santa Coloma",
-          "away_team": "FS La Massana",
-          "result": {
-            "full_time": "2-0"
-          }
+          "away_team": "FS La Massana"
         },
         {
           "date": "2024-10-27",
           "time": "16:00",
           "home_team": "CF Esperança d'Andorra",
-          "away_team": "FC Pas de la Casa",
-          "result": {
-            "full_time": "0-2"
-          }
+          "away_team": "FC Pas de la Casa"
         },
         {
           "date": "2024-10-27",
           "time": "18:30",
           "home_team": "FC Rànger's",
-          "away_team": "Inter Club d'Escaldes",
-          "result": {
-            "full_time": "2-2"
-          }
+          "away_team": "Inter Club d'Escaldes"
         }
       ]
     },
@@ -307,46 +220,31 @@
           "date": "2024-11-02",
           "time": "20:30",
           "home_team": "Penya Encarnada",
-          "away_team": "FC Rànger's",
-          "result": {
-            "full_time": "0-6"
-          }
+          "away_team": "FC Rànger's"
         },
         {
           "date": "2024-11-03",
           "time": "11:00",
           "home_team": "CF Esperança d'Andorra",
-          "away_team": "FC Santa Coloma",
-          "result": {
-            "full_time": "0-2"
-          }
+          "away_team": "FC Santa Coloma"
         },
         {
           "date": "2024-11-03",
           "time": "13:30",
           "home_team": "FC Pas de la Casa",
-          "away_team": "Inter Club d'Escaldes",
-          "result": {
-            "full_time": "1-1"
-          }
+          "away_team": "Inter Club d'Escaldes"
         },
         {
           "date": "2024-11-03",
           "time": "16:00",
           "home_team": "Atlétic Escaldes",
-          "away_team": "UE Santa Coloma",
-          "result": {
-            "full_time": "0-0"
-          }
+          "away_team": "UE Santa Coloma"
         },
         {
           "date": "2024-11-03",
           "time": "18:30",
           "home_team": "FS La Massana",
-          "away_team": "FC Ordino",
-          "result": {
-            "full_time": "0-3"
-          }
+          "away_team": "FC Ordino"
         }
       ]
     },
@@ -357,46 +255,31 @@
           "date": "2024-11-09",
           "time": "20:30",
           "home_team": "Inter Club d'Escaldes",
-          "away_team": "Penya Encarnada",
-          "result": {
-            "full_time": "5-1"
-          }
+          "away_team": "Penya Encarnada"
         },
         {
           "date": "2024-11-10",
           "time": "11:00",
           "home_team": "UE Santa Coloma",
-          "away_team": "FS La Massana",
-          "result": {
-            "full_time": "5-0"
-          }
+          "away_team": "FS La Massana"
         },
         {
           "date": "2024-11-10",
           "time": "13:30",
           "home_team": "FC Ordino",
-          "away_team": "CF Esperança d'Andorra",
-          "result": {
-            "full_time": "3-1"
-          }
+          "away_team": "CF Esperança d'Andorra"
         },
         {
           "date": "2024-11-10",
           "time": "16:00",
           "home_team": "FC Pas de la Casa",
-          "away_team": "FC Santa Coloma",
-          "result": {
-            "full_time": "2-0"
-          }
+          "away_team": "FC Santa Coloma"
         },
         {
           "date": "2024-11-10",
           "time": "18:30",
           "home_team": "FC Rànger's",
-          "away_team": "Atlétic Escaldes",
-          "result": {
-            "full_time": "3-2"
-          }
+          "away_team": "Atlétic Escaldes"
         }
       ]
     },
@@ -407,46 +290,31 @@
           "date": "2024-11-23",
           "time": "20:30",
           "home_team": "Penya Encarnada",
-          "away_team": "FC Pas de la Casa",
-          "result": {
-            "full_time": "1-0"
-          }
+          "away_team": "FC Pas de la Casa"
         },
         {
           "date": "2024-11-24",
           "time": "11:00",
           "home_team": "FC Santa Coloma",
-          "away_team": "FC Ordino",
-          "result": {
-            "full_time": "3-1"
-          }
+          "away_team": "FC Ordino"
         },
         {
           "date": "2024-11-24",
           "time": "13:30",
           "home_team": "Atlétic Escaldes",
-          "away_team": "Inter Club d'Escaldes",
-          "result": {
-            "full_time": "3-1"
-          }
+          "away_team": "Inter Club d'Escaldes"
         },
         {
           "date": "2024-11-24",
           "time": "16:00",
           "home_team": "FS La Massana",
-          "away_team": "FC Rànger's",
-          "result": {
-            "full_time": "0-4"
-          }
+          "away_team": "FC Rànger's"
         },
         {
           "date": "2024-11-24",
           "time": "18:30",
           "home_team": "CF Esperança d'Andorra",
-          "away_team": "UE Santa Coloma",
-          "result": {
-            "full_time": "0-5"
-          }
+          "away_team": "UE Santa Coloma"
         }
       ]
     },
@@ -457,46 +325,31 @@
           "date": "2024-11-30",
           "time": "20:30",
           "home_team": "UE Santa Coloma",
-          "away_team": "Penya Encarnada",
-          "result": {
-            "full_time": "2-0"
-          }
+          "away_team": "Penya Encarnada"
         },
         {
           "date": "2024-12-01",
           "time": "11:00",
           "home_team": "Inter Club d'Escaldes",
-          "away_team": "FC Rànger's",
-          "result": {
-            "full_time": "0-0"
-          }
+          "away_team": "FC Rànger's"
         },
         {
           "date": "2024-12-01",
           "time": "13:30",
           "home_team": "Atlétic Escaldes",
-          "away_team": "FC Santa Coloma",
-          "result": {
-            "full_time": "0-0"
-          }
+          "away_team": "FC Santa Coloma"
         },
         {
           "date": "2024-12-01",
           "time": "16:00",
           "home_team": "FC Ordino",
-          "away_team": "FS La Massana",
-          "result": {
-            "full_time": "2-1"
-          }
+          "away_team": "FS La Massana"
         },
         {
           "date": "2024-12-01",
           "time": "18:30",
           "home_team": "FC Pas de la Casa",
-          "away_team": "CF Esperança d'Andorra",
-          "result": {
-            "full_time": "1-0"
-          }
+          "away_team": "CF Esperança d'Andorra"
         }
       ]
     },
@@ -507,46 +360,31 @@
           "date": "2024-12-08",
           "time": "13:30",
           "home_team": "Penya Encarnada",
-          "away_team": "FC Rànger's",
-          "result": {
-            "full_time": "0-0"
-          }
+          "away_team": "FC Rànger's"
         },
         {
           "date": "2024-12-08",
           "time": "16:00",
           "home_team": "FC Ordino",
-          "away_team": "FC Santa Coloma",
-          "result": {
-            "full_time": "0-1"
-          }
+          "away_team": "FC Santa Coloma"
         },
         {
           "date": "2024-12-08",
           "time": "18:30",
           "home_team": "Inter Club d'Escaldes",
-          "away_team": "Atlétic Escaldes",
-          "result": {
-            "full_time": "0-0"
-          }
+          "away_team": "Atlétic Escaldes"
         },
         {
           "date": "2024-12-10",
           "time": "10:30",
           "home_team": "FC Pas de la Casa",
-          "away_team": "UE Santa Coloma",
-          "result": {
-            "full_time": "1-2"
-          }
+          "away_team": "UE Santa Coloma"
         },
         {
           "date": "2024-12-11",
           "time": "20:45",
           "home_team": "FS La Massana",
-          "away_team": "CF Esperança d'Andorra",
-          "result": {
-            "full_time": "3-0"
-          }
+          "away_team": "CF Esperança d'Andorra"
         }
       ]
     },
@@ -557,46 +395,31 @@
           "date": "2024-12-14",
           "time": "20:30",
           "home_team": "FS La Massana",
-          "away_team": "FC Santa Coloma",
-          "result": {
-            "full_time": "0-4"
-          }
+          "away_team": "FC Santa Coloma"
         },
         {
           "date": "2024-12-15",
           "time": "11:00",
           "home_team": "Inter Club d'Escaldes",
-          "away_team": "FC Ordino",
-          "result": {
-            "full_time": "3-0"
-          }
+          "away_team": "FC Ordino"
         },
         {
           "date": "2024-12-15",
           "time": "13:30",
           "home_team": "UE Santa Coloma",
-          "away_team": "CF Esperança d'Andorra",
-          "result": {
-            "full_time": "4-0"
-          }
+          "away_team": "CF Esperança d'Andorra"
         },
         {
           "date": "2024-12-15",
           "time": "16:00",
           "home_team": "Atlétic Escaldes",
-          "away_team": "Penya Encarnada",
-          "result": {
-            "full_time": "6-1"
-          }
+          "away_team": "Penya Encarnada"
         },
         {
           "date": "2024-12-15",
           "time": "18:30",
           "home_team": "FC Rànger's",
-          "away_team": "FC Pas de la Casa",
-          "result": {
-            "full_time": "0-1"
-          }
+          "away_team": "FC Pas de la Casa"
         }
       ]
     },
@@ -607,46 +430,31 @@
           "date": "2025-01-18",
           "time": "20:30",
           "home_team": "Inter Club d'Escaldes",
-          "away_team": "FS La Massana",
-          "result": {
-            "full_time": "9-0"
-          }
+          "away_team": "FS La Massana"
         },
         {
           "date": "2025-01-19",
           "time": "11:00",
           "home_team": "FC Pas de la Casa",
-          "away_team": "Atlétic Escaldes",
-          "result": {
-            "full_time": "2-2"
-          }
+          "away_team": "Atlétic Escaldes"
         },
         {
           "date": "2025-01-19",
           "time": "13:30",
           "home_team": "UE Santa Coloma",
-          "away_team": "FC Rànger's",
-          "result": {
-            "full_time": "1-1"
-          }
+          "away_team": "FC Rànger's"
         },
         {
           "date": "2025-01-19",
           "time": "16:00",
           "home_team": "FC Santa Coloma",
-          "away_team": "CF Esperança d'Andorra",
-          "result": {
-            "full_time": "3-2"
-          }
+          "away_team": "CF Esperança d'Andorra"
         },
         {
           "date": "2025-01-19",
           "time": "18:30",
           "home_team": "FC Ordino",
-          "away_team": "Penya Encarnada",
-          "result": {
-            "full_time": "0-1"
-          }
+          "away_team": "Penya Encarnada"
         }
       ]
     },
@@ -657,46 +465,31 @@
           "date": "2025-01-25",
           "time": "20:30",
           "home_team": "CF Esperança d'Andorra",
-          "away_team": "FC Rànger's",
-          "result": {
-            "full_time": "0-7"
-          }
+          "away_team": "FC Rànger's"
         },
         {
           "date": "2025-01-26",
           "time": "11:00",
           "home_team": "FS La Massana",
-          "away_team": "Penya Encarnada",
-          "result": {
-            "full_time": "0-0"
-          }
+          "away_team": "Penya Encarnada"
         },
         {
           "date": "2025-01-26",
           "time": "13:30",
           "home_team": "FC Ordino",
-          "away_team": "FC Pas de la Casa",
-          "result": {
-            "full_time": "2-1"
-          }
+          "away_team": "FC Pas de la Casa"
         },
         {
           "date": "2025-01-26",
           "time": "16:00",
           "home_team": "UE Santa Coloma",
-          "away_team": "Atlétic Escaldes",
-          "result": {
-            "full_time": "1-0"
-          }
+          "away_team": "Atlétic Escaldes"
         },
         {
           "date": "2025-01-26",
           "time": "18:30",
           "home_team": "FC Santa Coloma",
-          "away_team": "Inter Club d'Escaldes",
-          "result": {
-            "full_time": "2-2"
-          }
+          "away_team": "Inter Club d'Escaldes"
         }
       ]
     },
@@ -707,46 +500,31 @@
           "date": "2025-02-01",
           "time": "20:30",
           "home_team": "UE Santa Coloma",
-          "away_team": "FC Ordino",
-          "result": {
-            "full_time": "2-2"
-          }
+          "away_team": "FC Ordino"
         },
         {
           "date": "2025-02-02",
           "time": "11:00",
           "home_team": "Inter Club d'Escaldes",
-          "away_team": "CF Esperança d'Andorra",
-          "result": {
-            "full_time": "9-1"
-          }
+          "away_team": "CF Esperança d'Andorra"
         },
         {
           "date": "2025-02-02",
           "time": "13:30",
           "home_team": "Penya Encarnada",
-          "away_team": "FC Santa Coloma",
-          "result": {
-            "full_time": "0-1"
-          }
+          "away_team": "FC Santa Coloma"
         },
         {
           "date": "2025-02-02",
           "time": "16:00",
           "home_team": "FC Pas de la Casa",
-          "away_team": "FS La Massana",
-          "result": {
-            "full_time": "4-0"
-          }
+          "away_team": "FS La Massana"
         },
         {
           "date": "2025-02-02",
           "time": "18:30",
           "home_team": "Atlétic Escaldes",
-          "away_team": "FC Rànger's",
-          "result": {
-            "full_time": "3-1"
-          }
+          "away_team": "FC Rànger's"
         }
       ]
     },
@@ -757,46 +535,31 @@
           "date": "2025-02-08",
           "time": "20:30",
           "home_team": "FC Santa Coloma",
-          "away_team": "FC Pas de la Casa",
-          "result": {
-            "full_time": "1-0"
-          }
+          "away_team": "FC Pas de la Casa"
         },
         {
           "date": "2025-02-09",
           "time": "11:00",
           "home_team": "FC Ordino",
-          "away_team": "FC Rànger's",
-          "result": {
-            "full_time": "2-1"
-          }
+          "away_team": "FC Rànger's"
         },
         {
           "date": "2025-02-09",
           "time": "13:30",
           "home_team": "FS La Massana",
-          "away_team": "UE Santa Coloma",
-          "result": {
-            "full_time": "0-6"
-          }
+          "away_team": "UE Santa Coloma"
         },
         {
           "date": "2025-02-09",
           "time": "16:00",
           "home_team": "Penya Encarnada",
-          "away_team": "Inter Club d'Escaldes",
-          "result": {
-            "full_time": "1-1"
-          }
+          "away_team": "Inter Club d'Escaldes"
         },
         {
           "date": "2025-02-09",
           "time": "18:30",
           "home_team": "CF Esperança d'Andorra",
-          "away_team": "Atlétic Escaldes",
-          "result": {
-            "full_time": "0-5"
-          }
+          "away_team": "Atlétic Escaldes"
         }
       ]
     },
@@ -807,46 +570,31 @@
           "date": "2025-02-15",
           "time": "20:30",
           "home_team": "Atlétic Escaldes",
-          "away_team": "FC Ordino",
-          "result": {
-            "full_time": "3-0"
-          }
+          "away_team": "FC Ordino"
         },
         {
           "date": "2025-02-16",
           "time": "11:00",
           "home_team": "FC Santa Coloma",
-          "away_team": "UE Santa Coloma",
-          "result": {
-            "full_time": "1-1"
-          }
+          "away_team": "UE Santa Coloma"
         },
         {
           "date": "2025-02-16",
           "time": "13:30",
           "home_team": "FC Pas de la Casa",
-          "away_team": "Inter Club d'Escaldes",
-          "result": {
-            "full_time": "1-3"
-          }
+          "away_team": "Inter Club d'Escaldes"
         },
         {
           "date": "2025-02-16",
           "time": "16:00",
           "home_team": "FC Rànger's",
-          "away_team": "FS La Massana",
-          "result": {
-            "full_time": "2-0"
-          }
+          "away_team": "FS La Massana"
         },
         {
           "date": "2025-02-16",
           "time": "18:30",
           "home_team": "CF Esperança d'Andorra",
-          "away_team": "Penya Encarnada",
-          "result": {
-            "full_time": "1-2"
-          }
+          "away_team": "Penya Encarnada"
         }
       ]
     },
@@ -857,46 +605,31 @@
           "date": "2025-02-22",
           "time": "20:30",
           "home_team": "Inter Club d'Escaldes",
-          "away_team": "UE Santa Coloma",
-          "result": {
-            "full_time": "3-0"
-          }
+          "away_team": "UE Santa Coloma"
         },
         {
           "date": "2025-02-23",
           "time": "11:00",
           "home_team": "Penya Encarnada",
-          "away_team": "FC Pas de la Casa",
-          "result": {
-            "full_time": "1-0"
-          }
+          "away_team": "FC Pas de la Casa"
         },
         {
           "date": "2025-02-23",
           "time": "13:30",
           "home_team": "FC Rànger's",
-          "away_team": "FC Santa Coloma",
-          "result": {
-            "full_time": "1-0"
-          }
+          "away_team": "FC Santa Coloma"
         },
         {
           "date": "2025-02-23",
           "time": "16:00",
           "home_team": "CF Esperança d'Andorra",
-          "away_team": "FC Ordino",
-          "result": {
-            "full_time": "2-2"
-          }
+          "away_team": "FC Ordino"
         },
         {
           "date": "2025-02-23",
           "time": "18:30",
           "home_team": "FS La Massana",
-          "away_team": "Atlétic Escaldes",
-          "result": {
-            "full_time": "0-6"
-          }
+          "away_team": "Atlétic Escaldes"
         }
       ]
     },
@@ -907,46 +640,31 @@
           "date": "2025-03-01",
           "time": "20:30",
           "home_team": "FC Rànger's",
-          "away_team": "Penya Encarnada",
-          "result": {
-            "full_time": "6-2"
-          }
+          "away_team": "Penya Encarnada"
         },
         {
           "date": "2025-03-02",
           "time": "11:00",
           "home_team": "FC Santa Coloma",
-          "away_team": "CF Esperança d'Andorra",
-          "result": {
-            "full_time": "4-0"
-          }
+          "away_team": "CF Esperança d'Andorra"
         },
         {
           "date": "2025-03-02",
           "time": "13:30",
           "home_team": "Atlétic Escaldes",
-          "away_team": "FC Ordino",
-          "result": {
-            "full_time": "4-0"
-          }
+          "away_team": "FC Ordino"
         },
         {
           "date": "2025-03-02",
           "time": "16:00",
           "home_team": "UE Santa Coloma",
-          "away_team": "FC Pas de la Casa",
-          "result": {
-            "full_time": "2-1"
-          }
+          "away_team": "FC Pas de la Casa"
         },
         {
           "date": "2025-03-02",
           "time": "18:30",
           "home_team": "FS La Massana",
-          "away_team": "Inter Club d'Escaldes",
-          "result": {
-            "full_time": "0-6"
-          }
+          "away_team": "Inter Club d'Escaldes"
         }
       ]
     },
@@ -957,46 +675,31 @@
           "date": "2025-03-08",
           "time": "20:30",
           "home_team": "Inter Club d'Escaldes",
-          "away_team": "Atlétic Escaldes",
-          "result": {
-            "full_time": "0-0"
-          }
+          "away_team": "Atlétic Escaldes"
         },
         {
           "date": "2025-03-09",
           "time": "11:00",
           "home_team": "CF Esperança d'Andorra",
-          "away_team": "FC Rànger's",
-          "result": {
-            "full_time": "1-1"
-          }
+          "away_team": "FC Rànger's"
         },
         {
           "date": "2025-03-09",
           "time": "13:30",
           "home_team": "Penya Encarnada",
-          "away_team": "FS La Massana",
-          "result": {
-            "full_time": "2-0"
-          }
+          "away_team": "FS La Massana"
         },
         {
           "date": "2025-03-09",
           "time": "16:00",
           "home_team": "FC Ordino",
-          "away_team": "UE Santa Coloma",
-          "result": {
-            "full_time": "1-3"
-          }
+          "away_team": "UE Santa Coloma"
         },
         {
           "date": "2025-03-09",
           "time": "18:30",
           "home_team": "FC Pas de la Casa",
-          "away_team": "FC Santa Coloma",
-          "result": {
-            "full_time": "1-2"
-          }
+          "away_team": "FC Santa Coloma"
         }
       ]
     },
