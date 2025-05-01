@@ -3840,10 +3840,13 @@
           }
         },
         {
-          "date": "2025-04-28",
+          "date": "2025-04-29",
           "time": "20:30",
           "home_team": "UD Almería",
-          "away_team": "Racing Ferrol"
+          "away_team": "Racing Ferrol",
+          "result": {
+            "full_time": "2-1"
+          }
         }
       ]
     },

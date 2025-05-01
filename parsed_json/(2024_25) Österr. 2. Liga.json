@@ -1843,7 +1843,10 @@
           "date": "2025-04-29",
           "time": "18:00",
           "home_team": "Sturm Graz II",
-          "away_team": "First Vienna FC"
+          "away_team": "First Vienna FC",
+          "result": {
+            "full_time": "4-1"
+          }
         }
       ]
     },
@@ -2063,12 +2066,6 @@
         {
           "date": "2025-05-09",
           "time": "18:00",
-          "home_team": "Kapfenberger SV 1919",
-          "away_team": "SV Stripfing/Weiden"
-        },
-        {
-          "date": "2025-05-09",
-          "time": "18:00",
           "home_team": "SKN St. Pölten",
           "away_team": "Schwarz-Weiß Bregenz"
         },
@@ -2095,6 +2092,12 @@
           "time": "14:30",
           "home_team": "SV Lafnitz",
           "away_team": "SKU Amstetten"
+        },
+        {
+          "date": "2025-05-10",
+          "time": "14:30",
+          "home_team": "Kapfenberger SV 1919",
+          "away_team": "SV Stripfing/Weiden"
         },
         {
           "date": "2025-05-11",

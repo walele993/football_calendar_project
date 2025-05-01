@@ -1779,37 +1779,55 @@
           "date": "2025-03-29",
           "time": "15:00",
           "home_team": "Aberdeen FC",
-          "away_team": "Motherwell FC"
+          "away_team": "Motherwell FC",
+          "result": {
+            "full_time": "4-1"
+          }
         },
         {
           "date": "2025-03-29",
           "time": "15:00",
           "home_team": "Celtic FC",
-          "away_team": "Heart of Midlothian"
+          "away_team": "Heart of Midlothian",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2025-03-29",
           "time": "15:00",
           "home_team": "Hibernian FC",
-          "away_team": "St. Johnstone FC"
+          "away_team": "St. Johnstone FC",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2025-03-29",
           "time": "15:00",
           "home_team": "St. Mirren FC",
-          "away_team": "Kilmarnock FC"
+          "away_team": "Kilmarnock FC",
+          "result": {
+            "full_time": "5-1"
+          }
         },
         {
           "date": "2025-03-29",
           "time": "17:30",
           "home_team": "Dundee FC",
-          "away_team": "Rangers FC"
+          "away_team": "Rangers FC",
+          "result": {
+            "full_time": "3-4"
+          }
         },
         {
           "date": "2025-03-30",
           "time": "14:30",
           "home_team": "Ross County FC",
-          "away_team": "Dundee United"
+          "away_team": "Dundee United",
+          "result": {
+            "full_time": "0-1"
+          }
         }
       ]
     },
@@ -1820,37 +1838,55 @@
           "date": "2025-04-05",
           "time": "15:00",
           "home_team": "Dundee FC",
-          "away_team": "St. Mirren FC"
+          "away_team": "St. Mirren FC",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2025-04-05",
           "time": "15:00",
           "home_team": "Kilmarnock FC",
-          "away_team": "Motherwell FC"
+          "away_team": "Motherwell FC",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2025-04-05",
           "time": "15:00",
           "home_team": "Rangers FC",
-          "away_team": "Hibernian FC"
+          "away_team": "Hibernian FC",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2025-04-05",
           "time": "15:00",
           "home_team": "Ross County FC",
-          "away_team": "Aberdeen FC"
+          "away_team": "Aberdeen FC",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2025-04-06",
           "time": "12:00",
           "home_team": "St. Johnstone FC",
-          "away_team": "Celtic FC"
+          "away_team": "Celtic FC",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2025-04-06",
           "time": "14:30",
           "home_team": "Heart of Midlothian",
-          "away_team": "Dundee United"
+          "away_team": "Dundee United",
+          "result": {
+            "full_time": "0-1"
+          }
         }
       ]
     },
@@ -1861,36 +1897,302 @@
           "date": "2025-04-12",
           "time": "12:30",
           "home_team": "Celtic FC",
-          "away_team": "Kilmarnock FC"
+          "away_team": "Kilmarnock FC",
+          "result": {
+            "full_time": "5-1"
+          }
         },
         {
           "date": "2025-04-12",
           "time": "15:00",
           "home_team": "Dundee United",
-          "away_team": "St. Johnstone FC"
+          "away_team": "St. Johnstone FC",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2025-04-12",
           "time": "15:00",
           "home_team": "Motherwell FC",
-          "away_team": "Heart of Midlothian"
+          "away_team": "Heart of Midlothian",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2025-04-12",
           "time": "15:00",
           "home_team": "St. Mirren FC",
-          "away_team": "Ross County FC"
+          "away_team": "Ross County FC",
+          "result": {
+            "full_time": "3-2"
+          }
         },
         {
           "date": "2025-04-13",
           "time": "12:00",
           "home_team": "Aberdeen FC",
-          "away_team": "Rangers FC"
+          "away_team": "Rangers FC",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2025-04-13",
           "time": "14:30",
           "home_team": "Hibernian FC",
+          "away_team": "Dundee FC",
+          "result": {
+            "full_time": "4-0"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Championship, Matchday 34",
+      "matches": [
+        {
+          "date": "2025-04-26",
+          "time": "12:30",
+          "home_team": "Dundee United",
+          "away_team": "Celtic FC",
+          "result": {
+            "full_time": "0-5"
+          }
+        },
+        {
+          "date": "2025-04-26",
+          "time": "15:00",
+          "home_team": "Aberdeen FC",
+          "away_team": "Hibernian FC",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2025-04-26",
+          "time": "15:00",
+          "home_team": "St. Mirren FC",
+          "away_team": "Rangers FC",
+          "result": {
+            "full_time": "2-2"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Championship, Matchday 35",
+      "matches": [
+        {
+          "date": "2025-05-03",
+          "time": "15:00",
+          "home_team": "Hibernian FC",
+          "away_team": "Dundee United"
+        },
+        {
+          "date": "2025-05-03",
+          "time": "15:00",
+          "home_team": "St. Mirren FC",
+          "away_team": "Aberdeen FC"
+        },
+        {
+          "date": "2025-05-04",
+          "time": "12:00",
+          "home_team": "Rangers FC",
+          "away_team": "Celtic FC"
+        }
+      ]
+    },
+    {
+      "matchday": "Championship, Matchday 36",
+      "matches": [
+        {
+          "date": "2025-05-10",
+          "time": "15:00",
+          "home_team": "Celtic FC",
+          "away_team": "Hibernian FC"
+        },
+        {
+          "date": "2025-05-10",
+          "time": "15:00",
+          "home_team": "Dundee United",
+          "away_team": "St. Mirren FC"
+        },
+        {
+          "date": "2025-05-11",
+          "time": "12:00",
+          "home_team": "Rangers FC",
+          "away_team": "Aberdeen FC"
+        }
+      ]
+    },
+    {
+      "matchday": "Championship, Matchday 37",
+      "matches": [
+        {
+          "date": "2025-05-14",
+          "time": "19:45",
+          "home_team": "Aberdeen FC",
+          "away_team": "Celtic FC"
+        },
+        {
+          "date": "2025-05-14",
+          "time": "19:45",
+          "home_team": "Rangers FC",
+          "away_team": "Dundee United"
+        },
+        {
+          "date": "2025-05-14",
+          "time": "19:45",
+          "home_team": "St. Mirren FC",
+          "away_team": "Hibernian FC"
+        }
+      ]
+    },
+    {
+      "matchday": "Championship, Matchday 38",
+      "matches": [
+        {
+          "date": "2025-05-17",
+          "time": "12:30",
+          "home_team": "Celtic FC",
+          "away_team": "St. Mirren FC"
+        },
+        {
+          "date": "2025-05-17",
+          "time": "12:30",
+          "home_team": "Dundee United",
+          "away_team": "Aberdeen FC"
+        },
+        {
+          "date": "2025-05-17",
+          "time": "12:30",
+          "home_team": "Hibernian FC",
+          "away_team": "Rangers FC"
+        }
+      ]
+    },
+    {
+      "matchday": "Relegation, Matchday 34",
+      "matches": [
+        {
+          "date": "2025-04-26",
+          "time": "15:00",
+          "home_team": "Heart of Midlothian",
+          "away_team": "Dundee FC",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2025-04-26",
+          "time": "15:00",
+          "home_team": "Kilmarnock FC",
+          "away_team": "Ross County FC",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2025-04-26",
+          "time": "15:00",
+          "home_team": "Motherwell FC",
+          "away_team": "St. Johnstone FC",
+          "result": {
+            "full_time": "3-2"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Relegation, Matchday 35",
+      "matches": [
+        {
+          "date": "2025-05-03",
+          "time": "15:00",
+          "home_team": "Dundee FC",
+          "away_team": "Motherwell FC"
+        },
+        {
+          "date": "2025-05-03",
+          "time": "15:00",
+          "home_team": "Ross County FC",
+          "away_team": "Heart of Midlothian"
+        },
+        {
+          "date": "2025-05-03",
+          "time": "15:00",
+          "home_team": "St. Johnstone FC",
+          "away_team": "Kilmarnock FC"
+        }
+      ]
+    },
+    {
+      "matchday": "Relegation, Matchday 36",
+      "matches": [
+        {
+          "date": "2025-05-10",
+          "time": "15:00",
+          "home_team": "Heart of Midlothian",
+          "away_team": "Motherwell FC"
+        },
+        {
+          "date": "2025-05-10",
+          "time": "15:00",
+          "home_team": "Kilmarnock FC",
+          "away_team": "Dundee FC"
+        },
+        {
+          "date": "2025-05-10",
+          "time": "15:00",
+          "home_team": "St. Johnstone FC",
+          "away_team": "Ross County FC"
+        }
+      ]
+    },
+    {
+      "matchday": "Relegation, Matchday 37",
+      "matches": [
+        {
+          "date": "2025-05-14",
+          "time": "19:45",
+          "home_team": "Dundee FC",
+          "away_team": "Ross County FC"
+        },
+        {
+          "date": "2025-05-14",
+          "time": "19:45",
+          "home_team": "Heart of Midlothian",
+          "away_team": "St. Johnstone FC"
+        },
+        {
+          "date": "2025-05-14",
+          "time": "19:45",
+          "home_team": "Motherwell FC",
+          "away_team": "Kilmarnock FC"
+        }
+      ]
+    },
+    {
+      "matchday": "Relegation, Matchday 38",
+      "matches": [
+        {
+          "date": "2025-05-18",
+          "time": "15:00",
+          "home_team": "Kilmarnock FC",
+          "away_team": "Heart of Midlothian"
+        },
+        {
+          "date": "2025-05-18",
+          "time": "15:00",
+          "home_team": "Ross County FC",
+          "away_team": "Motherwell FC"
+        },
+        {
+          "date": "2025-05-18",
+          "time": "15:00",
+          "home_team": "St. Johnstone FC",
           "away_team": "Dundee FC"
         }
       ]
