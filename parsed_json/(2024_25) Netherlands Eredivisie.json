@@ -2647,43 +2647,64 @@
           "date": "2025-05-03",
           "time": "16:30",
           "home_team": "NEC",
-          "away_team": "Willem II Tilburg"
+          "away_team": "Willem II Tilburg",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-05-03",
           "time": "18:45",
           "home_team": "Heracles Almelo",
-          "away_team": "Feyenoord Rotterdam"
+          "away_team": "Feyenoord Rotterdam",
+          "result": {
+            "full_time": "1-4"
+          }
         },
         {
           "date": "2025-05-03",
           "time": "20:00",
           "home_team": "FC Groningen",
-          "away_team": "RKC Waalwijk"
+          "away_team": "RKC Waalwijk",
+          "result": {
+            "full_time": "6-1"
+          }
         },
         {
           "date": "2025-05-03",
           "time": "21:00",
           "home_team": "PSV",
-          "away_team": "Fortuna Sittard"
+          "away_team": "Fortuna Sittard",
+          "result": {
+            "full_time": "4-1"
+          }
         },
         {
           "date": "2025-05-04",
           "time": "12:15",
           "home_team": "NAC Breda",
-          "away_team": "PEC Zwolle"
+          "away_team": "PEC Zwolle",
+          "result": {
+            "full_time": "1-3"
+          }
         },
         {
           "date": "2025-05-04",
           "time": "14:30",
           "home_team": "Go Ahead Eagles",
-          "away_team": "AZ"
+          "away_team": "AZ",
+          "result": {
+            "full_time": "0-3"
+          }
         },
         {
           "date": "2025-05-04",
           "time": "14:30",
           "home_team": "Sparta Rotterdam",
-          "away_team": "FC Twente '65"
+          "away_team": "FC Twente '65",
+          "result": {
+            "full_time": "0-2"
+          }
         }
       ]
     },

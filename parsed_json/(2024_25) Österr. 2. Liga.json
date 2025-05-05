@@ -2008,49 +2008,73 @@
           "date": "2025-05-02",
           "time": "18:00",
           "home_team": "FC Liefering",
-          "away_team": "ASK Voitsberg"
+          "away_team": "ASK Voitsberg",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2025-05-02",
           "time": "18:00",
           "home_team": "SV Horn",
-          "away_team": "SV Lafnitz"
+          "away_team": "SV Lafnitz",
+          "result": {
+            "full_time": "4-1"
+          }
         },
         {
           "date": "2025-05-02",
           "time": "18:00",
           "home_team": "Schwarz-Weiß Bregenz",
-          "away_team": "Rapid Wien II"
+          "away_team": "Rapid Wien II",
+          "result": {
+            "full_time": "1-5"
+          }
         },
         {
           "date": "2025-05-02",
           "time": "18:00",
           "home_team": "SV Stripfing/Weiden",
-          "away_team": "Floridsdorfer AC"
+          "away_team": "Floridsdorfer AC",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2025-05-02",
           "time": "18:00",
           "home_team": "SKU Amstetten",
-          "away_team": "Austria Lustenau"
+          "away_team": "Austria Lustenau",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2025-05-02",
           "time": "20:30",
           "home_team": "SV Ried",
-          "away_team": "FC Admira Wacker"
+          "away_team": "FC Admira Wacker",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2025-05-03",
           "time": "20:00",
           "home_team": "Sturm Graz II",
-          "away_team": "SKN St. Pölten"
+          "away_team": "SKN St. Pölten",
+          "result": {
+            "full_time": "2-4"
+          }
         },
         {
           "date": "2025-05-04",
           "time": "10:30",
           "home_team": "First Vienna FC",
-          "away_team": "Kapfenberger SV 1919"
+          "away_team": "Kapfenberger SV 1919",
+          "result": {
+            "full_time": "0-2"
+          }
         }
       ]
     },
@@ -2112,49 +2136,49 @@
       "matches": [
         {
           "date": "2025-05-16",
-          "time": "10:30",
+          "time": "18:00",
           "home_team": "First Vienna FC",
           "away_team": "SKU Amstetten"
         },
         {
           "date": "2025-05-16",
-          "time": "10:30",
+          "time": "18:00",
           "home_team": "Sturm Graz II",
           "away_team": "SV Lafnitz"
         },
         {
           "date": "2025-05-16",
-          "time": "10:30",
+          "time": "18:00",
           "home_team": "SKN St. Pölten",
           "away_team": "Rapid Wien II"
         },
         {
           "date": "2025-05-16",
-          "time": "10:30",
+          "time": "18:00",
           "home_team": "ASK Voitsberg",
           "away_team": "Floridsdorfer AC"
         },
         {
           "date": "2025-05-16",
-          "time": "10:30",
+          "time": "18:00",
           "home_team": "SV Stripfing/Weiden",
           "away_team": "Austria Lustenau"
         },
         {
           "date": "2025-05-16",
-          "time": "10:30",
+          "time": "18:00",
           "home_team": "SV Horn",
           "away_team": "Kapfenberger SV 1919"
         },
         {
           "date": "2025-05-16",
-          "time": "10:30",
+          "time": "20:30",
           "home_team": "Schwarz-Weiß Bregenz",
           "away_team": "SV Ried"
         },
         {
           "date": "2025-05-16",
-          "time": "10:30",
+          "time": "20:30",
           "home_team": "FC Liefering",
           "away_team": "FC Admira Wacker"
         }
@@ -2165,49 +2189,49 @@
       "matches": [
         {
           "date": "2025-05-25",
-          "time": "10:30",
+          "time": "20:30",
           "home_team": "SKU Amstetten",
           "away_team": "FC Liefering"
         },
         {
           "date": "2025-05-25",
-          "time": "10:30",
+          "time": "20:30",
           "home_team": "Austria Lustenau",
           "away_team": "ASK Voitsberg"
         },
         {
           "date": "2025-05-25",
-          "time": "10:30",
+          "time": "20:30",
           "home_team": "Rapid Wien II",
           "away_team": "SV Stripfing/Weiden"
         },
         {
           "date": "2025-05-25",
-          "time": "10:30",
+          "time": "20:30",
           "home_team": "Kapfenberger SV 1919",
           "away_team": "Schwarz-Weiß Bregenz"
         },
         {
           "date": "2025-05-25",
-          "time": "10:30",
+          "time": "20:30",
           "home_team": "FC Admira Wacker",
           "away_team": "SV Horn"
         },
         {
           "date": "2025-05-25",
-          "time": "10:30",
+          "time": "20:30",
           "home_team": "SV Lafnitz",
           "away_team": "SKN St. Pölten"
         },
         {
           "date": "2025-05-25",
-          "time": "10:30",
+          "time": "20:30",
           "home_team": "SV Ried",
           "away_team": "First Vienna FC"
         },
         {
           "date": "2025-05-25",
-          "time": "10:30",
+          "time": "20:30",
           "home_team": "Floridsdorfer AC",
           "away_team": "Sturm Graz II"
         }

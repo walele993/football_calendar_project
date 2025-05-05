@@ -1869,13 +1869,19 @@
           "date": "2025-05-04",
           "time": "20:00",
           "home_team": "AEK Athen",
-          "away_team": "Panathinaikos"
+          "away_team": "Panathinaikos",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2025-05-04",
           "time": "20:00",
           "home_team": "Olympiakos Piraeus",
-          "away_team": "PAOK Saloniki"
+          "away_team": "PAOK Saloniki",
+          "result": {
+            "full_time": "4-2"
+          }
         }
       ]
     },
@@ -1995,13 +2001,19 @@
           "date": "2025-05-03",
           "time": "20:00",
           "home_team": "OFI Heraklion",
-          "away_team": "Aris Saloniki"
+          "away_team": "Aris Saloniki",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-05-03",
           "time": "20:00",
           "home_team": "Asteras Tripolis",
-          "away_team": "Atromitos"
+          "away_team": "Atromitos",
+          "result": {
+            "full_time": "1-4"
+          }
         }
       ]
     },

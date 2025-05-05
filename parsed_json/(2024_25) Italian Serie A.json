@@ -3034,7 +3034,7 @@
           "home_team": "Como 1907",
           "away_team": "Torino FC",
           "result": {
-            "full_time": "1-1"
+            "full_time": "1-0"
           }
         },
         {
@@ -3222,19 +3222,28 @@
           "date": "2025-04-28",
           "time": "18:30",
           "home_team": "Udinese Calcio",
-          "away_team": "Bologna FC 1909"
+          "away_team": "Bologna FC 1909",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2025-04-28",
           "time": "20:45",
           "home_team": "Hellas Verona FC",
-          "away_team": "Cagliari Calcio"
+          "away_team": "Cagliari Calcio",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2025-04-28",
           "time": "20:45",
           "home_team": "SS Lazio",
-          "away_team": "Parma Calcio 1913"
+          "away_team": "Parma Calcio 1913",
+          "result": {
+            "full_time": "2-2"
+          }
         }
       ]
     },
@@ -3245,55 +3254,82 @@
           "date": "2025-05-02",
           "time": "20:45",
           "home_team": "Torino FC",
-          "away_team": "Venezia FC"
+          "away_team": "Venezia FC",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-05-03",
           "time": "15:00",
           "home_team": "Cagliari Calcio",
-          "away_team": "Udinese Calcio"
+          "away_team": "Udinese Calcio",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2025-05-03",
           "time": "15:00",
           "home_team": "Parma Calcio 1913",
-          "away_team": "Como 1907"
+          "away_team": "Como 1907",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2025-05-03",
           "time": "18:00",
           "home_team": "US Lecce",
-          "away_team": "SSC Napoli"
+          "away_team": "SSC Napoli",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2025-05-03",
           "time": "20:45",
           "home_team": "FC Internazionale Milano",
-          "away_team": "Hellas Verona FC"
+          "away_team": "Hellas Verona FC",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2025-05-04",
           "time": "12:30",
           "home_team": "Empoli FC",
-          "away_team": "SS Lazio"
+          "away_team": "SS Lazio",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2025-05-04",
           "time": "15:00",
           "home_team": "AC Monza",
-          "away_team": "Atalanta BC"
+          "away_team": "Atalanta BC",
+          "result": {
+            "full_time": "0-4"
+          }
         },
         {
           "date": "2025-05-04",
           "time": "18:00",
           "home_team": "AS Roma",
-          "away_team": "ACF Fiorentina"
+          "away_team": "ACF Fiorentina",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2025-05-04",
           "time": "20:45",
           "home_team": "Bologna FC 1909",
-          "away_team": "Juventus FC"
+          "away_team": "Juventus FC",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-05-05",
@@ -3307,22 +3343,34 @@
       "matchday": "Matchday 36",
       "matches": [
         {
-          "date": "2025-05-11",
-          "time": "15:00",
-          "home_team": "Atalanta BC",
-          "away_team": "AS Roma"
+          "date": "2025-05-09",
+          "time": "20:45",
+          "home_team": "AC Milan",
+          "away_team": "Bologna FC 1909"
         },
         {
-          "date": "2025-05-11",
+          "date": "2025-05-10",
           "time": "15:00",
           "home_team": "Como 1907",
           "away_team": "Cagliari Calcio"
         },
         {
-          "date": "2025-05-11",
-          "time": "15:00",
+          "date": "2025-05-10",
+          "time": "18:00",
+          "home_team": "SS Lazio",
+          "away_team": "Juventus FC"
+        },
+        {
+          "date": "2025-05-10",
+          "time": "20:45",
           "home_team": "Empoli FC",
           "away_team": "Parma Calcio 1913"
+        },
+        {
+          "date": "2025-05-11",
+          "time": "12:30",
+          "home_team": "Udinese Calcio",
+          "away_team": "AC Monza"
         },
         {
           "date": "2025-05-11",
@@ -3332,39 +3380,27 @@
         },
         {
           "date": "2025-05-11",
-          "time": "15:00",
-          "home_team": "SS Lazio",
-          "away_team": "Juventus FC"
-        },
-        {
-          "date": "2025-05-11",
-          "time": "15:00",
-          "home_team": "AC Milan",
-          "away_team": "Bologna FC 1909"
-        },
-        {
-          "date": "2025-05-11",
-          "time": "15:00",
-          "home_team": "SSC Napoli",
-          "away_team": "Genoa CFC"
-        },
-        {
-          "date": "2025-05-11",
-          "time": "15:00",
+          "time": "18:00",
           "home_team": "Torino FC",
           "away_team": "FC Internazionale Milano"
         },
         {
           "date": "2025-05-11",
-          "time": "15:00",
-          "home_team": "Udinese Calcio",
-          "away_team": "AC Monza"
+          "time": "20:45",
+          "home_team": "SSC Napoli",
+          "away_team": "Genoa CFC"
         },
         {
-          "date": "2025-05-11",
-          "time": "15:00",
+          "date": "2025-05-12",
+          "time": "18:30",
           "home_team": "Venezia FC",
           "away_team": "ACF Fiorentina"
+        },
+        {
+          "date": "2025-05-12",
+          "time": "20:45",
+          "home_team": "Atalanta BC",
+          "away_team": "AS Roma"
         }
       ]
     },

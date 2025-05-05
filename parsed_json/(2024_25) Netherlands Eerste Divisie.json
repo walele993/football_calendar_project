@@ -2456,13 +2456,19 @@
           "date": "2025-04-01",
           "time": "20:00",
           "home_team": "FC Utrecht J",
-          "away_team": "VVV-Venlo"
+          "away_team": "VVV-Venlo",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2025-04-07",
           "time": "20:00",
           "home_team": "AZ Alkmaar J",
-          "away_team": "Jong PSV"
+          "away_team": "Jong PSV",
+          "result": {
+            "full_time": "2-2"
+          }
         }
       ]
     },
@@ -2948,61 +2954,91 @@
           "date": "2025-03-28",
           "time": "20:00",
           "home_team": "FC Eindhoven",
-          "away_team": "Helmond Sport"
+          "away_team": "Helmond Sport",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2025-03-28",
           "time": "20:00",
           "home_team": "SBV Excelsior",
-          "away_team": "FC Utrecht J"
+          "away_team": "FC Utrecht J",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2025-03-28",
           "time": "20:00",
           "home_team": "MVV",
-          "away_team": "FC Emmen"
+          "away_team": "FC Emmen",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2025-03-28",
           "time": "20:00",
           "home_team": "SC Cambuur",
-          "away_team": "De Graafschap"
+          "away_team": "De Graafschap",
+          "result": {
+            "full_time": "3-2"
+          }
         },
         {
           "date": "2025-03-28",
           "time": "20:00",
           "home_team": "Telstar",
-          "away_team": "Vitesse"
+          "away_team": "Vitesse",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2025-03-29",
           "time": "16:30",
           "home_team": "Roda JC Kerkrade",
-          "away_team": "VVV-Venlo"
+          "away_team": "VVV-Venlo",
+          "result": {
+            "full_time": "1-4"
+          }
         },
         {
           "date": "2025-03-30",
           "time": "16:45",
           "home_team": "ADO Den Haag",
-          "away_team": "FC Dordrecht"
+          "away_team": "FC Dordrecht",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2025-03-31",
           "time": "20:00",
           "home_team": "Jong Ajax",
-          "away_team": "FC Volendam"
+          "away_team": "FC Volendam",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2025-03-31",
           "time": "20:00",
           "home_team": "AZ Alkmaar J",
-          "away_team": "TOP Oss"
+          "away_team": "TOP Oss",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-03-31",
           "time": "20:00",
           "home_team": "Jong PSV",
-          "away_team": "FC Den Bosch"
+          "away_team": "FC Den Bosch",
+          "result": {
+            "full_time": "2-4"
+          }
         }
       ]
     },
@@ -3013,61 +3049,91 @@
           "date": "2025-04-04",
           "time": "20:00",
           "home_team": "FC Dordrecht",
-          "away_team": "Jong Ajax"
+          "away_team": "Jong Ajax",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2025-04-04",
           "time": "20:00",
           "home_team": "FC Emmen",
-          "away_team": "SC Cambuur"
+          "away_team": "SC Cambuur",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2025-04-04",
           "time": "20:00",
           "home_team": "FC Volendam",
-          "away_team": "Jong PSV"
+          "away_team": "Jong PSV",
+          "result": {
+            "full_time": "4-0"
+          }
         },
         {
           "date": "2025-04-04",
           "time": "20:00",
           "home_team": "MVV",
-          "away_team": "SBV Excelsior"
+          "away_team": "SBV Excelsior",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2025-04-04",
           "time": "20:00",
           "home_team": "TOP Oss",
-          "away_team": "VVV-Venlo"
+          "away_team": "VVV-Venlo",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2025-04-04",
           "time": "20:00",
           "home_team": "Vitesse",
-          "away_team": "AZ Alkmaar J"
+          "away_team": "AZ Alkmaar J",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2025-04-05",
           "time": "16:30",
           "home_team": "Helmond Sport",
-          "away_team": "Telstar"
+          "away_team": "Telstar",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2025-04-06",
           "time": "12:15",
           "home_team": "FC Den Bosch",
-          "away_team": "FC Eindhoven"
+          "away_team": "FC Eindhoven",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2025-04-06",
           "time": "16:45",
           "home_team": "De Graafschap",
-          "away_team": "Roda JC Kerkrade"
+          "away_team": "Roda JC Kerkrade",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2025-04-07",
           "time": "20:00",
           "home_team": "FC Utrecht J",
-          "away_team": "ADO Den Haag"
+          "away_team": "ADO Den Haag",
+          "result": {
+            "full_time": "1-1"
+          }
         }
       ]
     },
@@ -3078,61 +3144,91 @@
           "date": "2025-04-11",
           "time": "20:00",
           "home_team": "FC Eindhoven",
-          "away_team": "De Graafschap"
+          "away_team": "De Graafschap",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2025-04-11",
           "time": "20:00",
           "home_team": "SBV Excelsior",
-          "away_team": "TOP Oss"
+          "away_team": "TOP Oss",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2025-04-11",
           "time": "20:00",
           "home_team": "Roda JC Kerkrade",
-          "away_team": "FC Emmen"
+          "away_team": "FC Emmen",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2025-04-11",
           "time": "20:00",
           "home_team": "Telstar",
-          "away_team": "ADO Den Haag"
+          "away_team": "ADO Den Haag",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-04-12",
           "time": "16:30",
           "home_team": "FC Dordrecht",
-          "away_team": "FC Den Bosch"
+          "away_team": "FC Den Bosch",
+          "result": {
+            "full_time": "4-0"
+          }
         },
         {
           "date": "2025-04-13",
           "time": "12:15",
           "home_team": "SC Cambuur",
-          "away_team": "FC Utrecht J"
+          "away_team": "FC Utrecht J",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2025-04-13",
           "time": "16:45",
           "home_team": "VVV-Venlo",
-          "away_team": "Helmond Sport"
+          "away_team": "Helmond Sport",
+          "result": {
+            "full_time": "4-1"
+          }
         },
         {
           "date": "2025-04-14",
           "time": "20:00",
           "home_team": "Jong Ajax",
-          "away_team": "Vitesse"
+          "away_team": "Vitesse",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-04-14",
           "time": "20:00",
           "home_team": "AZ Alkmaar J",
-          "away_team": "FC Volendam"
+          "away_team": "FC Volendam",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2025-04-14",
           "time": "20:00",
           "home_team": "Jong PSV",
-          "away_team": "MVV"
+          "away_team": "MVV",
+          "result": {
+            "full_time": "3-2"
+          }
         }
       ]
     },
@@ -3143,61 +3239,91 @@
           "date": "2025-04-18",
           "time": "20:00",
           "home_team": "FC Den Bosch",
-          "away_team": "VVV-Venlo"
+          "away_team": "VVV-Venlo",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2025-04-18",
           "time": "20:00",
           "home_team": "FC Eindhoven",
-          "away_team": "Telstar"
+          "away_team": "Telstar",
+          "result": {
+            "full_time": "0-4"
+          }
         },
         {
           "date": "2025-04-18",
           "time": "20:00",
           "home_team": "FC Emmen",
-          "away_team": "AZ Alkmaar J"
+          "away_team": "AZ Alkmaar J",
+          "result": {
+            "full_time": "1-4"
+          }
         },
         {
           "date": "2025-04-18",
           "time": "20:00",
           "home_team": "Helmond Sport",
-          "away_team": "SC Cambuur"
+          "away_team": "SC Cambuur",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-04-18",
           "time": "20:00",
           "home_team": "MVV",
-          "away_team": "FC Utrecht J"
+          "away_team": "FC Utrecht J",
+          "result": {
+            "full_time": "5-0"
+          }
         },
         {
           "date": "2025-04-19",
           "time": "16:30",
           "home_team": "Vitesse",
-          "away_team": "Roda JC Kerkrade"
+          "away_team": "Roda JC Kerkrade",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2025-04-19",
           "time": "18:45",
           "home_team": "TOP Oss",
-          "away_team": "FC Dordrecht"
+          "away_team": "FC Dordrecht",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2025-04-19",
           "time": "21:00",
           "home_team": "De Graafschap",
-          "away_team": "Jong Ajax"
+          "away_team": "Jong Ajax",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2025-04-20",
           "time": "14:30",
           "home_team": "ADO Den Haag",
-          "away_team": "Jong PSV"
+          "away_team": "Jong PSV",
+          "result": {
+            "full_time": "3-2"
+          }
         },
         {
           "date": "2025-04-20",
           "time": "16:45",
           "home_team": "FC Volendam",
-          "away_team": "SBV Excelsior"
+          "away_team": "SBV Excelsior",
+          "result": {
+            "full_time": "1-4"
+          }
         }
       ]
     },
@@ -3208,61 +3334,91 @@
           "date": "2025-04-24",
           "time": "20:00",
           "home_team": "Roda JC Kerkrade",
-          "away_team": "ADO Den Haag"
+          "away_team": "ADO Den Haag",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-04-25",
           "time": "20:00",
           "home_team": "FC Dordrecht",
-          "away_team": "MVV"
+          "away_team": "MVV",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2025-04-25",
           "time": "20:00",
           "home_team": "SC Cambuur",
-          "away_team": "Vitesse"
+          "away_team": "Vitesse",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2025-04-25",
           "time": "20:00",
           "home_team": "Telstar",
-          "away_team": "TOP Oss"
+          "away_team": "TOP Oss",
+          "result": {
+            "full_time": "3-2"
+          }
         },
         {
           "date": "2025-04-27",
           "time": "16:45",
           "home_team": "SBV Excelsior",
-          "away_team": "FC Emmen"
+          "away_team": "FC Emmen",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2025-04-28",
           "time": "20:00",
           "home_team": "VVV-Venlo",
-          "away_team": "De Graafschap"
+          "away_team": "De Graafschap",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2025-04-28",
           "time": "20:00",
           "home_team": "Jong Ajax",
-          "away_team": "Helmond Sport"
+          "away_team": "Helmond Sport",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2025-04-28",
           "time": "20:00",
           "home_team": "AZ Alkmaar J",
-          "away_team": "FC Den Bosch"
+          "away_team": "FC Den Bosch",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2025-04-28",
           "time": "20:00",
           "home_team": "FC Utrecht J",
-          "away_team": "FC Volendam"
+          "away_team": "FC Volendam",
+          "result": {
+            "full_time": "2-3"
+          }
         },
         {
           "date": "2025-04-28",
           "time": "20:00",
           "home_team": "Jong PSV",
-          "away_team": "FC Eindhoven"
+          "away_team": "FC Eindhoven",
+          "result": {
+            "full_time": "0-2"
+          }
         }
       ]
     },
@@ -3273,61 +3429,91 @@
           "date": "2025-05-02",
           "time": "20:00",
           "home_team": "ADO Den Haag",
-          "away_team": "SC Cambuur"
+          "away_team": "SC Cambuur",
+          "result": {
+            "full_time": "3-4"
+          }
         },
         {
           "date": "2025-05-02",
           "time": "20:00",
           "home_team": "De Graafschap",
-          "away_team": "Telstar"
+          "away_team": "Telstar",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2025-05-02",
           "time": "20:00",
           "home_team": "FC Den Bosch",
-          "away_team": "Helmond Sport"
+          "away_team": "Helmond Sport",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2025-05-02",
           "time": "20:00",
           "home_team": "FC Eindhoven",
-          "away_team": "AZ Alkmaar J"
+          "away_team": "AZ Alkmaar J",
+          "result": {
+            "full_time": "2-4"
+          }
         },
         {
           "date": "2025-05-02",
           "time": "20:00",
           "home_team": "SBV Excelsior",
-          "away_team": "Jong PSV"
+          "away_team": "Jong PSV",
+          "result": {
+            "full_time": "5-0"
+          }
         },
         {
           "date": "2025-05-02",
           "time": "20:00",
           "home_team": "FC Emmen",
-          "away_team": "VVV-Venlo"
+          "away_team": "VVV-Venlo",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2025-05-02",
           "time": "20:00",
           "home_team": "FC Volendam",
-          "away_team": "Roda JC Kerkrade"
+          "away_team": "Roda JC Kerkrade",
+          "result": {
+            "full_time": "3-2"
+          }
         },
         {
           "date": "2025-05-02",
           "time": "20:00",
           "home_team": "FC Utrecht J",
-          "away_team": "FC Dordrecht"
+          "away_team": "FC Dordrecht",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2025-05-02",
           "time": "20:00",
           "home_team": "MVV",
-          "away_team": "Jong Ajax"
+          "away_team": "Jong Ajax",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2025-05-02",
           "time": "20:00",
           "home_team": "TOP Oss",
-          "away_team": "Vitesse"
+          "away_team": "Vitesse",
+          "result": {
+            "full_time": "2-2"
+          }
         }
       ]
     },

@@ -1,0 +1,263 @@
+{
+  "league": "Cyprus Cypriot Cup",
+  "season": "2024/25",
+  "matchdays": [
+    {
+      "matchday": "Round 1",
+      "matches": [
+        {
+          "date": "2024-09-25",
+          "time": "18:00",
+          "home_team": "Othellos Athienou",
+          "away_team": "Apollon Limassol",
+          "result": {
+            "full_time": "0-4"
+          }
+        },
+        {
+          "date": "2024-10-01",
+          "time": "19:00",
+          "home_team": "AEK Larnaca",
+          "away_team": "Akritas Chlorakas",
+          "result": {
+            "full_time": "5-0"
+          }
+        },
+        {
+          "date": "2024-10-02",
+          "time": "19:00",
+          "home_team": "Olympiakos Nikosia",
+          "away_team": "Anorthosis Famagusta",
+          "result": {
+            "full_time": "1-4"
+          }
+        },
+        {
+          "date": "2024-10-02",
+          "time": "19:00",
+          "home_team": "Ethnikos Achna",
+          "away_team": "AE Zakakiou",
+          "result": {
+            "full_time": "3-1"
+          }
+        },
+        {
+          "date": "2024-10-02",
+          "time": "19:00",
+          "home_team": "Nea Salamina",
+          "away_team": "Doxa Katokopias",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-10-23",
+          "time": "16:00",
+          "home_team": "Karmiotissa Polemidion",
+          "away_team": "AO Agia Napa",
+          "result": {
+            "full_time": "2-3"
+          }
+        },
+        {
+          "date": "2024-10-23",
+          "time": "19:00",
+          "home_team": "Chalkanoras Idaliou",
+          "away_team": "Omonia 29is Maiou",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-10-30",
+          "time": "17:00",
+          "home_team": "ASIL Lysi",
+          "away_team": "Aris Limassol",
+          "result": {
+            "full_time": "1-6"
+          }
+        },
+        {
+          "date": "2024-10-30",
+          "time": "19:00",
+          "home_team": "PO Achyronas-Onisilos",
+          "away_team": "AEL Limassol",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-11-06",
+          "time": "19:00",
+          "home_team": "Anagennisi Derynias",
+          "away_team": "Enosis Neon Paralimni",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-11-06",
+          "time": "19:00",
+          "home_team": "Ypsonas FC",
+          "away_team": "Omonia Aradippou",
+          "result": {
+            "full_time": "1-2"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Round of 16",
+      "matches": [
+        {
+          "date": "2024-12-04",
+          "time": "17:00",
+          "home_team": "AO Agia Napa",
+          "away_team": "AEL Limassol",
+          "result": {
+            "full_time": "1-4"
+          }
+        },
+        {
+          "date": "2024-12-04",
+          "time": "19:00",
+          "home_team": "Apollon Limassol",
+          "away_team": "Ethnikos Achna",
+          "result": {
+            "full_time": "4-3"
+          }
+        },
+        {
+          "date": "2024-12-10",
+          "time": "19:00",
+          "home_team": "AEK Larnaca",
+          "away_team": "PAEEK",
+          "result": {
+            "full_time": "8-0"
+          }
+        },
+        {
+          "date": "2024-12-11",
+          "time": "19:00",
+          "home_team": "Enosis Neon Paralimni",
+          "away_team": "Nea Salamina",
+          "result": {
+            "full_time": "4-2"
+          }
+        },
+        {
+          "date": "2024-12-11",
+          "time": "19:00",
+          "home_team": "Omonia Aradippou",
+          "away_team": "Anorthosis Famagusta",
+          "result": {
+            "full_time": "2-4"
+          }
+        },
+        {
+          "date": "2025-01-15",
+          "time": "19:00",
+          "home_team": "Omonia Nikosia",
+          "away_team": "Spartakos Kitiou",
+          "result": {
+            "full_time": "7-0"
+          }
+        },
+        {
+          "date": "2025-01-15",
+          "time": "19:00",
+          "home_team": "Paphos FC",
+          "away_team": "Aris Limassol",
+          "result": {
+            "full_time": "5-4"
+          }
+        },
+        {
+          "date": "2025-01-16",
+          "time": "19:00",
+          "home_team": "APOEL Nikosia",
+          "away_team": "Omonia 29is Maiou",
+          "result": {
+            "full_time": "6-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Quarterfinals",
+      "matches": [
+        {
+          "date": "2025-01-28",
+          "time": "19:00",
+          "home_team": "Omonia Nikosia",
+          "away_team": "AEL Limassol",
+          "result": {
+            "full_time": "3-0"
+          }
+        },
+        {
+          "date": "2025-01-29",
+          "time": "18:30",
+          "home_team": "Enosis Neon Paralimni",
+          "away_team": "AEK Larnaca",
+          "result": {
+            "full_time": "0-3"
+          }
+        },
+        {
+          "date": "2025-01-29",
+          "time": "19:30",
+          "home_team": "Anorthosis Famagusta",
+          "away_team": "Apollon Limassol",
+          "result": {
+            "full_time": "1-3"
+          }
+        },
+        {
+          "date": "2025-01-30",
+          "time": "19:00",
+          "home_team": "APOEL Nikosia",
+          "away_team": "Paphos FC",
+          "result": {
+            "full_time": "4-5"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Semifinals",
+      "matches": [
+        {
+          "date": "2025-04-30",
+          "time": "19:00",
+          "home_team": "Omonia Nikosia",
+          "away_team": "AEK Larnaca",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2025-04-30",
+          "time": "19:00",
+          "home_team": "Paphos FC",
+          "away_team": "Apollon Limassol",
+          "result": {
+            "full_time": "4-2"
+          }
+        },
+        {
+          "date": "2025-05-07",
+          "time": "19:00",
+          "home_team": "AEK Larnaca",
+          "away_team": "Omonia Nikosia"
+        },
+        {
+          "date": "2025-05-07",
+          "time": "19:00",
+          "home_team": "Apollon Limassol",
+          "away_team": "Paphos FC"
+        }
+      ]
+    }
+  ]
+}

@@ -3331,61 +3331,91 @@
           "date": "2025-05-02",
           "time": "19:00",
           "home_team": "VfL Osnabrück",
-          "away_team": "Viktoria Köln"
+          "away_team": "Viktoria Köln",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2025-05-03",
           "time": "14:00",
           "home_team": "TSV 1860 München",
-          "away_team": "Rot-Weiss Essen"
+          "away_team": "Rot-Weiss Essen",
+          "result": {
+            "full_time": "1-3"
+          }
         },
         {
           "date": "2025-05-03",
           "time": "14:00",
           "home_team": "SV Sandhausen",
-          "away_team": "Hansa Rostock"
+          "away_team": "Hansa Rostock",
+          "result": {
+            "full_time": "0-3"
+          }
         },
         {
           "date": "2025-05-03",
           "time": "14:00",
           "home_team": "SV Wehen Wiesbaden",
-          "away_team": "Borussia Dortmund II"
+          "away_team": "Borussia Dortmund II",
+          "result": {
+            "full_time": "4-2"
+          }
         },
         {
           "date": "2025-05-03",
           "time": "14:00",
           "home_team": "VfB Stuttgart II",
-          "away_team": "Alemannia Aachen"
+          "away_team": "Alemannia Aachen",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2025-05-03",
           "time": "14:00",
           "home_team": "1. FC Saarbrücken",
-          "away_team": "SC Verl"
+          "away_team": "SC Verl",
+          "result": {
+            "full_time": "4-3"
+          }
         },
         {
           "date": "2025-05-03",
           "time": "16:30",
           "home_team": "Arminia Bielefeld",
-          "away_team": "Dynamo Dresden"
+          "away_team": "Dynamo Dresden",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-05-04",
           "time": "13:30",
           "home_team": "Energie Cottbus",
-          "away_team": "Waldhof Mannheim"
+          "away_team": "Waldhof Mannheim",
+          "result": {
+            "full_time": "2-4"
+          }
         },
         {
           "date": "2025-05-04",
           "time": "16:30",
           "home_team": "Erzgebirge Aue",
-          "away_team": "FC Ingolstadt 04"
+          "away_team": "FC Ingolstadt 04",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2025-05-04",
           "time": "19:30",
           "home_team": "Hannover 96 II",
-          "away_team": "SpVgg Unterhaching"
+          "away_team": "SpVgg Unterhaching",
+          "result": {
+            "full_time": "0-0"
+          }
         }
       ]
     },

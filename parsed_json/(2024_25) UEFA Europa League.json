@@ -1685,13 +1685,19 @@
           "date": "2025-05-01",
           "time": "21:00",
           "home_team": "Tottenham Hotspur (ENG)",
-          "away_team": "FK Bodø/Glimt (NOR)"
+          "away_team": "FK Bodø/Glimt (NOR)",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2025-05-01",
           "time": "21:00",
           "home_team": "Athletic Club (ESP)",
-          "away_team": "Manchester United (ENG)"
+          "away_team": "Manchester United (ENG)",
+          "result": {
+            "full_time": "0-3"
+          }
         },
         {
           "date": "2025-05-08",

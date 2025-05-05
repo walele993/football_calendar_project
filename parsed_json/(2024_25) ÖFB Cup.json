@@ -592,7 +592,10 @@
           "date": "2025-05-01",
           "time": "17:00",
           "home_team": "Wolfsberger AC",
-          "away_team": "TSV Hartberg"
+          "away_team": "TSV Hartberg",
+          "result": {
+            "full_time": "1-0"
+          }
         }
       ]
     }

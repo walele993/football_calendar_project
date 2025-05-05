@@ -1,0 +1,325 @@
+{
+  "league": "Bulgaria Cup",
+  "season": "2024/25",
+  "matchdays": [
+    {
+      "matchday": "Round 1",
+      "matches": [
+        {
+          "date": "2024-10-28",
+          "time": "13:30",
+          "home_team": "PSFC Chernomorets",
+          "away_team": "Lokomotiv Plovdiv",
+          "result": {
+            "full_time": "2-4"
+          }
+        },
+        {
+          "date": "2024-10-29",
+          "time": "13:30",
+          "home_team": "FK Sportist Svoge",
+          "away_team": "Botev Vratsa",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-10-29",
+          "time": "13:30",
+          "home_team": "FC Yantra",
+          "away_team": "Lokomotiv Sofia",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-10-29",
+          "time": "13:30",
+          "home_team": "Sayana Haskovo",
+          "away_team": "Spartak Varna",
+          "result": {
+            "full_time": "0-4"
+          }
+        },
+        {
+          "date": "2024-10-29",
+          "time": "13:30",
+          "home_team": "Lokomotiv Mezdra",
+          "away_team": "Septemvri Sofia",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-10-29",
+          "time": "13:30",
+          "home_team": "FK Rozova Dolina",
+          "away_team": "Arda Kardzhali",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-10-29",
+          "time": "13:30",
+          "home_team": "FK Dobrudzha",
+          "away_team": "CSKA Sofia",
+          "result": {
+            "full_time": "0-4"
+          }
+        },
+        {
+          "date": "2024-10-29",
+          "time": "17:00",
+          "home_team": "PFC Montana",
+          "away_team": "Slavia Sofia",
+          "result": {
+            "full_time": "1-3"
+          }
+        },
+        {
+          "date": "2024-10-30",
+          "time": "13:30",
+          "home_team": "FC Kyustendil",
+          "away_team": "Cherno More Varna",
+          "result": {
+            "full_time": "0-4"
+          }
+        },
+        {
+          "date": "2024-10-30",
+          "time": "13:30",
+          "home_team": "FC Oborishte",
+          "away_team": "FK Krumovgrad",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-10-30",
+          "time": "17:00",
+          "home_team": "FC Dunav Ruse",
+          "away_team": "Hebar Pazardzhik",
+          "result": {
+            "full_time": "11-10"
+          }
+        },
+        {
+          "date": "2024-10-30",
+          "time": "17:00",
+          "home_team": "Pirin Blagoevgrad",
+          "away_team": "Levski Sofia",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-10-31",
+          "time": "13:30",
+          "home_team": "Belasitsa Petrich",
+          "away_team": "CSKA 1948 Sofia",
+          "result": {
+            "full_time": "0-5"
+          }
+        },
+        {
+          "date": "2024-10-31",
+          "time": "13:30",
+          "home_team": "Minyor Pernik",
+          "away_team": "Botev Plovdiv",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-10-31",
+          "time": "17:00",
+          "home_team": "Chernolomets Popovo",
+          "away_team": "PFC Ludogorets Razgrad",
+          "result": {
+            "full_time": "0-6"
+          }
+        },
+        {
+          "date": "2024-11-14",
+          "time": "13:30",
+          "home_team": "Fratria Varna",
+          "away_team": "PFC Beroe",
+          "result": {
+            "full_time": "2-4"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Round of 16",
+      "matches": [
+        {
+          "date": "2024-12-13",
+          "time": "13:00",
+          "home_team": "Lokomotiv Mezdra",
+          "away_team": "Botev Vratsa",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-12-13",
+          "time": "16:00",
+          "home_team": "PFC Beroe",
+          "away_team": "Lokomotiv Plovdiv",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2024-12-14",
+          "time": "13:00",
+          "home_team": "Cherno More Varna",
+          "away_team": "Slavia Sofia",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-12-14",
+          "time": "16:00",
+          "home_team": "Levski Sofia",
+          "away_team": "FC Dunav Ruse",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-12-15",
+          "time": "13:00",
+          "home_team": "Lokomotiv Sofia",
+          "away_team": "Botev Plovdiv",
+          "result": {
+            "full_time": "1-5"
+          }
+        },
+        {
+          "date": "2024-12-15",
+          "time": "16:00",
+          "home_team": "Spartak Varna",
+          "away_team": "CSKA Sofia",
+          "result": {
+            "full_time": "2-3"
+          }
+        },
+        {
+          "date": "2024-12-16",
+          "time": "13:00",
+          "home_team": "FK Krumovgrad",
+          "away_team": "Arda Kardzhali",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-12-16",
+          "time": "16:00",
+          "home_team": "CSKA 1948 Sofia",
+          "away_team": "PFC Ludogorets Razgrad",
+          "result": {
+            "full_time": "2-3"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Quarterfinals",
+      "matches": [
+        {
+          "date": "2025-02-25",
+          "time": "18:00",
+          "home_team": "Botev Vratsa",
+          "away_team": "PFC Beroe",
+          "result": {
+            "full_time": "4-2"
+          }
+        },
+        {
+          "date": "2025-02-26",
+          "time": "15:00",
+          "home_team": "Cherno More Varna",
+          "away_team": "Levski Sofia",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2025-02-26",
+          "time": "18:00",
+          "home_team": "CSKA Sofia",
+          "away_team": "Arda Kardzhali",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2025-02-27",
+          "time": "18:00",
+          "home_team": "PFC Ludogorets Razgrad",
+          "away_team": "Botev Plovdiv",
+          "result": {
+            "full_time": "4-2"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Semifinals",
+      "matches": [
+        {
+          "date": "2025-04-09",
+          "time": "19:00",
+          "home_team": "Cherno More Varna",
+          "away_team": "CSKA Sofia",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2025-04-10",
+          "time": "19:00",
+          "home_team": "Botev Vratsa",
+          "away_team": "PFC Ludogorets Razgrad",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2025-04-22",
+          "time": "19:00",
+          "home_team": "CSKA Sofia",
+          "away_team": "Cherno More Varna",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2025-04-23",
+          "time": "19:00",
+          "home_team": "PFC Ludogorets Razgrad",
+          "away_team": "Botev Vratsa",
+          "result": {
+            "full_time": "2-0"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Final",
+      "matches": [
+        {
+          "date": "2025-05-22",
+          "time": "19:00",
+          "home_team": "PFC Ludogorets Razgrad",
+          "away_team": "CSKA Sofia"
+        }
+      ]
+    }
+  ]
+}

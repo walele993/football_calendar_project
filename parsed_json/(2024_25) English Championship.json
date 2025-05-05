@@ -5105,7 +5105,10 @@
           "date": "2025-04-28",
           "time": "20:00",
           "home_team": "Leeds United FC",
-          "away_team": "Bristol City FC"
+          "away_team": "Bristol City FC",
+          "result": {
+            "full_time": "4-0"
+          }
         }
       ]
     },
@@ -5116,73 +5119,109 @@
           "date": "2025-05-03",
           "time": "12:30",
           "home_team": "Bristol City FC",
-          "away_team": "Preston North End FC"
+          "away_team": "Preston North End FC",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2025-05-03",
           "time": "12:30",
           "home_team": "Burnley FC",
-          "away_team": "Millwall FC"
+          "away_team": "Millwall FC",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2025-05-03",
           "time": "12:30",
           "home_team": "Coventry City FC",
-          "away_team": "Middlesbrough FC"
+          "away_team": "Middlesbrough FC",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2025-05-03",
           "time": "12:30",
           "home_team": "Derby County FC",
-          "away_team": "Stoke City FC"
+          "away_team": "Stoke City FC",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2025-05-03",
           "time": "12:30",
           "home_team": "Norwich City FC",
-          "away_team": "Cardiff City FC"
+          "away_team": "Cardiff City FC",
+          "result": {
+            "full_time": "4-2"
+          }
         },
         {
           "date": "2025-05-03",
           "time": "12:30",
           "home_team": "Plymouth Argyle FC",
-          "away_team": "Leeds United FC"
+          "away_team": "Leeds United FC",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2025-05-03",
           "time": "12:30",
           "home_team": "Portsmouth FC",
-          "away_team": "Hull City AFC"
+          "away_team": "Hull City AFC",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-05-03",
           "time": "12:30",
           "home_team": "Sheffield United FC",
-          "away_team": "Blackburn Rovers FC"
+          "away_team": "Blackburn Rovers FC",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-05-03",
           "time": "12:30",
           "home_team": "Sunderland AFC",
-          "away_team": "Queens Park Rangers FC"
+          "away_team": "Queens Park Rangers FC",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2025-05-03",
           "time": "12:30",
           "home_team": "Swansea City AFC",
-          "away_team": "Oxford United FC"
+          "away_team": "Oxford United FC",
+          "result": {
+            "full_time": "3-3"
+          }
         },
         {
           "date": "2025-05-03",
           "time": "12:30",
           "home_team": "Watford FC",
-          "away_team": "Sheffield Wednesday FC"
+          "away_team": "Sheffield Wednesday FC",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-05-03",
           "time": "12:30",
           "home_team": "West Bromwich Albion FC",
-          "away_team": "Luton Town FC"
+          "away_team": "Luton Town FC",
+          "result": {
+            "full_time": "5-3"
+          }
         }
       ]
     }

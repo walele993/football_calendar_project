@@ -1361,13 +1361,19 @@
           "date": "2025-05-01",
           "time": "21:00",
           "home_team": "Real Betis (ESP)",
-          "away_team": "ACF Fiorentina (ITA)"
+          "away_team": "ACF Fiorentina (ITA)",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2025-05-01",
           "time": "21:00",
           "home_team": "Djurgårdens IF (SWE)",
-          "away_team": "Chelsea FC (ENG)"
+          "away_team": "Chelsea FC (ENG)",
+          "result": {
+            "full_time": "1-4"
+          }
         },
         {
           "date": "2025-05-08",

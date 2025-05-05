@@ -2761,55 +2761,82 @@
           "date": "2025-05-02",
           "time": "20:00",
           "home_team": "AC Ajaccio",
-          "away_team": "FC Lorient"
+          "away_team": "FC Lorient",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2025-05-02",
           "time": "20:00",
           "home_team": "Clermont Foot 63",
-          "away_team": "FC Annecy"
+          "away_team": "FC Annecy",
+          "result": {
+            "full_time": "3-2"
+          }
         },
         {
           "date": "2025-05-02",
           "time": "20:00",
           "home_team": "EA Guingamp",
-          "away_team": "SC Bastia"
+          "away_team": "SC Bastia",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2025-05-02",
           "time": "20:00",
           "home_team": "FC Martigues",
-          "away_team": "Paris FC"
+          "away_team": "Paris FC",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-05-02",
           "time": "20:00",
           "home_team": "FC Metz",
-          "away_team": "Rodez AF"
+          "away_team": "Rodez AF",
+          "result": {
+            "full_time": "3-3"
+          }
         },
         {
           "date": "2025-05-02",
           "time": "20:00",
           "home_team": "Grenoble Foot 38",
-          "away_team": "ESTAC Troyes"
+          "away_team": "ESTAC Troyes",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2025-05-02",
           "time": "20:00",
           "home_team": "Amiens SC",
-          "away_team": "Pau FC"
+          "away_team": "Pau FC",
+          "result": {
+            "full_time": "4-2"
+          }
         },
         {
           "date": "2025-05-02",
           "time": "20:00",
           "home_team": "SM Caen",
-          "away_team": "Red Star FC"
+          "away_team": "Red Star FC",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-05-02",
           "time": "20:00",
           "home_team": "USL Dunkerque",
-          "away_team": "Stade Lavallois"
+          "away_team": "Stade Lavallois",
+          "result": {
+            "full_time": "0-0"
+          }
         }
       ]
     },

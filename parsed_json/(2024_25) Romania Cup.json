@@ -1,0 +1,597 @@
+{
+  "league": "Romania Cup",
+  "season": "2024/25",
+  "matchdays": [
+    {
+      "matchday": "Playoff-Runde",
+      "matches": [
+        {
+          "date": "2024-08-27",
+          "time": "17:00",
+          "home_team": "FC Bihor Oradea",
+          "away_team": "CSM Reşiţa",
+          "result": {
+            "full_time": "1-3"
+          }
+        },
+        {
+          "date": "2024-08-27",
+          "time": "17:30",
+          "home_team": "Minaur Baia Mare",
+          "away_team": "CSM Râmnicu-Vâlcea",
+          "result": {
+            "full_time": "2-3"
+          }
+        },
+        {
+          "date": "2024-08-27",
+          "time": "17:30",
+          "home_team": "CS Sanatatea Cluj",
+          "away_team": "AFC Câmpulung Muscel",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-08-27",
+          "time": "19:00",
+          "home_team": "CSC Dumbrăvița",
+          "away_team": "Petrolul Ploieşti",
+          "result": {
+            "full_time": "4-5"
+          }
+        },
+        {
+          "date": "2024-08-28",
+          "time": "17:30",
+          "home_team": "Concordia Chiajna",
+          "away_team": "FC Politehnica Iași",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-08-28",
+          "time": "17:30",
+          "home_team": "CSM Focșani",
+          "away_team": "FC Hermannstadt",
+          "result": {
+            "full_time": "0-3"
+          }
+        },
+        {
+          "date": "2024-08-28",
+          "time": "17:30",
+          "home_team": "CSM Alexandria",
+          "away_team": "FC Botoşani",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-08-28",
+          "time": "17:30",
+          "home_team": "CSM Pașcani",
+          "away_team": "Ceahlăul Piatra Neamt",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-08-28",
+          "time": "17:30",
+          "home_team": "FC Unirea Alba Iulia",
+          "away_team": "FC Universitatea Craiova",
+          "result": {
+            "full_time": "5-4"
+          }
+        },
+        {
+          "date": "2024-08-28",
+          "time": "17:30",
+          "home_team": "Agricola Borcea",
+          "away_team": "CSM Slatina",
+          "result": {
+            "full_time": "4-3"
+          }
+        },
+        {
+          "date": "2024-08-28",
+          "time": "17:30",
+          "home_team": "SC Popești-Leordeni",
+          "away_team": "Unirea Ungheni",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-08-28",
+          "time": "19:00",
+          "home_team": "FC Voluntari",
+          "away_team": "Dinamo Bucureşti",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-08-29",
+          "time": "17:00",
+          "home_team": "AFC Metalul Buzău",
+          "away_team": "Universitatea Cluj",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-08-29",
+          "time": "17:30",
+          "home_team": "CS Afumaţi",
+          "away_team": "Gloria Buzău",
+          "result": {
+            "full_time": "5-3"
+          }
+        },
+        {
+          "date": "2024-08-29",
+          "time": "17:30",
+          "home_team": "FK Csikszereda",
+          "away_team": "Unirea Slobozia",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-08-29",
+          "time": "17:30",
+          "home_team": "Argeș Pitești",
+          "away_team": "FC Corvinul Hunedoara",
+          "result": {
+            "full_time": "2-0"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Group A",
+      "matches": [
+        {
+          "date": "2024-10-29",
+          "time": "21:00",
+          "home_team": "Argeș Pitești",
+          "away_team": "CFR Cluj",
+          "result": {
+            "full_time": "2-2"
+          }
+        },
+        {
+          "date": "2024-10-30",
+          "time": "15:00",
+          "home_team": "CS Afumaţi",
+          "away_team": "Ceahlăul Piatra Neamt",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-10-31",
+          "time": "21:00",
+          "home_team": "FC Botoşani",
+          "away_team": "Rapid Bucureşti",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-12-03",
+          "time": "20:45",
+          "home_team": "CS Afumaţi",
+          "away_team": "Rapid Bucureşti",
+          "result": {
+            "full_time": "0-3"
+          }
+        },
+        {
+          "date": "2024-12-04",
+          "time": "15:30",
+          "home_team": "Argeș Pitești",
+          "away_team": "FC Botoşani",
+          "result": {
+            "full_time": "0-3"
+          }
+        },
+        {
+          "date": "2024-12-05",
+          "time": "18:00",
+          "home_team": "Ceahlăul Piatra Neamt",
+          "away_team": "CFR Cluj",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-12-19",
+          "time": "20:00",
+          "home_team": "Rapid Bucureşti",
+          "away_team": "CFR Cluj",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-12-19",
+          "time": "20:00",
+          "home_team": "Ceahlăul Piatra Neamt",
+          "away_team": "FC Botoşani",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-12-19",
+          "time": "20:00",
+          "home_team": "CS Afumaţi",
+          "away_team": "Argeș Pitești",
+          "result": {
+            "full_time": "2-0"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Group B",
+      "matches": [
+        {
+          "date": "2024-10-29",
+          "time": "14:30",
+          "home_team": "Agricola Borcea",
+          "away_team": "Petrolul Ploieşti",
+          "result": {
+            "full_time": "0-3"
+          }
+        },
+        {
+          "date": "2024-10-30",
+          "time": "21:00",
+          "home_team": "Dinamo Bucureşti",
+          "away_team": "FCSB",
+          "result": {
+            "full_time": "0-4"
+          }
+        },
+        {
+          "date": "2024-10-31",
+          "time": "18:30",
+          "home_team": "AFC Metalul Buzău",
+          "away_team": "CS Universitatea Craiova",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-12-04",
+          "time": "17:45",
+          "home_team": "AFC Metalul Buzău",
+          "away_team": "Dinamo Bucureşti",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-12-04",
+          "time": "20:00",
+          "home_team": "Petrolul Ploieşti",
+          "away_team": "CS Universitatea Craiova",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-12-05",
+          "time": "20:30",
+          "home_team": "Agricola Borcea",
+          "away_team": "FCSB",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-12-18",
+          "time": "20:00",
+          "home_team": "FCSB",
+          "away_team": "CS Universitatea Craiova",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2024-12-18",
+          "time": "20:00",
+          "home_team": "Dinamo Bucureşti",
+          "away_team": "Petrolul Ploieşti",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-12-18",
+          "time": "20:00",
+          "home_team": "Agricola Borcea",
+          "away_team": "AFC Metalul Buzău",
+          "result": {
+            "full_time": "0-3"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Group C",
+      "matches": [
+        {
+          "date": "2024-10-29",
+          "time": "18:00",
+          "home_team": "FC Politehnica Iași",
+          "away_team": "UTA Arad",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-10-30",
+          "time": "15:00",
+          "home_team": "Unirea Ungheni",
+          "away_team": "FC Hermannstadt",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-10-31",
+          "time": "16:15",
+          "home_team": "CS Sanatatea Cluj",
+          "away_team": "Farul Constanța",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-12-03",
+          "time": "17:00",
+          "home_team": "FC Hermannstadt",
+          "away_team": "Farul Constanța",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-12-05",
+          "time": "14:00",
+          "home_team": "Unirea Ungheni",
+          "away_team": "UTA Arad",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-12-05",
+          "time": "14:00",
+          "home_team": "CS Sanatatea Cluj",
+          "away_team": "FC Politehnica Iași",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2024-12-18",
+          "time": "17:00",
+          "home_team": "UTA Arad",
+          "away_team": "Farul Constanța",
+          "result": {
+            "full_time": "1-5"
+          }
+        },
+        {
+          "date": "2024-12-18",
+          "time": "17:00",
+          "home_team": "CS Sanatatea Cluj",
+          "away_team": "Unirea Ungheni",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2024-12-18",
+          "time": "17:00",
+          "home_team": "FC Politehnica Iași",
+          "away_team": "FC Hermannstadt",
+          "result": {
+            "full_time": "0-0"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Group D",
+      "matches": [
+        {
+          "date": "2024-10-30",
+          "time": "15:00",
+          "home_team": "CSM Râmnicu-Vâlcea",
+          "away_team": "CSM Reşiţa",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2024-10-30",
+          "time": "15:45",
+          "home_team": "FC Unirea Alba Iulia",
+          "away_team": "Sepsi OSK",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2024-10-30",
+          "time": "18:00",
+          "home_team": "FK Csikszereda",
+          "away_team": "Oţelul Galaţi",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2024-12-03",
+          "time": "14:00",
+          "home_team": "CSM Reşiţa",
+          "away_team": "Sepsi OSK",
+          "result": {
+            "full_time": "3-1"
+          }
+        },
+        {
+          "date": "2024-12-04",
+          "time": "17:00",
+          "home_team": "FC Unirea Alba Iulia",
+          "away_team": "FK Csikszereda",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-12-05",
+          "time": "14:00",
+          "home_team": "CSM Râmnicu-Vâlcea",
+          "away_team": "Oţelul Galaţi",
+          "result": {
+            "full_time": "2-4"
+          }
+        },
+        {
+          "date": "2024-12-17",
+          "time": "20:00",
+          "home_team": "Oţelul Galaţi",
+          "away_team": "Sepsi OSK",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-12-17",
+          "time": "20:00",
+          "home_team": "CSM Reşiţa",
+          "away_team": "FK Csikszereda",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2024-12-17",
+          "time": "20:00",
+          "home_team": "FC Unirea Alba Iulia",
+          "away_team": "CSM Râmnicu-Vâlcea",
+          "result": {
+            "full_time": "3-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Playoffs",
+      "matches": [
+        {
+          "date": "2025-02-23",
+          "time": "13:00",
+          "home_team": "CSM Reşiţa",
+          "away_team": "FC Unirea Alba Iulia",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2025-02-26",
+          "time": "19:00",
+          "home_team": "FC Politehnica Iași",
+          "away_team": "FC Hermannstadt",
+          "result": {
+            "full_time": "0-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Quarterfinals",
+      "matches": [
+        {
+          "date": "2025-04-01",
+          "time": "19:30",
+          "home_team": "Farul Constanța",
+          "away_team": "FC Unirea Alba Iulia",
+          "result": {
+            "full_time": "3-0"
+          }
+        },
+        {
+          "date": "2025-04-02",
+          "time": "17:00",
+          "home_team": "CSM Reşiţa",
+          "away_team": "FC Hermannstadt",
+          "result": {
+            "full_time": "0-4"
+          }
+        },
+        {
+          "date": "2025-04-02",
+          "time": "19:30",
+          "home_team": "AFC Metalul Buzău",
+          "away_team": "Rapid Bucureşti",
+          "result": {
+            "full_time": "0-3"
+          }
+        },
+        {
+          "date": "2025-04-03",
+          "time": "20:00",
+          "home_team": "CFR Cluj",
+          "away_team": "CS Universitatea Craiova",
+          "result": {
+            "full_time": "5-3"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Semifinals",
+      "matches": [
+        {
+          "date": "2025-04-23",
+          "time": "19:30",
+          "home_team": "FC Hermannstadt",
+          "away_team": "Rapid Bucureşti",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2025-04-24",
+          "time": "20:30",
+          "home_team": "CFR Cluj",
+          "away_team": "Farul Constanța",
+          "result": {
+            "full_time": "4-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Final",
+      "matches": [
+        {
+          "date": "2025-05-14",
+          "time": "20:30",
+          "home_team": "CFR Cluj",
+          "away_team": "FC Hermannstadt"
+        }
+      ]
+    }
+  ]
+}

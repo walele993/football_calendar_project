@@ -4289,7 +4289,10 @@
           "date": "2025-04-29",
           "time": "19:45",
           "home_team": "Burton Albion",
-          "away_team": "Wigan Athletic"
+          "away_team": "Wigan Athletic",
+          "result": {
+            "full_time": "1-1"
+          }
         }
       ]
     },
@@ -4729,13 +4732,19 @@
           "date": "2025-04-30",
           "time": "19:45",
           "home_team": "Blackpool FC",
-          "away_team": "Birmingham City"
+          "away_team": "Birmingham City",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2025-04-30",
           "time": "19:45",
           "home_team": "Mansfield Town",
-          "away_team": "Peterborough United"
+          "away_team": "Peterborough United",
+          "result": {
+            "full_time": "4-2"
+          }
         }
       ]
     },
@@ -5085,73 +5094,109 @@
           "date": "2025-05-03",
           "time": "15:00",
           "home_team": "Blackpool FC",
-          "away_team": "Bristol Rovers"
+          "away_team": "Bristol Rovers",
+          "result": {
+            "full_time": "4-1"
+          }
         },
         {
           "date": "2025-05-03",
           "time": "15:00",
           "home_team": "Bolton Wanderers",
-          "away_team": "Stevenage FC"
+          "away_team": "Stevenage FC",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-05-03",
           "time": "15:00",
           "home_team": "Cambridge United",
-          "away_team": "Birmingham City"
+          "away_team": "Birmingham City",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2025-05-03",
           "time": "15:00",
           "home_team": "Charlton Athletic",
-          "away_team": "Burton Albion"
+          "away_team": "Burton Albion",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2025-05-03",
           "time": "15:00",
           "home_team": "Huddersfield Town",
-          "away_team": "Leyton Orient"
+          "away_team": "Leyton Orient",
+          "result": {
+            "full_time": "1-4"
+          }
         },
         {
           "date": "2025-05-03",
           "time": "15:00",
           "home_team": "Lincoln City",
-          "away_team": "Wrexham AFC"
+          "away_team": "Wrexham AFC",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2025-05-03",
           "time": "15:00",
           "home_team": "Mansfield Town",
-          "away_team": "Exeter City"
+          "away_team": "Exeter City",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2025-05-03",
           "time": "15:00",
           "home_team": "Northampton Town",
-          "away_team": "Wigan Athletic"
+          "away_team": "Wigan Athletic",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-05-03",
           "time": "15:00",
           "home_team": "Reading FC",
-          "away_team": "Barnsley FC"
+          "away_team": "Barnsley FC",
+          "result": {
+            "full_time": "2-4"
+          }
         },
         {
           "date": "2025-05-03",
           "time": "15:00",
           "home_team": "Rotherham United",
-          "away_team": "Peterborough United"
+          "away_team": "Peterborough United",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2025-05-03",
           "time": "15:00",
           "home_team": "Shrewsbury Town",
-          "away_team": "Crawley Town"
+          "away_team": "Crawley Town",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2025-05-03",
           "time": "15:00",
           "home_team": "Wycombe Wanderers",
-          "away_team": "Stockport County"
+          "away_team": "Stockport County",
+          "result": {
+            "full_time": "1-3"
+          }
         }
       ]
     }

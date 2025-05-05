@@ -1371,19 +1371,28 @@
           "date": "2025-03-29",
           "time": "15:30",
           "home_team": "Slovan Bratislava",
-          "away_team": "FK Železiarne Podbrezová"
+          "away_team": "FK Železiarne Podbrezová",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2025-03-29",
           "time": "18:00",
           "home_team": "FC Košice",
-          "away_team": "FC DAC 1904"
+          "away_team": "FC DAC 1904",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2025-03-30",
           "time": "15:30",
           "home_team": "Spartak Trnava",
-          "away_team": "MŠK Žilina"
+          "away_team": "MŠK Žilina",
+          "result": {
+            "full_time": "2-4"
+          }
         }
       ]
     },
@@ -1394,19 +1403,28 @@
           "date": "2025-04-05",
           "time": "15:30",
           "home_team": "FC DAC 1904",
-          "away_team": "FK Železiarne Podbrezová"
+          "away_team": "FK Železiarne Podbrezová",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-04-05",
           "time": "18:00",
           "home_team": "MŠK Žilina",
-          "away_team": "Slovan Bratislava"
+          "away_team": "Slovan Bratislava",
+          "result": {
+            "full_time": "0-5"
+          }
         },
         {
           "date": "2025-04-06",
           "time": "15:30",
           "home_team": "FC Košice",
-          "away_team": "Spartak Trnava"
+          "away_team": "Spartak Trnava",
+          "result": {
+            "full_time": "2-1"
+          }
         }
       ]
     },
@@ -1416,20 +1434,29 @@
         {
           "date": "2025-04-12",
           "time": "15:30",
-          "home_team": "Slovan Bratislava",
-          "away_team": "FC DAC 1904"
-        },
-        {
-          "date": "2025-04-12",
-          "time": "15:30",
-          "home_team": "MŠK Žilina",
-          "away_team": "FC Košice"
-        },
-        {
-          "date": "2025-04-12",
-          "time": "15:30",
           "home_team": "FK Železiarne Podbrezová",
-          "away_team": "Spartak Trnava"
+          "away_team": "Spartak Trnava",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2025-04-12",
+          "time": "18:00",
+          "home_team": "Slovan Bratislava",
+          "away_team": "FC DAC 1904",
+          "result": {
+            "full_time": "2-2"
+          }
+        },
+        {
+          "date": "2025-04-23",
+          "time": "18:00",
+          "home_team": "MŠK Žilina",
+          "away_team": "FC Košice",
+          "result": {
+            "full_time": "0-0"
+          }
         }
       ]
     },
@@ -1439,20 +1466,29 @@
         {
           "date": "2025-04-19",
           "time": "18:00",
-          "home_team": "FC DAC 1904",
-          "away_team": "FC Košice"
-        },
-        {
-          "date": "2025-04-19",
-          "time": "18:00",
-          "home_team": "Spartak Trnava",
-          "away_team": "Slovan Bratislava"
-        },
-        {
-          "date": "2025-04-19",
-          "time": "18:00",
           "home_team": "FK Železiarne Podbrezová",
-          "away_team": "MŠK Žilina"
+          "away_team": "MŠK Žilina",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2025-04-19",
+          "time": "20:30",
+          "home_team": "Spartak Trnava",
+          "away_team": "Slovan Bratislava",
+          "result": {
+            "full_time": "2-3"
+          }
+        },
+        {
+          "date": "2025-04-20",
+          "time": "18:00",
+          "home_team": "FC DAC 1904",
+          "away_team": "FC Košice",
+          "result": {
+            "full_time": "3-2"
+          }
         }
       ]
     },
@@ -1462,20 +1498,29 @@
         {
           "date": "2025-04-26",
           "time": "18:00",
-          "home_team": "FC DAC 1904",
-          "away_team": "Slovan Bratislava"
-        },
-        {
-          "date": "2025-04-26",
-          "time": "18:00",
           "home_team": "FC Košice",
-          "away_team": "FK Železiarne Podbrezová"
+          "away_team": "FK Železiarne Podbrezová",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-04-26",
+          "time": "20:30",
+          "home_team": "FC DAC 1904",
+          "away_team": "Slovan Bratislava",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2025-04-27",
           "time": "18:00",
           "home_team": "MŠK Žilina",
-          "away_team": "Spartak Trnava"
+          "away_team": "Spartak Trnava",
+          "result": {
+            "full_time": "2-1"
+          }
         }
       ]
     },
@@ -1486,19 +1531,28 @@
           "date": "2025-05-03",
           "time": "18:00",
           "home_team": "FK Železiarne Podbrezová",
-          "away_team": "FC DAC 1904"
+          "away_team": "FC DAC 1904",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2025-05-03",
+          "time": "20:30",
+          "home_team": "Slovan Bratislava",
+          "away_team": "MŠK Žilina",
+          "result": {
+            "full_time": "4-3"
+          }
+        },
+        {
+          "date": "2025-05-04",
           "time": "18:00",
           "home_team": "Spartak Trnava",
-          "away_team": "FC Košice"
-        },
-        {
-          "date": "2025-05-03",
-          "time": "18:00",
-          "home_team": "Slovan Bratislava",
-          "away_team": "MŠK Žilina"
+          "away_team": "FC Košice",
+          "result": {
+            "full_time": "0-1"
+          }
         }
       ]
     },
@@ -1508,20 +1562,20 @@
         {
           "date": "2025-05-10",
           "time": "18:00",
+          "home_team": "FK Železiarne Podbrezová",
+          "away_team": "Slovan Bratislava"
+        },
+        {
+          "date": "2025-05-10",
+          "time": "20:30",
           "home_team": "FC Košice",
           "away_team": "MŠK Žilina"
         },
         {
-          "date": "2025-05-10",
+          "date": "2025-05-11",
           "time": "18:00",
           "home_team": "FC DAC 1904",
           "away_team": "Spartak Trnava"
-        },
-        {
-          "date": "2025-05-10",
-          "time": "18:00",
-          "home_team": "FK Železiarne Podbrezová",
-          "away_team": "Slovan Bratislava"
         }
       ]
     },
@@ -1619,19 +1673,28 @@
           "date": "2025-03-29",
           "time": "15:30",
           "home_team": "Dukla Banská Bystrica",
-          "away_team": "AS Trenčín"
+          "away_team": "AS Trenčín",
+          "result": {
+            "full_time": "2-3"
+          }
         },
         {
           "date": "2025-03-29",
           "time": "15:30",
           "home_team": "MFK Ružomberok",
-          "away_team": "MFK Skalica"
+          "away_team": "MFK Skalica",
+          "result": {
+            "full_time": "3-2"
+          }
         },
         {
           "date": "2025-03-30",
           "time": "15:30",
           "home_team": "KFC Komárno",
-          "away_team": "MFK Zemplín Michalovce"
+          "away_team": "MFK Zemplín Michalovce",
+          "result": {
+            "full_time": "0-1"
+          }
         }
       ]
     },
@@ -1642,19 +1705,28 @@
           "date": "2025-04-05",
           "time": "15:30",
           "home_team": "AS Trenčín",
-          "away_team": "KFC Komárno"
+          "away_team": "KFC Komárno",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2025-04-05",
           "time": "15:30",
           "home_team": "MFK Skalica",
-          "away_team": "MFK Zemplín Michalovce"
+          "away_team": "MFK Zemplín Michalovce",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2025-04-06",
           "time": "15:30",
           "home_team": "MFK Ružomberok",
-          "away_team": "Dukla Banská Bystrica"
+          "away_team": "Dukla Banská Bystrica",
+          "result": {
+            "full_time": "1-2"
+          }
         }
       ]
     },
@@ -1664,20 +1736,29 @@
         {
           "date": "2025-04-12",
           "time": "15:30",
-          "home_team": "KFC Komárno",
-          "away_team": "MFK Skalica"
-        },
-        {
-          "date": "2025-04-12",
-          "time": "15:30",
           "home_team": "AS Trenčín",
-          "away_team": "MFK Ružomberok"
+          "away_team": "MFK Ružomberok",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2025-04-12",
           "time": "15:30",
           "home_team": "MFK Zemplín Michalovce",
-          "away_team": "Dukla Banská Bystrica"
+          "away_team": "Dukla Banská Bystrica",
+          "result": {
+            "full_time": "3-3"
+          }
+        },
+        {
+          "date": "2025-04-13",
+          "time": "15:30",
+          "home_team": "KFC Komárno",
+          "away_team": "MFK Skalica",
+          "result": {
+            "full_time": "1-1"
+          }
         }
       ]
     },
@@ -1688,19 +1769,28 @@
           "date": "2025-04-19",
           "time": "18:00",
           "home_team": "MFK Skalica",
-          "away_team": "MFK Ružomberok"
-        },
-        {
-          "date": "2025-04-19",
-          "time": "18:00",
-          "home_team": "Dukla Banská Bystrica",
-          "away_team": "KFC Komárno"
+          "away_team": "MFK Ružomberok",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2025-04-19",
           "time": "18:00",
           "home_team": "MFK Zemplín Michalovce",
-          "away_team": "AS Trenčín"
+          "away_team": "AS Trenčín",
+          "result": {
+            "full_time": "3-2"
+          }
+        },
+        {
+          "date": "2025-04-20",
+          "time": "18:00",
+          "home_team": "Dukla Banská Bystrica",
+          "away_team": "KFC Komárno",
+          "result": {
+            "full_time": "0-1"
+          }
         }
       ]
     },
@@ -1708,22 +1798,31 @@
       "matchday": "Relegation, Matchday 7",
       "matches": [
         {
-          "date": "2025-04-26",
+          "date": "2025-04-25",
           "time": "18:00",
-          "home_team": "MFK Skalica",
-          "away_team": "KFC Komárno"
+          "home_team": "AS Trenčín",
+          "away_team": "Dukla Banská Bystrica",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2025-04-26",
           "time": "18:00",
           "home_team": "MFK Ružomberok",
-          "away_team": "MFK Zemplín Michalovce"
+          "away_team": "MFK Zemplín Michalovce",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
-          "date": "2025-04-26",
+          "date": "2025-04-27",
           "time": "18:00",
-          "home_team": "AS Trenčín",
-          "away_team": "Dukla Banská Bystrica"
+          "home_team": "MFK Skalica",
+          "away_team": "KFC Komárno",
+          "result": {
+            "full_time": "0-1"
+          }
         }
       ]
     },
@@ -1734,31 +1833,34 @@
           "date": "2025-05-03",
           "time": "18:00",
           "home_team": "MFK Zemplín Michalovce",
-          "away_team": "MFK Skalica"
+          "away_team": "MFK Skalica",
+          "result": {
+            "full_time": "2-4"
+          }
         },
         {
           "date": "2025-05-03",
           "time": "18:00",
           "home_team": "KFC Komárno",
-          "away_team": "AS Trenčín"
+          "away_team": "AS Trenčín",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
-          "date": "2025-05-03",
+          "date": "2025-05-04",
           "time": "18:00",
           "home_team": "Dukla Banská Bystrica",
-          "away_team": "MFK Ružomberok"
+          "away_team": "MFK Ružomberok",
+          "result": {
+            "full_time": "0-2"
+          }
         }
       ]
     },
     {
       "matchday": "Relegation, Matchday 9",
       "matches": [
-        {
-          "date": "2025-05-10",
-          "time": "18:00",
-          "home_team": "MFK Zemplín Michalovce",
-          "away_team": "KFC Komárno"
-        },
         {
           "date": "2025-05-10",
           "time": "18:00",
@@ -1770,6 +1872,12 @@
           "time": "18:00",
           "home_team": "MFK Skalica",
           "away_team": "Dukla Banská Bystrica"
+        },
+        {
+          "date": "2025-05-11",
+          "time": "18:00",
+          "home_team": "MFK Zemplín Michalovce",
+          "away_team": "KFC Komárno"
         }
       ]
     },

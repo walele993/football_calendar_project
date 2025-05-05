@@ -1499,19 +1499,28 @@
           "date": "2025-05-02",
           "time": "19:00",
           "home_team": "Randers FC",
-          "away_team": "FC Nordsjælland"
+          "away_team": "FC Nordsjælland",
+          "result": {
+            "full_time": "3-2"
+          }
         },
         {
           "date": "2025-05-04",
           "time": "16:00",
           "home_team": "Brøndby IF",
-          "away_team": "FC København"
+          "away_team": "FC København",
+          "result": {
+            "full_time": "0-3"
+          }
         },
         {
           "date": "2025-05-04",
           "time": "18:00",
           "home_team": "FC Midtjylland",
-          "away_team": "Aarhus GF"
+          "away_team": "Aarhus GF",
+          "result": {
+            "full_time": "3-1"
+          }
         }
       ]
     },
@@ -1783,13 +1792,19 @@
           "date": "2025-05-04",
           "time": "14:00",
           "home_team": "Silkeborg IF",
-          "away_team": "Vejle BK"
+          "away_team": "Vejle BK",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-05-04",
           "time": "14:00",
           "home_team": "Lyngby BK",
-          "away_team": "Viborg FF"
+          "away_team": "Viborg FF",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2025-05-05",

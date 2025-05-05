@@ -569,13 +569,30 @@
           "date": "2025-04-26",
           "time": "20:30",
           "home_team": "FC Biel/Bienne",
-          "away_team": "BSC Young Boys"
+          "away_team": "BSC Young Boys",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2025-04-27",
           "time": "15:30",
           "home_team": "FC Basel 1893",
-          "away_team": "FC Lausanne-Sport"
+          "away_team": "FC Lausanne-Sport",
+          "result": {
+            "full_time": "3-2"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Final",
+      "matches": [
+        {
+          "date": "2025-06-01",
+          "time": "14:00",
+          "home_team": "FC Biel/Bienne",
+          "away_team": "FC Basel 1893"
         }
       ]
     }

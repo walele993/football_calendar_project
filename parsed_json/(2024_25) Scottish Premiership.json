@@ -1988,19 +1988,28 @@
           "date": "2025-05-03",
           "time": "15:00",
           "home_team": "Hibernian FC",
-          "away_team": "Dundee United"
+          "away_team": "Dundee United",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2025-05-03",
           "time": "15:00",
           "home_team": "St. Mirren FC",
-          "away_team": "Aberdeen FC"
+          "away_team": "Aberdeen FC",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2025-05-04",
           "time": "12:00",
           "home_team": "Rangers FC",
-          "away_team": "Celtic FC"
+          "away_team": "Celtic FC",
+          "result": {
+            "full_time": "1-1"
+          }
         }
       ]
     },
@@ -2112,19 +2121,28 @@
           "date": "2025-05-03",
           "time": "15:00",
           "home_team": "Dundee FC",
-          "away_team": "Motherwell FC"
+          "away_team": "Motherwell FC",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2025-05-03",
           "time": "15:00",
           "home_team": "Ross County FC",
-          "away_team": "Heart of Midlothian"
+          "away_team": "Heart of Midlothian",
+          "result": {
+            "full_time": "1-3"
+          }
         },
         {
           "date": "2025-05-03",
           "time": "15:00",
           "home_team": "St. Johnstone FC",
-          "away_team": "Kilmarnock FC"
+          "away_team": "Kilmarnock FC",
+          "result": {
+            "full_time": "0-2"
+          }
         }
       ]
     },

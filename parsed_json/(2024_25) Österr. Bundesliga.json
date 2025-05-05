@@ -1499,19 +1499,28 @@
           "date": "2025-05-04",
           "time": "14:30",
           "home_team": "Rapid Wien",
-          "away_team": "Wolfsberger AC"
+          "away_team": "Wolfsberger AC",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2025-05-04",
           "time": "14:30",
           "home_team": "FC Blau Weiß Linz",
-          "away_team": "Sturm Graz"
+          "away_team": "Sturm Graz",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2025-05-04",
           "time": "17:00",
           "home_team": "RB Salzburg",
-          "away_team": "Austria Wien"
+          "away_team": "Austria Wien",
+          "result": {
+            "full_time": "2-0"
+          }
         }
       ]
     },
@@ -1783,19 +1792,28 @@
           "date": "2025-05-02",
           "time": "19:30",
           "home_team": "Grazer AK",
-          "away_team": "SK Austria Klagenfurt"
+          "away_team": "SK Austria Klagenfurt",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-05-03",
           "time": "17:00",
           "home_team": "WSG Tirol",
-          "away_team": "LASK"
+          "away_team": "LASK",
+          "result": {
+            "full_time": "1-3"
+          }
         },
         {
           "date": "2025-05-04",
           "time": "14:30",
           "home_team": "TSV Hartberg",
-          "away_team": "SCR Altach"
+          "away_team": "SCR Altach",
+          "result": {
+            "full_time": "2-0"
+          }
         }
       ]
     },

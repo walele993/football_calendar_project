@@ -2847,49 +2847,73 @@
           "date": "2025-05-02",
           "time": "20:00",
           "home_team": "Antalyaspor",
-          "away_team": "Konyaspor"
+          "away_team": "Konyaspor",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2025-05-03",
           "time": "16:00",
           "home_team": "Çaykur Rizespor",
-          "away_team": "Gaziantep FK"
+          "away_team": "Gaziantep FK",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2025-05-03",
           "time": "16:00",
           "home_team": "Alanyaspor",
-          "away_team": "Kayserispor"
+          "away_team": "Kayserispor",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-05-03",
           "time": "19:00",
           "home_team": "Galatasaray",
-          "away_team": "Sivasspor"
+          "away_team": "Sivasspor",
+          "result": {
+            "full_time": "4-1"
+          }
         },
         {
           "date": "2025-05-03",
           "time": "19:00",
           "home_team": "Hatayspor",
-          "away_team": "İstanbul Başakşehir"
+          "away_team": "İstanbul Başakşehir",
+          "result": {
+            "full_time": "2-4"
+          }
         },
         {
           "date": "2025-05-04",
           "time": "16:00",
           "home_team": "Samsunspor",
-          "away_team": "Eyüpspor"
+          "away_team": "Eyüpspor",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2025-05-04",
           "time": "19:00",
           "home_team": "Adana Demirspor",
-          "away_team": "Göztepe"
+          "away_team": "Göztepe",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2025-05-04",
           "time": "19:00",
           "home_team": "Fenerbahçe",
-          "away_team": "Beşiktaş"
+          "away_team": "Beşiktaş",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2025-05-05",
@@ -2902,6 +2926,18 @@
     {
       "matchday": "Matchday 35",
       "matches": [
+        {
+          "date": "2025-05-09",
+          "time": "20:00",
+          "home_team": "İstanbul Başakşehir",
+          "away_team": "Fenerbahçe"
+        },
+        {
+          "date": "2025-05-09",
+          "time": "20:00",
+          "home_team": "Gaziantep FK",
+          "away_team": "Alanyaspor"
+        },
         {
           "date": "2025-05-10",
           "time": "16:00",
@@ -2919,18 +2955,6 @@
           "time": "19:00",
           "home_team": "Trabzonspor",
           "away_team": "Galatasaray"
-        },
-        {
-          "date": "2025-05-11",
-          "time": "19:00",
-          "home_team": "İstanbul Başakşehir",
-          "away_team": "Fenerbahçe"
-        },
-        {
-          "date": "2025-05-11",
-          "time": "19:00",
-          "home_team": "Gaziantep FK",
-          "away_team": "Alanyaspor"
         },
         {
           "date": "2025-05-11",

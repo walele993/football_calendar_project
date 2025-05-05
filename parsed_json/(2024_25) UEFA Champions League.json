@@ -1725,13 +1725,19 @@
           "date": "2025-04-29",
           "time": "21:00",
           "home_team": "Arsenal FC (ENG)",
-          "away_team": "Paris Saint-Germain FC (FRA)"
+          "away_team": "Paris Saint-Germain FC (FRA)",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2025-04-30",
           "time": "21:00",
           "home_team": "FC Barcelona (ESP)",
-          "away_team": "FC Internazionale Milano (ITA)"
+          "away_team": "FC Internazionale Milano (ITA)",
+          "result": {
+            "full_time": "3-3"
+          }
         },
         {
           "date": "2025-05-06",
