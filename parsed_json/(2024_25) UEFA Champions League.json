@@ -1582,7 +1582,7 @@
           "home_team": "Liverpool FC (ENG)",
           "away_team": "Paris Saint-Germain FC (FRA)",
           "result": {
-            "full_time": "1-5"
+            "full_time": "1-4"
           }
         },
         {
@@ -1627,7 +1627,7 @@
           "home_team": "Club Atlético de Madrid (ESP)",
           "away_team": "Real Madrid CF (ESP)",
           "result": {
-            "full_time": "3-4"
+            "full_time": "2-4"
           }
         },
         {
@@ -1743,13 +1743,19 @@
           "date": "2025-05-06",
           "time": "21:00",
           "home_team": "FC Internazionale Milano (ITA)",
-          "away_team": "FC Barcelona (ESP)"
+          "away_team": "FC Barcelona (ESP)",
+          "result": {
+            "full_time": "4-3"
+          }
         },
         {
           "date": "2025-05-07",
           "time": "21:00",
           "home_team": "Paris Saint-Germain FC (FRA)",
-          "away_team": "Arsenal FC (ENG)"
+          "away_team": "Arsenal FC (ENG)",
+          "result": {
+            "full_time": "2-1"
+          }
         }
       ]
     },
@@ -1759,8 +1765,8 @@
         {
           "date": "2025-05-31",
           "time": "21:00",
-          "home_team": "N.N.",
-          "away_team": "N.N."
+          "home_team": "FC Internazionale Milano (ITA)",
+          "away_team": "Paris Saint-Germain FC (FRA)"
         }
       ]
     }

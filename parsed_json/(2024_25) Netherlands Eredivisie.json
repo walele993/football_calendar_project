@@ -2715,55 +2715,82 @@
           "date": "2025-05-09",
           "time": "20:00",
           "home_team": "Willem II Tilburg",
-          "away_team": "Heracles Almelo"
+          "away_team": "Heracles Almelo",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2025-05-10",
           "time": "16:30",
           "home_team": "RKC Waalwijk",
-          "away_team": "SC Heerenveen"
+          "away_team": "SC Heerenveen",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2025-05-10",
           "time": "18:45",
           "home_team": "Fortuna Sittard",
-          "away_team": "NAC Breda"
+          "away_team": "NAC Breda",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2025-05-10",
           "time": "21:00",
           "home_team": "Almere City FC",
-          "away_team": "Sparta Rotterdam"
+          "away_team": "Sparta Rotterdam",
+          "result": {
+            "full_time": "0-3"
+          }
         },
         {
           "date": "2025-05-11",
           "time": "12:15",
           "home_team": "PEC Zwolle",
-          "away_team": "Go Ahead Eagles"
+          "away_team": "Go Ahead Eagles",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-05-11",
           "time": "14:30",
           "home_team": "Feyenoord Rotterdam",
-          "away_team": "PSV"
+          "away_team": "PSV",
+          "result": {
+            "full_time": "2-3"
+          }
         },
         {
           "date": "2025-05-11",
           "time": "14:30",
           "home_team": "FC Twente '65",
-          "away_team": "FC Utrecht"
+          "away_team": "FC Utrecht",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2025-05-11",
           "time": "16:45",
           "home_team": "AFC Ajax",
-          "away_team": "NEC"
+          "away_team": "NEC",
+          "result": {
+            "full_time": "0-3"
+          }
         },
         {
           "date": "2025-05-11",
           "time": "16:45",
           "home_team": "AZ",
-          "away_team": "FC Groningen"
+          "away_team": "FC Groningen",
+          "result": {
+            "full_time": "3-0"
+          }
         }
       ]
     },
