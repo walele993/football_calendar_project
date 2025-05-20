@@ -2854,58 +2854,85 @@
       "matchday": "Matchday 34",
       "matches": [
         {
-          "date": "2025-05-17",
-          "time": "20:30",
-          "home_team": "GD Estoril Praia",
-          "away_team": "CF Estrela da Amadora"
-        },
-        {
-          "date": "2025-05-17",
-          "time": "20:30",
+          "date": "2025-05-16",
+          "time": "19:00",
           "home_team": "Rio Ave FC",
-          "away_team": "Gil Vicente FC"
+          "away_team": "Gil Vicente FC",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
-          "date": "2025-05-17",
-          "time": "20:30",
-          "home_team": "Sporting Clube de Portugal",
-          "away_team": "Vitória Guimarães"
-        },
-        {
-          "date": "2025-05-17",
-          "time": "20:30",
-          "home_team": "Sporting Clube de Braga",
-          "away_team": "Sport Lisboa e Benfica"
-        },
-        {
-          "date": "2025-05-17",
-          "time": "20:30",
+          "date": "2025-05-16",
+          "time": "19:00",
           "home_team": "FC Famalicão",
-          "away_team": "Casa Pia AC"
+          "away_team": "Casa Pia AC",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2025-05-17",
-          "time": "20:30",
+          "time": "18:00",
+          "home_team": "GD Estoril Praia",
+          "away_team": "CF Estrela da Amadora",
+          "result": {
+            "full_time": "4-0"
+          }
+        },
+        {
+          "date": "2025-05-17",
+          "time": "18:00",
+          "home_team": "Sporting Clube de Portugal",
+          "away_team": "Vitória Guimarães",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2025-05-17",
+          "time": "18:00",
+          "home_team": "Sporting Clube de Braga",
+          "away_team": "Sport Lisboa e Benfica",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2025-05-17",
+          "time": "18:00",
           "home_team": "FC Porto",
-          "away_team": "CD Nacional"
+          "away_team": "CD Nacional",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2025-05-17",
-          "time": "20:30",
+          "time": "18:00",
           "home_team": "AVS",
-          "away_team": "Moreirense FC"
+          "away_team": "Moreirense FC",
+          "result": {
+            "full_time": "0-3"
+          }
         },
         {
           "date": "2025-05-17",
-          "time": "20:30",
+          "time": "18:00",
           "home_team": "FC Arouca",
-          "away_team": "Boavista FC"
+          "away_team": "Boavista FC",
+          "result": {
+            "full_time": "4-1"
+          }
         },
         {
           "date": "2025-05-17",
-          "time": "20:30",
+          "time": "18:00",
           "home_team": "SC Farense",
-          "away_team": "CD Santa Clara"
+          "away_team": "CD Santa Clara",
+          "result": {
+            "full_time": "1-2"
+          }
         }
       ]
     }
