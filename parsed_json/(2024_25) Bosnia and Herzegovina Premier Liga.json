@@ -1717,40 +1717,58 @@
       "matchday": "Matchday 30",
       "matches": [
         {
-          "date": "2025-05-10",
-          "time": "15:00",
-          "home_team": "Borac Banja Luka",
-          "away_team": "Velež Mostar"
-        },
-        {
-          "date": "2025-05-10",
-          "time": "15:00",
-          "home_team": "NK GOŠK Gabela",
-          "away_team": "HŠK Posušje"
-        },
-        {
-          "date": "2025-05-10",
-          "time": "15:00",
-          "home_team": "FK Sarajevo",
-          "away_team": "Široki Brijeg"
-        },
-        {
-          "date": "2025-05-10",
-          "time": "15:00",
-          "home_team": "Željezničar Sarajevo",
-          "away_team": "Sloga Doboj"
-        },
-        {
-          "date": "2025-05-10",
-          "time": "15:00",
-          "home_team": "Zrinjski Mostar",
-          "away_team": "Radnik Bijeljina"
-        },
-        {
-          "date": "2025-05-10",
-          "time": "15:00",
+          "date": "2025-05-09",
+          "time": "20:00",
           "home_team": "Sloboda Tuzla",
-          "away_team": "Igman Konjic"
+          "away_team": "Igman Konjic",
+          "result": {
+            "full_time": "2-2"
+          }
+        },
+        {
+          "date": "2025-05-10",
+          "time": "16:00",
+          "home_team": "Zrinjski Mostar",
+          "away_team": "Radnik Bijeljina",
+          "result": {
+            "full_time": "5-0"
+          }
+        },
+        {
+          "date": "2025-05-10",
+          "time": "18:30",
+          "home_team": "FK Sarajevo",
+          "away_team": "Široki Brijeg",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2025-05-10",
+          "time": "20:45",
+          "home_team": "Borac Banja Luka",
+          "away_team": "Velež Mostar",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2025-05-11",
+          "time": "17:30",
+          "home_team": "Željezničar Sarajevo",
+          "away_team": "Sloga Doboj",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2025-05-11",
+          "time": "19:45",
+          "home_team": "NK GOŠK Gabela",
+          "away_team": "HŠK Posušje",
+          "result": {
+            "full_time": "1-2"
+          }
         }
       ]
     },
@@ -1759,39 +1777,57 @@
       "matches": [
         {
           "date": "2025-05-17",
-          "time": "15:00",
-          "home_team": "Radnik Bijeljina",
-          "away_team": "Borac Banja Luka"
-        },
-        {
-          "date": "2025-05-17",
-          "time": "15:00",
-          "home_team": "HŠK Posušje",
-          "away_team": "Zrinjski Mostar"
-        },
-        {
-          "date": "2025-05-17",
-          "time": "15:00",
-          "home_team": "Igman Konjic",
-          "away_team": "NK GOŠK Gabela"
-        },
-        {
-          "date": "2025-05-17",
-          "time": "15:00",
+          "time": "13:30",
           "home_team": "Sloga Doboj",
-          "away_team": "Sloboda Tuzla"
+          "away_team": "Sloboda Tuzla",
+          "result": {
+            "full_time": "4-1"
+          }
         },
         {
           "date": "2025-05-17",
-          "time": "15:00",
+          "time": "16:00",
+          "home_team": "Igman Konjic",
+          "away_team": "NK GOŠK Gabela",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2025-05-17",
+          "time": "18:30",
+          "home_team": "HŠK Posušje",
+          "away_team": "Zrinjski Mostar",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2025-05-18",
+          "time": "15:15",
+          "home_team": "Radnik Bijeljina",
+          "away_team": "Borac Banja Luka",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2025-05-18",
+          "time": "17:00",
           "home_team": "Velež Mostar",
-          "away_team": "FK Sarajevo"
+          "away_team": "FK Sarajevo",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
-          "date": "2025-05-17",
-          "time": "15:00",
+          "date": "2025-05-18",
+          "time": "19:45",
           "home_team": "Široki Brijeg",
-          "away_team": "Željezničar Sarajevo"
+          "away_team": "Željezničar Sarajevo",
+          "result": {
+            "full_time": "3-2"
+          }
         }
       ]
     },
@@ -1799,40 +1835,58 @@
       "matchday": "Matchday 32",
       "matches": [
         {
+          "date": "2025-05-23",
+          "time": "20:00",
+          "home_team": "Sloboda Tuzla",
+          "away_team": "NK GOŠK Gabela",
+          "result": {
+            "full_time": "3-3"
+          }
+        },
+        {
           "date": "2025-05-25",
           "time": "15:00",
           "home_team": "Sloga Doboj",
-          "away_team": "Široki Brijeg"
+          "away_team": "Široki Brijeg",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2025-05-25",
           "time": "15:00",
           "home_team": "Borac Banja Luka",
-          "away_team": "HŠK Posušje"
+          "away_team": "HŠK Posušje",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2025-05-25",
           "time": "15:00",
           "home_team": "Željezničar Sarajevo",
-          "away_team": "Velež Mostar"
+          "away_team": "Velež Mostar",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2025-05-25",
           "time": "15:00",
           "home_team": "FK Sarajevo",
-          "away_team": "Radnik Bijeljina"
+          "away_team": "Radnik Bijeljina",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-05-25",
           "time": "15:00",
           "home_team": "Zrinjski Mostar",
-          "away_team": "Igman Konjic"
-        },
-        {
-          "date": "2025-05-25",
-          "time": "15:00",
-          "home_team": "Sloboda Tuzla",
-          "away_team": "NK GOŠK Gabela"
+          "away_team": "Igman Konjic",
+          "result": {
+            "full_time": "3-0"
+          }
         }
       ]
     },
@@ -1840,40 +1894,58 @@
       "matchday": "Matchday 33",
       "matches": [
         {
-          "date": "2025-05-31",
-          "time": "15:00",
-          "home_team": "Široki Brijeg",
-          "away_team": "Sloboda Tuzla"
-        },
-        {
-          "date": "2025-05-31",
-          "time": "15:00",
-          "home_team": "Velež Mostar",
-          "away_team": "Sloga Doboj"
-        },
-        {
-          "date": "2025-05-31",
-          "time": "15:00",
+          "date": "2025-05-30",
+          "time": "17:00",
           "home_team": "Igman Konjic",
-          "away_team": "Borac Banja Luka"
+          "away_team": "Borac Banja Luka",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
-          "date": "2025-05-31",
-          "time": "15:00",
-          "home_team": "HŠK Posušje",
-          "away_team": "FK Sarajevo"
-        },
-        {
-          "date": "2025-05-31",
-          "time": "15:00",
+          "date": "2025-05-30",
+          "time": "17:00",
           "home_team": "NK GOŠK Gabela",
-          "away_team": "Zrinjski Mostar"
+          "away_team": "Zrinjski Mostar",
+          "result": {
+            "full_time": "3-2"
+          }
+        },
+        {
+          "date": "2025-05-30",
+          "time": "20:00",
+          "home_team": "Široki Brijeg",
+          "away_team": "Sloboda Tuzla",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2025-05-31",
-          "time": "15:00",
+          "time": "17:00",
+          "home_team": "Velež Mostar",
+          "away_team": "Sloga Doboj",
+          "result": {
+            "full_time": "3-0"
+          }
+        },
+        {
+          "date": "2025-05-31",
+          "time": "17:00",
+          "home_team": "HŠK Posušje",
+          "away_team": "FK Sarajevo",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2025-05-31",
+          "time": "17:00",
           "home_team": "Radnik Bijeljina",
-          "away_team": "Željezničar Sarajevo"
+          "away_team": "Željezničar Sarajevo",
+          "result": {
+            "full_time": "1-2"
+          }
         }
       ]
     }

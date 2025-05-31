@@ -1509,31 +1509,46 @@
           "date": "2025-03-26",
           "time": "15:00",
           "home_team": "KF Laçi",
-          "away_team": "AF Elbasani"
+          "away_team": "AF Elbasani",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2025-03-26",
           "time": "18:00",
           "home_team": "KF Tiranë",
-          "away_team": "KF Bylis Ballsh"
+          "away_team": "KF Bylis Ballsh",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2025-03-27",
           "time": "17:00",
           "home_team": "FC Dinamo City",
-          "away_team": "FK Partizani"
+          "away_team": "FK Partizani",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2025-03-27",
           "time": "17:00",
           "home_team": "KF Teuta Durrës",
-          "away_team": "KF Skënderbeu"
+          "away_team": "KF Skënderbeu",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2025-03-27",
           "time": "20:00",
           "home_team": "Egnatia Rrogozhine",
-          "away_team": "FK Vllaznia"
+          "away_team": "FK Vllaznia",
+          "result": {
+            "full_time": "2-2"
+          }
         }
       ]
     },
@@ -1544,31 +1559,46 @@
           "date": "2025-03-30",
           "time": "17:00",
           "home_team": "KF Skënderbeu",
-          "away_team": "FC Dinamo City"
+          "away_team": "FC Dinamo City",
+          "result": {
+            "full_time": "4-1"
+          }
+        },
+        {
+          "date": "2025-03-30",
+          "time": "17:00",
+          "home_team": "FK Partizani",
+          "away_team": "KF Laçi",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2025-03-30",
           "time": "20:00",
           "home_team": "FK Vllaznia",
-          "away_team": "KF Teuta Durrës"
-        },
-        {
-          "date": "2025-03-30",
-          "time": "20:00",
-          "home_team": "FK Partizani",
-          "away_team": "KF Laçi"
+          "away_team": "KF Teuta Durrës",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2025-03-31",
           "time": "15:00",
           "home_team": "KF Bylis Ballsh",
-          "away_team": "Egnatia Rrogozhine"
+          "away_team": "Egnatia Rrogozhine",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2025-03-31",
           "time": "18:00",
           "home_team": "AF Elbasani",
-          "away_team": "KF Tiranë"
+          "away_team": "KF Tiranë",
+          "result": {
+            "full_time": "2-1"
+          }
         }
       ]
     },
@@ -1579,31 +1609,46 @@
           "date": "2025-04-06",
           "time": "15:00",
           "home_team": "KF Laçi",
-          "away_team": "KF Skënderbeu"
+          "away_team": "KF Skënderbeu",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2025-04-06",
           "time": "15:00",
           "home_team": "KF Bylis Ballsh",
-          "away_team": "FK Vllaznia"
+          "away_team": "FK Vllaznia",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2025-04-06",
           "time": "18:00",
           "home_team": "FC Dinamo City",
-          "away_team": "KF Teuta Durrës"
+          "away_team": "KF Teuta Durrës",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-04-07",
           "time": "17:00",
           "home_team": "Egnatia Rrogozhine",
-          "away_team": "AF Elbasani"
+          "away_team": "AF Elbasani",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2025-04-07",
           "time": "20:00",
           "home_team": "KF Tiranë",
-          "away_team": "FK Partizani"
+          "away_team": "FK Partizani",
+          "result": {
+            "full_time": "3-0"
+          }
         }
       ]
     },
@@ -1612,33 +1657,48 @@
       "matches": [
         {
           "date": "2025-04-12",
-          "time": "20:00",
+          "time": "15:30",
           "home_team": "FK Vllaznia",
-          "away_team": "FC Dinamo City"
+          "away_team": "FC Dinamo City",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2025-04-12",
-          "time": "20:00",
+          "time": "15:30",
           "home_team": "KF Teuta Durrës",
-          "away_team": "KF Laçi"
+          "away_team": "KF Laçi",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2025-04-12",
-          "time": "20:00",
+          "time": "15:30",
           "home_team": "KF Skënderbeu",
-          "away_team": "KF Tiranë"
+          "away_team": "KF Tiranë",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-04-12",
-          "time": "20:00",
+          "time": "15:30",
           "home_team": "FK Partizani",
-          "away_team": "Egnatia Rrogozhine"
+          "away_team": "Egnatia Rrogozhine",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2025-04-12",
-          "time": "20:00",
+          "time": "15:30",
           "home_team": "AF Elbasani",
-          "away_team": "KF Bylis Ballsh"
+          "away_team": "KF Bylis Ballsh",
+          "result": {
+            "full_time": "1-0"
+          }
         }
       ]
     },
@@ -1647,33 +1707,48 @@
       "matches": [
         {
           "date": "2025-04-19",
-          "time": "20:00",
+          "time": "15:30",
           "home_team": "KF Bylis Ballsh",
-          "away_team": "FK Partizani"
+          "away_team": "FK Partizani",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2025-04-19",
-          "time": "20:00",
+          "time": "15:30",
           "home_team": "Egnatia Rrogozhine",
-          "away_team": "KF Skënderbeu"
+          "away_team": "KF Skënderbeu",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2025-04-19",
-          "time": "20:00",
+          "time": "15:30",
           "home_team": "KF Tiranë",
-          "away_team": "KF Teuta Durrës"
+          "away_team": "KF Teuta Durrës",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2025-04-19",
-          "time": "20:00",
+          "time": "15:30",
           "home_team": "KF Laçi",
-          "away_team": "FC Dinamo City"
+          "away_team": "FC Dinamo City",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2025-04-19",
-          "time": "20:00",
+          "time": "15:30",
           "home_team": "AF Elbasani",
-          "away_team": "FK Vllaznia"
+          "away_team": "FK Vllaznia",
+          "result": {
+            "full_time": "1-1"
+          }
         }
       ]
     },
@@ -1682,33 +1757,99 @@
       "matches": [
         {
           "date": "2025-04-27",
+          "time": "15:30",
+          "home_team": "FK Vllaznia",
+          "away_team": "KF Laçi",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2025-04-27",
+          "time": "15:30",
+          "home_team": "FC Dinamo City",
+          "away_team": "KF Tiranë",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2025-04-27",
+          "time": "15:30",
+          "home_team": "KF Teuta Durrës",
+          "away_team": "Egnatia Rrogozhine",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2025-04-27",
+          "time": "15:30",
+          "home_team": "KF Skënderbeu",
+          "away_team": "KF Bylis Ballsh",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2025-04-27",
+          "time": "15:30",
+          "home_team": "FK Partizani",
+          "away_team": "AF Elbasani",
+          "result": {
+            "full_time": "2-0"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Playoffs, Semifinals",
+      "matches": [
+        {
+          "date": "2025-05-04",
           "time": "20:00",
           "home_team": "FK Vllaznia",
-          "away_team": "KF Laçi"
+          "away_team": "FC Dinamo City",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
-          "date": "2025-04-27",
+          "date": "2025-05-05",
           "time": "20:00",
+          "home_team": "Egnatia Rrogozhine",
+          "away_team": "FK Partizani",
+          "result": {
+            "full_time": "0-0"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Playoffs, Match 3rd place",
+      "matches": [
+        {
+          "date": "2025-05-10",
+          "time": "19:00",
           "home_team": "FC Dinamo City",
-          "away_team": "KF Tiranë"
-        },
+          "away_team": "FK Partizani",
+          "result": {
+            "full_time": "1-2"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Playoffs, Final",
+      "matches": [
         {
-          "date": "2025-04-27",
+          "date": "2025-05-12",
           "time": "20:00",
-          "home_team": "KF Teuta Durrës",
-          "away_team": "Egnatia Rrogozhine"
-        },
-        {
-          "date": "2025-04-27",
-          "time": "20:00",
-          "home_team": "KF Skënderbeu",
-          "away_team": "KF Bylis Ballsh"
-        },
-        {
-          "date": "2025-04-27",
-          "time": "20:00",
-          "home_team": "FK Partizani",
-          "away_team": "AF Elbasani"
+          "home_team": "FK Vllaznia",
+          "away_team": "Egnatia Rrogozhine",
+          "result": {
+            "full_time": "0-4"
+          }
         }
       ]
     }

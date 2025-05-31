@@ -645,21 +645,30 @@
       "matches": [
         {
           "date": "2025-03-29",
+          "time": "16:00",
+          "home_team": "FC Bălţi",
+          "away_team": "FC Milsami",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2025-03-29",
           "time": "18:00",
           "home_team": "CS Petrocub",
-          "away_team": "FC Sheriff"
+          "away_team": "FC Sheriff",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-03-30",
-          "time": "17:00",
+          "time": "18:00",
           "home_team": "FC Zimbru",
-          "away_team": "Spartanii Sportul"
-        },
-        {
-          "date": "2025-03-30",
-          "time": "19:00",
-          "home_team": "FC Bălţi",
-          "away_team": "FC Milsami"
+          "away_team": "Spartanii Sportul",
+          "result": {
+            "full_time": "3-1"
+          }
         }
       ]
     },
@@ -670,19 +679,28 @@
           "date": "2025-04-05",
           "time": "18:00",
           "home_team": "FC Sheriff",
-          "away_team": "FC Bălţi"
+          "away_team": "FC Bălţi",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2025-04-06",
           "time": "16:00",
           "home_team": "Spartanii Sportul",
-          "away_team": "FC Milsami"
+          "away_team": "FC Milsami",
+          "result": {
+            "full_time": "1-6"
+          }
         },
         {
           "date": "2025-04-06",
           "time": "18:00",
           "home_team": "FC Zimbru",
-          "away_team": "CS Petrocub"
+          "away_team": "CS Petrocub",
+          "result": {
+            "full_time": "3-2"
+          }
         }
       ]
     },
@@ -693,19 +711,28 @@
           "date": "2025-04-12",
           "time": "16:00",
           "home_team": "CS Petrocub",
-          "away_team": "Spartanii Sportul"
+          "away_team": "Spartanii Sportul",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2025-04-12",
           "time": "18:00",
           "home_team": "FC Bălţi",
-          "away_team": "FC Zimbru"
+          "away_team": "FC Zimbru",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2025-04-13",
           "time": "18:00",
           "home_team": "FC Sheriff",
-          "away_team": "FC Milsami"
+          "away_team": "FC Milsami",
+          "result": {
+            "full_time": "2-2"
+          }
         }
       ]
     },
@@ -716,19 +743,28 @@
           "date": "2025-04-19",
           "time": "15:00",
           "home_team": "FC Sheriff",
-          "away_team": "Spartanii Sportul"
+          "away_team": "Spartanii Sportul",
+          "result": {
+            "full_time": "4-0"
+          }
         },
         {
           "date": "2025-04-19",
           "time": "17:00",
           "home_team": "FC Milsami",
-          "away_team": "FC Zimbru"
+          "away_team": "FC Zimbru",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2025-04-19",
           "time": "19:00",
           "home_team": "FC Bălţi",
-          "away_team": "CS Petrocub"
+          "away_team": "CS Petrocub",
+          "result": {
+            "full_time": "1-1"
+          }
         }
       ]
     },
@@ -739,19 +775,124 @@
           "date": "2025-04-26",
           "time": "16:00",
           "home_team": "FC Bălţi",
-          "away_team": "Spartanii Sportul"
+          "away_team": "Spartanii Sportul",
+          "result": {
+            "full_time": "3-3"
+          }
         },
         {
           "date": "2025-04-26",
           "time": "18:00",
           "home_team": "CS Petrocub",
-          "away_team": "FC Milsami"
+          "away_team": "FC Milsami",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2025-04-26",
           "time": "20:00",
           "home_team": "FC Zimbru",
-          "away_team": "FC Sheriff"
+          "away_team": "FC Sheriff",
+          "result": {
+            "full_time": "1-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Phase II, Matchday 8",
+      "matches": [
+        {
+          "date": "2025-05-03",
+          "time": "20:00",
+          "home_team": "FC Milsami",
+          "away_team": "FC Bălţi",
+          "result": {
+            "full_time": "5-0"
+          }
+        },
+        {
+          "date": "2025-05-04",
+          "time": "18:00",
+          "home_team": "FC Zimbru",
+          "away_team": "Spartanii Sportul",
+          "result": {
+            "full_time": "6-0"
+          }
+        },
+        {
+          "date": "2025-05-04",
+          "time": "20:00",
+          "home_team": "FC Sheriff",
+          "away_team": "CS Petrocub",
+          "result": {
+            "full_time": "3-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Phase II, Matchday 9",
+      "matches": [
+        {
+          "date": "2025-05-10",
+          "time": "20:00",
+          "home_team": "CS Petrocub",
+          "away_team": "FC Zimbru",
+          "result": {
+            "full_time": "0-3"
+          }
+        },
+        {
+          "date": "2025-05-10",
+          "time": "20:00",
+          "home_team": "FC Milsami",
+          "away_team": "Spartanii Sportul",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2025-05-10",
+          "time": "20:00",
+          "home_team": "FC Bălţi",
+          "away_team": "FC Sheriff",
+          "result": {
+            "full_time": "0-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Phase II, Matchday 10",
+      "matches": [
+        {
+          "date": "2025-05-18",
+          "time": "20:00",
+          "home_team": "Spartanii Sportul",
+          "away_team": "CS Petrocub",
+          "result": {
+            "full_time": "0-6"
+          }
+        },
+        {
+          "date": "2025-05-18",
+          "time": "20:00",
+          "home_team": "FC Sheriff",
+          "away_team": "FC Milsami",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2025-05-18",
+          "time": "20:00",
+          "home_team": "FC Zimbru",
+          "away_team": "FC Bălţi",
+          "result": {
+            "full_time": "3-1"
+          }
         }
       ]
     }

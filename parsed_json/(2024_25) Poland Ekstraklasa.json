@@ -2643,19 +2643,28 @@
           "date": "2025-05-05",
           "time": "19:00",
           "home_team": "Korona Kielce",
-          "away_team": "GKS Katowice"
+          "away_team": "GKS Katowice",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2025-05-14",
           "time": "20:30",
           "home_team": "Pogoń Szczecin",
-          "away_team": "Motor Lublin"
+          "away_team": "Motor Lublin",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2025-05-15",
           "time": "20:30",
           "home_team": "Widzew Łódź",
-          "away_team": "Legia Warszawa"
+          "away_team": "Legia Warszawa",
+          "result": {
+            "full_time": "0-2"
+          }
         }
       ]
     },
@@ -2666,55 +2675,82 @@
           "date": "2025-05-09",
           "time": "18:00",
           "home_team": "Motor Lublin",
-          "away_team": "Piast Gliwice"
+          "away_team": "Piast Gliwice",
+          "result": {
+            "full_time": "1-4"
+          }
         },
         {
           "date": "2025-05-09",
           "time": "20:30",
           "home_team": "Górnik Zabrze",
-          "away_team": "Śląsk Wrocław"
+          "away_team": "Śląsk Wrocław",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2025-05-10",
           "time": "14:45",
           "home_team": "Radomiak Radom",
-          "away_team": "Pogoń Szczecin"
+          "away_team": "Pogoń Szczecin",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2025-05-10",
           "time": "17:30",
           "home_team": "Zagłębie Lubin",
-          "away_team": "Widzew Łódź"
+          "away_team": "Widzew Łódź",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2025-05-10",
           "time": "20:15",
           "home_team": "Raków Częstochowa",
-          "away_team": "Jagiellonia Białystok"
+          "away_team": "Jagiellonia Białystok",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2025-05-11",
           "time": "12:15",
           "home_team": "Lechia Gdańsk",
-          "away_team": "Korona Kielce"
+          "away_team": "Korona Kielce",
+          "result": {
+            "full_time": "3-2"
+          }
         },
         {
           "date": "2025-05-11",
           "time": "14:45",
           "home_team": "GKS Katowice",
-          "away_team": "KS Cracovia"
+          "away_team": "KS Cracovia",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2025-05-11",
           "time": "17:30",
           "home_team": "Legia Warszawa",
-          "away_team": "Lech Poznań"
+          "away_team": "Lech Poznań",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2025-05-12",
           "time": "19:00",
           "home_team": "Puszcza Niepołomice",
-          "away_team": "FKS Stal Mielec"
+          "away_team": "FKS Stal Mielec",
+          "result": {
+            "full_time": "2-3"
+          }
         }
       ]
     },
@@ -2725,55 +2761,82 @@
           "date": "2025-05-16",
           "time": "18:00",
           "home_team": "FKS Stal Mielec",
-          "away_team": "Radomiak Radom"
+          "away_team": "Radomiak Radom",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2025-05-16",
           "time": "20:30",
           "home_team": "Śląsk Wrocław",
-          "away_team": "Jagiellonia Białystok"
+          "away_team": "Jagiellonia Białystok",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-05-17",
           "time": "14:45",
           "home_team": "Pogoń Szczecin",
-          "away_team": "Lechia Gdańsk"
+          "away_team": "Lechia Gdańsk",
+          "result": {
+            "full_time": "3-3"
+          }
         },
         {
           "date": "2025-05-17",
           "time": "17:30",
           "home_team": "Piast Gliwice",
-          "away_team": "Górnik Zabrze"
+          "away_team": "Górnik Zabrze",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2025-05-17",
           "time": "20:15",
           "home_team": "Korona Kielce",
-          "away_team": "Raków Częstochowa"
+          "away_team": "Raków Częstochowa",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-05-18",
           "time": "12:15",
           "home_team": "Motor Lublin",
-          "away_team": "Zagłębie Lubin"
+          "away_team": "Zagłębie Lubin",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2025-05-18",
           "time": "14:45",
           "home_team": "KS Cracovia",
-          "away_team": "Legia Warszawa"
+          "away_team": "Legia Warszawa",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2025-05-18",
           "time": "17:30",
           "home_team": "GKS Katowice",
-          "away_team": "Lech Poznań"
+          "away_team": "Lech Poznań",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2025-05-19",
           "time": "19:00",
           "home_team": "Widzew Łódź",
-          "away_team": "Puszcza Niepołomice"
+          "away_team": "Puszcza Niepołomice",
+          "result": {
+            "full_time": "2-0"
+          }
         }
       ]
     },
@@ -2784,55 +2847,82 @@
           "date": "2025-05-24",
           "time": "17:30",
           "home_team": "Górnik Zabrze",
-          "away_team": "Korona Kielce"
+          "away_team": "Korona Kielce",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-05-24",
           "time": "17:30",
           "home_team": "Jagiellonia Białystok",
-          "away_team": "Pogoń Szczecin"
+          "away_team": "Pogoń Szczecin",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-05-24",
           "time": "17:30",
           "home_team": "Zagłębie Lubin",
-          "away_team": "KS Cracovia"
+          "away_team": "KS Cracovia",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2025-05-24",
           "time": "17:30",
           "home_team": "Lech Poznań",
-          "away_team": "Piast Gliwice"
+          "away_team": "Piast Gliwice",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2025-05-24",
           "time": "17:30",
           "home_team": "Lechia Gdańsk",
-          "away_team": "GKS Katowice"
+          "away_team": "GKS Katowice",
+          "result": {
+            "full_time": "2-3"
+          }
         },
         {
           "date": "2025-05-24",
           "time": "17:30",
           "home_team": "Legia Warszawa",
-          "away_team": "FKS Stal Mielec"
+          "away_team": "FKS Stal Mielec",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2025-05-24",
           "time": "17:30",
           "home_team": "Puszcza Niepołomice",
-          "away_team": "Śląsk Wrocław"
+          "away_team": "Śląsk Wrocław",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-05-24",
           "time": "17:30",
           "home_team": "Radomiak Radom",
-          "away_team": "Motor Lublin"
+          "away_team": "Motor Lublin",
+          "result": {
+            "full_time": "2-3"
+          }
         },
         {
           "date": "2025-05-24",
           "time": "17:30",
           "home_team": "Raków Częstochowa",
-          "away_team": "Widzew Łódź"
+          "away_team": "Widzew Łódź",
+          "result": {
+            "full_time": "2-1"
+          }
         }
       ]
     }

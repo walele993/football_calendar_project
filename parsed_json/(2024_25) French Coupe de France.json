@@ -1835,7 +1835,10 @@
           "date": "2025-05-24",
           "time": "21:00",
           "home_team": "Paris Saint-Germain",
-          "away_team": "Stade de Reims"
+          "away_team": "Stade de Reims",
+          "result": {
+            "full_time": "3-0"
+          }
         }
       ]
     }

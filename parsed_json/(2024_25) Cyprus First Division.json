@@ -2033,19 +2033,28 @@
           "date": "2025-05-12",
           "time": "19:00",
           "home_team": "APOEL Nikosia",
-          "away_team": "Paphos FC"
+          "away_team": "Paphos FC",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-05-12",
           "time": "19:00",
           "home_team": "Aris Limassol",
-          "away_team": "Omonia Nikosia"
+          "away_team": "Omonia Nikosia",
+          "result": {
+            "full_time": "3-3"
+          }
         },
         {
           "date": "2025-05-12",
           "time": "19:00",
           "home_team": "AEK Larnaca",
-          "away_team": "Apollon Limassol"
+          "away_team": "Apollon Limassol",
+          "result": {
+            "full_time": "3-0"
+          }
         }
       ]
     },
@@ -2054,21 +2063,30 @@
       "matches": [
         {
           "date": "2025-05-18",
-          "time": "19:00",
+          "time": "18:00",
           "home_team": "Paphos FC",
-          "away_team": "AEK Larnaca"
+          "away_team": "AEK Larnaca",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2025-05-18",
           "time": "19:00",
           "home_team": "Apollon Limassol",
-          "away_team": "Aris Limassol"
+          "away_team": "Aris Limassol",
+          "result": {
+            "full_time": "2-3"
+          }
         },
         {
           "date": "2025-05-18",
           "time": "19:00",
           "home_team": "Omonia Nikosia",
-          "away_team": "APOEL Nikosia"
+          "away_team": "APOEL Nikosia",
+          "result": {
+            "full_time": "2-1"
+          }
         }
       ]
     },
@@ -2293,19 +2311,28 @@
           "date": "2025-05-05",
           "time": "19:00",
           "home_team": "Anorthosis Famagusta",
-          "away_team": "Enosis Neon Paralimni"
+          "away_team": "Enosis Neon Paralimni",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2025-05-05",
           "time": "19:00",
           "home_team": "Karmiotissa Polemidion",
-          "away_team": "Omonia Aradippou"
+          "away_team": "Omonia Aradippou",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2025-05-05",
           "time": "19:00",
           "home_team": "Omonia 29is Maiou",
-          "away_team": "Nea Salamina"
+          "away_team": "Nea Salamina",
+          "result": {
+            "full_time": "0-1"
+          }
         }
       ]
     },
@@ -2316,25 +2343,37 @@
           "date": "2025-05-09",
           "time": "19:00",
           "home_team": "Nea Salamina",
-          "away_team": "Anorthosis Famagusta"
+          "away_team": "Anorthosis Famagusta",
+          "result": {
+            "full_time": "2-4"
+          }
         },
         {
           "date": "2025-05-11",
           "time": "19:00",
           "home_team": "Omonia Aradippou",
-          "away_team": "Omonia 29is Maiou"
+          "away_team": "Omonia 29is Maiou",
+          "result": {
+            "full_time": "4-1"
+          }
         },
         {
           "date": "2025-05-11",
           "time": "19:00",
           "home_team": "AEL Limassol",
-          "away_team": "Karmiotissa Polemidion"
+          "away_team": "Karmiotissa Polemidion",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2025-05-11",
           "time": "19:00",
           "home_team": "Enosis Neon Paralimni",
-          "away_team": "Ethnikos Achna"
+          "away_team": "Ethnikos Achna",
+          "result": {
+            "full_time": "4-2"
+          }
         }
       ]
     }

@@ -2365,13 +2365,19 @@
           "date": "2025-05-09",
           "time": "17:45",
           "home_team": "Arda Kardzhali",
-          "away_team": "PFC Ludogorets Razgrad"
+          "away_team": "PFC Ludogorets Razgrad",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-05-10",
           "time": "20:00",
           "home_team": "Levski Sofia",
-          "away_team": "Cherno More Varna"
+          "away_team": "Cherno More Varna",
+          "result": {
+            "full_time": "2-0"
+          }
         }
       ]
     },
@@ -2382,13 +2388,19 @@
           "date": "2025-05-13",
           "time": "17:45",
           "home_team": "Cherno More Varna",
-          "away_team": "PFC Ludogorets Razgrad"
+          "away_team": "PFC Ludogorets Razgrad",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2025-05-14",
           "time": "20:15",
           "home_team": "Arda Kardzhali",
-          "away_team": "Levski Sofia"
+          "away_team": "Levski Sofia",
+          "result": {
+            "full_time": "0-3"
+          }
         }
       ]
     },
@@ -2397,15 +2409,21 @@
       "matches": [
         {
           "date": "2025-05-17",
-          "time": "20:15",
+          "time": "20:00",
           "home_team": "Levski Sofia",
-          "away_team": "PFC Ludogorets Razgrad"
+          "away_team": "PFC Ludogorets Razgrad",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2025-05-18",
-          "time": "20:15",
+          "time": "19:30",
           "home_team": "Arda Kardzhali",
-          "away_team": "Cherno More Varna"
+          "away_team": "Cherno More Varna",
+          "result": {
+            "full_time": "0-0"
+          }
         }
       ]
     },
@@ -2413,16 +2431,22 @@
       "matchday": "Championship, Matchday 6",
       "matches": [
         {
-          "date": "2025-05-24",
-          "time": "20:15",
+          "date": "2025-05-26",
+          "time": "17:45",
           "home_team": "Cherno More Varna",
-          "away_team": "Levski Sofia"
+          "away_team": "Levski Sofia",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
-          "date": "2025-05-24",
-          "time": "20:15",
+          "date": "2025-05-26",
+          "time": "17:45",
           "home_team": "PFC Ludogorets Razgrad",
-          "away_team": "Arda Kardzhali"
+          "away_team": "Arda Kardzhali",
+          "result": {
+            "full_time": "2-2"
+          }
         }
       ]
     },
@@ -2479,13 +2503,19 @@
           "date": "2025-05-09",
           "time": "20:15",
           "home_team": "CSKA Sofia",
-          "away_team": "Botev Plovdiv"
+          "away_team": "Botev Plovdiv",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2025-05-10",
           "time": "17:30",
           "home_team": "Spartak Varna",
-          "away_team": "PFC Beroe"
+          "away_team": "PFC Beroe",
+          "result": {
+            "full_time": "1-2"
+          }
         }
       ]
     },
@@ -2496,13 +2526,19 @@
           "date": "2025-05-13",
           "time": "20:15",
           "home_team": "CSKA Sofia",
-          "away_team": "Spartak Varna"
+          "away_team": "Spartak Varna",
+          "result": {
+            "full_time": "5-0"
+          }
         },
         {
           "date": "2025-05-14",
           "time": "17:45",
           "home_team": "PFC Beroe",
-          "away_team": "Botev Plovdiv"
+          "away_team": "Botev Plovdiv",
+          "result": {
+            "full_time": "0-6"
+          }
         }
       ]
     },
@@ -2513,13 +2549,19 @@
           "date": "2025-05-17",
           "time": "17:30",
           "home_team": "CSKA Sofia",
-          "away_team": "PFC Beroe"
+          "away_team": "PFC Beroe",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2025-05-18",
           "time": "17:00",
           "home_team": "Spartak Varna",
-          "away_team": "Botev Plovdiv"
+          "away_team": "Botev Plovdiv",
+          "result": {
+            "full_time": "2-1"
+          }
         }
       ]
     },
@@ -2527,15 +2569,32 @@
       "matchday": "Conference League, Matchday 6",
       "matches": [
         {
-          "date": "2025-05-24",
-          "time": "17:00",
+          "date": "2025-05-26",
+          "time": "20:45",
           "home_team": "PFC Beroe",
-          "away_team": "Spartak Varna"
+          "away_team": "Spartak Varna",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
-          "date": "2025-05-24",
-          "time": "17:00",
+          "date": "2025-05-26",
+          "time": "20:45",
           "home_team": "Botev Plovdiv",
+          "away_team": "CSKA Sofia",
+          "result": {
+            "full_time": "0-4"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "ECL Playoff, Final",
+      "matches": [
+        {
+          "date": "2025-05-31",
+          "time": "18:30",
+          "home_team": "Arda Kardzhali",
           "away_team": "CSKA Sofia"
         }
       ]
@@ -2629,25 +2688,37 @@
           "date": "2025-05-06",
           "time": "17:00",
           "home_team": "FK Krumovgrad",
-          "away_team": "Lokomotiv Plovdiv"
+          "away_team": "Lokomotiv Plovdiv",
+          "result": {
+            "full_time": "0-4"
+          }
         },
         {
           "date": "2025-05-06",
           "time": "19:30",
           "home_team": "Septemvri Sofia",
-          "away_team": "Slavia Sofia"
+          "away_team": "Slavia Sofia",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2025-05-07",
           "time": "17:00",
           "home_team": "CSKA 1948 Sofia",
-          "away_team": "Hebar Pazardzhik"
+          "away_team": "Hebar Pazardzhik",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2025-05-07",
           "time": "19:30",
           "home_team": "Lokomotiv Sofia",
-          "away_team": "Botev Vratsa"
+          "away_team": "Botev Vratsa",
+          "result": {
+            "full_time": "3-0"
+          }
         }
       ]
     },
@@ -2658,25 +2729,37 @@
           "date": "2025-05-10",
           "time": "15:00",
           "home_team": "Slavia Sofia",
-          "away_team": "Lokomotiv Sofia"
+          "away_team": "Lokomotiv Sofia",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2025-05-11",
           "time": "15:30",
           "home_team": "Hebar Pazardzhik",
-          "away_team": "Lokomotiv Plovdiv"
+          "away_team": "Lokomotiv Plovdiv",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2025-05-11",
           "time": "18:00",
           "home_team": "Botev Vratsa",
-          "away_team": "FK Krumovgrad"
+          "away_team": "FK Krumovgrad",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2025-05-11",
           "time": "20:30",
           "home_team": "CSKA 1948 Sofia",
-          "away_team": "Septemvri Sofia"
+          "away_team": "Septemvri Sofia",
+          "result": {
+            "full_time": "2-0"
+          }
         }
       ]
     },
@@ -2687,25 +2770,37 @@
           "date": "2025-05-14",
           "time": "15:15",
           "home_team": "Lokomotiv Sofia",
-          "away_team": "CSKA 1948 Sofia"
+          "away_team": "CSKA 1948 Sofia",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2025-05-15",
           "time": "15:15",
           "home_team": "FK Krumovgrad",
-          "away_team": "Slavia Sofia"
+          "away_team": "Slavia Sofia",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2025-05-15",
           "time": "17:45",
           "home_team": "Lokomotiv Plovdiv",
-          "away_team": "Botev Vratsa"
+          "away_team": "Botev Vratsa",
+          "result": {
+            "full_time": "1-3"
+          }
         },
         {
           "date": "2025-05-15",
           "time": "20:15",
           "home_team": "Septemvri Sofia",
-          "away_team": "Hebar Pazardzhik"
+          "away_team": "Hebar Pazardzhik",
+          "result": {
+            "full_time": "1-0"
+          }
         }
       ]
     },
@@ -2716,25 +2811,37 @@
           "date": "2025-05-19",
           "time": "17:45",
           "home_team": "CSKA 1948 Sofia",
-          "away_team": "FK Krumovgrad"
+          "away_team": "FK Krumovgrad",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2025-05-19",
           "time": "20:15",
           "home_team": "Slavia Sofia",
-          "away_team": "Lokomotiv Plovdiv"
+          "away_team": "Lokomotiv Plovdiv",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2025-05-20",
           "time": "17:45",
           "home_team": "Hebar Pazardzhik",
-          "away_team": "Botev Vratsa"
+          "away_team": "Botev Vratsa",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2025-05-20",
           "time": "20:15",
           "home_team": "Septemvri Sofia",
-          "away_team": "Lokomotiv Sofia"
+          "away_team": "Lokomotiv Sofia",
+          "result": {
+            "full_time": "0-2"
+          }
         }
       ]
     },
@@ -2743,27 +2850,39 @@
       "matches": [
         {
           "date": "2025-05-25",
-          "time": "20:15",
+          "time": "20:45",
           "home_team": "Lokomotiv Sofia",
-          "away_team": "Hebar Pazardzhik"
+          "away_team": "Hebar Pazardzhik",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2025-05-25",
-          "time": "20:15",
+          "time": "20:45",
           "home_team": "FK Krumovgrad",
-          "away_team": "Septemvri Sofia"
+          "away_team": "Septemvri Sofia",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2025-05-25",
-          "time": "20:15",
+          "time": "20:45",
           "home_team": "Lokomotiv Plovdiv",
-          "away_team": "CSKA 1948 Sofia"
+          "away_team": "CSKA 1948 Sofia",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2025-05-25",
-          "time": "20:15",
+          "time": "20:45",
           "home_team": "Botev Vratsa",
-          "away_team": "Slavia Sofia"
+          "away_team": "Slavia Sofia",
+          "result": {
+            "full_time": "2-1"
+          }
         }
       ]
     }

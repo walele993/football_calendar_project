@@ -5271,9 +5271,12 @@
       "matches": [
         {
           "date": "2025-05-24",
-          "time": "15:00",
+          "time": "15:01",
           "home_team": "Sheffield United FC",
-          "away_team": "Sunderland AFC"
+          "away_team": "Sunderland AFC",
+          "result": {
+            "full_time": "1-2"
+          }
         }
       ]
     }

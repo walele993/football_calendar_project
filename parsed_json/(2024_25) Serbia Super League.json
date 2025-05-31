@@ -2483,25 +2483,37 @@
           "date": "2025-05-10",
           "time": "20:00",
           "home_team": "FK Radnički 1923",
-          "away_team": "FK Novi Pazar"
+          "away_team": "FK Novi Pazar",
+          "result": {
+            "full_time": "2-3"
+          }
         },
         {
           "date": "2025-05-11",
           "time": "16:30",
           "home_team": "OFK Beograd",
-          "away_team": "Mladost Lučani"
+          "away_team": "Mladost Lučani",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2025-05-11",
           "time": "19:00",
           "home_team": "Crvena Zvezda",
-          "away_team": "Vojvodina"
+          "away_team": "Vojvodina",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-05-11",
-          "time": "19:30",
+          "time": "20:00",
           "home_team": "Partizan",
-          "away_team": "TSC Bačka Topola"
+          "away_team": "TSC Bačka Topola",
+          "result": {
+            "full_time": "1-2"
+          }
         }
       ]
     },
@@ -2510,27 +2522,39 @@
       "matches": [
         {
           "date": "2025-05-17",
-          "time": "19:30",
+          "time": "18:30",
           "home_team": "FK Novi Pazar",
-          "away_team": "Crvena Zvezda"
+          "away_team": "Crvena Zvezda",
+          "result": {
+            "full_time": "3-3"
+          }
         },
         {
           "date": "2025-05-17",
-          "time": "19:30",
+          "time": "18:30",
           "home_team": "TSC Bačka Topola",
-          "away_team": "OFK Beograd"
+          "away_team": "OFK Beograd",
+          "result": {
+            "full_time": "3-2"
+          }
         },
         {
           "date": "2025-05-17",
-          "time": "19:30",
+          "time": "18:30",
           "home_team": "Mladost Lučani",
-          "away_team": "Partizan"
+          "away_team": "Partizan",
+          "result": {
+            "full_time": "0-4"
+          }
         },
         {
           "date": "2025-05-17",
-          "time": "19:30",
+          "time": "18:30",
           "home_team": "Vojvodina",
-          "away_team": "FK Radnički 1923"
+          "away_team": "FK Radnički 1923",
+          "result": {
+            "full_time": "0-0"
+          }
         }
       ]
     },
@@ -2539,27 +2563,39 @@
       "matches": [
         {
           "date": "2025-05-24",
-          "time": "19:30",
-          "home_team": "FK Radnički 1923",
-          "away_team": "TSC Bačka Topola"
-        },
-        {
-          "date": "2025-05-24",
-          "time": "19:30",
+          "time": "19:00",
           "home_team": "Crvena Zvezda",
-          "away_team": "Mladost Lučani"
+          "away_team": "Mladost Lučani",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
-          "date": "2025-05-24",
-          "time": "19:30",
+          "date": "2025-05-25",
+          "time": "19:00",
+          "home_team": "FK Radnički 1923",
+          "away_team": "TSC Bačka Topola",
+          "result": {
+            "full_time": "5-2"
+          }
+        },
+        {
+          "date": "2025-05-25",
+          "time": "19:00",
           "home_team": "Partizan",
-          "away_team": "Vojvodina"
+          "away_team": "Vojvodina",
+          "result": {
+            "full_time": "3-2"
+          }
         },
         {
-          "date": "2025-05-24",
-          "time": "19:30",
+          "date": "2025-05-25",
+          "time": "19:00",
           "home_team": "OFK Beograd",
-          "away_team": "FK Novi Pazar"
+          "away_team": "FK Novi Pazar",
+          "result": {
+            "full_time": "2-3"
+          }
         }
       ]
     },
@@ -2734,25 +2770,37 @@
           "date": "2025-05-10",
           "time": "18:00",
           "home_team": "Tekstilac Odžaci",
-          "away_team": "Jedinstvo Ub"
+          "away_team": "Jedinstvo Ub",
+          "result": {
+            "full_time": "2-3"
+          }
         },
         {
           "date": "2025-05-11",
           "time": "17:00",
           "home_team": "Spartak Subotica",
-          "away_team": "Radnički Niš"
+          "away_team": "Radnički Niš",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2025-05-12",
           "time": "18:00",
           "home_team": "FK Čukarički",
-          "away_team": "IMT Beograd"
+          "away_team": "IMT Beograd",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-05-12",
           "time": "20:00",
           "home_team": "Železničar Pančevo",
-          "away_team": "FK Napredak"
+          "away_team": "FK Napredak",
+          "result": {
+            "full_time": "1-1"
+          }
         }
       ]
     },
@@ -2760,28 +2808,40 @@
       "matchday": "Relegation, Matchday 36",
       "matches": [
         {
-          "date": "2025-05-17",
-          "time": "20:00",
+          "date": "2025-05-18",
+          "time": "17:00",
           "home_team": "Železničar Pančevo",
-          "away_team": "Spartak Subotica"
+          "away_team": "Spartak Subotica",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
-          "date": "2025-05-17",
-          "time": "20:00",
+          "date": "2025-05-18",
+          "time": "17:00",
           "home_team": "Tekstilac Odžaci",
-          "away_team": "FK Čukarički"
+          "away_team": "FK Čukarički",
+          "result": {
+            "full_time": "0-3"
+          }
         },
         {
-          "date": "2025-05-17",
-          "time": "20:00",
+          "date": "2025-05-18",
+          "time": "17:00",
           "home_team": "Jedinstvo Ub",
-          "away_team": "IMT Beograd"
+          "away_team": "IMT Beograd",
+          "result": {
+            "full_time": "0-3"
+          }
         },
         {
-          "date": "2025-05-17",
-          "time": "20:00",
+          "date": "2025-05-18",
+          "time": "17:00",
           "home_team": "FK Napredak",
-          "away_team": "Radnički Niš"
+          "away_team": "Radnički Niš",
+          "result": {
+            "full_time": "2-1"
+          }
         }
       ]
     },
@@ -2789,28 +2849,40 @@
       "matchday": "Relegation, Matchday 37",
       "matches": [
         {
-          "date": "2025-05-24",
-          "time": "20:00",
+          "date": "2025-05-23",
+          "time": "19:00",
           "home_team": "FK Čukarički",
-          "away_team": "Železničar Pančevo"
+          "away_team": "Železničar Pančevo",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2025-05-24",
-          "time": "20:00",
+          "time": "17:00",
           "home_team": "Spartak Subotica",
-          "away_team": "Tekstilac Odžaci"
+          "away_team": "Tekstilac Odžaci",
+          "result": {
+            "full_time": "2-4"
+          }
         },
         {
           "date": "2025-05-24",
-          "time": "20:00",
+          "time": "17:00",
           "home_team": "IMT Beograd",
-          "away_team": "FK Napredak"
+          "away_team": "FK Napredak",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2025-05-24",
-          "time": "20:00",
+          "time": "17:00",
           "home_team": "Radnički Niš",
-          "away_team": "Jedinstvo Ub"
+          "away_team": "Jedinstvo Ub",
+          "result": {
+            "full_time": "3-1"
+          }
         }
       ]
     }

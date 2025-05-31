@@ -1101,6 +1101,166 @@
           }
         }
       ]
+    },
+    {
+      "matchday": "Championship, Matchday 1",
+      "matches": [
+        {
+          "date": "2025-04-05",
+          "time": "16:30",
+          "home_team": "St. Joseph's FC",
+          "away_team": "Lincoln Red Imps",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2025-04-05",
+          "time": "19:30",
+          "home_team": "Lions Gibraltar",
+          "away_team": "FCB Magpies",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2025-04-06",
+          "time": "16:30",
+          "home_team": "Manchester 62 FC",
+          "away_team": "Europa FC",
+          "result": {
+            "full_time": "1-2"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Championship, Matchday 2",
+      "matches": [
+        {
+          "date": "2025-04-11",
+          "time": "21:00",
+          "home_team": "FCB Magpies",
+          "away_team": "St. Joseph's FC",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2025-04-12",
+          "time": "16:30",
+          "home_team": "Europa FC",
+          "away_team": "Lincoln Red Imps",
+          "result": {
+            "full_time": "0-4"
+          }
+        },
+        {
+          "date": "2025-04-13",
+          "time": "16:30",
+          "home_team": "Manchester 62 FC",
+          "away_team": "Lions Gibraltar",
+          "result": {
+            "full_time": "1-0"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Championship, Matchday 3",
+      "matches": [
+        {
+          "date": "2025-04-19",
+          "time": "16:30",
+          "home_team": "St. Joseph's FC",
+          "away_team": "Europa FC",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2025-04-19",
+          "time": "19:30",
+          "home_team": "FCB Magpies",
+          "away_team": "Manchester 62 FC",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2025-04-20",
+          "time": "16:30",
+          "home_team": "Lincoln Red Imps",
+          "away_team": "Lions Gibraltar",
+          "result": {
+            "full_time": "3-0"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Championship, Matchday 4",
+      "matches": [
+        {
+          "date": "2025-04-25",
+          "time": "21:00",
+          "home_team": "Lions Gibraltar",
+          "away_team": "Europa FC",
+          "result": {
+            "full_time": "1-4"
+          }
+        },
+        {
+          "date": "2025-04-26",
+          "time": "16:30",
+          "home_team": "Manchester 62 FC",
+          "away_team": "St. Joseph's FC",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2025-04-27",
+          "time": "16:30",
+          "home_team": "Lincoln Red Imps",
+          "away_team": "FCB Magpies",
+          "result": {
+            "full_time": "1-0"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Championship, Matchday 5",
+      "matches": [
+        {
+          "date": "2025-05-02",
+          "time": "21:00",
+          "home_team": "Manchester 62 FC",
+          "away_team": "Lincoln Red Imps",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2025-05-03",
+          "time": "16:30",
+          "home_team": "St. Joseph's FC",
+          "away_team": "Lions Gibraltar",
+          "result": {
+            "full_time": "6-0"
+          }
+        },
+        {
+          "date": "2025-05-04",
+          "time": "16:30",
+          "home_team": "Europa FC",
+          "away_team": "FCB Magpies",
+          "result": {
+            "full_time": "4-2"
+          }
+        }
+      ]
     }
   ]
 }

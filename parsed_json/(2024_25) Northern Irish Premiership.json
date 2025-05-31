@@ -1942,7 +1942,367 @@
           "date": "2025-03-24",
           "time": "20:00",
           "home_team": "Dungannon Swifts",
-          "away_team": "Linfield FC"
+          "away_team": "Linfield FC",
+          "result": {
+            "full_time": "0-3"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Championship, Matchday 1",
+      "matches": [
+        {
+          "date": "2025-04-01",
+          "time": "19:45",
+          "home_team": "Dungannon Swifts",
+          "away_team": "Larne FC",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2025-04-01",
+          "time": "19:45",
+          "home_team": "Glentoran FC",
+          "away_team": "Coleraine FC",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2025-04-01",
+          "time": "19:45",
+          "home_team": "Linfield FC",
+          "away_team": "Crusaders FC",
+          "result": {
+            "full_time": "3-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Championship, Matchday 2",
+      "matches": [
+        {
+          "date": "2025-04-05",
+          "time": "13:00",
+          "home_team": "Linfield FC",
+          "away_team": "Glentoran FC",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2025-04-05",
+          "time": "15:00",
+          "home_team": "Coleraine FC",
+          "away_team": "Dungannon Swifts",
+          "result": {
+            "full_time": "3-2"
+          }
+        },
+        {
+          "date": "2025-04-05",
+          "time": "15:00",
+          "home_team": "Crusaders FC",
+          "away_team": "Larne FC",
+          "result": {
+            "full_time": "2-2"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Championship, Matchday 3",
+      "matches": [
+        {
+          "date": "2025-04-12",
+          "time": "15:00",
+          "home_team": "Coleraine FC",
+          "away_team": "Larne FC",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2025-04-12",
+          "time": "15:00",
+          "home_team": "Crusaders FC",
+          "away_team": "Glentoran FC",
+          "result": {
+            "full_time": "0-4"
+          }
+        },
+        {
+          "date": "2025-04-12",
+          "time": "15:00",
+          "home_team": "Linfield FC",
+          "away_team": "Dungannon Swifts",
+          "result": {
+            "full_time": "2-0"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Championship, Matchday 4",
+      "matches": [
+        {
+          "date": "2025-04-18",
+          "time": "19:45",
+          "home_team": "Larne FC",
+          "away_team": "Linfield FC",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2025-04-19",
+          "time": "15:00",
+          "home_team": "Crusaders FC",
+          "away_team": "Coleraine FC",
+          "result": {
+            "full_time": "3-0"
+          }
+        },
+        {
+          "date": "2025-04-19",
+          "time": "15:00",
+          "home_team": "Dungannon Swifts",
+          "away_team": "Glentoran FC",
+          "result": {
+            "full_time": "3-2"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Championship, Matchday 5",
+      "matches": [
+        {
+          "date": "2025-04-26",
+          "time": "17:30",
+          "home_team": "Coleraine FC",
+          "away_team": "Linfield FC",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2025-04-26",
+          "time": "17:30",
+          "home_team": "Dungannon Swifts",
+          "away_team": "Crusaders FC",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2025-04-26",
+          "time": "17:30",
+          "home_team": "Larne FC",
+          "away_team": "Glentoran FC",
+          "result": {
+            "full_time": "0-0"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "ECL Playoffs, Semifinals",
+      "matches": [
+        {
+          "date": "2025-05-07",
+          "time": "19:45",
+          "home_team": "Glentoran FC",
+          "away_team": "Cliftonville FC",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2025-05-07",
+          "time": "19:45",
+          "home_team": "Coleraine FC",
+          "away_team": "Crusaders FC",
+          "result": {
+            "full_time": "1-0"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "ECL Playoffs, Final",
+      "matches": [
+        {
+          "date": "2025-05-11",
+          "time": "14:00",
+          "home_team": "Coleraine FC",
+          "away_team": "Cliftonville FC",
+          "result": {
+            "full_time": "0-2"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Relegation, Matchday 1",
+      "matches": [
+        {
+          "date": "2025-04-01",
+          "time": "19:45",
+          "home_team": "Ballymena United",
+          "away_team": "Loughgall FC",
+          "result": {
+            "full_time": "5-2"
+          }
+        },
+        {
+          "date": "2025-04-01",
+          "time": "19:45",
+          "home_team": "Carrick Rangers",
+          "away_team": "Cliftonville FC",
+          "result": {
+            "full_time": "1-3"
+          }
+        },
+        {
+          "date": "2025-04-01",
+          "time": "19:45",
+          "home_team": "Portadown FC",
+          "away_team": "Glenavon FC",
+          "result": {
+            "full_time": "1-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Relegation, Matchday 2",
+      "matches": [
+        {
+          "date": "2025-04-05",
+          "time": "15:00",
+          "home_team": "Carrick Rangers",
+          "away_team": "Portadown FC",
+          "result": {
+            "full_time": "4-1"
+          }
+        },
+        {
+          "date": "2025-04-05",
+          "time": "15:00",
+          "home_team": "Cliftonville FC",
+          "away_team": "Ballymena United",
+          "result": {
+            "full_time": "5-0"
+          }
+        },
+        {
+          "date": "2025-04-05",
+          "time": "15:00",
+          "home_team": "Glenavon FC",
+          "away_team": "Loughgall FC",
+          "result": {
+            "full_time": "0-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Relegation, Matchday 3",
+      "matches": [
+        {
+          "date": "2025-04-12",
+          "time": "15:00",
+          "home_team": "Ballymena United",
+          "away_team": "Carrick Rangers",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2025-04-12",
+          "time": "15:00",
+          "home_team": "Portadown FC",
+          "away_team": "Loughgall FC",
+          "result": {
+            "full_time": "3-1"
+          }
+        },
+        {
+          "date": "2025-04-12",
+          "time": "15:00",
+          "home_team": "Cliftonville FC",
+          "away_team": "Glenavon FC",
+          "result": {
+            "full_time": "2-0"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Relegation, Matchday 4",
+      "matches": [
+        {
+          "date": "2025-04-19",
+          "time": "15:00",
+          "home_team": "Glenavon FC",
+          "away_team": "Ballymena United",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2025-04-19",
+          "time": "15:00",
+          "home_team": "Loughgall FC",
+          "away_team": "Carrick Rangers",
+          "result": {
+            "full_time": "2-2"
+          }
+        },
+        {
+          "date": "2025-04-19",
+          "time": "15:00",
+          "home_team": "Portadown FC",
+          "away_team": "Cliftonville FC",
+          "result": {
+            "full_time": "2-0"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Relegation, Matchday 5",
+      "matches": [
+        {
+          "date": "2025-04-26",
+          "time": "15:00",
+          "home_team": "Carrick Rangers",
+          "away_team": "Glenavon FC",
+          "result": {
+            "full_time": "0-4"
+          }
+        },
+        {
+          "date": "2025-04-26",
+          "time": "17:30",
+          "home_team": "Loughgall FC",
+          "away_team": "Cliftonville FC",
+          "result": {
+            "full_time": "1-4"
+          }
+        },
+        {
+          "date": "2025-04-26",
+          "time": "17:30",
+          "home_team": "Portadown FC",
+          "away_team": "Ballymena United",
+          "result": {
+            "full_time": "2-1"
+          }
         }
       ]
     }

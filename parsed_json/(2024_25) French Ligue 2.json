@@ -2847,55 +2847,82 @@
           "date": "2025-05-10",
           "time": "17:00",
           "home_team": "FC Annecy",
-          "away_team": "Grenoble Foot 38"
+          "away_team": "Grenoble Foot 38",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2025-05-10",
           "time": "17:00",
           "home_team": "FC Lorient",
-          "away_team": "FC Martigues"
+          "away_team": "FC Martigues",
+          "result": {
+            "full_time": "5-1"
+          }
         },
         {
           "date": "2025-05-10",
           "time": "17:00",
           "home_team": "Paris FC",
-          "away_team": "AC Ajaccio"
+          "away_team": "AC Ajaccio",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2025-05-10",
           "time": "17:00",
           "home_team": "Pau FC",
-          "away_team": "EA Guingamp"
+          "away_team": "EA Guingamp",
+          "result": {
+            "full_time": "1-3"
+          }
         },
         {
           "date": "2025-05-10",
           "time": "17:00",
           "home_team": "Red Star FC",
-          "away_team": "USL Dunkerque"
+          "away_team": "USL Dunkerque",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-05-10",
           "time": "17:00",
           "home_team": "ESTAC Troyes",
-          "away_team": "Amiens SC"
+          "away_team": "Amiens SC",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2025-05-10",
           "time": "17:00",
           "home_team": "Rodez AF",
-          "away_team": "Clermont Foot 63"
+          "away_team": "Clermont Foot 63",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-05-10",
           "time": "17:00",
           "home_team": "SC Bastia",
-          "away_team": "SM Caen"
+          "away_team": "SM Caen",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2025-05-10",
           "time": "17:00",
           "home_team": "Stade Lavallois",
-          "away_team": "FC Metz"
+          "away_team": "FC Metz",
+          "result": {
+            "full_time": "2-3"
+          }
         }
       ]
     }

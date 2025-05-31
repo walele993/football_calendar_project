@@ -1659,31 +1659,46 @@
           "date": "2025-05-09",
           "time": "18:00",
           "home_team": "NK Osijek",
-          "away_team": "Lokomotiva Zagreb"
+          "away_team": "Lokomotiva Zagreb",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-05-10",
           "time": "17:00",
           "home_team": "HNK Šibenik",
-          "away_team": "HNK Rijeka"
+          "away_team": "HNK Rijeka",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2025-05-10",
           "time": "19:45",
           "home_team": "Dinamo Zagreb",
-          "away_team": "Slaven Belupo"
+          "away_team": "Slaven Belupo",
+          "result": {
+            "full_time": "5-0"
+          }
         },
         {
           "date": "2025-05-11",
           "time": "16:00",
           "home_team": "HNK Gorica",
-          "away_team": "Hajduk Split"
+          "away_team": "Hajduk Split",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-05-11",
           "time": "18:15",
           "home_team": "NK Istra 1961",
-          "away_team": "NK Varaždin"
+          "away_team": "NK Varaždin",
+          "result": {
+            "full_time": "0-0"
+          }
         }
       ]
     },
@@ -1694,31 +1709,46 @@
           "date": "2025-05-16",
           "time": "18:00",
           "home_team": "NK Istra 1961",
-          "away_team": "HNK Šibenik"
+          "away_team": "HNK Šibenik",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2025-05-17",
           "time": "17:00",
           "home_team": "NK Varaždin",
-          "away_team": "NK Osijek"
+          "away_team": "NK Osijek",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2025-05-17",
           "time": "19:15",
           "home_team": "Lokomotiva Zagreb",
-          "away_team": "Dinamo Zagreb"
+          "away_team": "Dinamo Zagreb",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-05-18",
           "time": "16:00",
           "home_team": "Slaven Belupo",
-          "away_team": "HNK Gorica"
+          "away_team": "HNK Gorica",
+          "result": {
+            "full_time": "4-0"
+          }
         },
         {
           "date": "2025-05-18",
           "time": "18:45",
           "home_team": "Hajduk Split",
-          "away_team": "HNK Rijeka"
+          "away_team": "HNK Rijeka",
+          "result": {
+            "full_time": "2-1"
+          }
         }
       ]
     },
@@ -1727,33 +1757,48 @@
       "matches": [
         {
           "date": "2025-05-24",
-          "time": "19:00",
-          "home_team": "Dinamo Zagreb",
-          "away_team": "NK Varaždin"
-        },
-        {
-          "date": "2025-05-24",
-          "time": "19:00",
+          "time": "19:15",
           "home_team": "HNK Gorica",
-          "away_team": "Lokomotiva Zagreb"
+          "away_team": "Lokomotiva Zagreb",
+          "result": {
+            "full_time": "0-3"
+          }
         },
         {
-          "date": "2025-05-24",
-          "time": "19:00",
+          "date": "2025-05-25",
+          "time": "17:00",
+          "home_team": "Dinamo Zagreb",
+          "away_team": "NK Varaždin",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2025-05-25",
+          "time": "17:00",
           "home_team": "HNK Rijeka",
-          "away_team": "Slaven Belupo"
+          "away_team": "Slaven Belupo",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
-          "date": "2025-05-24",
-          "time": "19:00",
+          "date": "2025-05-25",
+          "time": "17:00",
           "home_team": "NK Osijek",
-          "away_team": "NK Istra 1961"
+          "away_team": "NK Istra 1961",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
-          "date": "2025-05-24",
-          "time": "19:00",
+          "date": "2025-05-25",
+          "time": "17:00",
           "home_team": "HNK Šibenik",
-          "away_team": "Hajduk Split"
+          "away_team": "Hajduk Split",
+          "result": {
+            "full_time": "0-1"
+          }
         }
       ]
     }

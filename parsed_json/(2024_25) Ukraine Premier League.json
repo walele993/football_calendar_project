@@ -274,7 +274,7 @@
         },
         {
           "date": "2024-08-26",
-          "time": "16:30",
+          "time": "15:30",
           "home_team": "Livyi Bereh",
           "away_team": "Chernomorets Odessa",
           "result": {
@@ -283,7 +283,7 @@
         },
         {
           "date": "2024-08-26",
-          "time": "19:00",
+          "time": "18:00",
           "home_team": "Kolos Kovalivka",
           "away_team": "NK Veres",
           "result": {
@@ -292,7 +292,7 @@
         },
         {
           "date": "2024-08-26",
-          "time": "20:00",
+          "time": "19:00",
           "home_team": "FC LNZ Cherkasy",
           "away_team": "Karpaty Lviv",
           "result": {
@@ -378,9 +378,12 @@
         },
         {
           "date": "2025-04-16",
-          "time": "15:30",
+          "time": "14:45",
           "home_team": "Kryvbas Kryvyi Rih",
-          "away_team": "Shakhtar Donetsk"
+          "away_team": "Shakhtar Donetsk",
+          "result": {
+            "full_time": "1-2"
+          }
         }
       ]
     },
@@ -1222,9 +1225,12 @@
         },
         {
           "date": "2025-04-30",
-          "time": "15:30",
+          "time": "13:00",
           "home_team": "Inhulets Petrove",
-          "away_team": "Zorya Lugansk"
+          "away_team": "Zorya Lugansk",
+          "result": {
+            "full_time": "1-0"
+          }
         }
       ]
     },
@@ -1432,7 +1438,7 @@
         },
         {
           "date": "2025-03-02",
-          "time": "14:00",
+          "time": "13:00",
           "home_team": "Inhulets Petrove",
           "away_team": "Kryvbas Kryvyi Rih",
           "result": {
@@ -1577,12 +1583,6 @@
         },
         {
           "date": "2025-03-15",
-          "time": "15:30",
-          "home_team": "Kryvbas Kryvyi Rih",
-          "away_team": "Livyi Bereh              [abandoned]"
-        },
-        {
-          "date": "2025-03-15",
           "time": "18:00",
           "home_team": "Rukh Lviv",
           "away_team": "Vorskla Poltava",
@@ -1607,6 +1607,15 @@
           "result": {
             "full_time": "2-0"
           }
+        },
+        {
+          "date": "2025-05-07",
+          "time": "13:00",
+          "home_team": "Kryvbas Kryvyi Rih",
+          "away_team": "Livyi Bereh",
+          "result": {
+            "full_time": "4-0"
+          }
         }
       ]
     },
@@ -1615,51 +1624,75 @@
       "matches": [
         {
           "date": "2025-03-28",
-          "time": "15:30",
-          "home_team": "FC LNZ Cherkasy",
-          "away_team": "Polissya Zhytomyr"
+          "time": "13:00",
+          "home_team": "Inhulets Petrove",
+          "away_team": "NK Veres",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2025-03-28",
-          "time": "18:00",
-          "home_team": "Inhulets Petrove",
-          "away_team": "NK Veres"
+          "time": "15:30",
+          "home_team": "FC LNZ Cherkasy",
+          "away_team": "Polissya Zhytomyr",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2025-03-29",
           "time": "13:00",
           "home_team": "Livyi Bereh",
-          "away_team": "FK Oleksandriya"
+          "away_team": "FK Oleksandriya",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2025-03-29",
           "time": "15:30",
           "home_team": "FK Obolon",
-          "away_team": "Shakhtar Donetsk"
+          "away_team": "Shakhtar Donetsk",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2025-03-29",
           "time": "18:00",
           "home_team": "Rukh Lviv",
-          "away_team": "Dinamo Kiev"
+          "away_team": "Dinamo Kiev",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2025-03-30",
           "time": "13:00",
           "home_team": "Vorskla Poltava",
-          "away_team": "Kryvbas Kryvyi Rih"
+          "away_team": "Kryvbas Kryvyi Rih",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2025-03-30",
           "time": "15:30",
           "home_team": "Karpaty Lviv",
-          "away_team": "Chernomorets Odessa"
+          "away_team": "Chernomorets Odessa",
+          "result": {
+            "full_time": "4-0"
+          }
         },
         {
           "date": "2025-03-30",
           "time": "18:00",
           "home_team": "Zorya Lugansk",
-          "away_team": "Kolos Kovalivka"
+          "away_team": "Kolos Kovalivka",
+          "result": {
+            "full_time": "0-3"
+          }
         }
       ]
     },
@@ -1670,49 +1703,73 @@
           "date": "2025-04-04",
           "time": "15:30",
           "home_team": "Inhulets Petrove",
-          "away_team": "FK Obolon"
+          "away_team": "FK Obolon",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2025-04-05",
           "time": "13:00",
           "home_team": "Vorskla Poltava",
-          "away_team": "Zorya Lugansk"
+          "away_team": "Zorya Lugansk",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2025-04-05",
           "time": "15:30",
           "home_team": "Chernomorets Odessa",
-          "away_team": "FC LNZ Cherkasy"
+          "away_team": "FC LNZ Cherkasy",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2025-04-06",
           "time": "13:00",
           "home_team": "FK Oleksandriya",
-          "away_team": "Kryvbas Kryvyi Rih"
+          "away_team": "Kryvbas Kryvyi Rih",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2025-04-06",
           "time": "15:30",
           "home_team": "Dinamo Kiev",
-          "away_team": "Livyi Bereh"
+          "away_team": "Livyi Bereh",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2025-04-06",
           "time": "18:00",
           "home_team": "Shakhtar Donetsk",
-          "away_team": "NK Veres"
+          "away_team": "NK Veres",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2025-04-07",
           "time": "15:30",
           "home_team": "Kolos Kovalivka",
-          "away_team": "Rukh Lviv"
+          "away_team": "Rukh Lviv",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2025-04-07",
           "time": "18:00",
           "home_team": "Polissya Zhytomyr",
-          "away_team": "Karpaty Lviv"
+          "away_team": "Karpaty Lviv",
+          "result": {
+            "full_time": "1-1"
+          }
         }
       ]
     },
@@ -1720,52 +1777,76 @@
       "matchday": "Matchday 24",
       "matches": [
         {
-          "date": "2025-04-12",
-          "time": "18:00",
-          "home_team": "Vorskla Poltava",
-          "away_team": "Polissya Zhytomyr"
-        },
-        {
-          "date": "2025-04-12",
-          "time": "18:00",
-          "home_team": "Rukh Lviv",
-          "away_team": "FK Oleksandriya"
-        },
-        {
-          "date": "2025-04-12",
-          "time": "18:00",
-          "home_team": "Inhulets Petrove",
-          "away_team": "Karpaty Lviv"
-        },
-        {
-          "date": "2025-04-12",
-          "time": "18:00",
-          "home_team": "Kryvbas Kryvyi Rih",
-          "away_team": "Dinamo Kiev"
-        },
-        {
-          "date": "2025-04-12",
-          "time": "18:00",
-          "home_team": "Livyi Bereh",
-          "away_team": "Kolos Kovalivka"
-        },
-        {
-          "date": "2025-04-12",
-          "time": "18:00",
+          "date": "2025-04-11",
+          "time": "15:30",
           "home_team": "FC LNZ Cherkasy",
-          "away_team": "Shakhtar Donetsk"
+          "away_team": "Shakhtar Donetsk",
+          "result": {
+            "full_time": "1-4"
+          }
         },
         {
           "date": "2025-04-12",
-          "time": "18:00",
-          "home_team": "Zorya Lugansk",
-          "away_team": "NK Veres"
+          "time": "13:00",
+          "home_team": "Kryvbas Kryvyi Rih",
+          "away_team": "Dinamo Kiev",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2025-04-12",
+          "time": "15:30",
+          "home_team": "Rukh Lviv",
+          "away_team": "FK Oleksandriya",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-04-12",
           "time": "18:00",
           "home_team": "FK Obolon",
-          "away_team": "Chernomorets Odessa"
+          "away_team": "Chernomorets Odessa",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2025-04-13",
+          "time": "13:00",
+          "home_team": "Vorskla Poltava",
+          "away_team": "Polissya Zhytomyr",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2025-04-13",
+          "time": "15:30",
+          "home_team": "Livyi Bereh",
+          "away_team": "Kolos Kovalivka",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2025-04-13",
+          "time": "18:00",
+          "home_team": "Zorya Lugansk",
+          "away_team": "NK Veres",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2025-04-14",
+          "time": "15:30",
+          "home_team": "Inhulets Petrove",
+          "away_team": "Karpaty Lviv",
+          "result": {
+            "full_time": "1-2"
+          }
         }
       ]
     },
@@ -1773,52 +1854,76 @@
       "matchday": "Matchday 25",
       "matches": [
         {
-          "date": "2025-04-19",
+          "date": "2025-04-18",
+          "time": "13:00",
+          "home_team": "Vorskla Poltava",
+          "away_team": "FK Oleksandriya",
+          "result": {
+            "full_time": "1-3"
+          }
+        },
+        {
+          "date": "2025-04-18",
           "time": "18:00",
-          "home_team": "Karpaty Lviv",
-          "away_team": "Rukh Lviv"
+          "home_team": "Dinamo Kiev",
+          "away_team": "FK Obolon",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2025-04-19",
-          "time": "18:00",
-          "home_team": "NK Veres",
-          "away_team": "Chernomorets Odessa"
+          "time": "13:00",
+          "home_team": "Karpaty Lviv",
+          "away_team": "Rukh Lviv",
+          "result": {
+            "full_time": "3-1"
+          }
+        },
+        {
+          "date": "2025-04-19",
+          "time": "15:30",
+          "home_team": "Livyi Bereh",
+          "away_team": "Polissya Zhytomyr",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-04-19",
           "time": "18:00",
           "home_team": "Shakhtar Donetsk",
-          "away_team": "Kolos Kovalivka"
+          "away_team": "Kolos Kovalivka",
+          "result": {
+            "full_time": "2-4"
+          }
         },
         {
-          "date": "2025-04-19",
-          "time": "18:00",
-          "home_team": "Vorskla Poltava",
-          "away_team": "FK Oleksandriya"
-        },
-        {
-          "date": "2025-04-19",
-          "time": "18:00",
-          "home_team": "Dinamo Kiev",
-          "away_team": "FK Obolon"
-        },
-        {
-          "date": "2025-04-19",
-          "time": "18:00",
+          "date": "2025-04-20",
+          "time": "13:00",
           "home_team": "Kryvbas Kryvyi Rih",
-          "away_team": "Zorya Lugansk"
+          "away_team": "Zorya Lugansk",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
-          "date": "2025-04-19",
-          "time": "18:00",
-          "home_team": "Livyi Bereh",
-          "away_team": "Polissya Zhytomyr"
-        },
-        {
-          "date": "2025-04-19",
-          "time": "18:00",
+          "date": "2025-04-20",
+          "time": "15:30",
           "home_team": "Inhulets Petrove",
-          "away_team": "FC LNZ Cherkasy"
+          "away_team": "FC LNZ Cherkasy",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2025-04-20",
+          "time": "18:00",
+          "home_team": "NK Veres",
+          "away_team": "Chernomorets Odessa",
+          "result": {
+            "full_time": "2-1"
+          }
         }
       ]
     },
@@ -1826,52 +1931,76 @@
       "matchday": "Matchday 26",
       "matches": [
         {
+          "date": "2025-04-25",
+          "time": "15:30",
+          "home_team": "Inhulets Petrove",
+          "away_team": "FK Oleksandriya",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2025-04-25",
+          "time": "18:00",
+          "home_team": "Zorya Lugansk",
+          "away_team": "Livyi Bereh",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2025-04-26",
+          "time": "13:00",
+          "home_team": "Chernomorets Odessa",
+          "away_team": "Rukh Lviv",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2025-04-26",
+          "time": "15:30",
+          "home_team": "FC LNZ Cherkasy",
+          "away_team": "Kryvbas Kryvyi Rih",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
           "date": "2025-04-26",
           "time": "18:00",
           "home_team": "FK Obolon",
-          "away_team": "Karpaty Lviv"
+          "away_team": "Karpaty Lviv",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
-          "date": "2025-04-26",
+          "date": "2025-04-27",
+          "time": "13:00",
+          "home_team": "Vorskla Poltava",
+          "away_team": "NK Veres",
+          "result": {
+            "full_time": "3-0"
+          }
+        },
+        {
+          "date": "2025-04-27",
+          "time": "15:30",
+          "home_team": "Kolos Kovalivka",
+          "away_team": "Polissya Zhytomyr",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2025-04-27",
           "time": "18:00",
           "home_team": "Shakhtar Donetsk",
-          "away_team": "Dinamo Kiev"
-        },
-        {
-          "date": "2025-04-26",
-          "time": "18:00",
-          "home_team": "Chernomorets Odessa",
-          "away_team": "Rukh Lviv"
-        },
-        {
-          "date": "2025-04-26",
-          "time": "18:00",
-          "home_team": "FC LNZ Cherkasy",
-          "away_team": "Kryvbas Kryvyi Rih"
-        },
-        {
-          "date": "2025-04-26",
-          "time": "18:00",
-          "home_team": "Zorya Lugansk",
-          "away_team": "Livyi Bereh"
-        },
-        {
-          "date": "2025-04-26",
-          "time": "18:00",
-          "home_team": "FK Oleksandriya",
-          "away_team": "Inhulets Petrove"
-        },
-        {
-          "date": "2025-04-26",
-          "time": "18:00",
-          "home_team": "Kolos Kovalivka",
-          "away_team": "Polissya Zhytomyr"
-        },
-        {
-          "date": "2025-04-26",
-          "time": "18:00",
-          "home_team": "Vorskla Poltava",
-          "away_team": "NK Veres"
+          "away_team": "Dinamo Kiev",
+          "result": {
+            "full_time": "2-2"
+          }
         }
       ]
     },
@@ -1879,52 +2008,76 @@
       "matchday": "Matchday 27",
       "matches": [
         {
-          "date": "2025-05-03",
-          "time": "18:00",
-          "home_team": "Kolos Kovalivka",
-          "away_team": "Vorskla Poltava"
+          "date": "2025-05-02",
+          "time": "15:30",
+          "home_team": "Livyi Bereh",
+          "away_team": "Karpaty Lviv",
+          "result": {
+            "full_time": "2-3"
+          }
         },
         {
-          "date": "2025-05-03",
+          "date": "2025-05-02",
           "time": "18:00",
           "home_team": "Rukh Lviv",
-          "away_team": "Kryvbas Kryvyi Rih"
+          "away_team": "Kryvbas Kryvyi Rih",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2025-05-03",
-          "time": "18:00",
-          "home_team": "Dinamo Kiev",
-          "away_team": "Inhulets Petrove"
+          "time": "13:00",
+          "home_team": "Chernomorets Odessa",
+          "away_team": "Shakhtar Donetsk",
+          "result": {
+            "full_time": "0-3"
+          }
         },
         {
           "date": "2025-05-03",
-          "time": "18:00",
-          "home_team": "Livyi Bereh",
-          "away_team": "Karpaty Lviv"
-        },
-        {
-          "date": "2025-05-03",
-          "time": "18:00",
-          "home_team": "FC LNZ Cherkasy",
-          "away_team": "Zorya Lugansk"
-        },
-        {
-          "date": "2025-05-03",
-          "time": "18:00",
-          "home_team": "Polissya Zhytomyr",
-          "away_team": "FK Oleksandriya"
+          "time": "15:30",
+          "home_team": "Inhulets Petrove",
+          "away_team": "Dinamo Kiev",
+          "result": {
+            "full_time": "0-4"
+          }
         },
         {
           "date": "2025-05-03",
           "time": "18:00",
           "home_team": "NK Veres",
-          "away_team": "FK Obolon"
+          "away_team": "FK Obolon",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
-          "date": "2025-05-03",
+          "date": "2025-05-04",
+          "time": "13:00",
+          "home_team": "FC LNZ Cherkasy",
+          "away_team": "Zorya Lugansk",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2025-05-04",
+          "time": "15:30",
+          "home_team": "Kolos Kovalivka",
+          "away_team": "Vorskla Poltava",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2025-05-04",
           "time": "18:00",
-          "home_team": "Chernomorets Odessa",
-          "away_team": "Shakhtar Donetsk"
+          "home_team": "Polissya Zhytomyr",
+          "away_team": "FK Oleksandriya",
+          "result": {
+            "full_time": "1-2"
+          }
         }
       ]
     },
@@ -1932,52 +2085,76 @@
       "matchday": "Matchday 28",
       "matches": [
         {
-          "date": "2025-05-10",
+          "date": "2025-05-09",
+          "time": "15:30",
+          "home_team": "Zorya Lugansk",
+          "away_team": "Shakhtar Donetsk",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2025-05-09",
           "time": "18:00",
           "home_team": "Polissya Zhytomyr",
-          "away_team": "Dinamo Kiev"
+          "away_team": "Dinamo Kiev",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2025-05-10",
-          "time": "18:00",
-          "home_team": "Karpaty Lviv",
-          "away_team": "FK Oleksandriya"
+          "time": "13:00",
+          "home_team": "Vorskla Poltava",
+          "away_team": "Chernomorets Odessa",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2025-05-10",
+          "time": "15:30",
+          "home_team": "FK Obolon",
+          "away_team": "FC LNZ Cherkasy",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2025-05-10",
           "time": "18:00",
           "home_team": "Rukh Lviv",
-          "away_team": "NK Veres"
+          "away_team": "NK Veres",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
-          "date": "2025-05-10",
-          "time": "18:00",
+          "date": "2025-05-11",
+          "time": "13:00",
           "home_team": "Kryvbas Kryvyi Rih",
-          "away_team": "Kolos Kovalivka"
+          "away_team": "Kolos Kovalivka",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
-          "date": "2025-05-10",
+          "date": "2025-05-11",
           "time": "18:00",
+          "home_team": "Karpaty Lviv",
+          "away_team": "FK Oleksandriya",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2025-05-12",
+          "time": "15:30",
           "home_team": "Inhulets Petrove",
-          "away_team": "Livyi Bereh"
-        },
-        {
-          "date": "2025-05-10",
-          "time": "18:00",
-          "home_team": "Zorya Lugansk",
-          "away_team": "Shakhtar Donetsk"
-        },
-        {
-          "date": "2025-05-10",
-          "time": "18:00",
-          "home_team": "FK Obolon",
-          "away_team": "FC LNZ Cherkasy"
-        },
-        {
-          "date": "2025-05-10",
-          "time": "18:00",
-          "home_team": "Vorskla Poltava",
-          "away_team": "Chernomorets Odessa"
+          "away_team": "Livyi Bereh",
+          "result": {
+            "full_time": "2-1"
+          }
         }
       ]
     },
@@ -1986,51 +2163,75 @@
       "matches": [
         {
           "date": "2025-05-17",
-          "time": "18:00",
+          "time": "13:00",
           "home_team": "Zorya Lugansk",
-          "away_team": "Polissya Zhytomyr"
+          "away_team": "Polissya Zhytomyr",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2025-05-17",
-          "time": "18:00",
-          "home_team": "FK Oleksandriya",
-          "away_team": "NK Veres"
-        },
-        {
-          "date": "2025-05-17",
-          "time": "18:00",
-          "home_team": "Shakhtar Donetsk",
-          "away_team": "Inhulets Petrove"
-        },
-        {
-          "date": "2025-05-17",
-          "time": "18:00",
-          "home_team": "Livyi Bereh",
-          "away_team": "Rukh Lviv"
-        },
-        {
-          "date": "2025-05-17",
-          "time": "18:00",
-          "home_team": "Chernomorets Odessa",
-          "away_team": "Dinamo Kiev"
-        },
-        {
-          "date": "2025-05-17",
-          "time": "18:00",
+          "time": "13:00",
           "home_team": "Kryvbas Kryvyi Rih",
-          "away_team": "FK Obolon"
+          "away_team": "FK Obolon",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2025-05-17",
-          "time": "18:00",
+          "time": "13:00",
           "home_team": "Kolos Kovalivka",
-          "away_team": "Karpaty Lviv"
+          "away_team": "Karpaty Lviv",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
-          "date": "2025-05-17",
-          "time": "18:00",
+          "date": "2025-05-18",
+          "time": "15:30",
+          "home_team": "FK Oleksandriya",
+          "away_team": "NK Veres",
+          "result": {
+            "full_time": "3-1"
+          }
+        },
+        {
+          "date": "2025-05-18",
+          "time": "15:30",
+          "home_team": "Inhulets Petrove",
+          "away_team": "Shakhtar Donetsk",
+          "result": {
+            "full_time": "1-4"
+          }
+        },
+        {
+          "date": "2025-05-18",
+          "time": "15:30",
+          "home_team": "Livyi Bereh",
+          "away_team": "Rukh Lviv",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2025-05-18",
+          "time": "15:30",
+          "home_team": "Chernomorets Odessa",
+          "away_team": "Dinamo Kiev",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2025-05-18",
+          "time": "15:30",
           "home_team": "FC LNZ Cherkasy",
-          "away_team": "Vorskla Poltava"
+          "away_team": "Vorskla Poltava",
+          "result": {
+            "full_time": "0-0"
+          }
         }
       ]
     },
@@ -2038,52 +2239,76 @@
       "matchday": "Matchday 30",
       "matches": [
         {
-          "date": "2025-05-24",
-          "time": "18:00",
-          "home_team": "NK Veres",
-          "away_team": "FC LNZ Cherkasy"
-        },
-        {
-          "date": "2025-05-24",
-          "time": "18:00",
+          "date": "2025-05-23",
+          "time": "15:30",
           "home_team": "Inhulets Petrove",
-          "away_team": "Vorskla Poltava"
+          "away_team": "Vorskla Poltava",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2025-05-23",
+          "time": "15:30",
+          "home_team": "FK Obolon",
+          "away_team": "Livyi Bereh",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2025-05-24",
-          "time": "18:00",
+          "time": "13:00",
+          "home_team": "Chernomorets Odessa",
+          "away_team": "FK Oleksandriya",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2025-05-24",
+          "time": "15:30",
           "home_team": "Rukh Lviv",
-          "away_team": "Shakhtar Donetsk"
+          "away_team": "Shakhtar Donetsk",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-05-24",
           "time": "18:00",
           "home_team": "Dinamo Kiev",
-          "away_team": "Kolos Kovalivka"
+          "away_team": "Kolos Kovalivka",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
-          "date": "2025-05-24",
+          "date": "2025-05-25",
+          "time": "15:30",
+          "home_team": "NK Veres",
+          "away_team": "FC LNZ Cherkasy",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2025-05-25",
           "time": "18:00",
           "home_team": "Polissya Zhytomyr",
-          "away_team": "Kryvbas Kryvyi Rih"
+          "away_team": "Kryvbas Kryvyi Rih",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
-          "date": "2025-05-24",
-          "time": "18:00",
-          "home_team": "FK Obolon",
-          "away_team": "Livyi Bereh"
-        },
-        {
-          "date": "2025-05-24",
-          "time": "18:00",
-          "home_team": "Chernomorets Odessa",
-          "away_team": "FK Oleksandriya"
-        },
-        {
-          "date": "2025-05-24",
+          "date": "2025-05-25",
           "time": "18:00",
           "home_team": "Karpaty Lviv",
-          "away_team": "Zorya Lugansk"
+          "away_team": "Zorya Lugansk",
+          "result": {
+            "full_time": "1-3"
+          }
         }
       ]
     }

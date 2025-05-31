@@ -141,13 +141,19 @@
           "date": "2025-04-09",
           "time": "20:00",
           "home_team": "FC Ruggell II",
-          "away_team": "FC Balzers"
+          "away_team": "FC Balzers",
+          "result": {
+            "full_time": "0-15"
+          }
         },
         {
           "date": "2025-04-23",
           "time": "20:00",
           "home_team": "USV Eschen/Mauren",
-          "away_team": "FC Vaduz"
+          "away_team": "FC Vaduz",
+          "result": {
+            "full_time": "3-7"
+          }
         }
       ]
     },
@@ -157,8 +163,11 @@
         {
           "date": "2025-05-20",
           "time": "19:00",
-          "home_team": "N.N.",
-          "away_team": "N.N."
+          "home_team": "FC Balzers",
+          "away_team": "FC Vaduz",
+          "result": {
+            "full_time": "2-3"
+          }
         }
       ]
     }

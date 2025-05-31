@@ -1626,49 +1626,73 @@
           "date": "2025-03-28",
           "time": "20:00",
           "home_team": "FC Rodange 91",
-          "away_team": "Swift Hesperange"
+          "away_team": "Swift Hesperange",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2025-03-29",
           "time": "18:30",
           "home_team": "RFCU Luxemburg",
-          "away_team": "Progrès Niedercorn"
+          "away_team": "Progrès Niedercorn",
+          "result": {
+            "full_time": "1-3"
+          }
         },
         {
           "date": "2025-03-30",
           "time": "16:00",
           "home_team": "US Hostert",
-          "away_team": "SC Bettembourg"
+          "away_team": "SC Bettembourg",
+          "result": {
+            "full_time": "1-3"
+          }
         },
         {
           "date": "2025-03-30",
           "time": "16:00",
           "home_team": "Victoria Rosport",
-          "away_team": "Jeunesse Esch"
+          "away_team": "Jeunesse Esch",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-03-30",
           "time": "16:00",
           "home_team": "FC Differdange 03",
-          "away_team": "FC Mondercange"
+          "away_team": "FC Mondercange",
+          "result": {
+            "full_time": "4-0"
+          }
         },
         {
           "date": "2025-03-30",
           "time": "16:00",
           "home_team": "FC Wiltz 71",
-          "away_team": "Union Titus Pétange"
+          "away_team": "Union Titus Pétange",
+          "result": {
+            "full_time": "0-3"
+          }
         },
         {
           "date": "2025-03-30",
           "time": "16:00",
           "home_team": "UNA Strassen",
-          "away_team": "US Mondorf"
+          "away_team": "US Mondorf",
+          "result": {
+            "full_time": "1-3"
+          }
         },
         {
           "date": "2025-03-30",
           "time": "16:00",
           "home_team": "CS FOLA Esch",
-          "away_team": "F91 Dudelange"
+          "away_team": "F91 Dudelange",
+          "result": {
+            "full_time": "0-2"
+          }
         }
       ]
     },
@@ -1679,49 +1703,73 @@
           "date": "2025-04-05",
           "time": "18:00",
           "home_team": "Progrès Niedercorn",
-          "away_team": "UNA Strassen"
+          "away_team": "UNA Strassen",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2025-04-06",
           "time": "16:00",
           "home_team": "US Hostert",
-          "away_team": "F91 Dudelange"
+          "away_team": "F91 Dudelange",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-04-06",
           "time": "16:00",
           "home_team": "US Mondorf",
-          "away_team": "CS FOLA Esch"
+          "away_team": "CS FOLA Esch",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2025-04-06",
           "time": "16:00",
           "home_team": "Union Titus Pétange",
-          "away_team": "RFCU Luxemburg"
+          "away_team": "RFCU Luxemburg",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2025-04-06",
           "time": "16:00",
           "home_team": "Swift Hesperange",
-          "away_team": "FC Wiltz 71"
+          "away_team": "FC Wiltz 71",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2025-04-06",
           "time": "16:00",
           "home_team": "FC Mondercange",
-          "away_team": "FC Rodange 91"
+          "away_team": "FC Rodange 91",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2025-04-06",
           "time": "16:00",
           "home_team": "Jeunesse Esch",
-          "away_team": "FC Differdange 03"
+          "away_team": "FC Differdange 03",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2025-04-06",
           "time": "16:00",
           "home_team": "SC Bettembourg",
-          "away_team": "Victoria Rosport"
+          "away_team": "Victoria Rosport",
+          "result": {
+            "full_time": "1-2"
+          }
         }
       ]
     },
@@ -1730,51 +1778,75 @@
       "matches": [
         {
           "date": "2025-04-12",
+          "time": "15:00",
+          "home_team": "RFCU Luxemburg",
+          "away_team": "Swift Hesperange",
+          "result": {
+            "full_time": "3-1"
+          }
+        },
+        {
+          "date": "2025-04-12",
           "time": "17:00",
           "home_team": "FC Differdange 03",
-          "away_team": "SC Bettembourg"
+          "away_team": "SC Bettembourg",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2025-04-13",
           "time": "16:00",
           "home_team": "Victoria Rosport",
-          "away_team": "US Hostert"
+          "away_team": "US Hostert",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2025-04-13",
           "time": "16:00",
           "home_team": "FC Rodange 91",
-          "away_team": "Jeunesse Esch"
+          "away_team": "Jeunesse Esch",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2025-04-13",
           "time": "16:00",
           "home_team": "FC Wiltz 71",
-          "away_team": "FC Mondercange"
-        },
-        {
-          "date": "2025-04-13",
-          "time": "16:00",
-          "home_team": "RFCU Luxemburg",
-          "away_team": "Swift Hesperange"
+          "away_team": "FC Mondercange",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2025-04-13",
           "time": "16:00",
           "home_team": "UNA Strassen",
-          "away_team": "Union Titus Pétange"
+          "away_team": "Union Titus Pétange",
+          "result": {
+            "full_time": "4-0"
+          }
         },
         {
           "date": "2025-04-13",
           "time": "16:00",
           "home_team": "CS FOLA Esch",
-          "away_team": "Progrès Niedercorn"
+          "away_team": "Progrès Niedercorn",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2025-04-13",
           "time": "16:00",
           "home_team": "F91 Dudelange",
-          "away_team": "US Mondorf"
+          "away_team": "US Mondorf",
+          "result": {
+            "full_time": "3-0"
+          }
         }
       ]
     },
@@ -1782,52 +1854,76 @@
       "matchday": "Matchday 25",
       "matches": [
         {
-          "date": "2025-04-19",
-          "time": "16:00",
-          "home_team": "US Hostert",
-          "away_team": "US Mondorf"
-        },
-        {
-          "date": "2025-04-19",
-          "time": "16:00",
-          "home_team": "Progrès Niedercorn",
-          "away_team": "F91 Dudelange"
-        },
-        {
-          "date": "2025-04-19",
-          "time": "16:00",
+          "date": "2025-04-18",
+          "time": "20:00",
           "home_team": "Union Titus Pétange",
-          "away_team": "CS FOLA Esch"
+          "away_team": "CS FOLA Esch",
+          "result": {
+            "full_time": "2-4"
+          }
         },
         {
-          "date": "2025-04-19",
-          "time": "16:00",
-          "home_team": "Swift Hesperange",
-          "away_team": "UNA Strassen"
-        },
-        {
-          "date": "2025-04-19",
-          "time": "16:00",
+          "date": "2025-04-18",
+          "time": "20:00",
           "home_team": "FC Mondercange",
-          "away_team": "RFCU Luxemburg"
+          "away_team": "RFCU Luxemburg",
+          "result": {
+            "full_time": "0-4"
+          }
         },
         {
           "date": "2025-04-19",
-          "time": "16:00",
+          "time": "17:00",
           "home_team": "Jeunesse Esch",
-          "away_team": "FC Wiltz 71"
+          "away_team": "FC Wiltz 71",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-04-19",
-          "time": "16:00",
-          "home_team": "SC Bettembourg",
-          "away_team": "FC Rodange 91"
-        },
-        {
-          "date": "2025-04-19",
-          "time": "16:00",
+          "time": "17:00",
           "home_team": "Victoria Rosport",
-          "away_team": "FC Differdange 03"
+          "away_team": "FC Differdange 03",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2025-04-19",
+          "time": "18:00",
+          "home_team": "US Hostert",
+          "away_team": "US Mondorf",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2025-04-19",
+          "time": "18:00",
+          "home_team": "Progrès Niedercorn",
+          "away_team": "F91 Dudelange",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2025-04-19",
+          "time": "18:00",
+          "home_team": "Swift Hesperange",
+          "away_team": "UNA Strassen",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2025-04-19",
+          "time": "18:00",
+          "home_team": "SC Bettembourg",
+          "away_team": "FC Rodange 91",
+          "result": {
+            "full_time": "1-2"
+          }
         }
       ]
     },
@@ -1838,49 +1934,73 @@
           "date": "2025-04-27",
           "time": "16:00",
           "home_team": "FC Differdange 03",
-          "away_team": "US Hostert"
+          "away_team": "US Hostert",
+          "result": {
+            "full_time": "4-0"
+          }
         },
         {
           "date": "2025-04-27",
           "time": "16:00",
           "home_team": "FC Rodange 91",
-          "away_team": "Victoria Rosport"
+          "away_team": "Victoria Rosport",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2025-04-27",
           "time": "16:00",
           "home_team": "FC Wiltz 71",
-          "away_team": "SC Bettembourg"
+          "away_team": "SC Bettembourg",
+          "result": {
+            "full_time": "3-2"
+          }
         },
         {
           "date": "2025-04-27",
           "time": "16:00",
           "home_team": "RFCU Luxemburg",
-          "away_team": "Jeunesse Esch"
+          "away_team": "Jeunesse Esch",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2025-04-27",
           "time": "16:00",
           "home_team": "UNA Strassen",
-          "away_team": "FC Mondercange"
+          "away_team": "FC Mondercange",
+          "result": {
+            "full_time": "5-0"
+          }
         },
         {
           "date": "2025-04-27",
           "time": "16:00",
           "home_team": "CS FOLA Esch",
-          "away_team": "Swift Hesperange"
+          "away_team": "Swift Hesperange",
+          "result": {
+            "full_time": "0-3"
+          }
         },
         {
           "date": "2025-04-27",
           "time": "16:00",
           "home_team": "F91 Dudelange",
-          "away_team": "Union Titus Pétange"
+          "away_team": "Union Titus Pétange",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-04-27",
           "time": "16:00",
           "home_team": "US Mondorf",
-          "away_team": "Progrès Niedercorn"
+          "away_team": "Progrès Niedercorn",
+          "result": {
+            "full_time": "2-1"
+          }
         }
       ]
     },
@@ -1888,52 +2008,76 @@
       "matchday": "Matchday 27",
       "matches": [
         {
+          "date": "2025-05-03",
+          "time": "17:00",
+          "home_team": "Swift Hesperange",
+          "away_team": "F91 Dudelange",
+          "result": {
+            "full_time": "0-4"
+          }
+        },
+        {
           "date": "2025-05-04",
           "time": "16:00",
           "home_team": "US Hostert",
-          "away_team": "Progrès Niedercorn"
+          "away_team": "Progrès Niedercorn",
+          "result": {
+            "full_time": "1-3"
+          }
         },
         {
           "date": "2025-05-04",
           "time": "16:00",
           "home_team": "FC Differdange 03",
-          "away_team": "FC Rodange 91"
+          "away_team": "FC Rodange 91",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2025-05-04",
           "time": "16:00",
           "home_team": "Victoria Rosport",
-          "away_team": "FC Wiltz 71"
+          "away_team": "FC Wiltz 71",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-05-04",
           "time": "16:00",
           "home_team": "SC Bettembourg",
-          "away_team": "RFCU Luxemburg"
+          "away_team": "RFCU Luxemburg",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2025-05-04",
           "time": "16:00",
           "home_team": "Jeunesse Esch",
-          "away_team": "UNA Strassen"
+          "away_team": "UNA Strassen",
+          "result": {
+            "full_time": "3-2"
+          }
         },
         {
           "date": "2025-05-04",
           "time": "16:00",
           "home_team": "FC Mondercange",
-          "away_team": "CS FOLA Esch"
-        },
-        {
-          "date": "2025-05-04",
-          "time": "16:00",
-          "home_team": "Swift Hesperange",
-          "away_team": "F91 Dudelange"
+          "away_team": "CS FOLA Esch",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2025-05-04",
           "time": "16:00",
           "home_team": "Union Titus Pétange",
-          "away_team": "US Mondorf"
+          "away_team": "US Mondorf",
+          "result": {
+            "full_time": "1-2"
+          }
         }
       ]
     },
@@ -1941,52 +2085,76 @@
       "matchday": "Matchday 28",
       "matches": [
         {
-          "date": "2025-05-11",
-          "time": "16:00",
-          "home_team": "FC Rodange 91",
-          "away_team": "US Hostert"
+          "date": "2025-05-10",
+          "time": "17:00",
+          "home_team": "FC Wiltz 71",
+          "away_team": "FC Differdange 03",
+          "result": {
+            "full_time": "0-4"
+          }
+        },
+        {
+          "date": "2025-05-10",
+          "time": "18:00",
+          "home_team": "Progrès Niedercorn",
+          "away_team": "Union Titus Pétange",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2025-05-11",
           "time": "16:00",
-          "home_team": "FC Wiltz 71",
-          "away_team": "FC Differdange 03"
+          "home_team": "FC Rodange 91",
+          "away_team": "US Hostert",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-05-11",
           "time": "16:00",
           "home_team": "RFCU Luxemburg",
-          "away_team": "Victoria Rosport"
+          "away_team": "Victoria Rosport",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2025-05-11",
           "time": "16:00",
           "home_team": "UNA Strassen",
-          "away_team": "SC Bettembourg"
-        },
-        {
-          "date": "2025-05-11",
-          "time": "16:00",
-          "home_team": "CS FOLA Esch",
-          "away_team": "Jeunesse Esch"
+          "away_team": "SC Bettembourg",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2025-05-11",
           "time": "16:00",
           "home_team": "F91 Dudelange",
-          "away_team": "FC Mondercange"
+          "away_team": "FC Mondercange",
+          "result": {
+            "full_time": "2-3"
+          }
         },
         {
           "date": "2025-05-11",
           "time": "16:00",
           "home_team": "US Mondorf",
-          "away_team": "Swift Hesperange"
+          "away_team": "Swift Hesperange",
+          "result": {
+            "full_time": "4-0"
+          }
         },
         {
-          "date": "2025-05-11",
-          "time": "16:00",
-          "home_team": "Progrès Niedercorn",
-          "away_team": "Union Titus Pétange"
+          "date": "2025-05-12",
+          "time": "20:00",
+          "home_team": "CS FOLA Esch",
+          "away_team": "Jeunesse Esch",
+          "result": {
+            "full_time": "0-1"
+          }
         }
       ]
     },
@@ -1997,49 +2165,73 @@
           "date": "2025-05-18",
           "time": "16:00",
           "home_team": "US Hostert",
-          "away_team": "Union Titus Pétange"
+          "away_team": "Union Titus Pétange",
+          "result": {
+            "full_time": "1-8"
+          }
         },
         {
           "date": "2025-05-18",
           "time": "16:00",
           "home_team": "Swift Hesperange",
-          "away_team": "Progrès Niedercorn"
+          "away_team": "Progrès Niedercorn",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2025-05-18",
           "time": "16:00",
           "home_team": "FC Mondercange",
-          "away_team": "US Mondorf"
+          "away_team": "US Mondorf",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2025-05-18",
           "time": "16:00",
           "home_team": "Jeunesse Esch",
-          "away_team": "F91 Dudelange"
+          "away_team": "F91 Dudelange",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2025-05-18",
           "time": "16:00",
           "home_team": "SC Bettembourg",
-          "away_team": "CS FOLA Esch"
+          "away_team": "CS FOLA Esch",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2025-05-18",
           "time": "16:00",
           "home_team": "Victoria Rosport",
-          "away_team": "UNA Strassen"
+          "away_team": "UNA Strassen",
+          "result": {
+            "full_time": "0-3"
+          }
         },
         {
           "date": "2025-05-18",
           "time": "16:00",
           "home_team": "FC Differdange 03",
-          "away_team": "RFCU Luxemburg"
+          "away_team": "RFCU Luxemburg",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-05-18",
           "time": "16:00",
           "home_team": "FC Rodange 91",
-          "away_team": "FC Wiltz 71"
+          "away_team": "FC Wiltz 71",
+          "result": {
+            "full_time": "4-2"
+          }
         }
       ]
     },
@@ -2050,49 +2242,73 @@
           "date": "2025-05-25",
           "time": "16:00",
           "home_team": "FC Wiltz 71",
-          "away_team": "US Hostert"
+          "away_team": "US Hostert",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2025-05-25",
           "time": "16:00",
           "home_team": "RFCU Luxemburg",
-          "away_team": "FC Rodange 91"
+          "away_team": "FC Rodange 91",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2025-05-25",
           "time": "16:00",
           "home_team": "UNA Strassen",
-          "away_team": "FC Differdange 03"
+          "away_team": "FC Differdange 03",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2025-05-25",
           "time": "16:00",
           "home_team": "CS FOLA Esch",
-          "away_team": "Victoria Rosport"
+          "away_team": "Victoria Rosport",
+          "result": {
+            "full_time": "1-4"
+          }
         },
         {
           "date": "2025-05-25",
           "time": "16:00",
           "home_team": "F91 Dudelange",
-          "away_team": "SC Bettembourg"
+          "away_team": "SC Bettembourg",
+          "result": {
+            "full_time": "5-0"
+          }
         },
         {
           "date": "2025-05-25",
           "time": "16:00",
           "home_team": "US Mondorf",
-          "away_team": "Jeunesse Esch"
+          "away_team": "Jeunesse Esch",
+          "result": {
+            "full_time": "4-1"
+          }
         },
         {
           "date": "2025-05-25",
           "time": "16:00",
           "home_team": "Progrès Niedercorn",
-          "away_team": "FC Mondercange"
+          "away_team": "FC Mondercange",
+          "result": {
+            "full_time": "7-2"
+          }
         },
         {
           "date": "2025-05-25",
           "time": "16:00",
           "home_team": "Union Titus Pétange",
-          "away_team": "Swift Hesperange"
+          "away_team": "Swift Hesperange",
+          "result": {
+            "full_time": "0-3"
+          }
         }
       ]
     }

@@ -1445,7 +1445,10 @@
           "date": "2025-05-07",
           "time": "18:45",
           "home_team": "NK Maribor",
-          "away_team": "NK Celje"
+          "away_team": "NK Celje",
+          "result": {
+            "full_time": "1-1"
+          }
         }
       ]
     },
@@ -1656,31 +1659,46 @@
           "date": "2025-05-10",
           "time": "15:00",
           "home_team": "NK Bravo",
-          "away_team": "NK Radomlje"
+          "away_team": "NK Radomlje",
+          "result": {
+            "full_time": "4-0"
+          }
         },
         {
           "date": "2025-05-10",
           "time": "17:30",
           "home_team": "NK Celje",
-          "away_team": "FC Koper"
+          "away_team": "FC Koper",
+          "result": {
+            "full_time": "2-3"
+          }
         },
         {
           "date": "2025-05-10",
           "time": "20:15",
           "home_team": "NŠ Mura",
-          "away_team": "Olimpija Ljubljana"
+          "away_team": "Olimpija Ljubljana",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-05-11",
           "time": "15:00",
           "home_team": "NK Domžale",
-          "away_team": "NK Nafta"
+          "away_team": "NK Nafta",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2025-05-11",
           "time": "17:30",
           "home_team": "NK Maribor",
-          "away_team": "ND Primorje"
+          "away_team": "ND Primorje",
+          "result": {
+            "full_time": "3-1"
+          }
         }
       ]
     },
@@ -1689,33 +1707,48 @@
       "matches": [
         {
           "date": "2025-05-17",
-          "time": "17:30",
-          "home_team": "NK Domžale",
-          "away_team": "NK Bravo"
-        },
-        {
-          "date": "2025-05-17",
-          "time": "17:30",
-          "home_team": "NK Nafta",
-          "away_team": "NK Celje"
-        },
-        {
-          "date": "2025-05-17",
-          "time": "17:30",
-          "home_team": "FC Koper",
-          "away_team": "NK Maribor"
+          "time": "15:00",
+          "home_team": "Olimpija Ljubljana",
+          "away_team": "NK Radomlje",
+          "result": {
+            "full_time": "5-0"
+          }
         },
         {
           "date": "2025-05-17",
           "time": "17:30",
           "home_team": "ND Primorje",
-          "away_team": "NŠ Mura"
+          "away_team": "NŠ Mura",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
-          "date": "2025-05-17",
+          "date": "2025-05-18",
+          "time": "15:00",
+          "home_team": "NK Domžale",
+          "away_team": "NK Bravo",
+          "result": {
+            "full_time": "2-2"
+          }
+        },
+        {
+          "date": "2025-05-18",
           "time": "17:30",
-          "home_team": "Olimpija Ljubljana",
-          "away_team": "NK Radomlje"
+          "home_team": "NK Nafta",
+          "away_team": "NK Celje",
+          "result": {
+            "full_time": "1-6"
+          }
+        },
+        {
+          "date": "2025-05-18",
+          "time": "20:15",
+          "home_team": "FC Koper",
+          "away_team": "NK Maribor",
+          "result": {
+            "full_time": "1-1"
+          }
         }
       ]
     },
@@ -1723,34 +1756,49 @@
       "matchday": "Matchday 36",
       "matches": [
         {
-          "date": "2025-05-24",
-          "time": "17:30",
-          "home_team": "NK Bravo",
-          "away_team": "Olimpija Ljubljana"
-        },
-        {
-          "date": "2025-05-24",
+          "date": "2025-05-23",
           "time": "17:30",
           "home_team": "NK Radomlje",
-          "away_team": "ND Primorje"
+          "away_team": "ND Primorje",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2025-05-24",
+          "time": "15:00",
+          "home_team": "NK Bravo",
+          "away_team": "Olimpija Ljubljana",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2025-05-25",
+          "time": "15:00",
+          "home_team": "NK Maribor",
+          "away_team": "NK Nafta",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2025-05-25",
+          "time": "15:00",
+          "home_team": "NK Celje",
+          "away_team": "NK Domžale",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2025-05-25",
           "time": "17:30",
           "home_team": "NŠ Mura",
-          "away_team": "FC Koper"
-        },
-        {
-          "date": "2025-05-24",
-          "time": "17:30",
-          "home_team": "NK Maribor",
-          "away_team": "NK Nafta"
-        },
-        {
-          "date": "2025-05-24",
-          "time": "17:30",
-          "home_team": "NK Celje",
-          "away_team": "NK Domžale"
+          "away_team": "FC Koper",
+          "result": {
+            "full_time": "1-3"
+          }
         }
       ]
     }

@@ -1703,13 +1703,19 @@
           "date": "2025-05-08",
           "time": "21:00",
           "home_team": "FK Bodø/Glimt (NOR)",
-          "away_team": "Tottenham Hotspur (ENG)"
+          "away_team": "Tottenham Hotspur (ENG)",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2025-05-08",
           "time": "21:00",
           "home_team": "Manchester United (ENG)",
-          "away_team": "Athletic Club (ESP)"
+          "away_team": "Athletic Club (ESP)",
+          "result": {
+            "full_time": "4-1"
+          }
         }
       ]
     },
@@ -1719,8 +1725,11 @@
         {
           "date": "2025-05-21",
           "time": "21:00",
-          "home_team": "N.N.",
-          "away_team": "N.N."
+          "home_team": "Tottenham Hotspur (ENG)",
+          "away_team": "Manchester United (ENG)",
+          "result": {
+            "full_time": "1-0"
+          }
         }
       ]
     }

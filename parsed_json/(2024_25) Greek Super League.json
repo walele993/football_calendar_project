@@ -1892,13 +1892,19 @@
           "date": "2025-05-11",
           "time": "20:00",
           "home_team": "PAOK Saloniki",
-          "away_team": "AEK Athen"
+          "away_team": "AEK Athen",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2025-05-11",
           "time": "20:00",
           "home_team": "Panathinaikos",
-          "away_team": "Olympiakos Piraeus"
+          "away_team": "Olympiakos Piraeus",
+          "result": {
+            "full_time": "0-1"
+          }
         }
       ]
     },
@@ -2022,15 +2028,21 @@
       "matches": [
         {
           "date": "2025-05-10",
-          "time": "20:00",
+          "time": "18:30",
           "home_team": "Aris Saloniki",
-          "away_team": "Asteras Tripolis"
+          "away_team": "Asteras Tripolis",
+          "result": {
+            "full_time": "4-2"
+          }
         },
         {
           "date": "2025-05-10",
-          "time": "20:00",
+          "time": "19:15",
           "home_team": "Atromitos",
-          "away_team": "OFI Heraklion"
+          "away_team": "OFI Heraklion",
+          "result": {
+            "full_time": "0-0"
+          }
         }
       ]
     },
@@ -2201,19 +2213,28 @@
           "date": "2025-05-05",
           "time": "18:00",
           "home_team": "Panserraikos",
-          "away_team": "Volos NFC"
+          "away_team": "Volos NFC",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2025-05-05",
           "time": "18:00",
           "home_team": "GS Kallithea",
-          "away_team": "Panetolikos"
+          "away_team": "Panetolikos",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2025-05-05",
           "time": "20:00",
           "home_team": "Lamia",
-          "away_team": "Levadiakos"
+          "away_team": "Levadiakos",
+          "result": {
+            "full_time": "2-3"
+          }
         }
       ]
     },
@@ -2224,19 +2245,28 @@
           "date": "2025-05-10",
           "time": "17:00",
           "home_team": "Levadiakos",
-          "away_team": "GS Kallithea"
+          "away_team": "GS Kallithea",
+          "result": {
+            "full_time": "4-1"
+          }
         },
         {
           "date": "2025-05-10",
           "time": "17:00",
           "home_team": "Lamia",
-          "away_team": "Panserraikos"
+          "away_team": "Panserraikos",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2025-05-10",
           "time": "20:00",
           "home_team": "Panetolikos",
-          "away_team": "Volos NFC"
+          "away_team": "Volos NFC",
+          "result": {
+            "full_time": "0-3"
+          }
         }
       ]
     },
@@ -2245,21 +2275,30 @@
       "matches": [
         {
           "date": "2025-05-14",
+          "time": "18:00",
+          "home_team": "Levadiakos",
+          "away_team": "Panetolikos",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2025-05-14",
           "time": "20:00",
           "home_team": "GS Kallithea",
-          "away_team": "Panserraikos"
+          "away_team": "Panserraikos",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-05-14",
           "time": "20:00",
           "home_team": "Volos NFC",
-          "away_team": "Lamia"
-        },
-        {
-          "date": "2025-05-14",
-          "time": "20:00",
-          "home_team": "Levadiakos",
-          "away_team": "Panetolikos"
+          "away_team": "Lamia",
+          "result": {
+            "full_time": "3-0"
+          }
         }
       ]
     },
@@ -2268,21 +2307,30 @@
       "matches": [
         {
           "date": "2025-05-18",
+          "time": "15:00",
+          "home_team": "Panserraikos",
+          "away_team": "Levadiakos",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2025-05-18",
+          "time": "18:00",
+          "home_team": "Lamia",
+          "away_team": "Panetolikos",
+          "result": {
+            "full_time": "1-3"
+          }
+        },
+        {
+          "date": "2025-05-18",
           "time": "20:00",
           "home_team": "Volos NFC",
-          "away_team": "GS Kallithea"
-        },
-        {
-          "date": "2025-05-18",
-          "time": "20:00",
-          "home_team": "Panserraikos",
-          "away_team": "Levadiakos"
-        },
-        {
-          "date": "2025-05-18",
-          "time": "20:00",
-          "home_team": "Lamia",
-          "away_team": "Panetolikos"
+          "away_team": "GS Kallithea",
+          "result": {
+            "full_time": "0-2"
+          }
         }
       ]
     },
@@ -2291,21 +2339,30 @@
       "matches": [
         {
           "date": "2025-05-22",
+          "time": "18:00",
+          "home_team": "Levadiakos",
+          "away_team": "Volos NFC",
+          "result": {
+            "full_time": "3-2"
+          }
+        },
+        {
+          "date": "2025-05-22",
+          "time": "18:00",
+          "home_team": "Panetolikos",
+          "away_team": "Panserraikos",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2025-05-22",
           "time": "20:00",
           "home_team": "GS Kallithea",
-          "away_team": "Lamia"
-        },
-        {
-          "date": "2025-05-22",
-          "time": "20:00",
-          "home_team": "Levadiakos",
-          "away_team": "Volos NFC"
-        },
-        {
-          "date": "2025-05-22",
-          "time": "20:00",
-          "home_team": "Panetolikos",
-          "away_team": "Panserraikos"
+          "away_team": "Lamia",
+          "result": {
+            "full_time": "3-0"
+          }
         }
       ]
     }

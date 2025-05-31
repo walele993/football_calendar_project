@@ -1425,37 +1425,55 @@
           "date": "2025-03-28",
           "time": "20:00",
           "home_team": "Kecskeméti TE",
-          "away_team": "Debreceni VSC"
+          "away_team": "Debreceni VSC",
+          "result": {
+            "full_time": "1-3"
+          }
         },
         {
           "date": "2025-03-29",
           "time": "14:30",
           "home_team": "Győri ETO FC",
-          "away_team": "MTK Budapest"
+          "away_team": "MTK Budapest",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2025-03-29",
           "time": "17:00",
           "home_team": "Zalaegerszegi TE",
-          "away_team": "Paksi SE"
+          "away_team": "Paksi SE",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-03-29",
           "time": "19:30",
           "home_team": "Nyíregyháza Spartacus",
-          "away_team": "Puskás FC"
+          "away_team": "Puskás FC",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2025-03-30",
           "time": "14:30",
           "home_team": "Újpest FC",
-          "away_team": "Fehérvár FC"
+          "away_team": "Fehérvár FC",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2025-03-30",
           "time": "17:00",
           "home_team": "Diósgyöri VTK",
-          "away_team": "Ferencvárosi TC"
+          "away_team": "Ferencvárosi TC",
+          "result": {
+            "full_time": "1-1"
+          }
         }
       ]
     },
@@ -1466,37 +1484,55 @@
           "date": "2025-04-05",
           "time": "14:30",
           "home_team": "Kecskeméti TE",
-          "away_team": "Győri ETO FC"
+          "away_team": "Győri ETO FC",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-04-05",
           "time": "17:00",
           "home_team": "Paksi SE",
-          "away_team": "Nyíregyháza Spartacus"
+          "away_team": "Nyíregyháza Spartacus",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2025-04-05",
           "time": "19:30",
           "home_team": "Debreceni VSC",
-          "away_team": "Diósgyöri VTK"
+          "away_team": "Diósgyöri VTK",
+          "result": {
+            "full_time": "4-1"
+          }
         },
         {
           "date": "2025-04-06",
           "time": "14:00",
           "home_team": "Fehérvár FC",
-          "away_team": "Zalaegerszegi TE"
+          "away_team": "Zalaegerszegi TE",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2025-04-06",
           "time": "16:30",
           "home_team": "Puskás FC",
-          "away_team": "MTK Budapest"
+          "away_team": "MTK Budapest",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-04-06",
           "time": "19:00",
           "home_team": "Ferencvárosi TC",
-          "away_team": "Újpest FC"
+          "away_team": "Újpest FC",
+          "result": {
+            "full_time": "2-0"
+          }
         }
       ]
     },
@@ -1507,37 +1543,55 @@
           "date": "2025-04-11",
           "time": "18:00",
           "home_team": "Diósgyöri VTK",
-          "away_team": "Kecskeméti TE"
+          "away_team": "Kecskeméti TE",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2025-04-11",
           "time": "20:30",
           "home_team": "MTK Budapest",
-          "away_team": "Paksi SE"
+          "away_team": "Paksi SE",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2025-04-12",
           "time": "14:15",
           "home_team": "Győri ETO FC",
-          "away_team": "Puskás FC"
+          "away_team": "Puskás FC",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2025-04-12",
           "time": "19:45",
           "home_team": "Zalaegerszegi TE",
-          "away_team": "Ferencvárosi TC"
+          "away_team": "Ferencvárosi TC",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2025-04-13",
           "time": "14:00",
           "home_team": "Újpest FC",
-          "away_team": "Debreceni VSC"
+          "away_team": "Debreceni VSC",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2025-04-13",
           "time": "19:00",
           "home_team": "Nyíregyháza Spartacus",
-          "away_team": "Fehérvár FC"
+          "away_team": "Fehérvár FC",
+          "result": {
+            "full_time": "1-0"
+          }
         }
       ]
     },
@@ -1546,39 +1600,57 @@
       "matches": [
         {
           "date": "2025-04-19",
-          "time": "19:00",
+          "time": "13:15",
           "home_team": "Debreceni VSC",
-          "away_team": "Zalaegerszegi TE"
+          "away_team": "Zalaegerszegi TE",
+          "result": {
+            "full_time": "4-3"
+          }
         },
         {
           "date": "2025-04-19",
-          "time": "19:00",
+          "time": "16:15",
           "home_team": "Diósgyöri VTK",
-          "away_team": "Győri ETO FC"
+          "away_team": "Győri ETO FC",
+          "result": {
+            "full_time": "2-4"
+          }
         },
         {
           "date": "2025-04-19",
-          "time": "19:00",
-          "home_team": "Fehérvár FC",
-          "away_team": "MTK Budapest"
-        },
-        {
-          "date": "2025-04-19",
-          "time": "19:00",
-          "home_team": "Ferencvárosi TC",
-          "away_team": "Nyíregyháza Spartacus"
-        },
-        {
-          "date": "2025-04-19",
-          "time": "19:00",
-          "home_team": "Kecskeméti TE",
-          "away_team": "Újpest FC"
-        },
-        {
-          "date": "2025-04-19",
-          "time": "19:00",
+          "time": "20:30",
           "home_team": "Paksi SE",
-          "away_team": "Puskás FC"
+          "away_team": "Puskás FC",
+          "result": {
+            "full_time": "2-2"
+          }
+        },
+        {
+          "date": "2025-04-20",
+          "time": "13:15",
+          "home_team": "Fehérvár FC",
+          "away_team": "MTK Budapest",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2025-04-20",
+          "time": "15:45",
+          "home_team": "Ferencvárosi TC",
+          "away_team": "Nyíregyháza Spartacus",
+          "result": {
+            "full_time": "7-0"
+          }
+        },
+        {
+          "date": "2025-04-21",
+          "time": "18:30",
+          "home_team": "Kecskeméti TE",
+          "away_team": "Újpest FC",
+          "result": {
+            "full_time": "0-0"
+          }
         }
       ]
     },
@@ -1586,40 +1658,58 @@
       "matchday": "Matchday 29",
       "matches": [
         {
-          "date": "2025-04-26",
-          "time": "19:00",
-          "home_team": "Győri ETO FC",
-          "away_team": "Paksi SE"
-        },
-        {
-          "date": "2025-04-26",
-          "time": "19:00",
-          "home_team": "MTK Budapest",
-          "away_team": "Ferencvárosi TC"
-        },
-        {
-          "date": "2025-04-26",
-          "time": "19:00",
+          "date": "2025-04-25",
+          "time": "20:00",
           "home_team": "Nyíregyháza Spartacus",
-          "away_team": "Debreceni VSC"
+          "away_team": "Debreceni VSC",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2025-04-26",
-          "time": "19:00",
+          "time": "15:15",
           "home_team": "Puskás FC",
-          "away_team": "Fehérvár FC"
+          "away_team": "Fehérvár FC",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2025-04-26",
-          "time": "19:00",
+          "time": "17:30",
+          "home_team": "Győri ETO FC",
+          "away_team": "Paksi SE",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2025-04-26",
+          "time": "20:00",
           "home_team": "Újpest FC",
-          "away_team": "Diósgyöri VTK"
+          "away_team": "Diósgyöri VTK",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
-          "date": "2025-04-26",
-          "time": "19:00",
+          "date": "2025-04-27",
+          "time": "15:30",
+          "home_team": "MTK Budapest",
+          "away_team": "Ferencvárosi TC",
+          "result": {
+            "full_time": "2-3"
+          }
+        },
+        {
+          "date": "2025-04-27",
+          "time": "18:00",
           "home_team": "Zalaegerszegi TE",
-          "away_team": "Kecskeméti TE"
+          "away_team": "Kecskeméti TE",
+          "result": {
+            "full_time": "0-0"
+          }
         }
       ]
     },
@@ -1628,39 +1718,57 @@
       "matches": [
         {
           "date": "2025-05-03",
-          "time": "19:00",
-          "home_team": "Debreceni VSC",
-          "away_team": "MTK Budapest"
-        },
-        {
-          "date": "2025-05-03",
-          "time": "19:00",
-          "home_team": "Diósgyöri VTK",
-          "away_team": "Zalaegerszegi TE"
-        },
-        {
-          "date": "2025-05-03",
-          "time": "19:00",
-          "home_team": "Fehérvár FC",
-          "away_team": "Paksi SE"
-        },
-        {
-          "date": "2025-05-03",
-          "time": "19:00",
-          "home_team": "Ferencvárosi TC",
-          "away_team": "Puskás FC"
-        },
-        {
-          "date": "2025-05-03",
-          "time": "19:00",
-          "home_team": "Kecskeméti TE",
-          "away_team": "Nyíregyháza Spartacus"
-        },
-        {
-          "date": "2025-05-03",
-          "time": "19:00",
+          "time": "13:00",
           "home_team": "Újpest FC",
-          "away_team": "Győri ETO FC"
+          "away_team": "Győri ETO FC",
+          "result": {
+            "full_time": "2-3"
+          }
+        },
+        {
+          "date": "2025-05-03",
+          "time": "15:30",
+          "home_team": "Debreceni VSC",
+          "away_team": "MTK Budapest",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2025-05-03",
+          "time": "19:30",
+          "home_team": "Ferencvárosi TC",
+          "away_team": "Puskás FC",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2025-05-04",
+          "time": "13:30",
+          "home_team": "Diósgyöri VTK",
+          "away_team": "Zalaegerszegi TE",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2025-05-04",
+          "time": "16:00",
+          "home_team": "Kecskeméti TE",
+          "away_team": "Nyíregyháza Spartacus",
+          "result": {
+            "full_time": "2-2"
+          }
+        },
+        {
+          "date": "2025-05-04",
+          "time": "18:30",
+          "home_team": "Fehérvár FC",
+          "away_team": "Paksi SE",
+          "result": {
+            "full_time": "0-2"
+          }
         }
       ]
     },
@@ -1668,40 +1776,58 @@
       "matchday": "Matchday 31",
       "matches": [
         {
-          "date": "2025-05-10",
-          "time": "19:00",
+          "date": "2025-05-09",
+          "time": "20:00",
           "home_team": "Győri ETO FC",
-          "away_team": "Fehérvár FC"
+          "away_team": "Fehérvár FC",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2025-05-10",
-          "time": "19:00",
-          "home_team": "MTK Budapest",
-          "away_team": "Kecskeméti TE"
-        },
-        {
-          "date": "2025-05-10",
-          "time": "19:00",
-          "home_team": "Nyíregyháza Spartacus",
-          "away_team": "Diósgyöri VTK"
-        },
-        {
-          "date": "2025-05-10",
-          "time": "19:00",
-          "home_team": "Paksi SE",
-          "away_team": "Ferencvárosi TC"
-        },
-        {
-          "date": "2025-05-10",
-          "time": "19:00",
+          "time": "14:30",
           "home_team": "Puskás FC",
-          "away_team": "Debreceni VSC"
+          "away_team": "Debreceni VSC",
+          "result": {
+            "full_time": "4-2"
+          }
         },
         {
           "date": "2025-05-10",
-          "time": "19:00",
+          "time": "17:45",
+          "home_team": "MTK Budapest",
+          "away_team": "Kecskeméti TE",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2025-05-10",
+          "time": "19:30",
+          "home_team": "Paksi SE",
+          "away_team": "Ferencvárosi TC",
+          "result": {
+            "full_time": "2-3"
+          }
+        },
+        {
+          "date": "2025-05-11",
+          "time": "13:00",
           "home_team": "Zalaegerszegi TE",
-          "away_team": "Újpest FC"
+          "away_team": "Újpest FC",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2025-05-11",
+          "time": "15:30",
+          "home_team": "Nyíregyháza Spartacus",
+          "away_team": "Diósgyöri VTK",
+          "result": {
+            "full_time": "1-0"
+          }
         }
       ]
     },
@@ -1709,40 +1835,58 @@
       "matchday": "Matchday 32",
       "matches": [
         {
-          "date": "2025-05-17",
-          "time": "19:00",
-          "home_team": "Debreceni VSC",
-          "away_team": "Paksi SE"
-        },
-        {
-          "date": "2025-05-17",
-          "time": "19:00",
-          "home_team": "Diósgyöri VTK",
-          "away_team": "MTK Budapest"
-        },
-        {
-          "date": "2025-05-17",
-          "time": "19:00",
-          "home_team": "Ferencvárosi TC",
-          "away_team": "Fehérvár FC"
-        },
-        {
-          "date": "2025-05-17",
-          "time": "19:00",
+          "date": "2025-05-16",
+          "time": "18:15",
           "home_team": "Kecskeméti TE",
-          "away_team": "Puskás FC"
+          "away_team": "Puskás FC",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
-          "date": "2025-05-17",
-          "time": "19:00",
+          "date": "2025-05-16",
+          "time": "20:30",
           "home_team": "Újpest FC",
-          "away_team": "Nyíregyháza Spartacus"
+          "away_team": "Nyíregyháza Spartacus",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2025-05-17",
-          "time": "19:00",
+          "time": "13:45",
           "home_team": "Zalaegerszegi TE",
-          "away_team": "Győri ETO FC"
+          "away_team": "Győri ETO FC",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2025-05-17",
+          "time": "20:00",
+          "home_team": "Diósgyöri VTK",
+          "away_team": "MTK Budapest",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2025-05-18",
+          "time": "16:45",
+          "home_team": "Debreceni VSC",
+          "away_team": "Paksi SE",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2025-05-18",
+          "time": "19:30",
+          "home_team": "Ferencvárosi TC",
+          "away_team": "Fehérvár FC",
+          "result": {
+            "full_time": "3-0"
+          }
         }
       ]
     },
@@ -1750,40 +1894,58 @@
       "matchday": "Matchday 33",
       "matches": [
         {
-          "date": "2025-05-24",
-          "time": "19:00",
-          "home_team": "Fehérvár FC",
-          "away_team": "Debreceni VSC"
-        },
-        {
-          "date": "2025-05-24",
-          "time": "19:00",
-          "home_team": "Győri ETO FC",
-          "away_team": "Ferencvárosi TC"
-        },
-        {
-          "date": "2025-05-24",
-          "time": "19:00",
-          "home_team": "MTK Budapest",
-          "away_team": "Újpest FC"
-        },
-        {
-          "date": "2025-05-24",
-          "time": "19:00",
-          "home_team": "Nyíregyháza Spartacus",
-          "away_team": "Zalaegerszegi TE"
-        },
-        {
-          "date": "2025-05-24",
-          "time": "19:00",
+          "date": "2025-05-23",
+          "time": "20:15",
           "home_team": "Paksi SE",
-          "away_team": "Kecskeméti TE"
+          "away_team": "Kecskeméti TE",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-05-24",
-          "time": "19:00",
+          "time": "15:00",
+          "home_team": "MTK Budapest",
+          "away_team": "Újpest FC",
+          "result": {
+            "full_time": "1-3"
+          }
+        },
+        {
+          "date": "2025-05-24",
+          "time": "17:30",
+          "home_team": "Fehérvár FC",
+          "away_team": "Debreceni VSC",
+          "result": {
+            "full_time": "0-3"
+          }
+        },
+        {
+          "date": "2025-05-24",
+          "time": "20:00",
+          "home_team": "Győri ETO FC",
+          "away_team": "Ferencvárosi TC",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2025-05-24",
+          "time": "20:00",
           "home_team": "Puskás FC",
-          "away_team": "Diósgyöri VTK"
+          "away_team": "Diósgyöri VTK",
+          "result": {
+            "full_time": "4-3"
+          }
+        },
+        {
+          "date": "2025-05-25",
+          "time": "14:15",
+          "home_team": "Nyíregyháza Spartacus",
+          "away_team": "Zalaegerszegi TE",
+          "result": {
+            "full_time": "0-0"
+          }
         }
       ]
     }

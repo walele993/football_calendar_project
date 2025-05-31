@@ -1934,49 +1934,73 @@
           "date": "2025-03-29",
           "time": "15:00",
           "home_team": "SP La Fiorita",
-          "away_team": "San Marino Academy"
+          "away_team": "San Marino Academy",
+          "result": {
+            "full_time": "4-1"
+          }
         },
         {
           "date": "2025-03-29",
           "time": "15:00",
           "home_team": "SS Murata",
-          "away_team": "FC Fiorentino"
+          "away_team": "FC Fiorentino",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2025-03-29",
           "time": "15:00",
           "home_team": "SP Tre Penne",
-          "away_team": "SS San Giovanni"
+          "away_team": "SS San Giovanni",
+          "result": {
+            "full_time": "3-2"
+          }
         },
         {
           "date": "2025-03-29",
           "time": "18:00",
           "home_team": "AC Libertas",
-          "away_team": "SS Virtus"
+          "away_team": "SS Virtus",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2025-03-29",
           "time": "18:00",
           "home_team": "SC Faetano",
-          "away_team": "SP Tre Fiori"
+          "away_team": "SP Tre Fiori",
+          "result": {
+            "full_time": "1-3"
+          }
         },
         {
           "date": "2025-03-30",
           "time": "15:00",
           "home_team": "FC Domagnano",
-          "away_team": "SS Pennarossa"
+          "away_team": "SS Pennarossa",
+          "result": {
+            "full_time": "2-4"
+          }
         },
         {
           "date": "2025-03-30",
           "time": "15:00",
           "home_team": "SS Cosmos",
-          "away_team": "SS Folgore/Falciano"
+          "away_team": "SS Folgore/Falciano",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-03-30",
           "time": "15:00",
           "home_team": "SP Cailungo",
-          "away_team": "AC Juvenes/Dogana"
+          "away_team": "AC Juvenes/Dogana",
+          "result": {
+            "full_time": "1-2"
+          }
         }
       ]
     },
@@ -1987,49 +2011,73 @@
           "date": "2025-04-05",
           "time": "15:00",
           "home_team": "SS Folgore/Falciano",
-          "away_team": "SC Faetano"
+          "away_team": "SC Faetano",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-04-05",
           "time": "15:00",
           "home_team": "AC Juvenes/Dogana",
-          "away_team": "SS Pennarossa"
+          "away_team": "SS Pennarossa",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2025-04-05",
           "time": "15:00",
           "home_team": "San Marino Academy",
-          "away_team": "SP Cailungo"
+          "away_team": "SP Cailungo",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-04-05",
           "time": "15:00",
           "home_team": "AC Libertas",
-          "away_team": "FC Domagnano"
+          "away_team": "FC Domagnano",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2025-04-05",
           "time": "18:00",
           "home_team": "SS San Giovanni",
-          "away_team": "SS Murata"
+          "away_team": "SS Murata",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2025-04-06",
           "time": "15:00",
           "home_team": "SP Tre Fiori",
-          "away_team": "SS Cosmos"
+          "away_team": "SS Cosmos",
+          "result": {
+            "full_time": "1-3"
+          }
         },
         {
           "date": "2025-04-06",
           "time": "15:00",
           "home_team": "SS Virtus",
-          "away_team": "SP Tre Penne"
+          "away_team": "SP Tre Penne",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2025-04-06",
           "time": "15:00",
           "home_team": "FC Fiorentino",
-          "away_team": "SP La Fiorita"
+          "away_team": "SP La Fiorita",
+          "result": {
+            "full_time": "0-3"
+          }
         }
       ]
     },
@@ -2040,49 +2088,396 @@
           "date": "2025-04-12",
           "time": "15:00",
           "home_team": "SS Pennarossa",
-          "away_team": "San Marino Academy"
+          "away_team": "San Marino Academy",
+          "result": {
+            "full_time": "1-3"
+          }
         },
         {
           "date": "2025-04-12",
           "time": "15:00",
           "home_team": "AC Libertas",
-          "away_team": "SS San Giovanni"
+          "away_team": "SS San Giovanni",
+          "result": {
+            "full_time": "2-3"
+          }
         },
         {
           "date": "2025-04-12",
           "time": "15:00",
           "home_team": "SS Cosmos",
-          "away_team": "AC Juvenes/Dogana"
+          "away_team": "AC Juvenes/Dogana",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2025-04-12",
           "time": "18:00",
           "home_team": "SP Tre Penne",
-          "away_team": "SS Murata"
+          "away_team": "SS Murata",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2025-04-13",
           "time": "15:00",
           "home_team": "SC Faetano",
-          "away_team": "SS Virtus"
+          "away_team": "SS Virtus",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2025-04-13",
           "time": "15:00",
           "home_team": "FC Domagnano",
-          "away_team": "FC Fiorentino"
+          "away_team": "FC Fiorentino",
+          "result": {
+            "full_time": "0-3"
+          }
         },
         {
           "date": "2025-04-13",
           "time": "15:00",
           "home_team": "SP Cailungo",
-          "away_team": "SP Tre Fiori"
+          "away_team": "SP Tre Fiori",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2025-04-13",
           "time": "15:00",
           "home_team": "SP La Fiorita",
-          "away_team": "SS Folgore/Falciano"
+          "away_team": "SS Folgore/Falciano",
+          "result": {
+            "full_time": "2-0"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 29",
+      "matches": [
+        {
+          "date": "2025-04-18",
+          "time": "21:15",
+          "home_team": "FC Fiorentino",
+          "away_team": "SS Cosmos",
+          "result": {
+            "full_time": "0-3"
+          }
+        },
+        {
+          "date": "2025-04-18",
+          "time": "21:15",
+          "home_team": "SP Cailungo",
+          "away_team": "SS Pennarossa",
+          "result": {
+            "full_time": "7-0"
+          }
+        },
+        {
+          "date": "2025-04-18",
+          "time": "21:15",
+          "home_team": "San Marino Academy",
+          "away_team": "SP Tre Penne",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2025-04-18",
+          "time": "21:15",
+          "home_team": "SS Murata",
+          "away_team": "SC Faetano",
+          "result": {
+            "full_time": "2-2"
+          }
+        },
+        {
+          "date": "2025-04-19",
+          "time": "15:00",
+          "home_team": "SS Folgore/Falciano",
+          "away_team": "AC Libertas",
+          "result": {
+            "full_time": "3-0"
+          }
+        },
+        {
+          "date": "2025-04-19",
+          "time": "15:00",
+          "home_team": "AC Juvenes/Dogana",
+          "away_team": "SP La Fiorita",
+          "result": {
+            "full_time": "3-1"
+          }
+        },
+        {
+          "date": "2025-04-19",
+          "time": "15:00",
+          "home_team": "SS Virtus",
+          "away_team": "SP Tre Fiori",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2025-04-19",
+          "time": "15:00",
+          "home_team": "SS San Giovanni",
+          "away_team": "FC Domagnano",
+          "result": {
+            "full_time": "2-2"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 30",
+      "matches": [
+        {
+          "date": "2025-04-26",
+          "time": "15:00",
+          "home_team": "SP Tre Fiori",
+          "away_team": "SS San Giovanni",
+          "result": {
+            "full_time": "1-4"
+          }
+        },
+        {
+          "date": "2025-04-26",
+          "time": "15:00",
+          "home_team": "SS Folgore/Falciano",
+          "away_team": "FC Domagnano",
+          "result": {
+            "full_time": "0-4"
+          }
+        },
+        {
+          "date": "2025-04-26",
+          "time": "15:00",
+          "home_team": "SS Cosmos",
+          "away_team": "San Marino Academy",
+          "result": {
+            "full_time": "4-2"
+          }
+        },
+        {
+          "date": "2025-04-26",
+          "time": "15:00",
+          "home_team": "SP Tre Penne",
+          "away_team": "AC Juvenes/Dogana",
+          "result": {
+            "full_time": "4-2"
+          }
+        },
+        {
+          "date": "2025-04-26",
+          "time": "18:15",
+          "home_team": "AC Libertas",
+          "away_team": "SP Cailungo",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2025-04-27",
+          "time": "16:00",
+          "home_team": "SP La Fiorita",
+          "away_team": "SS Murata",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2025-04-27",
+          "time": "16:00",
+          "home_team": "SC Faetano",
+          "away_team": "FC Fiorentino",
+          "result": {
+            "full_time": "2-3"
+          }
+        },
+        {
+          "date": "2025-04-27",
+          "time": "16:00",
+          "home_team": "SS Pennarossa",
+          "away_team": "SS Virtus",
+          "result": {
+            "full_time": "3-3"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "ECL Playoffs, Round 1",
+      "matches": [
+        {
+          "date": "2025-04-30",
+          "time": "20:45",
+          "home_team": "FC Fiorentino",
+          "away_team": "AC Juvenes/Dogana",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2025-04-30",
+          "time": "20:45",
+          "home_team": "SS Murata",
+          "away_team": "SC Faetano",
+          "result": {
+            "full_time": "0-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "ECL Playoffs, Quarterfinals",
+      "matches": [
+        {
+          "date": "2025-05-03",
+          "time": "15:00",
+          "home_team": "SP Tre Penne",
+          "away_team": "SS Cosmos",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2025-05-03",
+          "time": "17:30",
+          "home_team": "SS Folgore/Falciano",
+          "away_team": "SS San Giovanni",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2025-05-04",
+          "time": "15:00",
+          "home_team": "SP La Fiorita",
+          "away_team": "SC Faetano",
+          "result": {
+            "full_time": "2-1"
+          }
+        },
+        {
+          "date": "2025-05-04",
+          "time": "18:15",
+          "home_team": "SP Tre Fiori",
+          "away_team": "FC Fiorentino",
+          "result": {
+            "full_time": "3-1"
+          }
+        },
+        {
+          "date": "2025-05-06",
+          "time": "20:45",
+          "home_team": "SS Cosmos",
+          "away_team": "SP Tre Penne",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2025-05-06",
+          "time": "20:45",
+          "home_team": "SS San Giovanni",
+          "away_team": "SS Folgore/Falciano",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2025-05-07",
+          "time": "20:45",
+          "home_team": "SC Faetano",
+          "away_team": "SP La Fiorita",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2025-05-07",
+          "time": "20:45",
+          "home_team": "FC Fiorentino",
+          "away_team": "SP Tre Fiori",
+          "result": {
+            "full_time": "0-2"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "ECL Playoffs, Semifinals",
+      "matches": [
+        {
+          "date": "2025-05-10",
+          "time": "15:00",
+          "home_team": "SP La Fiorita",
+          "away_team": "SS Cosmos",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2025-05-10",
+          "time": "17:30",
+          "home_team": "SS San Giovanni",
+          "away_team": "SP Tre Fiori",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2025-05-13",
+          "time": "20:45",
+          "home_team": "SS Cosmos",
+          "away_team": "SP La Fiorita",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2025-05-13",
+          "time": "20:45",
+          "home_team": "SP Tre Fiori",
+          "away_team": "SS San Giovanni",
+          "result": {
+            "full_time": "1-1"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "ECL Playoffs, Match 3rd place",
+      "matches": [
+        {
+          "date": "2025-05-17",
+          "time": "16:00",
+          "home_team": "SS Cosmos",
+          "away_team": "SS San Giovanni",
+          "result": {
+            "full_time": "4-2"
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "ECL Playoffs, Final",
+      "matches": [
+        {
+          "date": "2025-05-17",
+          "time": "20:45",
+          "home_team": "SP La Fiorita",
+          "away_team": "SP Tre Fiori",
+          "result": {
+            "full_time": "1-0"
+          }
         }
       ]
     }

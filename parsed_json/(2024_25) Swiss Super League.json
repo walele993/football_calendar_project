@@ -1988,19 +1988,28 @@
           "date": "2025-05-10",
           "time": "20:30",
           "home_team": "FC Lugano",
-          "away_team": "FC Basel 1893"
+          "away_team": "FC Basel 1893",
+          "result": {
+            "full_time": "2-5"
+          }
         },
         {
           "date": "2025-05-11",
           "time": "14:15",
           "home_team": "FC Luzern",
-          "away_team": "FC Lausanne-Sport"
+          "away_team": "FC Lausanne-Sport",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-05-11",
           "time": "16:30",
           "home_team": "Servette FC",
-          "away_team": "BSC Young Boys"
+          "away_team": "BSC Young Boys",
+          "result": {
+            "full_time": "0-0"
+          }
         }
       ]
     },
@@ -2011,19 +2020,28 @@
           "date": "2025-05-14",
           "time": "20:30",
           "home_team": "FC Lausanne-Sport",
-          "away_team": "FC Basel 1893"
+          "away_team": "FC Basel 1893",
+          "result": {
+            "full_time": "2-3"
+          }
         },
         {
           "date": "2025-05-15",
           "time": "20:30",
           "home_team": "Servette FC",
-          "away_team": "FC Lugano"
+          "away_team": "FC Lugano",
+          "result": {
+            "full_time": "4-1"
+          }
         },
         {
           "date": "2025-05-15",
           "time": "20:30",
           "home_team": "BSC Young Boys",
-          "away_team": "FC Luzern"
+          "away_team": "FC Luzern",
+          "result": {
+            "full_time": "2-1"
+          }
         }
       ]
     },
@@ -2034,19 +2052,28 @@
           "date": "2025-05-18",
           "time": "14:15",
           "home_team": "BSC Young Boys",
-          "away_team": "FC Basel 1893"
+          "away_team": "FC Basel 1893",
+          "result": {
+            "full_time": "6-2"
+          }
         },
         {
           "date": "2025-05-18",
           "time": "16:30",
           "home_team": "FC Lausanne-Sport",
-          "away_team": "FC Lugano"
+          "away_team": "FC Lugano",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-05-18",
           "time": "16:30",
           "home_team": "FC Luzern",
-          "away_team": "Servette FC"
+          "away_team": "Servette FC",
+          "result": {
+            "full_time": "3-4"
+          }
         }
       ]
     },
@@ -2057,19 +2084,28 @@
           "date": "2025-05-24",
           "time": "18:00",
           "home_team": "FC Basel 1893",
-          "away_team": "FC Luzern"
+          "away_team": "FC Luzern",
+          "result": {
+            "full_time": "4-0"
+          }
         },
         {
           "date": "2025-05-24",
           "time": "18:00",
           "home_team": "FC Lugano",
-          "away_team": "BSC Young Boys"
+          "away_team": "BSC Young Boys",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-05-24",
           "time": "18:00",
           "home_team": "Servette FC",
-          "away_team": "FC Lausanne-Sport"
+          "away_team": "FC Lausanne-Sport",
+          "result": {
+            "full_time": "3-3"
+          }
         }
       ]
     },
@@ -2098,7 +2134,10 @@
           "date": "2025-05-06",
           "time": "19:00",
           "home_team": "Yverdon Sport FC",
-          "away_team": "FC St. Gallen"
+          "away_team": "FC St. Gallen",
+          "result": {
+            "full_time": "1-1"
+          }
         }
       ]
     },
@@ -2109,19 +2148,28 @@
           "date": "2025-05-10",
           "time": "18:00",
           "home_team": "FC St. Gallen",
-          "away_team": "FC Winterthur"
+          "away_team": "FC Winterthur",
+          "result": {
+            "full_time": "1-4"
+          }
         },
         {
           "date": "2025-05-10",
           "time": "18:00",
           "home_team": "Yverdon Sport FC",
-          "away_team": "FC Sion"
+          "away_team": "FC Sion",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-05-10",
           "time": "18:00",
           "home_team": "FC Zürich",
-          "away_team": "Grasshopper Club Zürich"
+          "away_team": "Grasshopper Club Zürich",
+          "result": {
+            "full_time": "3-0"
+          }
         }
       ]
     },
@@ -2132,19 +2180,28 @@
           "date": "2025-05-13",
           "time": "20:30",
           "home_team": "FC Sion",
-          "away_team": "FC St. Gallen"
+          "away_team": "FC St. Gallen",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-05-13",
           "time": "20:30",
           "home_team": "FC Zürich",
-          "away_team": "FC Winterthur"
+          "away_team": "FC Winterthur",
+          "result": {
+            "full_time": "4-1"
+          }
         },
         {
           "date": "2025-05-14",
           "time": "20:30",
           "home_team": "Grasshopper Club Zürich",
-          "away_team": "Yverdon Sport FC"
+          "away_team": "Yverdon Sport FC",
+          "result": {
+            "full_time": "5-0"
+          }
         }
       ]
     },
@@ -2155,19 +2212,28 @@
           "date": "2025-05-17",
           "time": "18:00",
           "home_team": "FC St. Gallen",
-          "away_team": "FC Zürich"
+          "away_team": "FC Zürich",
+          "result": {
+            "full_time": "3-2"
+          }
         },
         {
           "date": "2025-05-17",
           "time": "18:00",
           "home_team": "FC Winterthur",
-          "away_team": "Yverdon Sport FC"
+          "away_team": "Yverdon Sport FC",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2025-05-17",
           "time": "20:30",
           "home_team": "FC Sion",
-          "away_team": "Grasshopper Club Zürich"
+          "away_team": "Grasshopper Club Zürich",
+          "result": {
+            "full_time": "2-1"
+          }
         }
       ]
     },
@@ -2178,19 +2244,28 @@
           "date": "2025-05-22",
           "time": "20:30",
           "home_team": "Grasshopper Club Zürich",
-          "away_team": "FC St. Gallen"
+          "away_team": "FC St. Gallen",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2025-05-22",
           "time": "20:30",
           "home_team": "FC Winterthur",
-          "away_team": "FC Sion"
+          "away_team": "FC Sion",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2025-05-22",
           "time": "20:30",
           "home_team": "Yverdon Sport FC",
-          "away_team": "FC Zürich"
+          "away_team": "FC Zürich",
+          "result": {
+            "full_time": "3-2"
+          }
         }
       ]
     }

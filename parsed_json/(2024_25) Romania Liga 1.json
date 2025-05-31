@@ -2529,7 +2529,10 @@
           "date": "2025-05-05",
           "time": "20:30",
           "home_team": "FCSB",
-          "away_team": "Dinamo Bucureşti"
+          "away_team": "Dinamo Bucureşti",
+          "result": {
+            "full_time": "3-1"
+          }
         }
       ]
     },
@@ -2540,19 +2543,28 @@
           "date": "2025-05-10",
           "time": "20:30",
           "home_team": "CS Universitatea Craiova",
-          "away_team": "CFR Cluj"
+          "away_team": "CFR Cluj",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2025-05-11",
           "time": "20:30",
           "home_team": "Universitatea Cluj",
-          "away_team": "FCSB"
+          "away_team": "FCSB",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2025-05-12",
           "time": "21:00",
           "home_team": "Dinamo Bucureşti",
-          "away_team": "Rapid Bucureşti"
+          "away_team": "Rapid Bucureşti",
+          "result": {
+            "full_time": "0-0"
+          }
         }
       ]
     },
@@ -2560,22 +2572,31 @@
       "matchday": "Championship, Matchday 9",
       "matches": [
         {
-          "date": "2025-05-17",
-          "time": "21:00",
-          "home_team": "FCSB",
-          "away_team": "CS Universitatea Craiova"
-        },
-        {
-          "date": "2025-05-17",
+          "date": "2025-05-16",
           "time": "21:00",
           "home_team": "Dinamo Bucureşti",
-          "away_team": "Universitatea Cluj"
+          "away_team": "Universitatea Cluj",
+          "result": {
+            "full_time": "1-3"
+          }
         },
         {
           "date": "2025-05-17",
-          "time": "21:00",
+          "time": "20:00",
+          "home_team": "FCSB",
+          "away_team": "CS Universitatea Craiova",
+          "result": {
+            "full_time": "1-0"
+          }
+        },
+        {
+          "date": "2025-05-19",
+          "time": "20:30",
           "home_team": "Rapid Bucureşti",
-          "away_team": "CFR Cluj"
+          "away_team": "CFR Cluj",
+          "result": {
+            "full_time": "1-4"
+          }
         }
       ]
     },
@@ -2583,22 +2604,31 @@
       "matchday": "Championship, Matchday 10",
       "matches": [
         {
-          "date": "2025-05-24",
-          "time": "21:00",
+          "date": "2025-05-23",
+          "time": "20:30",
           "home_team": "CFR Cluj",
-          "away_team": "FCSB"
+          "away_team": "FCSB",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2025-05-24",
+          "time": "18:00",
+          "home_team": "Universitatea Cluj",
+          "away_team": "Rapid Bucureşti",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2025-05-24",
           "time": "21:00",
           "home_team": "CS Universitatea Craiova",
-          "away_team": "Dinamo Bucureşti"
-        },
-        {
-          "date": "2025-05-24",
-          "time": "21:00",
-          "home_team": "Universitatea Cluj",
-          "away_team": "Rapid Bucureşti"
+          "away_team": "Dinamo Bucureşti",
+          "result": {
+            "full_time": "2-1"
+          }
         }
       ]
     },
@@ -2945,7 +2975,10 @@
           "date": "2025-05-05",
           "time": "17:30",
           "home_team": "UTA Arad",
-          "away_team": "Petrolul Ploieşti"
+          "away_team": "Petrolul Ploieşti",
+          "result": {
+            "full_time": "2-0"
+          }
         }
       ]
     },
@@ -2956,31 +2989,46 @@
           "date": "2025-05-09",
           "time": "18:00",
           "home_team": "Gloria Buzău",
-          "away_team": "Unirea Slobozia"
+          "away_team": "Unirea Slobozia",
+          "result": {
+            "full_time": "0-3"
+          }
         },
         {
           "date": "2025-05-09",
           "time": "21:00",
           "home_team": "Sepsi OSK",
-          "away_team": "FC Botoşani"
+          "away_team": "FC Botoşani",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2025-05-10",
           "time": "15:00",
           "home_team": "Farul Constanța",
-          "away_team": "UTA Arad"
+          "away_team": "UTA Arad",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2025-05-10",
           "time": "17:30",
           "home_team": "FC Hermannstadt",
-          "away_team": "FC Politehnica Iași"
+          "away_team": "FC Politehnica Iași",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2025-05-12",
           "time": "18:00",
           "home_team": "Petrolul Ploieşti",
-          "away_team": "Oţelul Galaţi"
+          "away_team": "Oţelul Galaţi",
+          "result": {
+            "full_time": "1-3"
+          }
         }
       ]
     },
@@ -2988,34 +3036,49 @@
       "matchday": "Relegation, Matchday 9",
       "matches": [
         {
-          "date": "2025-05-17",
-          "time": "18:00",
-          "home_team": "UTA Arad",
-          "away_team": "Gloria Buzău"
-        },
-        {
-          "date": "2025-05-17",
+          "date": "2025-05-16",
           "time": "18:00",
           "home_team": "Oţelul Galaţi",
-          "away_team": "Farul Constanța"
+          "away_team": "Farul Constanța",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2025-05-17",
-          "time": "18:00",
+          "time": "14:00",
+          "home_team": "UTA Arad",
+          "away_team": "Gloria Buzău",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2025-05-18",
+          "time": "16:00",
           "home_team": "FC Politehnica Iași",
-          "away_team": "Petrolul Ploieşti"
+          "away_team": "Petrolul Ploieşti",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
-          "date": "2025-05-17",
-          "time": "18:00",
+          "date": "2025-05-18",
+          "time": "16:00",
           "home_team": "FC Botoşani",
-          "away_team": "FC Hermannstadt"
+          "away_team": "FC Hermannstadt",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
-          "date": "2025-05-17",
-          "time": "18:00",
+          "date": "2025-05-18",
+          "time": "16:00",
           "home_team": "Unirea Slobozia",
-          "away_team": "Sepsi OSK"
+          "away_team": "Sepsi OSK",
+          "result": {
+            "full_time": "2-1"
+          }
         }
       ]
     }

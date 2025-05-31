@@ -1620,13 +1620,19 @@
           "date": "2025-04-09",
           "time": "19:00",
           "home_team": "Chemnitzer FC",
-          "away_team": "Hertha BSC II"
+          "away_team": "Hertha BSC II",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-04-09",
           "time": "19:00",
           "home_team": "BSG Chemie Leipzig",
-          "away_team": "ZFC Meuselwitz"
+          "away_team": "ZFC Meuselwitz",
+          "result": {
+            "full_time": "1-1"
+          }
         }
       ]
     },
@@ -1863,19 +1869,28 @@
           "date": "2025-03-25",
           "time": "19:00",
           "home_team": "FC Carl Zeiss Jena",
-          "away_team": "VFC Plauen"
+          "away_team": "VFC Plauen",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2025-03-25",
           "time": "19:00",
           "home_team": "Hertha BSC II",
-          "away_team": "VSG Altglienicke"
+          "away_team": "VSG Altglienicke",
+          "result": {
+            "full_time": "2-4"
+          }
         },
         {
           "date": "2025-03-26",
           "time": "19:00",
           "home_team": "FSV Zwickau",
-          "away_team": "Rot-Weiß Erfurt"
+          "away_team": "Rot-Weiß Erfurt",
+          "result": {
+            "full_time": "3-2"
+          }
         }
       ]
     },
@@ -1904,43 +1919,64 @@
           "date": "2025-03-25",
           "time": "19:00",
           "home_team": "FC Eilenburg",
-          "away_team": "Hallescher FC"
+          "away_team": "Hallescher FC",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2025-03-26",
           "time": "18:00",
           "home_team": "Greifswalder FC",
-          "away_team": "BSG Chemie Leipzig"
+          "away_team": "BSG Chemie Leipzig",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2025-03-26",
           "time": "19:00",
           "home_team": "Hertha Zehlendorf",
-          "away_team": "BFC Dynamo"
+          "away_team": "BFC Dynamo",
+          "result": {
+            "full_time": "3-5"
+          }
         },
         {
           "date": "2025-04-01",
           "time": "19:00",
           "home_team": "FSV 63 Luckenwalde",
-          "away_team": "FC Viktoria 1889 Berlin"
+          "away_team": "FC Viktoria 1889 Berlin",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2025-04-02",
           "time": "19:00",
           "home_team": "VFC Plauen",
-          "away_team": "SV Babelsberg 03"
+          "away_team": "SV Babelsberg 03",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2025-04-08",
           "time": "19:00",
           "home_team": "Rot-Weiß Erfurt",
-          "away_team": "FC Carl Zeiss Jena"
+          "away_team": "FC Carl Zeiss Jena",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2025-04-09",
           "time": "19:00",
           "home_team": "VSG Altglienicke",
-          "away_team": "FSV Zwickau"
+          "away_team": "FSV Zwickau",
+          "result": {
+            "full_time": "3-1"
+          }
         }
       ]
     },
@@ -2209,55 +2245,82 @@
           "date": "2025-03-28",
           "time": "19:00",
           "home_team": "FC Eilenburg",
-          "away_team": "SV Babelsberg 03"
+          "away_team": "SV Babelsberg 03",
+          "result": {
+            "full_time": "3-2"
+          }
         },
         {
           "date": "2025-03-28",
           "time": "19:00",
           "home_team": "FC Viktoria 1889 Berlin",
-          "away_team": "FC Carl Zeiss Jena"
+          "away_team": "FC Carl Zeiss Jena",
+          "result": {
+            "full_time": "4-2"
+          }
         },
         {
           "date": "2025-03-28",
           "time": "19:00",
           "home_team": "FSV 63 Luckenwalde",
-          "away_team": "Hertha BSC II"
+          "away_team": "Hertha BSC II",
+          "result": {
+            "full_time": "1-0"
+          }
         },
         {
           "date": "2025-03-29",
           "time": "13:00",
           "home_team": "Chemnitzer FC",
-          "away_team": "Greifswalder FC"
+          "away_team": "Greifswalder FC",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
           "date": "2025-03-29",
           "time": "13:00",
           "home_team": "Rot-Weiß Erfurt",
-          "away_team": "BFC Dynamo"
+          "away_team": "BFC Dynamo",
+          "result": {
+            "full_time": "4-1"
+          }
         },
         {
           "date": "2025-03-29",
           "time": "16:00",
           "home_team": "Hallescher FC",
-          "away_team": "FSV Zwickau"
+          "away_team": "FSV Zwickau",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2025-03-30",
           "time": "13:00",
           "home_team": "VFC Plauen",
-          "away_team": "Hertha Zehlendorf"
+          "away_team": "Hertha Zehlendorf",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2025-03-30",
           "time": "13:00",
           "home_team": "VSG Altglienicke",
-          "away_team": "BSG Chemie Leipzig"
+          "away_team": "BSG Chemie Leipzig",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2025-03-30",
           "time": "13:00",
           "home_team": "1. FC Lok Leipzig",
-          "away_team": "ZFC Meuselwitz"
+          "away_team": "ZFC Meuselwitz",
+          "result": {
+            "full_time": "3-1"
+          }
         }
       ]
     },
@@ -2268,55 +2331,82 @@
           "date": "2025-04-04",
           "time": "19:00",
           "home_team": "Hertha Zehlendorf",
-          "away_team": "Rot-Weiß Erfurt"
+          "away_team": "Rot-Weiß Erfurt",
+          "result": {
+            "full_time": "3-3"
+          }
         },
         {
           "date": "2025-04-04",
           "time": "19:00",
           "home_team": "FSV Zwickau",
-          "away_team": "Hertha BSC II"
+          "away_team": "Hertha BSC II",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2025-04-04",
           "time": "20:20",
           "home_team": "FC Carl Zeiss Jena",
-          "away_team": "Hallescher FC"
+          "away_team": "Hallescher FC",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2025-04-05",
           "time": "13:00",
           "home_team": "SV Babelsberg 03",
-          "away_team": "FC Viktoria 1889 Berlin"
+          "away_team": "FC Viktoria 1889 Berlin",
+          "result": {
+            "full_time": "3-1"
+          }
         },
         {
           "date": "2025-04-05",
           "time": "13:00",
           "home_team": "BFC Dynamo",
-          "away_team": "VSG Altglienicke"
+          "away_team": "VSG Altglienicke",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2025-04-05",
           "time": "14:00",
           "home_team": "ZFC Meuselwitz",
-          "away_team": "FC Eilenburg"
+          "away_team": "FC Eilenburg",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2025-04-06",
           "time": "13:00",
           "home_team": "Chemnitzer FC",
-          "away_team": "FSV 63 Luckenwalde"
+          "away_team": "FSV 63 Luckenwalde",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2025-04-06",
           "time": "13:00",
           "home_team": "Greifswalder FC",
-          "away_team": "VFC Plauen"
+          "away_team": "VFC Plauen",
+          "result": {
+            "full_time": "3-0"
+          }
         },
         {
           "date": "2025-04-06",
           "time": "14:00",
           "home_team": "BSG Chemie Leipzig",
-          "away_team": "1. FC Lok Leipzig"
+          "away_team": "1. FC Lok Leipzig",
+          "result": {
+            "full_time": "0-3"
+          }
         }
       ]
     },
@@ -2327,55 +2417,82 @@
           "date": "2025-04-11",
           "time": "19:00",
           "home_team": "Hallescher FC",
-          "away_team": "SV Babelsberg 03"
+          "away_team": "SV Babelsberg 03",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2025-04-12",
           "time": "13:00",
           "home_team": "FSV 63 Luckenwalde",
-          "away_team": "FSV Zwickau"
+          "away_team": "FSV Zwickau",
+          "result": {
+            "full_time": "0-1"
+          }
         },
         {
           "date": "2025-04-12",
           "time": "13:00",
           "home_team": "Rot-Weiß Erfurt",
-          "away_team": "Greifswalder FC"
+          "away_team": "Greifswalder FC",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2025-04-12",
           "time": "14:00",
           "home_team": "VFC Plauen",
-          "away_team": "Chemnitzer FC"
+          "away_team": "Chemnitzer FC",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-04-12",
           "time": "16:00",
           "home_team": "1. FC Lok Leipzig",
-          "away_team": "BFC Dynamo"
+          "away_team": "BFC Dynamo",
+          "result": {
+            "full_time": "4-0"
+          }
         },
         {
           "date": "2025-04-13",
           "time": "13:00",
           "home_team": "Hertha BSC II",
-          "away_team": "FC Carl Zeiss Jena"
+          "away_team": "FC Carl Zeiss Jena",
+          "result": {
+            "full_time": "1-4"
+          }
         },
         {
           "date": "2025-04-13",
           "time": "13:00",
           "home_team": "VSG Altglienicke",
-          "away_team": "Hertha Zehlendorf"
+          "away_team": "Hertha Zehlendorf",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2025-04-13",
           "time": "13:00",
           "home_team": "FC Eilenburg",
-          "away_team": "BSG Chemie Leipzig"
+          "away_team": "BSG Chemie Leipzig",
+          "result": {
+            "full_time": "0-0"
+          }
         },
         {
           "date": "2025-04-13",
           "time": "13:00",
           "home_team": "FC Viktoria 1889 Berlin",
-          "away_team": "ZFC Meuselwitz"
+          "away_team": "ZFC Meuselwitz",
+          "result": {
+            "full_time": "1-1"
+          }
         }
       ]
     },
@@ -2386,55 +2503,82 @@
           "date": "2025-04-17",
           "time": "18:00",
           "home_team": "Greifswalder FC",
-          "away_team": "VSG Altglienicke"
+          "away_team": "VSG Altglienicke",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2025-04-17",
           "time": "19:00",
           "home_team": "BFC Dynamo",
-          "away_team": "FC Eilenburg"
+          "away_team": "FC Eilenburg",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-04-19",
           "time": "13:00",
           "home_team": "VFC Plauen",
-          "away_team": "FSV 63 Luckenwalde"
+          "away_team": "FSV 63 Luckenwalde",
+          "result": {
+            "full_time": "0-2"
+          }
         },
         {
           "date": "2025-04-19",
           "time": "13:00",
           "home_team": "SV Babelsberg 03",
-          "away_team": "Hertha BSC II"
+          "away_team": "Hertha BSC II",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2025-04-19",
           "time": "13:00",
           "home_team": "ZFC Meuselwitz",
-          "away_team": "Hallescher FC"
+          "away_team": "Hallescher FC",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2025-04-19",
           "time": "14:00",
           "home_team": "FC Carl Zeiss Jena",
-          "away_team": "FSV Zwickau"
+          "away_team": "FSV Zwickau",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
           "date": "2025-04-20",
           "time": "13:00",
           "home_team": "Chemnitzer FC",
-          "away_team": "Rot-Weiß Erfurt"
+          "away_team": "Rot-Weiß Erfurt",
+          "result": {
+            "full_time": "2-0"
+          }
         },
         {
           "date": "2025-04-20",
           "time": "13:00",
           "home_team": "Hertha Zehlendorf",
-          "away_team": "1. FC Lok Leipzig"
+          "away_team": "1. FC Lok Leipzig",
+          "result": {
+            "full_time": "2-1"
+          }
         },
         {
           "date": "2025-04-21",
           "time": "14:00",
           "home_team": "BSG Chemie Leipzig",
-          "away_team": "FC Viktoria 1889 Berlin"
+          "away_team": "FC Viktoria 1889 Berlin",
+          "result": {
+            "full_time": "4-0"
+          }
         }
       ]
     },
@@ -2442,58 +2586,85 @@
       "matchday": "Matchday 31",
       "matches": [
         {
+          "date": "2025-04-25",
+          "time": "19:00",
+          "home_team": "1. FC Lok Leipzig",
+          "away_team": "Greifswalder FC",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2025-04-25",
+          "time": "19:00",
+          "home_team": "Hallescher FC",
+          "away_team": "BSG Chemie Leipzig",
+          "result": {
+            "full_time": "3-1"
+          }
+        },
+        {
+          "date": "2025-04-26",
+          "time": "13:00",
+          "home_team": "FC Viktoria 1889 Berlin",
+          "away_team": "BFC Dynamo",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2025-04-26",
+          "time": "13:00",
+          "home_team": "Hertha BSC II",
+          "away_team": "ZFC Meuselwitz",
+          "result": {
+            "full_time": "4-1"
+          }
+        },
+        {
+          "date": "2025-04-26",
+          "time": "16:00",
+          "home_team": "Rot-Weiß Erfurt",
+          "away_team": "VFC Plauen",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2025-04-27",
+          "time": "13:00",
+          "home_team": "FSV 63 Luckenwalde",
+          "away_team": "FC Carl Zeiss Jena",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2025-04-27",
+          "time": "13:00",
+          "home_team": "VSG Altglienicke",
+          "away_team": "Chemnitzer FC",
+          "result": {
+            "full_time": "0-2"
+          }
+        },
+        {
+          "date": "2025-04-27",
+          "time": "13:00",
+          "home_team": "FC Eilenburg",
+          "away_team": "Hertha Zehlendorf",
+          "result": {
+            "full_time": "4-3"
+          }
+        },
+        {
           "date": "2025-04-27",
           "time": "14:00",
           "home_team": "FSV Zwickau",
-          "away_team": "SV Babelsberg 03"
-        },
-        {
-          "date": "2025-04-27",
-          "time": "14:00",
-          "home_team": "FSV 63 Luckenwalde",
-          "away_team": "FC Carl Zeiss Jena"
-        },
-        {
-          "date": "2025-04-27",
-          "time": "14:00",
-          "home_team": "Rot-Weiß Erfurt",
-          "away_team": "VFC Plauen"
-        },
-        {
-          "date": "2025-04-27",
-          "time": "14:00",
-          "home_team": "VSG Altglienicke",
-          "away_team": "Chemnitzer FC"
-        },
-        {
-          "date": "2025-04-27",
-          "time": "14:00",
-          "home_team": "1. FC Lok Leipzig",
-          "away_team": "Greifswalder FC"
-        },
-        {
-          "date": "2025-04-27",
-          "time": "14:00",
-          "home_team": "FC Eilenburg",
-          "away_team": "Hertha Zehlendorf"
-        },
-        {
-          "date": "2025-04-27",
-          "time": "14:00",
-          "home_team": "FC Viktoria 1889 Berlin",
-          "away_team": "BFC Dynamo"
-        },
-        {
-          "date": "2025-04-27",
-          "time": "14:00",
-          "home_team": "Hallescher FC",
-          "away_team": "BSG Chemie Leipzig"
-        },
-        {
-          "date": "2025-04-27",
-          "time": "14:00",
-          "home_team": "Hertha BSC II",
-          "away_team": "ZFC Meuselwitz"
+          "away_team": "SV Babelsberg 03",
+          "result": {
+            "full_time": "2-1"
+          }
         }
       ]
     },
@@ -2501,58 +2672,85 @@
       "matchday": "Matchday 32",
       "matches": [
         {
-          "date": "2025-05-04",
-          "time": "14:00",
-          "home_team": "Rot-Weiß Erfurt",
-          "away_team": "FSV 63 Luckenwalde"
-        },
-        {
-          "date": "2025-05-04",
-          "time": "14:00",
-          "home_team": "SV Babelsberg 03",
-          "away_team": "FC Carl Zeiss Jena"
-        },
-        {
-          "date": "2025-05-04",
-          "time": "14:00",
-          "home_team": "ZFC Meuselwitz",
-          "away_team": "FSV Zwickau"
-        },
-        {
-          "date": "2025-05-04",
-          "time": "14:00",
-          "home_team": "BSG Chemie Leipzig",
-          "away_team": "Hertha BSC II"
-        },
-        {
-          "date": "2025-05-04",
-          "time": "14:00",
+          "date": "2025-05-02",
+          "time": "19:00",
           "home_team": "BFC Dynamo",
-          "away_team": "Hallescher FC"
+          "away_team": "Hallescher FC",
+          "result": {
+            "full_time": "1-2"
+          }
         },
         {
-          "date": "2025-05-04",
-          "time": "14:00",
+          "date": "2025-05-02",
+          "time": "19:00",
           "home_team": "Hertha Zehlendorf",
-          "away_team": "FC Viktoria 1889 Berlin"
+          "away_team": "FC Viktoria 1889 Berlin",
+          "result": {
+            "full_time": "5-1"
+          }
         },
         {
-          "date": "2025-05-04",
-          "time": "14:00",
-          "home_team": "Greifswalder FC",
-          "away_team": "FC Eilenburg"
+          "date": "2025-05-03",
+          "time": "13:00",
+          "home_team": "Rot-Weiß Erfurt",
+          "away_team": "FSV 63 Luckenwalde",
+          "result": {
+            "full_time": "3-2"
+          }
         },
         {
-          "date": "2025-05-04",
+          "date": "2025-05-03",
+          "time": "13:00",
+          "home_team": "VFC Plauen",
+          "away_team": "VSG Altglienicke",
+          "result": {
+            "full_time": "0-3"
+          }
+        },
+        {
+          "date": "2025-05-03",
           "time": "14:00",
           "home_team": "Chemnitzer FC",
-          "away_team": "1. FC Lok Leipzig"
+          "away_team": "1. FC Lok Leipzig",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-05-04",
-          "time": "14:00",
-          "home_team": "VFC Plauen",
-          "away_team": "VSG Altglienicke"
+          "time": "13:00",
+          "home_team": "BSG Chemie Leipzig",
+          "away_team": "Hertha BSC II",
+          "result": {
+            "full_time": "2-2"
+          }
+        },
+        {
+          "date": "2025-05-04",
+          "time": "13:00",
+          "home_team": "Greifswalder FC",
+          "away_team": "FC Eilenburg",
+          "result": {
+            "full_time": "4-2"
+          }
+        },
+        {
+          "date": "2025-05-04",
+          "time": "13:30",
+          "home_team": "ZFC Meuselwitz",
+          "away_team": "FSV Zwickau",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2025-05-06",
+          "time": "19:00",
+          "home_team": "SV Babelsberg 03",
+          "away_team": "FC Carl Zeiss Jena",
+          "result": {
+            "full_time": "1-4"
+          }
         }
       ]
     },
@@ -2560,58 +2758,85 @@
       "matchday": "Matchday 33",
       "matches": [
         {
-          "date": "2025-05-11",
-          "time": "14:00",
-          "home_team": "SV Babelsberg 03",
-          "away_team": "FSV 63 Luckenwalde"
-        },
-        {
-          "date": "2025-05-11",
-          "time": "14:00",
-          "home_team": "VSG Altglienicke",
-          "away_team": "Rot-Weiß Erfurt"
-        },
-        {
-          "date": "2025-05-11",
-          "time": "14:00",
-          "home_team": "1. FC Lok Leipzig",
-          "away_team": "VFC Plauen"
-        },
-        {
-          "date": "2025-05-11",
-          "time": "14:00",
+          "date": "2025-05-09",
+          "time": "19:00",
           "home_team": "FC Eilenburg",
-          "away_team": "Chemnitzer FC"
+          "away_team": "Chemnitzer FC",
+          "result": {
+            "full_time": "2-2"
+          }
         },
         {
-          "date": "2025-05-11",
-          "time": "14:00",
-          "home_team": "FC Viktoria 1889 Berlin",
-          "away_team": "Greifswalder FC"
-        },
-        {
-          "date": "2025-05-11",
-          "time": "14:00",
-          "home_team": "Hallescher FC",
-          "away_team": "Hertha Zehlendorf"
-        },
-        {
-          "date": "2025-05-11",
-          "time": "14:00",
+          "date": "2025-05-09",
+          "time": "19:00",
           "home_team": "Hertha BSC II",
-          "away_team": "BFC Dynamo"
+          "away_team": "BFC Dynamo",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2025-05-10",
+          "time": "13:00",
+          "home_team": "SV Babelsberg 03",
+          "away_team": "FSV 63 Luckenwalde",
+          "result": {
+            "full_time": "1-2"
+          }
+        },
+        {
+          "date": "2025-05-10",
+          "time": "13:00",
+          "home_team": "FC Carl Zeiss Jena",
+          "away_team": "ZFC Meuselwitz",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2025-05-10",
+          "time": "16:15",
+          "home_team": "1. FC Lok Leipzig",
+          "away_team": "VFC Plauen",
+          "result": {
+            "full_time": "2-0"
+          }
+        },
+        {
+          "date": "2025-05-11",
+          "time": "13:00",
+          "home_team": "VSG Altglienicke",
+          "away_team": "Rot-Weiß Erfurt",
+          "result": {
+            "full_time": "0-1"
+          }
+        },
+        {
+          "date": "2025-05-11",
+          "time": "13:00",
+          "home_team": "FC Viktoria 1889 Berlin",
+          "away_team": "Greifswalder FC",
+          "result": {
+            "full_time": "1-1"
+          }
+        },
+        {
+          "date": "2025-05-11",
+          "time": "13:00",
+          "home_team": "Hallescher FC",
+          "away_team": "Hertha Zehlendorf",
+          "result": {
+            "full_time": "4-1"
+          }
         },
         {
           "date": "2025-05-11",
           "time": "14:00",
           "home_team": "FSV Zwickau",
-          "away_team": "BSG Chemie Leipzig"
-        },
-        {
-          "date": "2025-05-11",
-          "time": "14:00",
-          "home_team": "FC Carl Zeiss Jena",
-          "away_team": "ZFC Meuselwitz"
+          "away_team": "BSG Chemie Leipzig",
+          "result": {
+            "full_time": "1-1"
+          }
         }
       ]
     },
@@ -2619,58 +2844,85 @@
       "matchday": "Matchday 34",
       "matches": [
         {
-          "date": "2025-05-18",
-          "time": "14:00",
-          "home_team": "ZFC Meuselwitz",
-          "away_team": "SV Babelsberg 03"
-        },
-        {
-          "date": "2025-05-18",
-          "time": "14:00",
-          "home_team": "BSG Chemie Leipzig",
-          "away_team": "FC Carl Zeiss Jena"
-        },
-        {
-          "date": "2025-05-18",
-          "time": "14:00",
-          "home_team": "BFC Dynamo",
-          "away_team": "FSV Zwickau"
-        },
-        {
-          "date": "2025-05-18",
-          "time": "14:00",
-          "home_team": "Hertha Zehlendorf",
-          "away_team": "Hertha BSC II"
-        },
-        {
-          "date": "2025-05-18",
-          "time": "14:00",
-          "home_team": "Greifswalder FC",
-          "away_team": "Hallescher FC"
-        },
-        {
-          "date": "2025-05-18",
-          "time": "14:00",
+          "date": "2025-05-17",
+          "time": "13:30",
           "home_team": "Chemnitzer FC",
-          "away_team": "FC Viktoria 1889 Berlin"
+          "away_team": "FC Viktoria 1889 Berlin",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-05-18",
-          "time": "14:00",
+          "time": "13:00",
+          "home_team": "ZFC Meuselwitz",
+          "away_team": "SV Babelsberg 03",
+          "result": {
+            "full_time": "2-3"
+          }
+        },
+        {
+          "date": "2025-05-18",
+          "time": "13:00",
+          "home_team": "BSG Chemie Leipzig",
+          "away_team": "FC Carl Zeiss Jena",
+          "result": {
+            "full_time": "0-3"
+          }
+        },
+        {
+          "date": "2025-05-18",
+          "time": "13:00",
+          "home_team": "BFC Dynamo",
+          "away_team": "FSV Zwickau",
+          "result": {
+            "full_time": "2-2"
+          }
+        },
+        {
+          "date": "2025-05-18",
+          "time": "13:00",
+          "home_team": "Hertha Zehlendorf",
+          "away_team": "Hertha BSC II",
+          "result": {
+            "full_time": "4-0"
+          }
+        },
+        {
+          "date": "2025-05-18",
+          "time": "13:00",
           "home_team": "VFC Plauen",
-          "away_team": "FC Eilenburg"
+          "away_team": "FC Eilenburg",
+          "result": {
+            "full_time": "1-1"
+          }
         },
         {
           "date": "2025-05-18",
-          "time": "14:00",
-          "home_team": "Rot-Weiß Erfurt",
-          "away_team": "1. FC Lok Leipzig"
-        },
-        {
-          "date": "2025-05-18",
-          "time": "14:00",
+          "time": "13:00",
           "home_team": "FSV 63 Luckenwalde",
-          "away_team": "VSG Altglienicke"
+          "away_team": "VSG Altglienicke",
+          "result": {
+            "full_time": "0-0"
+          }
+        },
+        {
+          "date": "2025-05-18",
+          "time": "13:05",
+          "home_team": "Greifswalder FC",
+          "away_team": "Hallescher FC",
+          "result": {
+            "full_time": "4-0"
+          }
+        },
+        {
+          "date": "2025-05-18",
+          "time": "13:05",
+          "home_team": "Rot-Weiß Erfurt",
+          "away_team": "1. FC Lok Leipzig",
+          "result": {
+            "full_time": "2-4"
+          }
         }
       ]
     }

@@ -1142,7 +1142,10 @@
           "date": "2025-05-17",
           "time": "16:30",
           "home_team": "Crystal Palace",
-          "away_team": "Manchester City"
+          "away_team": "Manchester City",
+          "result": {
+            "full_time": "1-0"
+          }
         }
       ]
     }
