@@ -1,0 +1,2012 @@
+{
+  "league": "French Ligue 2",
+  "season": "2025/26",
+  "matchdays": [
+    {
+      "matchday": "Matchday 1",
+      "matches": [
+        {
+          "date": "2025-08-09",
+          "time": "14:00",
+          "home_team": "EA Guingamp",
+          "away_team": "Le Mans FC"
+        },
+        {
+          "date": "2025-08-09",
+          "time": "20:00",
+          "home_team": "US Boulogne",
+          "away_team": "SC Bastia"
+        },
+        {
+          "date": "2025-08-09",
+          "time": "20:00",
+          "home_team": "ESTAC Troyes",
+          "away_team": "Grenoble Foot 38"
+        },
+        {
+          "date": "2025-08-09",
+          "time": "20:00",
+          "home_team": "Pau FC",
+          "away_team": "FC Annecy"
+        },
+        {
+          "date": "2025-08-09",
+          "time": "20:00",
+          "home_team": "Montpellier HSC",
+          "away_team": "Red Star FC"
+        },
+        {
+          "date": "2025-08-09",
+          "time": "20:00",
+          "home_team": "Rodez AF",
+          "away_team": "AS Nancy Lorraine"
+        },
+        {
+          "date": "2025-08-09",
+          "time": "20:00",
+          "home_team": "Stade Lavallois",
+          "away_team": "AS Saint-Étienne"
+        },
+        {
+          "date": "2025-08-09",
+          "time": "20:00",
+          "home_team": "USL Dunkerque",
+          "away_team": "Clermont Foot 63"
+        },
+        {
+          "date": "2025-08-11",
+          "time": "20:45",
+          "home_team": "Amiens SC",
+          "away_team": "Stade de Reims"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 2",
+      "matches": [
+        {
+          "date": "2025-08-15",
+          "time": "20:00",
+          "home_team": "AS Nancy Lorraine",
+          "away_team": "US Boulogne"
+        },
+        {
+          "date": "2025-08-15",
+          "time": "20:00",
+          "home_team": "Clermont Foot 63",
+          "away_team": "ESTAC Troyes"
+        },
+        {
+          "date": "2025-08-15",
+          "time": "20:00",
+          "home_team": "Red Star FC",
+          "away_team": "Amiens SC"
+        },
+        {
+          "date": "2025-08-15",
+          "time": "20:00",
+          "home_team": "Grenoble Foot 38",
+          "away_team": "Stade Lavallois"
+        },
+        {
+          "date": "2025-08-15",
+          "time": "20:00",
+          "home_team": "SC Bastia",
+          "away_team": "Pau FC"
+        },
+        {
+          "date": "2025-08-16",
+          "time": "14:00",
+          "home_team": "FC Annecy",
+          "away_team": "USL Dunkerque"
+        },
+        {
+          "date": "2025-08-16",
+          "time": "14:00",
+          "home_team": "Stade de Reims",
+          "away_team": "EA Guingamp"
+        },
+        {
+          "date": "2025-08-16",
+          "time": "20:00",
+          "home_team": "AS Saint-Étienne",
+          "away_team": "Rodez AF"
+        },
+        {
+          "date": "2025-08-18",
+          "time": "20:45",
+          "home_team": "Le Mans FC",
+          "away_team": "Montpellier HSC"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 3",
+      "matches": [
+        {
+          "date": "2025-08-22",
+          "time": "20:00",
+          "home_team": "Clermont Foot 63",
+          "away_team": "Grenoble Foot 38"
+        },
+        {
+          "date": "2025-08-22",
+          "time": "20:00",
+          "home_team": "Le Mans FC",
+          "away_team": "SC Bastia"
+        },
+        {
+          "date": "2025-08-22",
+          "time": "20:00",
+          "home_team": "Rodez AF",
+          "away_team": "Stade Lavallois"
+        },
+        {
+          "date": "2025-08-22",
+          "time": "20:00",
+          "home_team": "Amiens SC",
+          "away_team": "FC Annecy"
+        },
+        {
+          "date": "2025-08-22",
+          "time": "20:00",
+          "home_team": "USL Dunkerque",
+          "away_team": "AS Nancy Lorraine"
+        },
+        {
+          "date": "2025-08-23",
+          "time": "14:00",
+          "home_team": "EA Guingamp",
+          "away_team": "Red Star FC"
+        },
+        {
+          "date": "2025-08-23",
+          "time": "14:00",
+          "home_team": "ESTAC Troyes",
+          "away_team": "Montpellier HSC"
+        },
+        {
+          "date": "2025-08-23",
+          "time": "20:00",
+          "home_team": "US Boulogne",
+          "away_team": "AS Saint-Étienne"
+        },
+        {
+          "date": "2025-08-25",
+          "time": "20:45",
+          "home_team": "Pau FC",
+          "away_team": "Stade de Reims"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 4",
+      "matches": [
+        {
+          "date": "2025-08-29",
+          "time": "20:00",
+          "home_team": "AS Nancy Lorraine",
+          "away_team": "Pau FC"
+        },
+        {
+          "date": "2025-08-29",
+          "time": "20:00",
+          "home_team": "Red Star FC",
+          "away_team": "FC Annecy"
+        },
+        {
+          "date": "2025-08-29",
+          "time": "20:00",
+          "home_team": "Montpellier HSC",
+          "away_team": "Amiens SC"
+        },
+        {
+          "date": "2025-08-29",
+          "time": "20:00",
+          "home_team": "Rodez AF",
+          "away_team": "US Boulogne"
+        },
+        {
+          "date": "2025-08-29",
+          "time": "20:00",
+          "home_team": "Stade Lavallois",
+          "away_team": "Clermont Foot 63"
+        },
+        {
+          "date": "2025-08-29",
+          "time": "20:00",
+          "home_team": "USL Dunkerque",
+          "away_team": "ESTAC Troyes"
+        },
+        {
+          "date": "2025-08-30",
+          "time": "14:00",
+          "home_team": "SC Bastia",
+          "away_team": "EA Guingamp"
+        },
+        {
+          "date": "2025-08-30",
+          "time": "14:00",
+          "home_team": "Stade de Reims",
+          "away_team": "Le Mans FC"
+        },
+        {
+          "date": "2025-08-30",
+          "time": "20:00",
+          "home_team": "AS Saint-Étienne",
+          "away_team": "Grenoble Foot 38"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 5",
+      "matches": [
+        {
+          "date": "2025-09-12",
+          "time": "20:00",
+          "home_team": "US Boulogne",
+          "away_team": "Stade Lavallois"
+        },
+        {
+          "date": "2025-09-12",
+          "time": "20:00",
+          "home_team": "Clermont Foot 63",
+          "away_team": "AS Saint-Étienne"
+        },
+        {
+          "date": "2025-09-12",
+          "time": "20:00",
+          "home_team": "EA Guingamp",
+          "away_team": "Montpellier HSC"
+        },
+        {
+          "date": "2025-09-12",
+          "time": "20:00",
+          "home_team": "ESTAC Troyes",
+          "away_team": "AS Nancy Lorraine"
+        },
+        {
+          "date": "2025-09-12",
+          "time": "20:00",
+          "home_team": "FC Annecy",
+          "away_team": "Stade de Reims"
+        },
+        {
+          "date": "2025-09-12",
+          "time": "20:00",
+          "home_team": "Pau FC",
+          "away_team": "Red Star FC"
+        },
+        {
+          "date": "2025-09-12",
+          "time": "20:00",
+          "home_team": "Grenoble Foot 38",
+          "away_team": "USL Dunkerque"
+        },
+        {
+          "date": "2025-09-12",
+          "time": "20:00",
+          "home_team": "Le Mans FC",
+          "away_team": "Rodez AF"
+        },
+        {
+          "date": "2025-09-12",
+          "time": "20:00",
+          "home_team": "Amiens SC",
+          "away_team": "SC Bastia"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 6",
+      "matches": [
+        {
+          "date": "2025-09-19",
+          "time": "20:00",
+          "home_team": "US Boulogne",
+          "away_team": "Pau FC"
+        },
+        {
+          "date": "2025-09-19",
+          "time": "20:00",
+          "home_team": "AS Nancy Lorraine",
+          "away_team": "Red Star FC"
+        },
+        {
+          "date": "2025-09-19",
+          "time": "20:00",
+          "home_team": "AS Saint-Étienne",
+          "away_team": "Stade de Reims"
+        },
+        {
+          "date": "2025-09-19",
+          "time": "20:00",
+          "home_team": "ESTAC Troyes",
+          "away_team": "EA Guingamp"
+        },
+        {
+          "date": "2025-09-19",
+          "time": "20:00",
+          "home_team": "Grenoble Foot 38",
+          "away_team": "FC Annecy"
+        },
+        {
+          "date": "2025-09-19",
+          "time": "20:00",
+          "home_team": "Montpellier HSC",
+          "away_team": "SC Bastia"
+        },
+        {
+          "date": "2025-09-19",
+          "time": "20:00",
+          "home_team": "Rodez AF",
+          "away_team": "Clermont Foot 63"
+        },
+        {
+          "date": "2025-09-19",
+          "time": "20:00",
+          "home_team": "Stade Lavallois",
+          "away_team": "Amiens SC"
+        },
+        {
+          "date": "2025-09-19",
+          "time": "20:00",
+          "home_team": "USL Dunkerque",
+          "away_team": "Le Mans FC"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 7",
+      "matches": [
+        {
+          "date": "2025-09-23",
+          "time": "20:00",
+          "home_team": "EA Guingamp",
+          "away_team": "USL Dunkerque"
+        },
+        {
+          "date": "2025-09-23",
+          "time": "20:00",
+          "home_team": "FC Annecy",
+          "away_team": "AS Nancy Lorraine"
+        },
+        {
+          "date": "2025-09-23",
+          "time": "20:00",
+          "home_team": "Pau FC",
+          "away_team": "Stade Lavallois"
+        },
+        {
+          "date": "2025-09-23",
+          "time": "20:00",
+          "home_team": "Red Star FC",
+          "away_team": "ESTAC Troyes"
+        },
+        {
+          "date": "2025-09-23",
+          "time": "20:00",
+          "home_team": "Montpellier HSC",
+          "away_team": "US Boulogne"
+        },
+        {
+          "date": "2025-09-23",
+          "time": "20:00",
+          "home_team": "Le Mans FC",
+          "away_team": "Grenoble Foot 38"
+        },
+        {
+          "date": "2025-09-23",
+          "time": "20:00",
+          "home_team": "Amiens SC",
+          "away_team": "AS Saint-Étienne"
+        },
+        {
+          "date": "2025-09-23",
+          "time": "20:00",
+          "home_team": "SC Bastia",
+          "away_team": "Rodez AF"
+        },
+        {
+          "date": "2025-09-23",
+          "time": "20:00",
+          "home_team": "Stade de Reims",
+          "away_team": "Clermont Foot 63"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 8",
+      "matches": [
+        {
+          "date": "2025-09-26",
+          "time": "20:00",
+          "home_team": "US Boulogne",
+          "away_team": "Red Star FC"
+        },
+        {
+          "date": "2025-09-26",
+          "time": "20:00",
+          "home_team": "AS Nancy Lorraine",
+          "away_team": "Stade de Reims"
+        },
+        {
+          "date": "2025-09-26",
+          "time": "20:00",
+          "home_team": "AS Saint-Étienne",
+          "away_team": "EA Guingamp"
+        },
+        {
+          "date": "2025-09-26",
+          "time": "20:00",
+          "home_team": "Clermont Foot 63",
+          "away_team": "Le Mans FC"
+        },
+        {
+          "date": "2025-09-26",
+          "time": "20:00",
+          "home_team": "ESTAC Troyes",
+          "away_team": "FC Annecy"
+        },
+        {
+          "date": "2025-09-26",
+          "time": "20:00",
+          "home_team": "Grenoble Foot 38",
+          "away_team": "SC Bastia"
+        },
+        {
+          "date": "2025-09-26",
+          "time": "20:00",
+          "home_team": "Rodez AF",
+          "away_team": "Pau FC"
+        },
+        {
+          "date": "2025-09-26",
+          "time": "20:00",
+          "home_team": "Stade Lavallois",
+          "away_team": "Montpellier HSC"
+        },
+        {
+          "date": "2025-09-26",
+          "time": "20:00",
+          "home_team": "USL Dunkerque",
+          "away_team": "Amiens SC"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 9",
+      "matches": [
+        {
+          "date": "2025-10-03",
+          "time": "20:00",
+          "home_team": "EA Guingamp",
+          "away_team": "AS Nancy Lorraine"
+        },
+        {
+          "date": "2025-10-03",
+          "time": "20:00",
+          "home_team": "FC Annecy",
+          "away_team": "Stade Lavallois"
+        },
+        {
+          "date": "2025-10-03",
+          "time": "20:00",
+          "home_team": "Pau FC",
+          "away_team": "Clermont Foot 63"
+        },
+        {
+          "date": "2025-10-03",
+          "time": "20:00",
+          "home_team": "Red Star FC",
+          "away_team": "Rodez AF"
+        },
+        {
+          "date": "2025-10-03",
+          "time": "20:00",
+          "home_team": "Montpellier HSC",
+          "away_team": "AS Saint-Étienne"
+        },
+        {
+          "date": "2025-10-03",
+          "time": "20:00",
+          "home_team": "Le Mans FC",
+          "away_team": "ESTAC Troyes"
+        },
+        {
+          "date": "2025-10-03",
+          "time": "20:00",
+          "home_team": "Amiens SC",
+          "away_team": "US Boulogne"
+        },
+        {
+          "date": "2025-10-03",
+          "time": "20:00",
+          "home_team": "SC Bastia",
+          "away_team": "USL Dunkerque"
+        },
+        {
+          "date": "2025-10-03",
+          "time": "20:00",
+          "home_team": "Stade de Reims",
+          "away_team": "Grenoble Foot 38"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 10",
+      "matches": [
+        {
+          "date": "2025-10-17",
+          "time": "20:00",
+          "home_team": "US Boulogne",
+          "away_team": "EA Guingamp"
+        },
+        {
+          "date": "2025-10-17",
+          "time": "20:00",
+          "home_team": "AS Nancy Lorraine",
+          "away_team": "Amiens SC"
+        },
+        {
+          "date": "2025-10-17",
+          "time": "20:00",
+          "home_team": "AS Saint-Étienne",
+          "away_team": "Le Mans FC"
+        },
+        {
+          "date": "2025-10-17",
+          "time": "20:00",
+          "home_team": "Clermont Foot 63",
+          "away_team": "FC Annecy"
+        },
+        {
+          "date": "2025-10-17",
+          "time": "20:00",
+          "home_team": "ESTAC Troyes",
+          "away_team": "SC Bastia"
+        },
+        {
+          "date": "2025-10-17",
+          "time": "20:00",
+          "home_team": "Grenoble Foot 38",
+          "away_team": "Pau FC"
+        },
+        {
+          "date": "2025-10-17",
+          "time": "20:00",
+          "home_team": "Rodez AF",
+          "away_team": "Stade de Reims"
+        },
+        {
+          "date": "2025-10-17",
+          "time": "20:00",
+          "home_team": "Stade Lavallois",
+          "away_team": "Red Star FC"
+        },
+        {
+          "date": "2025-10-17",
+          "time": "20:00",
+          "home_team": "USL Dunkerque",
+          "away_team": "Montpellier HSC"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 11",
+      "matches": [
+        {
+          "date": "2025-10-24",
+          "time": "20:00",
+          "home_team": "EA Guingamp",
+          "away_team": "Clermont Foot 63"
+        },
+        {
+          "date": "2025-10-24",
+          "time": "20:00",
+          "home_team": "FC Annecy",
+          "away_team": "AS Saint-Étienne"
+        },
+        {
+          "date": "2025-10-24",
+          "time": "20:00",
+          "home_team": "Pau FC",
+          "away_team": "USL Dunkerque"
+        },
+        {
+          "date": "2025-10-24",
+          "time": "20:00",
+          "home_team": "Red Star FC",
+          "away_team": "Grenoble Foot 38"
+        },
+        {
+          "date": "2025-10-24",
+          "time": "20:00",
+          "home_team": "Montpellier HSC",
+          "away_team": "AS Nancy Lorraine"
+        },
+        {
+          "date": "2025-10-24",
+          "time": "20:00",
+          "home_team": "Le Mans FC",
+          "away_team": "US Boulogne"
+        },
+        {
+          "date": "2025-10-24",
+          "time": "20:00",
+          "home_team": "Amiens SC",
+          "away_team": "Rodez AF"
+        },
+        {
+          "date": "2025-10-24",
+          "time": "20:00",
+          "home_team": "SC Bastia",
+          "away_team": "Stade Lavallois"
+        },
+        {
+          "date": "2025-10-24",
+          "time": "20:00",
+          "home_team": "Stade de Reims",
+          "away_team": "ESTAC Troyes"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 12",
+      "matches": [
+        {
+          "date": "2025-10-28",
+          "time": "20:00",
+          "home_team": "US Boulogne",
+          "away_team": "Stade de Reims"
+        },
+        {
+          "date": "2025-10-28",
+          "time": "20:00",
+          "home_team": "AS Nancy Lorraine",
+          "away_team": "SC Bastia"
+        },
+        {
+          "date": "2025-10-28",
+          "time": "20:00",
+          "home_team": "AS Saint-Étienne",
+          "away_team": "Pau FC"
+        },
+        {
+          "date": "2025-10-28",
+          "time": "20:00",
+          "home_team": "Clermont Foot 63",
+          "away_team": "Montpellier HSC"
+        },
+        {
+          "date": "2025-10-28",
+          "time": "20:00",
+          "home_team": "ESTAC Troyes",
+          "away_team": "Amiens SC"
+        },
+        {
+          "date": "2025-10-28",
+          "time": "20:00",
+          "home_team": "Grenoble Foot 38",
+          "away_team": "EA Guingamp"
+        },
+        {
+          "date": "2025-10-28",
+          "time": "20:00",
+          "home_team": "Rodez AF",
+          "away_team": "FC Annecy"
+        },
+        {
+          "date": "2025-10-28",
+          "time": "20:00",
+          "home_team": "Stade Lavallois",
+          "away_team": "Le Mans FC"
+        },
+        {
+          "date": "2025-10-28",
+          "time": "20:00",
+          "home_team": "USL Dunkerque",
+          "away_team": "Red Star FC"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 13",
+      "matches": [
+        {
+          "date": "2025-10-31",
+          "time": "20:00",
+          "home_team": "EA Guingamp",
+          "away_team": "Stade Lavallois"
+        },
+        {
+          "date": "2025-10-31",
+          "time": "20:00",
+          "home_team": "FC Annecy",
+          "away_team": "US Boulogne"
+        },
+        {
+          "date": "2025-10-31",
+          "time": "20:00",
+          "home_team": "Pau FC",
+          "away_team": "ESTAC Troyes"
+        },
+        {
+          "date": "2025-10-31",
+          "time": "20:00",
+          "home_team": "Red Star FC",
+          "away_team": "AS Saint-Étienne"
+        },
+        {
+          "date": "2025-10-31",
+          "time": "20:00",
+          "home_team": "Montpellier HSC",
+          "away_team": "Rodez AF"
+        },
+        {
+          "date": "2025-10-31",
+          "time": "20:00",
+          "home_team": "Le Mans FC",
+          "away_team": "AS Nancy Lorraine"
+        },
+        {
+          "date": "2025-10-31",
+          "time": "20:00",
+          "home_team": "Amiens SC",
+          "away_team": "Grenoble Foot 38"
+        },
+        {
+          "date": "2025-10-31",
+          "time": "20:00",
+          "home_team": "SC Bastia",
+          "away_team": "Clermont Foot 63"
+        },
+        {
+          "date": "2025-10-31",
+          "time": "20:00",
+          "home_team": "Stade de Reims",
+          "away_team": "USL Dunkerque"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 14",
+      "matches": [
+        {
+          "date": "2025-11-07",
+          "time": "20:00",
+          "home_team": "AS Nancy Lorraine",
+          "away_team": "Stade Lavallois"
+        },
+        {
+          "date": "2025-11-07",
+          "time": "20:00",
+          "home_team": "Clermont Foot 63",
+          "away_team": "Amiens SC"
+        },
+        {
+          "date": "2025-11-07",
+          "time": "20:00",
+          "home_team": "EA Guingamp",
+          "away_team": "Pau FC"
+        },
+        {
+          "date": "2025-11-07",
+          "time": "20:00",
+          "home_team": "ESTAC Troyes",
+          "away_team": "AS Saint-Étienne"
+        },
+        {
+          "date": "2025-11-07",
+          "time": "20:00",
+          "home_team": "Grenoble Foot 38",
+          "away_team": "Rodez AF"
+        },
+        {
+          "date": "2025-11-07",
+          "time": "20:00",
+          "home_team": "Montpellier HSC",
+          "away_team": "FC Annecy"
+        },
+        {
+          "date": "2025-11-07",
+          "time": "20:00",
+          "home_team": "Le Mans FC",
+          "away_team": "Red Star FC"
+        },
+        {
+          "date": "2025-11-07",
+          "time": "20:00",
+          "home_team": "SC Bastia",
+          "away_team": "Stade de Reims"
+        },
+        {
+          "date": "2025-11-07",
+          "time": "20:00",
+          "home_team": "USL Dunkerque",
+          "away_team": "US Boulogne"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 15",
+      "matches": [
+        {
+          "date": "2025-11-21",
+          "time": "20:00",
+          "home_team": "US Boulogne",
+          "away_team": "Grenoble Foot 38"
+        },
+        {
+          "date": "2025-11-21",
+          "time": "20:00",
+          "home_team": "AS Saint-Étienne",
+          "away_team": "AS Nancy Lorraine"
+        },
+        {
+          "date": "2025-11-21",
+          "time": "20:00",
+          "home_team": "FC Annecy",
+          "away_team": "SC Bastia"
+        },
+        {
+          "date": "2025-11-21",
+          "time": "20:00",
+          "home_team": "Pau FC",
+          "away_team": "Le Mans FC"
+        },
+        {
+          "date": "2025-11-21",
+          "time": "20:00",
+          "home_team": "Red Star FC",
+          "away_team": "Clermont Foot 63"
+        },
+        {
+          "date": "2025-11-21",
+          "time": "20:00",
+          "home_team": "Rodez AF",
+          "away_team": "USL Dunkerque"
+        },
+        {
+          "date": "2025-11-21",
+          "time": "20:00",
+          "home_team": "Amiens SC",
+          "away_team": "EA Guingamp"
+        },
+        {
+          "date": "2025-11-21",
+          "time": "20:00",
+          "home_team": "Stade Lavallois",
+          "away_team": "ESTAC Troyes"
+        },
+        {
+          "date": "2025-11-21",
+          "time": "20:00",
+          "home_team": "Stade de Reims",
+          "away_team": "Montpellier HSC"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 16",
+      "matches": [
+        {
+          "date": "2025-12-05",
+          "time": "20:00",
+          "home_team": "Clermont Foot 63",
+          "away_team": "US Boulogne"
+        },
+        {
+          "date": "2025-12-05",
+          "time": "20:00",
+          "home_team": "EA Guingamp",
+          "away_team": "FC Annecy"
+        },
+        {
+          "date": "2025-12-05",
+          "time": "20:00",
+          "home_team": "ESTAC Troyes",
+          "away_team": "Rodez AF"
+        },
+        {
+          "date": "2025-12-05",
+          "time": "20:00",
+          "home_team": "Grenoble Foot 38",
+          "away_team": "AS Nancy Lorraine"
+        },
+        {
+          "date": "2025-12-05",
+          "time": "20:00",
+          "home_team": "Montpellier HSC",
+          "away_team": "Pau FC"
+        },
+        {
+          "date": "2025-12-05",
+          "time": "20:00",
+          "home_team": "Le Mans FC",
+          "away_team": "Amiens SC"
+        },
+        {
+          "date": "2025-12-05",
+          "time": "20:00",
+          "home_team": "SC Bastia",
+          "away_team": "Red Star FC"
+        },
+        {
+          "date": "2025-12-05",
+          "time": "20:00",
+          "home_team": "Stade de Reims",
+          "away_team": "Stade Lavallois"
+        },
+        {
+          "date": "2025-12-05",
+          "time": "20:00",
+          "home_team": "USL Dunkerque",
+          "away_team": "AS Saint-Étienne"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 17",
+      "matches": [
+        {
+          "date": "2025-12-12",
+          "time": "20:00",
+          "home_team": "US Boulogne",
+          "away_team": "ESTAC Troyes"
+        },
+        {
+          "date": "2025-12-12",
+          "time": "20:00",
+          "home_team": "AS Nancy Lorraine",
+          "away_team": "Clermont Foot 63"
+        },
+        {
+          "date": "2025-12-12",
+          "time": "20:00",
+          "home_team": "AS Saint-Étienne",
+          "away_team": "SC Bastia"
+        },
+        {
+          "date": "2025-12-12",
+          "time": "20:00",
+          "home_team": "FC Annecy",
+          "away_team": "Le Mans FC"
+        },
+        {
+          "date": "2025-12-12",
+          "time": "20:00",
+          "home_team": "Pau FC",
+          "away_team": "Amiens SC"
+        },
+        {
+          "date": "2025-12-12",
+          "time": "20:00",
+          "home_team": "Red Star FC",
+          "away_team": "Stade de Reims"
+        },
+        {
+          "date": "2025-12-12",
+          "time": "20:00",
+          "home_team": "Grenoble Foot 38",
+          "away_team": "Montpellier HSC"
+        },
+        {
+          "date": "2025-12-12",
+          "time": "20:00",
+          "home_team": "Rodez AF",
+          "away_team": "EA Guingamp"
+        },
+        {
+          "date": "2025-12-12",
+          "time": "20:00",
+          "home_team": "Stade Lavallois",
+          "away_team": "USL Dunkerque"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 18",
+      "matches": [
+        {
+          "date": "2026-01-02",
+          "time": "20:00",
+          "home_team": "Clermont Foot 63",
+          "away_team": "Stade Lavallois"
+        },
+        {
+          "date": "2026-01-02",
+          "time": "20:00",
+          "home_team": "EA Guingamp",
+          "away_team": "US Boulogne"
+        },
+        {
+          "date": "2026-01-02",
+          "time": "20:00",
+          "home_team": "ESTAC Troyes",
+          "away_team": "Red Star FC"
+        },
+        {
+          "date": "2026-01-02",
+          "time": "20:00",
+          "home_team": "Pau FC",
+          "away_team": "Rodez AF"
+        },
+        {
+          "date": "2026-01-02",
+          "time": "20:00",
+          "home_team": "Montpellier HSC",
+          "away_team": "USL Dunkerque"
+        },
+        {
+          "date": "2026-01-02",
+          "time": "20:00",
+          "home_team": "Le Mans FC",
+          "away_team": "AS Saint-Étienne"
+        },
+        {
+          "date": "2026-01-02",
+          "time": "20:00",
+          "home_team": "Amiens SC",
+          "away_team": "AS Nancy Lorraine"
+        },
+        {
+          "date": "2026-01-02",
+          "time": "20:00",
+          "home_team": "SC Bastia",
+          "away_team": "Grenoble Foot 38"
+        },
+        {
+          "date": "2026-01-02",
+          "time": "20:00",
+          "home_team": "Stade de Reims",
+          "away_team": "FC Annecy"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 19",
+      "matches": [
+        {
+          "date": "2026-01-16",
+          "time": "20:00",
+          "home_team": "US Boulogne",
+          "away_team": "Montpellier HSC"
+        },
+        {
+          "date": "2026-01-16",
+          "time": "20:00",
+          "home_team": "AS Nancy Lorraine",
+          "away_team": "EA Guingamp"
+        },
+        {
+          "date": "2026-01-16",
+          "time": "20:00",
+          "home_team": "AS Saint-Étienne",
+          "away_team": "Clermont Foot 63"
+        },
+        {
+          "date": "2026-01-16",
+          "time": "20:00",
+          "home_team": "ESTAC Troyes",
+          "away_team": "Stade de Reims"
+        },
+        {
+          "date": "2026-01-16",
+          "time": "20:00",
+          "home_team": "FC Annecy",
+          "away_team": "Amiens SC"
+        },
+        {
+          "date": "2026-01-16",
+          "time": "20:00",
+          "home_team": "Grenoble Foot 38",
+          "away_team": "Red Star FC"
+        },
+        {
+          "date": "2026-01-16",
+          "time": "20:00",
+          "home_team": "Rodez AF",
+          "away_team": "Le Mans FC"
+        },
+        {
+          "date": "2026-01-16",
+          "time": "20:00",
+          "home_team": "Stade Lavallois",
+          "away_team": "SC Bastia"
+        },
+        {
+          "date": "2026-01-16",
+          "time": "20:00",
+          "home_team": "USL Dunkerque",
+          "away_team": "Pau FC"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 20",
+      "matches": [
+        {
+          "date": "2026-01-23",
+          "time": "20:00",
+          "home_team": "AS Nancy Lorraine",
+          "away_team": "Rodez AF"
+        },
+        {
+          "date": "2026-01-23",
+          "time": "20:00",
+          "home_team": "EA Guingamp",
+          "away_team": "ESTAC Troyes"
+        },
+        {
+          "date": "2026-01-23",
+          "time": "20:00",
+          "home_team": "FC Annecy",
+          "away_team": "Clermont Foot 63"
+        },
+        {
+          "date": "2026-01-23",
+          "time": "20:00",
+          "home_team": "Pau FC",
+          "away_team": "Grenoble Foot 38"
+        },
+        {
+          "date": "2026-01-23",
+          "time": "20:00",
+          "home_team": "Red Star FC",
+          "away_team": "US Boulogne"
+        },
+        {
+          "date": "2026-01-23",
+          "time": "20:00",
+          "home_team": "Le Mans FC",
+          "away_team": "USL Dunkerque"
+        },
+        {
+          "date": "2026-01-23",
+          "time": "20:00",
+          "home_team": "Amiens SC",
+          "away_team": "Stade Lavallois"
+        },
+        {
+          "date": "2026-01-23",
+          "time": "20:00",
+          "home_team": "SC Bastia",
+          "away_team": "Montpellier HSC"
+        },
+        {
+          "date": "2026-01-23",
+          "time": "20:00",
+          "home_team": "Stade de Reims",
+          "away_team": "AS Saint-Étienne"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 21",
+      "matches": [
+        {
+          "date": "2026-01-30",
+          "time": "20:00",
+          "home_team": "AS Saint-Étienne",
+          "away_team": "US Boulogne"
+        },
+        {
+          "date": "2026-01-30",
+          "time": "20:00",
+          "home_team": "Clermont Foot 63",
+          "away_team": "Stade de Reims"
+        },
+        {
+          "date": "2026-01-30",
+          "time": "20:00",
+          "home_team": "ESTAC Troyes",
+          "away_team": "Le Mans FC"
+        },
+        {
+          "date": "2026-01-30",
+          "time": "20:00",
+          "home_team": "Grenoble Foot 38",
+          "away_team": "Amiens SC"
+        },
+        {
+          "date": "2026-01-30",
+          "time": "20:00",
+          "home_team": "Montpellier HSC",
+          "away_team": "EA Guingamp"
+        },
+        {
+          "date": "2026-01-30",
+          "time": "20:00",
+          "home_team": "Rodez AF",
+          "away_team": "Red Star FC"
+        },
+        {
+          "date": "2026-01-30",
+          "time": "20:00",
+          "home_team": "SC Bastia",
+          "away_team": "AS Nancy Lorraine"
+        },
+        {
+          "date": "2026-01-30",
+          "time": "20:00",
+          "home_team": "Stade Lavallois",
+          "away_team": "Pau FC"
+        },
+        {
+          "date": "2026-01-30",
+          "time": "20:00",
+          "home_team": "USL Dunkerque",
+          "away_team": "FC Annecy"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 22",
+      "matches": [
+        {
+          "date": "2026-02-06",
+          "time": "20:00",
+          "home_team": "US Boulogne",
+          "away_team": "Rodez AF"
+        },
+        {
+          "date": "2026-02-06",
+          "time": "20:00",
+          "home_team": "AS Nancy Lorraine",
+          "away_team": "ESTAC Troyes"
+        },
+        {
+          "date": "2026-02-06",
+          "time": "20:00",
+          "home_team": "AS Saint-Étienne",
+          "away_team": "Montpellier HSC"
+        },
+        {
+          "date": "2026-02-06",
+          "time": "20:00",
+          "home_team": "FC Annecy",
+          "away_team": "Grenoble Foot 38"
+        },
+        {
+          "date": "2026-02-06",
+          "time": "20:00",
+          "home_team": "Red Star FC",
+          "away_team": "Pau FC"
+        },
+        {
+          "date": "2026-02-06",
+          "time": "20:00",
+          "home_team": "Le Mans FC",
+          "away_team": "Stade Lavallois"
+        },
+        {
+          "date": "2026-02-06",
+          "time": "20:00",
+          "home_team": "Amiens SC",
+          "away_team": "Clermont Foot 63"
+        },
+        {
+          "date": "2026-02-06",
+          "time": "20:00",
+          "home_team": "Stade de Reims",
+          "away_team": "SC Bastia"
+        },
+        {
+          "date": "2026-02-06",
+          "time": "20:00",
+          "home_team": "USL Dunkerque",
+          "away_team": "EA Guingamp"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 23",
+      "matches": [
+        {
+          "date": "2026-02-13",
+          "time": "20:00",
+          "home_team": "Clermont Foot 63",
+          "away_team": "Rodez AF"
+        },
+        {
+          "date": "2026-02-13",
+          "time": "20:00",
+          "home_team": "EA Guingamp",
+          "away_team": "AS Saint-Étienne"
+        },
+        {
+          "date": "2026-02-13",
+          "time": "20:00",
+          "home_team": "Pau FC",
+          "away_team": "US Boulogne"
+        },
+        {
+          "date": "2026-02-13",
+          "time": "20:00",
+          "home_team": "Red Star FC",
+          "away_team": "AS Nancy Lorraine"
+        },
+        {
+          "date": "2026-02-13",
+          "time": "20:00",
+          "home_team": "Grenoble Foot 38",
+          "away_team": "Stade de Reims"
+        },
+        {
+          "date": "2026-02-13",
+          "time": "20:00",
+          "home_team": "Montpellier HSC",
+          "away_team": "Le Mans FC"
+        },
+        {
+          "date": "2026-02-13",
+          "time": "20:00",
+          "home_team": "Amiens SC",
+          "away_team": "USL Dunkerque"
+        },
+        {
+          "date": "2026-02-13",
+          "time": "20:00",
+          "home_team": "SC Bastia",
+          "away_team": "ESTAC Troyes"
+        },
+        {
+          "date": "2026-02-13",
+          "time": "20:00",
+          "home_team": "Stade Lavallois",
+          "away_team": "FC Annecy"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 24",
+      "matches": [
+        {
+          "date": "2026-02-20",
+          "time": "20:00",
+          "home_team": "US Boulogne",
+          "away_team": "Clermont Foot 63"
+        },
+        {
+          "date": "2026-02-20",
+          "time": "20:00",
+          "home_team": "AS Nancy Lorraine",
+          "away_team": "Grenoble Foot 38"
+        },
+        {
+          "date": "2026-02-20",
+          "time": "20:00",
+          "home_team": "AS Saint-Étienne",
+          "away_team": "Stade Lavallois"
+        },
+        {
+          "date": "2026-02-20",
+          "time": "20:00",
+          "home_team": "ESTAC Troyes",
+          "away_team": "Pau FC"
+        },
+        {
+          "date": "2026-02-20",
+          "time": "20:00",
+          "home_team": "FC Annecy",
+          "away_team": "Red Star FC"
+        },
+        {
+          "date": "2026-02-20",
+          "time": "20:00",
+          "home_team": "Le Mans FC",
+          "away_team": "EA Guingamp"
+        },
+        {
+          "date": "2026-02-20",
+          "time": "20:00",
+          "home_team": "Rodez AF",
+          "away_team": "Montpellier HSC"
+        },
+        {
+          "date": "2026-02-20",
+          "time": "20:00",
+          "home_team": "Stade de Reims",
+          "away_team": "Amiens SC"
+        },
+        {
+          "date": "2026-02-20",
+          "time": "20:00",
+          "home_team": "USL Dunkerque",
+          "away_team": "SC Bastia"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 25",
+      "matches": [
+        {
+          "date": "2026-02-27",
+          "time": "20:00",
+          "home_team": "Clermont Foot 63",
+          "away_team": "USL Dunkerque"
+        },
+        {
+          "date": "2026-02-27",
+          "time": "20:00",
+          "home_team": "EA Guingamp",
+          "away_team": "Rodez AF"
+        },
+        {
+          "date": "2026-02-27",
+          "time": "20:00",
+          "home_team": "Pau FC",
+          "away_team": "AS Saint-Étienne"
+        },
+        {
+          "date": "2026-02-27",
+          "time": "20:00",
+          "home_team": "Red Star FC",
+          "away_team": "Le Mans FC"
+        },
+        {
+          "date": "2026-02-27",
+          "time": "20:00",
+          "home_team": "Grenoble Foot 38",
+          "away_team": "US Boulogne"
+        },
+        {
+          "date": "2026-02-27",
+          "time": "20:00",
+          "home_team": "Montpellier HSC",
+          "away_team": "Stade de Reims"
+        },
+        {
+          "date": "2026-02-27",
+          "time": "20:00",
+          "home_team": "Amiens SC",
+          "away_team": "ESTAC Troyes"
+        },
+        {
+          "date": "2026-02-27",
+          "time": "20:00",
+          "home_team": "SC Bastia",
+          "away_team": "FC Annecy"
+        },
+        {
+          "date": "2026-02-27",
+          "time": "20:00",
+          "home_team": "Stade Lavallois",
+          "away_team": "AS Nancy Lorraine"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 26",
+      "matches": [
+        {
+          "date": "2026-03-06",
+          "time": "20:00",
+          "home_team": "US Boulogne",
+          "away_team": "Amiens SC"
+        },
+        {
+          "date": "2026-03-06",
+          "time": "20:00",
+          "home_team": "AS Nancy Lorraine",
+          "away_team": "Montpellier HSC"
+        },
+        {
+          "date": "2026-03-06",
+          "time": "20:00",
+          "home_team": "AS Saint-Étienne",
+          "away_team": "Red Star FC"
+        },
+        {
+          "date": "2026-03-06",
+          "time": "20:00",
+          "home_team": "ESTAC Troyes",
+          "away_team": "Clermont Foot 63"
+        },
+        {
+          "date": "2026-03-06",
+          "time": "20:00",
+          "home_team": "Pau FC",
+          "away_team": "SC Bastia"
+        },
+        {
+          "date": "2026-03-06",
+          "time": "20:00",
+          "home_team": "Le Mans FC",
+          "away_team": "FC Annecy"
+        },
+        {
+          "date": "2026-03-06",
+          "time": "20:00",
+          "home_team": "Rodez AF",
+          "away_team": "Grenoble Foot 38"
+        },
+        {
+          "date": "2026-03-06",
+          "time": "20:00",
+          "home_team": "Stade Lavallois",
+          "away_team": "EA Guingamp"
+        },
+        {
+          "date": "2026-03-06",
+          "time": "20:00",
+          "home_team": "USL Dunkerque",
+          "away_team": "Stade de Reims"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 27",
+      "matches": [
+        {
+          "date": "2026-03-13",
+          "time": "20:00",
+          "home_team": "AS Nancy Lorraine",
+          "away_team": "Le Mans FC"
+        },
+        {
+          "date": "2026-03-13",
+          "time": "20:00",
+          "home_team": "Clermont Foot 63",
+          "away_team": "Pau FC"
+        },
+        {
+          "date": "2026-03-13",
+          "time": "20:00",
+          "home_team": "EA Guingamp",
+          "away_team": "Amiens SC"
+        },
+        {
+          "date": "2026-03-13",
+          "time": "20:00",
+          "home_team": "FC Annecy",
+          "away_team": "ESTAC Troyes"
+        },
+        {
+          "date": "2026-03-13",
+          "time": "20:00",
+          "home_team": "Red Star FC",
+          "away_team": "USL Dunkerque"
+        },
+        {
+          "date": "2026-03-13",
+          "time": "20:00",
+          "home_team": "Grenoble Foot 38",
+          "away_team": "AS Saint-Étienne"
+        },
+        {
+          "date": "2026-03-13",
+          "time": "20:00",
+          "home_team": "Montpellier HSC",
+          "away_team": "Stade Lavallois"
+        },
+        {
+          "date": "2026-03-13",
+          "time": "20:00",
+          "home_team": "SC Bastia",
+          "away_team": "US Boulogne"
+        },
+        {
+          "date": "2026-03-13",
+          "time": "20:00",
+          "home_team": "Stade de Reims",
+          "away_team": "Rodez AF"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 28",
+      "matches": [
+        {
+          "date": "2026-03-20",
+          "time": "20:00",
+          "home_team": "US Boulogne",
+          "away_team": "AS Nancy Lorraine"
+        },
+        {
+          "date": "2026-03-20",
+          "time": "20:00",
+          "home_team": "AS Saint-Étienne",
+          "away_team": "FC Annecy"
+        },
+        {
+          "date": "2026-03-20",
+          "time": "20:00",
+          "home_team": "Clermont Foot 63",
+          "away_team": "Red Star FC"
+        },
+        {
+          "date": "2026-03-20",
+          "time": "20:00",
+          "home_team": "EA Guingamp",
+          "away_team": "Stade de Reims"
+        },
+        {
+          "date": "2026-03-20",
+          "time": "20:00",
+          "home_team": "ESTAC Troyes",
+          "away_team": "USL Dunkerque"
+        },
+        {
+          "date": "2026-03-20",
+          "time": "20:00",
+          "home_team": "Pau FC",
+          "away_team": "Montpellier HSC"
+        },
+        {
+          "date": "2026-03-20",
+          "time": "20:00",
+          "home_team": "Rodez AF",
+          "away_team": "SC Bastia"
+        },
+        {
+          "date": "2026-03-20",
+          "time": "20:00",
+          "home_team": "Amiens SC",
+          "away_team": "Le Mans FC"
+        },
+        {
+          "date": "2026-03-20",
+          "time": "20:00",
+          "home_team": "Stade Lavallois",
+          "away_team": "Grenoble Foot 38"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 29",
+      "matches": [
+        {
+          "date": "2026-04-03",
+          "time": "20:00",
+          "home_team": "AS Nancy Lorraine",
+          "away_team": "AS Saint-Étienne"
+        },
+        {
+          "date": "2026-04-03",
+          "time": "20:00",
+          "home_team": "FC Annecy",
+          "away_team": "EA Guingamp"
+        },
+        {
+          "date": "2026-04-03",
+          "time": "20:00",
+          "home_team": "Red Star FC",
+          "away_team": "Stade Lavallois"
+        },
+        {
+          "date": "2026-04-03",
+          "time": "20:00",
+          "home_team": "Grenoble Foot 38",
+          "away_team": "Clermont Foot 63"
+        },
+        {
+          "date": "2026-04-03",
+          "time": "20:00",
+          "home_team": "Montpellier HSC",
+          "away_team": "ESTAC Troyes"
+        },
+        {
+          "date": "2026-04-03",
+          "time": "20:00",
+          "home_team": "Le Mans FC",
+          "away_team": "Pau FC"
+        },
+        {
+          "date": "2026-04-03",
+          "time": "20:00",
+          "home_team": "SC Bastia",
+          "away_team": "Amiens SC"
+        },
+        {
+          "date": "2026-04-03",
+          "time": "20:00",
+          "home_team": "Stade de Reims",
+          "away_team": "US Boulogne"
+        },
+        {
+          "date": "2026-04-03",
+          "time": "20:00",
+          "home_team": "USL Dunkerque",
+          "away_team": "Rodez AF"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 30",
+      "matches": [
+        {
+          "date": "2026-04-10",
+          "time": "20:00",
+          "home_team": "US Boulogne",
+          "away_team": "Le Mans FC"
+        },
+        {
+          "date": "2026-04-10",
+          "time": "20:00",
+          "home_team": "AS Saint-Étienne",
+          "away_team": "USL Dunkerque"
+        },
+        {
+          "date": "2026-04-10",
+          "time": "20:00",
+          "home_team": "Clermont Foot 63",
+          "away_team": "AS Nancy Lorraine"
+        },
+        {
+          "date": "2026-04-10",
+          "time": "20:00",
+          "home_team": "EA Guingamp",
+          "away_team": "Grenoble Foot 38"
+        },
+        {
+          "date": "2026-04-10",
+          "time": "20:00",
+          "home_team": "FC Annecy",
+          "away_team": "Montpellier HSC"
+        },
+        {
+          "date": "2026-04-10",
+          "time": "20:00",
+          "home_team": "Red Star FC",
+          "away_team": "SC Bastia"
+        },
+        {
+          "date": "2026-04-10",
+          "time": "20:00",
+          "home_team": "Rodez AF",
+          "away_team": "ESTAC Troyes"
+        },
+        {
+          "date": "2026-04-10",
+          "time": "20:00",
+          "home_team": "Amiens SC",
+          "away_team": "Pau FC"
+        },
+        {
+          "date": "2026-04-10",
+          "time": "20:00",
+          "home_team": "Stade Lavallois",
+          "away_team": "Stade de Reims"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 31",
+      "matches": [
+        {
+          "date": "2026-04-17",
+          "time": "20:00",
+          "home_team": "AS Nancy Lorraine",
+          "away_team": "FC Annecy"
+        },
+        {
+          "date": "2026-04-17",
+          "time": "20:00",
+          "home_team": "ESTAC Troyes",
+          "away_team": "US Boulogne"
+        },
+        {
+          "date": "2026-04-17",
+          "time": "20:00",
+          "home_team": "Pau FC",
+          "away_team": "EA Guingamp"
+        },
+        {
+          "date": "2026-04-17",
+          "time": "20:00",
+          "home_team": "Montpellier HSC",
+          "away_team": "Grenoble Foot 38"
+        },
+        {
+          "date": "2026-04-17",
+          "time": "20:00",
+          "home_team": "Le Mans FC",
+          "away_team": "Clermont Foot 63"
+        },
+        {
+          "date": "2026-04-17",
+          "time": "20:00",
+          "home_team": "Rodez AF",
+          "away_team": "Amiens SC"
+        },
+        {
+          "date": "2026-04-17",
+          "time": "20:00",
+          "home_team": "SC Bastia",
+          "away_team": "AS Saint-Étienne"
+        },
+        {
+          "date": "2026-04-17",
+          "time": "20:00",
+          "home_team": "Stade de Reims",
+          "away_team": "Red Star FC"
+        },
+        {
+          "date": "2026-04-17",
+          "time": "20:00",
+          "home_team": "USL Dunkerque",
+          "away_team": "Stade Lavallois"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 32",
+      "matches": [
+        {
+          "date": "2026-04-24",
+          "time": "20:00",
+          "home_team": "US Boulogne",
+          "away_team": "USL Dunkerque"
+        },
+        {
+          "date": "2026-04-24",
+          "time": "20:00",
+          "home_team": "AS Saint-Étienne",
+          "away_team": "ESTAC Troyes"
+        },
+        {
+          "date": "2026-04-24",
+          "time": "20:00",
+          "home_team": "Clermont Foot 63",
+          "away_team": "SC Bastia"
+        },
+        {
+          "date": "2026-04-24",
+          "time": "20:00",
+          "home_team": "FC Annecy",
+          "away_team": "Pau FC"
+        },
+        {
+          "date": "2026-04-24",
+          "time": "20:00",
+          "home_team": "Red Star FC",
+          "away_team": "EA Guingamp"
+        },
+        {
+          "date": "2026-04-24",
+          "time": "20:00",
+          "home_team": "Grenoble Foot 38",
+          "away_team": "Le Mans FC"
+        },
+        {
+          "date": "2026-04-24",
+          "time": "20:00",
+          "home_team": "Amiens SC",
+          "away_team": "Montpellier HSC"
+        },
+        {
+          "date": "2026-04-24",
+          "time": "20:00",
+          "home_team": "Stade Lavallois",
+          "away_team": "Rodez AF"
+        },
+        {
+          "date": "2026-04-24",
+          "time": "20:00",
+          "home_team": "Stade de Reims",
+          "away_team": "AS Nancy Lorraine"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 33",
+      "matches": [
+        {
+          "date": "2026-05-01",
+          "time": "20:00",
+          "home_team": "US Boulogne",
+          "away_team": "FC Annecy"
+        },
+        {
+          "date": "2026-05-01",
+          "time": "20:00",
+          "home_team": "EA Guingamp",
+          "away_team": "SC Bastia"
+        },
+        {
+          "date": "2026-05-01",
+          "time": "20:00",
+          "home_team": "ESTAC Troyes",
+          "away_team": "Stade Lavallois"
+        },
+        {
+          "date": "2026-05-01",
+          "time": "20:00",
+          "home_team": "Pau FC",
+          "away_team": "AS Nancy Lorraine"
+        },
+        {
+          "date": "2026-05-01",
+          "time": "20:00",
+          "home_team": "Montpellier HSC",
+          "away_team": "Clermont Foot 63"
+        },
+        {
+          "date": "2026-05-01",
+          "time": "20:00",
+          "home_team": "Le Mans FC",
+          "away_team": "Stade de Reims"
+        },
+        {
+          "date": "2026-05-01",
+          "time": "20:00",
+          "home_team": "Rodez AF",
+          "away_team": "AS Saint-Étienne"
+        },
+        {
+          "date": "2026-05-01",
+          "time": "20:00",
+          "home_team": "Amiens SC",
+          "away_team": "Red Star FC"
+        },
+        {
+          "date": "2026-05-01",
+          "time": "20:00",
+          "home_team": "USL Dunkerque",
+          "away_team": "Grenoble Foot 38"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 34",
+      "matches": [
+        {
+          "date": "2026-05-08",
+          "time": "20:00",
+          "home_team": "AS Nancy Lorraine",
+          "away_team": "USL Dunkerque"
+        },
+        {
+          "date": "2026-05-08",
+          "time": "20:00",
+          "home_team": "AS Saint-Étienne",
+          "away_team": "Amiens SC"
+        },
+        {
+          "date": "2026-05-08",
+          "time": "20:00",
+          "home_team": "Clermont Foot 63",
+          "away_team": "EA Guingamp"
+        },
+        {
+          "date": "2026-05-08",
+          "time": "20:00",
+          "home_team": "FC Annecy",
+          "away_team": "Rodez AF"
+        },
+        {
+          "date": "2026-05-08",
+          "time": "20:00",
+          "home_team": "Red Star FC",
+          "away_team": "Montpellier HSC"
+        },
+        {
+          "date": "2026-05-08",
+          "time": "20:00",
+          "home_team": "Grenoble Foot 38",
+          "away_team": "ESTAC Troyes"
+        },
+        {
+          "date": "2026-05-08",
+          "time": "20:00",
+          "home_team": "SC Bastia",
+          "away_team": "Le Mans FC"
+        },
+        {
+          "date": "2026-05-08",
+          "time": "20:00",
+          "home_team": "Stade Lavallois",
+          "away_team": "US Boulogne"
+        },
+        {
+          "date": "2026-05-08",
+          "time": "20:00",
+          "home_team": "Stade de Reims",
+          "away_team": "Pau FC"
+        }
+      ]
+    }
+  ]
+}

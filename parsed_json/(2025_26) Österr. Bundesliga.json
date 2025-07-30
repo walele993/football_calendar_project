@@ -1,0 +1,908 @@
+{
+  "league": "Österr. Bundesliga",
+  "season": "2025/26",
+  "matchdays": [
+    {
+      "matchday": "Matchday 1",
+      "matches": [
+        {
+          "date": "2025-08-01",
+          "time": "20:30",
+          "home_team": "LASK",
+          "away_team": "Sturm Graz"
+        },
+        {
+          "date": "2025-08-02",
+          "time": "17:00",
+          "home_team": "Wolfsberger AC",
+          "away_team": "SCR Altach"
+        },
+        {
+          "date": "2025-08-02",
+          "time": "17:00",
+          "home_team": "WSG Tirol",
+          "away_team": "TSV Hartberg"
+        },
+        {
+          "date": "2025-08-02",
+          "time": "19:30",
+          "home_team": "SV Ried",
+          "away_team": "RB Salzburg"
+        },
+        {
+          "date": "2025-08-03",
+          "time": "17:30",
+          "home_team": "Rapid Wien",
+          "away_team": "FC Blau Weiß Linz"
+        },
+        {
+          "date": "2025-08-03",
+          "time": "17:30",
+          "home_team": "Grazer AK",
+          "away_team": "Austria Wien"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 2",
+      "matches": [
+        {
+          "date": "2025-08-09",
+          "time": "17:00",
+          "home_team": "FC Blau Weiß Linz",
+          "away_team": "TSV Hartberg"
+        },
+        {
+          "date": "2025-08-09",
+          "time": "17:00",
+          "home_team": "SCR Altach",
+          "away_team": "SV Ried"
+        },
+        {
+          "date": "2025-08-09",
+          "time": "19:30",
+          "home_team": "RB Salzburg",
+          "away_team": "Grazer AK"
+        },
+        {
+          "date": "2025-08-10",
+          "time": "17:00",
+          "home_team": "WSG Tirol",
+          "away_team": "LASK"
+        },
+        {
+          "date": "2025-08-10",
+          "time": "17:00",
+          "home_team": "Sturm Graz",
+          "away_team": "Rapid Wien"
+        },
+        {
+          "date": "2025-08-10",
+          "time": "17:00",
+          "home_team": "Austria Wien",
+          "away_team": "Wolfsberger AC"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 3",
+      "matches": [
+        {
+          "date": "2025-08-16",
+          "time": "17:00",
+          "home_team": "TSV Hartberg",
+          "away_team": "RB Salzburg"
+        },
+        {
+          "date": "2025-08-16",
+          "time": "17:00",
+          "home_team": "Grazer AK",
+          "away_team": "WSG Tirol"
+        },
+        {
+          "date": "2025-08-16",
+          "time": "19:30",
+          "home_team": "SV Ried",
+          "away_team": "Sturm Graz"
+        },
+        {
+          "date": "2025-08-17",
+          "time": "17:00",
+          "home_team": "LASK",
+          "away_team": "Austria Wien"
+        },
+        {
+          "date": "2025-08-17",
+          "time": "17:00",
+          "home_team": "Rapid Wien",
+          "away_team": "SCR Altach"
+        },
+        {
+          "date": "2025-08-17",
+          "time": "17:00",
+          "home_team": "Wolfsberger AC",
+          "away_team": "FC Blau Weiß Linz"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 4",
+      "matches": [
+        {
+          "date": "2025-08-23",
+          "time": "17:00",
+          "home_team": "RB Salzburg",
+          "away_team": "LASK"
+        },
+        {
+          "date": "2025-08-23",
+          "time": "17:00",
+          "home_team": "FC Blau Weiß Linz",
+          "away_team": "SV Ried"
+        },
+        {
+          "date": "2025-08-23",
+          "time": "19:30",
+          "home_team": "Sturm Graz",
+          "away_team": "WSG Tirol"
+        },
+        {
+          "date": "2025-08-24",
+          "time": "17:00",
+          "home_team": "SCR Altach",
+          "away_team": "Grazer AK"
+        },
+        {
+          "date": "2025-08-24",
+          "time": "17:00",
+          "home_team": "Wolfsberger AC",
+          "away_team": "Rapid Wien"
+        },
+        {
+          "date": "2025-08-24",
+          "time": "17:00",
+          "home_team": "Austria Wien",
+          "away_team": "TSV Hartberg"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 5",
+      "matches": [
+        {
+          "date": "2025-08-30",
+          "time": "17:00",
+          "home_team": "RB Salzburg",
+          "away_team": "FC Blau Weiß Linz"
+        },
+        {
+          "date": "2025-08-30",
+          "time": "17:00",
+          "home_team": "LASK",
+          "away_team": "SV Ried"
+        },
+        {
+          "date": "2025-08-30",
+          "time": "19:30",
+          "home_team": "Grazer AK",
+          "away_team": "Sturm Graz"
+        },
+        {
+          "date": "2025-08-31",
+          "time": "17:00",
+          "home_team": "TSV Hartberg",
+          "away_team": "Rapid Wien"
+        },
+        {
+          "date": "2025-08-31",
+          "time": "17:00",
+          "home_team": "Austria Wien",
+          "away_team": "SCR Altach"
+        },
+        {
+          "date": "2025-08-31",
+          "time": "17:00",
+          "home_team": "WSG Tirol",
+          "away_team": "Wolfsberger AC"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 6",
+      "matches": [
+        {
+          "date": "2025-09-13",
+          "time": "17:00",
+          "home_team": "Sturm Graz",
+          "away_team": "Austria Wien"
+        },
+        {
+          "date": "2025-09-13",
+          "time": "17:00",
+          "home_team": "Rapid Wien",
+          "away_team": "WSG Tirol"
+        },
+        {
+          "date": "2025-09-13",
+          "time": "17:00",
+          "home_team": "SV Ried",
+          "away_team": "TSV Hartberg"
+        },
+        {
+          "date": "2025-09-13",
+          "time": "17:00",
+          "home_team": "Wolfsberger AC",
+          "away_team": "RB Salzburg"
+        },
+        {
+          "date": "2025-09-13",
+          "time": "17:00",
+          "home_team": "FC Blau Weiß Linz",
+          "away_team": "Grazer AK"
+        },
+        {
+          "date": "2025-09-13",
+          "time": "17:00",
+          "home_team": "SCR Altach",
+          "away_team": "LASK"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 7",
+      "matches": [
+        {
+          "date": "2025-09-20",
+          "time": "17:00",
+          "home_team": "RB Salzburg",
+          "away_team": "Sturm Graz"
+        },
+        {
+          "date": "2025-09-20",
+          "time": "17:00",
+          "home_team": "LASK",
+          "away_team": "FC Blau Weiß Linz"
+        },
+        {
+          "date": "2025-09-20",
+          "time": "17:00",
+          "home_team": "TSV Hartberg",
+          "away_team": "Wolfsberger AC"
+        },
+        {
+          "date": "2025-09-20",
+          "time": "17:00",
+          "home_team": "Austria Wien",
+          "away_team": "SV Ried"
+        },
+        {
+          "date": "2025-09-20",
+          "time": "17:00",
+          "home_team": "SCR Altach",
+          "away_team": "WSG Tirol"
+        },
+        {
+          "date": "2025-09-20",
+          "time": "17:00",
+          "home_team": "Grazer AK",
+          "away_team": "Rapid Wien"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 8",
+      "matches": [
+        {
+          "date": "2025-09-27",
+          "time": "17:00",
+          "home_team": "Sturm Graz",
+          "away_team": "TSV Hartberg"
+        },
+        {
+          "date": "2025-09-27",
+          "time": "17:00",
+          "home_team": "Rapid Wien",
+          "away_team": "Austria Wien"
+        },
+        {
+          "date": "2025-09-27",
+          "time": "17:00",
+          "home_team": "SV Ried",
+          "away_team": "Grazer AK"
+        },
+        {
+          "date": "2025-09-27",
+          "time": "17:00",
+          "home_team": "Wolfsberger AC",
+          "away_team": "LASK"
+        },
+        {
+          "date": "2025-09-27",
+          "time": "17:00",
+          "home_team": "FC Blau Weiß Linz",
+          "away_team": "SCR Altach"
+        },
+        {
+          "date": "2025-09-27",
+          "time": "17:00",
+          "home_team": "WSG Tirol",
+          "away_team": "RB Salzburg"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 9",
+      "matches": [
+        {
+          "date": "2025-10-04",
+          "time": "17:00",
+          "home_team": "RB Salzburg",
+          "away_team": "Rapid Wien"
+        },
+        {
+          "date": "2025-10-04",
+          "time": "17:00",
+          "home_team": "LASK",
+          "away_team": "TSV Hartberg"
+        },
+        {
+          "date": "2025-10-04",
+          "time": "17:00",
+          "home_team": "SV Ried",
+          "away_team": "WSG Tirol"
+        },
+        {
+          "date": "2025-10-04",
+          "time": "17:00",
+          "home_team": "Austria Wien",
+          "away_team": "FC Blau Weiß Linz"
+        },
+        {
+          "date": "2025-10-04",
+          "time": "17:00",
+          "home_team": "SCR Altach",
+          "away_team": "Sturm Graz"
+        },
+        {
+          "date": "2025-10-04",
+          "time": "17:00",
+          "home_team": "Grazer AK",
+          "away_team": "Wolfsberger AC"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 10",
+      "matches": [
+        {
+          "date": "2025-10-18",
+          "time": "17:00",
+          "home_team": "RB Salzburg",
+          "away_team": "SCR Altach"
+        },
+        {
+          "date": "2025-10-18",
+          "time": "17:00",
+          "home_team": "Rapid Wien",
+          "away_team": "LASK"
+        },
+        {
+          "date": "2025-10-18",
+          "time": "17:00",
+          "home_team": "Wolfsberger AC",
+          "away_team": "SV Ried"
+        },
+        {
+          "date": "2025-10-18",
+          "time": "17:00",
+          "home_team": "FC Blau Weiß Linz",
+          "away_team": "Sturm Graz"
+        },
+        {
+          "date": "2025-10-18",
+          "time": "17:00",
+          "home_team": "WSG Tirol",
+          "away_team": "Austria Wien"
+        },
+        {
+          "date": "2025-10-18",
+          "time": "17:00",
+          "home_team": "Grazer AK",
+          "away_team": "TSV Hartberg"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 11",
+      "matches": [
+        {
+          "date": "2025-10-25",
+          "time": "17:00",
+          "home_team": "Sturm Graz",
+          "away_team": "Wolfsberger AC"
+        },
+        {
+          "date": "2025-10-25",
+          "time": "17:00",
+          "home_team": "LASK",
+          "away_team": "Grazer AK"
+        },
+        {
+          "date": "2025-10-25",
+          "time": "17:00",
+          "home_team": "SV Ried",
+          "away_team": "Rapid Wien"
+        },
+        {
+          "date": "2025-10-25",
+          "time": "17:00",
+          "home_team": "Austria Wien",
+          "away_team": "RB Salzburg"
+        },
+        {
+          "date": "2025-10-25",
+          "time": "17:00",
+          "home_team": "SCR Altach",
+          "away_team": "TSV Hartberg"
+        },
+        {
+          "date": "2025-10-25",
+          "time": "17:00",
+          "home_team": "WSG Tirol",
+          "away_team": "FC Blau Weiß Linz"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 12",
+      "matches": [
+        {
+          "date": "2025-11-01",
+          "time": "17:00",
+          "home_team": "RB Salzburg",
+          "away_team": "SV Ried"
+        },
+        {
+          "date": "2025-11-01",
+          "time": "17:00",
+          "home_team": "Rapid Wien",
+          "away_team": "Sturm Graz"
+        },
+        {
+          "date": "2025-11-01",
+          "time": "17:00",
+          "home_team": "Grazer AK",
+          "away_team": "SCR Altach"
+        },
+        {
+          "date": "2025-11-01",
+          "time": "17:00",
+          "home_team": "TSV Hartberg",
+          "away_team": "Austria Wien"
+        },
+        {
+          "date": "2025-11-01",
+          "time": "17:00",
+          "home_team": "Wolfsberger AC",
+          "away_team": "WSG Tirol"
+        },
+        {
+          "date": "2025-11-01",
+          "time": "17:00",
+          "home_team": "FC Blau Weiß Linz",
+          "away_team": "LASK"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 13",
+      "matches": [
+        {
+          "date": "2025-11-08",
+          "time": "17:00",
+          "home_team": "Austria Wien",
+          "away_team": "Grazer AK"
+        },
+        {
+          "date": "2025-11-08",
+          "time": "17:00",
+          "home_team": "SV Ried",
+          "away_team": "FC Blau Weiß Linz"
+        },
+        {
+          "date": "2025-11-08",
+          "time": "17:00",
+          "home_team": "WSG Tirol",
+          "away_team": "Rapid Wien"
+        },
+        {
+          "date": "2025-11-08",
+          "time": "17:00",
+          "home_team": "LASK",
+          "away_team": "SCR Altach"
+        },
+        {
+          "date": "2025-11-08",
+          "time": "17:00",
+          "home_team": "Sturm Graz",
+          "away_team": "RB Salzburg"
+        },
+        {
+          "date": "2025-11-08",
+          "time": "17:00",
+          "home_team": "Wolfsberger AC",
+          "away_team": "TSV Hartberg"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 14",
+      "matches": [
+        {
+          "date": "2025-11-22",
+          "time": "17:00",
+          "home_team": "Sturm Graz",
+          "away_team": "LASK"
+        },
+        {
+          "date": "2025-11-22",
+          "time": "17:00",
+          "home_team": "SCR Altach",
+          "away_team": "Wolfsberger AC"
+        },
+        {
+          "date": "2025-11-22",
+          "time": "17:00",
+          "home_team": "TSV Hartberg",
+          "away_team": "SV Ried"
+        },
+        {
+          "date": "2025-11-22",
+          "time": "17:00",
+          "home_team": "Rapid Wien",
+          "away_team": "Grazer AK"
+        },
+        {
+          "date": "2025-11-22",
+          "time": "17:00",
+          "home_team": "RB Salzburg",
+          "away_team": "WSG Tirol"
+        },
+        {
+          "date": "2025-11-22",
+          "time": "17:00",
+          "home_team": "FC Blau Weiß Linz",
+          "away_team": "Austria Wien"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 15",
+      "matches": [
+        {
+          "date": "2025-11-29",
+          "time": "17:00",
+          "home_team": "Grazer AK",
+          "away_team": "FC Blau Weiß Linz"
+        },
+        {
+          "date": "2025-11-29",
+          "time": "17:00",
+          "home_team": "TSV Hartberg",
+          "away_team": "Sturm Graz"
+        },
+        {
+          "date": "2025-11-29",
+          "time": "17:00",
+          "home_team": "SCR Altach",
+          "away_team": "RB Salzburg"
+        },
+        {
+          "date": "2025-11-29",
+          "time": "17:00",
+          "home_team": "LASK",
+          "away_team": "Rapid Wien"
+        },
+        {
+          "date": "2025-11-29",
+          "time": "17:00",
+          "home_team": "SV Ried",
+          "away_team": "Wolfsberger AC"
+        },
+        {
+          "date": "2025-11-29",
+          "time": "17:00",
+          "home_team": "Austria Wien",
+          "away_team": "WSG Tirol"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 16",
+      "matches": [
+        {
+          "date": "2025-12-06",
+          "time": "17:00",
+          "home_team": "Wolfsberger AC",
+          "away_team": "Austria Wien"
+        },
+        {
+          "date": "2025-12-06",
+          "time": "17:00",
+          "home_team": "FC Blau Weiß Linz",
+          "away_team": "RB Salzburg"
+        },
+        {
+          "date": "2025-12-06",
+          "time": "17:00",
+          "home_team": "Sturm Graz",
+          "away_team": "Grazer AK"
+        },
+        {
+          "date": "2025-12-06",
+          "time": "17:00",
+          "home_team": "WSG Tirol",
+          "away_team": "SCR Altach"
+        },
+        {
+          "date": "2025-12-06",
+          "time": "17:00",
+          "home_team": "TSV Hartberg",
+          "away_team": "LASK"
+        },
+        {
+          "date": "2025-12-06",
+          "time": "17:00",
+          "home_team": "Rapid Wien",
+          "away_team": "SV Ried"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 17",
+      "matches": [
+        {
+          "date": "2025-12-13",
+          "time": "17:00",
+          "home_team": "TSV Hartberg",
+          "away_team": "WSG Tirol"
+        },
+        {
+          "date": "2025-12-13",
+          "time": "17:00",
+          "home_team": "FC Blau Weiß Linz",
+          "away_team": "Rapid Wien"
+        },
+        {
+          "date": "2025-12-13",
+          "time": "17:00",
+          "home_team": "SV Ried",
+          "away_team": "SCR Altach"
+        },
+        {
+          "date": "2025-12-13",
+          "time": "17:00",
+          "home_team": "Austria Wien",
+          "away_team": "Sturm Graz"
+        },
+        {
+          "date": "2025-12-13",
+          "time": "17:00",
+          "home_team": "RB Salzburg",
+          "away_team": "Wolfsberger AC"
+        },
+        {
+          "date": "2025-12-13",
+          "time": "17:00",
+          "home_team": "Grazer AK",
+          "away_team": "LASK"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 18",
+      "matches": [
+        {
+          "date": "2026-02-06",
+          "time": "17:00",
+          "home_team": "LASK",
+          "away_team": "WSG Tirol"
+        },
+        {
+          "date": "2026-02-06",
+          "time": "17:00",
+          "home_team": "Sturm Graz",
+          "away_team": "SV Ried"
+        },
+        {
+          "date": "2026-02-06",
+          "time": "17:00",
+          "home_team": "Rapid Wien",
+          "away_team": "TSV Hartberg"
+        },
+        {
+          "date": "2026-02-06",
+          "time": "17:00",
+          "home_team": "SCR Altach",
+          "away_team": "FC Blau Weiß Linz"
+        },
+        {
+          "date": "2026-02-06",
+          "time": "17:00",
+          "home_team": "Wolfsberger AC",
+          "away_team": "Grazer AK"
+        },
+        {
+          "date": "2026-02-06",
+          "time": "17:00",
+          "home_team": "RB Salzburg",
+          "away_team": "Austria Wien"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 19",
+      "matches": [
+        {
+          "date": "2026-02-14",
+          "time": "17:00",
+          "home_team": "Grazer AK",
+          "away_team": "RB Salzburg"
+        },
+        {
+          "date": "2026-02-14",
+          "time": "17:00",
+          "home_team": "FC Blau Weiß Linz",
+          "away_team": "Wolfsberger AC"
+        },
+        {
+          "date": "2026-02-14",
+          "time": "17:00",
+          "home_team": "WSG Tirol",
+          "away_team": "Sturm Graz"
+        },
+        {
+          "date": "2026-02-14",
+          "time": "17:00",
+          "home_team": "SV Ried",
+          "away_team": "LASK"
+        },
+        {
+          "date": "2026-02-14",
+          "time": "17:00",
+          "home_team": "Austria Wien",
+          "away_team": "Rapid Wien"
+        },
+        {
+          "date": "2026-02-14",
+          "time": "17:00",
+          "home_team": "TSV Hartberg",
+          "away_team": "SCR Altach"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 20",
+      "matches": [
+        {
+          "date": "2026-02-21",
+          "time": "17:00",
+          "home_team": "LASK",
+          "away_team": "RB Salzburg"
+        },
+        {
+          "date": "2026-02-21",
+          "time": "17:00",
+          "home_team": "Rapid Wien",
+          "away_team": "Wolfsberger AC"
+        },
+        {
+          "date": "2026-02-21",
+          "time": "17:00",
+          "home_team": "SCR Altach",
+          "away_team": "Austria Wien"
+        },
+        {
+          "date": "2026-02-21",
+          "time": "17:00",
+          "home_team": "WSG Tirol",
+          "away_team": "SV Ried"
+        },
+        {
+          "date": "2026-02-21",
+          "time": "17:00",
+          "home_team": "Sturm Graz",
+          "away_team": "FC Blau Weiß Linz"
+        },
+        {
+          "date": "2026-02-21",
+          "time": "17:00",
+          "home_team": "TSV Hartberg",
+          "away_team": "Grazer AK"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 21",
+      "matches": [
+        {
+          "date": "2026-02-28",
+          "time": "17:00",
+          "home_team": "RB Salzburg",
+          "away_team": "TSV Hartberg"
+        },
+        {
+          "date": "2026-02-28",
+          "time": "17:00",
+          "home_team": "Austria Wien",
+          "away_team": "LASK"
+        },
+        {
+          "date": "2026-02-28",
+          "time": "17:00",
+          "home_team": "SCR Altach",
+          "away_team": "Rapid Wien"
+        },
+        {
+          "date": "2026-02-28",
+          "time": "17:00",
+          "home_team": "Grazer AK",
+          "away_team": "SV Ried"
+        },
+        {
+          "date": "2026-02-28",
+          "time": "17:00",
+          "home_team": "Wolfsberger AC",
+          "away_team": "Sturm Graz"
+        },
+        {
+          "date": "2026-02-28",
+          "time": "17:00",
+          "home_team": "FC Blau Weiß Linz",
+          "away_team": "WSG Tirol"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 22",
+      "matches": [
+        {
+          "date": "2026-03-07",
+          "time": "17:00",
+          "home_team": "TSV Hartberg",
+          "away_team": "FC Blau Weiß Linz"
+        },
+        {
+          "date": "2026-03-07",
+          "time": "17:00",
+          "home_team": "WSG Tirol",
+          "away_team": "Grazer AK"
+        },
+        {
+          "date": "2026-03-07",
+          "time": "17:00",
+          "home_team": "SV Ried",
+          "away_team": "Austria Wien"
+        },
+        {
+          "date": "2026-03-07",
+          "time": "17:00",
+          "home_team": "LASK",
+          "away_team": "Wolfsberger AC"
+        },
+        {
+          "date": "2026-03-07",
+          "time": "17:00",
+          "home_team": "Rapid Wien",
+          "away_team": "RB Salzburg"
+        },
+        {
+          "date": "2026-03-07",
+          "time": "17:00",
+          "home_team": "Sturm Graz",
+          "away_team": "SCR Altach"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2012 @@
+{
+  "league": "Deutsche Bundesliga",
+  "season": "2025/26",
+  "matchdays": [
+    {
+      "matchday": "Matchday 1",
+      "matches": [
+        {
+          "date": "2025-08-22",
+          "time": "20:30",
+          "home_team": "Bayern München",
+          "away_team": "RB Leipzig"
+        },
+        {
+          "date": "2025-08-23",
+          "time": "15:30",
+          "home_team": "Eintracht Frankfurt",
+          "away_team": "Werder Bremen"
+        },
+        {
+          "date": "2025-08-23",
+          "time": "15:30",
+          "home_team": "Bayer Leverkusen",
+          "away_team": "1899 Hoffenheim"
+        },
+        {
+          "date": "2025-08-23",
+          "time": "15:30",
+          "home_team": "SC Freiburg",
+          "away_team": "FC Augsburg"
+        },
+        {
+          "date": "2025-08-23",
+          "time": "15:30",
+          "home_team": "1. FC Union Berlin",
+          "away_team": "VfB Stuttgart"
+        },
+        {
+          "date": "2025-08-23",
+          "time": "15:30",
+          "home_team": "1. FC Heidenheim 1846",
+          "away_team": "VfL Wolfsburg"
+        },
+        {
+          "date": "2025-08-23",
+          "time": "18:30",
+          "home_team": "FC St. Pauli",
+          "away_team": "Borussia Dortmund"
+        },
+        {
+          "date": "2025-08-24",
+          "time": "15:30",
+          "home_team": "1. FSV Mainz 05",
+          "away_team": "1. FC Köln"
+        },
+        {
+          "date": "2025-08-24",
+          "time": "17:30",
+          "home_team": "Bor. Mönchengladbach",
+          "away_team": "Hamburger SV"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 2",
+      "matches": [
+        {
+          "date": "2025-08-29",
+          "time": "20:30",
+          "home_team": "Hamburger SV",
+          "away_team": "FC St. Pauli"
+        },
+        {
+          "date": "2025-08-30",
+          "time": "15:30",
+          "home_team": "RB Leipzig",
+          "away_team": "1. FC Heidenheim 1846"
+        },
+        {
+          "date": "2025-08-30",
+          "time": "15:30",
+          "home_team": "Werder Bremen",
+          "away_team": "Bayer Leverkusen"
+        },
+        {
+          "date": "2025-08-30",
+          "time": "15:30",
+          "home_team": "VfB Stuttgart",
+          "away_team": "Bor. Mönchengladbach"
+        },
+        {
+          "date": "2025-08-30",
+          "time": "15:30",
+          "home_team": "1899 Hoffenheim",
+          "away_team": "Eintracht Frankfurt"
+        },
+        {
+          "date": "2025-08-30",
+          "time": "18:30",
+          "home_team": "FC Augsburg",
+          "away_team": "Bayern München"
+        },
+        {
+          "date": "2025-08-31",
+          "time": "15:30",
+          "home_team": "VfL Wolfsburg",
+          "away_team": "1. FSV Mainz 05"
+        },
+        {
+          "date": "2025-08-31",
+          "time": "17:30",
+          "home_team": "Borussia Dortmund",
+          "away_team": "1. FC Union Berlin"
+        },
+        {
+          "date": "2025-08-31",
+          "time": "19:30",
+          "home_team": "1. FC Köln",
+          "away_team": "SC Freiburg"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 3",
+      "matches": [
+        {
+          "date": "2025-09-12",
+          "time": "20:30",
+          "home_team": "Bayer Leverkusen",
+          "away_team": "Eintracht Frankfurt"
+        },
+        {
+          "date": "2025-09-13",
+          "time": "15:30",
+          "home_team": "SC Freiburg",
+          "away_team": "VfB Stuttgart"
+        },
+        {
+          "date": "2025-09-13",
+          "time": "15:30",
+          "home_team": "1. FSV Mainz 05",
+          "away_team": "RB Leipzig"
+        },
+        {
+          "date": "2025-09-13",
+          "time": "15:30",
+          "home_team": "VfL Wolfsburg",
+          "away_team": "1. FC Köln"
+        },
+        {
+          "date": "2025-09-13",
+          "time": "15:30",
+          "home_team": "1. FC Union Berlin",
+          "away_team": "1899 Hoffenheim"
+        },
+        {
+          "date": "2025-09-13",
+          "time": "15:30",
+          "home_team": "1. FC Heidenheim 1846",
+          "away_team": "Borussia Dortmund"
+        },
+        {
+          "date": "2025-09-13",
+          "time": "18:30",
+          "home_team": "Bayern München",
+          "away_team": "Hamburger SV"
+        },
+        {
+          "date": "2025-09-14",
+          "time": "15:30",
+          "home_team": "FC St. Pauli",
+          "away_team": "FC Augsburg"
+        },
+        {
+          "date": "2025-09-14",
+          "time": "17:30",
+          "home_team": "Bor. Mönchengladbach",
+          "away_team": "Werder Bremen"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 4",
+      "matches": [
+        {
+          "date": "2025-09-19",
+          "time": "20:30",
+          "home_team": "VfB Stuttgart",
+          "away_team": "FC St. Pauli"
+        },
+        {
+          "date": "2025-09-20",
+          "time": "15:30",
+          "home_team": "Werder Bremen",
+          "away_team": "SC Freiburg"
+        },
+        {
+          "date": "2025-09-20",
+          "time": "15:30",
+          "home_team": "FC Augsburg",
+          "away_team": "1. FSV Mainz 05"
+        },
+        {
+          "date": "2025-09-20",
+          "time": "15:30",
+          "home_team": "1899 Hoffenheim",
+          "away_team": "Bayern München"
+        },
+        {
+          "date": "2025-09-20",
+          "time": "15:30",
+          "home_team": "Hamburger SV",
+          "away_team": "1. FC Heidenheim 1846"
+        },
+        {
+          "date": "2025-09-20",
+          "time": "18:30",
+          "home_team": "RB Leipzig",
+          "away_team": "1. FC Köln"
+        },
+        {
+          "date": "2025-09-21",
+          "time": "15:30",
+          "home_team": "Eintracht Frankfurt",
+          "away_team": "1. FC Union Berlin"
+        },
+        {
+          "date": "2025-09-21",
+          "time": "17:30",
+          "home_team": "Bayer Leverkusen",
+          "away_team": "Bor. Mönchengladbach"
+        },
+        {
+          "date": "2025-09-21",
+          "time": "19:30",
+          "home_team": "Borussia Dortmund",
+          "away_team": "VfL Wolfsburg"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 5",
+      "matches": [
+        {
+          "date": "2025-09-26",
+          "time": "20:30",
+          "home_team": "Bayern München",
+          "away_team": "Werder Bremen"
+        },
+        {
+          "date": "2025-09-27",
+          "time": "15:30",
+          "home_team": "1. FSV Mainz 05",
+          "away_team": "Borussia Dortmund"
+        },
+        {
+          "date": "2025-09-27",
+          "time": "15:30",
+          "home_team": "VfL Wolfsburg",
+          "away_team": "RB Leipzig"
+        },
+        {
+          "date": "2025-09-27",
+          "time": "15:30",
+          "home_team": "FC St. Pauli",
+          "away_team": "Bayer Leverkusen"
+        },
+        {
+          "date": "2025-09-27",
+          "time": "15:30",
+          "home_team": "1. FC Heidenheim 1846",
+          "away_team": "FC Augsburg"
+        },
+        {
+          "date": "2025-09-27",
+          "time": "18:30",
+          "home_team": "Bor. Mönchengladbach",
+          "away_team": "Eintracht Frankfurt"
+        },
+        {
+          "date": "2025-09-28",
+          "time": "15:30",
+          "home_team": "SC Freiburg",
+          "away_team": "1899 Hoffenheim"
+        },
+        {
+          "date": "2025-09-28",
+          "time": "17:30",
+          "home_team": "1. FC Köln",
+          "away_team": "VfB Stuttgart"
+        },
+        {
+          "date": "2025-09-28",
+          "time": "19:30",
+          "home_team": "1. FC Union Berlin",
+          "away_team": "Hamburger SV"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 6",
+      "matches": [
+        {
+          "date": "2025-10-04",
+          "time": "19:30",
+          "home_team": "Bayer Leverkusen",
+          "away_team": "1. FC Union Berlin"
+        },
+        {
+          "date": "2025-10-04",
+          "time": "19:30",
+          "home_team": "Eintracht Frankfurt",
+          "away_team": "Bayern München"
+        },
+        {
+          "date": "2025-10-04",
+          "time": "19:30",
+          "home_team": "Borussia Dortmund",
+          "away_team": "RB Leipzig"
+        },
+        {
+          "date": "2025-10-04",
+          "time": "19:30",
+          "home_team": "Werder Bremen",
+          "away_team": "FC St. Pauli"
+        },
+        {
+          "date": "2025-10-04",
+          "time": "19:30",
+          "home_team": "VfB Stuttgart",
+          "away_team": "1. FC Heidenheim 1846"
+        },
+        {
+          "date": "2025-10-04",
+          "time": "19:30",
+          "home_team": "Bor. Mönchengladbach",
+          "away_team": "SC Freiburg"
+        },
+        {
+          "date": "2025-10-04",
+          "time": "19:30",
+          "home_team": "FC Augsburg",
+          "away_team": "VfL Wolfsburg"
+        },
+        {
+          "date": "2025-10-04",
+          "time": "19:30",
+          "home_team": "1899 Hoffenheim",
+          "away_team": "1. FC Köln"
+        },
+        {
+          "date": "2025-10-04",
+          "time": "19:30",
+          "home_team": "Hamburger SV",
+          "away_team": "1. FSV Mainz 05"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 7",
+      "matches": [
+        {
+          "date": "2025-10-18",
+          "time": "19:30",
+          "home_team": "Bayern München",
+          "away_team": "Borussia Dortmund"
+        },
+        {
+          "date": "2025-10-18",
+          "time": "19:30",
+          "home_team": "SC Freiburg",
+          "away_team": "Eintracht Frankfurt"
+        },
+        {
+          "date": "2025-10-18",
+          "time": "19:30",
+          "home_team": "1. FSV Mainz 05",
+          "away_team": "Bayer Leverkusen"
+        },
+        {
+          "date": "2025-10-18",
+          "time": "19:30",
+          "home_team": "RB Leipzig",
+          "away_team": "Hamburger SV"
+        },
+        {
+          "date": "2025-10-18",
+          "time": "19:30",
+          "home_team": "VfL Wolfsburg",
+          "away_team": "VfB Stuttgart"
+        },
+        {
+          "date": "2025-10-18",
+          "time": "19:30",
+          "home_team": "1. FC Union Berlin",
+          "away_team": "Bor. Mönchengladbach"
+        },
+        {
+          "date": "2025-10-18",
+          "time": "19:30",
+          "home_team": "FC St. Pauli",
+          "away_team": "1899 Hoffenheim"
+        },
+        {
+          "date": "2025-10-18",
+          "time": "19:30",
+          "home_team": "1. FC Heidenheim 1846",
+          "away_team": "Werder Bremen"
+        },
+        {
+          "date": "2025-10-18",
+          "time": "19:30",
+          "home_team": "1. FC Köln",
+          "away_team": "FC Augsburg"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 8",
+      "matches": [
+        {
+          "date": "2025-10-25",
+          "time": "19:30",
+          "home_team": "Bayer Leverkusen",
+          "away_team": "SC Freiburg"
+        },
+        {
+          "date": "2025-10-25",
+          "time": "19:30",
+          "home_team": "Eintracht Frankfurt",
+          "away_team": "FC St. Pauli"
+        },
+        {
+          "date": "2025-10-25",
+          "time": "19:30",
+          "home_team": "Borussia Dortmund",
+          "away_team": "1. FC Köln"
+        },
+        {
+          "date": "2025-10-25",
+          "time": "19:30",
+          "home_team": "Werder Bremen",
+          "away_team": "1. FC Union Berlin"
+        },
+        {
+          "date": "2025-10-25",
+          "time": "19:30",
+          "home_team": "VfB Stuttgart",
+          "away_team": "1. FSV Mainz 05"
+        },
+        {
+          "date": "2025-10-25",
+          "time": "19:30",
+          "home_team": "Bor. Mönchengladbach",
+          "away_team": "Bayern München"
+        },
+        {
+          "date": "2025-10-25",
+          "time": "19:30",
+          "home_team": "FC Augsburg",
+          "away_team": "RB Leipzig"
+        },
+        {
+          "date": "2025-10-25",
+          "time": "19:30",
+          "home_team": "1899 Hoffenheim",
+          "away_team": "1. FC Heidenheim 1846"
+        },
+        {
+          "date": "2025-10-25",
+          "time": "19:30",
+          "home_team": "Hamburger SV",
+          "away_team": "VfL Wolfsburg"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 9",
+      "matches": [
+        {
+          "date": "2025-11-01",
+          "time": "19:30",
+          "home_team": "Bayern München",
+          "away_team": "Bayer Leverkusen"
+        },
+        {
+          "date": "2025-11-01",
+          "time": "19:30",
+          "home_team": "1. FSV Mainz 05",
+          "away_team": "Werder Bremen"
+        },
+        {
+          "date": "2025-11-01",
+          "time": "19:30",
+          "home_team": "RB Leipzig",
+          "away_team": "VfB Stuttgart"
+        },
+        {
+          "date": "2025-11-01",
+          "time": "19:30",
+          "home_team": "VfL Wolfsburg",
+          "away_team": "1899 Hoffenheim"
+        },
+        {
+          "date": "2025-11-01",
+          "time": "19:30",
+          "home_team": "FC Augsburg",
+          "away_team": "Borussia Dortmund"
+        },
+        {
+          "date": "2025-11-01",
+          "time": "19:30",
+          "home_team": "1. FC Union Berlin",
+          "away_team": "SC Freiburg"
+        },
+        {
+          "date": "2025-11-01",
+          "time": "19:30",
+          "home_team": "FC St. Pauli",
+          "away_team": "Bor. Mönchengladbach"
+        },
+        {
+          "date": "2025-11-01",
+          "time": "19:30",
+          "home_team": "1. FC Heidenheim 1846",
+          "away_team": "Eintracht Frankfurt"
+        },
+        {
+          "date": "2025-11-01",
+          "time": "19:30",
+          "home_team": "1. FC Köln",
+          "away_team": "Hamburger SV"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 10",
+      "matches": [
+        {
+          "date": "2025-11-08",
+          "time": "19:30",
+          "home_team": "Bayer Leverkusen",
+          "away_team": "1. FC Heidenheim 1846"
+        },
+        {
+          "date": "2025-11-08",
+          "time": "19:30",
+          "home_team": "Eintracht Frankfurt",
+          "away_team": "1. FSV Mainz 05"
+        },
+        {
+          "date": "2025-11-08",
+          "time": "19:30",
+          "home_team": "SC Freiburg",
+          "away_team": "FC St. Pauli"
+        },
+        {
+          "date": "2025-11-08",
+          "time": "19:30",
+          "home_team": "Werder Bremen",
+          "away_team": "VfL Wolfsburg"
+        },
+        {
+          "date": "2025-11-08",
+          "time": "19:30",
+          "home_team": "VfB Stuttgart",
+          "away_team": "FC Augsburg"
+        },
+        {
+          "date": "2025-11-08",
+          "time": "19:30",
+          "home_team": "Bor. Mönchengladbach",
+          "away_team": "1. FC Köln"
+        },
+        {
+          "date": "2025-11-08",
+          "time": "19:30",
+          "home_team": "1. FC Union Berlin",
+          "away_team": "Bayern München"
+        },
+        {
+          "date": "2025-11-08",
+          "time": "19:30",
+          "home_team": "1899 Hoffenheim",
+          "away_team": "RB Leipzig"
+        },
+        {
+          "date": "2025-11-08",
+          "time": "19:30",
+          "home_team": "Hamburger SV",
+          "away_team": "Borussia Dortmund"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 11",
+      "matches": [
+        {
+          "date": "2025-11-22",
+          "time": "19:30",
+          "home_team": "Bayern München",
+          "away_team": "SC Freiburg"
+        },
+        {
+          "date": "2025-11-22",
+          "time": "19:30",
+          "home_team": "Borussia Dortmund",
+          "away_team": "VfB Stuttgart"
+        },
+        {
+          "date": "2025-11-22",
+          "time": "19:30",
+          "home_team": "1. FSV Mainz 05",
+          "away_team": "1899 Hoffenheim"
+        },
+        {
+          "date": "2025-11-22",
+          "time": "19:30",
+          "home_team": "RB Leipzig",
+          "away_team": "Werder Bremen"
+        },
+        {
+          "date": "2025-11-22",
+          "time": "19:30",
+          "home_team": "VfL Wolfsburg",
+          "away_team": "Bayer Leverkusen"
+        },
+        {
+          "date": "2025-11-22",
+          "time": "19:30",
+          "home_team": "FC Augsburg",
+          "away_team": "Hamburger SV"
+        },
+        {
+          "date": "2025-11-22",
+          "time": "19:30",
+          "home_team": "FC St. Pauli",
+          "away_team": "1. FC Union Berlin"
+        },
+        {
+          "date": "2025-11-22",
+          "time": "19:30",
+          "home_team": "1. FC Heidenheim 1846",
+          "away_team": "Bor. Mönchengladbach"
+        },
+        {
+          "date": "2025-11-22",
+          "time": "19:30",
+          "home_team": "1. FC Köln",
+          "away_team": "Eintracht Frankfurt"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 12",
+      "matches": [
+        {
+          "date": "2025-11-29",
+          "time": "19:30",
+          "home_team": "Bayern München",
+          "away_team": "FC St. Pauli"
+        },
+        {
+          "date": "2025-11-29",
+          "time": "19:30",
+          "home_team": "Bayer Leverkusen",
+          "away_team": "Borussia Dortmund"
+        },
+        {
+          "date": "2025-11-29",
+          "time": "19:30",
+          "home_team": "Eintracht Frankfurt",
+          "away_team": "VfL Wolfsburg"
+        },
+        {
+          "date": "2025-11-29",
+          "time": "19:30",
+          "home_team": "SC Freiburg",
+          "away_team": "1. FSV Mainz 05"
+        },
+        {
+          "date": "2025-11-29",
+          "time": "19:30",
+          "home_team": "Werder Bremen",
+          "away_team": "1. FC Köln"
+        },
+        {
+          "date": "2025-11-29",
+          "time": "19:30",
+          "home_team": "Bor. Mönchengladbach",
+          "away_team": "RB Leipzig"
+        },
+        {
+          "date": "2025-11-29",
+          "time": "19:30",
+          "home_team": "1. FC Union Berlin",
+          "away_team": "1. FC Heidenheim 1846"
+        },
+        {
+          "date": "2025-11-29",
+          "time": "19:30",
+          "home_team": "1899 Hoffenheim",
+          "away_team": "FC Augsburg"
+        },
+        {
+          "date": "2025-11-29",
+          "time": "19:30",
+          "home_team": "Hamburger SV",
+          "away_team": "VfB Stuttgart"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 13",
+      "matches": [
+        {
+          "date": "2025-12-06",
+          "time": "19:30",
+          "home_team": "Borussia Dortmund",
+          "away_team": "1899 Hoffenheim"
+        },
+        {
+          "date": "2025-12-06",
+          "time": "19:30",
+          "home_team": "1. FSV Mainz 05",
+          "away_team": "Bor. Mönchengladbach"
+        },
+        {
+          "date": "2025-12-06",
+          "time": "19:30",
+          "home_team": "RB Leipzig",
+          "away_team": "Eintracht Frankfurt"
+        },
+        {
+          "date": "2025-12-06",
+          "time": "19:30",
+          "home_team": "VfB Stuttgart",
+          "away_team": "Bayern München"
+        },
+        {
+          "date": "2025-12-06",
+          "time": "19:30",
+          "home_team": "VfL Wolfsburg",
+          "away_team": "1. FC Union Berlin"
+        },
+        {
+          "date": "2025-12-06",
+          "time": "19:30",
+          "home_team": "1. FC Heidenheim 1846",
+          "away_team": "SC Freiburg"
+        },
+        {
+          "date": "2025-12-06",
+          "time": "19:30",
+          "home_team": "1. FC Köln",
+          "away_team": "FC St. Pauli"
+        },
+        {
+          "date": "2025-12-06",
+          "time": "19:30",
+          "home_team": "Hamburger SV",
+          "away_team": "Werder Bremen"
+        },
+        {
+          "date": "2025-12-06",
+          "time": "19:30",
+          "home_team": "FC Augsburg",
+          "away_team": "Bayer Leverkusen"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 14",
+      "matches": [
+        {
+          "date": "2025-12-13",
+          "time": "19:30",
+          "home_team": "Bayern München",
+          "away_team": "1. FSV Mainz 05"
+        },
+        {
+          "date": "2025-12-13",
+          "time": "19:30",
+          "home_team": "Bayer Leverkusen",
+          "away_team": "1. FC Köln"
+        },
+        {
+          "date": "2025-12-13",
+          "time": "19:30",
+          "home_team": "Eintracht Frankfurt",
+          "away_team": "FC Augsburg"
+        },
+        {
+          "date": "2025-12-13",
+          "time": "19:30",
+          "home_team": "SC Freiburg",
+          "away_team": "Borussia Dortmund"
+        },
+        {
+          "date": "2025-12-13",
+          "time": "19:30",
+          "home_team": "Werder Bremen",
+          "away_team": "VfB Stuttgart"
+        },
+        {
+          "date": "2025-12-13",
+          "time": "19:30",
+          "home_team": "Bor. Mönchengladbach",
+          "away_team": "VfL Wolfsburg"
+        },
+        {
+          "date": "2025-12-13",
+          "time": "19:30",
+          "home_team": "1. FC Union Berlin",
+          "away_team": "RB Leipzig"
+        },
+        {
+          "date": "2025-12-13",
+          "time": "19:30",
+          "home_team": "FC St. Pauli",
+          "away_team": "1. FC Heidenheim 1846"
+        },
+        {
+          "date": "2025-12-13",
+          "time": "19:30",
+          "home_team": "1899 Hoffenheim",
+          "away_team": "Hamburger SV"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 15",
+      "matches": [
+        {
+          "date": "2025-12-20",
+          "time": "19:30",
+          "home_team": "Borussia Dortmund",
+          "away_team": "Bor. Mönchengladbach"
+        },
+        {
+          "date": "2025-12-20",
+          "time": "19:30",
+          "home_team": "1. FSV Mainz 05",
+          "away_team": "FC St. Pauli"
+        },
+        {
+          "date": "2025-12-20",
+          "time": "19:30",
+          "home_team": "RB Leipzig",
+          "away_team": "Bayer Leverkusen"
+        },
+        {
+          "date": "2025-12-20",
+          "time": "19:30",
+          "home_team": "VfB Stuttgart",
+          "away_team": "1899 Hoffenheim"
+        },
+        {
+          "date": "2025-12-20",
+          "time": "19:30",
+          "home_team": "VfL Wolfsburg",
+          "away_team": "SC Freiburg"
+        },
+        {
+          "date": "2025-12-20",
+          "time": "19:30",
+          "home_team": "FC Augsburg",
+          "away_team": "Werder Bremen"
+        },
+        {
+          "date": "2025-12-20",
+          "time": "19:30",
+          "home_team": "1. FC Heidenheim 1846",
+          "away_team": "Bayern München"
+        },
+        {
+          "date": "2025-12-20",
+          "time": "19:30",
+          "home_team": "1. FC Köln",
+          "away_team": "1. FC Union Berlin"
+        },
+        {
+          "date": "2025-12-20",
+          "time": "19:30",
+          "home_team": "Hamburger SV",
+          "away_team": "Eintracht Frankfurt"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 16",
+      "matches": [
+        {
+          "date": "2026-01-10",
+          "time": "19:30",
+          "home_team": "Bayern München",
+          "away_team": "VfL Wolfsburg"
+        },
+        {
+          "date": "2026-01-10",
+          "time": "19:30",
+          "home_team": "Bayer Leverkusen",
+          "away_team": "VfB Stuttgart"
+        },
+        {
+          "date": "2026-01-10",
+          "time": "19:30",
+          "home_team": "Eintracht Frankfurt",
+          "away_team": "Borussia Dortmund"
+        },
+        {
+          "date": "2026-01-10",
+          "time": "19:30",
+          "home_team": "SC Freiburg",
+          "away_team": "Hamburger SV"
+        },
+        {
+          "date": "2026-01-10",
+          "time": "19:30",
+          "home_team": "Werder Bremen",
+          "away_team": "1899 Hoffenheim"
+        },
+        {
+          "date": "2026-01-10",
+          "time": "19:30",
+          "home_team": "Bor. Mönchengladbach",
+          "away_team": "FC Augsburg"
+        },
+        {
+          "date": "2026-01-10",
+          "time": "19:30",
+          "home_team": "1. FC Union Berlin",
+          "away_team": "1. FSV Mainz 05"
+        },
+        {
+          "date": "2026-01-10",
+          "time": "19:30",
+          "home_team": "FC St. Pauli",
+          "away_team": "RB Leipzig"
+        },
+        {
+          "date": "2026-01-10",
+          "time": "19:30",
+          "home_team": "1. FC Heidenheim 1846",
+          "away_team": "1. FC Köln"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 17",
+      "matches": [
+        {
+          "date": "2026-01-14",
+          "time": "19:30",
+          "home_team": "Borussia Dortmund",
+          "away_team": "Werder Bremen"
+        },
+        {
+          "date": "2026-01-14",
+          "time": "19:30",
+          "home_team": "1. FSV Mainz 05",
+          "away_team": "1. FC Heidenheim 1846"
+        },
+        {
+          "date": "2026-01-14",
+          "time": "19:30",
+          "home_team": "RB Leipzig",
+          "away_team": "SC Freiburg"
+        },
+        {
+          "date": "2026-01-14",
+          "time": "19:30",
+          "home_team": "VfB Stuttgart",
+          "away_team": "Eintracht Frankfurt"
+        },
+        {
+          "date": "2026-01-14",
+          "time": "19:30",
+          "home_team": "VfL Wolfsburg",
+          "away_team": "FC St. Pauli"
+        },
+        {
+          "date": "2026-01-14",
+          "time": "19:30",
+          "home_team": "FC Augsburg",
+          "away_team": "1. FC Union Berlin"
+        },
+        {
+          "date": "2026-01-14",
+          "time": "19:30",
+          "home_team": "1899 Hoffenheim",
+          "away_team": "Bor. Mönchengladbach"
+        },
+        {
+          "date": "2026-01-14",
+          "time": "19:30",
+          "home_team": "1. FC Köln",
+          "away_team": "Bayern München"
+        },
+        {
+          "date": "2026-01-14",
+          "time": "19:30",
+          "home_team": "Hamburger SV",
+          "away_team": "Bayer Leverkusen"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 18",
+      "matches": [
+        {
+          "date": "2026-01-17",
+          "time": "19:30",
+          "home_team": "RB Leipzig",
+          "away_team": "Bayern München"
+        },
+        {
+          "date": "2026-01-17",
+          "time": "19:30",
+          "home_team": "Werder Bremen",
+          "away_team": "Eintracht Frankfurt"
+        },
+        {
+          "date": "2026-01-17",
+          "time": "19:30",
+          "home_team": "1899 Hoffenheim",
+          "away_team": "Bayer Leverkusen"
+        },
+        {
+          "date": "2026-01-17",
+          "time": "19:30",
+          "home_team": "FC Augsburg",
+          "away_team": "SC Freiburg"
+        },
+        {
+          "date": "2026-01-17",
+          "time": "19:30",
+          "home_team": "1. FC Köln",
+          "away_team": "1. FSV Mainz 05"
+        },
+        {
+          "date": "2026-01-17",
+          "time": "19:30",
+          "home_team": "Hamburger SV",
+          "away_team": "Bor. Mönchengladbach"
+        },
+        {
+          "date": "2026-01-17",
+          "time": "19:30",
+          "home_team": "VfB Stuttgart",
+          "away_team": "1. FC Union Berlin"
+        },
+        {
+          "date": "2026-01-17",
+          "time": "19:30",
+          "home_team": "Borussia Dortmund",
+          "away_team": "FC St. Pauli"
+        },
+        {
+          "date": "2026-01-17",
+          "time": "19:30",
+          "home_team": "VfL Wolfsburg",
+          "away_team": "1. FC Heidenheim 1846"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 19",
+      "matches": [
+        {
+          "date": "2026-01-24",
+          "time": "19:30",
+          "home_team": "1. FC Union Berlin",
+          "away_team": "Borussia Dortmund"
+        },
+        {
+          "date": "2026-01-24",
+          "time": "19:30",
+          "home_team": "1. FC Heidenheim 1846",
+          "away_team": "RB Leipzig"
+        },
+        {
+          "date": "2026-01-24",
+          "time": "19:30",
+          "home_team": "Bayer Leverkusen",
+          "away_team": "Werder Bremen"
+        },
+        {
+          "date": "2026-01-24",
+          "time": "19:30",
+          "home_team": "Bor. Mönchengladbach",
+          "away_team": "VfB Stuttgart"
+        },
+        {
+          "date": "2026-01-24",
+          "time": "19:30",
+          "home_team": "1. FSV Mainz 05",
+          "away_team": "VfL Wolfsburg"
+        },
+        {
+          "date": "2026-01-24",
+          "time": "19:30",
+          "home_team": "Bayern München",
+          "away_team": "FC Augsburg"
+        },
+        {
+          "date": "2026-01-24",
+          "time": "19:30",
+          "home_team": "Eintracht Frankfurt",
+          "away_team": "1899 Hoffenheim"
+        },
+        {
+          "date": "2026-01-24",
+          "time": "19:30",
+          "home_team": "SC Freiburg",
+          "away_team": "1. FC Köln"
+        },
+        {
+          "date": "2026-01-24",
+          "time": "19:30",
+          "home_team": "FC St. Pauli",
+          "away_team": "Hamburger SV"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 20",
+      "matches": [
+        {
+          "date": "2026-01-31",
+          "time": "19:30",
+          "home_team": "Hamburger SV",
+          "away_team": "Bayern München"
+        },
+        {
+          "date": "2026-01-31",
+          "time": "19:30",
+          "home_team": "Eintracht Frankfurt",
+          "away_team": "Bayer Leverkusen"
+        },
+        {
+          "date": "2026-01-31",
+          "time": "19:30",
+          "home_team": "VfB Stuttgart",
+          "away_team": "SC Freiburg"
+        },
+        {
+          "date": "2026-01-31",
+          "time": "19:30",
+          "home_team": "RB Leipzig",
+          "away_team": "1. FSV Mainz 05"
+        },
+        {
+          "date": "2026-01-31",
+          "time": "19:30",
+          "home_team": "Werder Bremen",
+          "away_team": "Bor. Mönchengladbach"
+        },
+        {
+          "date": "2026-01-31",
+          "time": "19:30",
+          "home_team": "1. FC Köln",
+          "away_team": "VfL Wolfsburg"
+        },
+        {
+          "date": "2026-01-31",
+          "time": "19:30",
+          "home_team": "1899 Hoffenheim",
+          "away_team": "1. FC Union Berlin"
+        },
+        {
+          "date": "2026-01-31",
+          "time": "19:30",
+          "home_team": "FC Augsburg",
+          "away_team": "FC St. Pauli"
+        },
+        {
+          "date": "2026-01-31",
+          "time": "19:30",
+          "home_team": "Borussia Dortmund",
+          "away_team": "1. FC Heidenheim 1846"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 21",
+      "matches": [
+        {
+          "date": "2026-02-07",
+          "time": "19:30",
+          "home_team": "Bor. Mönchengladbach",
+          "away_team": "Bayer Leverkusen"
+        },
+        {
+          "date": "2026-02-07",
+          "time": "19:30",
+          "home_team": "1. FC Union Berlin",
+          "away_team": "Eintracht Frankfurt"
+        },
+        {
+          "date": "2026-02-07",
+          "time": "19:30",
+          "home_team": "VfL Wolfsburg",
+          "away_team": "Borussia Dortmund"
+        },
+        {
+          "date": "2026-02-07",
+          "time": "19:30",
+          "home_team": "1. FC Köln",
+          "away_team": "RB Leipzig"
+        },
+        {
+          "date": "2026-02-07",
+          "time": "19:30",
+          "home_team": "SC Freiburg",
+          "away_team": "Werder Bremen"
+        },
+        {
+          "date": "2026-02-07",
+          "time": "19:30",
+          "home_team": "FC St. Pauli",
+          "away_team": "VfB Stuttgart"
+        },
+        {
+          "date": "2026-02-07",
+          "time": "19:30",
+          "home_team": "1. FSV Mainz 05",
+          "away_team": "FC Augsburg"
+        },
+        {
+          "date": "2026-02-07",
+          "time": "19:30",
+          "home_team": "Bayern München",
+          "away_team": "1899 Hoffenheim"
+        },
+        {
+          "date": "2026-02-07",
+          "time": "19:30",
+          "home_team": "1. FC Heidenheim 1846",
+          "away_team": "Hamburger SV"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 22",
+      "matches": [
+        {
+          "date": "2026-02-14",
+          "time": "19:30",
+          "home_team": "Werder Bremen",
+          "away_team": "Bayern München"
+        },
+        {
+          "date": "2026-02-14",
+          "time": "19:30",
+          "home_team": "1899 Hoffenheim",
+          "away_team": "SC Freiburg"
+        },
+        {
+          "date": "2026-02-14",
+          "time": "19:30",
+          "home_team": "Borussia Dortmund",
+          "away_team": "1. FSV Mainz 05"
+        },
+        {
+          "date": "2026-02-14",
+          "time": "19:30",
+          "home_team": "Eintracht Frankfurt",
+          "away_team": "Bor. Mönchengladbach"
+        },
+        {
+          "date": "2026-02-14",
+          "time": "19:30",
+          "home_team": "RB Leipzig",
+          "away_team": "VfL Wolfsburg"
+        },
+        {
+          "date": "2026-02-14",
+          "time": "19:30",
+          "home_team": "Hamburger SV",
+          "away_team": "1. FC Union Berlin"
+        },
+        {
+          "date": "2026-02-14",
+          "time": "19:30",
+          "home_team": "Bayer Leverkusen",
+          "away_team": "FC St. Pauli"
+        },
+        {
+          "date": "2026-02-14",
+          "time": "19:30",
+          "home_team": "FC Augsburg",
+          "away_team": "1. FC Heidenheim 1846"
+        },
+        {
+          "date": "2026-02-14",
+          "time": "19:30",
+          "home_team": "VfB Stuttgart",
+          "away_team": "1. FC Köln"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 23",
+      "matches": [
+        {
+          "date": "2026-02-21",
+          "time": "19:30",
+          "home_team": "1. FC Union Berlin",
+          "away_team": "Bayer Leverkusen"
+        },
+        {
+          "date": "2026-02-21",
+          "time": "19:30",
+          "home_team": "Bayern München",
+          "away_team": "Eintracht Frankfurt"
+        },
+        {
+          "date": "2026-02-21",
+          "time": "19:30",
+          "home_team": "RB Leipzig",
+          "away_team": "Borussia Dortmund"
+        },
+        {
+          "date": "2026-02-21",
+          "time": "19:30",
+          "home_team": "FC St. Pauli",
+          "away_team": "Werder Bremen"
+        },
+        {
+          "date": "2026-02-21",
+          "time": "19:30",
+          "home_team": "1. FC Heidenheim 1846",
+          "away_team": "VfB Stuttgart"
+        },
+        {
+          "date": "2026-02-21",
+          "time": "19:30",
+          "home_team": "SC Freiburg",
+          "away_team": "Bor. Mönchengladbach"
+        },
+        {
+          "date": "2026-02-21",
+          "time": "19:30",
+          "home_team": "VfL Wolfsburg",
+          "away_team": "FC Augsburg"
+        },
+        {
+          "date": "2026-02-21",
+          "time": "19:30",
+          "home_team": "1. FC Köln",
+          "away_team": "1899 Hoffenheim"
+        },
+        {
+          "date": "2026-02-21",
+          "time": "19:30",
+          "home_team": "1. FSV Mainz 05",
+          "away_team": "Hamburger SV"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 24",
+      "matches": [
+        {
+          "date": "2026-02-28",
+          "time": "19:30",
+          "home_team": "Borussia Dortmund",
+          "away_team": "Bayern München"
+        },
+        {
+          "date": "2026-02-28",
+          "time": "19:30",
+          "home_team": "Eintracht Frankfurt",
+          "away_team": "SC Freiburg"
+        },
+        {
+          "date": "2026-02-28",
+          "time": "19:30",
+          "home_team": "Bayer Leverkusen",
+          "away_team": "1. FSV Mainz 05"
+        },
+        {
+          "date": "2026-02-28",
+          "time": "19:30",
+          "home_team": "Hamburger SV",
+          "away_team": "RB Leipzig"
+        },
+        {
+          "date": "2026-02-28",
+          "time": "19:30",
+          "home_team": "VfB Stuttgart",
+          "away_team": "VfL Wolfsburg"
+        },
+        {
+          "date": "2026-02-28",
+          "time": "19:30",
+          "home_team": "Bor. Mönchengladbach",
+          "away_team": "1. FC Union Berlin"
+        },
+        {
+          "date": "2026-02-28",
+          "time": "19:30",
+          "home_team": "1899 Hoffenheim",
+          "away_team": "FC St. Pauli"
+        },
+        {
+          "date": "2026-02-28",
+          "time": "19:30",
+          "home_team": "Werder Bremen",
+          "away_team": "1. FC Heidenheim 1846"
+        },
+        {
+          "date": "2026-02-28",
+          "time": "19:30",
+          "home_team": "FC Augsburg",
+          "away_team": "1. FC Köln"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 25",
+      "matches": [
+        {
+          "date": "2026-03-07",
+          "time": "19:30",
+          "home_team": "SC Freiburg",
+          "away_team": "Bayer Leverkusen"
+        },
+        {
+          "date": "2026-03-07",
+          "time": "19:30",
+          "home_team": "FC St. Pauli",
+          "away_team": "Eintracht Frankfurt"
+        },
+        {
+          "date": "2026-03-07",
+          "time": "19:30",
+          "home_team": "1. FC Köln",
+          "away_team": "Borussia Dortmund"
+        },
+        {
+          "date": "2026-03-07",
+          "time": "19:30",
+          "home_team": "1. FC Union Berlin",
+          "away_team": "Werder Bremen"
+        },
+        {
+          "date": "2026-03-07",
+          "time": "19:30",
+          "home_team": "1. FSV Mainz 05",
+          "away_team": "VfB Stuttgart"
+        },
+        {
+          "date": "2026-03-07",
+          "time": "19:30",
+          "home_team": "Bayern München",
+          "away_team": "Bor. Mönchengladbach"
+        },
+        {
+          "date": "2026-03-07",
+          "time": "19:30",
+          "home_team": "RB Leipzig",
+          "away_team": "FC Augsburg"
+        },
+        {
+          "date": "2026-03-07",
+          "time": "19:30",
+          "home_team": "1. FC Heidenheim 1846",
+          "away_team": "1899 Hoffenheim"
+        },
+        {
+          "date": "2026-03-07",
+          "time": "19:30",
+          "home_team": "VfL Wolfsburg",
+          "away_team": "Hamburger SV"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 26",
+      "matches": [
+        {
+          "date": "2026-03-14",
+          "time": "19:30",
+          "home_team": "Bayer Leverkusen",
+          "away_team": "Bayern München"
+        },
+        {
+          "date": "2026-03-14",
+          "time": "19:30",
+          "home_team": "Werder Bremen",
+          "away_team": "1. FSV Mainz 05"
+        },
+        {
+          "date": "2026-03-14",
+          "time": "19:30",
+          "home_team": "VfB Stuttgart",
+          "away_team": "RB Leipzig"
+        },
+        {
+          "date": "2026-03-14",
+          "time": "19:30",
+          "home_team": "1899 Hoffenheim",
+          "away_team": "VfL Wolfsburg"
+        },
+        {
+          "date": "2026-03-14",
+          "time": "19:30",
+          "home_team": "Borussia Dortmund",
+          "away_team": "FC Augsburg"
+        },
+        {
+          "date": "2026-03-14",
+          "time": "19:30",
+          "home_team": "SC Freiburg",
+          "away_team": "1. FC Union Berlin"
+        },
+        {
+          "date": "2026-03-14",
+          "time": "19:30",
+          "home_team": "Bor. Mönchengladbach",
+          "away_team": "FC St. Pauli"
+        },
+        {
+          "date": "2026-03-14",
+          "time": "19:30",
+          "home_team": "Eintracht Frankfurt",
+          "away_team": "1. FC Heidenheim 1846"
+        },
+        {
+          "date": "2026-03-14",
+          "time": "19:30",
+          "home_team": "Hamburger SV",
+          "away_team": "1. FC Köln"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 27",
+      "matches": [
+        {
+          "date": "2026-03-21",
+          "time": "19:30",
+          "home_team": "1. FC Heidenheim 1846",
+          "away_team": "Bayer Leverkusen"
+        },
+        {
+          "date": "2026-03-21",
+          "time": "19:30",
+          "home_team": "1. FSV Mainz 05",
+          "away_team": "Eintracht Frankfurt"
+        },
+        {
+          "date": "2026-03-21",
+          "time": "19:30",
+          "home_team": "FC St. Pauli",
+          "away_team": "SC Freiburg"
+        },
+        {
+          "date": "2026-03-21",
+          "time": "19:30",
+          "home_team": "VfL Wolfsburg",
+          "away_team": "Werder Bremen"
+        },
+        {
+          "date": "2026-03-21",
+          "time": "19:30",
+          "home_team": "FC Augsburg",
+          "away_team": "VfB Stuttgart"
+        },
+        {
+          "date": "2026-03-21",
+          "time": "19:30",
+          "home_team": "1. FC Köln",
+          "away_team": "Bor. Mönchengladbach"
+        },
+        {
+          "date": "2026-03-21",
+          "time": "19:30",
+          "home_team": "Bayern München",
+          "away_team": "1. FC Union Berlin"
+        },
+        {
+          "date": "2026-03-21",
+          "time": "19:30",
+          "home_team": "RB Leipzig",
+          "away_team": "1899 Hoffenheim"
+        },
+        {
+          "date": "2026-03-21",
+          "time": "19:30",
+          "home_team": "Borussia Dortmund",
+          "away_team": "Hamburger SV"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 28",
+      "matches": [
+        {
+          "date": "2026-04-05",
+          "time": "19:30",
+          "home_team": "SC Freiburg",
+          "away_team": "Bayern München"
+        },
+        {
+          "date": "2026-04-05",
+          "time": "19:30",
+          "home_team": "VfB Stuttgart",
+          "away_team": "Borussia Dortmund"
+        },
+        {
+          "date": "2026-04-05",
+          "time": "19:30",
+          "home_team": "1899 Hoffenheim",
+          "away_team": "1. FSV Mainz 05"
+        },
+        {
+          "date": "2026-04-05",
+          "time": "19:30",
+          "home_team": "Werder Bremen",
+          "away_team": "RB Leipzig"
+        },
+        {
+          "date": "2026-04-05",
+          "time": "19:30",
+          "home_team": "Bayer Leverkusen",
+          "away_team": "VfL Wolfsburg"
+        },
+        {
+          "date": "2026-04-05",
+          "time": "19:30",
+          "home_team": "Hamburger SV",
+          "away_team": "FC Augsburg"
+        },
+        {
+          "date": "2026-04-05",
+          "time": "19:30",
+          "home_team": "1. FC Union Berlin",
+          "away_team": "FC St. Pauli"
+        },
+        {
+          "date": "2026-04-05",
+          "time": "19:30",
+          "home_team": "Bor. Mönchengladbach",
+          "away_team": "1. FC Heidenheim 1846"
+        },
+        {
+          "date": "2026-04-05",
+          "time": "19:30",
+          "home_team": "Eintracht Frankfurt",
+          "away_team": "1. FC Köln"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 29",
+      "matches": [
+        {
+          "date": "2026-04-11",
+          "time": "19:30",
+          "home_team": "FC St. Pauli",
+          "away_team": "Bayern München"
+        },
+        {
+          "date": "2026-04-11",
+          "time": "19:30",
+          "home_team": "Borussia Dortmund",
+          "away_team": "Bayer Leverkusen"
+        },
+        {
+          "date": "2026-04-11",
+          "time": "19:30",
+          "home_team": "VfL Wolfsburg",
+          "away_team": "Eintracht Frankfurt"
+        },
+        {
+          "date": "2026-04-11",
+          "time": "19:30",
+          "home_team": "1. FSV Mainz 05",
+          "away_team": "SC Freiburg"
+        },
+        {
+          "date": "2026-04-11",
+          "time": "19:30",
+          "home_team": "1. FC Köln",
+          "away_team": "Werder Bremen"
+        },
+        {
+          "date": "2026-04-11",
+          "time": "19:30",
+          "home_team": "RB Leipzig",
+          "away_team": "Bor. Mönchengladbach"
+        },
+        {
+          "date": "2026-04-11",
+          "time": "19:30",
+          "home_team": "1. FC Heidenheim 1846",
+          "away_team": "1. FC Union Berlin"
+        },
+        {
+          "date": "2026-04-11",
+          "time": "19:30",
+          "home_team": "FC Augsburg",
+          "away_team": "1899 Hoffenheim"
+        },
+        {
+          "date": "2026-04-11",
+          "time": "19:30",
+          "home_team": "VfB Stuttgart",
+          "away_team": "Hamburger SV"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 30",
+      "matches": [
+        {
+          "date": "2026-04-18",
+          "time": "19:30",
+          "home_team": "1899 Hoffenheim",
+          "away_team": "Borussia Dortmund"
+        },
+        {
+          "date": "2026-04-18",
+          "time": "19:30",
+          "home_team": "Bor. Mönchengladbach",
+          "away_team": "1. FSV Mainz 05"
+        },
+        {
+          "date": "2026-04-18",
+          "time": "19:30",
+          "home_team": "Eintracht Frankfurt",
+          "away_team": "RB Leipzig"
+        },
+        {
+          "date": "2026-04-18",
+          "time": "19:30",
+          "home_team": "Bayern München",
+          "away_team": "VfB Stuttgart"
+        },
+        {
+          "date": "2026-04-18",
+          "time": "19:30",
+          "home_team": "1. FC Union Berlin",
+          "away_team": "VfL Wolfsburg"
+        },
+        {
+          "date": "2026-04-18",
+          "time": "19:30",
+          "home_team": "SC Freiburg",
+          "away_team": "1. FC Heidenheim 1846"
+        },
+        {
+          "date": "2026-04-18",
+          "time": "19:30",
+          "home_team": "FC St. Pauli",
+          "away_team": "1. FC Köln"
+        },
+        {
+          "date": "2026-04-18",
+          "time": "19:30",
+          "home_team": "Werder Bremen",
+          "away_team": "Hamburger SV"
+        },
+        {
+          "date": "2026-04-18",
+          "time": "19:30",
+          "home_team": "Bayer Leverkusen",
+          "away_team": "FC Augsburg"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 31",
+      "matches": [
+        {
+          "date": "2026-04-25",
+          "time": "19:30",
+          "home_team": "1. FSV Mainz 05",
+          "away_team": "Bayern München"
+        },
+        {
+          "date": "2026-04-25",
+          "time": "19:30",
+          "home_team": "1. FC Köln",
+          "away_team": "Bayer Leverkusen"
+        },
+        {
+          "date": "2026-04-25",
+          "time": "19:30",
+          "home_team": "FC Augsburg",
+          "away_team": "Eintracht Frankfurt"
+        },
+        {
+          "date": "2026-04-25",
+          "time": "19:30",
+          "home_team": "Borussia Dortmund",
+          "away_team": "SC Freiburg"
+        },
+        {
+          "date": "2026-04-25",
+          "time": "19:30",
+          "home_team": "VfB Stuttgart",
+          "away_team": "Werder Bremen"
+        },
+        {
+          "date": "2026-04-25",
+          "time": "19:30",
+          "home_team": "VfL Wolfsburg",
+          "away_team": "Bor. Mönchengladbach"
+        },
+        {
+          "date": "2026-04-25",
+          "time": "19:30",
+          "home_team": "RB Leipzig",
+          "away_team": "1. FC Union Berlin"
+        },
+        {
+          "date": "2026-04-25",
+          "time": "19:30",
+          "home_team": "1. FC Heidenheim 1846",
+          "away_team": "FC St. Pauli"
+        },
+        {
+          "date": "2026-04-25",
+          "time": "19:30",
+          "home_team": "Hamburger SV",
+          "away_team": "1899 Hoffenheim"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 32",
+      "matches": [
+        {
+          "date": "2026-05-03",
+          "time": "19:30",
+          "home_team": "Bor. Mönchengladbach",
+          "away_team": "Borussia Dortmund"
+        },
+        {
+          "date": "2026-05-03",
+          "time": "19:30",
+          "home_team": "FC St. Pauli",
+          "away_team": "1. FSV Mainz 05"
+        },
+        {
+          "date": "2026-05-03",
+          "time": "19:30",
+          "home_team": "Bayer Leverkusen",
+          "away_team": "RB Leipzig"
+        },
+        {
+          "date": "2026-05-03",
+          "time": "19:30",
+          "home_team": "1899 Hoffenheim",
+          "away_team": "VfB Stuttgart"
+        },
+        {
+          "date": "2026-05-03",
+          "time": "19:30",
+          "home_team": "SC Freiburg",
+          "away_team": "VfL Wolfsburg"
+        },
+        {
+          "date": "2026-05-03",
+          "time": "19:30",
+          "home_team": "Werder Bremen",
+          "away_team": "FC Augsburg"
+        },
+        {
+          "date": "2026-05-03",
+          "time": "19:30",
+          "home_team": "Bayern München",
+          "away_team": "1. FC Heidenheim 1846"
+        },
+        {
+          "date": "2026-05-03",
+          "time": "19:30",
+          "home_team": "1. FC Union Berlin",
+          "away_team": "1. FC Köln"
+        },
+        {
+          "date": "2026-05-03",
+          "time": "19:30",
+          "home_team": "Eintracht Frankfurt",
+          "away_team": "Hamburger SV"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 33",
+      "matches": [
+        {
+          "date": "2026-05-09",
+          "time": "19:30",
+          "home_team": "VfL Wolfsburg",
+          "away_team": "Bayern München"
+        },
+        {
+          "date": "2026-05-09",
+          "time": "19:30",
+          "home_team": "VfB Stuttgart",
+          "away_team": "Bayer Leverkusen"
+        },
+        {
+          "date": "2026-05-09",
+          "time": "19:30",
+          "home_team": "Borussia Dortmund",
+          "away_team": "Eintracht Frankfurt"
+        },
+        {
+          "date": "2026-05-09",
+          "time": "19:30",
+          "home_team": "Hamburger SV",
+          "away_team": "SC Freiburg"
+        },
+        {
+          "date": "2026-05-09",
+          "time": "19:30",
+          "home_team": "1899 Hoffenheim",
+          "away_team": "Werder Bremen"
+        },
+        {
+          "date": "2026-05-09",
+          "time": "19:30",
+          "home_team": "FC Augsburg",
+          "away_team": "Bor. Mönchengladbach"
+        },
+        {
+          "date": "2026-05-09",
+          "time": "19:30",
+          "home_team": "1. FSV Mainz 05",
+          "away_team": "1. FC Union Berlin"
+        },
+        {
+          "date": "2026-05-09",
+          "time": "19:30",
+          "home_team": "RB Leipzig",
+          "away_team": "FC St. Pauli"
+        },
+        {
+          "date": "2026-05-09",
+          "time": "19:30",
+          "home_team": "1. FC Köln",
+          "away_team": "1. FC Heidenheim 1846"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 34",
+      "matches": [
+        {
+          "date": "2026-05-16",
+          "time": "15:30",
+          "home_team": "Werder Bremen",
+          "away_team": "Borussia Dortmund"
+        },
+        {
+          "date": "2026-05-16",
+          "time": "15:30",
+          "home_team": "1. FC Heidenheim 1846",
+          "away_team": "1. FSV Mainz 05"
+        },
+        {
+          "date": "2026-05-16",
+          "time": "15:30",
+          "home_team": "SC Freiburg",
+          "away_team": "RB Leipzig"
+        },
+        {
+          "date": "2026-05-16",
+          "time": "15:30",
+          "home_team": "Eintracht Frankfurt",
+          "away_team": "VfB Stuttgart"
+        },
+        {
+          "date": "2026-05-16",
+          "time": "15:30",
+          "home_team": "FC St. Pauli",
+          "away_team": "VfL Wolfsburg"
+        },
+        {
+          "date": "2026-05-16",
+          "time": "15:30",
+          "home_team": "1. FC Union Berlin",
+          "away_team": "FC Augsburg"
+        },
+        {
+          "date": "2026-05-16",
+          "time": "15:30",
+          "home_team": "Bor. Mönchengladbach",
+          "away_team": "1899 Hoffenheim"
+        },
+        {
+          "date": "2026-05-16",
+          "time": "15:30",
+          "home_team": "Bayern München",
+          "away_team": "1. FC Köln"
+        },
+        {
+          "date": "2026-05-16",
+          "time": "15:30",
+          "home_team": "Bayer Leverkusen",
+          "away_team": "Hamburger SV"
+        }
+      ]
+    }
+  ]
+}

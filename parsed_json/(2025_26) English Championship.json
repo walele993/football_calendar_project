@@ -1,0 +1,3548 @@
+{
+  "league": "English Championship",
+  "season": "2025/26",
+  "matchdays": [
+    {
+      "matchday": "Matchday 1",
+      "matches": [
+        {
+          "date": "2025-08-08",
+          "time": "20:00",
+          "home_team": "Birmingham City",
+          "away_team": "Ipswich Town"
+        },
+        {
+          "date": "2025-08-09",
+          "time": "12:30",
+          "home_team": "Charlton Athletic",
+          "away_team": "Watford FC"
+        },
+        {
+          "date": "2025-08-09",
+          "time": "12:30",
+          "home_team": "Coventry City",
+          "away_team": "Hull City"
+        },
+        {
+          "date": "2025-08-09",
+          "time": "12:30",
+          "home_team": "Southampton FC",
+          "away_team": "Wrexham AFC"
+        },
+        {
+          "date": "2025-08-09",
+          "time": "15:00",
+          "home_team": "Middlesbrough FC",
+          "away_team": "Swansea City"
+        },
+        {
+          "date": "2025-08-09",
+          "time": "15:00",
+          "home_team": "Norwich City",
+          "away_team": "Millwall FC"
+        },
+        {
+          "date": "2025-08-09",
+          "time": "15:00",
+          "home_team": "Oxford United",
+          "away_team": "Portsmouth FC"
+        },
+        {
+          "date": "2025-08-09",
+          "time": "15:00",
+          "home_team": "Queens Park Rangers",
+          "away_team": "Preston North End"
+        },
+        {
+          "date": "2025-08-09",
+          "time": "15:00",
+          "home_team": "Stoke City",
+          "away_team": "Derby County"
+        },
+        {
+          "date": "2025-08-09",
+          "time": "15:00",
+          "home_team": "West Bromwich Albion",
+          "away_team": "Blackburn Rovers"
+        },
+        {
+          "date": "2025-08-09",
+          "time": "17:30",
+          "home_team": "Sheffield United",
+          "away_team": "Bristol City"
+        },
+        {
+          "date": "2025-08-10",
+          "time": "16:30",
+          "home_team": "Leicester City",
+          "away_team": "Sheffield Wednesday"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 2",
+      "matches": [
+        {
+          "date": "2025-08-16",
+          "time": "12:30",
+          "home_team": "Derby County",
+          "away_team": "Coventry City"
+        },
+        {
+          "date": "2025-08-16",
+          "time": "12:30",
+          "home_team": "Portsmouth FC",
+          "away_team": "Norwich City"
+        },
+        {
+          "date": "2025-08-16",
+          "time": "12:30",
+          "home_team": "Wrexham AFC",
+          "away_team": "West Bromwich Albion"
+        },
+        {
+          "date": "2025-08-16",
+          "time": "15:00",
+          "home_team": "Blackburn Rovers",
+          "away_team": "Birmingham City"
+        },
+        {
+          "date": "2025-08-16",
+          "time": "15:00",
+          "home_team": "Bristol City",
+          "away_team": "Charlton Athletic"
+        },
+        {
+          "date": "2025-08-16",
+          "time": "15:00",
+          "home_team": "Millwall FC",
+          "away_team": "Middlesbrough FC"
+        },
+        {
+          "date": "2025-08-16",
+          "time": "15:00",
+          "home_team": "Preston North End",
+          "away_team": "Leicester City"
+        },
+        {
+          "date": "2025-08-16",
+          "time": "15:00",
+          "home_team": "Sheffield Wednesday",
+          "away_team": "Stoke City"
+        },
+        {
+          "date": "2025-08-16",
+          "time": "15:00",
+          "home_team": "Swansea City",
+          "away_team": "Sheffield United"
+        },
+        {
+          "date": "2025-08-16",
+          "time": "15:00",
+          "home_team": "Watford FC",
+          "away_team": "Queens Park Rangers"
+        },
+        {
+          "date": "2025-08-17",
+          "time": "12:00",
+          "home_team": "Ipswich Town",
+          "away_team": "Southampton FC"
+        },
+        {
+          "date": "2025-08-17",
+          "time": "15:00",
+          "home_team": "Hull City",
+          "away_team": "Oxford United"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 3",
+      "matches": [
+        {
+          "date": "2025-08-22",
+          "time": "20:00",
+          "home_team": "Derby County",
+          "away_team": "Bristol City"
+        },
+        {
+          "date": "2025-08-23",
+          "time": "12:30",
+          "home_team": "Hull City",
+          "away_team": "Blackburn Rovers"
+        },
+        {
+          "date": "2025-08-23",
+          "time": "12:30",
+          "home_team": "Swansea City",
+          "away_team": "Watford FC"
+        },
+        {
+          "date": "2025-08-23",
+          "time": "15:00",
+          "home_team": "Birmingham City",
+          "away_team": "Oxford United"
+        },
+        {
+          "date": "2025-08-23",
+          "time": "15:00",
+          "home_team": "Charlton Athletic",
+          "away_team": "Leicester City"
+        },
+        {
+          "date": "2025-08-23",
+          "time": "15:00",
+          "home_team": "Coventry City",
+          "away_team": "Queens Park Rangers"
+        },
+        {
+          "date": "2025-08-23",
+          "time": "15:00",
+          "home_team": "Norwich City",
+          "away_team": "Middlesbrough FC"
+        },
+        {
+          "date": "2025-08-23",
+          "time": "15:00",
+          "home_team": "Preston North End",
+          "away_team": "Ipswich Town"
+        },
+        {
+          "date": "2025-08-23",
+          "time": "15:00",
+          "home_team": "Sheffield United",
+          "away_team": "Millwall FC"
+        },
+        {
+          "date": "2025-08-23",
+          "time": "15:00",
+          "home_team": "Southampton FC",
+          "away_team": "Stoke City"
+        },
+        {
+          "date": "2025-08-23",
+          "time": "15:00",
+          "home_team": "West Bromwich Albion",
+          "away_team": "Portsmouth FC"
+        },
+        {
+          "date": "2025-08-23",
+          "time": "15:00",
+          "home_team": "Wrexham AFC",
+          "away_team": "Sheffield Wednesday"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 4",
+      "matches": [
+        {
+          "date": "2025-08-29",
+          "time": "20:00",
+          "home_team": "Leicester City",
+          "away_team": "Birmingham City"
+        },
+        {
+          "date": "2025-08-30",
+          "time": "12:30",
+          "home_team": "Middlesbrough FC",
+          "away_team": "Sheffield United"
+        },
+        {
+          "date": "2025-08-30",
+          "time": "12:30",
+          "home_team": "Stoke City",
+          "away_team": "West Bromwich Albion"
+        },
+        {
+          "date": "2025-08-30",
+          "time": "15:00",
+          "home_team": "Blackburn Rovers",
+          "away_team": "Norwich City"
+        },
+        {
+          "date": "2025-08-30",
+          "time": "15:00",
+          "home_team": "Bristol City",
+          "away_team": "Hull City"
+        },
+        {
+          "date": "2025-08-30",
+          "time": "15:00",
+          "home_team": "Ipswich Town",
+          "away_team": "Derby County"
+        },
+        {
+          "date": "2025-08-30",
+          "time": "15:00",
+          "home_team": "Millwall FC",
+          "away_team": "Wrexham AFC"
+        },
+        {
+          "date": "2025-08-30",
+          "time": "15:00",
+          "home_team": "Oxford United",
+          "away_team": "Coventry City"
+        },
+        {
+          "date": "2025-08-30",
+          "time": "15:00",
+          "home_team": "Portsmouth FC",
+          "away_team": "Preston North End"
+        },
+        {
+          "date": "2025-08-30",
+          "time": "15:00",
+          "home_team": "Queens Park Rangers",
+          "away_team": "Charlton Athletic"
+        },
+        {
+          "date": "2025-08-30",
+          "time": "15:00",
+          "home_team": "Sheffield Wednesday",
+          "away_team": "Swansea City"
+        },
+        {
+          "date": "2025-08-30",
+          "time": "15:00",
+          "home_team": "Watford FC",
+          "away_team": "Southampton FC"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 5",
+      "matches": [
+        {
+          "date": "2025-09-12",
+          "time": "20:00",
+          "home_team": "Ipswich Town",
+          "away_team": "Sheffield United"
+        },
+        {
+          "date": "2025-09-13",
+          "time": "12:30",
+          "home_team": "Charlton Athletic",
+          "away_team": "Millwall FC"
+        },
+        {
+          "date": "2025-09-13",
+          "time": "12:30",
+          "home_team": "Oxford United",
+          "away_team": "Leicester City"
+        },
+        {
+          "date": "2025-09-13",
+          "time": "12:30",
+          "home_team": "Preston North End",
+          "away_team": "Middlesbrough FC"
+        },
+        {
+          "date": "2025-09-13",
+          "time": "15:00",
+          "home_team": "Coventry City",
+          "away_team": "Norwich City"
+        },
+        {
+          "date": "2025-09-13",
+          "time": "15:00",
+          "home_team": "Sheffield Wednesday",
+          "away_team": "Bristol City"
+        },
+        {
+          "date": "2025-09-13",
+          "time": "15:00",
+          "home_team": "Stoke City",
+          "away_team": "Birmingham City"
+        },
+        {
+          "date": "2025-09-13",
+          "time": "15:00",
+          "home_team": "Swansea City",
+          "away_team": "Hull City"
+        },
+        {
+          "date": "2025-09-13",
+          "time": "15:00",
+          "home_team": "Watford FC",
+          "away_team": "Blackburn Rovers"
+        },
+        {
+          "date": "2025-09-13",
+          "time": "15:00",
+          "home_team": "West Bromwich Albion",
+          "away_team": "Derby County"
+        },
+        {
+          "date": "2025-09-13",
+          "time": "15:00",
+          "home_team": "Wrexham AFC",
+          "away_team": "Queens Park Rangers"
+        },
+        {
+          "date": "2025-09-14",
+          "time": "12:00",
+          "home_team": "Southampton FC",
+          "away_team": "Portsmouth FC"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 6",
+      "matches": [
+        {
+          "date": "2025-09-19",
+          "time": "20:00",
+          "home_team": "Middlesbrough FC",
+          "away_team": "West Bromwich Albion"
+        },
+        {
+          "date": "2025-09-20",
+          "time": "12:30",
+          "home_team": "Birmingham City",
+          "away_team": "Swansea City"
+        },
+        {
+          "date": "2025-09-20",
+          "time": "12:30",
+          "home_team": "Leicester City",
+          "away_team": "Coventry City"
+        },
+        {
+          "date": "2025-09-20",
+          "time": "12:30",
+          "home_team": "Queens Park Rangers",
+          "away_team": "Stoke City"
+        },
+        {
+          "date": "2025-09-20",
+          "time": "15:00",
+          "home_team": "Blackburn Rovers",
+          "away_team": "Ipswich Town"
+        },
+        {
+          "date": "2025-09-20",
+          "time": "15:00",
+          "home_team": "Derby County",
+          "away_team": "Preston North End"
+        },
+        {
+          "date": "2025-09-20",
+          "time": "15:00",
+          "home_team": "Hull City",
+          "away_team": "Southampton FC"
+        },
+        {
+          "date": "2025-09-20",
+          "time": "15:00",
+          "home_team": "Norwich City",
+          "away_team": "Wrexham AFC"
+        },
+        {
+          "date": "2025-09-20",
+          "time": "15:00",
+          "home_team": "Portsmouth FC",
+          "away_team": "Sheffield Wednesday"
+        },
+        {
+          "date": "2025-09-20",
+          "time": "15:00",
+          "home_team": "Sheffield United",
+          "away_team": "Charlton Athletic"
+        },
+        {
+          "date": "2025-09-21",
+          "time": "15:00",
+          "home_team": "Bristol City",
+          "away_team": "Oxford United"
+        },
+        {
+          "date": "2025-09-22",
+          "time": "20:00",
+          "home_team": "Millwall FC",
+          "away_team": "Watford FC"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 7",
+      "matches": [
+        {
+          "date": "2025-09-26",
+          "time": "20:00",
+          "home_team": "West Bromwich Albion",
+          "away_team": "Leicester City"
+        },
+        {
+          "date": "2025-09-27",
+          "time": "12:30",
+          "home_team": "Coventry City",
+          "away_team": "Birmingham City"
+        },
+        {
+          "date": "2025-09-27",
+          "time": "12:30",
+          "home_team": "Swansea City",
+          "away_team": "Millwall FC"
+        },
+        {
+          "date": "2025-09-27",
+          "time": "12:30",
+          "home_team": "Wrexham AFC",
+          "away_team": "Derby County"
+        },
+        {
+          "date": "2025-09-27",
+          "time": "15:00",
+          "home_team": "Charlton Athletic",
+          "away_team": "Blackburn Rovers"
+        },
+        {
+          "date": "2025-09-27",
+          "time": "15:00",
+          "home_team": "Ipswich Town",
+          "away_team": "Portsmouth FC"
+        },
+        {
+          "date": "2025-09-27",
+          "time": "15:00",
+          "home_team": "Oxford United",
+          "away_team": "Sheffield United"
+        },
+        {
+          "date": "2025-09-27",
+          "time": "15:00",
+          "home_team": "Preston North End",
+          "away_team": "Bristol City"
+        },
+        {
+          "date": "2025-09-27",
+          "time": "15:00",
+          "home_team": "Sheffield Wednesday",
+          "away_team": "Queens Park Rangers"
+        },
+        {
+          "date": "2025-09-27",
+          "time": "15:00",
+          "home_team": "Southampton FC",
+          "away_team": "Middlesbrough FC"
+        },
+        {
+          "date": "2025-09-27",
+          "time": "15:00",
+          "home_team": "Stoke City",
+          "away_team": "Norwich City"
+        },
+        {
+          "date": "2025-09-27",
+          "time": "15:00",
+          "home_team": "Watford FC",
+          "away_team": "Hull City"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 8",
+      "matches": [
+        {
+          "date": "2025-09-30",
+          "time": "19:45",
+          "home_team": "Birmingham City",
+          "away_team": "Sheffield Wednesday"
+        },
+        {
+          "date": "2025-09-30",
+          "time": "19:45",
+          "home_team": "Blackburn Rovers",
+          "away_team": "Swansea City"
+        },
+        {
+          "date": "2025-09-30",
+          "time": "19:45",
+          "home_team": "Bristol City",
+          "away_team": "Ipswich Town"
+        },
+        {
+          "date": "2025-09-30",
+          "time": "19:45",
+          "home_team": "Derby County",
+          "away_team": "Charlton Athletic"
+        },
+        {
+          "date": "2025-09-30",
+          "time": "19:45",
+          "home_team": "Hull City",
+          "away_team": "Preston North End"
+        },
+        {
+          "date": "2025-09-30",
+          "time": "19:45",
+          "home_team": "Leicester City",
+          "away_team": "Wrexham AFC"
+        },
+        {
+          "date": "2025-09-30",
+          "time": "19:45",
+          "home_team": "Middlesbrough FC",
+          "away_team": "Stoke City"
+        },
+        {
+          "date": "2025-09-30",
+          "time": "19:45",
+          "home_team": "Sheffield United",
+          "away_team": "Southampton FC"
+        },
+        {
+          "date": "2025-10-01",
+          "time": "19:45",
+          "home_team": "Millwall FC",
+          "away_team": "Coventry City"
+        },
+        {
+          "date": "2025-10-01",
+          "time": "19:45",
+          "home_team": "Norwich City",
+          "away_team": "West Bromwich Albion"
+        },
+        {
+          "date": "2025-10-01",
+          "time": "19:45",
+          "home_team": "Portsmouth FC",
+          "away_team": "Watford FC"
+        },
+        {
+          "date": "2025-10-01",
+          "time": "19:45",
+          "home_team": "Queens Park Rangers",
+          "away_team": "Oxford United"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 9",
+      "matches": [
+        {
+          "date": "2025-10-04",
+          "time": "15:00",
+          "home_team": "Blackburn Rovers",
+          "away_team": "Stoke City"
+        },
+        {
+          "date": "2025-10-04",
+          "time": "15:00",
+          "home_team": "Bristol City",
+          "away_team": "Queens Park Rangers"
+        },
+        {
+          "date": "2025-10-04",
+          "time": "15:00",
+          "home_team": "Derby County",
+          "away_team": "Southampton FC"
+        },
+        {
+          "date": "2025-10-04",
+          "time": "15:00",
+          "home_team": "Hull City",
+          "away_team": "Sheffield United"
+        },
+        {
+          "date": "2025-10-04",
+          "time": "15:00",
+          "home_team": "Ipswich Town",
+          "away_team": "Norwich City"
+        },
+        {
+          "date": "2025-10-04",
+          "time": "15:00",
+          "home_team": "Millwall FC",
+          "away_team": "West Bromwich Albion"
+        },
+        {
+          "date": "2025-10-04",
+          "time": "15:00",
+          "home_team": "Portsmouth FC",
+          "away_team": "Middlesbrough FC"
+        },
+        {
+          "date": "2025-10-04",
+          "time": "15:00",
+          "home_team": "Preston North End",
+          "away_team": "Charlton Athletic"
+        },
+        {
+          "date": "2025-10-04",
+          "time": "15:00",
+          "home_team": "Sheffield Wednesday",
+          "away_team": "Coventry City"
+        },
+        {
+          "date": "2025-10-04",
+          "time": "15:00",
+          "home_team": "Swansea City",
+          "away_team": "Leicester City"
+        },
+        {
+          "date": "2025-10-04",
+          "time": "15:00",
+          "home_team": "Watford FC",
+          "away_team": "Oxford United"
+        },
+        {
+          "date": "2025-10-04",
+          "time": "15:00",
+          "home_team": "Wrexham AFC",
+          "away_team": "Birmingham City"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 10",
+      "matches": [
+        {
+          "date": "2025-10-18",
+          "time": "15:00",
+          "home_team": "Birmingham City",
+          "away_team": "Hull City"
+        },
+        {
+          "date": "2025-10-18",
+          "time": "15:00",
+          "home_team": "Charlton Athletic",
+          "away_team": "Sheffield Wednesday"
+        },
+        {
+          "date": "2025-10-18",
+          "time": "15:00",
+          "home_team": "Coventry City",
+          "away_team": "Blackburn Rovers"
+        },
+        {
+          "date": "2025-10-18",
+          "time": "15:00",
+          "home_team": "Leicester City",
+          "away_team": "Portsmouth FC"
+        },
+        {
+          "date": "2025-10-18",
+          "time": "15:00",
+          "home_team": "Middlesbrough FC",
+          "away_team": "Ipswich Town"
+        },
+        {
+          "date": "2025-10-18",
+          "time": "15:00",
+          "home_team": "Norwich City",
+          "away_team": "Bristol City"
+        },
+        {
+          "date": "2025-10-18",
+          "time": "15:00",
+          "home_team": "Oxford United",
+          "away_team": "Derby County"
+        },
+        {
+          "date": "2025-10-18",
+          "time": "15:00",
+          "home_team": "Queens Park Rangers",
+          "away_team": "Millwall FC"
+        },
+        {
+          "date": "2025-10-18",
+          "time": "15:00",
+          "home_team": "Sheffield United",
+          "away_team": "Watford FC"
+        },
+        {
+          "date": "2025-10-18",
+          "time": "15:00",
+          "home_team": "Southampton FC",
+          "away_team": "Swansea City"
+        },
+        {
+          "date": "2025-10-18",
+          "time": "15:00",
+          "home_team": "Stoke City",
+          "away_team": "Wrexham AFC"
+        },
+        {
+          "date": "2025-10-18",
+          "time": "15:00",
+          "home_team": "West Bromwich Albion",
+          "away_team": "Preston North End"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 11",
+      "matches": [
+        {
+          "date": "2025-10-21",
+          "time": "19:45",
+          "home_team": "Blackburn Rovers",
+          "away_team": "Sheffield United"
+        },
+        {
+          "date": "2025-10-21",
+          "time": "19:45",
+          "home_team": "Bristol City",
+          "away_team": "Southampton FC"
+        },
+        {
+          "date": "2025-10-21",
+          "time": "19:45",
+          "home_team": "Derby County",
+          "away_team": "Norwich City"
+        },
+        {
+          "date": "2025-10-21",
+          "time": "19:45",
+          "home_team": "Hull City",
+          "away_team": "Leicester City"
+        },
+        {
+          "date": "2025-10-21",
+          "time": "19:45",
+          "home_team": "Ipswich Town",
+          "away_team": "Charlton Athletic"
+        },
+        {
+          "date": "2025-10-21",
+          "time": "19:45",
+          "home_team": "Millwall FC",
+          "away_team": "Stoke City"
+        },
+        {
+          "date": "2025-10-21",
+          "time": "19:45",
+          "home_team": "Portsmouth FC",
+          "away_team": "Coventry City"
+        },
+        {
+          "date": "2025-10-21",
+          "time": "19:45",
+          "home_team": "Preston North End",
+          "away_team": "Birmingham City"
+        },
+        {
+          "date": "2025-10-22",
+          "time": "19:45",
+          "home_team": "Sheffield Wednesday",
+          "away_team": "Middlesbrough FC"
+        },
+        {
+          "date": "2025-10-22",
+          "time": "19:45",
+          "home_team": "Swansea City",
+          "away_team": "Queens Park Rangers"
+        },
+        {
+          "date": "2025-10-22",
+          "time": "19:45",
+          "home_team": "Watford FC",
+          "away_team": "West Bromwich Albion"
+        },
+        {
+          "date": "2025-10-22",
+          "time": "19:45",
+          "home_team": "Wrexham AFC",
+          "away_team": "Oxford United"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 12",
+      "matches": [
+        {
+          "date": "2025-10-25",
+          "time": "15:00",
+          "home_team": "Blackburn Rovers",
+          "away_team": "Southampton FC"
+        },
+        {
+          "date": "2025-10-25",
+          "time": "15:00",
+          "home_team": "Bristol City",
+          "away_team": "Birmingham City"
+        },
+        {
+          "date": "2025-10-25",
+          "time": "15:00",
+          "home_team": "Coventry City",
+          "away_team": "Watford FC"
+        },
+        {
+          "date": "2025-10-25",
+          "time": "15:00",
+          "home_team": "Derby County",
+          "away_team": "Queens Park Rangers"
+        },
+        {
+          "date": "2025-10-25",
+          "time": "15:00",
+          "home_team": "Hull City",
+          "away_team": "Charlton Athletic"
+        },
+        {
+          "date": "2025-10-25",
+          "time": "15:00",
+          "home_team": "Ipswich Town",
+          "away_team": "West Bromwich Albion"
+        },
+        {
+          "date": "2025-10-25",
+          "time": "15:00",
+          "home_team": "Middlesbrough FC",
+          "away_team": "Wrexham AFC"
+        },
+        {
+          "date": "2025-10-25",
+          "time": "15:00",
+          "home_team": "Millwall FC",
+          "away_team": "Leicester City"
+        },
+        {
+          "date": "2025-10-25",
+          "time": "15:00",
+          "home_team": "Portsmouth FC",
+          "away_team": "Stoke City"
+        },
+        {
+          "date": "2025-10-25",
+          "time": "15:00",
+          "home_team": "Preston North End",
+          "away_team": "Sheffield United"
+        },
+        {
+          "date": "2025-10-25",
+          "time": "15:00",
+          "home_team": "Sheffield Wednesday",
+          "away_team": "Oxford United"
+        },
+        {
+          "date": "2025-10-25",
+          "time": "15:00",
+          "home_team": "Swansea City",
+          "away_team": "Norwich City"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 13",
+      "matches": [
+        {
+          "date": "2025-11-01",
+          "time": "15:00",
+          "home_team": "Birmingham City",
+          "away_team": "Portsmouth FC"
+        },
+        {
+          "date": "2025-11-01",
+          "time": "15:00",
+          "home_team": "Charlton Athletic",
+          "away_team": "Swansea City"
+        },
+        {
+          "date": "2025-11-01",
+          "time": "15:00",
+          "home_team": "Leicester City",
+          "away_team": "Blackburn Rovers"
+        },
+        {
+          "date": "2025-11-01",
+          "time": "15:00",
+          "home_team": "Norwich City",
+          "away_team": "Hull City"
+        },
+        {
+          "date": "2025-11-01",
+          "time": "15:00",
+          "home_team": "Oxford United",
+          "away_team": "Millwall FC"
+        },
+        {
+          "date": "2025-11-01",
+          "time": "15:00",
+          "home_team": "Queens Park Rangers",
+          "away_team": "Ipswich Town"
+        },
+        {
+          "date": "2025-11-01",
+          "time": "15:00",
+          "home_team": "Sheffield United",
+          "away_team": "Derby County"
+        },
+        {
+          "date": "2025-11-01",
+          "time": "15:00",
+          "home_team": "Southampton FC",
+          "away_team": "Preston North End"
+        },
+        {
+          "date": "2025-11-01",
+          "time": "15:00",
+          "home_team": "Stoke City",
+          "away_team": "Bristol City"
+        },
+        {
+          "date": "2025-11-01",
+          "time": "15:00",
+          "home_team": "Watford FC",
+          "away_team": "Middlesbrough FC"
+        },
+        {
+          "date": "2025-11-01",
+          "time": "15:00",
+          "home_team": "West Bromwich Albion",
+          "away_team": "Sheffield Wednesday"
+        },
+        {
+          "date": "2025-11-01",
+          "time": "15:00",
+          "home_team": "Wrexham AFC",
+          "away_team": "Coventry City"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 14",
+      "matches": [
+        {
+          "date": "2025-11-04",
+          "time": "19:45",
+          "home_team": "Birmingham City",
+          "away_team": "Millwall FC"
+        },
+        {
+          "date": "2025-11-04",
+          "time": "19:45",
+          "home_team": "Bristol City",
+          "away_team": "Blackburn Rovers"
+        },
+        {
+          "date": "2025-11-04",
+          "time": "19:45",
+          "home_team": "Charlton Athletic",
+          "away_team": "West Bromwich Albion"
+        },
+        {
+          "date": "2025-11-04",
+          "time": "19:45",
+          "home_team": "Coventry City",
+          "away_team": "Sheffield United"
+        },
+        {
+          "date": "2025-11-04",
+          "time": "19:45",
+          "home_team": "Derby County",
+          "away_team": "Hull City"
+        },
+        {
+          "date": "2025-11-04",
+          "time": "19:45",
+          "home_team": "Ipswich Town",
+          "away_team": "Watford FC"
+        },
+        {
+          "date": "2025-11-04",
+          "time": "19:45",
+          "home_team": "Leicester City",
+          "away_team": "Middlesbrough FC"
+        },
+        {
+          "date": "2025-11-04",
+          "time": "19:45",
+          "home_team": "Oxford United",
+          "away_team": "Stoke City"
+        },
+        {
+          "date": "2025-11-05",
+          "time": "19:45",
+          "home_team": "Portsmouth FC",
+          "away_team": "Wrexham AFC"
+        },
+        {
+          "date": "2025-11-05",
+          "time": "19:45",
+          "home_team": "Preston North End",
+          "away_team": "Swansea City"
+        },
+        {
+          "date": "2025-11-05",
+          "time": "19:45",
+          "home_team": "Queens Park Rangers",
+          "away_team": "Southampton FC"
+        },
+        {
+          "date": "2025-11-05",
+          "time": "19:45",
+          "home_team": "Sheffield Wednesday",
+          "away_team": "Norwich City"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 15",
+      "matches": [
+        {
+          "date": "2025-11-08",
+          "time": "15:00",
+          "home_team": "Blackburn Rovers",
+          "away_team": "Derby County"
+        },
+        {
+          "date": "2025-11-08",
+          "time": "15:00",
+          "home_team": "Hull City",
+          "away_team": "Portsmouth FC"
+        },
+        {
+          "date": "2025-11-08",
+          "time": "15:00",
+          "home_team": "Middlesbrough FC",
+          "away_team": "Birmingham City"
+        },
+        {
+          "date": "2025-11-08",
+          "time": "15:00",
+          "home_team": "Millwall FC",
+          "away_team": "Preston North End"
+        },
+        {
+          "date": "2025-11-08",
+          "time": "15:00",
+          "home_team": "Norwich City",
+          "away_team": "Leicester City"
+        },
+        {
+          "date": "2025-11-08",
+          "time": "15:00",
+          "home_team": "Sheffield United",
+          "away_team": "Queens Park Rangers"
+        },
+        {
+          "date": "2025-11-08",
+          "time": "15:00",
+          "home_team": "Southampton FC",
+          "away_team": "Sheffield Wednesday"
+        },
+        {
+          "date": "2025-11-08",
+          "time": "15:00",
+          "home_team": "Stoke City",
+          "away_team": "Coventry City"
+        },
+        {
+          "date": "2025-11-08",
+          "time": "15:00",
+          "home_team": "Swansea City",
+          "away_team": "Ipswich Town"
+        },
+        {
+          "date": "2025-11-08",
+          "time": "15:00",
+          "home_team": "Watford FC",
+          "away_team": "Bristol City"
+        },
+        {
+          "date": "2025-11-08",
+          "time": "15:00",
+          "home_team": "West Bromwich Albion",
+          "away_team": "Oxford United"
+        },
+        {
+          "date": "2025-11-08",
+          "time": "15:00",
+          "home_team": "Wrexham AFC",
+          "away_team": "Charlton Athletic"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 16",
+      "matches": [
+        {
+          "date": "2025-11-22",
+          "time": "15:00",
+          "home_team": "Birmingham City",
+          "away_team": "Norwich City"
+        },
+        {
+          "date": "2025-11-22",
+          "time": "15:00",
+          "home_team": "Bristol City",
+          "away_team": "Swansea City"
+        },
+        {
+          "date": "2025-11-22",
+          "time": "15:00",
+          "home_team": "Charlton Athletic",
+          "away_team": "Southampton FC"
+        },
+        {
+          "date": "2025-11-22",
+          "time": "15:00",
+          "home_team": "Coventry City",
+          "away_team": "West Bromwich Albion"
+        },
+        {
+          "date": "2025-11-22",
+          "time": "15:00",
+          "home_team": "Derby County",
+          "away_team": "Watford FC"
+        },
+        {
+          "date": "2025-11-22",
+          "time": "15:00",
+          "home_team": "Ipswich Town",
+          "away_team": "Wrexham AFC"
+        },
+        {
+          "date": "2025-11-22",
+          "time": "15:00",
+          "home_team": "Leicester City",
+          "away_team": "Stoke City"
+        },
+        {
+          "date": "2025-11-22",
+          "time": "15:00",
+          "home_team": "Oxford United",
+          "away_team": "Middlesbrough FC"
+        },
+        {
+          "date": "2025-11-22",
+          "time": "15:00",
+          "home_team": "Portsmouth FC",
+          "away_team": "Millwall FC"
+        },
+        {
+          "date": "2025-11-22",
+          "time": "15:00",
+          "home_team": "Preston North End",
+          "away_team": "Blackburn Rovers"
+        },
+        {
+          "date": "2025-11-22",
+          "time": "15:00",
+          "home_team": "Queens Park Rangers",
+          "away_team": "Hull City"
+        },
+        {
+          "date": "2025-11-22",
+          "time": "15:00",
+          "home_team": "Sheffield Wednesday",
+          "away_team": "Sheffield United"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 17",
+      "matches": [
+        {
+          "date": "2025-11-25",
+          "time": "19:45",
+          "home_team": "Hull City",
+          "away_team": "Ipswich Town"
+        },
+        {
+          "date": "2025-11-25",
+          "time": "19:45",
+          "home_team": "Middlesbrough FC",
+          "away_team": "Coventry City"
+        },
+        {
+          "date": "2025-11-25",
+          "time": "19:45",
+          "home_team": "Millwall FC",
+          "away_team": "Sheffield Wednesday"
+        },
+        {
+          "date": "2025-11-25",
+          "time": "19:45",
+          "home_team": "Sheffield United",
+          "away_team": "Portsmouth FC"
+        },
+        {
+          "date": "2025-11-25",
+          "time": "19:45",
+          "home_team": "Southampton FC",
+          "away_team": "Leicester City"
+        },
+        {
+          "date": "2025-11-25",
+          "time": "19:45",
+          "home_team": "Stoke City",
+          "away_team": "Charlton Athletic"
+        },
+        {
+          "date": "2025-11-25",
+          "time": "19:45",
+          "home_team": "Swansea City",
+          "away_team": "Derby County"
+        },
+        {
+          "date": "2025-11-25",
+          "time": "19:45",
+          "home_team": "Watford FC",
+          "away_team": "Preston North End"
+        },
+        {
+          "date": "2025-11-26",
+          "time": "19:45",
+          "home_team": "Blackburn Rovers",
+          "away_team": "Queens Park Rangers"
+        },
+        {
+          "date": "2025-11-26",
+          "time": "19:45",
+          "home_team": "Norwich City",
+          "away_team": "Oxford United"
+        },
+        {
+          "date": "2025-11-26",
+          "time": "19:45",
+          "home_team": "West Bromwich Albion",
+          "away_team": "Birmingham City"
+        },
+        {
+          "date": "2025-11-26",
+          "time": "19:45",
+          "home_team": "Wrexham AFC",
+          "away_team": "Bristol City"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 18",
+      "matches": [
+        {
+          "date": "2025-11-29",
+          "time": "15:00",
+          "home_team": "Birmingham City",
+          "away_team": "Watford FC"
+        },
+        {
+          "date": "2025-11-29",
+          "time": "15:00",
+          "home_team": "Coventry City",
+          "away_team": "Charlton Athletic"
+        },
+        {
+          "date": "2025-11-29",
+          "time": "15:00",
+          "home_team": "Leicester City",
+          "away_team": "Sheffield United"
+        },
+        {
+          "date": "2025-11-29",
+          "time": "15:00",
+          "home_team": "Middlesbrough FC",
+          "away_team": "Derby County"
+        },
+        {
+          "date": "2025-11-29",
+          "time": "15:00",
+          "home_team": "Millwall FC",
+          "away_team": "Southampton FC"
+        },
+        {
+          "date": "2025-11-29",
+          "time": "15:00",
+          "home_team": "Norwich City",
+          "away_team": "Queens Park Rangers"
+        },
+        {
+          "date": "2025-11-29",
+          "time": "15:00",
+          "home_team": "Oxford United",
+          "away_team": "Ipswich Town"
+        },
+        {
+          "date": "2025-11-29",
+          "time": "15:00",
+          "home_team": "Portsmouth FC",
+          "away_team": "Bristol City"
+        },
+        {
+          "date": "2025-11-29",
+          "time": "15:00",
+          "home_team": "Sheffield Wednesday",
+          "away_team": "Preston North End"
+        },
+        {
+          "date": "2025-11-29",
+          "time": "15:00",
+          "home_team": "Stoke City",
+          "away_team": "Hull City"
+        },
+        {
+          "date": "2025-11-29",
+          "time": "15:00",
+          "home_team": "West Bromwich Albion",
+          "away_team": "Swansea City"
+        },
+        {
+          "date": "2025-11-29",
+          "time": "15:00",
+          "home_team": "Wrexham AFC",
+          "away_team": "Blackburn Rovers"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 19",
+      "matches": [
+        {
+          "date": "2025-12-06",
+          "time": "15:00",
+          "home_team": "Blackburn Rovers",
+          "away_team": "Sheffield Wednesday"
+        },
+        {
+          "date": "2025-12-06",
+          "time": "15:00",
+          "home_team": "Bristol City",
+          "away_team": "Millwall FC"
+        },
+        {
+          "date": "2025-12-06",
+          "time": "15:00",
+          "home_team": "Charlton Athletic",
+          "away_team": "Portsmouth FC"
+        },
+        {
+          "date": "2025-12-06",
+          "time": "15:00",
+          "home_team": "Derby County",
+          "away_team": "Leicester City"
+        },
+        {
+          "date": "2025-12-06",
+          "time": "15:00",
+          "home_team": "Hull City",
+          "away_team": "Middlesbrough FC"
+        },
+        {
+          "date": "2025-12-06",
+          "time": "15:00",
+          "home_team": "Ipswich Town",
+          "away_team": "Coventry City"
+        },
+        {
+          "date": "2025-12-06",
+          "time": "15:00",
+          "home_team": "Preston North End",
+          "away_team": "Wrexham AFC"
+        },
+        {
+          "date": "2025-12-06",
+          "time": "15:00",
+          "home_team": "Queens Park Rangers",
+          "away_team": "West Bromwich Albion"
+        },
+        {
+          "date": "2025-12-06",
+          "time": "15:00",
+          "home_team": "Sheffield United",
+          "away_team": "Stoke City"
+        },
+        {
+          "date": "2025-12-06",
+          "time": "15:00",
+          "home_team": "Southampton FC",
+          "away_team": "Birmingham City"
+        },
+        {
+          "date": "2025-12-06",
+          "time": "15:00",
+          "home_team": "Swansea City",
+          "away_team": "Oxford United"
+        },
+        {
+          "date": "2025-12-06",
+          "time": "15:00",
+          "home_team": "Watford FC",
+          "away_team": "Norwich City"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 20",
+      "matches": [
+        {
+          "date": "2025-12-09",
+          "time": "19:45",
+          "home_team": "Blackburn Rovers",
+          "away_team": "Oxford United"
+        },
+        {
+          "date": "2025-12-09",
+          "time": "19:45",
+          "home_team": "Charlton Athletic",
+          "away_team": "Middlesbrough FC"
+        },
+        {
+          "date": "2025-12-09",
+          "time": "19:45",
+          "home_team": "Preston North End",
+          "away_team": "Coventry City"
+        },
+        {
+          "date": "2025-12-09",
+          "time": "19:45",
+          "home_team": "Queens Park Rangers",
+          "away_team": "Birmingham City"
+        },
+        {
+          "date": "2025-12-09",
+          "time": "19:45",
+          "home_team": "Sheffield United",
+          "away_team": "Norwich City"
+        },
+        {
+          "date": "2025-12-09",
+          "time": "19:45",
+          "home_team": "Southampton FC",
+          "away_team": "West Bromwich Albion"
+        },
+        {
+          "date": "2025-12-09",
+          "time": "19:45",
+          "home_team": "Swansea City",
+          "away_team": "Portsmouth FC"
+        },
+        {
+          "date": "2025-12-09",
+          "time": "19:45",
+          "home_team": "Watford FC",
+          "away_team": "Sheffield Wednesday"
+        },
+        {
+          "date": "2025-12-10",
+          "time": "19:45",
+          "home_team": "Bristol City",
+          "away_team": "Leicester City"
+        },
+        {
+          "date": "2025-12-10",
+          "time": "19:45",
+          "home_team": "Derby County",
+          "away_team": "Millwall FC"
+        },
+        {
+          "date": "2025-12-10",
+          "time": "19:45",
+          "home_team": "Hull City",
+          "away_team": "Wrexham AFC"
+        },
+        {
+          "date": "2025-12-10",
+          "time": "19:45",
+          "home_team": "Ipswich Town",
+          "away_team": "Stoke City"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 21",
+      "matches": [
+        {
+          "date": "2025-12-13",
+          "time": "15:00",
+          "home_team": "Birmingham City",
+          "away_team": "Charlton Athletic"
+        },
+        {
+          "date": "2025-12-13",
+          "time": "15:00",
+          "home_team": "Coventry City",
+          "away_team": "Bristol City"
+        },
+        {
+          "date": "2025-12-13",
+          "time": "15:00",
+          "home_team": "Leicester City",
+          "away_team": "Ipswich Town"
+        },
+        {
+          "date": "2025-12-13",
+          "time": "15:00",
+          "home_team": "Middlesbrough FC",
+          "away_team": "Queens Park Rangers"
+        },
+        {
+          "date": "2025-12-13",
+          "time": "15:00",
+          "home_team": "Millwall FC",
+          "away_team": "Hull City"
+        },
+        {
+          "date": "2025-12-13",
+          "time": "15:00",
+          "home_team": "Norwich City",
+          "away_team": "Southampton FC"
+        },
+        {
+          "date": "2025-12-13",
+          "time": "15:00",
+          "home_team": "Oxford United",
+          "away_team": "Preston North End"
+        },
+        {
+          "date": "2025-12-13",
+          "time": "15:00",
+          "home_team": "Portsmouth FC",
+          "away_team": "Blackburn Rovers"
+        },
+        {
+          "date": "2025-12-13",
+          "time": "15:00",
+          "home_team": "Sheffield Wednesday",
+          "away_team": "Derby County"
+        },
+        {
+          "date": "2025-12-13",
+          "time": "15:00",
+          "home_team": "Stoke City",
+          "away_team": "Swansea City"
+        },
+        {
+          "date": "2025-12-13",
+          "time": "15:00",
+          "home_team": "West Bromwich Albion",
+          "away_team": "Sheffield United"
+        },
+        {
+          "date": "2025-12-13",
+          "time": "15:00",
+          "home_team": "Wrexham AFC",
+          "away_team": "Watford FC"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 22",
+      "matches": [
+        {
+          "date": "2025-12-20",
+          "time": "15:00",
+          "home_team": "Blackburn Rovers",
+          "away_team": "Millwall FC"
+        },
+        {
+          "date": "2025-12-20",
+          "time": "15:00",
+          "home_team": "Bristol City",
+          "away_team": "Middlesbrough FC"
+        },
+        {
+          "date": "2025-12-20",
+          "time": "15:00",
+          "home_team": "Charlton Athletic",
+          "away_team": "Oxford United"
+        },
+        {
+          "date": "2025-12-20",
+          "time": "15:00",
+          "home_team": "Derby County",
+          "away_team": "Portsmouth FC"
+        },
+        {
+          "date": "2025-12-20",
+          "time": "15:00",
+          "home_team": "Hull City",
+          "away_team": "West Bromwich Albion"
+        },
+        {
+          "date": "2025-12-20",
+          "time": "15:00",
+          "home_team": "Ipswich Town",
+          "away_team": "Sheffield Wednesday"
+        },
+        {
+          "date": "2025-12-20",
+          "time": "15:00",
+          "home_team": "Preston North End",
+          "away_team": "Norwich City"
+        },
+        {
+          "date": "2025-12-20",
+          "time": "15:00",
+          "home_team": "Queens Park Rangers",
+          "away_team": "Leicester City"
+        },
+        {
+          "date": "2025-12-20",
+          "time": "15:00",
+          "home_team": "Sheffield United",
+          "away_team": "Birmingham City"
+        },
+        {
+          "date": "2025-12-20",
+          "time": "15:00",
+          "home_team": "Southampton FC",
+          "away_team": "Coventry City"
+        },
+        {
+          "date": "2025-12-20",
+          "time": "15:00",
+          "home_team": "Swansea City",
+          "away_team": "Wrexham AFC"
+        },
+        {
+          "date": "2025-12-20",
+          "time": "15:00",
+          "home_team": "Watford FC",
+          "away_team": "Stoke City"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 23",
+      "matches": [
+        {
+          "date": "2025-12-26",
+          "time": "15:00",
+          "home_team": "Birmingham City",
+          "away_team": "Derby County"
+        },
+        {
+          "date": "2025-12-26",
+          "time": "15:00",
+          "home_team": "Coventry City",
+          "away_team": "Swansea City"
+        },
+        {
+          "date": "2025-12-26",
+          "time": "15:00",
+          "home_team": "Leicester City",
+          "away_team": "Watford FC"
+        },
+        {
+          "date": "2025-12-26",
+          "time": "15:00",
+          "home_team": "Middlesbrough FC",
+          "away_team": "Blackburn Rovers"
+        },
+        {
+          "date": "2025-12-26",
+          "time": "15:00",
+          "home_team": "Millwall FC",
+          "away_team": "Ipswich Town"
+        },
+        {
+          "date": "2025-12-26",
+          "time": "15:00",
+          "home_team": "Norwich City",
+          "away_team": "Charlton Athletic"
+        },
+        {
+          "date": "2025-12-26",
+          "time": "15:00",
+          "home_team": "Oxford United",
+          "away_team": "Southampton FC"
+        },
+        {
+          "date": "2025-12-26",
+          "time": "15:00",
+          "home_team": "Portsmouth FC",
+          "away_team": "Queens Park Rangers"
+        },
+        {
+          "date": "2025-12-26",
+          "time": "15:00",
+          "home_team": "Sheffield Wednesday",
+          "away_team": "Hull City"
+        },
+        {
+          "date": "2025-12-26",
+          "time": "15:00",
+          "home_team": "Stoke City",
+          "away_team": "Preston North End"
+        },
+        {
+          "date": "2025-12-26",
+          "time": "15:00",
+          "home_team": "West Bromwich Albion",
+          "away_team": "Bristol City"
+        },
+        {
+          "date": "2025-12-26",
+          "time": "15:00",
+          "home_team": "Wrexham AFC",
+          "away_team": "Sheffield United"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 24",
+      "matches": [
+        {
+          "date": "2026-12-29",
+          "time": "19:45",
+          "home_team": "Birmingham City",
+          "away_team": "Southampton FC"
+        },
+        {
+          "date": "2026-12-29",
+          "time": "19:45",
+          "home_team": "Coventry City",
+          "away_team": "Ipswich Town"
+        },
+        {
+          "date": "2026-12-29",
+          "time": "19:45",
+          "home_team": "Leicester City",
+          "away_team": "Derby County"
+        },
+        {
+          "date": "2026-12-29",
+          "time": "19:45",
+          "home_team": "Middlesbrough FC",
+          "away_team": "Hull City"
+        },
+        {
+          "date": "2026-12-29",
+          "time": "19:45",
+          "home_team": "Millwall FC",
+          "away_team": "Bristol City"
+        },
+        {
+          "date": "2026-12-29",
+          "time": "19:45",
+          "home_team": "Norwich City",
+          "away_team": "Watford FC"
+        },
+        {
+          "date": "2026-12-29",
+          "time": "19:45",
+          "home_team": "Oxford United",
+          "away_team": "Swansea City"
+        },
+        {
+          "date": "2026-12-29",
+          "time": "19:45",
+          "home_team": "Portsmouth FC",
+          "away_team": "Charlton Athletic"
+        },
+        {
+          "date": "2026-12-29",
+          "time": "19:45",
+          "home_team": "Sheffield Wednesday",
+          "away_team": "Blackburn Rovers"
+        },
+        {
+          "date": "2026-12-29",
+          "time": "19:45",
+          "home_team": "Stoke City",
+          "away_team": "Sheffield United"
+        },
+        {
+          "date": "2026-12-29",
+          "time": "19:45",
+          "home_team": "West Bromwich Albion",
+          "away_team": "Queens Park Rangers"
+        },
+        {
+          "date": "2026-12-29",
+          "time": "19:45",
+          "home_team": "Wrexham AFC",
+          "away_team": "Preston North End"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 25",
+      "matches": [
+        {
+          "date": "2026-01-01",
+          "time": "15:00",
+          "home_team": "Blackburn Rovers",
+          "away_team": "Wrexham AFC"
+        },
+        {
+          "date": "2026-01-01",
+          "time": "15:00",
+          "home_team": "Bristol City",
+          "away_team": "Portsmouth FC"
+        },
+        {
+          "date": "2026-01-01",
+          "time": "15:00",
+          "home_team": "Charlton Athletic",
+          "away_team": "Coventry City"
+        },
+        {
+          "date": "2026-01-01",
+          "time": "15:00",
+          "home_team": "Derby County",
+          "away_team": "Middlesbrough FC"
+        },
+        {
+          "date": "2026-01-01",
+          "time": "15:00",
+          "home_team": "Hull City",
+          "away_team": "Stoke City"
+        },
+        {
+          "date": "2026-01-01",
+          "time": "15:00",
+          "home_team": "Ipswich Town",
+          "away_team": "Oxford United"
+        },
+        {
+          "date": "2026-01-01",
+          "time": "15:00",
+          "home_team": "Preston North End",
+          "away_team": "Sheffield Wednesday"
+        },
+        {
+          "date": "2026-01-01",
+          "time": "15:00",
+          "home_team": "Queens Park Rangers",
+          "away_team": "Norwich City"
+        },
+        {
+          "date": "2026-01-01",
+          "time": "15:00",
+          "home_team": "Sheffield United",
+          "away_team": "Leicester City"
+        },
+        {
+          "date": "2026-01-01",
+          "time": "15:00",
+          "home_team": "Southampton FC",
+          "away_team": "Millwall FC"
+        },
+        {
+          "date": "2026-01-01",
+          "time": "15:00",
+          "home_team": "Swansea City",
+          "away_team": "West Bromwich Albion"
+        },
+        {
+          "date": "2026-01-01",
+          "time": "15:00",
+          "home_team": "Watford FC",
+          "away_team": "Birmingham City"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 26",
+      "matches": [
+        {
+          "date": "2026-01-04",
+          "time": "15:00",
+          "home_team": "Birmingham City",
+          "away_team": "Coventry City"
+        },
+        {
+          "date": "2026-01-04",
+          "time": "15:00",
+          "home_team": "Blackburn Rovers",
+          "away_team": "Charlton Athletic"
+        },
+        {
+          "date": "2026-01-04",
+          "time": "15:00",
+          "home_team": "Bristol City",
+          "away_team": "Preston North End"
+        },
+        {
+          "date": "2026-01-04",
+          "time": "15:00",
+          "home_team": "Derby County",
+          "away_team": "Wrexham AFC"
+        },
+        {
+          "date": "2026-01-04",
+          "time": "15:00",
+          "home_team": "Hull City",
+          "away_team": "Watford FC"
+        },
+        {
+          "date": "2026-01-04",
+          "time": "15:00",
+          "home_team": "Leicester City",
+          "away_team": "West Bromwich Albion"
+        },
+        {
+          "date": "2026-01-04",
+          "time": "15:00",
+          "home_team": "Middlesbrough FC",
+          "away_team": "Southampton FC"
+        },
+        {
+          "date": "2026-01-04",
+          "time": "15:00",
+          "home_team": "Millwall FC",
+          "away_team": "Swansea City"
+        },
+        {
+          "date": "2026-01-04",
+          "time": "15:00",
+          "home_team": "Norwich City",
+          "away_team": "Stoke City"
+        },
+        {
+          "date": "2026-01-04",
+          "time": "15:00",
+          "home_team": "Portsmouth FC",
+          "away_team": "Ipswich Town"
+        },
+        {
+          "date": "2026-01-04",
+          "time": "15:00",
+          "home_team": "Queens Park Rangers",
+          "away_team": "Sheffield Wednesday"
+        },
+        {
+          "date": "2026-01-04",
+          "time": "15:00",
+          "home_team": "Sheffield United",
+          "away_team": "Oxford United"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 27",
+      "matches": [
+        {
+          "date": "2026-01-17",
+          "time": "15:00",
+          "home_team": "Charlton Athletic",
+          "away_team": "Sheffield United"
+        },
+        {
+          "date": "2026-01-17",
+          "time": "15:00",
+          "home_team": "Coventry City",
+          "away_team": "Leicester City"
+        },
+        {
+          "date": "2026-01-17",
+          "time": "15:00",
+          "home_team": "Ipswich Town",
+          "away_team": "Blackburn Rovers"
+        },
+        {
+          "date": "2026-01-17",
+          "time": "15:00",
+          "home_team": "Oxford United",
+          "away_team": "Bristol City"
+        },
+        {
+          "date": "2026-01-17",
+          "time": "15:00",
+          "home_team": "Preston North End",
+          "away_team": "Derby County"
+        },
+        {
+          "date": "2026-01-17",
+          "time": "15:00",
+          "home_team": "Sheffield Wednesday",
+          "away_team": "Portsmouth FC"
+        },
+        {
+          "date": "2026-01-17",
+          "time": "15:00",
+          "home_team": "Southampton FC",
+          "away_team": "Hull City"
+        },
+        {
+          "date": "2026-01-17",
+          "time": "15:00",
+          "home_team": "Stoke City",
+          "away_team": "Queens Park Rangers"
+        },
+        {
+          "date": "2026-01-17",
+          "time": "15:00",
+          "home_team": "Swansea City",
+          "away_team": "Birmingham City"
+        },
+        {
+          "date": "2026-01-17",
+          "time": "15:00",
+          "home_team": "Watford FC",
+          "away_team": "Millwall FC"
+        },
+        {
+          "date": "2026-01-17",
+          "time": "15:00",
+          "home_team": "West Bromwich Albion",
+          "away_team": "Middlesbrough FC"
+        },
+        {
+          "date": "2026-01-17",
+          "time": "15:00",
+          "home_team": "Wrexham AFC",
+          "away_team": "Norwich City"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 28",
+      "matches": [
+        {
+          "date": "2026-01-20",
+          "time": "19:45",
+          "home_team": "Coventry City",
+          "away_team": "Millwall FC"
+        },
+        {
+          "date": "2026-01-20",
+          "time": "19:45",
+          "home_team": "Ipswich Town",
+          "away_team": "Bristol City"
+        },
+        {
+          "date": "2026-01-20",
+          "time": "19:45",
+          "home_team": "Oxford United",
+          "away_team": "Queens Park Rangers"
+        },
+        {
+          "date": "2026-01-20",
+          "time": "19:45",
+          "home_team": "Preston North End",
+          "away_team": "Hull City"
+        },
+        {
+          "date": "2026-01-20",
+          "time": "19:45",
+          "home_team": "Sheffield Wednesday",
+          "away_team": "Birmingham City"
+        },
+        {
+          "date": "2026-01-20",
+          "time": "19:45",
+          "home_team": "Swansea City",
+          "away_team": "Blackburn Rovers"
+        },
+        {
+          "date": "2026-01-20",
+          "time": "19:45",
+          "home_team": "West Bromwich Albion",
+          "away_team": "Norwich City"
+        },
+        {
+          "date": "2026-01-20",
+          "time": "19:45",
+          "home_team": "Wrexham AFC",
+          "away_team": "Leicester City"
+        },
+        {
+          "date": "2026-01-21",
+          "time": "19:45",
+          "home_team": "Charlton Athletic",
+          "away_team": "Derby County"
+        },
+        {
+          "date": "2026-01-21",
+          "time": "19:45",
+          "home_team": "Southampton FC",
+          "away_team": "Sheffield United"
+        },
+        {
+          "date": "2026-01-21",
+          "time": "19:45",
+          "home_team": "Stoke City",
+          "away_team": "Middlesbrough FC"
+        },
+        {
+          "date": "2026-01-21",
+          "time": "19:45",
+          "home_team": "Watford FC",
+          "away_team": "Portsmouth FC"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 29",
+      "matches": [
+        {
+          "date": "2026-01-24",
+          "time": "15:00",
+          "home_team": "Birmingham City",
+          "away_team": "Stoke City"
+        },
+        {
+          "date": "2026-01-24",
+          "time": "15:00",
+          "home_team": "Blackburn Rovers",
+          "away_team": "Watford FC"
+        },
+        {
+          "date": "2026-01-24",
+          "time": "15:00",
+          "home_team": "Bristol City",
+          "away_team": "Sheffield Wednesday"
+        },
+        {
+          "date": "2026-01-24",
+          "time": "15:00",
+          "home_team": "Derby County",
+          "away_team": "West Bromwich Albion"
+        },
+        {
+          "date": "2026-01-24",
+          "time": "15:00",
+          "home_team": "Hull City",
+          "away_team": "Swansea City"
+        },
+        {
+          "date": "2026-01-24",
+          "time": "15:00",
+          "home_team": "Leicester City",
+          "away_team": "Oxford United"
+        },
+        {
+          "date": "2026-01-24",
+          "time": "15:00",
+          "home_team": "Middlesbrough FC",
+          "away_team": "Preston North End"
+        },
+        {
+          "date": "2026-01-24",
+          "time": "15:00",
+          "home_team": "Millwall FC",
+          "away_team": "Charlton Athletic"
+        },
+        {
+          "date": "2026-01-24",
+          "time": "15:00",
+          "home_team": "Norwich City",
+          "away_team": "Coventry City"
+        },
+        {
+          "date": "2026-01-24",
+          "time": "15:00",
+          "home_team": "Portsmouth FC",
+          "away_team": "Southampton FC"
+        },
+        {
+          "date": "2026-01-24",
+          "time": "15:00",
+          "home_team": "Queens Park Rangers",
+          "away_team": "Wrexham AFC"
+        },
+        {
+          "date": "2026-01-24",
+          "time": "15:00",
+          "home_team": "Sheffield United",
+          "away_team": "Ipswich Town"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 30",
+      "matches": [
+        {
+          "date": "2026-01-31",
+          "time": "15:00",
+          "home_team": "Blackburn Rovers",
+          "away_team": "Hull City"
+        },
+        {
+          "date": "2026-01-31",
+          "time": "15:00",
+          "home_team": "Bristol City",
+          "away_team": "Derby County"
+        },
+        {
+          "date": "2026-01-31",
+          "time": "15:00",
+          "home_team": "Ipswich Town",
+          "away_team": "Preston North End"
+        },
+        {
+          "date": "2026-01-31",
+          "time": "15:00",
+          "home_team": "Leicester City",
+          "away_team": "Charlton Athletic"
+        },
+        {
+          "date": "2026-01-31",
+          "time": "15:00",
+          "home_team": "Middlesbrough FC",
+          "away_team": "Norwich City"
+        },
+        {
+          "date": "2026-01-31",
+          "time": "15:00",
+          "home_team": "Millwall FC",
+          "away_team": "Sheffield United"
+        },
+        {
+          "date": "2026-01-31",
+          "time": "15:00",
+          "home_team": "Oxford United",
+          "away_team": "Birmingham City"
+        },
+        {
+          "date": "2026-01-31",
+          "time": "15:00",
+          "home_team": "Portsmouth FC",
+          "away_team": "West Bromwich Albion"
+        },
+        {
+          "date": "2026-01-31",
+          "time": "15:00",
+          "home_team": "Queens Park Rangers",
+          "away_team": "Coventry City"
+        },
+        {
+          "date": "2026-01-31",
+          "time": "15:00",
+          "home_team": "Sheffield Wednesday",
+          "away_team": "Wrexham AFC"
+        },
+        {
+          "date": "2026-01-31",
+          "time": "15:00",
+          "home_team": "Stoke City",
+          "away_team": "Southampton FC"
+        },
+        {
+          "date": "2026-01-31",
+          "time": "15:00",
+          "home_team": "Watford FC",
+          "away_team": "Swansea City"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 31",
+      "matches": [
+        {
+          "date": "2026-02-07",
+          "time": "15:00",
+          "home_team": "Birmingham City",
+          "away_team": "Leicester City"
+        },
+        {
+          "date": "2026-02-07",
+          "time": "15:00",
+          "home_team": "Charlton Athletic",
+          "away_team": "Queens Park Rangers"
+        },
+        {
+          "date": "2026-02-07",
+          "time": "15:00",
+          "home_team": "Coventry City",
+          "away_team": "Oxford United"
+        },
+        {
+          "date": "2026-02-07",
+          "time": "15:00",
+          "home_team": "Derby County",
+          "away_team": "Ipswich Town"
+        },
+        {
+          "date": "2026-02-07",
+          "time": "15:00",
+          "home_team": "Hull City",
+          "away_team": "Bristol City"
+        },
+        {
+          "date": "2026-02-07",
+          "time": "15:00",
+          "home_team": "Norwich City",
+          "away_team": "Blackburn Rovers"
+        },
+        {
+          "date": "2026-02-07",
+          "time": "15:00",
+          "home_team": "Preston North End",
+          "away_team": "Portsmouth FC"
+        },
+        {
+          "date": "2026-02-07",
+          "time": "15:00",
+          "home_team": "Sheffield United",
+          "away_team": "Middlesbrough FC"
+        },
+        {
+          "date": "2026-02-07",
+          "time": "15:00",
+          "home_team": "Southampton FC",
+          "away_team": "Watford FC"
+        },
+        {
+          "date": "2026-02-07",
+          "time": "15:00",
+          "home_team": "Swansea City",
+          "away_team": "Sheffield Wednesday"
+        },
+        {
+          "date": "2026-02-07",
+          "time": "15:00",
+          "home_team": "West Bromwich Albion",
+          "away_team": "Stoke City"
+        },
+        {
+          "date": "2026-02-07",
+          "time": "15:00",
+          "home_team": "Wrexham AFC",
+          "away_team": "Millwall FC"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 32",
+      "matches": [
+        {
+          "date": "2026-02-14",
+          "time": "15:00",
+          "home_team": "Birmingham City",
+          "away_team": "West Bromwich Albion"
+        },
+        {
+          "date": "2026-02-14",
+          "time": "15:00",
+          "home_team": "Bristol City",
+          "away_team": "Wrexham AFC"
+        },
+        {
+          "date": "2026-02-14",
+          "time": "15:00",
+          "home_team": "Charlton Athletic",
+          "away_team": "Stoke City"
+        },
+        {
+          "date": "2026-02-14",
+          "time": "15:00",
+          "home_team": "Coventry City",
+          "away_team": "Middlesbrough FC"
+        },
+        {
+          "date": "2026-02-14",
+          "time": "15:00",
+          "home_team": "Derby County",
+          "away_team": "Swansea City"
+        },
+        {
+          "date": "2026-02-14",
+          "time": "15:00",
+          "home_team": "Ipswich Town",
+          "away_team": "Hull City"
+        },
+        {
+          "date": "2026-02-14",
+          "time": "15:00",
+          "home_team": "Leicester City",
+          "away_team": "Southampton FC"
+        },
+        {
+          "date": "2026-02-14",
+          "time": "15:00",
+          "home_team": "Oxford United",
+          "away_team": "Norwich City"
+        },
+        {
+          "date": "2026-02-14",
+          "time": "15:00",
+          "home_team": "Portsmouth FC",
+          "away_team": "Sheffield United"
+        },
+        {
+          "date": "2026-02-14",
+          "time": "15:00",
+          "home_team": "Preston North End",
+          "away_team": "Watford FC"
+        },
+        {
+          "date": "2026-02-14",
+          "time": "15:00",
+          "home_team": "Queens Park Rangers",
+          "away_team": "Blackburn Rovers"
+        },
+        {
+          "date": "2026-02-14",
+          "time": "15:00",
+          "home_team": "Sheffield Wednesday",
+          "away_team": "Millwall FC"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 33",
+      "matches": [
+        {
+          "date": "2026-02-21",
+          "time": "15:00",
+          "home_team": "Blackburn Rovers",
+          "away_team": "Preston North End"
+        },
+        {
+          "date": "2026-02-21",
+          "time": "15:00",
+          "home_team": "Hull City",
+          "away_team": "Queens Park Rangers"
+        },
+        {
+          "date": "2026-02-21",
+          "time": "15:00",
+          "home_team": "Middlesbrough FC",
+          "away_team": "Oxford United"
+        },
+        {
+          "date": "2026-02-21",
+          "time": "15:00",
+          "home_team": "Millwall FC",
+          "away_team": "Portsmouth FC"
+        },
+        {
+          "date": "2026-02-21",
+          "time": "15:00",
+          "home_team": "Norwich City",
+          "away_team": "Birmingham City"
+        },
+        {
+          "date": "2026-02-21",
+          "time": "15:00",
+          "home_team": "Sheffield United",
+          "away_team": "Sheffield Wednesday"
+        },
+        {
+          "date": "2026-02-21",
+          "time": "15:00",
+          "home_team": "Southampton FC",
+          "away_team": "Charlton Athletic"
+        },
+        {
+          "date": "2026-02-21",
+          "time": "15:00",
+          "home_team": "Stoke City",
+          "away_team": "Leicester City"
+        },
+        {
+          "date": "2026-02-21",
+          "time": "15:00",
+          "home_team": "Swansea City",
+          "away_team": "Bristol City"
+        },
+        {
+          "date": "2026-02-21",
+          "time": "15:00",
+          "home_team": "Watford FC",
+          "away_team": "Derby County"
+        },
+        {
+          "date": "2026-02-21",
+          "time": "15:00",
+          "home_team": "West Bromwich Albion",
+          "away_team": "Coventry City"
+        },
+        {
+          "date": "2026-02-21",
+          "time": "15:00",
+          "home_team": "Wrexham AFC",
+          "away_team": "Ipswich Town"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 34",
+      "matches": [
+        {
+          "date": "2026-02-24",
+          "time": "19:45",
+          "home_team": "Hull City",
+          "away_team": "Derby County"
+        },
+        {
+          "date": "2026-02-24",
+          "time": "19:45",
+          "home_team": "Middlesbrough FC",
+          "away_team": "Leicester City"
+        },
+        {
+          "date": "2026-02-24",
+          "time": "19:45",
+          "home_team": "Southampton FC",
+          "away_team": "Queens Park Rangers"
+        },
+        {
+          "date": "2026-02-24",
+          "time": "19:45",
+          "home_team": "Stoke City",
+          "away_team": "Oxford United"
+        },
+        {
+          "date": "2026-02-24",
+          "time": "19:45",
+          "home_team": "Swansea City",
+          "away_team": "Preston North End"
+        },
+        {
+          "date": "2026-02-24",
+          "time": "19:45",
+          "home_team": "Watford FC",
+          "away_team": "Ipswich Town"
+        },
+        {
+          "date": "2026-02-24",
+          "time": "19:45",
+          "home_team": "West Bromwich Albion",
+          "away_team": "Charlton Athletic"
+        },
+        {
+          "date": "2026-02-24",
+          "time": "19:45",
+          "home_team": "Wrexham AFC",
+          "away_team": "Portsmouth FC"
+        },
+        {
+          "date": "2026-02-25",
+          "time": "19:45",
+          "home_team": "Blackburn Rovers",
+          "away_team": "Bristol City"
+        },
+        {
+          "date": "2026-02-25",
+          "time": "19:45",
+          "home_team": "Millwall FC",
+          "away_team": "Birmingham City"
+        },
+        {
+          "date": "2026-02-25",
+          "time": "19:45",
+          "home_team": "Norwich City",
+          "away_team": "Sheffield Wednesday"
+        },
+        {
+          "date": "2026-02-25",
+          "time": "19:45",
+          "home_team": "Sheffield United",
+          "away_team": "Coventry City"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 35",
+      "matches": [
+        {
+          "date": "2026-02-28",
+          "time": "15:00",
+          "home_team": "Birmingham City",
+          "away_team": "Middlesbrough FC"
+        },
+        {
+          "date": "2026-02-28",
+          "time": "15:00",
+          "home_team": "Bristol City",
+          "away_team": "Watford FC"
+        },
+        {
+          "date": "2026-02-28",
+          "time": "15:00",
+          "home_team": "Charlton Athletic",
+          "away_team": "Wrexham AFC"
+        },
+        {
+          "date": "2026-02-28",
+          "time": "15:00",
+          "home_team": "Coventry City",
+          "away_team": "Stoke City"
+        },
+        {
+          "date": "2026-02-28",
+          "time": "15:00",
+          "home_team": "Derby County",
+          "away_team": "Blackburn Rovers"
+        },
+        {
+          "date": "2026-02-28",
+          "time": "15:00",
+          "home_team": "Ipswich Town",
+          "away_team": "Swansea City"
+        },
+        {
+          "date": "2026-02-28",
+          "time": "15:00",
+          "home_team": "Leicester City",
+          "away_team": "Norwich City"
+        },
+        {
+          "date": "2026-02-28",
+          "time": "15:00",
+          "home_team": "Oxford United",
+          "away_team": "West Bromwich Albion"
+        },
+        {
+          "date": "2026-02-28",
+          "time": "15:00",
+          "home_team": "Portsmouth FC",
+          "away_team": "Hull City"
+        },
+        {
+          "date": "2026-02-28",
+          "time": "15:00",
+          "home_team": "Preston North End",
+          "away_team": "Millwall FC"
+        },
+        {
+          "date": "2026-02-28",
+          "time": "15:00",
+          "home_team": "Queens Park Rangers",
+          "away_team": "Sheffield United"
+        },
+        {
+          "date": "2026-02-28",
+          "time": "15:00",
+          "home_team": "Sheffield Wednesday",
+          "away_team": "Southampton FC"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 36",
+      "matches": [
+        {
+          "date": "2026-03-07",
+          "time": "15:00",
+          "home_team": "Blackburn Rovers",
+          "away_team": "Portsmouth FC"
+        },
+        {
+          "date": "2026-03-07",
+          "time": "15:00",
+          "home_team": "Bristol City",
+          "away_team": "Coventry City"
+        },
+        {
+          "date": "2026-03-07",
+          "time": "15:00",
+          "home_team": "Charlton Athletic",
+          "away_team": "Birmingham City"
+        },
+        {
+          "date": "2026-03-07",
+          "time": "15:00",
+          "home_team": "Derby County",
+          "away_team": "Sheffield Wednesday"
+        },
+        {
+          "date": "2026-03-07",
+          "time": "15:00",
+          "home_team": "Hull City",
+          "away_team": "Millwall FC"
+        },
+        {
+          "date": "2026-03-07",
+          "time": "15:00",
+          "home_team": "Ipswich Town",
+          "away_team": "Leicester City"
+        },
+        {
+          "date": "2026-03-07",
+          "time": "15:00",
+          "home_team": "Preston North End",
+          "away_team": "Oxford United"
+        },
+        {
+          "date": "2026-03-07",
+          "time": "15:00",
+          "home_team": "Queens Park Rangers",
+          "away_team": "Middlesbrough FC"
+        },
+        {
+          "date": "2026-03-07",
+          "time": "15:00",
+          "home_team": "Sheffield United",
+          "away_team": "West Bromwich Albion"
+        },
+        {
+          "date": "2026-03-07",
+          "time": "15:00",
+          "home_team": "Southampton FC",
+          "away_team": "Norwich City"
+        },
+        {
+          "date": "2026-03-07",
+          "time": "15:00",
+          "home_team": "Swansea City",
+          "away_team": "Stoke City"
+        },
+        {
+          "date": "2026-03-07",
+          "time": "15:00",
+          "home_team": "Watford FC",
+          "away_team": "Wrexham AFC"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 37",
+      "matches": [
+        {
+          "date": "2026-03-10",
+          "time": "19:45",
+          "home_team": "Birmingham City",
+          "away_team": "Queens Park Rangers"
+        },
+        {
+          "date": "2026-03-10",
+          "time": "19:45",
+          "home_team": "Leicester City",
+          "away_team": "Bristol City"
+        },
+        {
+          "date": "2026-03-10",
+          "time": "19:45",
+          "home_team": "Millwall FC",
+          "away_team": "Derby County"
+        },
+        {
+          "date": "2026-03-10",
+          "time": "19:45",
+          "home_team": "Norwich City",
+          "away_team": "Sheffield United"
+        },
+        {
+          "date": "2026-03-10",
+          "time": "19:45",
+          "home_team": "Portsmouth FC",
+          "away_team": "Swansea City"
+        },
+        {
+          "date": "2026-03-10",
+          "time": "19:45",
+          "home_team": "Sheffield Wednesday",
+          "away_team": "Watford FC"
+        },
+        {
+          "date": "2026-03-10",
+          "time": "19:45",
+          "home_team": "Stoke City",
+          "away_team": "Ipswich Town"
+        },
+        {
+          "date": "2026-03-10",
+          "time": "19:45",
+          "home_team": "Wrexham AFC",
+          "away_team": "Hull City"
+        },
+        {
+          "date": "2026-03-11",
+          "time": "19:45",
+          "home_team": "Coventry City",
+          "away_team": "Preston North End"
+        },
+        {
+          "date": "2026-03-11",
+          "time": "19:45",
+          "home_team": "Middlesbrough FC",
+          "away_team": "Charlton Athletic"
+        },
+        {
+          "date": "2026-03-11",
+          "time": "19:45",
+          "home_team": "Oxford United",
+          "away_team": "Blackburn Rovers"
+        },
+        {
+          "date": "2026-03-11",
+          "time": "19:45",
+          "home_team": "West Bromwich Albion",
+          "away_team": "Southampton FC"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 38",
+      "matches": [
+        {
+          "date": "2026-03-14",
+          "time": "15:00",
+          "home_team": "Birmingham City",
+          "away_team": "Sheffield United"
+        },
+        {
+          "date": "2026-03-14",
+          "time": "15:00",
+          "home_team": "Coventry City",
+          "away_team": "Southampton FC"
+        },
+        {
+          "date": "2026-03-14",
+          "time": "15:00",
+          "home_team": "Leicester City",
+          "away_team": "Queens Park Rangers"
+        },
+        {
+          "date": "2026-03-14",
+          "time": "15:00",
+          "home_team": "Middlesbrough FC",
+          "away_team": "Bristol City"
+        },
+        {
+          "date": "2026-03-14",
+          "time": "15:00",
+          "home_team": "Millwall FC",
+          "away_team": "Blackburn Rovers"
+        },
+        {
+          "date": "2026-03-14",
+          "time": "15:00",
+          "home_team": "Norwich City",
+          "away_team": "Preston North End"
+        },
+        {
+          "date": "2026-03-14",
+          "time": "15:00",
+          "home_team": "Oxford United",
+          "away_team": "Charlton Athletic"
+        },
+        {
+          "date": "2026-03-14",
+          "time": "15:00",
+          "home_team": "Portsmouth FC",
+          "away_team": "Derby County"
+        },
+        {
+          "date": "2026-03-14",
+          "time": "15:00",
+          "home_team": "Sheffield Wednesday",
+          "away_team": "Ipswich Town"
+        },
+        {
+          "date": "2026-03-14",
+          "time": "15:00",
+          "home_team": "Stoke City",
+          "away_team": "Watford FC"
+        },
+        {
+          "date": "2026-03-14",
+          "time": "15:00",
+          "home_team": "West Bromwich Albion",
+          "away_team": "Hull City"
+        },
+        {
+          "date": "2026-03-14",
+          "time": "15:00",
+          "home_team": "Wrexham AFC",
+          "away_team": "Swansea City"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 39",
+      "matches": [
+        {
+          "date": "2026-03-21",
+          "time": "15:00",
+          "home_team": "Blackburn Rovers",
+          "away_team": "Middlesbrough FC"
+        },
+        {
+          "date": "2026-03-21",
+          "time": "15:00",
+          "home_team": "Bristol City",
+          "away_team": "West Bromwich Albion"
+        },
+        {
+          "date": "2026-03-21",
+          "time": "15:00",
+          "home_team": "Charlton Athletic",
+          "away_team": "Norwich City"
+        },
+        {
+          "date": "2026-03-21",
+          "time": "15:00",
+          "home_team": "Derby County",
+          "away_team": "Birmingham City"
+        },
+        {
+          "date": "2026-03-21",
+          "time": "15:00",
+          "home_team": "Hull City",
+          "away_team": "Sheffield Wednesday"
+        },
+        {
+          "date": "2026-03-21",
+          "time": "15:00",
+          "home_team": "Ipswich Town",
+          "away_team": "Millwall FC"
+        },
+        {
+          "date": "2026-03-21",
+          "time": "15:00",
+          "home_team": "Preston North End",
+          "away_team": "Stoke City"
+        },
+        {
+          "date": "2026-03-21",
+          "time": "15:00",
+          "home_team": "Queens Park Rangers",
+          "away_team": "Portsmouth FC"
+        },
+        {
+          "date": "2026-03-21",
+          "time": "15:00",
+          "home_team": "Sheffield United",
+          "away_team": "Wrexham AFC"
+        },
+        {
+          "date": "2026-03-21",
+          "time": "15:00",
+          "home_team": "Southampton FC",
+          "away_team": "Oxford United"
+        },
+        {
+          "date": "2026-03-21",
+          "time": "15:00",
+          "home_team": "Swansea City",
+          "away_team": "Coventry City"
+        },
+        {
+          "date": "2026-03-21",
+          "time": "15:00",
+          "home_team": "Watford FC",
+          "away_team": "Leicester City"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 40",
+      "matches": [
+        {
+          "date": "2026-04-03",
+          "time": "15:00",
+          "home_team": "Birmingham City",
+          "away_team": "Blackburn Rovers"
+        },
+        {
+          "date": "2026-04-03",
+          "time": "15:00",
+          "home_team": "Charlton Athletic",
+          "away_team": "Bristol City"
+        },
+        {
+          "date": "2026-04-03",
+          "time": "15:00",
+          "home_team": "Coventry City",
+          "away_team": "Derby County"
+        },
+        {
+          "date": "2026-04-03",
+          "time": "15:00",
+          "home_team": "Leicester City",
+          "away_team": "Preston North End"
+        },
+        {
+          "date": "2026-04-03",
+          "time": "15:00",
+          "home_team": "Middlesbrough FC",
+          "away_team": "Millwall FC"
+        },
+        {
+          "date": "2026-04-03",
+          "time": "15:00",
+          "home_team": "Norwich City",
+          "away_team": "Portsmouth FC"
+        },
+        {
+          "date": "2026-04-03",
+          "time": "15:00",
+          "home_team": "Oxford United",
+          "away_team": "Hull City"
+        },
+        {
+          "date": "2026-04-03",
+          "time": "15:00",
+          "home_team": "Queens Park Rangers",
+          "away_team": "Watford FC"
+        },
+        {
+          "date": "2026-04-03",
+          "time": "15:00",
+          "home_team": "Sheffield United",
+          "away_team": "Swansea City"
+        },
+        {
+          "date": "2026-04-03",
+          "time": "15:00",
+          "home_team": "Southampton FC",
+          "away_team": "Ipswich Town"
+        },
+        {
+          "date": "2026-04-03",
+          "time": "15:00",
+          "home_team": "Stoke City",
+          "away_team": "Sheffield Wednesday"
+        },
+        {
+          "date": "2026-04-03",
+          "time": "15:00",
+          "home_team": "West Bromwich Albion",
+          "away_team": "Wrexham AFC"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 41",
+      "matches": [
+        {
+          "date": "2026-04-06",
+          "time": "15:00",
+          "home_team": "Blackburn Rovers",
+          "away_team": "West Bromwich Albion"
+        },
+        {
+          "date": "2026-04-06",
+          "time": "15:00",
+          "home_team": "Bristol City",
+          "away_team": "Sheffield United"
+        },
+        {
+          "date": "2026-04-06",
+          "time": "15:00",
+          "home_team": "Derby County",
+          "away_team": "Stoke City"
+        },
+        {
+          "date": "2026-04-06",
+          "time": "15:00",
+          "home_team": "Hull City",
+          "away_team": "Coventry City"
+        },
+        {
+          "date": "2026-04-06",
+          "time": "15:00",
+          "home_team": "Ipswich Town",
+          "away_team": "Birmingham City"
+        },
+        {
+          "date": "2026-04-06",
+          "time": "15:00",
+          "home_team": "Millwall FC",
+          "away_team": "Norwich City"
+        },
+        {
+          "date": "2026-04-06",
+          "time": "15:00",
+          "home_team": "Portsmouth FC",
+          "away_team": "Oxford United"
+        },
+        {
+          "date": "2026-04-06",
+          "time": "15:00",
+          "home_team": "Preston North End",
+          "away_team": "Queens Park Rangers"
+        },
+        {
+          "date": "2026-04-06",
+          "time": "15:00",
+          "home_team": "Sheffield Wednesday",
+          "away_team": "Leicester City"
+        },
+        {
+          "date": "2026-04-06",
+          "time": "15:00",
+          "home_team": "Swansea City",
+          "away_team": "Middlesbrough FC"
+        },
+        {
+          "date": "2026-04-06",
+          "time": "15:00",
+          "home_team": "Watford FC",
+          "away_team": "Charlton Athletic"
+        },
+        {
+          "date": "2026-04-06",
+          "time": "15:00",
+          "home_team": "Wrexham AFC",
+          "away_team": "Southampton FC"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 42",
+      "matches": [
+        {
+          "date": "2026-04-11",
+          "time": "15:00",
+          "home_team": "Birmingham City",
+          "away_team": "Wrexham AFC"
+        },
+        {
+          "date": "2026-04-11",
+          "time": "15:00",
+          "home_team": "Charlton Athletic",
+          "away_team": "Preston North End"
+        },
+        {
+          "date": "2026-04-11",
+          "time": "15:00",
+          "home_team": "Coventry City",
+          "away_team": "Sheffield Wednesday"
+        },
+        {
+          "date": "2026-04-11",
+          "time": "15:00",
+          "home_team": "Leicester City",
+          "away_team": "Swansea City"
+        },
+        {
+          "date": "2026-04-11",
+          "time": "15:00",
+          "home_team": "Middlesbrough FC",
+          "away_team": "Portsmouth FC"
+        },
+        {
+          "date": "2026-04-11",
+          "time": "15:00",
+          "home_team": "Norwich City",
+          "away_team": "Ipswich Town"
+        },
+        {
+          "date": "2026-04-11",
+          "time": "15:00",
+          "home_team": "Oxford United",
+          "away_team": "Watford FC"
+        },
+        {
+          "date": "2026-04-11",
+          "time": "15:00",
+          "home_team": "Queens Park Rangers",
+          "away_team": "Bristol City"
+        },
+        {
+          "date": "2026-04-11",
+          "time": "15:00",
+          "home_team": "Sheffield United",
+          "away_team": "Hull City"
+        },
+        {
+          "date": "2026-04-11",
+          "time": "15:00",
+          "home_team": "Southampton FC",
+          "away_team": "Derby County"
+        },
+        {
+          "date": "2026-04-11",
+          "time": "15:00",
+          "home_team": "Stoke City",
+          "away_team": "Blackburn Rovers"
+        },
+        {
+          "date": "2026-04-11",
+          "time": "15:00",
+          "home_team": "West Bromwich Albion",
+          "away_team": "Millwall FC"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 43",
+      "matches": [
+        {
+          "date": "2026-04-18",
+          "time": "15:00",
+          "home_team": "Blackburn Rovers",
+          "away_team": "Coventry City"
+        },
+        {
+          "date": "2026-04-18",
+          "time": "15:00",
+          "home_team": "Bristol City",
+          "away_team": "Norwich City"
+        },
+        {
+          "date": "2026-04-18",
+          "time": "15:00",
+          "home_team": "Derby County",
+          "away_team": "Oxford United"
+        },
+        {
+          "date": "2026-04-18",
+          "time": "15:00",
+          "home_team": "Hull City",
+          "away_team": "Birmingham City"
+        },
+        {
+          "date": "2026-04-18",
+          "time": "15:00",
+          "home_team": "Ipswich Town",
+          "away_team": "Middlesbrough FC"
+        },
+        {
+          "date": "2026-04-18",
+          "time": "15:00",
+          "home_team": "Millwall FC",
+          "away_team": "Queens Park Rangers"
+        },
+        {
+          "date": "2026-04-18",
+          "time": "15:00",
+          "home_team": "Portsmouth FC",
+          "away_team": "Leicester City"
+        },
+        {
+          "date": "2026-04-18",
+          "time": "15:00",
+          "home_team": "Preston North End",
+          "away_team": "West Bromwich Albion"
+        },
+        {
+          "date": "2026-04-18",
+          "time": "15:00",
+          "home_team": "Sheffield Wednesday",
+          "away_team": "Charlton Athletic"
+        },
+        {
+          "date": "2026-04-18",
+          "time": "15:00",
+          "home_team": "Swansea City",
+          "away_team": "Southampton FC"
+        },
+        {
+          "date": "2026-04-18",
+          "time": "15:00",
+          "home_team": "Watford FC",
+          "away_team": "Sheffield United"
+        },
+        {
+          "date": "2026-04-18",
+          "time": "15:00",
+          "home_team": "Wrexham AFC",
+          "away_team": "Stoke City"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 44",
+      "matches": [
+        {
+          "date": "2026-04-21",
+          "time": "19:45",
+          "home_team": "Coventry City",
+          "away_team": "Portsmouth FC"
+        },
+        {
+          "date": "2026-04-21",
+          "time": "19:45",
+          "home_team": "Middlesbrough FC",
+          "away_team": "Sheffield Wednesday"
+        },
+        {
+          "date": "2026-04-21",
+          "time": "19:45",
+          "home_team": "Norwich City",
+          "away_team": "Derby County"
+        },
+        {
+          "date": "2026-04-21",
+          "time": "19:45",
+          "home_team": "Oxford United",
+          "away_team": "Wrexham AFC"
+        },
+        {
+          "date": "2026-04-21",
+          "time": "19:45",
+          "home_team": "Queens Park Rangers",
+          "away_team": "Swansea City"
+        },
+        {
+          "date": "2026-04-21",
+          "time": "19:45",
+          "home_team": "Southampton FC",
+          "away_team": "Bristol City"
+        },
+        {
+          "date": "2026-04-21",
+          "time": "19:45",
+          "home_team": "Stoke City",
+          "away_team": "Millwall FC"
+        },
+        {
+          "date": "2026-04-21",
+          "time": "19:45",
+          "home_team": "West Bromwich Albion",
+          "away_team": "Watford FC"
+        },
+        {
+          "date": "2026-04-22",
+          "time": "19:45",
+          "home_team": "Birmingham City",
+          "away_team": "Preston North End"
+        },
+        {
+          "date": "2026-04-22",
+          "time": "19:45",
+          "home_team": "Charlton Athletic",
+          "away_team": "Ipswich Town"
+        },
+        {
+          "date": "2026-04-22",
+          "time": "19:45",
+          "home_team": "Leicester City",
+          "away_team": "Hull City"
+        },
+        {
+          "date": "2026-04-22",
+          "time": "19:45",
+          "home_team": "Sheffield United",
+          "away_team": "Blackburn Rovers"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 45",
+      "matches": [
+        {
+          "date": "2026-04-25",
+          "time": "15:00",
+          "home_team": "Birmingham City",
+          "away_team": "Bristol City"
+        },
+        {
+          "date": "2026-04-25",
+          "time": "15:00",
+          "home_team": "Charlton Athletic",
+          "away_team": "Hull City"
+        },
+        {
+          "date": "2026-04-25",
+          "time": "15:00",
+          "home_team": "Coventry City",
+          "away_team": "Wrexham AFC"
+        },
+        {
+          "date": "2026-04-25",
+          "time": "15:00",
+          "home_team": "Leicester City",
+          "away_team": "Millwall FC"
+        },
+        {
+          "date": "2026-04-25",
+          "time": "15:00",
+          "home_team": "Middlesbrough FC",
+          "away_team": "Watford FC"
+        },
+        {
+          "date": "2026-04-25",
+          "time": "15:00",
+          "home_team": "Norwich City",
+          "away_team": "Swansea City"
+        },
+        {
+          "date": "2026-04-25",
+          "time": "15:00",
+          "home_team": "Oxford United",
+          "away_team": "Sheffield Wednesday"
+        },
+        {
+          "date": "2026-04-25",
+          "time": "15:00",
+          "home_team": "Queens Park Rangers",
+          "away_team": "Derby County"
+        },
+        {
+          "date": "2026-04-25",
+          "time": "15:00",
+          "home_team": "Sheffield United",
+          "away_team": "Preston North End"
+        },
+        {
+          "date": "2026-04-25",
+          "time": "15:00",
+          "home_team": "Southampton FC",
+          "away_team": "Blackburn Rovers"
+        },
+        {
+          "date": "2026-04-25",
+          "time": "15:00",
+          "home_team": "Stoke City",
+          "away_team": "Portsmouth FC"
+        },
+        {
+          "date": "2026-04-25",
+          "time": "15:00",
+          "home_team": "West Bromwich Albion",
+          "away_team": "Ipswich Town"
+        }
+      ]
+    },
+    {
+      "matchday": "Matchday 46",
+      "matches": [
+        {
+          "date": "2026-05-02",
+          "time": "12:30",
+          "home_team": "Blackburn Rovers",
+          "away_team": "Leicester City"
+        },
+        {
+          "date": "2026-05-02",
+          "time": "12:30",
+          "home_team": "Bristol City",
+          "away_team": "Stoke City"
+        },
+        {
+          "date": "2026-05-02",
+          "time": "12:30",
+          "home_team": "Derby County",
+          "away_team": "Sheffield United"
+        },
+        {
+          "date": "2026-05-02",
+          "time": "12:30",
+          "home_team": "Hull City",
+          "away_team": "Norwich City"
+        },
+        {
+          "date": "2026-05-02",
+          "time": "12:30",
+          "home_team": "Ipswich Town",
+          "away_team": "Queens Park Rangers"
+        },
+        {
+          "date": "2026-05-02",
+          "time": "12:30",
+          "home_team": "Millwall FC",
+          "away_team": "Oxford United"
+        },
+        {
+          "date": "2026-05-02",
+          "time": "12:30",
+          "home_team": "Portsmouth FC",
+          "away_team": "Birmingham City"
+        },
+        {
+          "date": "2026-05-02",
+          "time": "12:30",
+          "home_team": "Preston North End",
+          "away_team": "Southampton FC"
+        },
+        {
+          "date": "2026-05-02",
+          "time": "12:30",
+          "home_team": "Sheffield Wednesday",
+          "away_team": "West Bromwich Albion"
+        },
+        {
+          "date": "2026-05-02",
+          "time": "12:30",
+          "home_team": "Swansea City",
+          "away_team": "Charlton Athletic"
+        },
+        {
+          "date": "2026-05-02",
+          "time": "12:30",
+          "home_team": "Watford FC",
+          "away_team": "Coventry City"
+        },
+        {
+          "date": "2026-05-02",
+          "time": "12:30",
+          "home_team": "Wrexham AFC",
+          "away_team": "Middlesbrough FC"
+        }
+      ]
+    }
+  ]
+}
